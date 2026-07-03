@@ -60,6 +60,9 @@ jobs:
         working-directory: coptic-antonios-unicode
         run: |
           npm ci --ignore-scripts
+          npm pkg set repository.type=git
+          npm pkg set repository.url="https://github.com/tonymelek/coptic-tools"
+          npm pkg set repository.directory="coptic-antonios-unicode"
           npm run build
           npm publish --access public --provenance --ignore-scripts
 
@@ -102,5 +105,8 @@ jobs:
         working-directory: coptic-pronounce
         run: |
           npm ci --ignore-scripts
+          npm pkg set repository.type=git
+          npm pkg set repository.url="https://github.com/tonymelek/coptic-tools"
+          npm pkg set repository.directory="coptic-pronounce"
           npm run build
           npm publish --access public --provenance --ignore-scripts

@@ -33,7 +33,7 @@
   "homepage": "https://www.npmjs.com/package/coptic-pronounce",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tonymelek/coptic-tools.git",
+    "url": "https://github.com/tonymelek/coptic-tools",
     "directory": "coptic-pronounce"
   },
   "bugs": {
