@@ -16,10 +16,6 @@ on:
     tags:
       - v*
 
-permissions:
-  contents: read
-  id-token: write
-
 jobs:
   publish-antonios:
     if: >-
@@ -60,11 +56,8 @@ jobs:
         working-directory: coptic-antonios-unicode
         run: |
           npm ci --ignore-scripts
-          npm pkg set repository.type=git
-          npm pkg set repository.url="https://github.com/tonymelek/coptic-tools"
-          npm pkg set repository.directory="coptic-antonios-unicode"
           npm run build
-          npm publish --access public --provenance --ignore-scripts
+          npm publish --access public --ignore-scripts
 
   publish-pronounce:
     if: >-
@@ -105,8 +98,5 @@ jobs:
         working-directory: coptic-pronounce
         run: |
           npm ci --ignore-scripts
-          npm pkg set repository.type=git
-          npm pkg set repository.url="https://github.com/tonymelek/coptic-tools"
-          npm pkg set repository.directory="coptic-pronounce"
           npm run build
-          npm publish --access public --provenance --ignore-scripts
+          npm publish --access public --ignore-scripts
