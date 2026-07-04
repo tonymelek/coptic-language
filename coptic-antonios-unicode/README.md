@@ -4,7 +4,7 @@
 
 Convert text encoded in the **Antonios** Coptic font (Latin keyboard layout) to **Coptic Unicode**.
 
-Dictionary PDFs and legacy Coptic texts often use custom fonts where Latin letters stand in for Coptic characters — for example `;Ele;/con` instead of `ⲑⲉⲗⲉⲑ/ⲥⲟⲛ`. This package maps those characters using the Antonios font table.
+Dictionary PDFs and legacy Coptic texts often used custom fonts where Latin letters stand in for Coptic characters — for example `amyn` instead of `ⲁⲙⲏⲛ`. This package maps those characters using the Antonios font table.
 
 Unmapped characters (spaces, slashes, hyphens, digits, etc.) are left unchanged.
 
@@ -23,9 +23,9 @@ npm install coptic-antonios-unicode
 ```js
 const { toUnicode } = require('coptic-antonios-unicode');
 
-const latin = ';Ele;/con';
-console.log(toUnicode(latin));
-// ⲑⲈⲗⲉⲑ/ⲥⲟⲛ
+const antoniosFontText = 'amyn';
+console.log(toUnicode(antoniosFontText));
+// ⲁⲙⲏⲛ
 ```
 
 ### ES modules
@@ -33,9 +33,9 @@ console.log(toUnicode(latin));
 ```js
 import { toUnicode } from 'coptic-antonios-unicode';
 
-const headword = 'P,oic';
-console.log(toUnicode(headword));
-// Ⲡⲭⲟⲓⲥ
+const antoniosFontText = 'Taisoury';
+console.log(toUnicode(antoniosFontText));
+// Ⲧⲁⲓϣⲟⲩⲣⲏ
 ```
 
 ### Empty or missing input
@@ -65,25 +65,11 @@ Types are included — no `@types` package needed.
 ```ts
 import { toUnicode } from 'coptic-antonios-unicode';
 
-const coptic: string = toUnicode('P,oic');
+const coptic: string = toUnicode('Taisoury');
+// Ⲧⲁⲓϣⲟⲩⲣⲏ
 ```
 
 Works with `moduleResolution: "node16"`, `"nodenext"`, or `"bundler"`.
-
-## Typical workflow
-
-Often used together with [coptic-pronounce](https://www.npmjs.com/package/coptic-pronounce) to get readable transliteration:
-
-```js
-import { toUnicode } from 'coptic-antonios-unicode';
-import { pronounce } from 'coptic-pronounce';
-
-const latin = 'P,oic';
-const coptic = toUnicode(latin);
-
-console.log(coptic);                  // Ⲡⲭⲟⲓⲥ
-console.log(pronounce(coptic, 'en')); // Pkhois
-```
 
 ## License
 
