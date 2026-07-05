@@ -8,7 +8,7 @@ const distDir = path.join(rootDir, 'dist')
 
 const FEEDBACK_API = 'https://coptic-psalmody.web.app/api/submitFeedback'
 
-const [, repoName = 'coptic-tools'] = (process.env.GITHUB_REPOSITORY ?? 'tonymelek/coptic-tools').split('/')
+const [, repoName = 'coptic-language'] = (process.env.GITHUB_REPOSITORY ?? 'tonymelek/coptic-language').split('/')
 const isUserPages = repoName.endsWith('.github.io')
 const pagesBase = isUserPages ? '/' : `/${repoName}/`
 const deployBase = `${pagesBase}app/`.replace(/\/{2,}/g, '/')
