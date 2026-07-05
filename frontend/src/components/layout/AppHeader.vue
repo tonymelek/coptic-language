@@ -1,5 +1,5 @@
 <script setup>
-import { ref, watch } from 'vue'
+import { ref, watch, computed } from 'vue'
 import { RouterLink, useRoute } from 'vue-router'
 import { tools } from '../../config/tools.js'
 
@@ -18,12 +18,15 @@ function toggleMenu() {
 watch(() => route.path, () => {
   menuOpen.value = false
 })
+const homePage = computed(() => {
+  return window.location.href.replace(/\/app.*$/, '')
+})
 </script>
 
 <template>
   <header class="bg-burgundy-900 border-b-4 border-gold sticky top-0 z-50 shadow-md">
     <nav class="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between gap-4 relative">
-      <a href="/" class="flex items-center gap-2 sm:gap-2.5 text-base sm:text-lg font-bold tracking-tight text-gold hover:text-white transition shrink-0 no-underline">
+      <a :href="homePage" class="flex items-center gap-2 sm:gap-2.5 text-base sm:text-lg font-bold tracking-tight text-gold hover:text-white transition shrink-0 no-underline">
         <img :src="logoSrc" alt="" class="h-8 w-8 sm:h-9 sm:w-9 shrink-0" width="36" height="36" decoding="async" />
         <span>COPTIC LANGUAGE</span>
       </a>
