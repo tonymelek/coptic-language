@@ -1,0 +1,459 @@
+[
+  {
+    "headword": "erexetazin",
+    "copticWord": "ⲉⲣⲉⲝⲉⲧⲁⲍⲓⲛ",
+    "englishTransliteration": "ereksetazin",
+    "reference": "Gk",
+    "isGreek": true
+  },
+  {
+    "headword": "To examin",
+    "copticWord": "Ⲧⲟ ⲉⲝⲁⲙⲓⲛ",
+    "englishTransliteration": "To eksamin",
+    "variants": [
+      {
+        "word": "approve",
+        "copticWord": "ⲁⲡⲡⲣⲟⲫⲉ",
+        "englishTransliteration": "approfe"
+      },
+      {
+        "word": "prove by scrutiny. erepiyumin v. epiyumia - To desire. eretin",
+        "copticWord": "ⲡⲣⲟⲫⲉ ⲃⲑ ϣⲥⲣⲩⲧⲓⲛⲑ. ⲉⲣⲉⲡⲓⲑⲩⲙⲓⲛ ⲫ. ⲉⲡⲓⲑⲩⲙⲓⲁ - Ⲧⲟ ⲇⲉϣⲓⲣⲉ. ⲉⲣⲉⲧⲓⲛ",
+        "englishTransliteration": "profe vth shsrytinth. erepithymin f. epithymia - To deshire. eretin"
+      }
+    ],
+    "reference": "Gk",
+    "isGreek": true
+  },
+  {
+    "headword": "vb. To ask",
+    "copticWord": "ⲫⲃ. Ⲧⲟ ⲁϣⲕ",
+    "englishTransliteration": "fv. To ashk",
+    "variants": [
+      {
+        "word": "plead",
+        "copticWord": "ⲡⲗⲉⲁⲇ",
+        "englishTransliteration": "plead"
+      },
+      {
+        "word": "beg",
+        "copticWord": "ⲃⲉⲅ",
+        "englishTransliteration": "veg"
+      },
+      {
+        "word": "beseech. eretikoc v. heretikoc - Heretic. er/t",
+        "copticWord": "ⲃⲉϣⲉⲉⲥϩ. ⲉⲣⲉⲧⲓⲕⲟⲥ ⲫ. ϩⲉⲣⲉⲧⲓⲕⲟⲥ - Ϩⲉⲣⲉⲧⲓⲥ. ⲉⲣⲏⲧ",
+        "englishTransliteration": "vesheesh. eretikos f. heretikos - Heretis. erit"
+      },
+      {
+        "word": "r/t",
+        "copticWord": "ⲣⲏⲧ",
+        "englishTransliteration": "rit"
+      }
+    ],
+    "reference": "58a",
+    "gloss": "vt. To vow, promise, devote",
+    "definition": "---: m. Vow. promise. er/ou: (59a); mf. mostly with possessive prfx. and agreeing in gender and mostly in number with the subject of the clause; fellow, companion; hence an expression of reciprocity--each other, together, mutually ... etc. eryewrin v. yewria - To see. erkay/kin v. kat/,oumen/ - To instruct. erensasi v. ensasi - To be bitter."
+  },
+  {
+    "headword": "epivaneia",
+    "copticWord": "ⲉⲡⲓⲫⲁⲛⲉⲓⲁ",
+    "englishTransliteration": "epifania",
+    "variants": [
+      {
+        "word": "-ioc",
+        "copticWord": "-ⲓⲟⲥ",
+        "englishTransliteration": "-ios"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "gloss": "Appearance, manifestation, advent, Epiphany (the feast of the Lord's Baptism.)",
+    "definition": "Appearance, manifestation, advent, Epiphany (the feast of the Lord's Baptism.)"
+  },
+  {
+    "headword": "epivanioc",
+    "copticWord": "ⲉⲡⲓⲫⲁⲛⲓⲟⲥ",
+    "englishTransliteration": "epifanios",
+    "gloss": "Epiphany. eprwsi v. rwsi - Sufficiently. epouei v. ouei - To a distance. epouranion v. epouranioc - Heavenly. epouranioc, -on: (Gk)",
+    "definition": "adj. Heavenly.",
+    "crossReference": {
+      "target": "epivaneia",
+      "gloss": "Epiphany. eprwsi v. rwsi - Sufficiently. epouei v. ouei - To a distance. epouranion v. epouranioc - Heavenly. epouranioc, -on: (Gk)"
+    }
+  },
+  {
+    "headword": "epwmic",
+    "copticWord": "ⲉⲡⲱⲙⲓⲥ",
+    "englishTransliteration": "epōmis",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Part of the woman tunic that was fastened on the shoulder by brooches, shoulder-strap",
+    "definition": "i.e. dress, garment."
+  },
+  {
+    "headword": "epsemmo",
+    "copticWord": "ⲉⲡϣⲉⲙⲙⲟ",
+    "englishTransliteration": "epshemmo",
+    "gloss": "Abroad",
+    "definition": "Abroad",
+    "crossReference": {
+      "target": "semmo",
+      "gloss": "Abroad"
+    }
+  },
+  {
+    "headword": "epsi",
+    "copticWord": "ⲉⲡϣⲓ",
+    "englishTransliteration": "epshi",
+    "gloss": "Sleep",
+    "definition": "Sleep",
+    "crossReference": {
+      "target": "wbs",
+      "gloss": "Sleep"
+    }
+  },
+  {
+    "headword": "epj/",
+    "copticWord": "ⲉⲡϫⲏ",
+    "englishTransliteration": "epji",
+    "gloss": "In vain",
+    "definition": "In vain",
+    "crossReference": {
+      "target": "j/",
+      "gloss": "In vain"
+    }
+  },
+  {
+    "headword": "er",
+    "copticWord": "ⲉⲣ",
+    "englishTransliteration": "er",
+    "gloss": "To do",
+    "definition": "To do",
+    "crossReference": {
+      "target": "iri",
+      "gloss": "To do"
+    }
+  },
+  {
+    "headword": "eragapan",
+    "copticWord": "ⲉⲣⲁⲅⲁⲡⲁⲛ",
+    "englishTransliteration": "eragapan",
+    "gloss": "To love",
+    "definition": "To love",
+    "crossReference": {
+      "target": "agap/",
+      "gloss": "To love"
+    }
+  },
+  {
+    "headword": "erkat/,in",
+    "copticWord": "ⲉⲣⲕⲁⲧⲏⲭⲓⲛ",
+    "englishTransliteration": "erkatikhin",
+    "gloss": "To in-struct",
+    "definition": "To in-struct",
+    "crossReference": {
+      "target": "kat/,oumen/",
+      "gloss": "To in-struct"
+    }
+  },
+  {
+    "headword": "eragwn/zecye",
+    "copticWord": "ⲉⲣⲁⲅⲱⲛⲏⲍⲉⲥⲑⲉ",
+    "englishTransliteration": "eragōnizesthe",
+    "gloss": "To struggle. eragwnizecye v. agwn - To struggle. erayetin v. ayetin - To disregard. erane,ecye: (Gk)",
+    "definition": "vb. To bear, withstand.",
+    "crossReference": {
+      "target": "agwn",
+      "gloss": "To struggle. eragwnizecye v. agwn - To struggle. erayetin v. ayetin - To disregard. erane,ecye: (Gk)"
+    }
+  },
+  {
+    "headword": "erkat/,oin",
+    "copticWord": "ⲉⲣⲕⲁⲧⲏⲭⲟⲓⲛ",
+    "englishTransliteration": "erkatikhoin",
+    "gloss": "To in-struct",
+    "definition": "To in-struct",
+    "crossReference": {
+      "target": "kat/,oumen/",
+      "gloss": "To in-struct"
+    }
+  },
+  {
+    "headword": "eranomin",
+    "copticWord": "ⲉⲣⲁⲛⲟⲙⲓⲛ",
+    "englishTransliteration": "eranomin",
+    "gloss": "To transgress",
+    "definition": "To transgress",
+    "crossReference": {
+      "target": "anomia",
+      "gloss": "To transgress"
+    }
+  },
+  {
+    "headword": "erkauma",
+    "copticWord": "ⲉⲣⲕⲁⲩⲙⲁ",
+    "englishTransliteration": "erkavma",
+    "gloss": "To burn",
+    "definition": "To burn",
+    "crossReference": {
+      "target": "kauma",
+      "gloss": "To burn"
+    }
+  },
+  {
+    "headword": "erkahc",
+    "copticWord": "ⲉⲣⲕⲁϩⲥ",
+    "englishTransliteration": "erkahs",
+    "gloss": "To become custom",
+    "definition": "To become custom",
+    "crossReference": {
+      "target": "kwh",
+      "gloss": "To become custom"
+    }
+  },
+  {
+    "headword": "erapantan",
+    "copticWord": "ⲉⲣⲁⲡⲁⲛⲧⲁⲛ",
+    "englishTransliteration": "erapantan",
+    "gloss": "To meet. eratnai v. nai - To be pitiless",
+    "definition": "To meet. eratnai v. nai - To be pitiless",
+    "crossReference": {
+      "target": "apantan",
+      "gloss": "To meet. eratnai v. nai - To be pitiless"
+    }
+  },
+  {
+    "headword": "erkeleuin",
+    "copticWord": "ⲉⲣⲕⲉⲗⲉⲩⲓⲛ",
+    "englishTransliteration": "erkelevin",
+    "gloss": "To urge",
+    "definition": "To urge",
+    "crossReference": {
+      "target": "keleuin",
+      "gloss": "To urge"
+    }
+  },
+  {
+    "headword": "erkerma",
+    "copticWord": "ⲉⲣⲕⲉⲣⲙⲁ",
+    "englishTransliteration": "erkerma",
+    "gloss": "To spend",
+    "definition": "To spend",
+    "crossReference": {
+      "target": "kerma",
+      "gloss": "To spend"
+    }
+  },
+  {
+    "headword": "eratnah]",
+    "copticWord": "ⲉⲣⲁⲧⲛⲁϩϯ",
+    "englishTransliteration": "eratnahti",
+    "gloss": "To be unbelieving. eratnou] v. nou] - To be godless",
+    "definition": "To be unbelieving. eratnou] v. nou] - To be godless",
+    "crossReference": {
+      "target": "nah]",
+      "gloss": "To be unbelieving. eratnou] v. nou] - To be godless"
+    }
+  },
+  {
+    "headword": "erkermi",
+    "copticWord": "ⲉⲣⲕⲉⲣⲙⲓ",
+    "englishTransliteration": "erkermi",
+    "gloss": "To become ashes",
+    "definition": "To become ashes",
+    "crossReference": {
+      "target": "kermi",
+      "gloss": "To become ashes"
+    }
+  },
+  {
+    "headword": "erbi",
+    "copticWord": "ⲉⲣⲃⲓ",
+    "englishTransliteration": "ervi",
+    "gloss": "Enclosure",
+    "definition": "Enclosure",
+    "crossReference": {
+      "target": "wrf",
+      "gloss": "Enclosure"
+    }
+  },
+  {
+    "headword": "erkinduneuin",
+    "copticWord": "ⲉⲣⲕⲓⲛⲇⲩⲛⲉⲩⲓⲛ",
+    "englishTransliteration": "erkindynevin",
+    "gloss": "To venture",
+    "definition": "To venture",
+    "crossReference": {
+      "target": "kindinoc",
+      "gloss": "To venture"
+    }
+  },
+  {
+    "headword": "erbin",
+    "copticWord": "ⲉⲣⲃⲓⲛ",
+    "englishTransliteration": "ervin",
+    "reference": "58a",
+    "partOfSpeech": "m",
+    "gloss": "Papyrus",
+    "definition": "Papyrus"
+  },
+  {
+    "headword": "erbici",
+    "copticWord": "ⲉⲣⲃⲓⲥⲓ",
+    "englishTransliteration": "ervisi",
+    "reference": "58a",
+    "partOfSpeech": "m",
+    "gloss": "Hemp",
+    "definition": "Hemp"
+  },
+  {
+    "headword": "erkl/ronomin",
+    "copticWord": "ⲉⲣⲕⲗⲏⲣⲟⲛⲟⲙⲓⲛ",
+    "englishTransliteration": "erklironomin",
+    "gloss": "To inherit",
+    "definition": "To inherit",
+    "crossReference": {
+      "target": "kl/ronomia",
+      "gloss": "To inherit"
+    }
+  },
+  {
+    "headword": "erkolazin",
+    "copticWord": "ⲉⲣⲕⲟⲗⲁⲍⲓⲛ",
+    "englishTransliteration": "erkolazin",
+    "gloss": "To punish. erkocmein v. kocmoc - To decorate. erkocmin v. kocmoc - To decorate",
+    "definition": "To punish. erkocmein v. kocmoc - To decorate. erkocmin v. kocmoc - To decorate",
+    "crossReference": {
+      "target": "kolazin",
+      "gloss": "To punish. erkocmein v. kocmoc - To decorate. erkocmin v. kocmoc - To decorate"
+    }
+  },
+  {
+    "headword": "erbit",
+    "copticWord": "ⲉⲣⲃⲓⲧ",
+    "englishTransliteration": "ervit",
+    "reference": "58a"
+  },
+  {
+    "headword": "m. Camel's saddle or pack. erbwc",
+    "copticWord": "ⲙ. Ⲥⲁⲙⲉⲗⲯϣ ϣⲁⲇⲇⲗⲉ ⲟⲣ ⲡⲁⲥⲕ. ⲉⲣⲃⲱⲥ",
+    "englishTransliteration": "m. Samelpssh shaddle or pask. ervōs",
+    "reference": "58a"
+  },
+  {
+    "headword": "m. Rope of a single ply. ergacia",
+    "copticWord": "ⲙ. Ⲣⲟⲡⲉ ⲟϥ ⲁ ϣⲓⲛⲅⲗⲉ ⲡⲗⲑ. ⲉⲣⲅⲁⲥⲓⲁ",
+    "englishTransliteration": "m. Rope of a shingle plth. ergasia",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Work, business, productive labor, trade, function",
+    "definition": "Work, business, productive labor, trade, function"
+  },
+  {
+    "headword": "erkour",
+    "copticWord": "ⲉⲣⲕⲟⲩⲣ",
+    "englishTransliteration": "erkour",
+    "gloss": "To become deaf",
+    "definition": "To become deaf",
+    "crossReference": {
+      "target": "kour",
+      "gloss": "To become deaf"
+    }
+  },
+  {
+    "headword": "erkouji",
+    "copticWord": "ⲉⲣⲕⲟⲩϫⲓ",
+    "englishTransliteration": "erkouji",
+    "gloss": "To be few",
+    "definition": "To be few",
+    "crossReference": {
+      "target": "kouji",
+      "gloss": "To be few"
+    }
+  },
+  {
+    "headword": "ergact/rion",
+    "copticWord": "ⲉⲣⲅⲁⲥⲧⲏⲣⲓⲟⲛ",
+    "englishTransliteration": "ergastirion",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Any place in which work is done, workshop, factory",
+    "definition": "Any place in which work is done, workshop, factory"
+  },
+  {
+    "headword": "erkw]",
+    "copticWord": "ⲉⲣⲕⲱϯ",
+    "englishTransliteration": "erkōti",
+    "gloss": "To circumvent. erlampac v. lampac - To illuminate",
+    "definition": "To circumvent. erlampac v. lampac - To illuminate",
+    "crossReference": {
+      "target": "kw]",
+      "gloss": "To circumvent. erlampac v. lampac - To illuminate"
+    }
+  },
+  {
+    "headword": "erlaji",
+    "copticWord": "ⲉⲣⲗⲁϫⲓ",
+    "englishTransliteration": "erlaji",
+    "gloss": "To importune",
+    "definition": "To importune",
+    "crossReference": {
+      "target": "(2)laji",
+      "gloss": "To importune"
+    }
+  },
+  {
+    "headword": "ergat/c",
+    "copticWord": "ⲉⲣⲅⲁⲧⲏⲥ",
+    "englishTransliteration": "ergatis",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Workman, hermes, esp. one who works the soil, husbandman, doer, producer",
+    "definition": "Workman, hermes, esp. one who works the soil, husbandman, doer, producer"
+  },
+  {
+    "headword": "ere",
+    "copticWord": "ⲉⲣⲉ",
+    "englishTransliteration": "ere",
+    "gloss": "- vbal prfx. circumstantial",
+    "definition": "- vbal prfx. circumstantial",
+    "crossReference": {
+      "target": "e",
+      "gloss": "- vbal prfx. circumstantial"
+    }
+  },
+  {
+    "headword": "erlitaneuin",
+    "copticWord": "ⲉⲣⲗⲓⲧⲁⲛⲉⲩⲓⲛ",
+    "englishTransliteration": "erlitanevin",
+    "gloss": "To accept. ermagin v. magia - To charm. ermakarizin v. makarioc - To bless",
+    "definition": "To accept. ermagin v. magia - To charm. ermakarizin v. makarioc - To bless",
+    "crossReference": {
+      "target": "litania",
+      "gloss": "To accept. ermagin v. magia - To charm. ermakarizin v. makarioc - To bless"
+    }
+  },
+  {
+    "headword": "ereno",
+    "copticWord": "ⲉⲣⲉⲛⲟ",
+    "englishTransliteration": "ereno",
+    "variants": [
+      {
+        "word": "lin",
+        "copticWord": "ⲗⲓⲛ",
+        "englishTransliteration": "lin"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "gloss": "To trouble, annoy, worry about",
+    "definition": "To trouble, annoy, worry about"
+  }
+]

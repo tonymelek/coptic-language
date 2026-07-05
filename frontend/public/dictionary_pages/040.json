@@ -1,0 +1,320 @@
+[
+  {
+    "headword": "nh/t",
+    "copticWord": "ⲛϩⲏⲧ",
+    "englishTransliteration": "nhit",
+    "partOfSpeech": "vb",
+    "gloss": "To consent, agree",
+    "definition": "To consent, agree"
+  },
+  {
+    "headword": "metyat",
+    "copticWord": "ⲙⲉⲧⲑⲁⲧ",
+    "englishTransliteration": "metthat",
+    "partOfSpeech": "f",
+    "gloss": "Confirmation",
+    "definition": "Confirmation"
+  },
+  {
+    "headword": "atywt nh/t",
+    "copticWord": "ⲁⲧⲑⲱⲧ ⲛϩⲏⲧ",
+    "englishTransliteration": "atthōt nhit",
+    "partOfSpeech": "adj",
+    "gloss": "Unconvinced, disagreeing",
+    "definition": "Unconvinced, disagreeing"
+  },
+  {
+    "headword": "jinywt nh/t",
+    "copticWord": "ϫⲓⲛⲑⲱⲧ ⲛϩⲏⲧ",
+    "englishTransliteration": "jinthōt nhit",
+    "partOfSpeech": "m",
+    "gloss": "greement, union",
+    "definition": "greement, union"
+  },
+  {
+    "headword": "ywoui",
+    "copticWord": "ⲑⲱⲟⲩⲓ",
+    "englishTransliteration": "thōoui",
+    "reference": "443b",
+    "partOfSpeech": "m",
+    "gloss": "Shoe, pair of shoes",
+    "definition": "Shoe, pair of shoes"
+  },
+  {
+    "headword": "atywoui",
+    "copticWord": "ⲁⲧⲑⲱⲟⲩⲓ",
+    "englishTransliteration": "atthōoui",
+    "partOfSpeech": "adj",
+    "gloss": "Shoeless",
+    "definition": "Shoeless"
+  },
+  {
+    "headword": "ywout",
+    "copticWord": "ⲑⲱⲟⲩⲧ",
+    "englishTransliteration": "thōout",
+    "reference": "462a",
+    "partOfSpeech": "n",
+    "gloss": "Name of the first month of the Coptic Year 'Tut'",
+    "definition": "Name of the first month of the Coptic Year 'Tut'"
+  },
+  {
+    "headword": "ywoutc",
+    "copticWord": "ⲑⲱⲟⲩⲧⲥ",
+    "englishTransliteration": "thōouts",
+    "gloss": "Assembly",
+    "definition": "Assembly",
+    "crossReference": {
+      "target": "ywou]",
+      "gloss": "Assembly"
+    }
+  },
+  {
+    "headword": "ywou]",
+    "copticWord": "ⲑⲱⲟⲩϯ",
+    "englishTransliteration": "thōouti",
+    "variants": [
+      {
+        "word": "youet",
+        "copticWord": "ⲑⲟⲩⲉⲧ",
+        "englishTransliteration": "thouet"
+      },
+      {
+        "word": "youwt=",
+        "copticWord": "ⲑⲟⲩⲱⲧ",
+        "englishTransliteration": "thouōt"
+      },
+      {
+        "word": "you/t",
+        "note": "Q",
+        "copticWord": "ⲑⲟⲩⲏⲧ",
+        "englishTransliteration": "thouit"
+      }
+    ],
+    "reference": "447b",
+    "gloss": "vi. To be gathered, collected",
+    "definition": "vt. gather. collect;",
+    "senses": [
+      {
+        "label": "e",
+        "partOfSpeech": "vb",
+        "gloss": "Tto gather to, for",
+        "definition": "Tto gather to, for"
+      },
+      {
+        "label": "ejen",
+        "partOfSpeech": "vb",
+        "gloss": "To gather upon",
+        "definition": "To gather upon"
+      },
+      {
+        "label": "nem",
+        "partOfSpeech": "vb",
+        "gloss": "To forgather with",
+        "definition": "To forgather with"
+      },
+      {
+        "label": "qen",
+        "partOfSpeech": "vb",
+        "gloss": "To gather in",
+        "definition": "To gather in"
+      },
+      {
+        "label": "ha",
+        "partOfSpeech": "vb",
+        "gloss": "To gather to",
+        "definition": "To gather to"
+      },
+      {
+        "label": "hi",
+        "partOfSpeech": "vb",
+        "gloss": "To gather at",
+        "definition": "To gather at"
+      },
+      {
+        "label": "eqoun",
+        "partOfSpeech": "vb",
+        "gloss": "To gather in, collect together",
+        "definition": "--: m. Gathering, congregation; ma nywou]: m. Place of meeting; jinywou]: m. Assemblage; ywoutc: f. Collection, assembly. yws, yes-, yas-, yas=, y/s (Q): (449b); vi. To be boundry, be fixed, be moderate; vt. to limit, determine, appoint;"
+      },
+      {
+        "label": "e",
+        "gloss": "vi. To decide for, ordain to",
+        "definition": "(Q) to be destined to, about to; vt. to appoint, destine to;"
+      },
+      {
+        "label": "ejen",
+        "gloss": "vi. To be appointed over, for",
+        "definition": "vt. to ordain for, set over;"
+      },
+      {
+        "label": "]yws",
+        "partOfSpeech": "vb",
+        "gloss": "To give orders, take decision, provide",
+        "definition": "refyws: m. Commander, draftsman; jinyws: m. Order, disposition; yos, yws: m. Border, limit; nome; province, district, suburb; bishopric; eryws: vb. To be limit, adjacent; ]yos: vb. To adjoin, set bounds; [iyos: vb. To adjoin; yese, yes/, pl. yeseu: mf. Borderer, neighbor, that which adjoins. ywsp v. ywbs - To be astonished. ywq, yoh, yeq-, yaq=, yeh (Q): (453b); vi. To be mixed, disturbed, clouded; vt. to mix, stir; nem-: vb. To appoint, decide with; ---: m. Ordinance, destiny, affair, fashion; atyws: adj. Unlimited, immoderate; eryws: vb. To set in order, prepare;"
+      }
+    ]
+  },
+  {
+    "headword": "e",
+    "copticWord": "ⲉ",
+    "englishTransliteration": "e",
+    "partOfSpeech": "vb",
+    "gloss": "To mix with",
+    "definition": "To mix with"
+  },
+  {
+    "headword": "nem",
+    "copticWord": "ⲛⲉⲙ",
+    "englishTransliteration": "nem",
+    "partOfSpeech": "vb",
+    "gloss": "To mix with",
+    "definition": "To mix with"
+  },
+  {
+    "headword": "qen",
+    "copticWord": "ϧⲉⲛ",
+    "englishTransliteration": "khen",
+    "partOfSpeech": "vb",
+    "gloss": "To mix with (agent)",
+    "definition": "To mix with (agent)"
+  },
+  {
+    "headword": "atywq",
+    "copticWord": "ⲁⲧⲑⲱϧ",
+    "englishTransliteration": "atthōkh",
+    "partOfSpeech": "adj",
+    "gloss": "Unmixed, not confused",
+    "definition": "Unmixed, not confused"
+  },
+  {
+    "headword": "ywhem",
+    "copticWord": "ⲑⲱϩⲉⲙ",
+    "englishTransliteration": "thōhem",
+    "variants": [
+      {
+        "word": "yahem",
+        "copticWord": "ⲑⲁϩⲉⲙ",
+        "englishTransliteration": "thahem"
+      },
+      {
+        "word": "yahm=",
+        "copticWord": "ⲑⲁϩⲙ",
+        "englishTransliteration": "thahm"
+      },
+      {
+        "word": "yahem",
+        "note": "Q",
+        "copticWord": "ⲑⲁϩⲉⲙ",
+        "englishTransliteration": "thahem"
+      }
+    ],
+    "reference": "458b",
+    "gloss": "vi. To knock (on door), summon, invite",
+    "definition": "vt. to summon;"
+  },
+  {
+    "headword": "ehr/i",
+    "copticWord": "ⲉϩⲣⲏⲓ",
+    "englishTransliteration": "ehrii",
+    "partOfSpeech": "vb",
+    "gloss": "To call up",
+    "definition": "To call up"
+  },
+  {
+    "headword": "refywhem",
+    "copticWord": "ⲣⲉϥⲑⲱϩⲉⲙ",
+    "englishTransliteration": "refthōhem",
+    "partOfSpeech": "m",
+    "gloss": "Summoner, inviter",
+    "definition": "Summoner, inviter"
+  },
+  {
+    "headword": "jinywhem",
+    "copticWord": "ϫⲓⲛⲑⲱϩⲉⲙ",
+    "englishTransliteration": "jinthōhem",
+    "partOfSpeech": "m",
+    "gloss": "Act of calling",
+    "definition": "Act of calling"
+  },
+  {
+    "headword": "ywhc",
+    "copticWord": "ⲑⲱϩⲥ",
+    "englishTransliteration": "thōhs",
+    "variants": [
+      {
+        "word": "yahc",
+        "copticWord": "ⲑⲁϩⲥ",
+        "englishTransliteration": "thahs"
+      },
+      {
+        "word": "yahc=",
+        "copticWord": "ⲑⲁϩⲥ",
+        "englishTransliteration": "thahs"
+      },
+      {
+        "word": "yahc",
+        "note": "Q",
+        "copticWord": "ⲑⲁϩⲥ",
+        "englishTransliteration": "thahs"
+      }
+    ],
+    "reference": "461b",
+    "gloss": "vt. To anoint",
+    "definition": "vt. To anoint"
+  },
+  {
+    "headword": "n",
+    "copticWord": "ⲛ",
+    "englishTransliteration": "n",
+    "partOfSpeech": "vb",
+    "gloss": "To anoint with",
+    "definition": "To anoint with"
+  },
+  {
+    "headword": "refywhc",
+    "copticWord": "ⲣⲉϥⲑⲱϩⲥ",
+    "englishTransliteration": "refthōhs",
+    "partOfSpeech": "m",
+    "gloss": "Anointer",
+    "definition": "Anointer"
+  },
+  {
+    "headword": "jinywhc",
+    "copticWord": "ϫⲓⲛⲑⲱϩⲥ",
+    "englishTransliteration": "jinthōhs",
+    "partOfSpeech": "m",
+    "gloss": "Annointer",
+    "definition": "Annointer"
+  },
+  {
+    "headword": "yw]",
+    "copticWord": "ⲑⲱϯ",
+    "englishTransliteration": "thōti",
+    "reference": "439b",
+    "partOfSpeech": "f",
+    "gloss": "Border, fringe of garment",
+    "definition": "Border, fringe of garment"
+  },
+  {
+    "headword": "yqmo",
+    "copticWord": "ⲑϧⲙⲟ",
+    "englishTransliteration": "thkhmo",
+    "gloss": "To warm",
+    "definition": "To warm",
+    "crossReference": {
+      "target": "tqmo",
+      "gloss": "To warm"
+    }
+  },
+  {
+    "headword": "yqmo=",
+    "copticWord": "ⲑϧⲙⲟ",
+    "englishTransliteration": "thkhmo",
+    "gloss": "To warm",
+    "definition": "To warm",
+    "crossReference": {
+      "target": "tqmo",
+      "gloss": "To warm"
+    }
+  }
+]

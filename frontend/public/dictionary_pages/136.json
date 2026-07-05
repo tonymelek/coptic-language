@@ -1,0 +1,467 @@
+[
+  {
+    "headword": "s",
+    "copticWord": "ϣ",
+    "englishTransliteration": "sh",
+    "reference": "540a",
+    "gloss": "25th letter of the alphabet s: as a numeral = 600",
+    "definition": "25th letter of the alphabet s: as a numeral = 600"
+  },
+  {
+    "headword": "sa",
+    "copticWord": "ϣⲁ",
+    "englishTransliteration": "sha",
+    "variants": [
+      {
+        "word": "saro=",
+        "copticWord": "ϣⲁⲣⲟ",
+        "englishTransliteration": "sharo"
+      }
+    ],
+    "reference": "541b",
+    "gloss": "prep. to, toward (persons)",
+    "definition": "to, at (of places, things etc.); till, at, by, for (time); up to, to length of in reckoning."
+  },
+  {
+    "headword": "sayoul",
+    "copticWord": "ϣⲁⲑⲟⲩⲗ",
+    "englishTransliteration": "shathoul",
+    "gloss": "Ichneumon",
+    "definition": "Ichneumon",
+    "crossReference": {
+      "target": "saywl",
+      "gloss": "Ichneumon"
+    }
+  },
+  {
+    "headword": "saywl",
+    "copticWord": "ϣⲁⲑⲱⲗ",
+    "englishTransliteration": "shathōl",
+    "variants": [
+      {
+        "word": "sayoul",
+        "copticWord": "ϣⲁⲑⲟⲩⲗ",
+        "englishTransliteration": "shathoul"
+      }
+    ],
+    "reference": "555a",
+    "partOfSpeech": "m",
+    "gloss": "Ichneu-mon",
+    "definition": "Ichneu-mon"
+  },
+  {
+    "headword": "(1) sai",
+    "copticWord": "ϣⲁⲓ",
+    "englishTransliteration": "shai",
+    "variants": [
+      {
+        "word": "(Q)saiwou",
+        "copticWord": "(Ϧ)ϣⲁⲓⲱⲟⲩ",
+        "englishTransliteration": "(Kh)shaiōou"
+      }
+    ],
+    "reference": "542b",
+    "gloss": "vi. To rise (of sun)",
+    "definition": "vi. To rise (of sun)",
+    "senses": [
+      {
+        "label": "ma nsai",
+        "partOfSpeech": "m",
+        "gloss": "Place of rising, east",
+        "definition": "sai: m. Festival;"
+      },
+      {
+        "label": "sai o",
+        "partOfSpeech": "m",
+        "gloss": "Great festival",
+        "definition": "ehoou nsai: m. Festival day; ersai, erpsai: vb. To make, keep festival"
+      },
+      {
+        "label": "ma nersai",
+        "partOfSpeech": "m",
+        "gloss": "Place of holding festival, church",
+        "definition": "Place of holding festival, church"
+      }
+    ]
+  },
+  {
+    "headword": "(2) sai",
+    "copticWord": "ϣⲁⲓ",
+    "englishTransliteration": "shai",
+    "variants": [
+      {
+        "word": "sant=",
+        "copticWord": "ϣⲁⲛⲧ",
+        "englishTransliteration": "shant"
+      }
+    ],
+    "reference": "543b",
+    "partOfSpeech": "m",
+    "gloss": "Nose",
+    "definition": "Nose",
+    "senses": [
+      {
+        "gloss": ": adj. with cut nose",
+        "definition": ": adj. with cut nose"
+      }
+    ]
+  },
+  {
+    "headword": "jebsai",
+    "copticWord": "ϫⲉⲃϣⲁⲓ",
+    "englishTransliteration": "jevshai",
+    "variants": [
+      {
+        "word": "jemsai",
+        "copticWord": "ϫⲉⲙϣⲁⲓ",
+        "englishTransliteration": "jemshai"
+      },
+      {
+        "word": "jempsai",
+        "copticWord": "ϫⲉⲙⲡϣⲁⲓ",
+        "englishTransliteration": "jempshai"
+      },
+      {
+        "word": "jefsai",
+        "copticWord": "ϫⲉϥϣⲁⲓ",
+        "englishTransliteration": "jefshai"
+      }
+    ],
+    "gloss": "mf Nostrils",
+    "definition": "lit. leaves of nose; : m. Hook-nosed;"
+  },
+  {
+    "headword": "sal",
+    "copticWord": "ϣⲁⲗ",
+    "englishTransliteration": "shal",
+    "gloss": "Molar tooth",
+    "definition": "Molar tooth",
+    "crossReference": {
+      "target": "(1)sol",
+      "gloss": "Molar tooth"
+    }
+  },
+  {
+    "headword": "salauki",
+    "copticWord": "ϣⲁⲗⲁⲩⲕⲓ",
+    "englishTransliteration": "shalavki",
+    "gloss": "Wasp",
+    "definition": "Wasp",
+    "crossReference": {
+      "target": "salouki",
+      "gloss": "Wasp"
+    }
+  },
+  {
+    "headword": "sale",
+    "copticWord": "ϣⲁⲗⲉ",
+    "englishTransliteration": "shale",
+    "gloss": "Lame",
+    "definition": "Lame",
+    "crossReference": {
+      "target": "[ale",
+      "gloss": "Lame"
+    }
+  },
+  {
+    "headword": "salouki",
+    "copticWord": "ϣⲁⲗⲟⲩⲕⲓ",
+    "englishTransliteration": "shalouki",
+    "variants": [
+      {
+        "word": "salauki",
+        "copticWord": "ϣⲁⲗⲁⲩⲕⲓ",
+        "englishTransliteration": "shalavki"
+      }
+    ],
+    "reference": "558b",
+    "partOfSpeech": "m",
+    "gloss": "Wasp",
+    "definition": "Wasp"
+  },
+  {
+    "headword": "saloukc",
+    "copticWord": "ϣⲁⲗⲟⲩⲕⲥ",
+    "englishTransliteration": "shalouks",
+    "gloss": "Scarabaeus beetle",
+    "definition": "Scarabaeus beetle",
+    "crossReference": {
+      "target": "[aloukc",
+      "gloss": "Scarabaeus beetle"
+    }
+  },
+  {
+    "headword": "sam",
+    "copticWord": "ϣⲁⲙ",
+    "englishTransliteration": "sham",
+    "gloss": "To be subtle. samsi- p.c. v. semsi - Worshipper",
+    "definition": "To be subtle. samsi- p.c. v. semsi - Worshipper",
+    "crossReference": {
+      "target": "sma",
+      "gloss": "To be subtle. samsi- p.c. v. semsi - Worshipper"
+    }
+  },
+  {
+    "headword": "san",
+    "copticWord": "ϣⲁⲛ",
+    "englishTransliteration": "shan",
+    "reference": "568b",
+    "gloss": "conj. Or",
+    "definition": "conj. Or"
+  },
+  {
+    "headword": "sanaht/=",
+    "copticWord": "ϣⲁⲛⲁϩⲧⲏ",
+    "englishTransliteration": "shanahti",
+    "gloss": "To have pity",
+    "definition": "To have pity",
+    "crossReference": {
+      "target": "h/t",
+      "gloss": "To have pity"
+    }
+  },
+  {
+    "headword": "sanes",
+    "copticWord": "ϣⲁⲛⲉϣ",
+    "englishTransliteration": "shanesh",
+    "gloss": "To nourish",
+    "definition": "To nourish",
+    "crossReference": {
+      "target": "sans",
+      "gloss": "To nourish"
+    }
+  },
+  {
+    "headword": "saneus(Q)",
+    "copticWord": "ϣⲁⲛⲉⲩϣ(Ϧ)",
+    "englishTransliteration": "shanevsh(Kh)",
+    "gloss": "To be nourished",
+    "definition": "To be nourished",
+    "crossReference": {
+      "target": "sans",
+      "gloss": "To be nourished"
+    }
+  },
+  {
+    "headword": "sanymaqt",
+    "copticWord": "ϣⲁⲛⲑⲙⲁϧⲧ",
+    "englishTransliteration": "shanthmakht",
+    "gloss": "Compassionate person",
+    "definition": "Compassionate person",
+    "crossReference": {
+      "target": "maqt",
+      "gloss": "Compassionate person"
+    }
+  },
+  {
+    "headword": "sanmaqt",
+    "copticWord": "ϣⲁⲛⲙⲁϧⲧ",
+    "englishTransliteration": "shanmakht",
+    "gloss": "Dysentery",
+    "definition": "Dysentery",
+    "crossReference": {
+      "target": "maqt",
+      "gloss": "Dysentery"
+    }
+  },
+  {
+    "headword": "sant=",
+    "copticWord": "ϣⲁⲛⲧ",
+    "englishTransliteration": "shant",
+    "gloss": "Nose",
+    "definition": "Nose",
+    "crossReference": {
+      "target": "(2)sai",
+      "gloss": "Nose"
+    }
+  },
+  {
+    "headword": "sanous",
+    "copticWord": "ϣⲁⲛⲟⲩϣ",
+    "englishTransliteration": "shanoush",
+    "gloss": "To nourish",
+    "definition": "To nourish",
+    "crossReference": {
+      "target": "sans",
+      "gloss": "To nourish"
+    }
+  },
+  {
+    "headword": "sanous=",
+    "copticWord": "ϣⲁⲛⲟⲩϣ",
+    "englishTransliteration": "shanoush",
+    "gloss": "To nourish",
+    "definition": "To nourish",
+    "crossReference": {
+      "target": "sans",
+      "gloss": "To nourish"
+    }
+  },
+  {
+    "headword": "sanoust(Q)",
+    "copticWord": "ϣⲁⲛⲟⲩϣⲧ(Ϧ)",
+    "englishTransliteration": "shanousht(Kh)",
+    "gloss": "Well fed",
+    "definition": "Well fed",
+    "crossReference": {
+      "target": "sans",
+      "gloss": "Well fed"
+    }
+  },
+  {
+    "headword": "(Q) saneus sanoust",
+    "copticWord": "(Ϧ) ϣⲁⲛⲉⲩϣ ϣⲁⲛⲟⲩϣⲧ",
+    "englishTransliteration": "(Kh) shanevsh shanousht",
+    "reference": "347b",
+    "gloss": "vi. To make live, be alive",
+    "definition": "Q. nourished, well fed; vt. To nourish, rear, tend"
+  },
+  {
+    "headword": "sv/r nsans",
+    "copticWord": "ϣⲫⲏⲣ ⲛϣⲁⲛϣ",
+    "englishTransliteration": "shfir nshansh",
+    "partOfSpeech": "m",
+    "gloss": "Reared with, akin",
+    "definition": "Reared with, akin"
+  },
+  {
+    "headword": "sai",
+    "copticWord": "ϣⲁⲓ",
+    "englishTransliteration": "shai",
+    "gloss": "Festival",
+    "definition": "Festival",
+    "crossReference": {
+      "target": "(1)sai",
+      "gloss": "Festival"
+    }
+  },
+  {
+    "headword": "sai o v. (1)sai - Great festival. sairi",
+    "copticWord": "ϣⲁⲓ ⲟ ⲫ. (1)ϣⲁⲓ - Ⲅⲣⲉⲁⲧ ϥⲉϣⲧⲓⲫⲁⲗ. ϣⲁⲓⲣⲓ",
+    "englishTransliteration": "shai o f. (1)shai - Great feshtifal. shairi",
+    "reference": "584a",
+    "partOfSpeech": "f",
+    "gloss": "Couch, cohabitation,",
+    "definition": "Couch, cohabitation,",
+    "senses": [
+      {
+        "gloss": "sheepfold",
+        "definition": "sheepfold"
+      },
+      {
+        "label": "metsairi",
+        "partOfSpeech": "f",
+        "gloss": "Concubitus",
+        "definition": "Concubitus"
+      },
+      {
+        "label": "er sairi",
+        "partOfSpeech": "vb",
+        "gloss": "To lie down",
+        "definition": "To lie down"
+      },
+      {
+        "label": "[i",
+        "gloss": "sairi: vb. To take rest. sairi v. (1)sari - To smite. sairi v. siri - Small (f). saiwou(Q) v. (1)sai - To be shined. saiwou v. (2)sai - Hook-nosed. sal: (557b)",
+        "definition": "m. Myrrh."
+      }
+    ]
+  },
+  {
+    "headword": "Nourishment",
+    "copticWord": "Ⲛⲟⲩⲣⲓϣϩⲙⲉⲛⲧ",
+    "englishTransliteration": "Nourishhment",
+    "variants": [
+      {
+        "word": "nursing ma nsans",
+        "copticWord": "ⲛⲩⲣϣⲓⲛⲅ ⲙⲁ ⲛϣⲁⲛϣ",
+        "englishTransliteration": "nyrshing ma nshansh"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "Nursing, feeding place",
+    "definition": "Nursing, feeding place"
+  },
+  {
+    "headword": "refsans",
+    "copticWord": "ⲣⲉϥϣⲁⲛϣ",
+    "englishTransliteration": "refshansh",
+    "partOfSpeech": "m",
+    "gloss": "nourisher, nurse",
+    "definition": "nourisher, nurse"
+  },
+  {
+    "headword": "jinsans",
+    "copticWord": "ϫⲓⲛϣⲁⲛϣ",
+    "englishTransliteration": "jinshansh",
+    "partOfSpeech": "m",
+    "gloss": "Nourishment, education",
+    "definition": "Nourishment, education"
+  },
+  {
+    "headword": "sap",
+    "copticWord": "ϣⲁⲡ",
+    "englishTransliteration": "shap",
+    "gloss": "Receiver",
+    "definition": "Receiver",
+    "crossReference": {
+      "target": "(2)swp",
+      "gloss": "Receiver"
+    }
+  },
+  {
+    "headword": "sar",
+    "copticWord": "ϣⲁⲣ",
+    "englishTransliteration": "shar",
+    "variants": [
+      {
+        "word": "sar",
+        "copticWord": "ϣⲁⲣ",
+        "englishTransliteration": "shar"
+      }
+    ],
+    "reference": "582a",
+    "partOfSpeech": "m",
+    "gloss": "Skin",
+    "definition": "Skin"
+  },
+  {
+    "headword": "sarba",
+    "copticWord": "ϣⲁⲣⲃⲁ",
+    "englishTransliteration": "sharva",
+    "reference": "586a",
+    "partOfSpeech": "m",
+    "gloss": "Scorching heat",
+    "definition": "Scorching heat"
+  },
+  {
+    "headword": "sare",
+    "copticWord": "ϣⲁⲣⲉ",
+    "englishTransliteration": "share",
+    "variants": [
+      {
+        "word": "sa=",
+        "copticWord": "ϣⲁ",
+        "englishTransliteration": "sha"
+      }
+    ],
+    "reference": "583a",
+    "gloss": "vbal prfx. of the Present of Habitude",
+    "definition": "vbal prfx. of the Present of Habitude"
+  },
+  {
+    "headword": "(1)sari",
+    "copticWord": "ϣⲁⲣⲓ",
+    "englishTransliteration": "shari",
+    "variants": [
+      {
+        "word": "sairi",
+        "copticWord": "ϣⲁⲓⲣⲓ",
+        "englishTransliteration": "shairi"
+      }
+    ],
+    "reference": "583b",
+    "gloss": "vi. Smite",
+    "definition": "---: m. Blow, stroke;"
+  }
+]

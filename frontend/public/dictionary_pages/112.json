@@ -1,0 +1,400 @@
+[
+  {
+    "headword": "(1) twb",
+    "copticWord": "ⲧⲱⲃ",
+    "englishTransliteration": "tōv",
+    "variants": [
+      {
+        "word": "twp",
+        "copticWord": "ⲧⲱⲡ",
+        "englishTransliteration": "tōp"
+      },
+      {
+        "word": "teb",
+        "copticWord": "ⲧⲉⲃ",
+        "englishTransliteration": "tev"
+      },
+      {
+        "word": "tob=",
+        "copticWord": "ⲧⲟⲃ",
+        "englishTransliteration": "tov"
+      },
+      {
+        "word": "top=",
+        "copticWord": "ⲧⲟⲡ",
+        "englishTransliteration": "top"
+      },
+      {
+        "word": "t/b",
+        "note": "Q",
+        "copticWord": "ⲧⲏⲃ",
+        "englishTransliteration": "teeb"
+      },
+      {
+        "word": "t/p",
+        "note": "Q",
+        "copticWord": "ⲧⲏⲡ",
+        "englishTransliteration": "tip"
+      },
+      {
+        "word": "tob",
+        "note": "Q",
+        "copticWord": "ⲧⲟⲃ",
+        "englishTransliteration": "tov"
+      },
+      {
+        "word": "top",
+        "note": "Q",
+        "copticWord": "ⲧⲟⲡ",
+        "englishTransliteration": "top"
+      }
+    ],
+    "reference": "398a",
+    "gloss": "vi. To seal",
+    "definition": "--- e-: vi. To set seal upon; --- n-: vi. To seal with, by means of; --- qen-: vi. To seal with"
+  },
+  {
+    "headword": "tebc",
+    "copticWord": "ⲧⲉⲃⲥ",
+    "englishTransliteration": "tevs",
+    "variants": [
+      {
+        "word": "tobc",
+        "copticWord": "ⲧⲟⲃⲥ",
+        "englishTransliteration": "tovs"
+      },
+      {
+        "word": "topc",
+        "copticWord": "ⲧⲟⲡⲥ",
+        "englishTransliteration": "tops"
+      }
+    ],
+    "partOfSpeech": "f",
+    "gloss": "Seal's impress",
+    "definition": "Seal's impress"
+  },
+  {
+    "headword": "tobf",
+    "copticWord": "ⲧⲟⲃϥ",
+    "englishTransliteration": "tovf",
+    "variants": [
+      {
+        "word": "topf",
+        "copticWord": "ⲧⲟⲡϥ",
+        "englishTransliteration": "topf"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "Seal's impress",
+    "definition": "Seal's impress"
+  },
+  {
+    "headword": "ebol ha",
+    "copticWord": "ⲉⲃⲟⲗ ϩⲁ",
+    "englishTransliteration": "evol ha",
+    "partOfSpeech": "vb",
+    "gloss": "To be saved from",
+    "definition": "To be saved from"
+  },
+  {
+    "headword": "qen",
+    "copticWord": "ϧⲉⲛ",
+    "englishTransliteration": "khen",
+    "partOfSpeech": "vb",
+    "gloss": "To saved in, from",
+    "definition": "---: n. Saftey, salvation;"
+  },
+  {
+    "headword": "reftoujo",
+    "copticWord": "ⲣⲉϥⲧⲟⲩϫⲟ",
+    "englishTransliteration": "reftoujo",
+    "partOfSpeech": "m",
+    "gloss": "Health-giver, savior, saver",
+    "definition": "Health-giver, savior, saver"
+  },
+  {
+    "headword": "toujo=",
+    "copticWord": "ⲧⲟⲩϫⲟ",
+    "englishTransliteration": "toujo",
+    "gloss": "To save",
+    "definition": "To save",
+    "crossReference": {
+      "target": "toujo",
+      "gloss": "To save"
+    }
+  },
+  {
+    "headword": "toj=",
+    "copticWord": "ⲧⲟϫ",
+    "englishTransliteration": "toj",
+    "gloss": "To be joined",
+    "definition": "To be joined",
+    "crossReference": {
+      "target": "twji",
+      "gloss": "To be joined"
+    }
+  },
+  {
+    "headword": "(2) twb",
+    "copticWord": "ⲧⲱⲃ",
+    "englishTransliteration": "tōv",
+    "variants": [
+      {
+        "word": "twp",
+        "copticWord": "ⲧⲱⲡ",
+        "englishTransliteration": "tōp"
+      },
+      {
+        "word": "tob",
+        "copticWord": "ⲧⲟⲃ",
+        "englishTransliteration": "tov"
+      },
+      {
+        "word": "tob=",
+        "copticWord": "ⲧⲟⲃ",
+        "englishTransliteration": "tov"
+      },
+      {
+        "word": "top=",
+        "copticWord": "ⲧⲟⲡ",
+        "englishTransliteration": "top"
+      }
+    ],
+    "reference": "398b",
+    "gloss": "vi. To repay, requite",
+    "definition": "--- n-: vi. To repay to"
+  },
+  {
+    "headword": "topou",
+    "copticWord": "ⲧⲟⲡⲟⲩ",
+    "englishTransliteration": "topou",
+    "partOfSpeech": "m",
+    "gloss": "Requital",
+    "definition": "Requital"
+  },
+  {
+    "headword": "tojc",
+    "copticWord": "ⲧⲟϫⲥ",
+    "englishTransliteration": "tojs",
+    "gloss": "Seat",
+    "definition": "Seat",
+    "crossReference": {
+      "target": "totc",
+      "gloss": "Seat"
+    }
+  },
+  {
+    "headword": "trapc",
+    "copticWord": "ⲧⲣⲁⲡⲥ",
+    "englishTransliteration": "traps",
+    "gloss": "Spike",
+    "definition": "Spike",
+    "crossReference": {
+      "target": "yrapc",
+      "gloss": "Spike"
+    }
+  },
+  {
+    "headword": "trim",
+    "copticWord": "ⲧⲣⲓⲙ",
+    "englishTransliteration": "trim",
+    "reference": "430b",
+    "partOfSpeech": "m",
+    "gloss": "Trefoil, clover",
+    "definition": "Trefoil, clover"
+  },
+  {
+    "headword": "tcabe",
+    "copticWord": "ⲧⲥⲁⲃⲉ",
+    "englishTransliteration": "tsave",
+    "gloss": "To teach",
+    "definition": "To teach",
+    "crossReference": {
+      "target": "tcabo",
+      "gloss": "To teach"
+    }
+  },
+  {
+    "headword": "(1) twbi",
+    "copticWord": "ⲧⲱⲃⲓ",
+    "englishTransliteration": "tōvi",
+    "reference": "397b",
+    "partOfSpeech": "n",
+    "gloss": "Name of 5th month",
+    "definition": "Name of 5th month"
+  },
+  {
+    "headword": "(2) twbi",
+    "copticWord": "ⲧⲱⲃⲓ",
+    "englishTransliteration": "tōvi",
+    "reference": "398a",
+    "partOfSpeech": "f",
+    "gloss": "Brick",
+    "definition": "Brick"
+  },
+  {
+    "headword": "vave twbi",
+    "copticWord": "ⲫⲁⲫⲉ ⲧⲱⲃⲓ",
+    "englishTransliteration": "fafe tōvi",
+    "partOfSpeech": "vb",
+    "gloss": "Knead, make bricks",
+    "definition": "Knead, make bricks"
+  },
+  {
+    "headword": "twbh",
+    "copticWord": "ⲧⲱⲃϩ",
+    "englishTransliteration": "tōvh",
+    "variants": [
+      {
+        "word": "tobh=",
+        "copticWord": "ⲧⲟⲃϩ",
+        "englishTransliteration": "tovh"
+      }
+    ],
+    "reference": "402a",
+    "gloss": "vi. To pray, entreat",
+    "definition": "vt. to entreat, console;",
+    "senses": [
+      {
+        "label": "eybe",
+        "partOfSpeech": "vb",
+        "gloss": "To pray for, concerning",
+        "definition": "To pray for, concerning"
+      },
+      {
+        "label": "ejen",
+        "gloss": "vi. To pray upon, for",
+        "definition": "vi. To pray upon, for"
+      },
+      {
+        "label": "nca",
+        "partOfSpeech": "vb",
+        "gloss": "To pray for",
+        "definition": "To pray for"
+      },
+      {
+        "label": "qa",
+        "partOfSpeech": "vb",
+        "gloss": "To pray on behalf of",
+        "definition": "---: m. Prayer;"
+      },
+      {
+        "label": "reftwbh",
+        "partOfSpeech": "m",
+        "gloss": "One who prays, suppliant",
+        "definition": "One who prays, suppliant"
+      },
+      {
+        "label": "jintwbh",
+        "partOfSpeech": "m",
+        "gloss": "Entreaty",
+        "definition": "Entreaty"
+      }
+    ]
+  },
+  {
+    "headword": "twi",
+    "copticWord": "ⲧⲱⲓ",
+    "englishTransliteration": "tōi",
+    "partOfSpeech": "part",
+    "crossReference": {
+      "target": "toi"
+    }
+  },
+  {
+    "headword": "twic",
+    "copticWord": "ⲧⲱⲓⲥ",
+    "englishTransliteration": "tōis",
+    "variants": [
+      {
+        "word": "twici",
+        "copticWord": "ⲧⲱⲓⲥⲓ",
+        "englishTransliteration": "tōisi"
+      }
+    ],
+    "reference": "433a",
+    "partOfSpeech": "f",
+    "gloss": "Piece, rag of cloth, linen",
+    "definition": "Piece, rag of cloth, linen"
+  },
+  {
+    "headword": "twici",
+    "copticWord": "ⲧⲱⲓⲥⲓ",
+    "englishTransliteration": "tōisi",
+    "gloss": "Piece",
+    "definition": "Piece",
+    "crossReference": {
+      "target": "twic",
+      "gloss": "Piece"
+    }
+  },
+  {
+    "headword": "twit",
+    "copticWord": "ⲧⲱⲓⲧ",
+    "englishTransliteration": "tōit",
+    "reference": "437b",
+    "gloss": "vi. To mourn",
+    "definition": "vi. To mourn",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "(rare) Lament, dirge",
+        "definition": "(rare) Lament, dirge"
+      }
+    ]
+  },
+  {
+    "headword": "twmi",
+    "copticWord": "ⲧⲱⲙⲓ",
+    "englishTransliteration": "tōmi",
+    "variants": [
+      {
+        "word": "tom",
+        "copticWord": "ⲧⲟⲙ",
+        "englishTransliteration": "tom"
+      },
+      {
+        "word": "tem",
+        "copticWord": "ⲧⲉⲙ",
+        "englishTransliteration": "tem"
+      },
+      {
+        "word": "tom=",
+        "copticWord": "ⲧⲟⲙ",
+        "englishTransliteration": "tom"
+      },
+      {
+        "word": "tomi",
+        "note": "Q",
+        "copticWord": "ⲧⲟⲙⲓ",
+        "englishTransliteration": "tomi"
+      }
+    ],
+    "reference": "414b",
+    "gloss": "vi. To join",
+    "definition": "(Q) to be fitting, appropriate;",
+    "senses": [
+      {
+        "label": "e",
+        "gloss": "vi. To join, cleave to",
+        "definition": "(Q) to be fitting;"
+      },
+      {
+        "label": "nem",
+        "gloss": "vi. To join with",
+        "definition": "--: m. Joint, joining; ratwmi: n. joint; jintwmi: m. Joining; vaijintwmi: m. Marriage."
+      }
+    ]
+  },
+  {
+    "headword": "tvo=",
+    "copticWord": "ⲧⲫⲟ",
+    "englishTransliteration": "tfo",
+    "gloss": "To accompany",
+    "definition": "To accompany",
+    "crossReference": {
+      "target": "thvo",
+      "gloss": "To accompany"
+    }
+  }
+]

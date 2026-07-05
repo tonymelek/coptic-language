@@ -1,0 +1,412 @@
+[
+  {
+    "headword": "refnau",
+    "copticWord": "ⲣⲉϥⲛⲁⲩ",
+    "englishTransliteration": "refnav",
+    "partOfSpeech": "m",
+    "gloss": "Seer",
+    "definition": "adj. seeing;"
+  },
+  {
+    "headword": "errefnau",
+    "copticWord": "ⲉⲣⲣⲉϥⲛⲁⲩ",
+    "englishTransliteration": "errefnav",
+    "partOfSpeech": "vb",
+    "gloss": "To become seer, spectator",
+    "definition": "To become seer, spectator"
+  },
+  {
+    "headword": "jinnau",
+    "copticWord": "ϫⲓⲛⲛⲁⲩ",
+    "englishTransliteration": "jinnav",
+    "gloss": "fm. Sight. vision",
+    "definition": "fm. Sight. vision"
+  },
+  {
+    "headword": "nahbioui",
+    "copticWord": "ⲛⲁϩⲃⲓⲟⲩⲓ",
+    "englishTransliteration": "nahvioui",
+    "gloss": "Necks. nahem- v. nohem - To save. nah/t v. nai - Compassionate. nahm= v. nohem - To save. nahra= v. ho, hraf - In the presence of. nahren v. ho, hraf - In the presence of. nah], (Q) enhot (246a)",
+    "definition": "vi. To trust, believe; vt. to believe; qual. trustworthy, faithful; nahbi v. noheb - Neck.",
+    "crossReference": {
+      "target": "noheb",
+      "gloss": "Necks. nahem- v. nohem - To save. nah/t v. nai - Compassionate. nahm= v. nohem - To save. nahra= v. ho, hraf - In the presence of. nahren v. ho, hraf - In the presence of. nah], (Q) enhot (246a)"
+    },
+    "senses": [
+      {
+        "label": "e",
+        "partOfSpeech": "vb",
+        "gloss": "To believe, trust in",
+        "definition": "qual. trustworthy for, (fit to be) entrusted with;"
+      },
+      {
+        "label": "qen",
+        "partOfSpeech": "vb",
+        "gloss": "To trust in",
+        "definition": "To trust in"
+      }
+    ]
+  },
+  {
+    "headword": "(2) nau",
+    "copticWord": "ⲛⲁⲩ",
+    "englishTransliteration": "nav",
+    "reference": "234b",
+    "partOfSpeech": "m",
+    "gloss": "Hour, time",
+    "definition": "Hour, time",
+    "senses": [
+      {
+        "label": "nswrp",
+        "partOfSpeech": "m",
+        "gloss": "Morning, early hour",
+        "definition": "Morning, early hour"
+      },
+      {
+        "label": "mmeri",
+        "partOfSpeech": "m",
+        "gloss": "Midday, noon",
+        "definition": "nis] nnau: adj. Great, long time kouji nnau: adj. Little time;"
+      },
+      {
+        "label": "niben",
+        "partOfSpeech": "m",
+        "gloss": "Every hour, always",
+        "definition": "qen pinau etemmau: Then;"
+      },
+      {
+        "label": "mpainau",
+        "gloss": "Just now, meanwhile, forthwith",
+        "definition": "Just now, meanwhile, forthwith"
+      },
+      {
+        "label": "painau",
+        "gloss": "At this (same) time",
+        "definition": "At this (same) time"
+      },
+      {
+        "label": "sapinau",
+        "gloss": "Up to the hour",
+        "definition": "Up to the hour"
+      },
+      {
+        "label": "icjen vnau",
+        "gloss": "From the hour",
+        "definition": "icjen painau: Henceforth; nynau: interr. When?"
+      }
+    ]
+  },
+  {
+    "headword": "saynau",
+    "copticWord": "ϣⲁⲑⲛⲁⲩ",
+    "englishTransliteration": "shathnav",
+    "gloss": "interr. Until when?",
+    "definition": "interr. Until when?"
+  },
+  {
+    "headword": "nauben",
+    "copticWord": "ⲛⲁⲩⲃⲉⲛ",
+    "englishTransliteration": "navven",
+    "reference": "235b",
+    "gloss": "pl. Footsteps",
+    "definition": "pl. Footsteps"
+  },
+  {
+    "headword": "naui",
+    "copticWord": "ⲛⲁⲩⲓ",
+    "englishTransliteration": "navi",
+    "variants": [
+      {
+        "word": "nabi",
+        "copticWord": "ⲛⲁⲃⲓ",
+        "englishTransliteration": "navi"
+      },
+      {
+        "word": "nahbi",
+        "copticWord": "ⲛⲁϩⲃⲓ",
+        "englishTransliteration": "nahvi"
+      }
+    ],
+    "reference": "235b",
+    "partOfSpeech": "m",
+    "gloss": "Spear, javelin, spike",
+    "definition": "Spear, javelin, spike"
+  },
+  {
+    "headword": "naukl/roc",
+    "copticWord": "ⲛⲁⲩⲕⲗⲏⲣⲟⲥ",
+    "englishTransliteration": "navkliros",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Ship-owner and merchant, sailing master",
+    "definition": "captain, commander."
+  },
+  {
+    "headword": "navri",
+    "copticWord": "ⲛⲁⲫⲣⲓ",
+    "englishTransliteration": "nafri",
+    "reference": "228a",
+    "partOfSpeech": "f",
+    "gloss": "Grain, seed",
+    "definition": "Grain, seed"
+  },
+  {
+    "headword": "nase",
+    "copticWord": "ⲛⲁϣⲉ",
+    "englishTransliteration": "nashe",
+    "variants": [
+      {
+        "word": "nasw=",
+        "copticWord": "ⲛⲁϣⲱ",
+        "englishTransliteration": "nashō"
+      }
+    ],
+    "reference": "236a",
+    "gloss": "vi.much",
+    "definition": "vi.much"
+  },
+  {
+    "headword": "To be many",
+    "copticWord": "Ⲧⲟ ⲃⲉ ⲙⲁⲛⲑ",
+    "englishTransliteration": "To ve manth",
+    "variants": [
+      {
+        "word": "etnase",
+        "copticWord": "ⲉⲧⲛⲁϣⲉ",
+        "englishTransliteration": "etnashe"
+      }
+    ],
+    "partOfSpeech": "adj",
+    "gloss": "Many, great",
+    "definition": "--- couen=: Price;"
+  },
+  {
+    "headword": "metnah]",
+    "copticWord": "ⲙⲉⲧⲛⲁϩϯ",
+    "englishTransliteration": "metnahti",
+    "partOfSpeech": "f",
+    "gloss": "Faith",
+    "definition": "Faith"
+  },
+  {
+    "headword": "aynah]",
+    "copticWord": "ⲁⲑⲛⲁϩϯ",
+    "englishTransliteration": "athnahti",
+    "partOfSpeech": "adj",
+    "gloss": "Unbelieving",
+    "definition": "Unbelieving"
+  },
+  {
+    "headword": "metatnah]",
+    "copticWord": "ⲙⲉⲧⲁⲧⲛⲁϩϯ",
+    "englishTransliteration": "metatnahti",
+    "partOfSpeech": "f",
+    "gloss": "Unbelief",
+    "definition": "Unbelief"
+  },
+  {
+    "headword": "eraynah]",
+    "copticWord": "ⲉⲣⲁⲑⲛⲁϩϯ",
+    "englishTransliteration": "erathnahti",
+    "partOfSpeech": "vb",
+    "gloss": "To unbelieve, be unbelieving, be mistrustful",
+    "definition": "To unbelieve, be unbelieving, be mistrustful"
+  },
+  {
+    "headword": "sounah]",
+    "copticWord": "ϣⲟⲩⲛⲁϩϯ",
+    "englishTransliteration": "shounahti",
+    "partOfSpeech": "adj",
+    "gloss": "Worthy of belief",
+    "definition": "Worthy of belief"
+  },
+  {
+    "headword": "najp",
+    "copticWord": "ⲛⲁϫⲡ",
+    "englishTransliteration": "najp",
+    "reference": "249b",
+    "partOfSpeech": "n",
+    "gloss": "Stone, kernel (of fruit)",
+    "definition": "Stone, kernel (of fruit)"
+  },
+  {
+    "headword": "najhi",
+    "copticWord": "ⲛⲁϫϩⲓ",
+    "englishTransliteration": "najhi",
+    "reference": "249b",
+    "partOfSpeech": "f",
+    "gloss": "Tooth",
+    "definition": "Tooth"
+  },
+  {
+    "headword": "ne",
+    "copticWord": "ⲛⲉ",
+    "englishTransliteration": "ne",
+    "variants": [
+      {
+        "word": "na",
+        "copticWord": "ⲛⲁ",
+        "englishTransliteration": "na"
+      }
+    ],
+    "reference": "219a",
+    "gloss": "vbal prfx. for imperfect",
+    "definition": "pluperfect"
+  },
+  {
+    "headword": "neb",
+    "copticWord": "ⲛⲉⲃ",
+    "englishTransliteration": "nev",
+    "gloss": "Lord",
+    "definition": "Lord",
+    "crossReference": {
+      "target": "n/b",
+      "gloss": "Lord"
+    }
+  },
+  {
+    "headword": "nebahi",
+    "copticWord": "ⲛⲉⲃⲁϩⲓ",
+    "englishTransliteration": "nevahi",
+    "gloss": "Long-lived",
+    "definition": "Long-lived",
+    "crossReference": {
+      "target": "n/b",
+      "gloss": "Long-lived"
+    }
+  },
+  {
+    "headword": "neb/i",
+    "copticWord": "ⲛⲉⲃⲏⲓ",
+    "englishTransliteration": "nevii",
+    "gloss": "Landlord",
+    "definition": "Landlord",
+    "crossReference": {
+      "target": "n/b",
+      "gloss": "Landlord"
+    }
+  },
+  {
+    "headword": "neb/t",
+    "copticWord": "ⲛⲉⲃⲏⲧ",
+    "englishTransliteration": "nevit",
+    "gloss": "Man of sense",
+    "definition": "Man of sense",
+    "crossReference": {
+      "target": "n/b",
+      "gloss": "Man of sense"
+    }
+  },
+  {
+    "headword": "nebi",
+    "copticWord": "ⲛⲉⲃⲓ",
+    "englishTransliteration": "nevi",
+    "gloss": "To swim",
+    "definition": "To swim",
+    "crossReference": {
+      "target": "n/bi",
+      "gloss": "To swim"
+    }
+  },
+  {
+    "headword": "nebiahi",
+    "copticWord": "ⲛⲉⲃⲓⲁϩⲓ",
+    "englishTransliteration": "neviahi",
+    "gloss": "Landowner",
+    "definition": "Landowner",
+    "crossReference": {
+      "target": "n/b",
+      "gloss": "Landowner"
+    }
+  },
+  {
+    "headword": "nebh/t",
+    "copticWord": "ⲛⲉⲃϩⲏⲧ",
+    "englishTransliteration": "nevhit",
+    "gloss": "Man of sense",
+    "definition": "Man of sense",
+    "crossReference": {
+      "target": "n/b",
+      "gloss": "Man of sense"
+    }
+  },
+  {
+    "headword": "neb]",
+    "copticWord": "ⲛⲉⲃϯ",
+    "englishTransliteration": "nevti",
+    "gloss": "Plait",
+    "definition": "Plait",
+    "crossReference": {
+      "target": "noubt",
+      "gloss": "Plait"
+    }
+  },
+  {
+    "headword": "nei",
+    "copticWord": "ⲛⲉⲓ",
+    "englishTransliteration": "ni",
+    "variants": [
+      {
+        "word": "n/i",
+        "copticWord": "ⲛⲏⲓ",
+        "englishTransliteration": "nii"
+      }
+    ],
+    "reference": "219a",
+    "partOfSpeech": "f",
+    "gloss": "Time",
+    "definition": "Time"
+  },
+  {
+    "headword": "ernei",
+    "copticWord": "ⲉⲣⲛⲉⲓ",
+    "englishTransliteration": "erni",
+    "partOfSpeech": "vb",
+    "gloss": "To make, reach time",
+    "definition": "To make, reach time"
+  },
+  {
+    "headword": "]nei",
+    "copticWord": "ϯⲛⲉⲓ",
+    "englishTransliteration": "tini",
+    "partOfSpeech": "vb",
+    "gloss": "To give, appoint time",
+    "definition": "To give, appoint time"
+  },
+  {
+    "headword": "nekron",
+    "copticWord": "ⲛⲉⲕⲣⲟⲛ",
+    "englishTransliteration": "nekron",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "gloss": "Corpse",
+    "definition": "adj. dead. prep. With; conj"
+  },
+  {
+    "headword": "alla nem",
+    "copticWord": "ⲁⲗⲗⲁ ⲛⲉⲙ",
+    "englishTransliteration": "alla nem",
+    "gloss": "But also",
+    "definition": "But also"
+  },
+  {
+    "headword": "nasp",
+    "copticWord": "ⲛⲁϣⲡ",
+    "englishTransliteration": "nashp",
+    "gloss": "Agitater. nasp/ri v. nousp - Scare crow. nast (Q) v. nsot - Being difficult. nast p.c. v. nsot - Hard of. nastnoheb v. noheb - Stiff-necked. nasth/t v. nsot - Hard-hearted. nasw= v. nase- - To be many. nas] v. nsot - Strength. nah= v. nouh - To be shaken. nahbef v. noheb - Yoke. nahbi v. naui - Spear",
+    "definition": "Agitater. nasp/ri v. nousp - Scare crow. nast (Q) v. nsot - Being difficult. nast p.c. v. nsot - Hard of. nastnoheb v. noheb - Stiff-necked. nasth/t v. nsot - Hard-hearted. nasw= v. nase- - To be many. nas] v. nsot - Strength. nah= v. nouh - To be shaken. nahbef v. noheb - Yoke. nahbi v. naui - Spear",
+    "crossReference": {
+      "target": "nousp",
+      "gloss": "Agitater. nasp/ri v. nousp - Scare crow. nast (Q) v. nsot - Being difficult. nast p.c. v. nsot - Hard of. nastnoheb v. noheb - Stiff-necked. nasth/t v. nsot - Hard-hearted. nasw= v. nase- - To be many. nas] v. nsot - Strength. nah= v. nouh - To be shaken. nahbef v. noheb - Yoke. nahbi v. naui - Spear"
+    }
+  },
+  {
+    "headword": "w",
+    "copticWord": "ⲱ",
+    "englishTransliteration": "ō",
+    "gloss": "nem-: exclamatory O! or and O!",
+    "definition": "nem-: exclamatory O! or and O!"
+  }
+]

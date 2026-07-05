@@ -1,0 +1,392 @@
+[
+  {
+    "headword": "(3) [wlp",
+    "copticWord": "ϭⲱⲗⲡ",
+    "englishTransliteration": "chōlp",
+    "reference": "813a",
+    "partOfSpeech": "n",
+    "gloss": "Projecting roof, veranda",
+    "definition": "Projecting roof, veranda"
+  },
+  {
+    "headword": "[wlh",
+    "copticWord": "ϭⲱⲗϩ",
+    "englishTransliteration": "chōlh",
+    "gloss": "To draw",
+    "definition": "To draw",
+    "crossReference": {
+      "target": "(1)jwlh",
+      "gloss": "To draw"
+    }
+  },
+  {
+    "headword": "[wm",
+    "copticWord": "ϭⲱⲙ",
+    "englishTransliteration": "chōm",
+    "variants": [
+      {
+        "word": "jwm",
+        "copticWord": "ϫⲱⲙ",
+        "englishTransliteration": "jōm"
+      }
+    ],
+    "reference": "817b",
+    "partOfSpeech": "m",
+    "gloss": "Garden, vineyard, property",
+    "definition": "Garden, vineyard, property",
+    "senses": [
+      {
+        "label": "[me",
+        "partOfSpeech": "m",
+        "gloss": "Gardener, vinedresser",
+        "definition": "Gardener, vinedresser"
+      }
+    ]
+  },
+  {
+    "headword": "[wtp",
+    "copticWord": "ϭⲱⲧⲡ",
+    "englishTransliteration": "chōtp",
+    "variants": [
+      {
+        "word": "[wtf",
+        "copticWord": "ϭⲱⲧϥ",
+        "englishTransliteration": "chōtf"
+      },
+      {
+        "word": "[wft",
+        "copticWord": "ϭⲱϥⲧ",
+        "englishTransliteration": "chōft"
+      },
+      {
+        "word": "(Q) [otp",
+        "copticWord": "(Ϧ) ϭⲟⲧⲡ",
+        "englishTransliteration": "(Kh) chotp"
+      }
+    ],
+    "reference": "833b",
+    "gloss": "vi. To be defeated, be overcome",
+    "definition": "vi. To be defeated, be overcome"
+  },
+  {
+    "headword": "at[wtp",
+    "copticWord": "ⲁⲧϭⲱⲧⲡ",
+    "englishTransliteration": "atchōtp",
+    "partOfSpeech": "adj",
+    "gloss": "Without defeat, unconquered. [top: n. Defeat",
+    "definition": "Without defeat, unconquered. [top: n. Defeat"
+  },
+  {
+    "headword": "[otpc",
+    "copticWord": "ϭⲟⲧⲡⲥ",
+    "englishTransliteration": "chotps",
+    "partOfSpeech": "f",
+    "gloss": "Dfeat",
+    "definition": "Dfeat"
+  },
+  {
+    "headword": "[wnt",
+    "copticWord": "ϭⲱⲛⲧ",
+    "englishTransliteration": "chōnt",
+    "gloss": "To try",
+    "definition": "To try",
+    "crossReference": {
+      "target": "(1)jwnt",
+      "gloss": "To try"
+    }
+  },
+  {
+    "headword": "[wtc",
+    "copticWord": "ϭⲱⲧⲥ",
+    "englishTransliteration": "chōts",
+    "reference": "834a",
+    "gloss": "vt. To bend, lower",
+    "definition": "vt. To bend, lower"
+  },
+  {
+    "headword": "[wp",
+    "copticWord": "ϭⲱⲡ",
+    "englishTransliteration": "chōp",
+    "gloss": "To shave",
+    "definition": "To shave",
+    "crossReference": {
+      "target": "(1)swp",
+      "gloss": "To shave"
+    }
+  },
+  {
+    "headword": "[wtf",
+    "copticWord": "ϭⲱⲧϥ",
+    "englishTransliteration": "chōtf",
+    "gloss": "To be defeated",
+    "definition": "To be defeated",
+    "crossReference": {
+      "target": "[wtp",
+      "gloss": "To be defeated"
+    }
+  },
+  {
+    "headword": "[wth",
+    "copticWord": "ϭⲱⲧϩ",
+    "englishTransliteration": "chōth",
+    "gloss": "To wound",
+    "definition": "To wound",
+    "crossReference": {
+      "target": "jwth",
+      "gloss": "To wound"
+    }
+  },
+  {
+    "headword": "[wsen",
+    "copticWord": "ϭⲱϣⲉⲛ",
+    "englishTransliteration": "chōshen",
+    "reference": "837a",
+    "partOfSpeech": "n",
+    "gloss": "Herb \"dill\"",
+    "definition": "Herb \"dill\""
+  },
+  {
+    "headword": "[wpi",
+    "copticWord": "ϭⲱⲡⲓ",
+    "englishTransliteration": "chōpi",
+    "variants": [
+      {
+        "word": "[ep",
+        "copticWord": "ϭⲉⲡ",
+        "englishTransliteration": "chep"
+      },
+      {
+        "word": "jep",
+        "copticWord": "ϫⲉⲡ",
+        "englishTransliteration": "jep"
+      },
+      {
+        "word": "[op=",
+        "copticWord": "ϭⲟⲡ",
+        "englishTransliteration": "chop"
+      },
+      {
+        "word": "jop=",
+        "copticWord": "ϫⲟⲡ",
+        "englishTransliteration": "jop"
+      },
+      {
+        "word": "(Q) j/b",
+        "copticWord": "(Ϧ) ϫⲏⲃ",
+        "englishTransliteration": "(Kh) jeeb"
+      },
+      {
+        "word": "p.c. [ap",
+        "copticWord": "ⲡ.ⲥ. ϭⲁⲡ",
+        "englishTransliteration": "p.s. chap"
+      }
+    ],
+    "reference": "825b",
+    "gloss": "vt. To seize, take",
+    "definition": "vt. To seize, take"
+  },
+  {
+    "headword": "[wft",
+    "copticWord": "ϭⲱϥⲧ",
+    "englishTransliteration": "chōft",
+    "gloss": "To be defeated",
+    "definition": "To be defeated",
+    "crossReference": {
+      "target": "[wtp",
+      "gloss": "To be defeated"
+    }
+  },
+  {
+    "headword": "[wr",
+    "copticWord": "ϭⲱⲣ",
+    "englishTransliteration": "chōr",
+    "variants": [
+      {
+        "word": "[our",
+        "copticWord": "ϭⲟⲩⲣ",
+        "englishTransliteration": "chour"
+      }
+    ],
+    "reference": "827b",
+    "partOfSpeech": "m",
+    "gloss": "Smoke, cinder",
+    "definition": "Smoke, cinder"
+  },
+  {
+    "headword": "[wqem",
+    "copticWord": "ϭⲱϧⲉⲙ",
+    "englishTransliteration": "chōkhem",
+    "variants": [
+      {
+        "word": "[aqem",
+        "copticWord": "ϭⲁϧⲉⲙ",
+        "englishTransliteration": "chakhem"
+      },
+      {
+        "word": "[aqm=",
+        "copticWord": "ϭⲁϧⲙ",
+        "englishTransliteration": "chakhm"
+      },
+      {
+        "word": "(Q) [a-qem",
+        "copticWord": "(Ϧ) ϭⲁ-ϧⲉⲙ",
+        "englishTransliteration": "(Kh) cha-khem"
+      }
+    ],
+    "reference": "797b",
+    "gloss": "vi. To be defiled",
+    "definition": "vt. To defile, pollute;"
+  },
+  {
+    "headword": "[wrem",
+    "copticWord": "ϭⲱⲣⲉⲙ",
+    "englishTransliteration": "chōrem",
+    "reference": "785b",
+    "gloss": "vi. To make sign, beckon",
+    "definition": "urge, drive, ride, hasten; --- e-: vi. To make a sign to"
+  },
+  {
+    "headword": "man[wrem",
+    "copticWord": "ⲙⲁⲛϭⲱⲣⲉⲙ",
+    "englishTransliteration": "manchōrem",
+    "partOfSpeech": "m",
+    "gloss": "Training stable",
+    "definition": "Training stable"
+  },
+  {
+    "headword": "ref[wrem",
+    "copticWord": "ⲣⲉϥϭⲱⲣⲉⲙ",
+    "englishTransliteration": "refchōrem",
+    "partOfSpeech": "m",
+    "gloss": "Driver, rider",
+    "definition": "Driver, rider"
+  },
+  {
+    "headword": "at[wqem",
+    "copticWord": "ⲁⲧϭⲱϧⲉⲙ",
+    "englishTransliteration": "atchōkhem",
+    "partOfSpeech": "adj",
+    "gloss": "Undefiled",
+    "definition": "Undefiled"
+  },
+  {
+    "headword": "ref[wqem",
+    "copticWord": "ⲣⲉϥϭⲱϧⲉⲙ",
+    "englishTransliteration": "refchōkhem",
+    "partOfSpeech": "m",
+    "gloss": "Defiled person",
+    "definition": "Defiled person"
+  },
+  {
+    "headword": "(1) [wrp",
+    "copticWord": "ϭⲱⲣⲡ",
+    "englishTransliteration": "chōrp",
+    "variants": [
+      {
+        "word": "[orp=",
+        "copticWord": "ϭⲟⲣⲡ",
+        "englishTransliteration": "chorp"
+      },
+      {
+        "word": "(Q) [orp",
+        "copticWord": "(Ϧ) ϭⲟⲣⲡ",
+        "englishTransliteration": "(Kh) chorp"
+      }
+    ],
+    "reference": "812a",
+    "gloss": "vt. To uncover, open, reveal",
+    "definition": "vt. To uncover, open, reveal"
+  },
+  {
+    "headword": "[wj",
+    "copticWord": "ϭⲱϫ",
+    "englishTransliteration": "chōj",
+    "variants": [
+      {
+        "word": "[oj=",
+        "copticWord": "ϭⲟϫ",
+        "englishTransliteration": "choj"
+      },
+      {
+        "word": "(Q) [/j",
+        "copticWord": "(Ϧ) ϭⲏϫ",
+        "englishTransliteration": "(Kh) chij"
+      }
+    ],
+    "reference": "800b",
+    "gloss": "vi. To be dyed, stained",
+    "definition": "vi. To be dyed, stained"
+  },
+  {
+    "headword": "(2) [wrp",
+    "copticWord": "ϭⲱⲣⲡ",
+    "englishTransliteration": "chōrp",
+    "reference": "829b",
+    "gloss": "vt. To nipoff, snatch",
+    "definition": "vt. To nipoff, snatch"
+  },
+  {
+    "headword": "(1) [wc",
+    "copticWord": "ϭⲱⲥ",
+    "englishTransliteration": "chōs",
+    "variants": [
+      {
+        "word": "[ac",
+        "copticWord": "ϭⲁⲥ",
+        "englishTransliteration": "chas"
+      },
+      {
+        "word": "(Q) [/c",
+        "copticWord": "(Ϧ) ϭⲏⲥ",
+        "englishTransliteration": "(Kh) chis"
+      }
+    ],
+    "reference": "788a",
+    "gloss": "vi. To become, be hard or solid",
+    "definition": "vt. to pack, load, harden."
+  },
+  {
+    "headword": "[/ji",
+    "copticWord": "ϭⲏϫⲓ",
+    "englishTransliteration": "chiji",
+    "partOfSpeech": "m",
+    "gloss": "Purple dye",
+    "definition": "Purple dye"
+  },
+  {
+    "headword": "ieb n[/ji",
+    "copticWord": "ⲓⲉⲃ ⲛϭⲏϫⲓ",
+    "englishTransliteration": "iev nchiji",
+    "partOfSpeech": "m",
+    "gloss": "Purple embroidery",
+    "definition": "Purple embroidery"
+  },
+  {
+    "headword": "ca n[/ji",
+    "copticWord": "ⲥⲁ ⲛϭⲏϫⲓ",
+    "englishTransliteration": "sa nchiji",
+    "partOfSpeech": "m",
+    "gloss": "Purple seller",
+    "definition": "Purple seller"
+  },
+  {
+    "headword": "[qelt",
+    "copticWord": "ϭϧⲉⲗⲧ",
+    "englishTransliteration": "chkhelt",
+    "gloss": "Pus",
+    "definition": "Pus",
+    "crossReference": {
+      "target": "sqelt",
+      "gloss": "Pus"
+    }
+  },
+  {
+    "headword": "(2) [wc",
+    "copticWord": "ϭⲱⲥ",
+    "englishTransliteration": "chōs",
+    "reference": "832b",
+    "partOfSpeech": "m",
+    "gloss": "Flatus ventris",
+    "definition": "Flatus ventris"
+  }
+]

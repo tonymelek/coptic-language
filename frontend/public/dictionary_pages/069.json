@@ -1,0 +1,83 @@
+[
+  {
+    "headword": "] nou[imsis",
+    "copticWord": "ϯ ⲛⲟⲩϭⲓⲙϣⲓϣ",
+    "englishTransliteration": "ti nouchimshish",
+    "partOfSpeech": "vb",
+    "gloss": "To give requital, take vengeance on",
+    "definition": "To give requital, take vengeance on"
+  },
+  {
+    "headword": "ref[imsis",
+    "copticWord": "ⲣⲉϥϭⲓⲙϣⲓϣ",
+    "englishTransliteration": "refchimshish",
+    "partOfSpeech": "m",
+    "gloss": "Taker of vengeance, avenger",
+    "definition": "note mpsis can replace msis in all the above constructions."
+  },
+  {
+    "headword": "mhot",
+    "copticWord": "ⲙϩⲟⲧ",
+    "englishTransliteration": "mhot",
+    "reference": "212b"
+  },
+  {
+    "headword": "m. Shoemaker's last or mallet. mjath v. mjaht - Mortar. mjaht",
+    "copticWord": "ⲙ. Ϣϩⲟⲉⲙⲁⲕⲉⲣⲯϣ ⲗⲁϣⲧ ⲟⲣ ⲙⲁⲗⲗⲉⲧ. ⲙϫⲁⲧϩ ⲫ. ⲙϫⲁϩⲧ - Ⲙⲟⲣⲧⲁⲣ. ⲙϫⲁϩⲧ",
+    "englishTransliteration": "m. Shhoemakerpssh lasht or mallet. mgath f. mgaht - Mortar. mgaht",
+    "variants": [
+      {
+        "word": "mjath",
+        "copticWord": "ⲙϫⲁⲧϩ",
+        "englishTransliteration": "mgath"
+      }
+    ],
+    "reference": "214a"
+  },
+  {
+    "headword": "f. Mortar. mjoul v. mjwl - Onion. mjwl",
+    "copticWord": "ϥ. Ⲙⲟⲣⲧⲁⲣ. ⲙϫⲟⲩⲗ ⲫ. ⲙϫⲱⲗ - Ⲟⲛⲓⲟⲛ. ⲙϫⲱⲗ",
+    "englishTransliteration": "f. Mortar. mjoul f. mjōl - Onion. mjōl",
+    "variants": [
+      {
+        "word": "emjwl",
+        "copticWord": "ⲉⲙϫⲱⲗ",
+        "englishTransliteration": "emjōl"
+      },
+      {
+        "word": "mjoul",
+        "copticWord": "ⲙϫⲟⲩⲗ",
+        "englishTransliteration": "mjoul"
+      }
+    ],
+    "reference": "213b",
+    "partOfSpeech": "m",
+    "gloss": "Onion",
+    "definition": "Onion"
+  },
+  {
+    "headword": "mhal",
+    "copticWord": "ⲙϩⲁⲗ",
+    "englishTransliteration": "mhal",
+    "reference": "665a",
+    "partOfSpeech": "m",
+    "gloss": "Servant, slave",
+    "definition": "Servant, slave"
+  },
+  {
+    "headword": "mhau",
+    "copticWord": "ⲙϩⲁⲩ",
+    "englishTransliteration": "mhav",
+    "variants": [
+      {
+        "word": "emhau",
+        "copticWord": "ⲉⲙϩⲁⲩ",
+        "englishTransliteration": "emhav"
+      }
+    ],
+    "reference": "212b",
+    "partOfSpeech": "m",
+    "gloss": "Tomb, cavern",
+    "definition": "Tomb, cavern"
+  }
+]

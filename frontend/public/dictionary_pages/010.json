@@ -1,0 +1,665 @@
+[
+  {
+    "headword": "anti",
+    "copticWord": "ⲁⲛⲧⲓ",
+    "englishTransliteration": "anti",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "prep. Opposite, against, in place of, for the sake of. anro v. ro (hanro) - Porch",
+    "definition": "prep. Opposite, against, in place of, for the sake of. anro v. ro (hanro) - Porch"
+  },
+  {
+    "headword": "anyemic",
+    "copticWord": "ⲁⲛⲑⲉⲙⲓⲥ",
+    "englishTransliteration": "anthemis",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "A herb like camomile",
+    "definition": "A herb like camomile"
+  },
+  {
+    "headword": "anyera",
+    "copticWord": "ⲁⲛⲑⲉⲣⲁ",
+    "englishTransliteration": "anthera",
+    "gloss": "Hammer",
+    "definition": "Hammer",
+    "crossReference": {
+      "target": "hay/r",
+      "gloss": "Hammer"
+    }
+  },
+  {
+    "headword": "antigramma",
+    "copticWord": "ⲁⲛⲧⲓⲅⲣⲁⲙⲙⲁ",
+    "englishTransliteration": "antigramma",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Duplicate letter",
+    "definition": "Duplicate letter"
+  },
+  {
+    "headword": "any/r",
+    "copticWord": "ⲁⲛⲑⲏⲣ",
+    "englishTransliteration": "anthir",
+    "gloss": "Hammer",
+    "definition": "Hammer",
+    "crossReference": {
+      "target": "hay/r",
+      "gloss": "Hammer"
+    }
+  },
+  {
+    "headword": "antigraveuc",
+    "copticWord": "ⲁⲛⲧⲓⲅⲣⲁⲫⲉⲩⲥ",
+    "englishTransliteration": "antigrafevs",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Checking- or copying-clerk, a public officer",
+    "definition": "Checking- or copying-clerk, a public officer"
+  },
+  {
+    "headword": "anyimoc",
+    "copticWord": "ⲁⲛⲑⲓⲙⲟⲥ",
+    "englishTransliteration": "anthimos",
+    "reference": "Gk?",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "1st month of the arabic year",
+    "definition": "1st month of the arabic year"
+  },
+  {
+    "headword": "antigrav/",
+    "copticWord": "ⲁⲛⲧⲓⲅⲣⲁⲫⲏ",
+    "englishTransliteration": "antigrafi",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Written reply, plea, transcribing",
+    "definition": "Written reply, plea, transcribing"
+  },
+  {
+    "headword": "anyropoc",
+    "copticWord": "ⲁⲛⲑⲣⲟⲡⲟⲥ",
+    "englishTransliteration": "anthropos",
+    "variants": [
+      {
+        "word": "-ou",
+        "copticWord": "-ⲟⲩ",
+        "englishTransliteration": "-ou"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Man, human, body",
+    "definition": "Man, human, body"
+  },
+  {
+    "headword": "anyropou",
+    "copticWord": "ⲁⲛⲑⲣⲟⲡⲟⲩ",
+    "englishTransliteration": "anthropou",
+    "gloss": "Human",
+    "definition": "Human",
+    "crossReference": {
+      "target": "anyropoc",
+      "gloss": "Human"
+    }
+  },
+  {
+    "headword": "anyupatoc",
+    "copticWord": "ⲁⲛⲑⲩⲡⲁⲧⲟⲥ",
+    "englishTransliteration": "anthypatos",
+    "variants": [
+      {
+        "word": "-ou",
+        "copticWord": "-ⲟⲩ",
+        "englishTransliteration": "-ou"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Proconsul",
+    "definition": "Proconsul"
+  },
+  {
+    "headword": "antigravon",
+    "copticWord": "ⲁⲛⲧⲓⲅⲣⲁⲫⲟⲛ",
+    "englishTransliteration": "antigrafon",
+    "gloss": "Plea. antidikoc: (Gk)",
+    "definition": "m. Opponent or adversary in a suit.",
+    "crossReference": {
+      "target": "antigrav/",
+      "gloss": "Plea. antidikoc: (Gk)"
+    }
+  },
+  {
+    "headword": "anyupatou",
+    "copticWord": "ⲁⲛⲑⲩⲡⲁⲧⲟⲩ",
+    "englishTransliteration": "anthypatou",
+    "gloss": "Proconsul",
+    "definition": "Proconsul",
+    "crossReference": {
+      "target": "anyupatoc",
+      "gloss": "Proconsul"
+    }
+  },
+  {
+    "headword": "anyouc",
+    "copticWord": "ⲁⲛⲑⲟⲩⲥ",
+    "englishTransliteration": "anthous",
+    "reference": "11b",
+    "partOfSpeech": "m",
+    "gloss": "A species of `lizard'",
+    "definition": "A species of `lizard'"
+  },
+  {
+    "headword": "antikumenoc",
+    "copticWord": "ⲁⲛⲧⲓⲕⲩⲙⲉⲛⲟⲥ",
+    "englishTransliteration": "antikymenos",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Unknown",
+    "definition": "Unknown"
+  },
+  {
+    "headword": "antilegin",
+    "copticWord": "ⲁⲛⲧⲓⲗⲉⲅⲓⲛ",
+    "englishTransliteration": "antilegin",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "gloss": "(w/ er-) To speak against, gainsay, contradict",
+    "definition": "(w/ er-) To speak against, gainsay, contradict"
+  },
+  {
+    "headword": "anikam",
+    "copticWord": "ⲁⲛⲓⲕⲁⲙ",
+    "englishTransliteration": "anikam",
+    "reference": "12b",
+    "partOfSpeech": "m",
+    "gloss": "A kind of `vitriol', metallic sulfate",
+    "definition": "A kind of `vitriol', metallic sulfate"
+  },
+  {
+    "headword": "anicon",
+    "copticWord": "ⲁⲛⲓⲥⲟⲛ",
+    "englishTransliteration": "anison",
+    "variants": [
+      {
+        "word": "-ou",
+        "copticWord": "-ⲟⲩ",
+        "englishTransliteration": "-ou"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Dill, anise",
+    "definition": "Dill, anise"
+  },
+  {
+    "headword": "antilogia",
+    "copticWord": "ⲁⲛⲧⲓⲗⲟⲅⲓⲁ",
+    "englishTransliteration": "antilogia",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Contradiction, controversy",
+    "definition": "Contradiction, controversy"
+  },
+  {
+    "headword": "anicou",
+    "copticWord": "ⲁⲛⲓⲥⲟⲩ",
+    "englishTransliteration": "anisou",
+    "gloss": "Anise",
+    "definition": "Anise",
+    "crossReference": {
+      "target": "anicon",
+      "gloss": "Anise"
+    }
+  },
+  {
+    "headword": "antilogoc",
+    "copticWord": "ⲁⲛⲧⲓⲗⲟⲅⲟⲥ",
+    "englishTransliteration": "antilogos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Contradictory, reverse",
+    "definition": "Contradictory, reverse"
+  },
+  {
+    "headword": "anict/",
+    "copticWord": "ⲁⲛⲓⲥⲧⲏ",
+    "englishTransliteration": "anisti",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "gloss": "To raise up, set up, wake up",
+    "definition": "to raise from the dead."
+  },
+  {
+    "headword": "antion",
+    "copticWord": "ⲁⲛⲧⲓⲟⲛ",
+    "englishTransliteration": "antion",
+    "gloss": "Opposite",
+    "definition": "Opposite",
+    "crossReference": {
+      "target": "antioc",
+      "gloss": "Opposite"
+    }
+  },
+  {
+    "headword": "anioui",
+    "copticWord": "ⲁⲛⲓⲟⲩⲓ",
+    "englishTransliteration": "anioui",
+    "gloss": "Bring",
+    "definition": "Bring",
+    "crossReference": {
+      "target": "ini",
+      "gloss": "Bring"
+    }
+  },
+  {
+    "headword": "ankevaloc",
+    "copticWord": "ⲁⲛⲕⲉⲫⲁⲗⲟⲥ",
+    "englishTransliteration": "ankefalos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Head, brain",
+    "definition": "Head, brain"
+  },
+  {
+    "headword": "antioc",
+    "copticWord": "ⲁⲛⲧⲓⲟⲥ",
+    "englishTransliteration": "antios",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Set against, face to face, opposite, contrary",
+    "definition": "Set against, face to face, opposite, contrary"
+  },
+  {
+    "headword": "ankoki",
+    "copticWord": "ⲁⲛⲕⲟⲕⲓ",
+    "englishTransliteration": "ankoki",
+    "variants": [
+      {
+        "word": "ankouki",
+        "copticWord": "ⲁⲛⲕⲟⲩⲕⲓ",
+        "englishTransliteration": "ankouki"
+      },
+      {
+        "word": "enkoki",
+        "copticWord": "ⲉⲛⲕⲟⲕⲓ",
+        "englishTransliteration": "enkoki"
+      }
+    ],
+    "reference": "12a",
+    "partOfSpeech": "m",
+    "gloss": "3rd (ring) finger",
+    "definition": "3rd (ring) finger"
+  },
+  {
+    "headword": "antl/ma",
+    "copticWord": "ⲁⲛⲧⲗⲏⲙⲁ",
+    "englishTransliteration": "antlima",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Bucket for drawing water",
+    "definition": "Bucket for drawing water"
+  },
+  {
+    "headword": "ankouki",
+    "copticWord": "ⲁⲛⲕⲟⲩⲕⲓ",
+    "englishTransliteration": "ankouki",
+    "gloss": "Ring finger",
+    "definition": "Ring finger",
+    "crossReference": {
+      "target": "ankoki",
+      "gloss": "Ring finger"
+    }
+  },
+  {
+    "headword": "antoli",
+    "copticWord": "ⲁⲛⲧⲟⲗⲓ",
+    "englishTransliteration": "antoli",
+    "reference": "12a",
+    "partOfSpeech": "m",
+    "gloss": "Fish-eating bird",
+    "definition": "Fish-eating bird"
+  },
+  {
+    "headword": "annonna",
+    "copticWord": "ⲁⲛⲛⲟⲛⲛⲁ",
+    "englishTransliteration": "annonna",
+    "gloss": "Unknown",
+    "definition": "Unknown",
+    "crossReference": {
+      "target": "annwnna",
+      "gloss": "Unknown"
+    }
+  },
+  {
+    "headword": "antwri",
+    "copticWord": "ⲁⲛⲧⲱⲣⲓ",
+    "englishTransliteration": "antōri",
+    "reference": "12a",
+    "partOfSpeech": "m",
+    "gloss": "One of mature age",
+    "definition": "One of mature age"
+  },
+  {
+    "headword": "annoser",
+    "copticWord": "ⲁⲛⲛⲟϣⲉⲣ",
+    "englishTransliteration": "annosher",
+    "reference": "12a",
+    "partOfSpeech": "m",
+    "gloss": "Wild endive, chicory",
+    "definition": "Wild endive, chicory"
+  },
+  {
+    "headword": "annwnna",
+    "copticWord": "ⲁⲛⲛⲱⲛⲛⲁ",
+    "englishTransliteration": "annōnna",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Unknown",
+    "definition": "Unknown"
+  },
+  {
+    "headword": "ano/ton",
+    "copticWord": "ⲁⲛⲟⲏⲧⲟⲛ",
+    "englishTransliteration": "anoiton",
+    "gloss": "Silly",
+    "definition": "Silly",
+    "crossReference": {
+      "target": "ano/toc",
+      "gloss": "Silly"
+    }
+  },
+  {
+    "headword": "atantwri",
+    "copticWord": "ⲁⲧⲁⲛⲧⲱⲣⲓ",
+    "englishTransliteration": "atantōri",
+    "variants": [
+      {
+        "word": "anantwri",
+        "copticWord": "ⲁⲛⲁⲛⲧⲱⲣⲓ",
+        "englishTransliteration": "anantōri"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "Minor, underage",
+    "definition": "Minor, underage"
+  },
+  {
+    "headword": "anwnna",
+    "copticWord": "ⲁⲛⲱⲛⲛⲁ",
+    "englishTransliteration": "anōnna",
+    "gloss": "Unknown",
+    "definition": "Unknown",
+    "crossReference": {
+      "target": "annwnna",
+      "gloss": "Unknown"
+    }
+  },
+  {
+    "headword": "ano/toc",
+    "copticWord": "ⲁⲛⲟⲏⲧⲟⲥ",
+    "englishTransliteration": "anoitos",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Unheard of, senseless, silly, not thought on",
+    "definition": "Unheard of, senseless, silly, not thought on"
+  },
+  {
+    "headword": "ansiri",
+    "copticWord": "ⲁⲛϣⲓⲣⲓ",
+    "englishTransliteration": "anshiri",
+    "variants": [
+      {
+        "word": "an[iri",
+        "copticWord": "ⲁⲛϭⲓⲣⲓ",
+        "englishTransliteration": "anchiri"
+      }
+    ],
+    "reference": "12b",
+    "partOfSpeech": "m",
+    "gloss": "Species of bean, phaseolus",
+    "definition": "Species of bean, phaseolus"
+  },
+  {
+    "headword": "anjwj",
+    "copticWord": "ⲁⲛϫⲱϫ",
+    "englishTransliteration": "anjōj",
+    "gloss": "Head",
+    "definition": "Head",
+    "crossReference": {
+      "target": "(1)jwj",
+      "gloss": "Head"
+    }
+  },
+  {
+    "headword": "ano/twc",
+    "copticWord": "ⲁⲛⲟⲏⲧⲱⲥ",
+    "englishTransliteration": "anoitōs",
+    "reference": "Gk",
+    "partOfSpeech": "adv",
+    "isGreek": true,
+    "gloss": "In foolishness, in thoughtlessness",
+    "definition": "In foolishness, in thoughtlessness"
+  },
+  {
+    "headword": "an[iri",
+    "copticWord": "ⲁⲛϭⲓⲣⲓ",
+    "englishTransliteration": "anchiri",
+    "gloss": "Bean",
+    "definition": "Bean",
+    "crossReference": {
+      "target": "ansiri",
+      "gloss": "Bean"
+    }
+  },
+  {
+    "headword": "anok",
+    "copticWord": "ⲁⲛⲟⲕ",
+    "englishTransliteration": "anok",
+    "reference": "11b",
+    "gloss": "pers. pron. `I'",
+    "definition": "pers. pron. `I'"
+  },
+  {
+    "headword": "(1) axia",
+    "copticWord": "ⲁⲝⲓⲁ",
+    "englishTransliteration": "aksia",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Worth, value, amount, reputation, dignity",
+    "definition": "Worth, value, amount, reputation, dignity"
+  },
+  {
+    "headword": "anom",
+    "copticWord": "ⲁⲛⲟⲙ",
+    "englishTransliteration": "anom",
+    "reference": "12a",
+    "partOfSpeech": "m",
+    "gloss": "Skin",
+    "definition": "Skin"
+  },
+  {
+    "headword": "(2) axia",
+    "copticWord": "ⲁⲝⲓⲁ",
+    "englishTransliteration": "aksia",
+    "gloss": "Worthy",
+    "definition": "Worthy",
+    "crossReference": {
+      "target": "axioc",
+      "gloss": "Worthy"
+    }
+  },
+  {
+    "headword": "anomia",
+    "copticWord": "ⲁⲛⲟⲙⲓⲁ",
+    "englishTransliteration": "anomia",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Iniquity, sin, lawlessness",
+    "definition": "Iniquity, sin, lawlessness"
+  },
+  {
+    "headword": "eranomin",
+    "copticWord": "ⲉⲣⲁⲛⲟⲙⲓⲛ",
+    "englishTransliteration": "eranomin",
+    "partOfSpeech": "vb",
+    "gloss": "To transgress, sin",
+    "definition": "To transgress, sin"
+  },
+  {
+    "headword": "axioin",
+    "copticWord": "ⲁⲝⲓⲟⲓⲛ",
+    "englishTransliteration": "aksioin",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Unknown",
+    "definition": "Unknown"
+  },
+  {
+    "headword": "anomon",
+    "copticWord": "ⲁⲛⲟⲙⲟⲛ",
+    "englishTransliteration": "anomon",
+    "gloss": "Lawless",
+    "definition": "Lawless",
+    "crossReference": {
+      "target": "anomoc",
+      "gloss": "Lawless"
+    }
+  },
+  {
+    "headword": "axioc",
+    "copticWord": "ⲁⲝⲓⲟⲥ",
+    "englishTransliteration": "aksios",
+    "variants": [
+      {
+        "word": "-ia",
+        "copticWord": "-ⲓⲁ",
+        "englishTransliteration": "-ia"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Worthy, goodly, estimable, deserving",
+    "definition": "Worthy, goodly, estimable, deserving"
+  },
+  {
+    "headword": "anomoc",
+    "copticWord": "ⲁⲛⲟⲙⲟⲥ",
+    "englishTransliteration": "anomos",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Without law, lawless, impious",
+    "definition": "Without law, lawless, impious"
+  },
+  {
+    "headword": "anon",
+    "copticWord": "ⲁⲛⲟⲛ",
+    "englishTransliteration": "anon",
+    "reference": "11b",
+    "gloss": "pl. of anok, `we'",
+    "definition": "pl. of anok, `we'"
+  },
+  {
+    "headword": "axiwma",
+    "copticWord": "ⲁⲝⲓⲱⲙⲁ",
+    "englishTransliteration": "aksiōma",
+    "variants": [
+      {
+        "word": "-atoc",
+        "copticWord": "-ⲁⲧⲟⲥ",
+        "englishTransliteration": "-atos"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Honor, reputation",
+    "definition": "Honor, reputation"
+  },
+  {
+    "headword": "anoni",
+    "copticWord": "ⲁⲛⲟⲛⲓ",
+    "englishTransliteration": "anoni",
+    "reference": "12a",
+    "gloss": "vi. To live luxuriously or wantonly",
+    "definition": "vi. To live luxuriously or wantonly"
+  },
+  {
+    "headword": "axiwmatikoc",
+    "copticWord": "ⲁⲝⲓⲱⲙⲁⲧⲓⲕⲟⲥ",
+    "englishTransliteration": "aksiōmatikos",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "(adj) Honorable, esteemed",
+    "definition": "(adj) Honorable, esteemed"
+  },
+  {
+    "headword": "anocioc",
+    "copticWord": "ⲁⲛⲟⲥⲓⲟⲥ",
+    "englishTransliteration": "anosios",
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Unholy, profane",
+    "definition": "Unholy, profane"
+  },
+  {
+    "headword": "axiwmatoc",
+    "copticWord": "ⲁⲝⲓⲱⲙⲁⲧⲟⲥ",
+    "englishTransliteration": "aksiōmatos",
+    "gloss": "Honor",
+    "definition": "Honor",
+    "crossReference": {
+      "target": "axiwma",
+      "gloss": "Honor"
+    }
+  }
+]

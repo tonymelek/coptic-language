@@ -1,0 +1,483 @@
+[
+  {
+    "headword": "moni",
+    "copticWord": "ⲙⲟⲛⲓ",
+    "englishTransliteration": "moni",
+    "gloss": "To pasture",
+    "definition": "To pasture",
+    "crossReference": {
+      "target": "amoni",
+      "gloss": "To pasture"
+    }
+  },
+  {
+    "headword": "monk",
+    "copticWord": "ⲙⲟⲛⲕ",
+    "englishTransliteration": "monk",
+    "gloss": "To make",
+    "definition": "To make",
+    "crossReference": {
+      "target": "mounk",
+      "gloss": "To make"
+    }
+  },
+  {
+    "headword": "mnot",
+    "copticWord": "ⲙⲛⲟⲧ",
+    "englishTransliteration": "mnot",
+    "variants": [
+      {
+        "type": "pl.",
+        "word": "mno]",
+        "copticWord": "ⲙⲛⲟϯ",
+        "englishTransliteration": "mnoti"
+      },
+      {
+        "word": "emno] & sg as pl",
+        "copticWord": "ⲉⲙⲛⲟϯ & ϣⲅ ⲁϣ ⲡⲗ",
+        "englishTransliteration": "emnoti & shg ash pl"
+      }
+    ],
+    "reference": "176b",
+    "partOfSpeech": "m",
+    "gloss": "Breast",
+    "definition": "Breast"
+  },
+  {
+    "headword": "monk=",
+    "copticWord": "ⲙⲟⲛⲕ",
+    "englishTransliteration": "monk",
+    "gloss": "To make",
+    "definition": "To make",
+    "crossReference": {
+      "target": "mounk",
+      "gloss": "To make"
+    }
+  },
+  {
+    "headword": "mno]",
+    "copticWord": "ⲙⲛⲟϯ",
+    "englishTransliteration": "mnoti",
+    "gloss": "Breasts",
+    "definition": "Breasts",
+    "crossReference": {
+      "target": "mnot",
+      "gloss": "Breasts"
+    }
+  },
+  {
+    "headword": "monkc",
+    "copticWord": "ⲙⲟⲛⲕⲥ",
+    "englishTransliteration": "monks",
+    "gloss": "Crucibles",
+    "definition": "Crucibles",
+    "crossReference": {
+      "target": "mounk",
+      "gloss": "Crucibles"
+    }
+  },
+  {
+    "headword": "(1) monmen",
+    "copticWord": "ⲙⲟⲛⲙⲉⲛ",
+    "englishTransliteration": "monmen",
+    "reference": "176a",
+    "gloss": "vi. To shake, be shaken",
+    "definition": "vt. to shake; ---: m. Shaking, earthquake, tempest."
+  },
+  {
+    "headword": "(2) monmen",
+    "copticWord": "ⲙⲟⲛⲙⲉⲛ",
+    "englishTransliteration": "monmen",
+    "reference": "176a",
+    "partOfSpeech": "adj",
+    "gloss": "Twisted, upside down",
+    "definition": "Twisted, upside down"
+  },
+  {
+    "headword": "monon",
+    "copticWord": "ⲙⲟⲛⲟⲛ",
+    "englishTransliteration": "monon",
+    "partOfSpeech": "m",
+    "gloss": "Alone, solitary, only, unique, single",
+    "definition": "Alone, solitary, only, unique, single"
+  },
+  {
+    "headword": "mor=",
+    "copticWord": "ⲙⲟⲣ",
+    "englishTransliteration": "mor",
+    "gloss": "To bind",
+    "definition": "To bind",
+    "crossReference": {
+      "target": "mour",
+      "gloss": "To bind"
+    }
+  },
+  {
+    "headword": "emnoute",
+    "copticWord": "ⲉⲙⲛⲟⲩⲧⲉ",
+    "englishTransliteration": "emnoute",
+    "reference": "176b",
+    "gloss": "m",
+    "definition": "m"
+  },
+  {
+    "headword": "mwini",
+    "copticWord": "ⲙⲱⲓⲛⲓ",
+    "englishTransliteration": "mōini",
+    "reference": "159a",
+    "gloss": "imperat. part",
+    "definition": "imperat. part"
+  },
+  {
+    "headword": "Take! mogic",
+    "copticWord": "Ⲧⲁⲕⲉ! ⲙⲟⲅⲓⲥ",
+    "englishTransliteration": "Take! mogis",
+    "reference": "Gk",
+    "partOfSpeech": "adv",
+    "isGreek": true,
+    "gloss": "With toil and pain, i.e. hardly, scarcely",
+    "definition": "With toil and pain, i.e. hardly, scarcely"
+  },
+  {
+    "headword": "moynec",
+    "copticWord": "ⲙⲟⲑⲛⲉⲥ",
+    "englishTransliteration": "mothnes",
+    "gloss": "Case",
+    "definition": "Case",
+    "crossReference": {
+      "target": "mton",
+      "gloss": "Case"
+    }
+  },
+  {
+    "headword": "moi",
+    "copticWord": "ⲙⲟⲓ",
+    "englishTransliteration": "moi",
+    "gloss": "imperat",
+    "definition": "imperat"
+  },
+  {
+    "headword": "of ']' Give! moki",
+    "copticWord": "ⲟϥ ⲯϯⲯ Ⲅⲓⲫⲉ! ⲙⲟⲕⲓ",
+    "englishTransliteration": "of pstips Gife! moki",
+    "reference": "161b",
+    "partOfSpeech": "m",
+    "gloss": "Jar, vessel, quiver, container in general",
+    "definition": "Jar, vessel, quiver, container in general"
+  },
+  {
+    "headword": "mokmek",
+    "copticWord": "ⲙⲟⲕⲙⲉⲕ",
+    "englishTransliteration": "mokmek",
+    "variants": [
+      {
+        "word": "mekmek",
+        "copticWord": "ⲙⲉⲕⲙⲉⲕ",
+        "englishTransliteration": "mekmek"
+      },
+      {
+        "word": "mekmouk=",
+        "copticWord": "ⲙⲉⲕⲙⲟⲩⲕ",
+        "englishTransliteration": "mekmouk"
+      }
+    ],
+    "reference": "162a",
+    "gloss": "vi",
+    "definition": "vi"
+  },
+  {
+    "headword": "morc",
+    "copticWord": "ⲙⲟⲣⲥ",
+    "englishTransliteration": "mors",
+    "gloss": "Bundle",
+    "definition": "Bundle",
+    "crossReference": {
+      "target": "mour",
+      "gloss": "Bundle"
+    }
+  },
+  {
+    "headword": "To think",
+    "copticWord": "Ⲧⲟ ⲧϩⲓⲛⲕ",
+    "englishTransliteration": "To think",
+    "variants": [
+      {
+        "word": "ponder; vt. to meditate",
+        "copticWord": "ⲡⲟⲛⲇⲉⲣⲑ ⲫⲧ. ⲧⲟ ⲙⲉⲇⲓⲧⲁⲧⲉ",
+        "englishTransliteration": "ponderth ft. to meditate"
+      },
+      {
+        "word": "intend",
+        "copticWord": "ⲓⲛⲧⲉⲛⲇ",
+        "englishTransliteration": "intend"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "Thought",
+    "definition": "Thought"
+  },
+  {
+    "headword": "ebol",
+    "copticWord": "ⲉⲃⲟⲗ",
+    "englishTransliteration": "evol",
+    "partOfSpeech": "vb",
+    "gloss": "To reflect, ponder",
+    "definition": "To reflect, ponder"
+  },
+  {
+    "headword": "jinmokmek",
+    "copticWord": "ϫⲓⲛⲙⲟⲕⲙⲉⲕ",
+    "englishTransliteration": "jinmokmek",
+    "partOfSpeech": "m",
+    "gloss": "Thought, imagination",
+    "definition": "Thought, imagination"
+  },
+  {
+    "headword": "mort",
+    "copticWord": "ⲙⲟⲣⲧ",
+    "englishTransliteration": "mort",
+    "reference": "183b",
+    "partOfSpeech": "f",
+    "gloss": "Beard",
+    "definition": "Beard"
+  },
+  {
+    "headword": "ermort",
+    "copticWord": "ⲉⲣⲙⲟⲣⲧ",
+    "englishTransliteration": "ermort",
+    "partOfSpeech": "vb",
+    "gloss": "To grow a beard, be bearded",
+    "definition": "To grow a beard, be bearded"
+  },
+  {
+    "headword": "sepmort",
+    "copticWord": "ϣⲉⲡⲙⲟⲣⲧ",
+    "englishTransliteration": "shepmort",
+    "partOfSpeech": "vb",
+    "gloss": "To shave a beard",
+    "definition": "To shave a beard"
+  },
+  {
+    "headword": "mortioc",
+    "copticWord": "ⲙⲟⲣⲧⲓⲟⲥ",
+    "englishTransliteration": "mortios",
+    "partOfSpeech": "adj",
+    "gloss": "Well bearded",
+    "definition": "Well bearded"
+  },
+  {
+    "headword": "molo",
+    "copticWord": "ⲙⲟⲗⲟ",
+    "englishTransliteration": "molo",
+    "reference": "165a",
+    "partOfSpeech": "n",
+    "gloss": "The planet Mars",
+    "definition": "the canaanite-phoenician god of sky & sun"
+  },
+  {
+    "headword": "molo,eia",
+    "copticWord": "ⲙⲟⲗⲟⲭⲉⲓⲁ",
+    "englishTransliteration": "molokhia",
+    "gloss": "Molokhia (an edible plant)",
+    "definition": "Molokhia (an edible plant)",
+    "crossReference": {
+      "target": "molo,/",
+      "gloss": "Molokhia (an edible plant)"
+    }
+  },
+  {
+    "headword": "[imorv/",
+    "copticWord": "ϭⲓⲙⲟⲣⲫⲏ",
+    "englishTransliteration": "chimorfi",
+    "gloss": "vb",
+    "definition": "vb"
+  },
+  {
+    "headword": "mock (Q)",
+    "copticWord": "ⲙⲟⲥⲕ (Ϧ)",
+    "englishTransliteration": "mosk (Kh)",
+    "reference": "186a",
+    "gloss": "vt. To be sharpened (by whetting)",
+    "definition": "vt. To be sharpened (by whetting)"
+  },
+  {
+    "headword": "molq",
+    "copticWord": "ⲙⲟⲗϧ",
+    "englishTransliteration": "molkh",
+    "variants": [
+      {
+        "word": "molq=",
+        "copticWord": "ⲙⲟⲗϧ",
+        "englishTransliteration": "molkh"
+      }
+    ],
+    "reference": "166a",
+    "gloss": "vi. To be hooked into, twisted into, attached to",
+    "definition": "vt. to involve, enmesh"
+  },
+  {
+    "headword": "molq=",
+    "copticWord": "ⲙⲟⲗϧ",
+    "englishTransliteration": "molkh",
+    "gloss": "To involve",
+    "definition": "To involve",
+    "crossReference": {
+      "target": "molq",
+      "gloss": "To involve"
+    }
+  },
+  {
+    "headword": "molh",
+    "copticWord": "ⲙⲟⲗϩ",
+    "englishTransliteration": "molh",
+    "gloss": "Honey combs",
+    "definition": "Honey combs",
+    "crossReference": {
+      "target": "(2)moulh",
+      "gloss": "Honey combs"
+    }
+  },
+  {
+    "headword": "molh=",
+    "copticWord": "ⲙⲟⲗϩ",
+    "englishTransliteration": "molh",
+    "gloss": "To make salt",
+    "definition": "To make salt",
+    "crossReference": {
+      "target": "(1)moulh",
+      "gloss": "To make salt"
+    }
+  },
+  {
+    "headword": "macte",
+    "copticWord": "ⲙⲁⲥⲧⲉ",
+    "englishTransliteration": "maste",
+    "reference": "187a",
+    "gloss": "vt. To hate",
+    "definition": "p.c. hater of; ---: m. Hatred, object of hatred"
+  },
+  {
+    "headword": "soumoc]",
+    "copticWord": "ϣⲟⲩⲙⲟⲥϯ",
+    "englishTransliteration": "shoumosti",
+    "partOfSpeech": "vb",
+    "gloss": "Deserving to be hated",
+    "definition": "Deserving to be hated"
+  },
+  {
+    "headword": "moten",
+    "copticWord": "ⲙⲟⲧⲉⲛ",
+    "englishTransliteration": "moten",
+    "reference": "195a",
+    "gloss": "vb rflx. To rest, set at rest",
+    "definition": "vb rflx. To rest, set at rest"
+  },
+  {
+    "headword": "mou",
+    "copticWord": "ⲙⲟⲩ",
+    "englishTransliteration": "mou",
+    "gloss": "Place",
+    "definition": "Place",
+    "crossReference": {
+      "target": "ma",
+      "gloss": "Place"
+    }
+  },
+  {
+    "headword": "etbe",
+    "copticWord": "ⲉⲧⲃⲉ",
+    "englishTransliteration": "etve",
+    "partOfSpeech": "vb",
+    "gloss": "To die because of",
+    "definition": "--- ejen-: vb. To die for, because of; --- n- nten-: vb. To die from, be means of;"
+  },
+  {
+    "headword": "ebolha",
+    "copticWord": "ⲉⲃⲟⲗϩⲁ",
+    "englishTransliteration": "evolha",
+    "partOfSpeech": "vb",
+    "gloss": "To die from",
+    "definition": "To die from"
+  },
+  {
+    "headword": "qen",
+    "copticWord": "ϧⲉⲛ",
+    "englishTransliteration": "khen",
+    "partOfSpeech": "vb",
+    "gloss": "To die by means of",
+    "definition": "To die by means of"
+  },
+  {
+    "headword": "molj",
+    "copticWord": "ⲙⲟⲗϫ",
+    "englishTransliteration": "molj",
+    "gloss": "To embrace",
+    "definition": "To embrace",
+    "crossReference": {
+      "target": "moulj",
+      "gloss": "To embrace"
+    }
+  },
+  {
+    "headword": "molj=",
+    "copticWord": "ⲙⲟⲗϫ",
+    "englishTransliteration": "molj",
+    "gloss": "To embrace",
+    "definition": "To embrace",
+    "crossReference": {
+      "target": "moulj",
+      "gloss": "To embrace"
+    }
+  },
+  {
+    "headword": "moulj - To be embraced monac",
+    "copticWord": "ⲙⲟⲩⲗϫ - Ⲧⲟ ⲃⲉ ⲉⲙⲃⲣⲁⲥⲉⲇ ⲙⲟⲛⲁⲥ",
+    "englishTransliteration": "moulj - To ve emvrased monas",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Solitary, alone",
+    "definition": "Solitary, alone"
+  },
+  {
+    "headword": "monact/rion",
+    "copticWord": "ⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ",
+    "englishTransliteration": "monastirion",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Monastery",
+    "definition": "Monastery"
+  },
+  {
+    "headword": "hermit's cell. mona",
+    "copticWord": "ϩⲉⲣⲙⲓⲧⲯϣ ⲥⲉⲗⲗ. ⲙⲟⲛⲁ",
+    "englishTransliteration": "hermitpssh sell. mona",
+    "variants": [
+      {
+        "word": "oc",
+        "copticWord": "ⲟⲥ",
+        "englishTransliteration": "os"
+      },
+      {
+        "type": "f.",
+        "word": "-/",
+        "copticWord": "-ⲏ",
+        "englishTransliteration": "-i"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Monk, f. nun",
+    "definition": "unique, single"
+  },
+  {
+    "headword": "hiten",
+    "copticWord": "ϩⲓⲧⲉⲛ",
+    "englishTransliteration": "hiten",
+    "partOfSpeech": "vb",
+    "gloss": "To die through",
+    "definition": "To die through"
+  }
+]

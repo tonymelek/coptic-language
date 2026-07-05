@@ -1,0 +1,343 @@
+[
+  {
+    "headword": "nyo",
+    "copticWord": "ⲛⲑⲟ",
+    "englishTransliteration": "ntho",
+    "gloss": "Many, various",
+    "definition": "Many, various"
+  },
+  {
+    "headword": "(2) yo",
+    "copticWord": "ⲑⲟ",
+    "englishTransliteration": "tho",
+    "reference": "396a"
+  },
+  {
+    "headword": "m. Land",
+    "copticWord": "ⲙ. Ⲗⲁⲛⲇ",
+    "englishTransliteration": "m. Land",
+    "variants": [
+      {
+        "word": "earth. yo nr/] v. r/] - Many sorts. yobteb v. tabteb - To invest. yoi",
+        "copticWord": "ⲉⲁⲣⲧϩ. ⲑⲟ ⲛⲣⲏϯ ⲫ. ⲣⲏϯ - Ⲙⲁⲛⲑ ϣⲟⲣⲧϣ. ⲑⲟⲃⲧⲉⲃ ⲫ. ⲧⲁⲃⲧⲉⲃ - Ⲧⲟ ⲓⲛⲫⲉϣⲧ. ⲑⲟⲓ",
+        "englishTransliteration": "earth. tho nriti f. riti - Manth shortsh. thovtev f. tavtev - To infesht. thoi"
+      }
+    ],
+    "reference": "396b",
+    "gloss": "fm. Spot",
+    "definition": "fm. Spot"
+  },
+  {
+    "headword": "yok",
+    "copticWord": "ⲑⲟⲕ",
+    "englishTransliteration": "thok",
+    "variants": [
+      {
+        "word": "ywk",
+        "copticWord": "ⲑⲱⲕ",
+        "englishTransliteration": "thōk"
+      }
+    ],
+    "reference": "403a",
+    "partOfSpeech": "m",
+    "gloss": "Knife, razor. yok v. (1)ywk - Mast. yokem (Q) v. ywkem - To pluck. yokc= v. youx - To pierce. yokc (Q) v. youx - To be pierced. yoktek v. jokjek - To braid. yolb= v. ywleb - To defile. yoleb (Q) v. ywleb - To defile. yolm= v. ywleb - To defile. yolc (Q) v. ywlc - To be fixed. yom: (412b)",
+    "definition": "m. Mat (of reeds). yom= v. ywm - To shut. yomc v. ywmc - To bury. yomc= v. ywmc - To bury."
+  },
+  {
+    "headword": "yrapc",
+    "copticWord": "ⲑⲣⲁⲡⲥ",
+    "englishTransliteration": "thraps",
+    "gloss": "To sew. yre, pl",
+    "definition": "To sew. yre, pl",
+    "crossReference": {
+      "target": "ywrp",
+      "gloss": "To sew. yre, pl"
+    }
+  },
+  {
+    "headword": "yreu",
+    "copticWord": "ⲑⲣⲉⲩ",
+    "englishTransliteration": "threv",
+    "reference": "429b",
+    "partOfSpeech": "mf",
+    "gloss": "Kite",
+    "definition": "Kite"
+  },
+  {
+    "headword": "yre",
+    "copticWord": "ⲑⲣⲉ",
+    "englishTransliteration": "thre",
+    "gloss": "To cause to do",
+    "definition": "To cause to do",
+    "crossReference": {
+      "target": "yro",
+      "gloss": "To cause to do"
+    }
+  },
+  {
+    "headword": "yre=",
+    "copticWord": "ⲑⲣⲉ",
+    "englishTransliteration": "thre",
+    "gloss": "To cause to do",
+    "definition": "To cause to do",
+    "crossReference": {
+      "target": "yro",
+      "gloss": "To cause to do"
+    }
+  },
+  {
+    "headword": "yr/b",
+    "copticWord": "ⲑⲣⲏⲃ",
+    "englishTransliteration": "threeb",
+    "reference": "410a",
+    "partOfSpeech": "m",
+    "gloss": "Blow with foot, kick",
+    "definition": "Blow with foot, kick"
+  },
+  {
+    "headword": "yrim",
+    "copticWord": "ⲑⲣⲓⲙ",
+    "englishTransliteration": "thrim",
+    "reference": "69a",
+    "partOfSpeech": "m",
+    "gloss": "Quick silver",
+    "definition": "Quick silver"
+  },
+  {
+    "headword": "yrir",
+    "copticWord": "ⲑⲣⲓⲣ",
+    "englishTransliteration": "thrir",
+    "reference": "413b",
+    "partOfSpeech": "f",
+    "gloss": "Oven",
+    "definition": "Oven"
+  },
+  {
+    "headword": "To cause to yronicmoc",
+    "copticWord": "Ⲧⲟ ⲥⲁⲩϣⲉ ⲧⲟ ⲑⲣⲟⲛⲓⲥⲙⲟⲥ",
+    "englishTransliteration": "To savshe to thronismos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Enthronment",
+    "definition": "Enthronment"
+  },
+  {
+    "headword": "yronoc",
+    "copticWord": "ⲑⲣⲟⲛⲟⲥ",
+    "englishTransliteration": "thronos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Seat, chair, throne, chair of state",
+    "definition": "Seat, chair, throne, chair of state"
+  },
+  {
+    "headword": "yros",
+    "copticWord": "ⲑⲣⲟϣ",
+    "englishTransliteration": "throsh",
+    "reference": "69a",
+    "gloss": "vi. To stare in astonishment",
+    "definition": "vi. To stare in astonishment"
+  },
+  {
+    "headword": "yresres",
+    "copticWord": "ⲑⲣⲉϣⲣⲉϣ",
+    "englishTransliteration": "threshresh",
+    "gloss": "To be red",
+    "definition": "To be red",
+    "crossReference": {
+      "target": "ywrs",
+      "gloss": "To be red"
+    }
+  },
+  {
+    "headword": "you",
+    "copticWord": "ⲑⲟⲩ",
+    "englishTransliteration": "thou",
+    "gloss": "Wind",
+    "definition": "Wind",
+    "crossReference": {
+      "target": "y/ou",
+      "gloss": "Wind"
+    }
+  },
+  {
+    "headword": "youai",
+    "copticWord": "ⲑⲟⲩⲁⲓ",
+    "englishTransliteration": "thouai",
+    "variants": [
+      {
+        "word": "ybai",
+        "copticWord": "ⲑⲃⲁⲓ",
+        "englishTransliteration": "thvai"
+      }
+    ],
+    "reference": "443b",
+    "partOfSpeech": "mf",
+    "gloss": "Door-post, lintel",
+    "definition": "Door-post, lintel"
+  },
+  {
+    "headword": "youelo",
+    "copticWord": "ⲑⲟⲩⲉⲗⲟ",
+    "englishTransliteration": "thouelo",
+    "variants": [
+      {
+        "word": "toulo",
+        "copticWord": "ⲧⲟⲩⲗⲟ",
+        "englishTransliteration": "toulo"
+      }
+    ],
+    "reference": "69b",
+    "partOfSpeech": "vb",
+    "gloss": "caus. To overflow, submerge",
+    "definition": "caus. To overflow, submerge"
+  },
+  {
+    "headword": "youet",
+    "copticWord": "ⲑⲟⲩⲉⲧ",
+    "englishTransliteration": "thouet",
+    "gloss": "To gather",
+    "definition": "To gather",
+    "crossReference": {
+      "target": "ywou]",
+      "gloss": "To gather"
+    }
+  },
+  {
+    "headword": "youyou",
+    "copticWord": "ⲑⲟⲩⲑⲟⲩ",
+    "englishTransliteration": "thouthou",
+    "reference": "69b",
+    "gloss": "vi. To have the skin disease",
+    "definition": "vi. To have the skin disease"
+  },
+  {
+    "headword": "youme",
+    "copticWord": "ⲑⲟⲩⲙⲉ",
+    "englishTransliteration": "thoume",
+    "reference": "68b",
+    "partOfSpeech": "n",
+    "gloss": "The zodiac sign 'Virgo'",
+    "definition": "The zodiac sign 'Virgo'"
+  },
+  {
+    "headword": "yumoc",
+    "copticWord": "ⲑⲩⲙⲟⲥ",
+    "englishTransliteration": "thymos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Anger, wrath",
+    "definition": "Anger, wrath"
+  },
+  {
+    "headword": "yuniporic monac",
+    "copticWord": "ⲑⲩⲛⲓⲡⲟⲣⲓⲥ ⲙⲟⲛⲁⲥ",
+    "englishTransliteration": "thyniporis monas",
+    "reference": "Gk?",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "gloss": "A month of the Arabic calendar 'Rabih al-Awal'",
+    "definition": "A month of the Arabic calendar 'Rabih al-Awal'"
+  },
+  {
+    "headword": "yuniporic dioc",
+    "copticWord": "ⲑⲩⲛⲓⲡⲟⲣⲓⲥ ⲇⲓⲟⲥ",
+    "englishTransliteration": "thyniporis dios",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "gloss": "A month of the Arabic calendar ' Rabih al-Thani'",
+    "definition": "A month of the Arabic calendar ' Rabih al-Thani'"
+  },
+  {
+    "headword": "youkc",
+    "copticWord": "ⲑⲟⲩⲕⲥ",
+    "englishTransliteration": "thouks",
+    "gloss": "To pierce",
+    "definition": "To pierce",
+    "crossReference": {
+      "target": "youx",
+      "gloss": "To pierce"
+    }
+  },
+  {
+    "headword": "youx",
+    "copticWord": "ⲑⲟⲩⲝ",
+    "englishTransliteration": "thouks",
+    "variants": [
+      {
+        "word": "twtc",
+        "copticWord": "ⲧⲱⲧⲥ",
+        "englishTransliteration": "tōts"
+      },
+      {
+        "word": "youkc",
+        "copticWord": "ⲑⲟⲩⲕⲥ",
+        "englishTransliteration": "thouks"
+      },
+      {
+        "word": "tekc",
+        "copticWord": "ⲧⲉⲕⲥ",
+        "englishTransliteration": "teks"
+      },
+      {
+        "word": "yokc=",
+        "copticWord": "ⲑⲟⲕⲥ",
+        "englishTransliteration": "thoks"
+      },
+      {
+        "word": "tokc",
+        "note": "Q",
+        "copticWord": "ⲧⲟⲕⲥ",
+        "englishTransliteration": "toks"
+      },
+      {
+        "word": "yokc",
+        "note": "Q",
+        "copticWord": "ⲑⲟⲕⲥ",
+        "englishTransliteration": "thoks"
+      },
+      {
+        "word": "totc",
+        "note": "Q",
+        "copticWord": "ⲧⲟⲧⲥ",
+        "englishTransliteration": "tots"
+      },
+      {
+        "word": "yotc",
+        "note": "Q",
+        "copticWord": "ⲑⲟⲧⲥ",
+        "englishTransliteration": "thots"
+      }
+    ],
+    "reference": "406b",
+    "gloss": "vi. To pierce, bite, be pierced, be studded with nails",
+    "definition": "vt. to pierce, goad;"
+  },
+  {
+    "headword": "--- e",
+    "copticWord": "--- ⲉ",
+    "englishTransliteration": "--- e",
+    "gloss": "vi. To be driven, smitten into, be firm",
+    "definition": "vt. to drive in, point;"
+  },
+  {
+    "headword": "--- n",
+    "copticWord": "--- ⲛ",
+    "englishTransliteration": "--- n",
+    "partOfSpeech": "vb",
+    "gloss": "To inlaid with",
+    "definition": "To inlaid with"
+  },
+  {
+    "headword": "--- qen",
+    "copticWord": "--- ϧⲉⲛ",
+    "englishTransliteration": "--- khen",
+    "partOfSpeech": "vb",
+    "gloss": "To pierce with",
+    "definition": "To pierce with"
+  }
+]

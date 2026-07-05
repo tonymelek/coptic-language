@@ -1,0 +1,571 @@
+[
+  {
+    "headword": "ebol qen",
+    "copticWord": "ⲉⲃⲟⲗ ϧⲉⲛ",
+    "englishTransliteration": "evol khen",
+    "partOfSpeech": "vb",
+    "gloss": "To awake, arise from",
+    "definition": "To awake, arise from"
+  },
+  {
+    "headword": "epswi",
+    "copticWord": "ⲉⲡϣⲱⲓ",
+    "englishTransliteration": "epshōi",
+    "partOfSpeech": "vb",
+    "gloss": "To rise up, awake",
+    "definition": "To rise up, awake"
+  },
+  {
+    "headword": "nema=",
+    "copticWord": "ⲛⲉⲙⲁ",
+    "englishTransliteration": "nema",
+    "gloss": "- With",
+    "definition": "- With",
+    "crossReference": {
+      "target": "nem",
+      "gloss": "- With"
+    }
+  },
+  {
+    "headword": "nece",
+    "copticWord": "ⲛⲉⲥⲉ",
+    "englishTransliteration": "nese",
+    "variants": [
+      {
+        "word": "necw=",
+        "copticWord": "ⲛⲉⲥⲱ",
+        "englishTransliteration": "nesō"
+      }
+    ],
+    "reference": "228b",
+    "gloss": "vi. To be beautiful",
+    "definition": "vi. To be beautiful"
+  },
+  {
+    "headword": "eynece",
+    "copticWord": "ⲉⲑⲛⲉⲥⲉ",
+    "englishTransliteration": "ethnese",
+    "variants": [
+      {
+        "word": "eynecw=",
+        "copticWord": "ⲉⲑⲛⲉⲥⲱ",
+        "englishTransliteration": "ethnesō"
+      }
+    ],
+    "partOfSpeech": "adj",
+    "gloss": "Beautiful",
+    "definition": "Beautiful"
+  },
+  {
+    "headword": "necw=",
+    "copticWord": "ⲛⲉⲥⲱ",
+    "englishTransliteration": "nesō",
+    "gloss": "- To be beautiful",
+    "definition": "- To be beautiful",
+    "crossReference": {
+      "target": "nece",
+      "gloss": "- To be beautiful"
+    }
+  },
+  {
+    "headword": "ehr/i",
+    "copticWord": "ⲉϩⲣⲏⲓ",
+    "englishTransliteration": "ehrii",
+    "partOfSpeech": "vb",
+    "gloss": "To rise up, awake",
+    "definition": "To rise up, awake"
+  },
+  {
+    "headword": "jinnehci",
+    "copticWord": "ϫⲓⲛⲛⲉϩⲥⲓ",
+    "englishTransliteration": "jinnehsi",
+    "partOfSpeech": "m",
+    "gloss": "Awakening, arising",
+    "definition": "Awakening, arising"
+  },
+  {
+    "headword": "netb",
+    "copticWord": "ⲛⲉⲧⲃ",
+    "englishTransliteration": "netv",
+    "gloss": "To loosen",
+    "definition": "To loosen",
+    "crossReference": {
+      "target": "noutf",
+      "gloss": "To loosen"
+    }
+  },
+  {
+    "headword": "nehf",
+    "copticWord": "ⲛⲉϩϥ",
+    "englishTransliteration": "nehf",
+    "gloss": "What is shaken",
+    "definition": "What is shaken",
+    "crossReference": {
+      "target": "nouh",
+      "gloss": "What is shaken"
+    }
+  },
+  {
+    "headword": "netf",
+    "copticWord": "ⲛⲉⲧϥ",
+    "englishTransliteration": "netf",
+    "gloss": "To loosen",
+    "definition": "To loosen",
+    "crossReference": {
+      "target": "noutf",
+      "gloss": "To loosen"
+    }
+  },
+  {
+    "headword": "nej",
+    "copticWord": "ⲛⲉϫ",
+    "englishTransliteration": "nej",
+    "gloss": "To throw",
+    "definition": "To throw",
+    "crossReference": {
+      "target": "(2)nouj",
+      "gloss": "To throw"
+    }
+  },
+  {
+    "headword": "neji",
+    "copticWord": "ⲛⲉϫⲓ",
+    "englishTransliteration": "neji",
+    "reference": "252a",
+    "partOfSpeech": "f",
+    "gloss": "Belly, womb",
+    "definition": "Belly, womb"
+  },
+  {
+    "headword": "n/",
+    "copticWord": "ⲛⲏ",
+    "englishTransliteration": "ni",
+    "gloss": "Demonstrative article (pl)",
+    "definition": "Demonstrative article (pl)",
+    "crossReference": {
+      "target": "v/",
+      "gloss": "Demonstrative article (pl)"
+    }
+  },
+  {
+    "headword": "n/i",
+    "copticWord": "ⲛⲏⲓ",
+    "englishTransliteration": "nii",
+    "gloss": "Time",
+    "definition": "Time",
+    "crossReference": {
+      "target": "nei",
+      "gloss": "Time"
+    }
+  },
+  {
+    "headword": "n/b",
+    "copticWord": "ⲛⲏⲃ",
+    "englishTransliteration": "neeb",
+    "variants": [
+      {
+        "word": "neb",
+        "copticWord": "ⲛⲉⲃ",
+        "englishTransliteration": "nev"
+      }
+    ],
+    "reference": "221a",
+    "partOfSpeech": "m",
+    "gloss": "Lord, master,",
+    "definition": "Lord, master,",
+    "senses": [
+      {
+        "gloss": "owner",
+        "definition": "f. mistress;"
+      },
+      {
+        "label": "atn/b",
+        "partOfSpeech": "adj",
+        "gloss": "Lordless",
+        "definition": "Lordless"
+      }
+    ]
+  },
+  {
+    "headword": "nesp",
+    "copticWord": "ⲛⲉϣⲡ",
+    "englishTransliteration": "neshp",
+    "gloss": "To agitate",
+    "definition": "To agitate",
+    "crossReference": {
+      "target": "nousp",
+      "gloss": "To agitate"
+    }
+  },
+  {
+    "headword": "neste",
+    "copticWord": "ⲛⲉϣⲧⲉ",
+    "englishTransliteration": "neshte",
+    "gloss": "Rough person",
+    "definition": "Rough person",
+    "crossReference": {
+      "target": "nsot",
+      "gloss": "Rough person"
+    }
+  },
+  {
+    "headword": "nef",
+    "copticWord": "ⲛⲉϥ",
+    "englishTransliteration": "nef",
+    "reference": "238b",
+    "partOfSpeech": "m",
+    "gloss": "Sailor",
+    "definition": "Sailor"
+  },
+  {
+    "headword": "nefhith/",
+    "copticWord": "ⲛⲉϥϩⲓⲧϩⲏ",
+    "englishTransliteration": "nefhithi",
+    "partOfSpeech": "m",
+    "gloss": "Pilot",
+    "definition": "Pilot"
+  },
+  {
+    "headword": "nefi",
+    "copticWord": "ⲛⲉϥⲓ",
+    "englishTransliteration": "nefi",
+    "gloss": "To swim",
+    "definition": "To swim",
+    "crossReference": {
+      "target": "n/bi",
+      "gloss": "To swim"
+    }
+  },
+  {
+    "headword": "neft",
+    "copticWord": "ⲛⲉϥⲧ",
+    "englishTransliteration": "neft",
+    "gloss": "To loosen",
+    "definition": "To loosen",
+    "crossReference": {
+      "target": "noutf",
+      "gloss": "To loosen"
+    }
+  },
+  {
+    "headword": "neh",
+    "copticWord": "ⲛⲉϩ",
+    "englishTransliteration": "neh",
+    "reference": "240b",
+    "partOfSpeech": "m",
+    "gloss": "Oil",
+    "definition": "Oil"
+  },
+  {
+    "headword": "keniwt",
+    "copticWord": "ⲕⲉⲛⲓⲱⲧ",
+    "englishTransliteration": "keniōt",
+    "partOfSpeech": "m",
+    "gloss": "Fat, thick oil",
+    "definition": "--- eynotem: m. Sweet oil; --- efberber: m. Boiling oil; --- eyouab: m. Holy oil; --- nywhc: m. Oil of anointing"
+  },
+  {
+    "headword": "ayneh",
+    "copticWord": "ⲁⲑⲛⲉϩ",
+    "englishTransliteration": "athneh",
+    "partOfSpeech": "adj",
+    "gloss": "Oiless",
+    "definition": "Oiless"
+  },
+  {
+    "headword": "ma mpineh",
+    "copticWord": "ⲙⲁ ⲙⲡⲓⲛⲉϩ",
+    "englishTransliteration": "ma mpineh",
+    "partOfSpeech": "m",
+    "gloss": "Oil cellar",
+    "definition": "Oil cellar"
+  },
+  {
+    "headword": "neh=",
+    "copticWord": "ⲛⲉϩ",
+    "englishTransliteration": "neh",
+    "gloss": "To shake",
+    "definition": "To shake",
+    "crossReference": {
+      "target": "nouh",
+      "gloss": "To shake"
+    }
+  },
+  {
+    "headword": "nehbal",
+    "copticWord": "ⲛⲉϩⲃⲁⲗ",
+    "englishTransliteration": "nehval",
+    "gloss": "Wine-skin",
+    "definition": "Wine-skin",
+    "crossReference": {
+      "target": "nehb/l",
+      "gloss": "Wine-skin"
+    }
+  },
+  {
+    "headword": "nehbel",
+    "copticWord": "ⲛⲉϩⲃⲉⲗ",
+    "englishTransliteration": "nehvel",
+    "gloss": "Wine-skin",
+    "definition": "Wine-skin",
+    "crossReference": {
+      "target": "nehb/l",
+      "gloss": "Wine-skin"
+    }
+  },
+  {
+    "headword": "nehb/l",
+    "copticWord": "ⲛⲉϩⲃⲏⲗ",
+    "englishTransliteration": "nehvil",
+    "variants": [
+      {
+        "word": "nehbel",
+        "copticWord": "ⲛⲉϩⲃⲉⲗ",
+        "englishTransliteration": "nehvel"
+      },
+      {
+        "word": "nehbal",
+        "copticWord": "ⲛⲉϩⲃⲁⲗ",
+        "englishTransliteration": "nehval"
+      }
+    ],
+    "reference": "243b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "nehp",
+    "copticWord": "ⲛⲉϩⲡ",
+    "englishTransliteration": "nehp",
+    "gloss": "To yoke a beast",
+    "definition": "To yoke a beast",
+    "crossReference": {
+      "target": "noheb",
+      "gloss": "To yoke a beast"
+    }
+  },
+  {
+    "headword": "nehpi",
+    "copticWord": "ⲛⲉϩⲡⲓ",
+    "englishTransliteration": "nehpi",
+    "reference": "245a",
+    "gloss": "vi. To mourn, lit. smite self",
+    "definition": "--- e-, ejen-: vb. To mourn for; --- ebol: vb. To mourn;"
+  },
+  {
+    "headword": "iri nounehpi",
+    "copticWord": "ⲓⲣⲓ ⲛⲟⲩⲛⲉϩⲡⲓ",
+    "englishTransliteration": "iri nounehpi",
+    "partOfSpeech": "vb",
+    "gloss": "To make mourning",
+    "definition": "To make mourning"
+  },
+  {
+    "headword": "[i nehpi",
+    "copticWord": "ϭⲓ ⲛⲉϩⲡⲓ",
+    "englishTransliteration": "chi nehpi",
+    "partOfSpeech": "vb",
+    "gloss": "To take mourning, mourn",
+    "definition": "To take mourning, mourn"
+  },
+  {
+    "headword": "refnehpi",
+    "copticWord": "ⲣⲉϥⲛⲉϩⲡⲓ",
+    "englishTransliteration": "refnehpi",
+    "partOfSpeech": "m",
+    "gloss": "Mourner",
+    "definition": "Mourner"
+  },
+  {
+    "headword": "nehci",
+    "copticWord": "ⲛⲉϩⲥⲓ",
+    "englishTransliteration": "nehsi",
+    "reference": "245b",
+    "gloss": "vi.To awake, arise",
+    "definition": "vt. waken, raise up;"
+  },
+  {
+    "headword": "ejen",
+    "copticWord": "ⲉϫⲉⲛ",
+    "englishTransliteration": "ejen",
+    "partOfSpeech": "vb",
+    "gloss": "To rise against",
+    "definition": "To rise against"
+  },
+  {
+    "headword": "qen",
+    "copticWord": "ϧⲉⲛ",
+    "englishTransliteration": "khen",
+    "partOfSpeech": "vb",
+    "gloss": "To arise from, in",
+    "definition": "To arise from, in"
+  },
+  {
+    "headword": "metn/b",
+    "copticWord": "ⲙⲉⲧⲛⲏⲃ",
+    "englishTransliteration": "metneeb",
+    "partOfSpeech": "f",
+    "gloss": "Lordship",
+    "definition": "Lordship"
+  },
+  {
+    "headword": "ern/b",
+    "copticWord": "ⲉⲣⲛⲏⲃ",
+    "englishTransliteration": "erneeb",
+    "partOfSpeech": "vb",
+    "gloss": "To be lord",
+    "definition": "To be lord"
+  },
+  {
+    "headword": "nebahi",
+    "copticWord": "ⲛⲉⲃⲁϩⲓ",
+    "englishTransliteration": "nevahi",
+    "gloss": "Long-lived",
+    "definition": "Long-lived"
+  },
+  {
+    "headword": "neb/i",
+    "copticWord": "ⲛⲉⲃⲏⲓ",
+    "englishTransliteration": "nevii",
+    "partOfSpeech": "n",
+    "gloss": "Lord of house, householder, i.e. landlord, landlady",
+    "definition": "Lord of house, householder, i.e. landlord, landlady"
+  },
+  {
+    "headword": "nebiohi",
+    "copticWord": "ⲛⲉⲃⲓⲟϩⲓ",
+    "englishTransliteration": "neviohi",
+    "partOfSpeech": "m",
+    "gloss": "Lord of the field, landowner",
+    "definition": "Lord of the field, landowner"
+  },
+  {
+    "headword": "nebh/t",
+    "copticWord": "ⲛⲉⲃϩⲏⲧ",
+    "englishTransliteration": "nevhit",
+    "variants": [
+      {
+        "word": "neb/t",
+        "copticWord": "ⲛⲉⲃⲏⲧ",
+        "englishTransliteration": "nevit"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "Lord of mind, man of sense, sensible man",
+    "definition": "Lord of mind, man of sense, sensible man"
+  },
+  {
+    "headword": "n/bi",
+    "copticWord": "ⲛⲏⲃⲓ",
+    "englishTransliteration": "neebi",
+    "variants": [
+      {
+        "word": "nebi",
+        "copticWord": "ⲛⲉⲃⲓ",
+        "englishTransliteration": "nevi"
+      },
+      {
+        "word": "nipi",
+        "copticWord": "ⲛⲓⲡⲓ",
+        "englishTransliteration": "nipi"
+      },
+      {
+        "word": "nefi",
+        "copticWord": "ⲛⲉϥⲓ",
+        "englishTransliteration": "nefi"
+      },
+      {
+        "word": "nibi",
+        "copticWord": "ⲛⲓⲃⲓ",
+        "englishTransliteration": "neebi"
+      }
+    ],
+    "reference": "222a",
+    "gloss": "vi. To float, swim",
+    "definition": "vi. To float, swim"
+  },
+  {
+    "headword": "n/bi epswi",
+    "copticWord": "ⲛⲏⲃⲓ ⲉⲡϣⲱⲓ",
+    "englishTransliteration": "neebi epshōi",
+    "partOfSpeech": "m",
+    "gloss": "Floating on surface",
+    "definition": "Floating on surface"
+  },
+  {
+    "headword": "jinnefi",
+    "copticWord": "ϫⲓⲛⲛⲉϥⲓ",
+    "englishTransliteration": "jinnefi",
+    "partOfSpeech": "m",
+    "gloss": "Floating, sailing",
+    "definition": "Floating, sailing"
+  },
+  {
+    "headword": "n/ni",
+    "copticWord": "ⲛⲏⲛⲓ",
+    "englishTransliteration": "nini",
+    "reference": "227b"
+  },
+  {
+    "headword": "m. Honeycomb. n/coc",
+    "copticWord": "ⲙ. Ϩⲟⲛⲉⲑⲥⲟⲙⲃ. ⲛⲏⲥⲟⲥ",
+    "englishTransliteration": "m. Honethsomv. nisos",
+    "variants": [
+      {
+        "type": "pl.",
+        "word": "-wc",
+        "copticWord": "-ⲱⲥ",
+        "englishTransliteration": "-ōs"
+      }
+    ],
+    "partOfSpeech": "f",
+    "gloss": "Island",
+    "definition": "Island"
+  },
+  {
+    "headword": "n/ctia",
+    "copticWord": "ⲛⲏⲥⲧⲓⲁ",
+    "englishTransliteration": "nistia",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Fast, abstainence",
+    "definition": "]kouji nn/ctia: n. The little fast, advent, fast preceding the feast of the Nativity"
+  },
+  {
+    "headword": "ern/cteuin",
+    "copticWord": "ⲉⲣⲛⲏⲥⲧⲉⲩⲓⲛ",
+    "englishTransliteration": "ernistevin",
+    "partOfSpeech": "vb",
+    "gloss": "To fast, abstain from food",
+    "definition": "To fast, abstain from food"
+  },
+  {
+    "headword": "n/cwc",
+    "copticWord": "ⲛⲏⲥⲱⲥ",
+    "englishTransliteration": "nisōs",
+    "gloss": "Islands",
+    "definition": "Islands",
+    "crossReference": {
+      "target": "n/coc",
+      "gloss": "Islands"
+    }
+  },
+  {
+    "headword": "nynau",
+    "copticWord": "ⲛⲑⲛⲁⲩ",
+    "englishTransliteration": "nthnav",
+    "gloss": "When",
+    "definition": "When",
+    "crossReference": {
+      "target": "(2)nau",
+      "gloss": "When"
+    }
+  },
+  {
+    "headword": "nyo",
+    "copticWord": "ⲛⲑⲟ",
+    "englishTransliteration": "ntho",
+    "gloss": "pers pron. 2nd pers f sg. You (f)",
+    "definition": "pers pron. 2nd pers f sg. You (f)"
+  }
+]

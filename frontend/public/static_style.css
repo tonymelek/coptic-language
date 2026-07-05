@@ -1,0 +1,128 @@
+/* Coptic Language — Psalmody palette + marketing overrides */
+:root {
+  --burgundy-50: #fdf2f4;
+  --burgundy-100: #fbe5e9;
+  --burgundy-700: #722f37;
+  --burgundy-800: #5a242a;
+  --burgundy-900: #4a1521;
+  --gold: #d4af37;
+  --gold-hover: #f0c842;
+}
+
+/* Fallbacks when Tailwind CDN loads after this file */
+.bg-burgundy-50 { background-color: var(--burgundy-50) !important; }
+.bg-burgundy-700 { background-color: var(--burgundy-700) !important; }
+.bg-burgundy-800 { background-color: var(--burgundy-800) !important; }
+.bg-burgundy-900 { background-color: var(--burgundy-900) !important; }
+.bg-gold { background-color: var(--gold) !important; }
+.bg-liturgicalGold { background-color: var(--gold) !important; }
+
+.text-burgundy-700 { color: var(--burgundy-700) !important; }
+.text-burgundy-900 { color: var(--burgundy-900) !important; }
+.text-gold { color: var(--gold) !important; }
+.text-liturgicalGold { color: var(--gold) !important; }
+
+.border-burgundy-700 { border-color: var(--burgundy-700) !important; }
+.border-burgundy-800 { border-color: var(--burgundy-800) !important; }
+.border-gold { border-color: var(--gold) !important; }
+.border-liturgicalGold { border-color: var(--gold) !important; }
+.border-t-burgundy-700 { border-top-color: var(--burgundy-700) !important; }
+
+.hero-gradient {
+  background: linear-gradient(135deg, var(--burgundy-900) 0%, #0f172a 100%);
+  color: #fff;
+}
+
+.hero-gradient h1,
+.hero-gradient p {
+  color: inherit;
+}
+
+.hero-gradient .text-gold,
+.hero-gradient .text-liturgicalGold {
+  color: var(--gold) !important;
+}
+
+.hero-gradient .text-slate-200 {
+  color: #e2e8f0 !important;
+}
+
+/* Card links: no default blue underline */
+a.no-underline {
+  text-decoration: none;
+  color: inherit;
+}
+
+.group:hover .group-hover\:text-burgundy-700 {
+  color: var(--burgundy-700) !important;
+}
+
+.hover\:text-burgundy-700:hover { color: var(--burgundy-700) !important; }
+.hover\:text-gold:hover { color: var(--gold) !important; }
+.hover\:bg-burgundy-800:hover { background-color: var(--burgundy-800) !important; }
+.hover\:bg-gold-hover:hover { background-color: var(--gold-hover) !important; }
+
+.from-slate-900 { --tw-gradient-from: #0f172a; }
+.to-burgundy-900 { --tw-gradient-to: var(--burgundy-900); }
+
+.bg-gradient-to-b.from-slate-900.to-burgundy-900 {
+  background: linear-gradient(to bottom, #0f172a, var(--burgundy-900)) !important;
+}
+
+/* Footer on burgundy — high contrast, readable sizes */
+.site-footer {
+  background-color: var(--burgundy-900) !important;
+  border-top: 4px solid var(--gold);
+  color: #fff;
+  font-size: 0.9375rem; /* 15px base */
+  line-height: 1.5;
+}
+
+.site-footer .footer-brand {
+  color: #fff !important;
+  font-size: 1rem !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.08em;
+}
+
+.site-footer .footer-muted {
+  color: #fff !important;
+  font-size: 0.9375rem !important;
+  font-weight: 500 !important;
+  opacity: 0.95;
+}
+
+.site-footer .footer-nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem 2rem;
+}
+
+.site-footer .footer-nav a {
+  color: #fff !important;
+  font-size: 0.9375rem !important;
+  font-weight: 600 !important;
+  text-decoration: none;
+  letter-spacing: 0.02em;
+}
+
+.site-footer .footer-nav a:hover {
+  color: var(--gold) !important;
+}
+
+.site-footer .footer-nav a.footer-active {
+  color: var(--gold) !important;
+  font-weight: 700 !important;
+}
+
+.site-footer .footer-copy {
+  color: #fff !important;
+  font-size: 0.8125rem !important; /* 13px */
+  font-weight: 500 !important;
+  opacity: 0.9;
+}
+
+.site-footer .footer-divider {
+  border-color: rgba(255, 255, 255, 0.2) !important;
+}

@@ -1,0 +1,198 @@
+[
+  {
+    "headword": "(3) moh",
+    "copticWord": "ⲙⲟϩ",
+    "englishTransliteration": "moh",
+    "variants": [
+      {
+        "word": "meh",
+        "copticWord": "ⲙⲉϩ",
+        "englishTransliteration": "meh"
+      }
+    ],
+    "reference": "210a",
+    "senses": [
+      {
+        "label": "e",
+        "partOfSpeech": "vb",
+        "gloss": "To burn at, for",
+        "definition": "--- ebol: vb. To burn, glow. (4)moh: (210b); vi. To look; --: m. Appearance."
+      },
+      {
+        "label": "moqj",
+        "gloss": "Girdle. mojt= v. moujt - To mix. mojt (Q) v. moujt - To be mixed",
+        "definition": "Girdle. mojt= v. moujt - To mix. mojt (Q) v. moujt - To be mixed"
+      },
+      {
+        "label": "mojq",
+        "reference": "213b",
+        "partOfSpeech": "m",
+        "gloss": "Girdle of a soldier or monk",
+        "definition": "Girdle of a soldier or monk"
+      },
+      {
+        "label": "mo]",
+        "gloss": "Neck. mp= v. mpe- - vbal prfx for neg. 1st perfect. mpa= v. mpare- - vbal prfx for neg. present of habitude",
+        "definition": "Neck. mp= v. mpe- - vbal prfx for neg. 1st perfect. mpa= v. mpare- - vbal prfx for neg. present of habitude"
+      },
+      {
+        "label": "yet. mpe",
+        "reference": "178a",
+        "gloss": "mpate-, mpante-: (179a)",
+        "definition": "vbal prfx. Not vbal prfx. negative of 1st perfect; mv/: part. of denial after questions as to past events; after jin-, san- 'or'; with eswp 'if not'. mper v. mvwr - vbal prfx of neg. imperative. mpecnau v. cnau - both together. mpsa, empsa: (179a); vi. To be worthy, worth; be meet, entitled, obliged; (w/o obj.) be worthy, fitting; it is right, needful; --- e-: vb. To be worthy to; atmpsa: adj. Worthless, unworthy; metatmpsa: f. Unworthiness; ---: m. Worth, fate; ermpsa: vb. To become, be worthy, deserve; mpsis v. msis - Vengenance. mreh in mamreh: (184a); n. 20th lunar station. mrom v. mrwm - Pillow. mrost (Q): (184a); vi. To stink. mroqt: (184a); n. Pipe-clay. mrwm, emrwm, mrom: (183a); m. Pillow. mcah, emcah: (187b); m. Crocodile. mtat: (196a); f. Bridle, bit; mtath = mtat - Bridle. mtau: (196a); n. Wizardry, magic, lit. words; je mtau: vb. To speak magic; refje mtau: m. Magician; metrefje mtau: f. Magic. mton, emton, (Q) moten: (193b); vi. To be at rest, at ease, be relieved (of sickness); vt rflx. rest self, go to rest, die; qual. easy, hale, satisfied; mpante- v. mpate - Not yet. mpare-, mpa=: (182b); vbal prfx. negative of the present of habitude 'sare'."
+      },
+      {
+        "label": "e- (Q)",
+        "partOfSpeech": "vb",
+        "gloss": "To be easy to",
+        "definition": "To be easy to"
+      },
+      {
+        "label": "n- (Q)",
+        "partOfSpeech": "vb",
+        "gloss": "To be easy to",
+        "definition": "To be easy to"
+      },
+      {
+        "label": "ejen",
+        "partOfSpeech": "vb",
+        "gloss": "To rest upon, be satisfied with",
+        "definition": "To rest upon, be satisfied with"
+      }
+    ]
+  },
+  {
+    "headword": "mwit mmosi",
+    "copticWord": "ⲙⲱⲓⲧ ⲙⲙⲟϣⲓ",
+    "englishTransliteration": "mōit mmoshi",
+    "partOfSpeech": "m",
+    "gloss": "Road, journey",
+    "definition": "Road, journey"
+  },
+  {
+    "headword": "ehoou mmosi",
+    "copticWord": "ⲉϩⲟⲟⲩ ⲙⲙⲟϣⲓ",
+    "englishTransliteration": "ehoou mmoshi",
+    "partOfSpeech": "m",
+    "gloss": "Day's journey",
+    "definition": "Day's journey"
+  },
+  {
+    "headword": "sv/r mmosi",
+    "copticWord": "ϣⲫⲏⲣ ⲙⲙⲟϣⲓ",
+    "englishTransliteration": "shfir mmoshi",
+    "partOfSpeech": "m",
+    "gloss": "Fellow traveller",
+    "definition": "Fellow traveller"
+  },
+  {
+    "headword": "jinmosi",
+    "copticWord": "ϫⲓⲛⲙⲟϣⲓ",
+    "englishTransliteration": "jinmoshi",
+    "partOfSpeech": "m",
+    "gloss": "Going, gait, conduct",
+    "definition": "Going, gait, conduct"
+  },
+  {
+    "headword": "most=",
+    "copticWord": "ⲙⲟϣⲧ",
+    "englishTransliteration": "mosht",
+    "gloss": "To examine",
+    "definition": "To examine",
+    "crossReference": {
+      "target": "moust",
+      "gloss": "To examine"
+    }
+  },
+  {
+    "headword": "(1) moh",
+    "copticWord": "ⲙⲟϩ",
+    "englishTransliteration": "moh",
+    "reference": "208a",
+    "partOfSpeech": "m",
+    "gloss": "Nest, brood of young",
+    "definition": "Nest, brood of young"
+  },
+  {
+    "headword": "mahoual",
+    "copticWord": "ⲙⲁϩⲟⲩⲁⲗ",
+    "englishTransliteration": "mahoual",
+    "variants": [
+      {
+        "word": "mahbal",
+        "copticWord": "ⲙⲁϩⲃⲁⲗ",
+        "englishTransliteration": "mahval"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "Nest, dovecot",
+    "definition": "Nest, dovecot"
+  },
+  {
+    "headword": "(2) moh",
+    "copticWord": "ⲙⲟϩ",
+    "englishTransliteration": "moh",
+    "variants": [
+      {
+        "word": "mah",
+        "copticWord": "ⲙⲁϩ",
+        "englishTransliteration": "mah"
+      },
+      {
+        "word": "mah=",
+        "copticWord": "ⲙⲁϩ",
+        "englishTransliteration": "mah"
+      },
+      {
+        "word": "(Q) meh",
+        "copticWord": "(Ϧ) ⲙⲉϩ",
+        "englishTransliteration": "(Kh) meh"
+      }
+    ],
+    "reference": "208a",
+    "gloss": "vt. To fill",
+    "definition": "fulfill, complete; pay; vi. to be full",
+    "senses": [
+      {
+        "label": "ebol",
+        "gloss": "vt. To fill, pay",
+        "definition": "vi. to be full, filled, paid; ---: m. Fulfilment, limit;"
+      },
+      {
+        "label": "eqoun",
+        "gloss": "vt. To fill up, supplement",
+        "definition": "jinmoh eqoun: m. Completion; ---: m. Fullness, contents;"
+      },
+      {
+        "label": "hanmoh",
+        "partOfSpeech": "n",
+        "gloss": "Channels, conduits",
+        "definition": "mah-: prfx to ordinal numeral to convert to cardinal numbers, lit. filling, completing."
+      }
+    ]
+  },
+  {
+    "headword": "meh rw=",
+    "copticWord": "ⲙⲉϩ ⲣⲱ",
+    "englishTransliteration": "meh rō",
+    "partOfSpeech": "vb",
+    "gloss": "To fill mouth",
+    "definition": "seize, bite"
+  },
+  {
+    "headword": "mahtot=",
+    "copticWord": "ⲙⲁϩⲧⲟⲧ",
+    "englishTransliteration": "mahtot",
+    "partOfSpeech": "vb",
+    "gloss": "To fill hand, lay hold on",
+    "definition": "To fill hand, lay hold on"
+  },
+  {
+    "headword": "mahqa/t=",
+    "copticWord": "ⲙⲁϩϧⲁⲏⲧ",
+    "englishTransliteration": "mahkhait",
+    "partOfSpeech": "vb",
+    "gloss": "To fill belly",
+    "definition": "---: m. Satiety;"
+  }
+]

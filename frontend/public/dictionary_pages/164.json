@@ -1,0 +1,655 @@
+[
+  {
+    "headword": "(2)je",
+    "copticWord": "ϫⲉ",
+    "englishTransliteration": "je",
+    "reference": "746b",
+    "gloss": "conj. (from jw to say) Namely",
+    "definition": "after verbs call or name; before direct statements or questions; because; if, whether; after Gk particles."
+  },
+  {
+    "headword": "(3) je",
+    "copticWord": "ϫⲉ",
+    "englishTransliteration": "je",
+    "reference": "802b",
+    "partOfSpeech": "part",
+    "gloss": "Then, therefore, but",
+    "definition": "again, once more."
+  },
+  {
+    "headword": "je",
+    "copticWord": "ϫⲉ",
+    "englishTransliteration": "je",
+    "gloss": "To say. jebiwou (Q) v. jwb - To be feeble. jebro, jevro, jepro: (827a)",
+    "definition": "f.",
+    "crossReference": {
+      "target": "(2)jw",
+      "gloss": "To say. jebiwou (Q) v. jwb - To be feeble. jebro, jevro, jepro: (827a)"
+    }
+  },
+  {
+    "headword": "jebc",
+    "copticWord": "ϫⲉⲃⲥ",
+    "englishTransliteration": "jevs",
+    "reference": "760a",
+    "partOfSpeech": "mf",
+    "gloss": "Coal",
+    "definition": "Coal"
+  },
+  {
+    "headword": "jebsai",
+    "copticWord": "ϫⲉⲃϣⲁⲓ",
+    "englishTransliteration": "jevshai",
+    "gloss": "Nostrils",
+    "definition": "Nostrils",
+    "crossReference": {
+      "target": "(2)sai",
+      "gloss": "Nostrils"
+    }
+  },
+  {
+    "headword": "jebjip",
+    "copticWord": "ϫⲉⲃϫⲓⲡ",
+    "englishTransliteration": "jevjip",
+    "gloss": "Ant",
+    "definition": "Ant",
+    "crossReference": {
+      "target": "japjip",
+      "gloss": "Ant"
+    }
+  },
+  {
+    "headword": "jek",
+    "copticWord": "ϫⲉⲕ",
+    "englishTransliteration": "jek",
+    "gloss": "To complete",
+    "definition": "To complete",
+    "crossReference": {
+      "target": "jwk",
+      "gloss": "To complete"
+    }
+  },
+  {
+    "headword": "jekem",
+    "copticWord": "ϫⲉⲕⲉⲙ",
+    "englishTransliteration": "jekem",
+    "gloss": "To wash",
+    "definition": "To wash",
+    "crossReference": {
+      "target": "jwkem",
+      "gloss": "To wash"
+    }
+  },
+  {
+    "headword": "jekh",
+    "copticWord": "ϫⲉⲕϩ",
+    "englishTransliteration": "jekh",
+    "gloss": "To bite",
+    "definition": "To bite",
+    "crossReference": {
+      "target": "joukh",
+      "gloss": "To bite"
+    }
+  },
+  {
+    "headword": "jekjik",
+    "copticWord": "ϫⲉⲕϫⲓⲕ",
+    "englishTransliteration": "jekjik",
+    "reference": "765a",
+    "partOfSpeech": "n",
+    "gloss": "Ant or other insect",
+    "definition": "Ant or other insect"
+  },
+  {
+    "headword": "jel",
+    "copticWord": "ϫⲉⲗ",
+    "englishTransliteration": "jel",
+    "gloss": "To clothe",
+    "definition": "To clothe",
+    "crossReference": {
+      "target": "(1)jwl",
+      "gloss": "To clothe"
+    }
+  },
+  {
+    "headword": "(3)jwl - To return jeli",
+    "copticWord": "ϫⲱⲗ - Ⲧⲟ ⲣⲉⲧⲩⲣⲛ ϫⲉⲗⲓ",
+    "englishTransliteration": "jōl - To retyrn jeli",
+    "reference": "766a",
+    "partOfSpeech": "n",
+    "gloss": "Net",
+    "definition": "Net"
+  },
+  {
+    "headword": "jelkec",
+    "copticWord": "ϫⲉⲗⲕⲉⲥ",
+    "englishTransliteration": "jelkes",
+    "variants": [
+      {
+        "word": "jelk/c",
+        "copticWord": "ϫⲉⲗⲕⲏⲥ",
+        "englishTransliteration": "jelkis"
+      }
+    ],
+    "reference": "768b",
+    "gloss": "pl. Bugs",
+    "definition": "pl. Bugs"
+  },
+  {
+    "headword": "jelk/c",
+    "copticWord": "ϫⲉⲗⲕⲏⲥ",
+    "englishTransliteration": "jelkis",
+    "gloss": "Bugs",
+    "definition": "Bugs",
+    "crossReference": {
+      "target": "jelkec",
+      "gloss": "Bugs"
+    }
+  },
+  {
+    "headword": "jelfau",
+    "copticWord": "ϫⲉⲗϥⲁⲩ",
+    "englishTransliteration": "jelfav",
+    "reference": "810b",
+    "partOfSpeech": "n",
+    "gloss": "Fish (silurus mystus)",
+    "definition": "Fish (silurus mystus)"
+  },
+  {
+    "headword": "jenjen",
+    "copticWord": "ϫⲉⲛϫⲉⲛ",
+    "englishTransliteration": "jenjen",
+    "reference": "824b",
+    "gloss": "vi. To make music with instrument or voice",
+    "definition": "vi. To make music with instrument or voice"
+  },
+  {
+    "headword": "jep",
+    "copticWord": "ϫⲉⲡ",
+    "englishTransliteration": "jep",
+    "gloss": "To seize",
+    "definition": "To seize",
+    "crossReference": {
+      "target": "[wpi",
+      "gloss": "To seize"
+    }
+  },
+  {
+    "headword": "jepi",
+    "copticWord": "ϫⲉⲡⲓ",
+    "englishTransliteration": "jepi",
+    "reference": "778a",
+    "partOfSpeech": "f",
+    "gloss": "Chip, slice, morsel",
+    "definition": "Chip, slice, morsel"
+  },
+  {
+    "headword": "jepro",
+    "copticWord": "ϫⲉⲡⲣⲟ",
+    "englishTransliteration": "jepro",
+    "gloss": "Hamlet",
+    "definition": "Hamlet",
+    "crossReference": {
+      "target": "jebro",
+      "gloss": "Hamlet"
+    }
+  },
+  {
+    "headword": "jer",
+    "copticWord": "ϫⲉⲣ",
+    "englishTransliteration": "jer",
+    "variants": [
+      {
+        "word": "jor=",
+        "copticWord": "ϫⲟⲣ",
+        "englishTransliteration": "jor"
+      },
+      {
+        "word": "(Q) j/r",
+        "copticWord": "(Ϧ) ϫⲏⲣ",
+        "englishTransliteration": "(Kh) jir"
+      }
+    ],
+    "reference": "781b",
+    "gloss": "vt. To examin, study",
+    "definition": "vt. To examin, study"
+  },
+  {
+    "headword": "jere",
+    "copticWord": "ϫⲉⲣⲉ",
+    "englishTransliteration": "jere",
+    "gloss": "To mean. jereb- p.c. v. (jwreb) - To cut open",
+    "definition": "To mean. jereb- p.c. v. (jwreb) - To cut open",
+    "crossReference": {
+      "target": "(2)jw",
+      "gloss": "To mean. jereb- p.c. v. (jwreb) - To cut open"
+    }
+  },
+  {
+    "headword": "jer/j",
+    "copticWord": "ϫⲉⲣⲏϫ",
+    "englishTransliteration": "jerij",
+    "gloss": "Hunter",
+    "definition": "Hunter",
+    "crossReference": {
+      "target": "(1)jwrj",
+      "gloss": "Hunter"
+    }
+  },
+  {
+    "headword": "jerj",
+    "copticWord": "ϫⲉⲣϫ",
+    "englishTransliteration": "jerj",
+    "gloss": "To hunt",
+    "definition": "To hunt",
+    "crossReference": {
+      "target": "(1)jwrj",
+      "gloss": "To hunt"
+    }
+  },
+  {
+    "headword": "jerjer",
+    "copticWord": "ϫⲉⲣϫⲉⲣ",
+    "englishTransliteration": "jerjer",
+    "variants": [
+      {
+        "word": "jerjir",
+        "copticWord": "ϫⲉⲣϫⲓⲣ",
+        "englishTransliteration": "jerjir"
+      }
+    ],
+    "reference": "780b",
+    "gloss": "vi. To be wanton, merry",
+    "definition": "play"
+  },
+  {
+    "headword": "jerji",
+    "copticWord": "ϫⲉⲣϫⲓ",
+    "englishTransliteration": "jerji",
+    "reference": "830a",
+    "partOfSpeech": "f",
+    "gloss": "Filth",
+    "definition": "Filth"
+  },
+  {
+    "headword": "jerjir",
+    "copticWord": "ϫⲉⲣϫⲓⲣ",
+    "englishTransliteration": "jerjir",
+    "gloss": "To be wanton",
+    "definition": "To be wanton",
+    "crossReference": {
+      "target": "jerjer",
+      "gloss": "To be wanton"
+    }
+  },
+  {
+    "headword": "jec",
+    "copticWord": "ϫⲉⲥ",
+    "englishTransliteration": "jes",
+    "gloss": "Half",
+    "definition": "Half",
+    "crossReference": {
+      "target": "joc",
+      "gloss": "Half"
+    }
+  },
+  {
+    "headword": "jecki]",
+    "copticWord": "ϫⲉⲥⲕⲓϯ",
+    "englishTransliteration": "jeskiti",
+    "gloss": "half stater",
+    "definition": "half stater",
+    "crossReference": {
+      "target": "(1)ki]",
+      "gloss": "half stater"
+    }
+  },
+  {
+    "headword": "jeu",
+    "copticWord": "ϫⲉⲩ",
+    "englishTransliteration": "jev",
+    "reference": "793a",
+    "gloss": "vi. To send",
+    "definition": "vi. To send"
+  },
+  {
+    "headword": "jevro",
+    "copticWord": "ϫⲉⲫⲣⲟ",
+    "englishTransliteration": "jefro",
+    "gloss": "Hamlet",
+    "definition": "Hamlet",
+    "crossReference": {
+      "target": "jebro",
+      "gloss": "Hamlet"
+    }
+  },
+  {
+    "headword": "jes",
+    "copticWord": "ϫⲉϣ",
+    "englishTransliteration": "jesh",
+    "gloss": "To pour forth",
+    "definition": "To pour forth",
+    "crossReference": {
+      "target": "jws",
+      "gloss": "To pour forth"
+    }
+  },
+  {
+    "headword": "jesc",
+    "copticWord": "ϫⲉϣⲥ",
+    "englishTransliteration": "jeshs",
+    "gloss": "Ingot",
+    "definition": "Ingot",
+    "crossReference": {
+      "target": "jejc",
+      "gloss": "Ingot"
+    }
+  },
+  {
+    "headword": "jesjws",
+    "copticWord": "ϫⲉϣϫⲱϣ",
+    "englishTransliteration": "jeshjōsh",
+    "gloss": "To sprinkle",
+    "definition": "To sprinkle",
+    "crossReference": {
+      "target": "josjes",
+      "gloss": "To sprinkle"
+    }
+  },
+  {
+    "headword": "jefsai",
+    "copticWord": "ϫⲉϥϣⲁⲓ",
+    "englishTransliteration": "jefshai",
+    "gloss": "Nostrils",
+    "definition": "Nostrils",
+    "crossReference": {
+      "target": "(2)sai",
+      "gloss": "Nostrils"
+    }
+  },
+  {
+    "headword": "jeljel(n)",
+    "copticWord": "ϫⲉⲗϫⲉⲗ(ⲛ)",
+    "englishTransliteration": "jeljel(n)",
+    "variants": [
+      {
+        "word": "jeljwl=",
+        "copticWord": "ϫⲉⲗϫⲱⲗ",
+        "englishTransliteration": "jeljōl"
+      }
+    ],
+    "reference": "815b",
+    "gloss": "vt. To spread to dry",
+    "definition": "vt. To spread to dry"
+  },
+  {
+    "headword": "jefjif",
+    "copticWord": "ϫⲉϥϫⲓϥ",
+    "englishTransliteration": "jefjif",
+    "gloss": "Ant",
+    "definition": "Ant",
+    "crossReference": {
+      "target": "japjip",
+      "gloss": "Ant"
+    }
+  },
+  {
+    "headword": "jeljou",
+    "copticWord": "ϫⲉⲗϫⲟⲩ",
+    "englishTransliteration": "jeljou",
+    "variants": [
+      {
+        "word": "jaljou",
+        "copticWord": "ϫⲁⲗϫⲟⲩ",
+        "englishTransliteration": "galjou"
+      },
+      {
+        "word": "jejou",
+        "copticWord": "ϫⲉϫⲟⲩ",
+        "englishTransliteration": "jejou"
+      }
+    ],
+    "reference": "824a",
+    "partOfSpeech": "f"
+  },
+  {
+    "headword": "jefjwf=",
+    "copticWord": "ϫⲉϥϫⲱϥ",
+    "englishTransliteration": "jefjōf",
+    "gloss": "To cook",
+    "definition": "To cook",
+    "crossReference": {
+      "target": "jofjef",
+      "gloss": "To cook"
+    }
+  },
+  {
+    "headword": "jej",
+    "copticWord": "ϫⲉϫ",
+    "englishTransliteration": "jej",
+    "gloss": "To cut",
+    "definition": "To cut",
+    "crossReference": {
+      "target": "jwji",
+      "gloss": "To cut"
+    }
+  },
+  {
+    "headword": "jejeb",
+    "copticWord": "ϫⲉϫⲉⲃ",
+    "englishTransliteration": "jejev",
+    "gloss": "To be humble",
+    "definition": "To be humble",
+    "crossReference": {
+      "target": "jwjeb",
+      "gloss": "To be humble"
+    }
+  },
+  {
+    "headword": "jejre",
+    "copticWord": "ϫⲉϫⲣⲉ",
+    "englishTransliteration": "jejre",
+    "reference": "800b",
+    "partOfSpeech": "m",
+    "gloss": "Sorrel",
+    "definition": "Sorrel"
+  },
+  {
+    "headword": "jejr/c",
+    "copticWord": "ϫⲉϫⲣⲏⲥ",
+    "englishTransliteration": "jejris",
+    "gloss": "Tiger",
+    "definition": "Tiger",
+    "crossReference": {
+      "target": "jikr/c",
+      "gloss": "Tiger"
+    }
+  },
+  {
+    "headword": "jeljwl=",
+    "copticWord": "ϫⲉⲗϫⲱⲗ",
+    "englishTransliteration": "jeljōl",
+    "reference": "770a",
+    "gloss": "vi. To let drip, drip",
+    "definition": "vi. To let drip, drip"
+  },
+  {
+    "headword": "jeljwl",
+    "copticWord": "ϫⲉⲗϫⲱⲗ",
+    "englishTransliteration": "jeljōl",
+    "gloss": "To spread to dry",
+    "definition": "To spread to dry",
+    "crossReference": {
+      "target": "jeljel",
+      "gloss": "To spread to dry"
+    }
+  },
+  {
+    "headword": "jem",
+    "copticWord": "ϫⲉⲙ",
+    "englishTransliteration": "jem",
+    "gloss": "To find",
+    "definition": "To find",
+    "crossReference": {
+      "target": "jimi",
+      "gloss": "To find"
+    }
+  },
+  {
+    "headword": "jem=",
+    "copticWord": "ϫⲉⲙ",
+    "englishTransliteration": "jem",
+    "gloss": "To find",
+    "definition": "To find",
+    "crossReference": {
+      "target": "jimi",
+      "gloss": "To find"
+    }
+  },
+  {
+    "headword": "jemmo",
+    "copticWord": "ϫⲉⲙⲙⲟ",
+    "englishTransliteration": "jemmo",
+    "reference": "771b",
+    "gloss": "vb caus. To be at ease",
+    "definition": "vb caus. To be at ease"
+  },
+  {
+    "headword": "jemtau",
+    "copticWord": "ϫⲉⲙⲧⲁⲩ",
+    "englishTransliteration": "jemtav",
+    "gloss": "To speak magic",
+    "definition": "To speak magic",
+    "crossReference": {
+      "target": "mtau",
+      "gloss": "To speak magic"
+    }
+  },
+  {
+    "headword": "jejc",
+    "copticWord": "ϫⲉϫⲥ",
+    "englishTransliteration": "jejs",
+    "variants": [
+      {
+        "word": "jesc",
+        "copticWord": "ϫⲉϣⲥ",
+        "englishTransliteration": "jeshs"
+      },
+      {
+        "word": "jojc",
+        "copticWord": "ϫⲟϫⲥ",
+        "englishTransliteration": "jojs"
+      }
+    ],
+    "reference": "800b",
+    "partOfSpeech": "f",
+    "gloss": "Ingot (of metal)",
+    "definition": "Ingot (of metal)"
+  },
+  {
+    "headword": "jemveh",
+    "copticWord": "ϫⲉⲙⲫⲉϩ",
+    "englishTransliteration": "jemfeh",
+    "reference": "771b",
+    "partOfSpeech": "m",
+    "gloss": "Apple",
+    "definition": "Apple"
+  },
+  {
+    "headword": "jejou",
+    "copticWord": "ϫⲉϫⲟⲩ",
+    "englishTransliteration": "jejou",
+    "gloss": "Bat",
+    "definition": "Bat",
+    "crossReference": {
+      "target": "jeljou",
+      "gloss": "Bat"
+    }
+  },
+  {
+    "headword": "jemsai",
+    "copticWord": "ϫⲉⲙϣⲁⲓ",
+    "englishTransliteration": "jemshai",
+    "gloss": "Nostrils",
+    "definition": "Nostrils",
+    "crossReference": {
+      "target": "(2)sai",
+      "gloss": "Nostrils"
+    }
+  },
+  {
+    "headword": "jempsai",
+    "copticWord": "ϫⲉⲙⲡϣⲁⲓ",
+    "englishTransliteration": "jempshai",
+    "gloss": "Nostrils",
+    "definition": "Nostrils",
+    "crossReference": {
+      "target": "(2)sai",
+      "gloss": "Nostrils"
+    }
+  },
+  {
+    "headword": "(1)j/",
+    "copticWord": "ϫⲏ",
+    "englishTransliteration": "ji",
+    "reference": "747b",
+    "partOfSpeech": "f",
+    "gloss": "Dish, bowl (for food, incense)",
+    "definition": "Dish, bowl (for food, incense)"
+  },
+  {
+    "headword": "jemjom",
+    "copticWord": "ϫⲉⲙϫⲟⲙ",
+    "englishTransliteration": "jemjom",
+    "gloss": "To be able",
+    "definition": "To be able",
+    "crossReference": {
+      "target": "(2)jom",
+      "gloss": "To be able"
+    }
+  },
+  {
+    "headword": "jemjwm=",
+    "copticWord": "ϫⲉⲙϫⲱⲙ",
+    "englishTransliteration": "jemjōm",
+    "gloss": "To touch. jenevwr: (775a)",
+    "definition": "m. Roof.",
+    "crossReference": {
+      "target": "jomjem",
+      "gloss": "To touch. jenevwr: (775a)"
+    }
+  },
+  {
+    "headword": "jenh",
+    "copticWord": "ϫⲉⲛϩ",
+    "englishTransliteration": "jenh",
+    "reference": "777b",
+    "partOfSpeech": "m",
+    "gloss": "Garment",
+    "definition": "Garment"
+  },
+  {
+    "headword": "(2)j/",
+    "copticWord": "ϫⲏ",
+    "englishTransliteration": "ji",
+    "reference": "747b",
+    "partOfSpeech": "m",
+    "gloss": "Emptiness, vanity",
+    "definition": "Emptiness, vanity"
+  },
+  {
+    "headword": "jinj/",
+    "copticWord": "ϫⲓⲛϫⲏ",
+    "englishTransliteration": "jinji",
+    "partOfSpeech": "m",
+    "gloss": "Emptiness, vanity",
+    "definition": "Emptiness, vanity"
+  },
+  {
+    "headword": "epj/",
+    "copticWord": "ⲉⲡϫⲏ",
+    "englishTransliteration": "epji",
+    "gloss": "For nought, in vain",
+    "definition": "For nought, in vain"
+  }
+]

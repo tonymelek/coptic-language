@@ -1,0 +1,384 @@
+[
+  {
+    "headword": "(1) twmt",
+    "copticWord": "ⲧⲱⲙⲧ",
+    "englishTransliteration": "tōmt",
+    "reference": "416b",
+    "gloss": "vi. To meet, befall",
+    "definition": "vi. To meet, befall"
+  },
+  {
+    "headword": "(2) twmt",
+    "copticWord": "ⲧⲱⲙⲧ",
+    "englishTransliteration": "tōmt",
+    "variants": [
+      {
+        "word": "tomt",
+        "note": "Q",
+        "copticWord": "ⲧⲟⲙⲧ",
+        "englishTransliteration": "tomt"
+      }
+    ],
+    "reference": "416b",
+    "gloss": "vi. To be amazed, stupefied",
+    "definition": "vi. To be amazed, stupefied",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "Amazement, stupefaction",
+        "definition": "Amazement, stupefaction"
+      }
+    ]
+  },
+  {
+    "headword": "ebol hiten",
+    "copticWord": "ⲉⲃⲟⲗ ϩⲓⲧⲉⲛ",
+    "englishTransliteration": "evol hiten",
+    "gloss": "same as hiten. twrp: (430b)",
+    "definition": "vi. To seize, rob;",
+    "senses": [
+      {
+        "label": "e",
+        "partOfSpeech": "vb",
+        "gloss": "To carry off to",
+        "definition": "---: m. Plunder."
+      }
+    ]
+  },
+  {
+    "headword": "twn",
+    "copticWord": "ⲧⲱⲛ",
+    "englishTransliteration": "tōn",
+    "reference": "418a",
+    "partOfSpeech": "m",
+    "gloss": "Dispute, strife",
+    "definition": "Dispute, strife"
+  },
+  {
+    "headword": "twn=",
+    "copticWord": "ⲧⲱⲛ",
+    "englishTransliteration": "tōn",
+    "gloss": "To rise",
+    "definition": "To rise",
+    "crossReference": {
+      "target": "twoun",
+      "gloss": "To rise"
+    }
+  },
+  {
+    "headword": "twou",
+    "copticWord": "ⲧⲱⲟⲩ",
+    "englishTransliteration": "tōou",
+    "reference": "440b",
+    "partOfSpeech": "m",
+    "gloss": "Mountain",
+    "definition": "---: adj; Of the hill, desert; wild"
+  },
+  {
+    "headword": "remntwou",
+    "copticWord": "ⲣⲉⲙⲛⲧⲱⲟⲩ",
+    "englishTransliteration": "remntōou",
+    "partOfSpeech": "m",
+    "gloss": "Mountain man",
+    "definition": "Mountain man"
+  },
+  {
+    "headword": "antwou",
+    "copticWord": "ⲁⲛⲧⲱⲟⲩ",
+    "englishTransliteration": "antōou",
+    "variants": [
+      {
+        "word": "ho ntwou",
+        "copticWord": "ϩⲟ ⲛⲧⲱⲟⲩ",
+        "englishTransliteration": "ho ntōou"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "Mountainous country",
+    "definition": "Mountainous country"
+  },
+  {
+    "headword": "twna",
+    "copticWord": "ⲧⲱⲛⲁ",
+    "englishTransliteration": "tōna",
+    "gloss": "Very",
+    "definition": "Very",
+    "crossReference": {
+      "target": "twnou",
+      "gloss": "Very"
+    }
+  },
+  {
+    "headword": "twno",
+    "copticWord": "ⲧⲱⲛⲟ",
+    "englishTransliteration": "tōno",
+    "gloss": "Very",
+    "definition": "Very",
+    "crossReference": {
+      "target": "twnou",
+      "gloss": "Very"
+    }
+  },
+  {
+    "headword": "twoun",
+    "copticWord": "ⲧⲱⲟⲩⲛ",
+    "englishTransliteration": "tōoun",
+    "variants": [
+      {
+        "word": "twounou",
+        "copticWord": "ⲧⲱⲟⲩⲛⲟⲩ",
+        "englishTransliteration": "tōounou"
+      },
+      {
+        "word": "ten",
+        "copticWord": "ⲧⲉⲛ",
+        "englishTransliteration": "ten"
+      },
+      {
+        "word": "twn=",
+        "copticWord": "ⲧⲱⲛ",
+        "englishTransliteration": "tōn"
+      }
+    ],
+    "reference": "445a"
+  },
+  {
+    "headword": "vi",
+    "copticWord": "ⲫⲓ",
+    "englishTransliteration": "fi",
+    "gloss": "To arise fro",
+    "definition": "vt. to raise, carry;",
+    "senses": [
+      {
+        "label": "e",
+        "partOfSpeech": "vb",
+        "gloss": "To rise to",
+        "definition": "To rise to"
+      },
+      {
+        "label": "ejen",
+        "partOfSpeech": "vb",
+        "gloss": "To rise upon, against",
+        "definition": "To rise upon, against"
+      },
+      {
+        "label": "n",
+        "partOfSpeech": "vb",
+        "gloss": "To rise from",
+        "definition": "To rise from"
+      },
+      {
+        "label": "qa",
+        "partOfSpeech": "vb",
+        "gloss": "To rise from beneath, from",
+        "definition": "To rise from beneath, from"
+      },
+      {
+        "label": "qen",
+        "partOfSpeech": "vb",
+        "gloss": "To rise from",
+        "definition": "To rise from"
+      },
+      {
+        "label": "hijen",
+        "partOfSpeech": "vb",
+        "gloss": "To rise upon",
+        "definition": "To rise upon"
+      },
+      {
+        "label": "ebol",
+        "partOfSpeech": "vb",
+        "gloss": "Arise",
+        "definition": "Arise"
+      },
+      {
+        "label": "epswi",
+        "partOfSpeech": "vb",
+        "gloss": "To raise up",
+        "definition": "To raise up"
+      },
+      {
+        "label": "ehr/i",
+        "partOfSpeech": "vb",
+        "gloss": "To rise up",
+        "definition": "--: m. Rising, resurrection, what has arisen; twnf: n. Resurrection; reftwnf: m. One who raises, incites; jintwnf: m. Rising, resurrection. twounou v. twoun - To arise. twji toj=: (464a); vi. To be fixed, joined; plant;"
+      },
+      {
+        "label": "ebol",
+        "gloss": "vi. To fix outwardly, set forth, publish",
+        "definition": "vi. To fix outwardly, set forth, publish"
+      },
+      {
+        "label": "tsmo",
+        "reference": "453a",
+        "gloss": "vt. To make small",
+        "definition": "vt. To make small"
+      },
+      {
+        "label": "tsmo",
+        "gloss": "To make small. tsouie v. tsouio - To make dry",
+        "definition": "To make small. tsouie v. tsouio - To make dry"
+      },
+      {
+        "label": "tsouio",
+        "reference": "453a",
+        "gloss": "vt. To make dry, parch",
+        "definition": "vt. To make dry, parch"
+      },
+      {
+        "label": "tsouio=",
+        "gloss": "To make dry. tqmo, tqmom, yemmo, thmo, yqmo-, yqmo=: (459b)",
+        "definition": "vt. To warm; ---: n. Warm thing."
+      }
+    ]
+  },
+  {
+    "headword": "twnou",
+    "copticWord": "ⲧⲱⲛⲟⲩ",
+    "englishTransliteration": "tōnou",
+    "variants": [
+      {
+        "word": "twna",
+        "copticWord": "ⲧⲱⲛⲁ",
+        "englishTransliteration": "tōna"
+      },
+      {
+        "word": "twno",
+        "copticWord": "ⲧⲱⲛⲟ",
+        "englishTransliteration": "tōno"
+      },
+      {
+        "word": "tono",
+        "copticWord": "ⲧⲟⲛⲟ",
+        "englishTransliteration": "tono"
+      },
+      {
+        "word": "tonw",
+        "copticWord": "ⲧⲟⲛⲱ",
+        "englishTransliteration": "tonō"
+      },
+      {
+        "word": "tonwou",
+        "copticWord": "ⲧⲟⲛⲱⲟⲩ",
+        "englishTransliteration": "tonōou"
+      },
+      {
+        "word": "tona",
+        "copticWord": "ⲧⲟⲛⲁ",
+        "englishTransliteration": "tona"
+      }
+    ],
+    "reference": "418b",
+    "partOfSpeech": "adv",
+    "gloss": "Very, greatly, certainly",
+    "definition": "Very, greatly, certainly"
+  },
+  {
+    "headword": "(twns)",
+    "copticWord": "(ⲧⲱⲛϣ)",
+    "englishTransliteration": "(tōnsh)",
+    "variants": [
+      {
+        "word": "tons=",
+        "copticWord": "ⲧⲟⲛϣ",
+        "englishTransliteration": "tonsh"
+      }
+    ],
+    "reference": "421a",
+    "gloss": "vt. To threaten",
+    "definition": "vt. To threaten"
+  },
+  {
+    "headword": "tensi",
+    "copticWord": "ⲧⲉⲛϣⲓ",
+    "englishTransliteration": "tenshi",
+    "partOfSpeech": "n",
+    "gloss": "Blow",
+    "definition": "Blow"
+  },
+  {
+    "headword": "twp",
+    "copticWord": "ⲧⲱⲡ",
+    "englishTransliteration": "tōp",
+    "gloss": "To seal",
+    "definition": "To seal",
+    "crossReference": {
+      "target": "(1)twb",
+      "gloss": "To seal"
+    }
+  },
+  {
+    "headword": "twri",
+    "copticWord": "ⲧⲱⲣⲓ",
+    "englishTransliteration": "tōri",
+    "reference": "425a",
+    "partOfSpeech": "f",
+    "gloss": "Hand, handle",
+    "definition": "Hand, handle",
+    "senses": [
+      {
+        "label": "w ntot= ebol",
+        "partOfSpeech": "vb",
+        "gloss": "To loosen hand, cease, despair",
+        "definition": "To loosen hand, cease, despair"
+      },
+      {
+        "label": "]tot=",
+        "partOfSpeech": "vb",
+        "gloss": "To give hand, help",
+        "definition": "nem-: vb. To give aid to; ebol: vb. To expel; ref]tot=: m. Helper; metref]tot=: f. Help;"
+      },
+      {
+        "label": "septot=",
+        "partOfSpeech": "vb",
+        "gloss": "To grasp hand (in greeting)",
+        "definition": "To grasp hand (in greeting)"
+      },
+      {
+        "label": "catot=",
+        "gloss": "prep. Out of hand, forthwith",
+        "definition": "eten-, etot=, eteny/nou: prep. To hand of, to;"
+      },
+      {
+        "label": "nten",
+        "gloss": "prep. In, by hand of, by, with, beside, from",
+        "definition": "with for; through, because of, from, away from; to; ebol nten-: prep. From;"
+      },
+      {
+        "label": "qaten",
+        "gloss": "prep. Under the hand of",
+        "definition": "beside, with;"
+      },
+      {
+        "label": "hiten",
+        "gloss": "prep. By hand of, through, by, from",
+        "definition": "prep. By hand of, through, by, from"
+      }
+    ]
+  },
+  {
+    "headword": "tot",
+    "copticWord": "ⲧⲟⲧ",
+    "englishTransliteration": "tot",
+    "variants": [
+      {
+        "word": "ten",
+        "copticWord": "ⲧⲉⲛ",
+        "englishTransliteration": "ten"
+      }
+    ],
+    "gloss": "Suffix for 2nd pers. pl. iri nautot=, er autot=: vb. To do to extent of hand('s capacity), endeavor",
+    "definition": "Suffix for 2nd pers. pl. iri nautot=, er autot=: vb. To do to extent of hand('s capacity), endeavor"
+  },
+  {
+    "headword": "tqmom",
+    "copticWord": "ⲧϧⲙⲟⲙ",
+    "englishTransliteration": "tkhmom",
+    "gloss": "To warm",
+    "definition": "To warm",
+    "crossReference": {
+      "target": "tqmo",
+      "gloss": "To warm"
+    }
+  }
+]

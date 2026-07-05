@@ -1,0 +1,444 @@
+[
+  {
+    "headword": "(1) nouj",
+    "copticWord": "ⲛⲟⲩϫ",
+    "englishTransliteration": "nouj",
+    "reference": "246b",
+    "partOfSpeech": "adj",
+    "gloss": "Lying, false",
+    "definition": "adv. falsely",
+    "senses": [
+      {
+        "label": "e",
+        "partOfSpeech": "vb",
+        "gloss": "To say falsehood against",
+        "definition": "To say falsehood against"
+      },
+      {
+        "label": "refjemeynouj",
+        "partOfSpeech": "m",
+        "gloss": "Liar",
+        "definition": "aymeynouj: adj. Without lie; cameynouj: n. Dealer in, maker of lies."
+      }
+    ]
+  },
+  {
+    "headword": "meynouj",
+    "copticWord": "ⲙⲉⲑⲛⲟⲩϫ",
+    "englishTransliteration": "methnouj",
+    "partOfSpeech": "f",
+    "gloss": "Lie, falsity",
+    "definition": "Lie, falsity"
+  },
+  {
+    "headword": "jemeynouj",
+    "copticWord": "ϫⲉⲙⲉⲑⲛⲟⲩϫ",
+    "englishTransliteration": "jemethnouj",
+    "partOfSpeech": "vb",
+    "gloss": "To say falsehood",
+    "definition": "To say falsehood"
+  },
+  {
+    "headword": "nwit",
+    "copticWord": "ⲛⲱⲓⲧ",
+    "englishTransliteration": "nōit",
+    "partOfSpeech": "m",
+    "gloss": "Meal of any kind",
+    "definition": "Meal of any kind"
+  },
+  {
+    "headword": "noutb",
+    "copticWord": "ⲛⲟⲩⲧⲃ",
+    "englishTransliteration": "noutv",
+    "gloss": "To weave. noutem v. (Q) notem - Sweet. noutp v. noubt - To weave",
+    "definition": "To weave. noutem v. (Q) notem - Sweet. noutp v. noubt - To weave",
+    "crossReference": {
+      "target": "noubt",
+      "gloss": "To weave. noutem v. (Q) notem - Sweet. noutp v. noubt - To weave"
+    }
+  },
+  {
+    "headword": "noutf",
+    "copticWord": "ⲛⲟⲩⲧϥ",
+    "englishTransliteration": "noutf",
+    "variants": [
+      {
+        "word": "nouft",
+        "copticWord": "ⲛⲟⲩϥⲧ",
+        "englishTransliteration": "nouft"
+      },
+      {
+        "word": "netf",
+        "copticWord": "ⲛⲉⲧϥ",
+        "englishTransliteration": "netf"
+      },
+      {
+        "word": "netb",
+        "copticWord": "ⲛⲉⲧⲃ",
+        "englishTransliteration": "netv"
+      },
+      {
+        "word": "netft",
+        "copticWord": "ⲛⲉⲧϥⲧ",
+        "englishTransliteration": "netft"
+      },
+      {
+        "word": "noft=",
+        "copticWord": "ⲛⲟϥⲧ",
+        "englishTransliteration": "noft"
+      }
+    ],
+    "reference": "232a",
+    "gloss": "vt. To loosen, dis-solve, settle, make terms for",
+    "definition": "vi. to be relaxed, released; ---: n. Relaxation"
+  },
+  {
+    "headword": "jinneft rw=",
+    "copticWord": "ϫⲓⲛⲛⲉϥⲧ ⲣⲱ",
+    "englishTransliteration": "jinneft rō",
+    "partOfSpeech": "n",
+    "gloss": "Act of smiling",
+    "definition": "Act of smiling"
+  },
+  {
+    "headword": "(2) nouj",
+    "copticWord": "ⲛⲟⲩϫ",
+    "englishTransliteration": "nouj",
+    "variants": [
+      {
+        "word": "nej",
+        "copticWord": "ⲛⲉϫ",
+        "englishTransliteration": "nej"
+      },
+      {
+        "word": "noj=",
+        "copticWord": "ⲛⲟϫ",
+        "englishTransliteration": "noj"
+      },
+      {
+        "word": "(Q) n/j",
+        "copticWord": "(Ϧ) ⲛⲏϫ",
+        "englishTransliteration": "(Kh) nij"
+      }
+    ],
+    "reference": "247a",
+    "gloss": "vt. To throw, cast",
+    "definition": "--- nca-: vb. To throw after, cast upon;",
+    "senses": [
+      {
+        "label": "ebol",
+        "partOfSpeech": "vb",
+        "gloss": "To cast forth, discard",
+        "definition": "nouj v. nis] - Great."
+      }
+    ]
+  },
+  {
+    "headword": "nousp",
+    "copticWord": "ⲛⲟⲩϣⲡ",
+    "englishTransliteration": "noushp",
+    "variants": [
+      {
+        "word": "nesp",
+        "copticWord": "ⲛⲉϣⲡ",
+        "englishTransliteration": "neshp"
+      },
+      {
+        "word": "nosp=",
+        "copticWord": "ⲛⲟϣⲡ",
+        "englishTransliteration": "noshp"
+      },
+      {
+        "word": "(Q) nosp",
+        "copticWord": "(Ϧ) ⲛⲟϣⲡ",
+        "englishTransliteration": "(Kh) noshp"
+      },
+      {
+        "word": "p.c. nasp",
+        "copticWord": "ⲡ.ⲥ. ⲛⲁϣⲡ",
+        "englishTransliteration": "p.s. nashp"
+      }
+    ],
+    "reference": "236a",
+    "gloss": "vt. To blow (of wind)",
+    "definition": "agitate, frighten, overawe; vi. be frightened;",
+    "senses": [
+      {
+        "label": "ebol ha",
+        "partOfSpeech": "vb",
+        "gloss": "To scare from, off",
+        "definition": "To scare from, off"
+      },
+      {
+        "label": "qa",
+        "partOfSpeech": "vb",
+        "gloss": "To be scared away from",
+        "definition": "To be scared away from"
+      },
+      {
+        "label": "qen",
+        "partOfSpeech": "vb",
+        "gloss": "to awake from",
+        "definition": "to awake from"
+      },
+      {
+        "label": "ebol qen",
+        "partOfSpeech": "vb",
+        "gloss": "to be scared from",
+        "definition": "to be scared from"
+      },
+      {
+        "label": "qajen",
+        "partOfSpeech": "vb",
+        "gloss": "To be scared by, at",
+        "definition": "--- ebol: vi. To be scared away; tr. scare away;"
+      },
+      {
+        "label": "evahou",
+        "gloss": "vi. To be scared back",
+        "definition": "m. fight;"
+      },
+      {
+        "label": "nasp/ri= nasp p/ri",
+        "partOfSpeech": "m",
+        "gloss": "Scare-quail, scarecrow",
+        "definition": "Scare-quail, scarecrow"
+      }
+    ]
+  },
+  {
+    "headword": "noufi",
+    "copticWord": "ⲛⲟⲩϥⲓ",
+    "englishTransliteration": "noufi",
+    "gloss": "Good. nouft v. noutf - To loosen. nouft: (240a)",
+    "definition": "vi. To swell, be distended.",
+    "crossReference": {
+      "target": "(Q) nofer",
+      "gloss": "Good. nouft v. noutf - To loosen. nouft: (240a)"
+    }
+  },
+  {
+    "headword": "nouh",
+    "copticWord": "ⲛⲟⲩϩ",
+    "englishTransliteration": "nouh",
+    "variants": [
+      {
+        "word": "noh",
+        "copticWord": "ⲛⲟϩ",
+        "englishTransliteration": "noh"
+      },
+      {
+        "word": "neh",
+        "copticWord": "ⲛⲉϩ",
+        "englishTransliteration": "neh"
+      },
+      {
+        "word": "nah=",
+        "copticWord": "ⲛⲁϩ",
+        "englishTransliteration": "nah"
+      },
+      {
+        "word": "neh=",
+        "copticWord": "ⲛⲉϩ",
+        "englishTransliteration": "neh"
+      },
+      {
+        "word": "(Q) n/h",
+        "copticWord": "(Ϧ) ⲛⲏϩ",
+        "englishTransliteration": "(Kh) nih"
+      },
+      {
+        "word": "(Q) neh",
+        "copticWord": "(Ϧ) ⲛⲉϩ",
+        "englishTransliteration": "(Kh) neh"
+      }
+    ],
+    "reference": "241b",
+    "gloss": "vt. To shake, cast off, set apart, separate",
+    "definition": "vi. jump;",
+    "senses": [
+      {
+        "label": "ebol",
+        "gloss": "vt. To shake off, cast out, set apart, assign",
+        "definition": "vi. come apart, be loosed;"
+      },
+      {
+        "label": "ebol qen",
+        "gloss": "vt. To separate from, out of",
+        "definition": "vt. To separate from, out of"
+      },
+      {
+        "label": "nehf",
+        "partOfSpeech": "m",
+        "gloss": "What is shaken, or that wherewith is shaken",
+        "definition": "What is shaken, or that wherewith is shaken"
+      }
+    ]
+  },
+  {
+    "headword": "nouhi",
+    "copticWord": "ⲛⲟⲩϩⲓ",
+    "englishTransliteration": "nouhi",
+    "reference": "242b",
+    "partOfSpeech": "f",
+    "gloss": "Sycamore, fig-mulberry",
+    "definition": "Sycamore, fig-mulberry"
+  },
+  {
+    "headword": "nou]",
+    "copticWord": "ⲛⲟⲩϯ",
+    "englishTransliteration": "nouti",
+    "reference": "230b",
+    "partOfSpeech": "mf",
+    "gloss": "(any) god",
+    "definition": "adj. godly, divine"
+  },
+  {
+    "headword": "vnou]",
+    "copticWord": "ⲫⲛⲟⲩϯ",
+    "englishTransliteration": "fnouti",
+    "partOfSpeech": "m",
+    "gloss": "God",
+    "definition": "God"
+  },
+  {
+    "headword": "atnou]",
+    "copticWord": "ⲁⲧⲛⲟⲩϯ",
+    "englishTransliteration": "atnouti",
+    "partOfSpeech": "adj",
+    "gloss": "Godless",
+    "definition": "Godless"
+  },
+  {
+    "headword": "eratnou]",
+    "copticWord": "ⲉⲣⲁⲧⲛⲟⲩϯ",
+    "englishTransliteration": "eratnouti",
+    "partOfSpeech": "vb",
+    "gloss": "to be godless",
+    "definition": "to be godless"
+  },
+  {
+    "headword": "metnou]",
+    "copticWord": "ⲙⲉⲧⲛⲟⲩϯ",
+    "englishTransliteration": "metnouti",
+    "partOfSpeech": "f",
+    "gloss": "Divinity",
+    "definition": "Divinity"
+  },
+  {
+    "headword": "mainou]",
+    "copticWord": "ⲙⲁⲓⲛⲟⲩϯ",
+    "englishTransliteration": "mainouti",
+    "partOfSpeech": "n",
+    "gloss": "God-loving",
+    "definition": "God-loving"
+  },
+  {
+    "headword": "metmainou]",
+    "copticWord": "ⲙⲉⲧⲙⲁⲓⲛⲟⲩϯ",
+    "englishTransliteration": "metmainouti",
+    "partOfSpeech": "f",
+    "gloss": "Godliness, piety",
+    "definition": "Godliness, piety"
+  },
+  {
+    "headword": "macnou]",
+    "copticWord": "ⲙⲁⲥⲛⲟⲩϯ",
+    "englishTransliteration": "masnouti",
+    "partOfSpeech": "f",
+    "gloss": "God-bearing, mother of God (Virgin Mary)",
+    "definition": "God-bearing, mother of God (Virgin Mary)"
+  },
+  {
+    "headword": "refmecnou]",
+    "copticWord": "ⲣⲉϥⲙⲉⲥⲛⲟⲩϯ",
+    "englishTransliteration": "refmesnouti",
+    "partOfSpeech": "n",
+    "gloss": "God-bearer",
+    "definition": "God-bearer"
+  },
+  {
+    "headword": "mactenou]",
+    "copticWord": "ⲙⲁⲥⲧⲉⲛⲟⲩϯ",
+    "englishTransliteration": "mastenouti",
+    "partOfSpeech": "n",
+    "gloss": "god-hater",
+    "definition": "god-hater"
+  },
+  {
+    "headword": "ernou]",
+    "copticWord": "ⲉⲣⲛⲟⲩϯ",
+    "englishTransliteration": "ernouti",
+    "partOfSpeech": "vb",
+    "gloss": "To be god",
+    "definition": "To be god"
+  },
+  {
+    "headword": "samsenou]",
+    "copticWord": "ϣⲁⲙϣⲉⲛⲟⲩϯ",
+    "englishTransliteration": "shamshenouti",
+    "partOfSpeech": "n",
+    "gloss": "Serving god",
+    "definition": "god-server"
+  },
+  {
+    "headword": "metsamsenou]",
+    "copticWord": "ⲙⲉⲧϣⲁⲙϣⲉⲛⲟⲩϯ",
+    "englishTransliteration": "metshamshenouti",
+    "partOfSpeech": "f",
+    "gloss": "God-service, piety",
+    "definition": "God-service, piety"
+  },
+  {
+    "headword": "refsemsenou]",
+    "copticWord": "ⲣⲉϥϣⲉⲙϣⲉⲛⲟⲩϯ",
+    "englishTransliteration": "refshemshenouti",
+    "partOfSpeech": "m",
+    "gloss": "God-serving, pious person",
+    "definition": "God-serving, pious person"
+  },
+  {
+    "headword": "refjvenou]",
+    "copticWord": "ⲣⲉϥϫⲫⲉⲛⲟⲩϯ",
+    "englishTransliteration": "refjfenouti",
+    "partOfSpeech": "n",
+    "gloss": "God-bearer",
+    "definition": "God-bearer"
+  },
+  {
+    "headword": "noser",
+    "copticWord": "ⲛⲟϣⲉⲣ",
+    "englishTransliteration": "nosher",
+    "reference": "237a",
+    "partOfSpeech": "m",
+    "gloss": "Vulture, falcon",
+    "definition": "Vulture, falcon"
+  },
+  {
+    "headword": "nosp=",
+    "copticWord": "ⲛⲟϣⲡ",
+    "englishTransliteration": "noshp",
+    "gloss": "To agitate",
+    "definition": "To agitate",
+    "crossReference": {
+      "target": "nousp",
+      "gloss": "To agitate"
+    }
+  },
+  {
+    "headword": "nofer (Q)",
+    "copticWord": "ⲛⲟϥⲉⲣ (Ϧ)",
+    "englishTransliteration": "nofer (Kh)",
+    "reference": "239b",
+    "gloss": "vi. To be good, profitable",
+    "definition": "vi. To be good, profitable"
+  },
+  {
+    "headword": "nofri",
+    "copticWord": "ⲛⲟϥⲣⲓ",
+    "englishTransliteration": "nofri",
+    "partOfSpeech": "f",
+    "gloss": "Good, profit, advantage",
+    "definition": "Good, profit, advantage"
+  }
+]

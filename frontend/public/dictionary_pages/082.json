@@ -1,0 +1,494 @@
+[
+  {
+    "headword": "p",
+    "copticWord": "ⲡ",
+    "englishTransliteration": "p",
+    "reference": "258a",
+    "gloss": "16th letter of the Coptic Alphabet",
+    "definition": "p: The numeral 'eighty'."
+  },
+  {
+    "headword": "para",
+    "copticWord": "ⲡⲁⲣⲁ",
+    "englishTransliteration": "para",
+    "reference": "Gk",
+    "partOfSpeech": "adv",
+    "isGreek": true,
+    "gloss": "Against, opposite",
+    "definition": "beside, near, by; along; past, beyond, alongside."
+  },
+  {
+    "headword": "pay/tikon",
+    "copticWord": "ⲡⲁⲑⲏⲧⲓⲕⲟⲛ",
+    "englishTransliteration": "pathitikon",
+    "gloss": "Pathetic",
+    "definition": "Pathetic",
+    "crossReference": {
+      "target": "pay/tikoc",
+      "gloss": "Pathetic"
+    }
+  },
+  {
+    "headword": "parabacic",
+    "copticWord": "ⲡⲁⲣⲁⲃⲁⲥⲓⲥ",
+    "englishTransliteration": "paravasis",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Going aside, escape",
+    "definition": "error, illusion; overstepping"
+  },
+  {
+    "headword": "erparabenin",
+    "copticWord": "ⲉⲣⲡⲁⲣⲁⲃⲉⲛⲓⲛ",
+    "englishTransliteration": "erparavenin",
+    "partOfSpeech": "vb",
+    "gloss": "To break the law, overstep, transgress",
+    "definition": "To break the law, overstep, transgress"
+  },
+  {
+    "headword": "parabat/c",
+    "copticWord": "ⲡⲁⲣⲁⲃⲁⲧⲏⲥ",
+    "englishTransliteration": "paravatis",
+    "partOfSpeech": "m",
+    "gloss": "Transgressor, rebel",
+    "definition": "Transgressor, rebel"
+  },
+  {
+    "headword": "payoc",
+    "copticWord": "ⲡⲁⲑⲟⲥ",
+    "englishTransliteration": "pathos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Emotion, passion",
+    "definition": "incident, accident;",
+    "senses": [
+      {
+        "label": "apay/c",
+        "partOfSpeech": "adj",
+        "gloss": "Without passion",
+        "definition": "pay/tikoc, -on: adj. Capable of emotion, impassionate, pathetic; passive."
+      }
+    ]
+  },
+  {
+    "headword": "parabol/",
+    "copticWord": "ⲡⲁⲣⲁⲃⲟⲗⲏ",
+    "englishTransliteration": "paravoli",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Parable, proverb, illstration, analogy",
+    "definition": "juxtaposition, comparison."
+  },
+  {
+    "headword": "palaia",
+    "copticWord": "ⲡⲁⲗⲁⲓⲁ",
+    "englishTransliteration": "palaia",
+    "variants": [
+      {
+        "word": "palea",
+        "copticWord": "ⲡⲁⲗⲉⲁ",
+        "englishTransliteration": "palea"
+      },
+      {
+        "word": "palaioc",
+        "copticWord": "ⲡⲁⲗⲁⲓⲟⲥ",
+        "englishTransliteration": "palaios"
+      },
+      {
+        "word": "paleoc",
+        "copticWord": "ⲡⲁⲗⲉⲟⲥ",
+        "englishTransliteration": "paleos"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Aged, old, ancient",
+    "definition": "f. the Torah."
+  },
+  {
+    "headword": "paradeicoc",
+    "copticWord": "ⲡⲁⲣⲁⲇⲉⲓⲥⲟⲥ",
+    "englishTransliteration": "paradisos",
+    "variants": [
+      {
+        "word": "paradicoc",
+        "copticWord": "ⲡⲁⲣⲁⲇⲓⲥⲟⲥ",
+        "englishTransliteration": "paradisos"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Paradise, the abode of the blessed",
+    "definition": "the garden of Eden; garden, orchard."
+  },
+  {
+    "headword": "palaioc",
+    "copticWord": "ⲡⲁⲗⲁⲓⲟⲥ",
+    "englishTransliteration": "palaios",
+    "gloss": "Old",
+    "definition": "Old",
+    "crossReference": {
+      "target": "palaia",
+      "gloss": "Old"
+    }
+  },
+  {
+    "headword": "paradicoc",
+    "copticWord": "ⲡⲁⲣⲁⲇⲓⲥⲟⲥ",
+    "englishTransliteration": "paradisos",
+    "gloss": "Paradise",
+    "definition": "Paradise",
+    "crossReference": {
+      "target": "paradeicoc",
+      "gloss": "Paradise"
+    }
+  },
+  {
+    "headword": "palation",
+    "copticWord": "ⲡⲁⲗⲁⲧⲓⲟⲛ",
+    "englishTransliteration": "palation",
+    "variants": [
+      {
+        "word": "pallation",
+        "copticWord": "ⲡⲁⲗⲗⲁⲧⲓⲟⲛ",
+        "englishTransliteration": "pallation"
+      }
+    ],
+    "gloss": "(L)",
+    "definition": "m. The palatine hill; palace."
+  },
+  {
+    "headword": "paradococ",
+    "copticWord": "ⲡⲁⲣⲁⲇⲟⲥⲟⲥ",
+    "englishTransliteration": "paradosos",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Tradition, doctrine, teaching",
+    "definition": "Tradition, doctrine, teaching"
+  },
+  {
+    "headword": "palea",
+    "copticWord": "ⲡⲁⲗⲉⲁ",
+    "englishTransliteration": "palea",
+    "gloss": "Old",
+    "definition": "Old",
+    "crossReference": {
+      "target": "palaia",
+      "gloss": "Old"
+    }
+  },
+  {
+    "headword": "paleoc",
+    "copticWord": "ⲡⲁⲗⲉⲟⲥ",
+    "englishTransliteration": "paleos",
+    "gloss": "Old",
+    "definition": "Old",
+    "crossReference": {
+      "target": "palaia",
+      "gloss": "Old"
+    }
+  },
+  {
+    "headword": "paray/k/",
+    "copticWord": "ⲡⲁⲣⲁⲑⲏⲕⲏ",
+    "englishTransliteration": "parathiki",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Deposit",
+    "definition": "anything entrusted to one."
+  },
+  {
+    "headword": "palin",
+    "copticWord": "ⲡⲁⲗⲓⲛ",
+    "englishTransliteration": "palin",
+    "reference": "Gk",
+    "partOfSpeech": "adv",
+    "isGreek": true,
+    "gloss": "Again, once more, in turn",
+    "definition": "Again, once more, in turn",
+    "senses": [
+      {
+        "label": "palin on",
+        "gloss": "same as palin",
+        "definition": "same as palin"
+      }
+    ]
+  },
+  {
+    "headword": "parakl/toc",
+    "copticWord": "ⲡⲁⲣⲁⲕⲗⲏⲧⲟⲥ",
+    "englishTransliteration": "paraklitos",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Paraclete (a title for the Holy Spirit)",
+    "definition": "comforter, consoler."
+  },
+  {
+    "headword": "pallak/",
+    "copticWord": "ⲡⲁⲗⲗⲁⲕⲏ",
+    "englishTransliteration": "pallaki",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Concubine",
+    "definition": "Concubine"
+  },
+  {
+    "headword": "paralal/",
+    "copticWord": "ⲡⲁⲣⲁⲗⲁⲗⲏ",
+    "englishTransliteration": "paralali",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Mockery, insult",
+    "definition": "Mockery, insult"
+  },
+  {
+    "headword": "erparalalize",
+    "copticWord": "ⲉⲣⲡⲁⲣⲁⲗⲁⲗⲓⲍⲉ",
+    "englishTransliteration": "erparalalize",
+    "partOfSpeech": "vb",
+    "gloss": "To mock, insult",
+    "definition": "To mock, insult"
+  },
+  {
+    "headword": "pallation",
+    "copticWord": "ⲡⲁⲗⲗⲁⲧⲓⲟⲛ",
+    "englishTransliteration": "pallation",
+    "gloss": "Palace",
+    "definition": "Palace",
+    "crossReference": {
+      "target": "palation",
+      "gloss": "Palace"
+    }
+  },
+  {
+    "headword": "panagioc",
+    "copticWord": "ⲡⲁⲛⲁⲅⲓⲟⲥ",
+    "englishTransliteration": "panagios",
+    "variants": [
+      {
+        "word": "-ia",
+        "copticWord": "-ⲓⲁ",
+        "englishTransliteration": "-ia"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "All-holy",
+    "definition": "All-holy"
+  },
+  {
+    "headword": "pany/r",
+    "copticWord": "ⲡⲁⲛⲑⲏⲣ",
+    "englishTransliteration": "panthir",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Panther",
+    "definition": "Panther"
+  },
+  {
+    "headword": "paramon/",
+    "copticWord": "ⲡⲁⲣⲁⲙⲟⲛⲏ",
+    "englishTransliteration": "paramoni",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Baramoun, the eve of a feast",
+    "definition": "obligation to continue in service; endurance."
+  },
+  {
+    "headword": "panim",
+    "copticWord": "ⲡⲁⲛⲓⲙ",
+    "englishTransliteration": "panim",
+    "gloss": "Belonging to whom",
+    "definition": "Belonging to whom",
+    "crossReference": {
+      "target": "va (2)",
+      "gloss": "Belonging to whom"
+    }
+  },
+  {
+    "headword": "paranomoc",
+    "copticWord": "ⲡⲁⲣⲁⲛⲟⲙⲟⲥ",
+    "englishTransliteration": "paranomos",
+    "gloss": "Criminal",
+    "definition": "Criminal",
+    "crossReference": {
+      "target": "nomoc",
+      "gloss": "Criminal"
+    }
+  },
+  {
+    "headword": "paraptwma",
+    "copticWord": "ⲡⲁⲣⲁⲡⲧⲱⲙⲁ",
+    "englishTransliteration": "paraptōma",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "False step, slip, blunder",
+    "definition": "transgression, trespass."
+  },
+  {
+    "headword": "panourgia",
+    "copticWord": "ⲡⲁⲛⲟⲩⲣⲅⲓⲁ",
+    "englishTransliteration": "panourgia",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Falsification, adultera-tion, knavery",
+    "definition": "deceit"
+  },
+  {
+    "headword": "panourgoc",
+    "copticWord": "ⲡⲁⲛⲟⲩⲣⲅⲟⲥ",
+    "englishTransliteration": "panourgos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Wicked, deceit-ful, cunning, knavish person",
+    "definition": "Wicked, deceit-ful, cunning, knavish person"
+  },
+  {
+    "headword": "paop/",
+    "copticWord": "ⲡⲁⲟⲡⲏ",
+    "englishTransliteration": "paopi",
+    "gloss": "Babeh",
+    "definition": "Babeh",
+    "crossReference": {
+      "target": "pawpi",
+      "gloss": "Babeh"
+    }
+  },
+  {
+    "headword": "parackeu/",
+    "copticWord": "ⲡⲁⲣⲁⲥⲕⲉⲩⲏ",
+    "englishTransliteration": "paraskevi",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Preparation",
+    "definition": "the day of preparation before the sabath of the passover."
+  },
+  {
+    "headword": "paopi",
+    "copticWord": "ⲡⲁⲟⲡⲓ",
+    "englishTransliteration": "paopi",
+    "gloss": "Babeh",
+    "definition": "Babeh",
+    "crossReference": {
+      "target": "pawpi",
+      "gloss": "Babeh"
+    }
+  },
+  {
+    "headword": "parat/rei",
+    "copticWord": "ⲡⲁⲣⲁⲧⲏⲣⲉⲓ",
+    "englishTransliteration": "paratiri",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "gloss": "To watch closely, observe",
+    "definition": "take care; observe carefully."
+  },
+  {
+    "headword": "panorgoc",
+    "copticWord": "ⲡⲁⲛⲟⲣⲅⲟⲥ",
+    "englishTransliteration": "panorgos",
+    "gloss": "Wicked person",
+    "definition": "Wicked person",
+    "crossReference": {
+      "target": "panourgia",
+      "gloss": "Wicked person"
+    }
+  },
+  {
+    "headword": "pardalic",
+    "copticWord": "ⲡⲁⲣⲇⲁⲗⲓⲥ",
+    "englishTransliteration": "pardalis",
+    "variants": [
+      {
+        "word": "partalic",
+        "copticWord": "ⲡⲁⲣⲧⲁⲗⲓⲥ",
+        "englishTransliteration": "partalis"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Leopard",
+    "definition": "Leopard"
+  },
+  {
+    "headword": "pantokratwr",
+    "copticWord": "ⲡⲁⲛⲧⲟⲕⲣⲁⲧⲱⲣ",
+    "englishTransliteration": "pantokratōr",
+    "reference": "Gk",
+    "isGreek": true,
+    "senses": [
+      {
+        "gloss": "by all means",
+        "definition": "at any rate, definitely, positively."
+      }
+    ]
+  },
+  {
+    "headword": "m. Almighty. pantwc",
+    "copticWord": "ⲙ. Ⲁⲗⲙⲓⲅϩⲧⲑ. ⲡⲁⲛⲧⲱⲥ",
+    "englishTransliteration": "m. Almightth. pantōs",
+    "reference": "Gk",
+    "partOfSpeech": "adv",
+    "isGreek": true,
+    "gloss": "Absolutely, no boubt",
+    "definition": "Absolutely, no boubt"
+  },
+  {
+    "headword": "parembol/",
+    "copticWord": "ⲡⲁⲣⲉⲙⲃⲟⲗⲏ",
+    "englishTransliteration": "paremvoli",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Encampment",
+    "definition": "sol-dier's quarters, barrack."
+  },
+  {
+    "headword": "paryenia",
+    "copticWord": "ⲡⲁⲣⲑⲉⲛⲓⲁ",
+    "englishTransliteration": "parthenia",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Virginity",
+    "definition": "Virginity"
+  },
+  {
+    "headword": "paptap",
+    "copticWord": "ⲡⲁⲡⲧⲁⲡ",
+    "englishTransliteration": "paptap",
+    "gloss": "Unicorn",
+    "definition": "Unicorn",
+    "crossReference": {
+      "target": "tap",
+      "gloss": "Unicorn"
+    }
+  },
+  {
+    "headword": "paryenoc",
+    "copticWord": "ⲡⲁⲣⲑⲉⲛⲟⲥ",
+    "englishTransliteration": "parthenos",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Virgin, maiden, girl. parikia v. paroikia - Sojourning",
+    "definition": "Virgin, maiden, girl. parikia v. paroikia - Sojourning"
+  }
+]

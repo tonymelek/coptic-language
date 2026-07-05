@@ -1,0 +1,454 @@
+[
+  {
+    "headword": "(1) [ici",
+    "copticWord": "ϭⲓⲥⲓ",
+    "englishTransliteration": "chisi",
+    "variants": [
+      {
+        "word": "[ec",
+        "copticWord": "ϭⲉⲥ",
+        "englishTransliteration": "ches"
+      },
+      {
+        "word": "[ac",
+        "copticWord": "ϭⲁⲥ",
+        "englishTransliteration": "chas"
+      },
+      {
+        "word": "[ac=",
+        "copticWord": "ϭⲁⲥ",
+        "englishTransliteration": "chas"
+      },
+      {
+        "word": "(Q) [oci",
+        "copticWord": "(Ϧ) ϭⲟⲥⲓ",
+        "englishTransliteration": "(Kh) chosi"
+      },
+      {
+        "word": "p.c. [aci",
+        "copticWord": "ⲡ.ⲥ. ϭⲁⲥⲓ",
+        "englishTransliteration": "p.s. chasi"
+      }
+    ],
+    "reference": "788b",
+    "gloss": "vi. To become, be high, elevate",
+    "definition": "vt. to exalt;",
+    "senses": [
+      {
+        "label": "e",
+        "partOfSpeech": "vb",
+        "gloss": "To elevate over, above",
+        "definition": "To elevate over, above"
+      },
+      {
+        "label": "ejen",
+        "partOfSpeech": "vb",
+        "gloss": "To elevate over, upon",
+        "definition": "--- nahren: vb. To elevate beside, before;"
+      },
+      {
+        "label": "oube",
+        "partOfSpeech": "vb",
+        "gloss": "To elevate toward",
+        "definition": "--- sa: vb. To elevate up to; --- ebol ha: vb. To elevate from off;"
+      },
+      {
+        "label": "qen",
+        "gloss": "vi. To be exalted among",
+        "definition": "vi. To be exalted among"
+      },
+      {
+        "label": "hijen",
+        "partOfSpeech": "vb",
+        "gloss": "To elevate upon",
+        "definition": "To elevate upon"
+      },
+      {
+        "label": "epswi",
+        "partOfSpeech": "vb",
+        "gloss": "To elevate upward",
+        "definition": "--- ehr/i: vb. To elevate up; p.c. Who raises, mounts; --, pl. [acou: m. Height, top; [ici nh/t: vb. To be high hearted, vain."
+      }
+    ]
+  },
+  {
+    "headword": "[/out",
+    "copticWord": "ϭⲏⲟⲩⲧ",
+    "englishTransliteration": "chiout",
+    "gloss": "To be planted. [/j (Q) v. [wj - To be stained. [/ji v. [wj - Purple dye",
+    "definition": "To be planted. [/j (Q) v. [wj - To be stained. [/ji v. [wj - Purple dye",
+    "crossReference": {
+      "target": "(1)[o",
+      "gloss": "To be planted. [/j (Q) v. [wj - To be stained. [/ji v. [wj - Purple dye"
+    }
+  },
+  {
+    "headword": "(1) p.c. [ai",
+    "copticWord": "ⲡ.ⲥ. ϭⲁⲓ",
+    "englishTransliteration": "p.s. chai",
+    "variants": [
+      {
+        "word": "[au",
+        "copticWord": "ϭⲁⲩ",
+        "englishTransliteration": "chav"
+      }
+    ],
+    "reference": "747b",
+    "gloss": "vi. To receive, take",
+    "definition": "vt. To take, get, bring, accept;",
+    "senses": [
+      {
+        "label": "e",
+        "gloss": "vi. To lead, relate to, attain to",
+        "definition": "vt. To take to, for;"
+      },
+      {
+        "label": "ejen",
+        "gloss": "vt. To take upon",
+        "definition": "vt. To take upon"
+      },
+      {
+        "label": "nem",
+        "gloss": "vi. To be concerned with, touch",
+        "definition": "vt. to take with;"
+      },
+      {
+        "label": "nten",
+        "gloss": "vi. To receive from",
+        "definition": "vi. To receive from"
+      },
+      {
+        "label": "sa",
+        "partOfSpeech": "vb",
+        "gloss": "To take to",
+        "definition": "--- hi: vb. To bring on, in;"
+      },
+      {
+        "label": "qen",
+        "gloss": "vi. To receive in, from",
+        "definition": "vi. To receive in, from"
+      },
+      {
+        "label": "qaten",
+        "partOfSpeech": "vb",
+        "gloss": "To receive by, beside",
+        "definition": "To receive by, beside"
+      },
+      {
+        "label": "hijen",
+        "partOfSpeech": "vb",
+        "gloss": "To take upon",
+        "definition": "To take upon"
+      },
+      {
+        "label": "ebol",
+        "partOfSpeech": "vb",
+        "gloss": "To take out",
+        "definition": "--- epec/t: vb. To take down;"
+      },
+      {
+        "label": "epswi",
+        "partOfSpeech": "vb",
+        "gloss": "To bring up",
+        "definition": "--- eqoun: vb. To bring in; --- ehr/i: vb. To bring up;"
+      },
+      {
+        "label": "eqr/i",
+        "partOfSpeech": "vb",
+        "gloss": "To bring down",
+        "definition": "---: m. Taking, bringing; jin[i: m. Partaking."
+      }
+    ]
+  },
+  {
+    "headword": "(2) [ici",
+    "copticWord": "ϭⲓⲥⲓ",
+    "englishTransliteration": "chisi",
+    "reference": "790b",
+    "partOfSpeech": "f",
+    "gloss": "Back",
+    "definition": "Back"
+  },
+  {
+    "headword": "[it=",
+    "copticWord": "ϭⲓⲧ",
+    "englishTransliteration": "chit",
+    "gloss": "To receive",
+    "definition": "To receive",
+    "crossReference": {
+      "target": "(1)[i",
+      "gloss": "To receive"
+    }
+  },
+  {
+    "headword": "[itc",
+    "copticWord": "ϭⲓⲧⲥ",
+    "englishTransliteration": "chits",
+    "gloss": "Land tortoise (pl)",
+    "definition": "Land tortoise (pl)",
+    "crossReference": {
+      "target": "(2)sitc",
+      "gloss": "Land tortoise (pl)"
+    }
+  },
+  {
+    "headword": "[ioui",
+    "copticWord": "ϭⲓⲟⲩⲓ",
+    "englishTransliteration": "chioui",
+    "reference": "793b",
+    "gloss": "vi. To Steal",
+    "definition": "vi. To Steal",
+    "senses": [
+      {
+        "label": "f. [ouw",
+        "partOfSpeech": "m",
+        "gloss": "Theft, fraud",
+        "definition": "Theft, fraud"
+      },
+      {
+        "partOfSpeech": "adj",
+        "gloss": "Stolen, secret",
+        "definition": "Stolen, secret"
+      },
+      {
+        "label": "ref[ioui",
+        "partOfSpeech": "m",
+        "gloss": "Thief",
+        "definition": "Thief"
+      }
+    ]
+  },
+  {
+    "headword": "[iw]",
+    "copticWord": "ϭⲓⲱϯ",
+    "englishTransliteration": "chiōti",
+    "reference": "833a",
+    "partOfSpeech": "n",
+    "gloss": "Tip of scorpion's tail",
+    "definition": "Tip of scorpion's tail"
+  },
+  {
+    "headword": "[isswou",
+    "copticWord": "ϭⲓϣϣⲱⲟⲩ",
+    "englishTransliteration": "chishshōou",
+    "gloss": "Yearn for",
+    "definition": "Yearn for",
+    "crossReference": {
+      "target": "sswou",
+      "gloss": "Yearn for"
+    }
+  },
+  {
+    "headword": "[ihboc",
+    "copticWord": "ϭⲓϩⲃⲟⲥ",
+    "englishTransliteration": "chihvos",
+    "gloss": "Clothing",
+    "definition": "Clothing",
+    "crossReference": {
+      "target": "hwbc",
+      "gloss": "Clothing"
+    }
+  },
+  {
+    "headword": "(2) [i",
+    "copticWord": "ϭⲓ",
+    "englishTransliteration": "chi",
+    "reference": "751b",
+    "partOfSpeech": "m",
+    "gloss": "Breast, pap",
+    "definition": "][i: vb. To suckle"
+  },
+  {
+    "headword": "ouem[i",
+    "copticWord": "ⲟⲩⲉⲙϭⲓ",
+    "englishTransliteration": "ouemchi",
+    "partOfSpeech": "adj",
+    "gloss": "suckling",
+    "definition": "---: vt. To suckle."
+  },
+  {
+    "headword": "[ihbwc",
+    "copticWord": "ϭⲓϩⲃⲱⲥ",
+    "englishTransliteration": "chihvōs",
+    "gloss": "Clothing",
+    "definition": "Clothing",
+    "crossReference": {
+      "target": "hwbc",
+      "gloss": "Clothing"
+    }
+  },
+  {
+    "headword": "[i[la",
+    "copticWord": "ϭⲓϭⲗⲁ",
+    "englishTransliteration": "chichla",
+    "gloss": "To press upon",
+    "definition": "To press upon",
+    "crossReference": {
+      "target": "[la",
+      "gloss": "To press upon"
+    }
+  },
+  {
+    "headword": "[la",
+    "copticWord": "ϭⲗⲁ",
+    "englishTransliteration": "chla",
+    "variants": [
+      {
+        "word": "[lah",
+        "copticWord": "ϭⲗⲁϩ",
+        "englishTransliteration": "chlah"
+      }
+    ],
+    "reference": "810a",
+    "partOfSpeech": "m",
+    "gloss": "Wave",
+    "definition": "][la: vb. To sway, stagger, push"
+  },
+  {
+    "headword": "[lak",
+    "copticWord": "ϭⲗⲁⲕ",
+    "englishTransliteration": "chlak",
+    "gloss": "Stretching",
+    "definition": "Stretching",
+    "crossReference": {
+      "target": "[wlk",
+      "gloss": "Stretching"
+    }
+  },
+  {
+    "headword": "[i",
+    "copticWord": "ϭⲓ",
+    "englishTransliteration": "chi",
+    "gloss": "To take. [i/, si/: (803a)",
+    "definition": "m. Border, limit. [iie v. ki/ - He-goat.",
+    "crossReference": {
+      "target": "(1)[i",
+      "gloss": "To take. [i/, si/: (803a)"
+    }
+  },
+  {
+    "headword": "[lam",
+    "copticWord": "ϭⲗⲁⲙ",
+    "englishTransliteration": "chlam",
+    "variants": [
+      {
+        "word": "slam",
+        "copticWord": "ϣⲗⲁⲙ",
+        "englishTransliteration": "shlam"
+      }
+    ],
+    "reference": "811a",
+    "gloss": "v. Q. To kindle",
+    "definition": "v. Q. To kindle"
+  },
+  {
+    "headword": "[ikc",
+    "copticWord": "ϭⲓⲕⲥ",
+    "englishTransliteration": "chiks",
+    "reference": "806a",
+    "partOfSpeech": "m",
+    "gloss": "Spindle",
+    "definition": "Spindle"
+  },
+  {
+    "headword": "[lap",
+    "copticWord": "ϭⲗⲁⲡ",
+    "englishTransliteration": "chlap",
+    "variants": [
+      {
+        "word": "[alp",
+        "copticWord": "ϭⲁⲗⲡ",
+        "englishTransliteration": "chalp"
+      }
+    ],
+    "reference": "813a",
+    "gloss": "Mass, lump",
+    "definition": "Mass, lump"
+  },
+  {
+    "headword": "[lah",
+    "copticWord": "ϭⲗⲁϩ",
+    "englishTransliteration": "chlah",
+    "gloss": "Wave",
+    "definition": "Wave",
+    "crossReference": {
+      "target": "[la",
+      "gloss": "Wave"
+    }
+  },
+  {
+    "headword": "[ime",
+    "copticWord": "ϭⲓⲙⲉ",
+    "englishTransliteration": "chime",
+    "variants": [
+      {
+        "word": "[im/",
+        "copticWord": "ϭⲓⲙⲏ",
+        "englishTransliteration": "chimi"
+      }
+    ],
+    "reference": "818a",
+    "gloss": "vi. To take pleasure",
+    "definition": "---: m. Satiety, debauch."
+  },
+  {
+    "headword": "[lemlwm=",
+    "copticWord": "ϭⲗⲉⲙⲗⲱⲙ",
+    "englishTransliteration": "chlemlōm",
+    "gloss": "To be twisted",
+    "definition": "To be twisted",
+    "crossReference": {
+      "target": "[lomlem",
+      "gloss": "To be twisted"
+    }
+  },
+  {
+    "headword": "[im/",
+    "copticWord": "ϭⲓⲙⲏ",
+    "englishTransliteration": "chimi",
+    "gloss": "To take pleasure. [imout: (821a)",
+    "definition": "To take pleasure. [imout: (821a)",
+    "crossReference": {
+      "target": "[ime",
+      "gloss": "To take pleasure. [imout: (821a)"
+    }
+  },
+  {
+    "headword": "f. The Pleiades. [ipc",
+    "copticWord": "ϥ. Ⲧϩⲉ Ⲡⲗⲉⲓⲁⲇⲉϣ. ϭⲓⲡⲥ",
+    "englishTransliteration": "f. The Pliadesh. chips",
+    "reference": "827a",
+    "partOfSpeech": "m",
+    "gloss": "Wrinkle on skin, bark",
+    "definition": "Wrinkle on skin, bark"
+  },
+  {
+    "headword": "[leh",
+    "copticWord": "ϭⲗⲉϩ",
+    "englishTransliteration": "chleh",
+    "reference": "561b",
+    "partOfSpeech": "m",
+    "gloss": "Twig, shoot",
+    "definition": "Twig, shoot"
+  },
+  {
+    "headword": "[l/",
+    "copticWord": "ϭⲗⲏ",
+    "englishTransliteration": "chli",
+    "reference": "810a",
+    "partOfSpeech": "f",
+    "gloss": "Scorpion",
+    "definition": "Scorpion"
+  },
+  {
+    "headword": "[l/imi",
+    "copticWord": "ϭⲗⲏⲓⲙⲓ",
+    "englishTransliteration": "chliimi",
+    "gloss": "Cress",
+    "definition": "Cress",
+    "crossReference": {
+      "target": "sl/imi",
+      "gloss": "Cress"
+    }
+  }
+]

@@ -1,0 +1,601 @@
+[
+  {
+    "headword": "metkouji nh/t",
+    "copticWord": "ⲙⲉⲧⲕⲟⲩϫⲓ ⲛϩⲏⲧ",
+    "englishTransliteration": "metkouji nhit",
+    "partOfSpeech": "f",
+    "gloss": "Discourage-",
+    "definition": "Discourage-"
+  },
+  {
+    "headword": "erkocmein",
+    "copticWord": "ⲉⲣⲕⲟⲥⲙⲉⲓⲛ",
+    "englishTransliteration": "erkosmin",
+    "variants": [
+      {
+        "word": "-min",
+        "copticWord": "-ⲙⲓⲛ",
+        "englishTransliteration": "-min"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To decorate, ornament",
+    "definition": "To decorate, ornament"
+  },
+  {
+    "headword": "kocm/cic",
+    "copticWord": "ⲕⲟⲥⲙⲏⲥⲓⲥ",
+    "englishTransliteration": "kosmisis",
+    "partOfSpeech": "f",
+    "gloss": "Ordering, arrangement, adornment, dignity",
+    "definition": "Ordering, arrangement, adornment, dignity"
+  },
+  {
+    "headword": "kot=",
+    "copticWord": "ⲕⲟⲧ",
+    "englishTransliteration": "kot",
+    "gloss": "To build",
+    "definition": "To build",
+    "crossReference": {
+      "target": "kwt",
+      "gloss": "To build"
+    }
+  },
+  {
+    "headword": "noukouji",
+    "copticWord": "ⲛⲟⲩⲕⲟⲩϫⲓ",
+    "englishTransliteration": "noukouji",
+    "partOfSpeech": "adv",
+    "gloss": "A little",
+    "definition": "A little"
+  },
+  {
+    "headword": "oukouji",
+    "copticWord": "ⲟⲩⲕⲟⲩϫⲓ",
+    "englishTransliteration": "oukouji",
+    "partOfSpeech": "adv",
+    "gloss": "Somewhat, rather",
+    "definition": "Somewhat, rather"
+  },
+  {
+    "headword": "nkekouji",
+    "copticWord": "ⲛⲕⲉⲕⲟⲩϫⲓ",
+    "englishTransliteration": "nkekouji",
+    "variants": [
+      {
+        "word": "kekouji",
+        "copticWord": "ⲕⲉⲕⲟⲩϫⲓ",
+        "englishTransliteration": "kekouji"
+      }
+    ],
+    "partOfSpeech": "adv",
+    "gloss": "Yet a little",
+    "definition": "Yet a little"
+  },
+  {
+    "headword": "qa",
+    "copticWord": "ϧⲁ",
+    "englishTransliteration": "kha",
+    "variants": [
+      {
+        "word": "qath/ noukouji",
+        "copticWord": "ϧⲁⲧϩⲏ ⲛⲟⲩⲕⲟⲩϫⲓ",
+        "englishTransliteration": "khathi noukouji"
+      }
+    ],
+    "partOfSpeech": "adv",
+    "gloss": "A",
+    "definition": "A"
+  },
+  {
+    "headword": "kot",
+    "copticWord": "ⲕⲟⲧ",
+    "englishTransliteration": "kot",
+    "gloss": "turn",
+    "definition": "turn",
+    "crossReference": {
+      "target": "kw]",
+      "gloss": "turn"
+    }
+  },
+  {
+    "headword": "satnoukouji",
+    "copticWord": "ϣⲁⲧⲛⲟⲩⲕⲟⲩϫⲓ",
+    "englishTransliteration": "shatnoukouji",
+    "variants": [
+      {
+        "word": "satkekouji",
+        "copticWord": "ϣⲁⲧⲕⲉⲕⲟⲩϫⲓ",
+        "englishTransliteration": "shatkekouji"
+      }
+    ],
+    "partOfSpeech": "adv",
+    "gloss": "Almost",
+    "definition": "Almost"
+  },
+  {
+    "headword": "kotc",
+    "copticWord": "ⲕⲟⲧⲥ",
+    "englishTransliteration": "kots",
+    "gloss": "Twist",
+    "definition": "Twist",
+    "crossReference": {
+      "target": "kw]",
+      "gloss": "Twist"
+    }
+  },
+  {
+    "headword": "kotci",
+    "copticWord": "ⲕⲟⲧⲥⲓ",
+    "englishTransliteration": "kotsi",
+    "gloss": "Circuit",
+    "definition": "Circuit",
+    "crossReference": {
+      "target": "kw]",
+      "gloss": "Circuit"
+    }
+  },
+  {
+    "headword": "kouki",
+    "copticWord": "ⲕⲟⲩⲕⲓ",
+    "englishTransliteration": "kouki",
+    "gloss": "Rind",
+    "definition": "Rind",
+    "crossReference": {
+      "target": "kwk",
+      "gloss": "Rind"
+    }
+  },
+  {
+    "headword": "proc oukouji",
+    "copticWord": "ⲡⲣⲟⲥ ⲟⲩⲕⲟⲩϫⲓ",
+    "englishTransliteration": "pros oukouji",
+    "partOfSpeech": "adv",
+    "gloss": "For a little",
+    "definition": "For a little"
+  },
+  {
+    "headword": "kata kouji",
+    "copticWord": "ⲕⲁⲧⲁ ⲕⲟⲩϫⲓ",
+    "englishTransliteration": "kata kouji",
+    "partOfSpeech": "adv",
+    "gloss": "Occasionally",
+    "definition": "Occasionally"
+  },
+  {
+    "headword": "kouji...kouji",
+    "copticWord": "ⲕⲟⲩϫⲓ...ⲕⲟⲩϫⲓ",
+    "englishTransliteration": "kouji...kouji",
+    "variants": [
+      {
+        "word": "nkouji...kouji",
+        "copticWord": "ⲛⲕⲟⲩϫⲓ...ⲕⲟⲩϫⲓ",
+        "englishTransliteration": "nkouji...kouji"
+      }
+    ],
+    "partOfSpeech": "adv",
+    "gloss": "Little by little",
+    "definition": "Little by little"
+  },
+  {
+    "headword": "koukouvat",
+    "copticWord": "ⲕⲟⲩⲕⲟⲩⲫⲁⲧ",
+    "englishTransliteration": "koukoufat",
+    "reference": "102a",
+    "partOfSpeech": "mf",
+    "gloss": "Hoopoe",
+    "definition": "Hoopoe"
+  },
+  {
+    "headword": "koulaji",
+    "copticWord": "ⲕⲟⲩⲗⲁϫⲓ",
+    "englishTransliteration": "koulaji",
+    "reference": "108a",
+    "gloss": "pl. A fish",
+    "definition": "pl. A fish"
+  },
+  {
+    "headword": "erkouji",
+    "copticWord": "ⲉⲣⲕⲟⲩϫⲓ",
+    "englishTransliteration": "erkouji",
+    "partOfSpeech": "vb",
+    "gloss": "To be small, be few",
+    "definition": "To be small, be few"
+  },
+  {
+    "headword": "metkouji",
+    "copticWord": "ⲙⲉⲧⲕⲟⲩϫⲓ",
+    "englishTransliteration": "metkouji",
+    "partOfSpeech": "f",
+    "gloss": "Smallness, youth",
+    "definition": "Smallness, youth"
+  },
+  {
+    "headword": "koullc",
+    "copticWord": "ⲕⲟⲩⲗⲗⲥ",
+    "englishTransliteration": "koulls",
+    "reference": "101b",
+    "senses": [
+      {
+        "gloss": "To wrap, wind",
+        "definition": "To wrap, wind"
+      }
+    ]
+  },
+  {
+    "headword": "f. Hood",
+    "copticWord": "ϥ. Ϩⲟⲟⲇ",
+    "englishTransliteration": "f. Hood",
+    "variants": [
+      {
+        "word": "cowl of monks. koulwl",
+        "copticWord": "ⲥⲟⲱⲗ ⲟϥ ⲙⲟⲛⲕϣ. ⲕⲟⲩⲗⲱⲗ",
+        "englishTransliteration": "soōl of monksh. koulōl"
+      },
+      {
+        "word": "-wl=",
+        "copticWord": "-ⲱⲗ",
+        "englishTransliteration": "-ōl"
+      },
+      {
+        "word": "-wl",
+        "note": "Q",
+        "copticWord": "-ⲱⲗ",
+        "englishTransliteration": "-ōl"
+      }
+    ],
+    "reference": "130a",
+    "gloss": "vt",
+    "definition": "vt"
+  },
+  {
+    "headword": "koh",
+    "copticWord": "ⲕⲟϩ",
+    "englishTransliteration": "koh",
+    "variants": [
+      {
+        "word": "oh",
+        "copticWord": "ⲟϩ",
+        "englishTransliteration": "oh"
+      }
+    ],
+    "reference": "132a",
+    "partOfSpeech": "m",
+    "gloss": "Angle, corner, point, top",
+    "definition": "Angle, corner, point, top"
+  },
+  {
+    "headword": "kohlef",
+    "copticWord": "ⲕⲟϩⲗⲉϥ",
+    "englishTransliteration": "kohlef",
+    "gloss": "Camel-saddle",
+    "definition": "Camel-saddle",
+    "crossReference": {
+      "target": "hoklef",
+      "gloss": "Camel-saddle"
+    }
+  },
+  {
+    "headword": "koulwl=",
+    "copticWord": "ⲕⲟⲩⲗⲱⲗ",
+    "englishTransliteration": "koulōl",
+    "gloss": "To wrap",
+    "definition": "To wrap",
+    "crossReference": {
+      "target": "koulwl",
+      "gloss": "To wrap"
+    }
+  },
+  {
+    "headword": "kram",
+    "copticWord": "ⲕⲣⲁⲙ",
+    "englishTransliteration": "kram",
+    "variants": [
+      {
+        "word": "krom",
+        "copticWord": "ⲕⲣⲟⲙ",
+        "englishTransliteration": "krom"
+      },
+      {
+        "word": "krwm",
+        "copticWord": "ⲕⲣⲱⲙ",
+        "englishTransliteration": "krōm"
+      }
+    ],
+    "reference": "115b",
+    "partOfSpeech": "m",
+    "gloss": "Wild safflower, wild parsely",
+    "definition": "Wild safflower, wild parsely"
+  },
+  {
+    "headword": "krambe",
+    "copticWord": "ⲕⲣⲁⲙⲃⲉ",
+    "englishTransliteration": "kramve",
+    "gloss": "Cabbage",
+    "definition": "Cabbage",
+    "crossReference": {
+      "target": "kramb/",
+      "gloss": "Cabbage"
+    }
+  },
+  {
+    "headword": "kramb/",
+    "copticWord": "ⲕⲣⲁⲙⲃⲏ",
+    "englishTransliteration": "kramvi",
+    "variants": [
+      {
+        "word": "-be",
+        "copticWord": "-ⲃⲉ",
+        "englishTransliteration": "-ve"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Cabbage",
+    "definition": "Cabbage"
+  },
+  {
+    "headword": "kranion",
+    "copticWord": "ⲕⲣⲁⲛⲓⲟⲛ",
+    "englishTransliteration": "kranion",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Skull",
+    "definition": "Skull"
+  },
+  {
+    "headword": "koulhot",
+    "copticWord": "ⲕⲟⲩⲗϩⲟⲧ",
+    "englishTransliteration": "koulhot",
+    "variants": [
+      {
+        "word": "kolhot",
+        "copticWord": "ⲕⲟⲗϩⲟⲧ",
+        "englishTransliteration": "kolhot"
+      },
+      {
+        "word": "kolht",
+        "copticWord": "ⲕⲟⲗϩⲧ",
+        "englishTransliteration": "kolht"
+      }
+    ],
+    "reference": "107a",
+    "partOfSpeech": "m",
+    "gloss": "A fish 'clarias anguillaris'",
+    "definition": "A fish 'clarias anguillaris'"
+  },
+  {
+    "headword": "kractin",
+    "copticWord": "ⲕⲣⲁⲥⲧⲓⲛ",
+    "englishTransliteration": "krastin",
+    "variants": [
+      {
+        "word": "-ic",
+        "copticWord": "-ⲓⲥ",
+        "englishTransliteration": "-is"
+      },
+      {
+        "word": "gractic",
+        "copticWord": "ⲅⲣⲁⲥⲧⲓⲥ",
+        "englishTransliteration": "grastis"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Green fodder",
+    "definition": "Green fodder"
+  },
+  {
+    "headword": "kouper",
+    "copticWord": "ⲕⲟⲩⲡⲉⲣ",
+    "englishTransliteration": "kouper",
+    "variants": [
+      {
+        "word": "ouper",
+        "copticWord": "ⲟⲩⲡⲉⲣ",
+        "englishTransliteration": "ouper"
+      }
+    ],
+    "reference": "114a",
+    "partOfSpeech": "m",
+    "gloss": "A plant 'lawsonia inermis', henna",
+    "definition": "A plant 'lawsonia inermis', henna"
+  },
+  {
+    "headword": "(1) kour",
+    "copticWord": "ⲕⲟⲩⲣ",
+    "englishTransliteration": "kour",
+    "variants": [
+      {
+        "word": "kauri",
+        "copticWord": "ⲕⲁⲩⲣⲓ",
+        "englishTransliteration": "kavri"
+      }
+    ],
+    "reference": "114b",
+    "partOfSpeech": "n",
+    "gloss": "Deaf person",
+    "definition": "---: adj. Deaf"
+  },
+  {
+    "headword": "erkour",
+    "copticWord": "ⲉⲣⲕⲟⲩⲣ",
+    "englishTransliteration": "erkour",
+    "partOfSpeech": "vb",
+    "gloss": "To become deaf",
+    "definition": "To become deaf"
+  },
+  {
+    "headword": "metkour",
+    "copticWord": "ⲙⲉⲧⲕⲟⲩⲣ",
+    "englishTransliteration": "metkour",
+    "partOfSpeech": "f",
+    "gloss": "Deafness",
+    "definition": "Deafness"
+  },
+  {
+    "headword": "krikoc",
+    "copticWord": "ⲕⲣⲓⲕⲟⲥ",
+    "englishTransliteration": "krikos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Ring, link (in a chain), hoop",
+    "definition": "Ring, link (in a chain), hoop"
+  },
+  {
+    "headword": "kricic",
+    "copticWord": "ⲕⲣⲓⲥⲓⲥ",
+    "englishTransliteration": "krisis",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Decision, judgement, trial, suit",
+    "definition": "Decision, judgement, trial, suit"
+  },
+  {
+    "headword": "(2) kour",
+    "copticWord": "ⲕⲟⲩⲣ",
+    "englishTransliteration": "kour",
+    "reference": "114b",
+    "partOfSpeech": "n",
+    "gloss": "Blow (probably deafening blow), slap",
+    "definition": "Blow (probably deafening blow), slap"
+  },
+  {
+    "headword": "senkour",
+    "copticWord": "ϣⲉⲛⲕⲟⲩⲣ",
+    "englishTransliteration": "shenkour",
+    "gloss": "Same meaning",
+    "definition": "Same meaning"
+  },
+  {
+    "headword": "krit/rion",
+    "copticWord": "ⲕⲣⲓⲧⲏⲣⲓⲟⲛ",
+    "englishTransliteration": "kritirion",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Court of judgement, tribunal",
+    "definition": "Court of judgement, tribunal"
+  },
+  {
+    "headword": "krit/c",
+    "copticWord": "ⲕⲣⲓⲧⲏⲥ",
+    "englishTransliteration": "kritis",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Judge, umpire, the Biblical book of Judges",
+    "definition": "Judge, umpire, the Biblical book of Judges"
+  },
+  {
+    "headword": "koureuc",
+    "copticWord": "ⲕⲟⲩⲣⲉⲩⲥ",
+    "englishTransliteration": "kourevs",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Barber, hair-cutter, shearer",
+    "definition": "Barber, hair-cutter, shearer"
+  },
+  {
+    "headword": "krokoc",
+    "copticWord": "ⲕⲣⲟⲕⲟⲥ",
+    "englishTransliteration": "krokos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Saffron, crocus sativus, saffron meadow",
+    "definition": "Saffron, crocus sativus, saffron meadow"
+  },
+  {
+    "headword": "krom",
+    "copticWord": "ⲕⲣⲟⲙ",
+    "englishTransliteration": "krom",
+    "gloss": "Wild safflower",
+    "definition": "Wild safflower",
+    "crossReference": {
+      "target": "kram",
+      "gloss": "Wild safflower"
+    }
+  },
+  {
+    "headword": "kouctwdia",
+    "copticWord": "ⲕⲟⲩⲥⲧⲱⲇⲓⲁ",
+    "englishTransliteration": "koustōdia",
+    "gloss": "(Lat)",
+    "definition": "f. Guard, custodian, soldier."
+  },
+  {
+    "headword": "krwm",
+    "copticWord": "ⲕⲣⲱⲙ",
+    "englishTransliteration": "krōm",
+    "gloss": "Wild safflower",
+    "definition": "Wild safflower",
+    "crossReference": {
+      "target": "kram",
+      "gloss": "Wild safflower"
+    }
+  },
+  {
+    "headword": "kouvat",
+    "copticWord": "ⲕⲟⲩⲫⲁⲧ",
+    "englishTransliteration": "koufat",
+    "reference": "130a",
+    "gloss": "pl. Carpet, mattress",
+    "definition": "pl. Carpet, mattress"
+  },
+  {
+    "headword": "kte",
+    "copticWord": "ⲕⲧⲉ",
+    "englishTransliteration": "kte",
+    "gloss": "To burn",
+    "definition": "To burn",
+    "crossReference": {
+      "target": "kto",
+      "gloss": "To burn"
+    }
+  },
+  {
+    "headword": "kto (rare)",
+    "copticWord": "ⲕⲧⲟ (ⲣⲁⲣⲉ)",
+    "englishTransliteration": "kto (rare)",
+    "variants": [
+      {
+        "word": "kte",
+        "copticWord": "ⲕⲧⲉ",
+        "englishTransliteration": "kte"
+      },
+      {
+        "word": "kt/out",
+        "note": "Q",
+        "copticWord": "ⲕⲧⲏⲟⲩⲧ",
+        "englishTransliteration": "ktiout"
+      }
+    ],
+    "reference": "127b",
+    "gloss": "caus vb. To turn, surround",
+    "definition": "Qual. to be turned, be around."
+  },
+  {
+    "headword": "kouji",
+    "copticWord": "ⲕⲟⲩϫⲓ",
+    "englishTransliteration": "kouji",
+    "reference": "92b",
+    "partOfSpeech": "mf",
+    "gloss": "Small person or thing, young person, few",
+    "definition": "adj. small, few, young, younger"
+  },
+  {
+    "headword": "kouji nh/t",
+    "copticWord": "ⲕⲟⲩϫⲓ ⲛϩⲏⲧ",
+    "englishTransliteration": "kouji nhit",
+    "partOfSpeech": "n",
+    "gloss": "Faint-hearted, impatient person",
+    "definition": "Faint-hearted, impatient person"
+  }
+]

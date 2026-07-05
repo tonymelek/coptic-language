@@ -1,0 +1,420 @@
+[
+  {
+    "headword": "m",
+    "copticWord": "ⲙ",
+    "englishTransliteration": "m",
+    "reference": "152a",
+    "gloss": "The 12th letter of the Coptic Alphabet",
+    "definition": "The 12th letter of the Coptic Alphabet",
+    "senses": [
+      {
+        "label": "m",
+        "gloss": "numeral '40'",
+        "definition": "numeral '40'"
+      }
+    ]
+  },
+  {
+    "headword": "may/ma",
+    "copticWord": "ⲙⲁⲑⲏⲙⲁ",
+    "englishTransliteration": "mathima",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Lesson, learning, knowledge, doctrine",
+    "definition": "Lesson, learning, knowledge, doctrine"
+  },
+  {
+    "headword": "may/t/c",
+    "copticWord": "ⲙⲁⲑⲏⲧⲏⲥ",
+    "englishTransliteration": "mathitis",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "m",
+    "definition": "m"
+  },
+  {
+    "headword": "Pupil",
+    "copticWord": "Ⲡⲩⲡⲓⲗ",
+    "englishTransliteration": "Pypil",
+    "variants": [
+      {
+        "word": "student",
+        "copticWord": "ϣⲧⲩⲇⲉⲛⲧ",
+        "englishTransliteration": "shtydent"
+      },
+      {
+        "word": "disciple mayoui",
+        "copticWord": "ⲇⲓϣⲥⲓⲡⲗⲉ ⲙⲁⲑⲟⲩⲓ",
+        "englishTransliteration": "dishsiple mathoui"
+      }
+    ],
+    "reference": "196a",
+    "partOfSpeech": "f",
+    "gloss": "Poison esp. serpent's",
+    "definition": "Poison esp. serpent's"
+  },
+  {
+    "headword": "ma",
+    "copticWord": "ⲙⲁ",
+    "englishTransliteration": "ma",
+    "variants": [
+      {
+        "word": "mai",
+        "copticWord": "ⲙⲁⲓ",
+        "englishTransliteration": "mai"
+      },
+      {
+        "word": "mou",
+        "copticWord": "ⲙⲟⲩ",
+        "englishTransliteration": "mou"
+      }
+    ],
+    "reference": "153a",
+    "partOfSpeech": "m",
+    "gloss": "Place",
+    "definition": "dwelling place; chamber; monk's cell; temple, shrine, monastery; part, district; duty",
+    "senses": [
+      {
+        "label": "ma n",
+        "partOfSpeech": "m",
+        "gloss": "Place of, auxillary in translating Gk words",
+        "definition": "in prepositional phrases epman-, pma n- merely indicating place 'where', direction 'to'; indefinitely 'anywhere';"
+      },
+      {
+        "label": "epma n",
+        "gloss": "In place of",
+        "definition": "In place of"
+      },
+      {
+        "label": "euma",
+        "gloss": "to, In one place, together",
+        "definition": "to, In one place, together"
+      },
+      {
+        "label": "kata ma",
+        "gloss": "In different or several places",
+        "definition": "In different or several places"
+      },
+      {
+        "label": "sa paima",
+        "gloss": "Up to here, so far",
+        "definition": "Up to here, so far"
+      },
+      {
+        "label": "hiouma",
+        "gloss": "to, In one place",
+        "definition": "to, In one place"
+      },
+      {
+        "label": "mai niben",
+        "gloss": "Every place, everywhere",
+        "definition": "Every place, everywhere"
+      },
+      {
+        "label": "pima etemmau",
+        "gloss": "That place, there",
+        "definition": "That place, there"
+      },
+      {
+        "label": "a ma",
+        "partOfSpeech": "vb",
+        "gloss": "To allow place, give opportunity",
+        "definition": "To allow place, give opportunity"
+      },
+      {
+        "label": "ervma",
+        "partOfSpeech": "vb",
+        "gloss": "To take place of, succeed",
+        "definition": "To take place of, succeed"
+      },
+      {
+        "label": "oi nkema",
+        "partOfSpeech": "vb",
+        "gloss": "To be elsewhere, separated, unclean",
+        "definition": "To be elsewhere, separated, unclean"
+      },
+      {
+        "label": "]ma",
+        "partOfSpeech": "vb",
+        "gloss": "To give place, permit",
+        "definition": "jemma: vb. To find place, opportunity."
+      }
+    ]
+  },
+  {
+    "headword": "remvma",
+    "copticWord": "ⲣⲉⲙⲫⲙⲁ",
+    "englishTransliteration": "remfma",
+    "partOfSpeech": "m",
+    "gloss": "Man of the place, native",
+    "definition": "Man of the place, native"
+  },
+  {
+    "headword": "himayoui",
+    "copticWord": "ϩⲓⲙⲁⲑⲟⲩⲓ",
+    "englishTransliteration": "himathoui",
+    "partOfSpeech": "vb",
+    "gloss": "To throw poison. refhimayoui: m. Thrower of poison mayrwma: (Lat)",
+    "definition": "f. Matron."
+  },
+  {
+    "headword": "mai",
+    "copticWord": "ⲙⲁⲓ",
+    "englishTransliteration": "mai",
+    "gloss": "Place",
+    "definition": "Place",
+    "crossReference": {
+      "target": "ma",
+      "gloss": "Place"
+    }
+  },
+  {
+    "headword": "mai/",
+    "copticWord": "ⲙⲁⲓⲏ",
+    "englishTransliteration": "maii",
+    "variants": [
+      {
+        "word": "ma/",
+        "copticWord": "ⲙⲁⲏ",
+        "englishTransliteration": "mai"
+      }
+    ],
+    "reference": "156a",
+    "partOfSpeech": "f",
+    "gloss": "Size, age, kind",
+    "definition": "Size, age, kind"
+  },
+  {
+    "headword": "[imai/",
+    "copticWord": "ϭⲓⲙⲁⲓⲏ",
+    "englishTransliteration": "chimaii",
+    "partOfSpeech": "vb",
+    "gloss": "To grow in size, increase",
+    "definition": "To grow in size, increase"
+  },
+  {
+    "headword": "maio",
+    "copticWord": "ⲙⲁⲓⲟ",
+    "englishTransliteration": "maio",
+    "gloss": "To justify",
+    "definition": "To justify",
+    "crossReference": {
+      "target": "ymaio",
+      "gloss": "To justify"
+    }
+  },
+  {
+    "headword": "maio=",
+    "copticWord": "ⲙⲁⲓⲟ",
+    "englishTransliteration": "maio",
+    "gloss": "To justify",
+    "definition": "To justify",
+    "crossReference": {
+      "target": "ymaio",
+      "gloss": "To justify"
+    }
+  },
+  {
+    "headword": "makar",
+    "copticWord": "ⲙⲁⲕⲁⲣ",
+    "englishTransliteration": "makar",
+    "gloss": "Blessed",
+    "definition": "Blessed",
+    "crossReference": {
+      "target": "makarioc",
+      "gloss": "Blessed"
+    }
+  },
+  {
+    "headword": "makaria",
+    "copticWord": "ⲙⲁⲕⲁⲣⲓⲁ",
+    "englishTransliteration": "makaria",
+    "gloss": "Hapiness",
+    "definition": "Hapiness",
+    "crossReference": {
+      "target": "makarioc",
+      "gloss": "Hapiness"
+    }
+  },
+  {
+    "headword": "makarion",
+    "copticWord": "ⲙⲁⲕⲁⲣⲓⲟⲛ",
+    "englishTransliteration": "makarion",
+    "gloss": "Blessed",
+    "definition": "Blessed",
+    "crossReference": {
+      "target": "makarioc",
+      "gloss": "Blessed"
+    }
+  },
+  {
+    "headword": "makarioc",
+    "copticWord": "ⲙⲁⲕⲁⲣⲓⲟⲥ",
+    "englishTransliteration": "makarios",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Blessed, happy, prosperous, fortunate",
+    "definition": "late (dead); m. the blessed dead, the blessed one"
+  },
+  {
+    "headword": "makaricmoc",
+    "copticWord": "ⲙⲁⲕⲁⲣⲓⲥⲙⲟⲥ",
+    "englishTransliteration": "makarismos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Pronouncing hapiness, blessing, giving praise or thanks",
+    "definition": "Pronouncing hapiness, blessing, giving praise or thanks"
+  },
+  {
+    "headword": "ermakarizin",
+    "copticWord": "ⲉⲣⲙⲁⲕⲁⲣⲓⲍⲓⲛ",
+    "englishTransliteration": "ermakarizin",
+    "partOfSpeech": "vb",
+    "gloss": "To bless, praise, honor",
+    "definition": "To bless, praise, honor"
+  },
+  {
+    "headword": "makarit/c",
+    "copticWord": "ⲙⲁⲕⲁⲣⲓⲧⲏⲥ",
+    "englishTransliteration": "makaritis",
+    "partOfSpeech": "m",
+    "gloss": "One blessed",
+    "definition": "adj. of happy memory (late)"
+  },
+  {
+    "headword": "magganon",
+    "copticWord": "ⲙⲁⲅⲅⲁⲛⲟⲛ",
+    "englishTransliteration": "manganon",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "A weapon for launching ballistics (arrows or stones), catapult",
+    "definition": "crane."
+  },
+  {
+    "headword": "makgelloc",
+    "copticWord": "ⲙⲁⲕⲅⲉⲗⲗⲟⲥ",
+    "englishTransliteration": "makgellos",
+    "variants": [
+      {
+        "word": "magelloc",
+        "copticWord": "ⲙⲁⲅⲉⲗⲗⲟⲥ",
+        "englishTransliteration": "magellos"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true
+  },
+  {
+    "headword": "magelloc",
+    "copticWord": "ⲙⲁⲅⲉⲗⲗⲟⲥ",
+    "englishTransliteration": "magellos",
+    "gloss": "Butcher's shop",
+    "definition": "Butcher's shop",
+    "crossReference": {
+      "target": "makgelloc",
+      "gloss": "Butcher's shop"
+    }
+  },
+  {
+    "headword": "magia",
+    "copticWord": "ⲙⲁⲅⲓⲁ",
+    "englishTransliteration": "magia",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Magic",
+    "definition": "Magic"
+  },
+  {
+    "headword": "makia",
+    "copticWord": "ⲙⲁⲕⲓⲁ",
+    "englishTransliteration": "makia",
+    "gloss": "Magic",
+    "definition": "Magic",
+    "crossReference": {
+      "target": "magia",
+      "gloss": "Magic"
+    }
+  },
+  {
+    "headword": "maklabi",
+    "copticWord": "ⲙⲁⲕⲗⲁⲃⲓ",
+    "englishTransliteration": "maklavi",
+    "gloss": "Meaning unknown",
+    "definition": "Meaning unknown",
+    "crossReference": {
+      "target": "manklabi",
+      "gloss": "Meaning unknown"
+    }
+  },
+  {
+    "headword": "magoc",
+    "copticWord": "ⲙⲁⲅⲟⲥ",
+    "englishTransliteration": "magos",
+    "partOfSpeech": "m",
+    "gloss": "Magi (wise man from Persia), enchanter, wizard, magician",
+    "definition": "Magi (wise man from Persia), enchanter, wizard, magician"
+  },
+  {
+    "headword": "makrioc",
+    "copticWord": "ⲙⲁⲕⲣⲓⲟⲥ",
+    "englishTransliteration": "makrios",
+    "gloss": "Blessed",
+    "definition": "Blessed",
+    "crossReference": {
+      "target": "makarioc",
+      "gloss": "Blessed"
+    }
+  },
+  {
+    "headword": "ermagin",
+    "copticWord": "ⲉⲣⲙⲁⲅⲓⲛ",
+    "englishTransliteration": "ermagin",
+    "partOfSpeech": "vb",
+    "gloss": "To do magic, to enchant, to charm, charm",
+    "definition": "To do magic, to enchant, to charm, charm"
+  },
+  {
+    "headword": "ma/",
+    "copticWord": "ⲙⲁⲏ",
+    "englishTransliteration": "mai",
+    "gloss": "Size",
+    "definition": "Size",
+    "crossReference": {
+      "target": "mai/",
+      "gloss": "Size"
+    }
+  },
+  {
+    "headword": "makro",
+    "copticWord": "ⲙⲁⲕⲣⲟ",
+    "englishTransliteration": "makro",
+    "reference": "162b",
+    "partOfSpeech": "m",
+    "gloss": "Trough, mortar, among househould vessels",
+    "definition": "Trough, mortar, among househould vessels"
+  },
+  {
+    "headword": "mala,/",
+    "copticWord": "ⲙⲁⲗⲁⲭⲏ",
+    "englishTransliteration": "malakhi",
+    "gloss": "Molokhia (edible plant)",
+    "definition": "Molokhia (edible plant)",
+    "crossReference": {
+      "target": "molo,/",
+      "gloss": "Molokhia (edible plant)"
+    }
+  }
+]

@@ -1,0 +1,424 @@
+[
+  {
+    "headword": "jolk=",
+    "copticWord": "ϫⲟⲗⲕ",
+    "englishTransliteration": "jolk",
+    "gloss": "To be submerged",
+    "definition": "To be submerged",
+    "crossReference": {
+      "target": "jwlk",
+      "gloss": "To be submerged"
+    }
+  },
+  {
+    "headword": "(1) jom",
+    "copticWord": "ϫⲟⲙ",
+    "englishTransliteration": "jom",
+    "reference": "770b",
+    "partOfSpeech": "f",
+    "gloss": "Cauldron, basin",
+    "definition": "Cauldron, basin"
+  },
+  {
+    "headword": "jor=",
+    "copticWord": "ϫⲟⲣ",
+    "englishTransliteration": "jor",
+    "gloss": "To sharpen",
+    "definition": "To sharpen",
+    "crossReference": {
+      "target": "(1)jwr",
+      "gloss": "To sharpen"
+    }
+  },
+  {
+    "headword": "jorbec",
+    "copticWord": "ϫⲟⲣⲃⲉⲥ",
+    "englishTransliteration": "jorves",
+    "reference": "785b",
+    "partOfSpeech": "f",
+    "gloss": "Small vessel",
+    "definition": "Small vessel"
+  },
+  {
+    "headword": "jorj",
+    "copticWord": "ϫⲟⲣϫ",
+    "englishTransliteration": "jorj",
+    "gloss": "To be inhabited",
+    "definition": "To be inhabited",
+    "crossReference": {
+      "target": "(3)jwrj",
+      "gloss": "To be inhabited"
+    }
+  },
+  {
+    "headword": "jorj=",
+    "copticWord": "ϫⲟⲣϫ",
+    "englishTransliteration": "jorj",
+    "gloss": "To hunt",
+    "definition": "To hunt",
+    "crossReference": {
+      "target": "(1)jwrj",
+      "gloss": "To hunt"
+    }
+  },
+  {
+    "headword": "(2) jom",
+    "copticWord": "ϫⲟⲙ",
+    "englishTransliteration": "jom",
+    "reference": "815b",
+    "partOfSpeech": "f",
+    "gloss": "Power, strength",
+    "definition": "Power, strength",
+    "senses": [
+      {
+        "label": "atjom",
+        "partOfSpeech": "adj",
+        "gloss": "Powerless, unable",
+        "definition": "n. Impotence; remnjom: m. mighty man; iri, er jom: vb. To do mighty deeds, wonders;"
+      },
+      {
+        "label": "]jom",
+        "partOfSpeech": "vb",
+        "gloss": "To give power",
+        "definition": "ouon sjom: vb. There is power, have power;"
+      },
+      {
+        "label": "mmon sjom",
+        "partOfSpeech": "vb",
+        "gloss": "There is not power, have not power",
+        "definition": "There is not power, have not power"
+      },
+      {
+        "label": "[ijom",
+        "partOfSpeech": "vb",
+        "gloss": "To get strength",
+        "definition": "To get strength"
+      },
+      {
+        "label": "jemjom",
+        "partOfSpeech": "vb",
+        "gloss": "To find power, be strong, be able",
+        "definition": "To find power, be strong, be able"
+      }
+    ]
+  },
+  {
+    "headword": "jorjc",
+    "copticWord": "ϫⲟⲣϫⲥ",
+    "englishTransliteration": "jorjs",
+    "gloss": "Ambush",
+    "definition": "Ambush",
+    "crossReference": {
+      "target": "(1)jwrj",
+      "gloss": "Ambush"
+    }
+  },
+  {
+    "headword": "jor]",
+    "copticWord": "ϫⲟⲣϯ",
+    "englishTransliteration": "jorti",
+    "reference": "829b",
+    "partOfSpeech": "f",
+    "gloss": "Knife, sword",
+    "definition": "Knife, sword"
+  },
+  {
+    "headword": "joc",
+    "copticWord": "ϫⲟⲥ",
+    "englishTransliteration": "jos",
+    "variants": [
+      {
+        "word": "jec",
+        "copticWord": "ϫⲉⲥ",
+        "englishTransliteration": "jes"
+      }
+    ],
+    "reference": "832a",
+    "partOfSpeech": "m",
+    "gloss": "Half",
+    "definition": "Half"
+  },
+  {
+    "headword": "jocem",
+    "copticWord": "ϫⲟⲥⲉⲙ",
+    "englishTransliteration": "josem",
+    "reference": "832b",
+    "partOfSpeech": "m",
+    "gloss": "Darkness, tempest",
+    "definition": "Darkness, tempest"
+  },
+  {
+    "headword": "atjocem",
+    "copticWord": "ⲁⲧϫⲟⲥⲉⲙ",
+    "englishTransliteration": "atjosem",
+    "partOfSpeech": "adj",
+    "gloss": "Without storm, unperturbed",
+    "definition": "Without storm, unperturbed"
+  },
+  {
+    "headword": "jot=",
+    "copticWord": "ϫⲟⲧ",
+    "englishTransliteration": "jot",
+    "gloss": "To say",
+    "definition": "To say",
+    "crossReference": {
+      "target": "(2)jw",
+      "gloss": "To say"
+    }
+  },
+  {
+    "headword": "joth=",
+    "copticWord": "ϫⲟⲧϩ",
+    "englishTransliteration": "joth",
+    "gloss": "To wound",
+    "definition": "To wound",
+    "crossReference": {
+      "target": "jwth",
+      "gloss": "To wound"
+    }
+  },
+  {
+    "headword": "jos=",
+    "copticWord": "ϫⲟϣ",
+    "englishTransliteration": "josh",
+    "gloss": "To pour forth",
+    "definition": "To pour forth",
+    "crossReference": {
+      "target": "jws",
+      "gloss": "To pour forth"
+    }
+  },
+  {
+    "headword": "josjes",
+    "copticWord": "ϫⲟϣϫⲉϣ",
+    "englishTransliteration": "joshjesh",
+    "variants": [
+      {
+        "word": "jesjws",
+        "copticWord": "ϫⲉϣϫⲱϣ",
+        "englishTransliteration": "jeshjōsh"
+      }
+    ],
+    "reference": "839a",
+    "gloss": "vt. To sprinkle",
+    "definition": "vt. To sprinkle"
+  },
+  {
+    "headword": "sjemjom",
+    "copticWord": "ϣϫⲉⲙϫⲟⲙ",
+    "englishTransliteration": "shjemjom",
+    "partOfSpeech": "vb",
+    "gloss": "To be strong, able",
+    "definition": "To be strong, able"
+  },
+  {
+    "headword": "jomjem",
+    "copticWord": "ϫⲟⲙϫⲉⲙ",
+    "englishTransliteration": "jomjem",
+    "variants": [
+      {
+        "word": "jemjwm=",
+        "copticWord": "ϫⲉⲙϫⲱⲙ",
+        "englishTransliteration": "jemjōm"
+      }
+    ],
+    "reference": "818b",
+    "gloss": "vi. To touch, grope",
+    "definition": "vi. To touch, grope",
+    "senses": [
+      {
+        "label": "qen",
+        "gloss": "vi. To touch with",
+        "definition": "--: m. Sense of touch;"
+      }
+    ]
+  },
+  {
+    "headword": "jof=",
+    "copticWord": "ϫⲟϥ",
+    "englishTransliteration": "jof",
+    "gloss": "To burn",
+    "definition": "To burn",
+    "crossReference": {
+      "target": "(1)jwf",
+      "gloss": "To burn"
+    }
+  },
+  {
+    "headword": "jinjomjem",
+    "copticWord": "ϫⲓⲛϫⲟⲙϫⲉⲙ",
+    "englishTransliteration": "jinjomjem",
+    "partOfSpeech": "m",
+    "gloss": "Act of touching",
+    "definition": "Act of touching"
+  },
+  {
+    "headword": "jon",
+    "copticWord": "ϫⲟⲛ",
+    "englishTransliteration": "jon",
+    "reference": "819b",
+    "partOfSpeech": "m",
+    "gloss": "Low, hollow place",
+    "definition": "Low, hollow place"
+  },
+  {
+    "headword": "jane",
+    "copticWord": "ϫⲁⲛⲉ",
+    "englishTransliteration": "gane",
+    "variants": [
+      {
+        "word": "jan/",
+        "copticWord": "ϫⲁⲛⲏ",
+        "englishTransliteration": "gani"
+      },
+      {
+        "type": "pl.",
+        "word": "janeu",
+        "copticWord": "ϫⲁⲛⲉⲩ",
+        "englishTransliteration": "ganev"
+      }
+    ],
+    "partOfSpeech": "mf",
+    "gloss": "Low, hollow place",
+    "definition": "Low, hollow place"
+  },
+  {
+    "headword": "jonc",
+    "copticWord": "ϫⲟⲛⲥ",
+    "englishTransliteration": "jons",
+    "reference": "822a",
+    "partOfSpeech": "n",
+    "gloss": "Might, violence, hardy",
+    "definition": "Might, violence, hardy"
+  },
+  {
+    "headword": "[injonc",
+    "copticWord": "ϭⲓⲛϫⲟⲛⲥ",
+    "englishTransliteration": "chinjons",
+    "partOfSpeech": "vb",
+    "gloss": "To use violence, do evil, vt. to hurt., ill-treat, constrain",
+    "definition": "---: m. violence, iniquity."
+  },
+  {
+    "headword": "jofjef",
+    "copticWord": "ϫⲟϥϫⲉϥ",
+    "englishTransliteration": "jofjef",
+    "variants": [
+      {
+        "word": "jefjwf=",
+        "copticWord": "ϫⲉϥϫⲱϥ",
+        "englishTransliteration": "jefjōf"
+      },
+      {
+        "word": "(Q) jefjwf",
+        "copticWord": "(Ϧ) ϫⲉϥϫⲱϥ",
+        "englishTransliteration": "(Kh) jefjōf"
+      }
+    ],
+    "reference": "796b",
+    "gloss": "vi. To burn, cook",
+    "definition": "vi. To burn, cook"
+  },
+  {
+    "headword": "joj=",
+    "copticWord": "ϫⲟϫ",
+    "englishTransliteration": "joj",
+    "gloss": "To roast",
+    "definition": "To roast",
+    "crossReference": {
+      "target": "(2)jwj",
+      "gloss": "To roast"
+    }
+  },
+  {
+    "headword": "jojc",
+    "copticWord": "ϫⲟϫⲥ",
+    "englishTransliteration": "jojs",
+    "gloss": "Ingot. jroj, pl",
+    "definition": "Ingot. jroj, pl",
+    "crossReference": {
+      "target": "jejc",
+      "gloss": "Ingot. jroj, pl"
+    }
+  },
+  {
+    "headword": "jrwj",
+    "copticWord": "ϫⲣⲱϫ",
+    "englishTransliteration": "jrōj",
+    "reference": "831b",
+    "partOfSpeech": "m",
+    "gloss": "Seed",
+    "definition": "Seed"
+  },
+  {
+    "headword": "jouker",
+    "copticWord": "ϫⲟⲩⲕⲉⲣ",
+    "englishTransliteration": "jouker",
+    "variants": [
+      {
+        "word": "(Q) joker",
+        "copticWord": "(Ϧ) ϫⲟⲕⲉⲣ",
+        "englishTransliteration": "(Kh) joker"
+      }
+    ],
+    "reference": "764a",
+    "gloss": "vt. To salt, season, cure.",
+    "definition": "vt. To salt, season, cure."
+  },
+  {
+    "headword": "n",
+    "copticWord": "ⲛ",
+    "englishTransliteration": "n",
+    "gloss": "vt. To salt with",
+    "definition": "vt. To salt with"
+  },
+  {
+    "headword": "joukh",
+    "copticWord": "ϫⲟⲩⲕϩ",
+    "englishTransliteration": "joukh",
+    "variants": [
+      {
+        "word": "jwkh",
+        "copticWord": "ϫⲱⲕϩ",
+        "englishTransliteration": "jōkh"
+      },
+      {
+        "word": "jokh",
+        "copticWord": "ϫⲟⲕϩ",
+        "englishTransliteration": "jokh"
+      },
+      {
+        "word": "jekh",
+        "copticWord": "ϫⲉⲕϩ",
+        "englishTransliteration": "jekh"
+      },
+      {
+        "word": "jokh=",
+        "copticWord": "ϫⲟⲕϩ",
+        "englishTransliteration": "jokh"
+      }
+    ],
+    "reference": "765a",
+    "gloss": "vi. To prick, bite",
+    "definition": "vi. To prick, bite"
+  },
+  {
+    "headword": "jop",
+    "copticWord": "ϫⲟⲡ",
+    "englishTransliteration": "jop",
+    "reference": "778a",
+    "gloss": "vb Q. To be hard, cruel",
+    "definition": "vb Q. To be hard, cruel"
+  },
+  {
+    "headword": "jop=",
+    "copticWord": "ϫⲟⲡ",
+    "englishTransliteration": "jop",
+    "gloss": "To be seized",
+    "definition": "To be seized",
+    "crossReference": {
+      "target": "[wpi",
+      "gloss": "To be seized"
+    }
+  }
+]

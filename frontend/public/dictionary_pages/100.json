@@ -1,0 +1,498 @@
+[
+  {
+    "headword": "cont=",
+    "copticWord": "ⲥⲟⲛⲧ",
+    "englishTransliteration": "sont",
+    "gloss": "To create",
+    "definition": "To create",
+    "crossReference": {
+      "target": "cwnt",
+      "gloss": "To create"
+    }
+  },
+  {
+    "headword": "conh=",
+    "copticWord": "ⲥⲟⲛϩ",
+    "englishTransliteration": "sonh",
+    "gloss": "To bind",
+    "definition": "To bind",
+    "crossReference": {
+      "target": "cwnh",
+      "gloss": "To bind"
+    }
+  },
+  {
+    "headword": "coub/out",
+    "copticWord": "ⲥⲟⲩⲃⲏⲟⲩⲧ",
+    "englishTransliteration": "souviout",
+    "gloss": "Decent",
+    "definition": "Decent",
+    "crossReference": {
+      "target": "cebi",
+      "gloss": "Decent"
+    }
+  },
+  {
+    "headword": "coudarion",
+    "copticWord": "ⲥⲟⲩⲇⲁⲣⲓⲟⲛ",
+    "englishTransliteration": "soudarion",
+    "gloss": "(Lat)",
+    "definition": "m. Towel, napkin for the dead person"
+  },
+  {
+    "headword": "couen",
+    "copticWord": "ⲥⲟⲩⲉⲛ",
+    "englishTransliteration": "souen",
+    "variants": [
+      {
+        "word": "couen=",
+        "copticWord": "ⲥⲟⲩⲉⲛ",
+        "englishTransliteration": "souen"
+      }
+    ],
+    "reference": "369b",
+    "partOfSpeech": "m",
+    "gloss": "Value, price. couen- (vb.) v. cwoun - To know. couen- (m.) v. cwoun - Knowledge",
+    "definition": "Value, price. couen- (vb.) v. cwoun - To know. couen- (m.) v. cwoun - Knowledge"
+  },
+  {
+    "headword": "couen=",
+    "copticWord": "ⲥⲟⲩⲉⲛ",
+    "englishTransliteration": "souen",
+    "gloss": "Value",
+    "definition": "Value",
+    "crossReference": {
+      "target": "couen",
+      "gloss": "Value"
+    }
+  },
+  {
+    "headword": "con]",
+    "copticWord": "ⲥⲟⲛϯ",
+    "englishTransliteration": "sonti",
+    "reference": "346b",
+    "partOfSpeech": "m",
+    "gloss": "resin",
+    "definition": "resin"
+  },
+  {
+    "headword": "coou",
+    "copticWord": "ⲥⲟⲟⲩ",
+    "englishTransliteration": "soou",
+    "reference": "368b",
+    "partOfSpeech": "n",
+    "gloss": "Six",
+    "definition": "Six"
+  },
+  {
+    "headword": "cop",
+    "copticWord": "ⲥⲟⲡ",
+    "englishTransliteration": "sop",
+    "reference": "349b",
+    "partOfSpeech": "m",
+    "gloss": "Occasion, time, turn",
+    "definition": "Occasion, time, turn"
+  },
+  {
+    "headword": "mpaicop",
+    "copticWord": "ⲙⲡⲁⲓⲥⲟⲡ",
+    "englishTransliteration": "mpaisop",
+    "partOfSpeech": "adv",
+    "gloss": "This time",
+    "definition": "This time"
+  },
+  {
+    "headword": "noucop",
+    "copticWord": "ⲛⲟⲩⲥⲟⲡ",
+    "englishTransliteration": "nousop",
+    "gloss": "Once",
+    "definition": "Once"
+  },
+  {
+    "headword": "eucop",
+    "copticWord": "ⲉⲩⲥⲟⲡ",
+    "englishTransliteration": "evsop",
+    "gloss": "At one time, together",
+    "definition": "At one time, together"
+  },
+  {
+    "headword": "kata cop",
+    "copticWord": "ⲕⲁⲧⲁ ⲥⲟⲡ",
+    "englishTransliteration": "kata sop",
+    "gloss": "From time to time",
+    "definition": "From time to time"
+  },
+  {
+    "headword": "kecop",
+    "copticWord": "ⲕⲉⲥⲟⲡ",
+    "englishTransliteration": "kesop",
+    "gloss": "another time, again",
+    "definition": "another time, again"
+  },
+  {
+    "headword": "mpaikecop",
+    "copticWord": "ⲙⲡⲁⲓⲕⲉⲥⲟⲡ",
+    "englishTransliteration": "mpaikesop",
+    "gloss": "Yet once more, again",
+    "definition": "Yet once more, again"
+  },
+  {
+    "headword": "m/s ncop",
+    "copticWord": "ⲙⲏϣ ⲛⲥⲟⲡ",
+    "englishTransliteration": "mish nsop",
+    "gloss": "Multitude of times, often",
+    "definition": "Multitude of times, often"
+  },
+  {
+    "headword": "cop niben",
+    "copticWord": "ⲥⲟⲡ ⲛⲓⲃⲉⲛ",
+    "englishTransliteration": "sop neeben",
+    "gloss": "every time, always",
+    "definition": "every time, always"
+  },
+  {
+    "headword": "cop=",
+    "copticWord": "ⲥⲟⲡ",
+    "englishTransliteration": "sop",
+    "gloss": "To dip",
+    "definition": "To dip",
+    "crossReference": {
+      "target": "cwp",
+      "gloss": "To dip"
+    }
+  },
+  {
+    "headword": "cor",
+    "copticWord": "ⲥⲟⲣ",
+    "englishTransliteration": "sor",
+    "gloss": "To scatter",
+    "definition": "To scatter",
+    "crossReference": {
+      "target": "cwr",
+      "gloss": "To scatter"
+    }
+  },
+  {
+    "headword": "cor=",
+    "copticWord": "ⲥⲟⲣ",
+    "englishTransliteration": "sor",
+    "gloss": "To scatter",
+    "definition": "To scatter",
+    "crossReference": {
+      "target": "cwr",
+      "gloss": "To scatter"
+    }
+  },
+  {
+    "headword": "corem",
+    "copticWord": "ⲥⲟⲣⲉⲙ",
+    "englishTransliteration": "sorem",
+    "reference": "355a",
+    "partOfSpeech": "m",
+    "gloss": "Lees, dregs of wine, oil &c",
+    "definition": "Lees, dregs of wine, oil &c"
+  },
+  {
+    "headword": "atcorem",
+    "copticWord": "ⲁⲧⲥⲟⲣⲉⲙ",
+    "englishTransliteration": "atsorem",
+    "partOfSpeech": "adj",
+    "gloss": "Clarified",
+    "definition": "Clarified"
+  },
+  {
+    "headword": "cou/n",
+    "copticWord": "ⲥⲟⲩⲏⲛ",
+    "englishTransliteration": "souin",
+    "gloss": "Well known",
+    "definition": "Well known",
+    "crossReference": {
+      "target": "cwoun",
+      "gloss": "Well known"
+    }
+  },
+  {
+    "headword": "couin",
+    "copticWord": "ⲥⲟⲩⲓⲛ",
+    "englishTransliteration": "souin",
+    "gloss": "Well known",
+    "definition": "Well known",
+    "crossReference": {
+      "target": "cwoun",
+      "gloss": "Well known"
+    }
+  },
+  {
+    "headword": "couli",
+    "copticWord": "ⲥⲟⲩⲗⲓ",
+    "englishTransliteration": "souli",
+    "variants": [
+      {
+        "word": "coli",
+        "copticWord": "ⲥⲟⲗⲓ",
+        "englishTransliteration": "soli"
+      }
+    ],
+    "reference": "330b",
+    "partOfSpeech": "f",
+    "gloss": "Veil, covering",
+    "definition": "Veil, covering"
+  },
+  {
+    "headword": "coumani",
+    "copticWord": "ⲥⲟⲩⲙⲁⲛⲓ",
+    "englishTransliteration": "soumani",
+    "reference": "339a",
+    "partOfSpeech": "f",
+    "gloss": "Sexual organs or parts",
+    "definition": "Sexual organs or parts"
+  },
+  {
+    "headword": "couo",
+    "copticWord": "ⲥⲟⲩⲟ",
+    "englishTransliteration": "souo",
+    "reference": "369a",
+    "partOfSpeech": "m",
+    "gloss": "Wheat (Brit. corn)",
+    "definition": "Wheat (Brit. corn)"
+  },
+  {
+    "headword": "couri",
+    "copticWord": "ⲥⲟⲩⲣⲓ",
+    "englishTransliteration": "souri",
+    "reference": "354a",
+    "partOfSpeech": "f",
+    "gloss": "Thorn, spike, dart",
+    "definition": "Thorn, spike, dart"
+  },
+  {
+    "headword": "ercouri",
+    "copticWord": "ⲉⲣⲥⲟⲩⲣⲓ",
+    "englishTransliteration": "ersouri",
+    "partOfSpeech": "vb",
+    "gloss": "To produce, grow thorns",
+    "definition": "To produce, grow thorns"
+  },
+  {
+    "headword": "cerbnne",
+    "copticWord": "ⲥⲉⲣⲃⲛⲛⲉ",
+    "englishTransliteration": "servnne",
+    "gloss": "Thorn of date palm",
+    "definition": "Thorn of date palm"
+  },
+  {
+    "headword": "cerouji",
+    "copticWord": "ⲥⲉⲣⲟⲩϫⲓ",
+    "englishTransliteration": "serouji",
+    "gloss": "Thistle",
+    "definition": "Thistle"
+  },
+  {
+    "headword": "courot",
+    "copticWord": "ⲥⲟⲩⲣⲟⲧ",
+    "englishTransliteration": "sourot",
+    "variants": [
+      {
+        "word": "courwt",
+        "copticWord": "ⲥⲟⲩⲣⲱⲧ",
+        "englishTransliteration": "sourōt"
+      }
+    ],
+    "reference": "356b",
+    "partOfSpeech": "m",
+    "gloss": "Myrobalan",
+    "definition": "Myrobalan"
+  },
+  {
+    "headword": "courwt",
+    "copticWord": "ⲥⲟⲩⲣⲱⲧ",
+    "englishTransliteration": "sourōt",
+    "gloss": "Myrobalan",
+    "definition": "Myrobalan",
+    "crossReference": {
+      "target": "courot",
+      "gloss": "Myrobalan"
+    }
+  },
+  {
+    "headword": "coucou",
+    "copticWord": "ⲥⲟⲩⲥⲟⲩ",
+    "englishTransliteration": "sousou",
+    "reference": "371a",
+    "partOfSpeech": "m",
+    "gloss": "Moment, point, atom",
+    "definition": "Moment, point, atom"
+  },
+  {
+    "headword": "couten",
+    "copticWord": "ⲥⲟⲩⲧⲉⲛ",
+    "englishTransliteration": "souten",
+    "gloss": "To be upright",
+    "definition": "To be upright",
+    "crossReference": {
+      "target": "coutwn",
+      "gloss": "To be upright"
+    }
+  },
+  {
+    "headword": "coutwn",
+    "copticWord": "ⲥⲟⲩⲧⲱⲛ",
+    "englishTransliteration": "soutōn",
+    "variants": [
+      {
+        "word": "coutwn",
+        "copticWord": "ⲥⲟⲩⲧⲱⲛ",
+        "englishTransliteration": "soutōn"
+      },
+      {
+        "word": "couten",
+        "copticWord": "ⲥⲟⲩⲧⲉⲛ",
+        "englishTransliteration": "souten"
+      },
+      {
+        "word": "cou-twn=",
+        "copticWord": "ⲥⲟⲩ-ⲧⲱⲛ",
+        "englishTransliteration": "sou-tōn"
+      },
+      {
+        "word": "coutwn",
+        "note": "Q",
+        "copticWord": "ⲥⲟⲩⲧⲱⲛ",
+        "englishTransliteration": "soutōn"
+      }
+    ],
+    "reference": "371a",
+    "gloss": "vi. To be straight, upright",
+    "definition": "vt. To straighten, stretch;"
+  },
+  {
+    "headword": "corem (Q) v. cwrem - To be lost. corm= v. cwrem - To err. cormec v. cwrem - error. cort",
+    "copticWord": "ⲥⲟⲣⲉⲙ (Ϧ) ⲫ. ⲥⲱⲣⲉⲙ - Ⲧⲟ ⲃⲉ ⲗⲟϣⲧ. ⲥⲟⲣⲙ ⲫ̅. ⲥⲱⲣⲉⲙ - Ⲧⲟ ⲉⲣⲣ. ⲥⲟⲣⲙⲉⲥ ⲫ. ⲥⲱⲣⲉⲙ - ⲉⲣⲣⲟⲣ. ⲥⲟⲣⲧ",
+    "englishTransliteration": "sorem (Kh) f. sōrem - To ve losht. sorm f̅. sōrem - To err. sormes f. sōrem - error. sort",
+    "reference": "356b",
+    "partOfSpeech": "mf",
+    "gloss": "Wool of sheep, goat &c. coc= v. cwc - To upset. coci v. cwc - To upset. cot= v. cw] - To redeem. (cotcet), cetcwt (Q): (366b)",
+    "definition": "vb. To be shut, projected."
+  },
+  {
+    "headword": "e",
+    "copticWord": "ⲉ",
+    "englishTransliteration": "e",
+    "gloss": "vt. To stretch (a thing to)",
+    "definition": "--- ejen-: vb. To stretch over; --- nem-: vb. To be right with; --- sa-: vb. To stretch to, as far as; --- qen-: vb. To be upright in, stretch with;"
+  },
+  {
+    "headword": "ebol",
+    "copticWord": "ⲉⲃⲟⲗ",
+    "englishTransliteration": "evol",
+    "partOfSpeech": "vb",
+    "gloss": "To stretch out",
+    "definition": "--- epswi: vb. To stretch upward.",
+    "senses": [
+      {
+        "label": "eqoun",
+        "partOfSpeech": "vb",
+        "gloss": "To stretch into,",
+        "definition": "To stretch into,"
+      }
+    ]
+  },
+  {
+    "headword": "cotp=",
+    "copticWord": "ⲥⲟⲧⲡ",
+    "englishTransliteration": "sotp",
+    "gloss": "To choose",
+    "definition": "To choose",
+    "crossReference": {
+      "target": "cwtp",
+      "gloss": "To choose"
+    }
+  },
+  {
+    "headword": "cotpi",
+    "copticWord": "ⲥⲟⲧⲡⲓ",
+    "englishTransliteration": "sotpi",
+    "gloss": "Chosen",
+    "definition": "Chosen",
+    "crossReference": {
+      "target": "cwtp",
+      "gloss": "Chosen"
+    }
+  },
+  {
+    "headword": "cou",
+    "copticWord": "ⲥⲟⲩ",
+    "englishTransliteration": "sou",
+    "gloss": "Time",
+    "definition": "Time",
+    "crossReference": {
+      "target": "c/ou",
+      "gloss": "Time"
+    }
+  },
+  {
+    "headword": "coube",
+    "copticWord": "ⲥⲟⲩⲃⲉ",
+    "englishTransliteration": "souve",
+    "gloss": "To circumcise",
+    "definition": "To circumcise",
+    "crossReference": {
+      "target": "cebi",
+      "gloss": "To circumcise"
+    }
+  },
+  {
+    "headword": "coub/t=",
+    "copticWord": "ⲥⲟⲩⲃⲏⲧ",
+    "englishTransliteration": "souvit",
+    "gloss": "To circumcise",
+    "definition": "To circumcise",
+    "crossReference": {
+      "target": "cebi",
+      "gloss": "To circumcise"
+    }
+  },
+  {
+    "headword": "coub/t",
+    "copticWord": "ⲥⲟⲩⲃⲏⲧ",
+    "englishTransliteration": "souvit",
+    "gloss": "Decent",
+    "definition": "Decent",
+    "crossReference": {
+      "target": "cebi",
+      "gloss": "Decent"
+    }
+  },
+  {
+    "headword": "Uprightness qen oucoutwn",
+    "copticWord": "Ⲩⲡⲣⲓⲅϩⲧⲛⲉϣϣ ϧⲉⲛ ⲟⲩⲥⲟⲩⲧⲱⲛ",
+    "englishTransliteration": "Yprightneshsh khen ousoutōn",
+    "partOfSpeech": "adv",
+    "gloss": "Uprightly, forthwith",
+    "definition": "Uprightly, forthwith"
+  },
+  {
+    "headword": "metcoutwn",
+    "copticWord": "ⲙⲉⲧⲥⲟⲩⲧⲱⲛ",
+    "englishTransliteration": "metsoutōn",
+    "partOfSpeech": "f",
+    "gloss": "Rectification",
+    "definition": "Rectification"
+  },
+  {
+    "headword": "refcoutwn",
+    "copticWord": "ⲣⲉϥⲥⲟⲩⲧⲱⲛ",
+    "englishTransliteration": "refsoutōn",
+    "partOfSpeech": "m",
+    "gloss": "Straightener",
+    "definition": "Straightener"
+  },
+  {
+    "headword": "jincoutwn",
+    "copticWord": "ϫⲓⲛⲥⲟⲩⲧⲱⲛ",
+    "englishTransliteration": "jinsoutōn",
+    "partOfSpeech": "m",
+    "gloss": "Uprightness, establishment",
+    "definition": "Uprightness, establishment"
+  }
+]

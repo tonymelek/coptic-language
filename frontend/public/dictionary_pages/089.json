@@ -1,0 +1,257 @@
+[
+  {
+    "headword": "rwic",
+    "copticWord": "ⲣⲱⲓⲥ",
+    "englishTransliteration": "rōis",
+    "variants": [
+      {
+        "word": "rwc",
+        "copticWord": "ⲣⲱⲥ",
+        "englishTransliteration": "rōs"
+      },
+      {
+        "word": "r/c",
+        "note": "Q",
+        "copticWord": "ⲣⲏⲥ",
+        "englishTransliteration": "ris"
+      }
+    ],
+    "reference": "300b",
+    "gloss": "vi. To be awake, watch",
+    "definition": "--- e-: vb. To watch over, keep, be careful;",
+    "senses": [
+      {
+        "label": "ejen",
+        "partOfSpeech": "vb",
+        "gloss": "To watch over",
+        "definition": "To watch over"
+      },
+      {
+        "label": "n- (dat)",
+        "gloss": "To watch, keep on behalf of",
+        "definition": "To watch, keep on behalf of"
+      },
+      {
+        "label": "ebol",
+        "partOfSpeech": "vb",
+        "gloss": "To wake up",
+        "definition": "To wake up"
+      },
+      {
+        "label": "epswi",
+        "partOfSpeech": "vb",
+        "gloss": "To wake up",
+        "definition": "---: m. Watch, guard;"
+      },
+      {
+        "label": "refrwic",
+        "partOfSpeech": "m",
+        "gloss": "Watchman, guardian",
+        "definition": "ma nrwic: m. Place of watching; nau nrwic: f. Time of watch, vigilia; srwic: vb. To watch, guard;"
+      }
+    ]
+  },
+  {
+    "headword": "rwmi",
+    "copticWord": "ⲣⲱⲙⲓ",
+    "englishTransliteration": "rōmi",
+    "variants": [
+      {
+        "word": "rem",
+        "copticWord": "ⲣⲉⲙ",
+        "englishTransliteration": "rem"
+      }
+    ],
+    "reference": "294b",
+    "partOfSpeech": "mf",
+    "gloss": "Man, human being",
+    "definition": "Man, human being",
+    "senses": [
+      {
+        "label": "vrwmi mpibal",
+        "gloss": "Pupil of eye",
+        "definition": "atrwmi: adj. Without man, friendless;"
+      },
+      {
+        "label": "mairwmi",
+        "gloss": "Lover of mankind v. mei -Love",
+        "definition": "Lover of mankind v. mei -Love"
+      },
+      {
+        "label": "macterwmi",
+        "gloss": "Hater of man v. moc] -Hate",
+        "definition": "Hater of man v. moc] -Hate"
+      },
+      {
+        "label": "metrwmi",
+        "partOfSpeech": "f",
+        "gloss": "Humanity",
+        "definition": "Humanity"
+      },
+      {
+        "label": "errwmi",
+        "partOfSpeech": "vb",
+        "gloss": "To become man",
+        "definition": "To become man"
+      },
+      {
+        "label": "rem- &c",
+        "gloss": "Man (m or f) of, from",
+        "definition": "prfx of noun.; ref-: Prfx forming agent of vb; ramao; pl. ramaoi, -wi, -wou & sg as pl: n. Great man, rich man; metramao: f. Riches, wealth; erramao: vb. To become, make rich. rwn: (298b); n. Rampart; jinerrwmi: m. Act of becoming man;"
+      }
+    ]
+  },
+  {
+    "headword": "rwous",
+    "copticWord": "ⲣⲱⲟⲩϣ",
+    "englishTransliteration": "rōoush",
+    "reference": "306b",
+    "gloss": "vi. To have care for, be intent on",
+    "definition": "vi. To have care for, be intent on",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "Care, concern",
+        "definition": "cause of anxiety;"
+      },
+      {
+        "label": "errwous",
+        "partOfSpeech": "vb",
+        "gloss": "To make care, to be anxious",
+        "definition": "To make care, to be anxious"
+      },
+      {
+        "label": "ouahrwous",
+        "partOfSpeech": "vb",
+        "gloss": "To lay care",
+        "definition": "firwous: vb. To take care, thought; e-: vb. To take care for; --: n. Care, anxiety; jinfirwous: m. Care, anxiety;"
+      },
+      {
+        "label": "fairwous",
+        "partOfSpeech": "n",
+        "gloss": "Care-taker, guardian",
+        "definition": "qa: vb. Taking thought for; metfairwous: f. Care, provi-"
+      },
+      {
+        "gloss": "dence",
+        "definition": "dence"
+      }
+    ]
+  },
+  {
+    "headword": "ersrwic",
+    "copticWord": "ⲉⲣϣⲣⲱⲓⲥ",
+    "englishTransliteration": "ershrōis",
+    "partOfSpeech": "vb",
+    "gloss": "To keep vigil. rwkh, rekh-, rokh=, rokh (Q): (293a)",
+    "definition": "To keep vigil. rwkh, rekh-, rokh=, rokh (Q): (293a)",
+    "senses": [
+      {
+        "label": "vi",
+        "gloss": "To burn",
+        "definition": "e-: vb. To burn toward, after; nten-: vb. To burn by, through; qen: vb. To burn with, by; --- hiten: Same meaning; ---: m. Burning, fervor; refrwkh: m. One who burns, burning; rokh, rwkh: m. Fuel, firewood; rakhi: f. Fuel."
+      }
+    ]
+  },
+  {
+    "headword": "atrwous",
+    "copticWord": "ⲁⲧⲣⲱⲟⲩϣ",
+    "englishTransliteration": "atrōoush",
+    "partOfSpeech": "adj",
+    "gloss": "Care-free, not liable",
+    "definition": "always with er-"
+  },
+  {
+    "headword": "rwc",
+    "copticWord": "ⲣⲱⲥ",
+    "englishTransliteration": "rōs",
+    "gloss": "To watch",
+    "definition": "To watch",
+    "crossReference": {
+      "target": "rwic",
+      "gloss": "To watch"
+    }
+  },
+  {
+    "headword": "rwmaioc",
+    "copticWord": "ⲣⲱⲙⲁⲓⲟⲥ",
+    "englishTransliteration": "rōmaios",
+    "variants": [
+      {
+        "word": "rwmeoc",
+        "copticWord": "ⲣⲱⲙⲉⲟⲥ",
+        "englishTransliteration": "rōmeos"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "gloss": "a Roman",
+    "definition": "a Roman"
+  },
+  {
+    "headword": "rwm/",
+    "copticWord": "ⲣⲱⲙⲏ",
+    "englishTransliteration": "rōmi",
+    "gloss": "Rome",
+    "definition": "Rome"
+  },
+  {
+    "headword": "rwmeoc",
+    "copticWord": "ⲣⲱⲙⲉⲟⲥ",
+    "englishTransliteration": "rōmeos",
+    "gloss": "Roman. rwm/ v. rwmaioc - Rome",
+    "definition": "Roman. rwm/ v. rwmaioc - Rome",
+    "crossReference": {
+      "target": "rwmaioc",
+      "gloss": "Roman. rwm/ v. rwmaioc - Rome"
+    }
+  },
+  {
+    "headword": "rat",
+    "copticWord": "ⲣⲁⲧ",
+    "englishTransliteration": "rat",
+    "reference": "303b",
+    "gloss": "I. vi. To grow, sprout, be covered with a growth as vegetation or hair",
+    "definition": "I. vi. To grow, sprout, be covered with a growth as vegetation or hair"
+  },
+  {
+    "headword": "ebol",
+    "copticWord": "ⲉⲃⲟⲗ",
+    "englishTransliteration": "evol",
+    "partOfSpeech": "vb",
+    "gloss": "To Grow forth",
+    "definition": "To Grow forth"
+  },
+  {
+    "headword": "epswi",
+    "copticWord": "ⲉⲡϣⲱⲓ",
+    "englishTransliteration": "epshōi",
+    "partOfSpeech": "vb",
+    "gloss": "To Grow upward",
+    "definition": "To Grow upward"
+  },
+  {
+    "headword": "eqoun",
+    "copticWord": "ⲉϧⲟⲩⲛ",
+    "englishTransliteration": "ekhoun",
+    "partOfSpeech": "vb",
+    "gloss": "To stick in",
+    "definition": "To stick in"
+  },
+  {
+    "headword": "n",
+    "copticWord": "ⲛ",
+    "englishTransliteration": "n",
+    "partOfSpeech": "vb",
+    "gloss": "To be overgrown, be covered with",
+    "definition": "To be overgrown, be covered with",
+    "senses": [
+      {
+        "label": "II",
+        "gloss": "vt. To bring forth",
+        "definition": "--, pl. ro]: m. Growth. rwteb, royb=, roteb (Q): (305b); vi. To recline; vt. To make to recline; ma nrwteb: m. Place of reclining. rwoui v. arwoui - Stubble."
+      }
+    ]
+  }
+]

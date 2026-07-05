@@ -1,0 +1,606 @@
+[
+  {
+    "headword": "l",
+    "copticWord": "ⲗ",
+    "englishTransliteration": "l",
+    "reference": "134a",
+    "gloss": "Twelveth letter of the Coptic Alphabet",
+    "definition": "Twelveth letter of the Coptic Alphabet",
+    "senses": [
+      {
+        "label": "l",
+        "gloss": "The numeral '30'",
+        "definition": "The numeral '30'"
+      }
+    ]
+  },
+  {
+    "headword": "lamaqt",
+    "copticWord": "ⲗⲁⲙⲁϧⲧ",
+    "englishTransliteration": "lamakht",
+    "gloss": "Gluttonous",
+    "definition": "Gluttonous",
+    "crossReference": {
+      "target": "libi",
+      "gloss": "Gluttonous"
+    }
+  },
+  {
+    "headword": "lampac",
+    "copticWord": "ⲗⲁⲙⲡⲁⲥ",
+    "englishTransliteration": "lampas",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Torch, lamp, any light source",
+    "definition": "Torch, lamp, any light source"
+  },
+  {
+    "headword": "la",
+    "copticWord": "ⲗⲁ",
+    "englishTransliteration": "la",
+    "reference": "134b",
+    "partOfSpeech": "m",
+    "gloss": "Envy, slander",
+    "definition": "Envy, slander",
+    "senses": [
+      {
+        "label": "houla",
+        "gloss": "vi. to slander",
+        "definition": "vi. to slander"
+      }
+    ]
+  },
+  {
+    "headword": "erlampac",
+    "copticWord": "ⲉⲣⲗⲁⲙⲡⲁⲥ",
+    "englishTransliteration": "erlampas",
+    "partOfSpeech": "vb",
+    "gloss": "To illuminate, sparkle. lamr/t: (143a)",
+    "definition": "n. A herb."
+  },
+  {
+    "headword": "lamwou",
+    "copticWord": "ⲗⲁⲙⲱⲟⲩ",
+    "englishTransliteration": "lamōou",
+    "reference": "143b",
+    "partOfSpeech": "n",
+    "gloss": "Contrary to, beyond this (?)",
+    "definition": "Contrary to, beyond this (?)"
+  },
+  {
+    "headword": "lamjapt",
+    "copticWord": "ⲗⲁⲙϫⲁⲡⲧ",
+    "englishTransliteration": "lamgapt",
+    "variants": [
+      {
+        "word": "-jatp",
+        "copticWord": "-ϫⲁⲧⲡ",
+        "englishTransliteration": "-gatp"
+      }
+    ],
+    "reference": "143b",
+    "partOfSpeech": "m",
+    "gloss": "Tar, pitch",
+    "definition": "Tar, pitch"
+  },
+  {
+    "headword": "lab",
+    "copticWord": "ⲗⲁⲃ",
+    "englishTransliteration": "lav",
+    "gloss": "To be mad",
+    "definition": "To be mad",
+    "crossReference": {
+      "target": "libi",
+      "gloss": "To be mad"
+    }
+  },
+  {
+    "headword": "lamjatp",
+    "copticWord": "ⲗⲁⲙϫⲁⲧⲡ",
+    "englishTransliteration": "lamgatp",
+    "gloss": "Tar",
+    "definition": "Tar",
+    "crossReference": {
+      "target": "lamjapt",
+      "gloss": "Tar"
+    }
+  },
+  {
+    "headword": "labac",
+    "copticWord": "ⲗⲁⲃⲁⲥ",
+    "englishTransliteration": "lavas",
+    "variants": [
+      {
+        "word": "-oc",
+        "copticWord": "-ⲟⲥ",
+        "englishTransliteration": "-os"
+      }
+    ],
+    "reference": "137b",
+    "partOfSpeech": "n",
+    "gloss": "Aloe wood",
+    "definition": "Aloe wood"
+  },
+  {
+    "headword": "laouo",
+    "copticWord": "ⲗⲁⲟⲩⲟ",
+    "englishTransliteration": "laouo",
+    "variants": [
+      {
+        "word": "labo",
+        "copticWord": "ⲗⲁⲃⲟ",
+        "englishTransliteration": "lavo"
+      }
+    ],
+    "reference": "147b",
+    "partOfSpeech": "mf",
+    "gloss": "Ship's sail",
+    "definition": "Ship's sail"
+  },
+  {
+    "headword": "labo",
+    "copticWord": "ⲗⲁⲃⲟ",
+    "englishTransliteration": "lavo",
+    "gloss": "Ship's sail",
+    "definition": "Ship's sail",
+    "crossReference": {
+      "target": "laouo",
+      "gloss": "Ship's sail"
+    }
+  },
+  {
+    "headword": "laplep",
+    "copticWord": "ⲗⲁⲡⲗⲉⲡ",
+    "englishTransliteration": "laplep",
+    "gloss": "To be weary",
+    "definition": "To be weary",
+    "crossReference": {
+      "target": "alableb",
+      "gloss": "To be weary"
+    }
+  },
+  {
+    "headword": "(1) lapci",
+    "copticWord": "ⲗⲁⲡⲥⲓ",
+    "englishTransliteration": "lapsi",
+    "reference": "144a",
+    "gloss": "vt. To bite, seize",
+    "definition": "vt. To bite, seize"
+  },
+  {
+    "headword": "laboi",
+    "copticWord": "ⲗⲁⲃⲟⲓ",
+    "englishTransliteration": "lavoi",
+    "reference": "136b",
+    "partOfSpeech": "f",
+    "gloss": "Lioness",
+    "definition": "she-bear."
+  },
+  {
+    "headword": "(2) lapci",
+    "copticWord": "ⲗⲁⲡⲥⲓ",
+    "englishTransliteration": "lapsi",
+    "reference": "144b",
+    "gloss": "Fragment, small portion",
+    "definition": "Fragment, small portion"
+  },
+  {
+    "headword": "laboc",
+    "copticWord": "ⲗⲁⲃⲟⲥ",
+    "englishTransliteration": "lavos",
+    "gloss": "Aloe wood",
+    "definition": "Aloe wood",
+    "crossReference": {
+      "target": "labac",
+      "gloss": "Aloe wood"
+    }
+  },
+  {
+    "headword": "labw",
+    "copticWord": "ⲗⲁⲃⲱ",
+    "englishTransliteration": "lavō",
+    "gloss": "Ship's hauling cable",
+    "definition": "Ship's hauling cable",
+    "crossReference": {
+      "target": "leban",
+      "gloss": "Ship's hauling cable"
+    }
+  },
+  {
+    "headword": "lapt",
+    "copticWord": "ⲗⲁⲡⲧ",
+    "englishTransliteration": "lapt",
+    "variants": [
+      {
+        "word": "lebt",
+        "copticWord": "ⲗⲉⲃⲧ",
+        "englishTransliteration": "levt"
+      }
+    ],
+    "reference": "145b",
+    "partOfSpeech": "m",
+    "gloss": "Turnip",
+    "definition": "Turnip"
+  },
+  {
+    "headword": "lac",
+    "copticWord": "ⲗⲁⲥ",
+    "englishTransliteration": "las",
+    "reference": "144b",
+    "partOfSpeech": "m",
+    "gloss": "Tongue",
+    "definition": "language;",
+    "senses": [
+      {
+        "label": "kelac",
+        "partOfSpeech": "m",
+        "gloss": "Other tongue, foreign-tongued",
+        "definition": "Other tongue, foreign-tongued"
+      },
+      {
+        "label": "lac cnau",
+        "gloss": "Double-tongued",
+        "definition": "Double-tongued"
+      },
+      {
+        "label": "lac nkam",
+        "partOfSpeech": "m",
+        "gloss": "Splinter, needle of a reed",
+        "definition": "Splinter, needle of a reed"
+      },
+      {
+        "label": "va pilac",
+        "partOfSpeech": "m",
+        "gloss": "The tongued, among weaver's tools",
+        "definition": "The tongued, among weaver's tools"
+      },
+      {
+        "label": "jaj jojlac",
+        "gloss": "pl. Tongue-cutting",
+        "definition": "pl. Tongue-cutting"
+      }
+    ]
+  },
+  {
+    "headword": "laikoc",
+    "copticWord": "ⲗⲁⲓⲕⲟⲥ",
+    "englishTransliteration": "laikos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Civilian",
+    "definition": "layman."
+  },
+  {
+    "headword": "lakamou",
+    "copticWord": "ⲗⲁⲕⲁⲙⲟⲩ",
+    "englishTransliteration": "lakamou",
+    "reference": "139b",
+    "partOfSpeech": "n",
+    "gloss": "The plant 'colocynth'",
+    "definition": "The plant 'colocynth'"
+  },
+  {
+    "headword": "lakan/",
+    "copticWord": "ⲗⲁⲕⲁⲛⲏ",
+    "englishTransliteration": "lakani",
+    "variants": [
+      {
+        "word": "lekan/",
+        "copticWord": "ⲗⲉⲕⲁⲛⲏ",
+        "englishTransliteration": "lekani"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Basin, dish, pot, pan",
+    "definition": "Basin, dish, pot, pan"
+  },
+  {
+    "headword": "lakent",
+    "copticWord": "ⲗⲁⲕⲉⲛⲧ",
+    "englishTransliteration": "lakent",
+    "reference": "139b",
+    "partOfSpeech": "m",
+    "gloss": "Frying pan, cauldron",
+    "definition": "Frying pan, cauldron"
+  },
+  {
+    "headword": "lakm/",
+    "copticWord": "ⲗⲁⲕⲙⲏ",
+    "englishTransliteration": "lakmi",
+    "variants": [
+      {
+        "word": "m/",
+        "copticWord": "ⲙⲏ",
+        "englishTransliteration": "mi"
+      }
+    ],
+    "reference": "139a",
+    "partOfSpeech": "f",
+    "gloss": "Piece, fragment",
+    "definition": "Piece, fragment"
+  },
+  {
+    "headword": "lakci",
+    "copticWord": "ⲗⲁⲕⲥⲓ",
+    "englishTransliteration": "laksi",
+    "reference": "140a",
+    "partOfSpeech": "n",
+    "gloss": "Skip, bound",
+    "definition": "Skip, bound"
+  },
+  {
+    "headword": "lac=",
+    "copticWord": "ⲗⲁⲥ",
+    "englishTransliteration": "las",
+    "gloss": "To bruise",
+    "definition": "To bruise",
+    "crossReference": {
+      "target": "lwc",
+      "gloss": "To bruise"
+    }
+  },
+  {
+    "headword": "lakh",
+    "copticWord": "ⲗⲁⲕϩ",
+    "englishTransliteration": "lakh",
+    "reference": "140b",
+    "partOfSpeech": "m",
+    "gloss": "Corner, extremity, top",
+    "definition": "Corner, extremity, top"
+  },
+  {
+    "headword": "jajlakh",
+    "copticWord": "ϫⲁϫⲗⲁⲕϩ",
+    "englishTransliteration": "gajlakh",
+    "partOfSpeech": "adj",
+    "gloss": "Hard-cornered (of stone)",
+    "definition": "Hard-cornered (of stone)"
+  },
+  {
+    "headword": "lau",
+    "copticWord": "ⲗⲁⲩ",
+    "englishTransliteration": "lav",
+    "gloss": "Fringe",
+    "definition": "Fringe",
+    "crossReference": {
+      "target": "lwou",
+      "gloss": "Fringe"
+    }
+  },
+  {
+    "headword": "jwj nlakh",
+    "copticWord": "ϫⲱϫ ⲛⲗⲁⲕϩ",
+    "englishTransliteration": "jōj nlakh",
+    "partOfSpeech": "n",
+    "gloss": "Chief corner (of stone)",
+    "definition": "Chief corner (of stone)"
+  },
+  {
+    "headword": "lale",
+    "copticWord": "ⲗⲁⲗⲉ",
+    "englishTransliteration": "lale",
+    "gloss": "To smear",
+    "definition": "To smear",
+    "crossReference": {
+      "target": "lalw",
+      "gloss": "To smear"
+    }
+  },
+  {
+    "headword": "laura",
+    "copticWord": "ⲗⲁⲩⲣⲁ",
+    "englishTransliteration": "lavra",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Alley, lane, passage",
+    "definition": "monastery, laura."
+  },
+  {
+    "headword": "lal/out",
+    "copticWord": "ⲗⲁⲗⲏⲟⲩⲧ",
+    "englishTransliteration": "laliout",
+    "gloss": "To smear",
+    "definition": "To smear",
+    "crossReference": {
+      "target": "lalw",
+      "gloss": "To smear"
+    }
+  },
+  {
+    "headword": "la,m/",
+    "copticWord": "ⲗⲁⲭⲙⲏ",
+    "englishTransliteration": "lakhmi",
+    "gloss": "Piece",
+    "definition": "Piece",
+    "crossReference": {
+      "target": "lakm/",
+      "gloss": "Piece"
+    }
+  },
+  {
+    "headword": "lalo",
+    "copticWord": "ⲗⲁⲗⲟ",
+    "englishTransliteration": "lalo",
+    "gloss": "To smear",
+    "definition": "To smear",
+    "crossReference": {
+      "target": "lalw",
+      "gloss": "To smear"
+    }
+  },
+  {
+    "headword": "laf",
+    "copticWord": "ⲗⲁϥ",
+    "englishTransliteration": "laf",
+    "reference": "148b",
+    "partOfSpeech": "adj",
+    "gloss": "Pleasant",
+    "definition": "Pleasant"
+  },
+  {
+    "headword": "lalouk/n",
+    "copticWord": "ⲗⲁⲗⲟⲩⲕⲏⲛ",
+    "englishTransliteration": "laloukin",
+    "gloss": "Betelnut",
+    "definition": "Betelnut",
+    "crossReference": {
+      "target": "laloukin",
+      "gloss": "Betelnut"
+    }
+  },
+  {
+    "headword": "lafchimi",
+    "copticWord": "ⲗⲁϥⲥϩⲓⲙⲓ",
+    "englishTransliteration": "lafshimi",
+    "gloss": "Lecherous",
+    "definition": "Lecherous",
+    "crossReference": {
+      "target": "libi",
+      "gloss": "Lecherous"
+    }
+  },
+  {
+    "headword": "lafwi",
+    "copticWord": "ⲗⲁϥⲱⲓ",
+    "englishTransliteration": "lafōi",
+    "gloss": "Hairy",
+    "definition": "Hairy",
+    "crossReference": {
+      "target": "fwi",
+      "gloss": "Hairy"
+    }
+  },
+  {
+    "headword": "laloukin",
+    "copticWord": "ⲗⲁⲗⲟⲩⲕⲓⲛ",
+    "englishTransliteration": "laloukin",
+    "variants": [
+      {
+        "word": "-k/n",
+        "copticWord": "-ⲕⲏⲛ",
+        "englishTransliteration": "-kin"
+      }
+    ],
+    "reference": "142a",
+    "partOfSpeech": "n",
+    "gloss": "Betelnut (or ceder)",
+    "definition": "Betelnut (or ceder)"
+  },
+  {
+    "headword": "laqem",
+    "copticWord": "ⲗⲁϧⲉⲙ",
+    "englishTransliteration": "lakhem",
+    "reference": "149a",
+    "partOfSpeech": "m",
+    "gloss": "Trunk, branch, stalk, tube",
+    "definition": "Trunk, branch, stalk, tube"
+  },
+  {
+    "headword": "lalw",
+    "copticWord": "ⲗⲁⲗⲱ",
+    "englishTransliteration": "lalō",
+    "variants": [
+      {
+        "word": "-o",
+        "copticWord": "-ⲟ",
+        "englishTransliteration": "-o"
+      },
+      {
+        "word": "lalw",
+        "copticWord": "ⲗⲁⲗⲱ",
+        "englishTransliteration": "lalō"
+      },
+      {
+        "word": "lale",
+        "copticWord": "ⲗⲁⲗⲉ",
+        "englishTransliteration": "lale"
+      },
+      {
+        "word": "lalw=",
+        "copticWord": "ⲗⲁⲗⲱ",
+        "englishTransliteration": "lalō"
+      },
+      {
+        "word": "lal/out(Q)",
+        "copticWord": "ⲗⲁⲗⲏⲟⲩⲧ(Ϧ)",
+        "englishTransliteration": "laliout(Kh)"
+      }
+    ],
+    "reference": "141a",
+    "gloss": "vt. To smear, paint, overlay",
+    "definition": "vt. To smear, paint, overlay"
+  },
+  {
+    "headword": "laq/tf",
+    "copticWord": "ⲗⲁϧⲏⲧϥ",
+    "englishTransliteration": "lakhitf",
+    "gloss": "Greedy person",
+    "definition": "Greedy person",
+    "crossReference": {
+      "target": "libi",
+      "gloss": "Greedy person"
+    }
+  },
+  {
+    "headword": "lahwj",
+    "copticWord": "ⲗⲁϩⲱϫ",
+    "englishTransliteration": "lahōj",
+    "reference": "150a",
+    "gloss": "pl. Meaning unknown",
+    "definition": "pl. Meaning unknown"
+  },
+  {
+    "headword": "lalw=",
+    "copticWord": "ⲗⲁⲗⲱ",
+    "englishTransliteration": "lalō",
+    "gloss": "To smear",
+    "definition": "To smear",
+    "crossReference": {
+      "target": "lalw",
+      "gloss": "To smear"
+    }
+  },
+  {
+    "headword": "lajan",
+    "copticWord": "ⲗⲁϫⲁⲛ",
+    "englishTransliteration": "lagan",
+    "reference": "151a",
+    "partOfSpeech": "m",
+    "gloss": "Moisture",
+    "definition": "Moisture"
+  },
+  {
+    "headword": "lam",
+    "copticWord": "ⲗⲁⲙ",
+    "englishTransliteration": "lam",
+    "reference": "142a",
+    "partOfSpeech": "m",
+    "gloss": "A kind of animal food",
+    "definition": "A kind of animal food"
+  },
+  {
+    "headword": "(1) laji",
+    "copticWord": "ⲗⲁϫⲓ",
+    "englishTransliteration": "laji",
+    "reference": "150b",
+    "partOfSpeech": "m",
+    "gloss": "Latrine of ship",
+    "definition": "latrine."
+  },
+  {
+    "headword": "lama,it/c",
+    "copticWord": "ⲗⲁⲙⲁⲭⲓⲧⲏⲥ",
+    "englishTransliteration": "lamakhitis",
+    "gloss": "Glutton",
+    "definition": "Glutton",
+    "crossReference": {
+      "target": "libi",
+      "gloss": "Glutton"
+    }
+  }
+]

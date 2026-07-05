@@ -1,0 +1,493 @@
+[
+  {
+    "headword": "pneumatovoroc",
+    "copticWord": "ⲡⲛⲉⲩⲙⲁⲧⲟⲫⲟⲣⲟⲥ",
+    "englishTransliteration": "pnevmatoforos",
+    "gloss": "Inspired. pod/r/, -/c: (Gk)",
+    "definition": "m. Robe that falls over the feet; parts about the feet, feet. pneumatikon v. pneuma - Spiritual",
+    "crossReference": {
+      "target": "pneuma",
+      "gloss": "Inspired. pod/r/, -/c: (Gk)"
+    }
+  },
+  {
+    "headword": "pinax",
+    "copticWord": "ⲡⲓⲛⲁⲝ",
+    "englishTransliteration": "pinaks",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Index, index of authors",
+    "definition": "board, platter, table, tablet."
+  },
+  {
+    "headword": "piracmoc",
+    "copticWord": "ⲡⲓⲣⲁⲥⲙⲟⲥ",
+    "englishTransliteration": "pirasmos",
+    "gloss": "Temptation",
+    "definition": "Temptation",
+    "crossReference": {
+      "target": "peiracmoc",
+      "gloss": "Temptation"
+    }
+  },
+  {
+    "headword": "pictik/",
+    "copticWord": "ⲡⲓⲥⲧⲓⲕⲏ",
+    "englishTransliteration": "pistiki",
+    "gloss": "Faithful",
+    "definition": "Faithful",
+    "crossReference": {
+      "target": "pictic",
+      "gloss": "Faithful"
+    }
+  },
+  {
+    "headword": "poi/t/c",
+    "copticWord": "ⲡⲟⲓⲏⲧⲏⲥ",
+    "englishTransliteration": "poiitis",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Poet, inventor, composer",
+    "definition": "Poet, inventor, composer"
+  },
+  {
+    "headword": "pictic",
+    "copticWord": "ⲡⲓⲥⲧⲓⲥ",
+    "englishTransliteration": "pistis",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Trust, faith",
+    "definition": "Trust, faith",
+    "senses": [
+      {
+        "label": "pictoc",
+        "partOfSpeech": "adj",
+        "gloss": "Faithful, trustworthy",
+        "definition": "m. faithful person;"
+      },
+      {
+        "label": "erpicteuin",
+        "partOfSpeech": "vb",
+        "gloss": "To believe, be faithful, be trustworthy",
+        "definition": "pictik/: adj. Faithful."
+      }
+    ]
+  },
+  {
+    "headword": "poikoltoc",
+    "copticWord": "ⲡⲟⲓⲕⲟⲗⲧⲟⲥ",
+    "englishTransliteration": "poikoltos",
+    "variants": [
+      {
+        "word": "pikoltoc",
+        "copticWord": "ⲡⲓⲕⲟⲗⲧⲟⲥ",
+        "englishTransliteration": "pikoltos"
+      }
+    ],
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Variegated, broidered",
+    "definition": "Variegated, broidered"
+  },
+  {
+    "headword": "polemict/c",
+    "copticWord": "ⲡⲟⲗⲉⲙⲓⲥⲧⲏⲥ",
+    "englishTransliteration": "polemistis",
+    "gloss": "Warrior. polemoc: (Gk)",
+    "definition": "m. War, battle, fight;",
+    "crossReference": {
+      "target": "polemoc",
+      "gloss": "Warrior. polemoc: (Gk)"
+    },
+    "senses": [
+      {
+        "label": "erpoliteuecye",
+        "partOfSpeech": "vb",
+        "gloss": "To fight, make war",
+        "definition": "polemict/c: m. Warrior; poluma,oc, polima,oc: adj. Much fighting."
+      }
+    ]
+  },
+  {
+    "headword": "pictoc",
+    "copticWord": "ⲡⲓⲥⲧⲟⲥ",
+    "englishTransliteration": "pistos",
+    "gloss": "Faithful",
+    "definition": "Faithful",
+    "crossReference": {
+      "target": "pictic",
+      "gloss": "Faithful"
+    }
+  },
+  {
+    "headword": "plan/",
+    "copticWord": "ⲡⲗⲁⲛⲏ",
+    "englishTransliteration": "plani",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Wandering, roaming",
+    "definition": "going astray, illusion"
+  },
+  {
+    "headword": "deceit",
+    "copticWord": "ⲇⲉⲥⲉⲓⲧ",
+    "englishTransliteration": "desit",
+    "variants": [
+      {
+        "word": "imposture planoc",
+        "copticWord": "ⲓⲙⲡⲟϣⲧⲩⲣⲉ ⲡⲗⲁⲛⲟⲥ",
+        "englishTransliteration": "imposhtyre planos"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "Vagabond, tramp, impos-tor, deceiver",
+    "definition": "Vagabond, tramp, impos-tor, deceiver"
+  },
+  {
+    "headword": "erplanin",
+    "copticWord": "ⲉⲣⲡⲗⲁⲛⲓⲛ",
+    "englishTransliteration": "erplanin",
+    "variants": [
+      {
+        "word": "[iplan/",
+        "copticWord": "ϭⲓⲡⲗⲁⲛⲏ",
+        "englishTransliteration": "chiplani"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To go astray",
+    "definition": "To go astray"
+  },
+  {
+    "headword": "pol/tia",
+    "copticWord": "ⲡⲟⲗⲏⲧⲓⲁ",
+    "englishTransliteration": "politia",
+    "gloss": "Virtue. polima,oc v. polemoc - Much fighting. polic: (Gk)",
+    "definition": "Virtue. polima,oc v. polemoc - Much fighting. polic: (Gk)",
+    "crossReference": {
+      "target": "politeia",
+      "gloss": "Virtue. polima,oc v. polemoc - Much fighting. polic: (Gk)"
+    },
+    "senses": [
+      {
+        "gloss": "Virtue",
+        "definition": "life, living, the daily life of a citizen."
+      }
+    ]
+  },
+  {
+    "headword": "f. City",
+    "copticWord": "ϥ. Ⲥⲓⲧⲑ",
+    "englishTransliteration": "f. Sitth",
+    "variants": [
+      {
+        "word": "country",
+        "copticWord": "ⲥⲟⲩⲛⲧⲣⲑ",
+        "englishTransliteration": "sountrth"
+      },
+      {
+        "word": "community. politeia",
+        "copticWord": "ⲥⲟⲙⲙⲩⲛⲓⲧⲑ. ⲡⲟⲗⲓⲧⲉⲓⲁ",
+        "englishTransliteration": "sommynitth. politia"
+      },
+      {
+        "word": "pol/tia",
+        "copticWord": "ⲡⲟⲗⲏⲧⲓⲁ",
+        "englishTransliteration": "politia"
+      },
+      {
+        "word": "politia",
+        "copticWord": "ⲡⲟⲗⲓⲧⲓⲁ",
+        "englishTransliteration": "politia"
+      }
+    ],
+    "reference": "Gk",
+    "isGreek": true
+  },
+  {
+    "headword": "planoc",
+    "copticWord": "ⲡⲗⲁⲛⲟⲥ",
+    "englishTransliteration": "planos",
+    "gloss": "Impostor",
+    "definition": "Impostor",
+    "crossReference": {
+      "target": "plan/",
+      "gloss": "Impostor"
+    }
+  },
+  {
+    "headword": "politia",
+    "copticWord": "ⲡⲟⲗⲓⲧⲓⲁ",
+    "englishTransliteration": "politia",
+    "gloss": "Virtue",
+    "definition": "Virtue",
+    "crossReference": {
+      "target": "politeia",
+      "gloss": "Virtue"
+    }
+  },
+  {
+    "headword": "plax",
+    "copticWord": "ⲡⲗⲁⲝ",
+    "englishTransliteration": "plaks",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Flat stone, tablet",
+    "definition": "photographic plate"
+  },
+  {
+    "headword": "refhiplax",
+    "copticWord": "ⲣⲉϥϩⲓⲡⲗⲁⲝ",
+    "englishTransliteration": "refhiplaks",
+    "partOfSpeech": "m",
+    "gloss": "Floor tile",
+    "definition": "Floor tile"
+  },
+  {
+    "headword": "poluma,oc",
+    "copticWord": "ⲡⲟⲗⲩⲙⲁⲭⲟⲥ",
+    "englishTransliteration": "polymakhos",
+    "gloss": "Much fighting",
+    "definition": "Much fighting",
+    "crossReference": {
+      "target": "polemoc",
+      "gloss": "Much fighting"
+    }
+  },
+  {
+    "headword": "plax plax",
+    "copticWord": "ⲡⲗⲁⲝ ⲡⲗⲁⲝ",
+    "englishTransliteration": "plaks plaks",
+    "reference": "Gk?",
+    "partOfSpeech": "adv",
+    "isGreek": true,
+    "gloss": "Little by little",
+    "definition": "Little by little"
+  },
+  {
+    "headword": "pon/ria",
+    "copticWord": "ⲡⲟⲛⲏⲣⲓⲁ",
+    "englishTransliteration": "poniria",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Bad state or condition",
+    "definition": "wickedness, vice, knavery; baseness, cowardice;",
+    "senses": [
+      {
+        "label": "pon/roc",
+        "partOfSpeech": "m",
+        "gloss": "Worthless, knavish, wicked, malicious, base , coward, adulterer",
+        "definition": "Worthless, knavish, wicked, malicious, base , coward, adulterer"
+      }
+    ]
+  },
+  {
+    "headword": "placma",
+    "copticWord": "ⲡⲗⲁⲥⲙⲁ",
+    "englishTransliteration": "plasma",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Image, figure",
+    "definition": "body"
+  },
+  {
+    "headword": "erpilazin",
+    "copticWord": "ⲉⲣⲡⲓⲗⲁⲍⲓⲛ",
+    "englishTransliteration": "erpilazin",
+    "partOfSpeech": "vb",
+    "gloss": "To create, form, produce an image",
+    "definition": "To create, form, produce an image"
+  },
+  {
+    "headword": "placton",
+    "copticWord": "ⲡⲗⲁⲥⲧⲟⲛ",
+    "englishTransliteration": "plaston",
+    "variants": [
+      {
+        "word": "-oc",
+        "copticWord": "-ⲟⲥ",
+        "englishTransliteration": "-os"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Fabricated, forged, counterfeit",
+    "definition": "Fabricated, forged, counterfeit"
+  },
+  {
+    "headword": "plateia",
+    "copticWord": "ⲡⲗⲁⲧⲉⲓⲁ",
+    "englishTransliteration": "platia",
+    "variants": [
+      {
+        "word": "platia",
+        "copticWord": "ⲡⲗⲁⲧⲓⲁ",
+        "englishTransliteration": "platia"
+      }
+    ],
+    "reference": "Gk?",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Street",
+    "definition": "Street"
+  },
+  {
+    "headword": "pon/ron",
+    "copticWord": "ⲡⲟⲛⲏⲣⲟⲛ",
+    "englishTransliteration": "poniron",
+    "gloss": "Adulterer",
+    "definition": "Adulterer",
+    "crossReference": {
+      "target": "pon/ria",
+      "gloss": "Adulterer"
+    }
+  },
+  {
+    "headword": "platia",
+    "copticWord": "ⲡⲗⲁⲧⲓⲁ",
+    "englishTransliteration": "platia",
+    "gloss": "Street",
+    "definition": "Street",
+    "crossReference": {
+      "target": "plateia",
+      "gloss": "Street"
+    }
+  },
+  {
+    "headword": "pon/roc",
+    "copticWord": "ⲡⲟⲛⲏⲣⲟⲥ",
+    "englishTransliteration": "poniros",
+    "gloss": "Adulterer",
+    "definition": "Adulterer",
+    "crossReference": {
+      "target": "pon/ria",
+      "gloss": "Adulterer"
+    }
+  },
+  {
+    "headword": "platoc",
+    "copticWord": "ⲡⲗⲁⲧⲟⲥ",
+    "englishTransliteration": "platos",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Breadth, width",
+    "definition": "range."
+  },
+  {
+    "headword": "pl/g/",
+    "copticWord": "ⲡⲗⲏⲅⲏ",
+    "englishTransliteration": "pligi",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Blow, stroke",
+    "definition": "stroke of calamity; plague."
+  },
+  {
+    "headword": "porneia",
+    "copticWord": "ⲡⲟⲣⲛⲉⲓⲁ",
+    "englishTransliteration": "pornia",
+    "variants": [
+      {
+        "word": "pornia",
+        "copticWord": "ⲡⲟⲣⲛⲓⲁ",
+        "englishTransliteration": "pornia"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Prostitution",
+    "definition": "fornication, unchastity"
+  },
+  {
+    "headword": "pornoc",
+    "copticWord": "ⲡⲟⲣⲛⲟⲥ",
+    "englishTransliteration": "pornos",
+    "partOfSpeech": "m",
+    "gloss": "Fornicator, sodomite",
+    "definition": "Fornicator, sodomite"
+  },
+  {
+    "headword": "erporneuin",
+    "copticWord": "ⲉⲣⲡⲟⲣⲛⲉⲩⲓⲛ",
+    "englishTransliteration": "erpornevin",
+    "partOfSpeech": "vb",
+    "gloss": "To fornicate",
+    "definition": "To fornicate"
+  },
+  {
+    "headword": "pl/n",
+    "copticWord": "ⲡⲗⲏⲛ",
+    "englishTransliteration": "plin",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "prep. Except, save",
+    "definition": "besides, in addition; but."
+  },
+  {
+    "headword": "pornia",
+    "copticWord": "ⲡⲟⲣⲛⲓⲁ",
+    "englishTransliteration": "pornia",
+    "gloss": "fornication. ponobockoc: (Gk)",
+    "definition": "m. Brothel keeper. pornoc v. porneia - Fornicator.",
+    "crossReference": {
+      "target": "porneia",
+      "gloss": "fornication. ponobockoc: (Gk)"
+    }
+  },
+  {
+    "headword": "pneuma",
+    "copticWord": "ⲡⲛⲉⲩⲙⲁ",
+    "englishTransliteration": "pnevma",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Spirit",
+    "definition": "respiration; wind",
+    "senses": [
+      {
+        "label": "pneumatikon",
+        "partOfSpeech": "adj",
+        "gloss": "Spiritual",
+        "definition": "pneumatovoroc: Bearing the spirit, inspired."
+      }
+    ]
+  },
+  {
+    "headword": "pipneuma eyouab",
+    "copticWord": "ⲡⲓⲡⲛⲉⲩⲙⲁ ⲉⲑⲟⲩⲁⲃ",
+    "englishTransliteration": "pipnevma ethouav",
+    "partOfSpeech": "m",
+    "gloss": "The Holy Spirit",
+    "definition": "The Holy Spirit"
+  },
+  {
+    "headword": "pot/rion",
+    "copticWord": "ⲡⲟⲧⲏⲣⲓⲟⲛ",
+    "englishTransliteration": "potirion",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "gloss": "Drinking cup",
+    "definition": "jar; receptacle."
+  },
+  {
+    "headword": "pouni",
+    "copticWord": "ⲡⲟⲩⲛⲓ",
+    "englishTransliteration": "pouni",
+    "reference": "263b",
+    "partOfSpeech": "f",
+    "gloss": "Anus",
+    "definition": "Anus"
+  }
+]

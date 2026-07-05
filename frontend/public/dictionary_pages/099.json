@@ -1,0 +1,455 @@
+[
+  {
+    "headword": "jincob]",
+    "copticWord": "ϫⲓⲛⲥⲟⲃϯ",
+    "englishTransliteration": "jinsovti",
+    "partOfSpeech": "m",
+    "gloss": "Preparation",
+    "definition": "Preparation"
+  },
+  {
+    "headword": "coym=",
+    "copticWord": "ⲥⲟⲑⲙ",
+    "englishTransliteration": "sothm",
+    "gloss": "To hear. coynef: m. Tool, weapon, arrow",
+    "definition": "To hear. coynef: m. Tool, weapon, arrow",
+    "crossReference": {
+      "target": "cwtem",
+      "gloss": "To hear. coynef: m. Tool, weapon, arrow"
+    }
+  },
+  {
+    "headword": "(2) colcel",
+    "copticWord": "ⲥⲟⲗⲥⲉⲗ",
+    "englishTransliteration": "solsel",
+    "variants": [
+      {
+        "word": "celcel",
+        "copticWord": "ⲥⲉⲗⲥⲉⲗ",
+        "englishTransliteration": "selsel"
+      },
+      {
+        "word": "celcwl=",
+        "copticWord": "ⲥⲉⲗⲥⲱⲗ",
+        "englishTransliteration": "selsōl"
+      }
+    ],
+    "reference": "332a",
+    "gloss": "vi. To be comforted, encouraged",
+    "definition": "vt. to comfort;",
+    "senses": [
+      {
+        "label": "e",
+        "partOfSpeech": "vb",
+        "gloss": "To console for",
+        "definition": "---: m. Consolation, amusement; ercolcel: vb. To be a, give comfort; swpi ncolcel: vb. To become, be comforted;"
+      },
+      {
+        "label": "[icolcel",
+        "partOfSpeech": "vb",
+        "gloss": "To take comfort",
+        "definition": "refcolcel: m. Comforter; ref]colcel: m. Comforter; celcil: n. Consolation."
+      }
+    ]
+  },
+  {
+    "headword": "se ncoynef",
+    "copticWord": "ϣⲉ ⲛⲥⲟⲑⲛⲉϥ",
+    "englishTransliteration": "she nsothnef",
+    "partOfSpeech": "m",
+    "gloss": "Stroke, cast of weapon",
+    "definition": "Stroke, cast of weapon"
+  },
+  {
+    "headword": "coynef n]",
+    "copticWord": "ⲥⲟⲑⲛⲉϥ ⲛϯ",
+    "englishTransliteration": "sothnef nti",
+    "partOfSpeech": "m",
+    "gloss": "Weapon for fighting",
+    "definition": "Weapon for fighting"
+  },
+  {
+    "headword": "hi coynef",
+    "copticWord": "ϩⲓ ⲥⲟⲑⲛⲉϥ",
+    "englishTransliteration": "hi sothnef",
+    "partOfSpeech": "vb",
+    "gloss": "To cast dart, shoot arrow",
+    "definition": "To cast dart, shoot arrow"
+  },
+  {
+    "headword": "ma nhicoynef",
+    "copticWord": "ⲙⲁ ⲛϩⲓⲥⲟⲑⲛⲉϥ",
+    "englishTransliteration": "ma nhisothnef",
+    "partOfSpeech": "m",
+    "gloss": "Place for shooting arrows",
+    "definition": "archery range;"
+  },
+  {
+    "headword": "colj=",
+    "copticWord": "ⲥⲟⲗϫ",
+    "englishTransliteration": "solj",
+    "gloss": "To wipe. comc: (339b)",
+    "definition": "vi. To look, behold;",
+    "crossReference": {
+      "target": "cwlj",
+      "gloss": "To wipe. comc: (339b)"
+    },
+    "senses": [
+      {
+        "label": "e",
+        "partOfSpeech": "vb",
+        "gloss": "To look at, consider",
+        "definition": "To look at, consider"
+      },
+      {
+        "label": "ejen",
+        "partOfSpeech": "vb",
+        "gloss": "To look upon, at",
+        "definition": "To look upon, at"
+      },
+      {
+        "label": "nca",
+        "partOfSpeech": "vb",
+        "gloss": "To look after, at",
+        "definition": "To look after, at"
+      },
+      {
+        "label": "qajen",
+        "partOfSpeech": "vb",
+        "gloss": "To look toward",
+        "definition": "--- ebol: vb. To look forth, expect;"
+      },
+      {
+        "label": "ebol qen",
+        "partOfSpeech": "vb",
+        "gloss": "To look forth from",
+        "definition": "To look forth from"
+      },
+      {
+        "label": "epec/t",
+        "partOfSpeech": "vb",
+        "gloss": "To look down",
+        "definition": "To look down"
+      },
+      {
+        "label": "epswi",
+        "partOfSpeech": "vb",
+        "gloss": "To look up",
+        "definition": "To look up"
+      },
+      {
+        "label": "eqoun",
+        "partOfSpeech": "vb",
+        "gloss": "To look in, into",
+        "definition": "To look in, into"
+      },
+      {
+        "label": "eqr/i",
+        "partOfSpeech": "vb",
+        "gloss": "To look down",
+        "definition": "To look down"
+      },
+      {
+        "label": "ehr/i",
+        "partOfSpeech": "vb",
+        "gloss": "To look up",
+        "definition": "---: n. Looking;"
+      }
+    ]
+  },
+  {
+    "headword": "refhi coynef",
+    "copticWord": "ⲣⲉϥϩⲓ ⲥⲟⲑⲛⲉϥ",
+    "englishTransliteration": "refhi sothnef",
+    "partOfSpeech": "m",
+    "gloss": "Shooter of arrows",
+    "definition": "archer."
+  },
+  {
+    "headword": "(1) coi",
+    "copticWord": "ⲥⲟⲓ",
+    "englishTransliteration": "soi",
+    "reference": "317b",
+    "partOfSpeech": "m",
+    "gloss": "Back of man or beast",
+    "definition": "Back of man or beast"
+  },
+  {
+    "headword": "(2) coi",
+    "copticWord": "ⲥⲟⲓ",
+    "englishTransliteration": "soi",
+    "reference": "317b",
+    "partOfSpeech": "mf",
+    "gloss": "Wood beam",
+    "definition": "Wood beam"
+  },
+  {
+    "headword": "ouahcoi",
+    "copticWord": "ⲟⲩⲁϩⲥⲟⲓ",
+    "englishTransliteration": "ouahsoi",
+    "partOfSpeech": "f",
+    "gloss": "Addition of beams",
+    "definition": "Addition of beams"
+  },
+  {
+    "headword": "(3) coi",
+    "copticWord": "ⲥⲟⲓ",
+    "englishTransliteration": "soi",
+    "reference": "318a",
+    "senses": [
+      {
+        "label": "cok mfwi",
+        "partOfSpeech": "m",
+        "gloss": "Hair sacking",
+        "definition": "Hair sacking"
+      }
+    ]
+  },
+  {
+    "headword": "m. a type of trees. cok",
+    "copticWord": "ⲙ. ⲁ ⲧⲑⲡⲉ ⲟϥ ⲧⲣⲉⲉϣ. ⲥⲟⲕ",
+    "englishTransliteration": "m. a tthpe of treesh. sok",
+    "variants": [
+      {
+        "word": "cwk",
+        "copticWord": "ⲥⲱⲕ",
+        "englishTransliteration": "sōk"
+      }
+    ],
+    "reference": "325a",
+    "partOfSpeech": "m",
+    "gloss": "Sack, sackcloth, bag",
+    "definition": "Sack, sackcloth, bag"
+  },
+  {
+    "headword": "cok",
+    "copticWord": "ⲥⲟⲕ",
+    "englishTransliteration": "sok",
+    "gloss": "To flow",
+    "definition": "To flow",
+    "crossReference": {
+      "target": "cwk",
+      "gloss": "To flow"
+    }
+  },
+  {
+    "headword": "cok=",
+    "copticWord": "ⲥⲟⲕ",
+    "englishTransliteration": "sok",
+    "gloss": "To flow",
+    "definition": "To flow",
+    "crossReference": {
+      "target": "cwk",
+      "gloss": "To flow"
+    }
+  },
+  {
+    "headword": "cokmaji",
+    "copticWord": "ⲥⲟⲕⲙⲁϫⲓ",
+    "englishTransliteration": "sokmaji",
+    "reference": "329a",
+    "partOfSpeech": "m",
+    "gloss": "Long table",
+    "definition": "Long table"
+  },
+  {
+    "headword": "cokc",
+    "copticWord": "ⲥⲟⲕⲥ",
+    "englishTransliteration": "soks",
+    "gloss": "To continue",
+    "definition": "To continue",
+    "crossReference": {
+      "target": "cwk",
+      "gloss": "To continue"
+    }
+  },
+  {
+    "headword": "cokcek",
+    "copticWord": "ⲥⲟⲕⲥⲉⲕ",
+    "englishTransliteration": "soksek",
+    "variants": [
+      {
+        "word": "cekcek",
+        "copticWord": "ⲥⲉⲕⲥⲉⲕ",
+        "englishTransliteration": "seksek"
+      }
+    ],
+    "reference": "330a",
+    "partOfSpeech": "vb",
+    "gloss": "To pull, gather",
+    "definition": "To pull, gather",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "Yawn",
+        "definition": "Yawn"
+      }
+    ]
+  },
+  {
+    "headword": "col",
+    "copticWord": "ⲥⲟⲗ",
+    "englishTransliteration": "sol",
+    "reference": "330a",
+    "partOfSpeech": "m",
+    "gloss": "Wick",
+    "definition": "Wick"
+  },
+  {
+    "headword": "jincomc",
+    "copticWord": "ϫⲓⲛⲥⲟⲙⲥ",
+    "englishTransliteration": "jinsoms",
+    "partOfSpeech": "m",
+    "gloss": "Looking, look",
+    "definition": "Looking, look"
+  },
+  {
+    "headword": "comt=",
+    "copticWord": "ⲥⲟⲙⲧ",
+    "englishTransliteration": "somt",
+    "variants": [
+      {
+        "word": "comt",
+        "note": "Q",
+        "copticWord": "ⲥⲟⲙⲧ",
+        "englishTransliteration": "somt"
+      }
+    ],
+    "reference": "340b",
+    "gloss": "vi. To be stretched, wait",
+    "definition": "vt. To stretch, bind;"
+  },
+  {
+    "headword": "col=",
+    "copticWord": "ⲥⲟⲗ",
+    "englishTransliteration": "sol",
+    "gloss": "To dissipate",
+    "definition": "To dissipate",
+    "crossReference": {
+      "target": "cwl",
+      "gloss": "To dissipate"
+    }
+  },
+  {
+    "headword": "coli",
+    "copticWord": "ⲥⲟⲗⲓ",
+    "englishTransliteration": "soli",
+    "gloss": "Veil",
+    "definition": "Veil",
+    "crossReference": {
+      "target": "couli",
+      "gloss": "Veil"
+    }
+  },
+  {
+    "headword": "colk=",
+    "copticWord": "ⲥⲟⲗⲕ",
+    "englishTransliteration": "solk",
+    "gloss": "To join",
+    "definition": "To join",
+    "crossReference": {
+      "target": "cwlk",
+      "gloss": "To join"
+    }
+  },
+  {
+    "headword": "ebol",
+    "copticWord": "ⲉⲃⲟⲗ",
+    "englishTransliteration": "evol",
+    "partOfSpeech": "vb",
+    "gloss": "To stretch, extend. comt (Q) v. comt= - To be stretched. con, pl. cn/ou: (342b) m. Brother",
+    "definition": "To stretch, extend. comt (Q) v. comt= - To be stretched. con, pl. cn/ou: (342b) m. Brother",
+    "senses": [
+      {
+        "label": "nis] ncon",
+        "partOfSpeech": "m",
+        "gloss": "Elder brother",
+        "definition": "kouji ncon: m. Younger brother; cwni: f. Sister;"
+      },
+      {
+        "label": "nis] ncwni",
+        "partOfSpeech": "f",
+        "gloss": "Older sister",
+        "definition": "kouji ncwni: f. Younger sister; ercon: vb. To be brother."
+      }
+    ]
+  },
+  {
+    "headword": "colp=",
+    "copticWord": "ⲥⲟⲗⲡ",
+    "englishTransliteration": "solp",
+    "gloss": "To break",
+    "definition": "To break",
+    "crossReference": {
+      "target": "cwlep",
+      "gloss": "To break"
+    }
+  },
+  {
+    "headword": "(1) colcel",
+    "copticWord": "ⲥⲟⲗⲥⲉⲗ",
+    "englishTransliteration": "solsel",
+    "variants": [
+      {
+        "word": "celcwl=",
+        "copticWord": "ⲥⲉⲗⲥⲱⲗ",
+        "englishTransliteration": "selsōl"
+      },
+      {
+        "word": "celcwl",
+        "note": "Q",
+        "copticWord": "ⲥⲉⲗⲥⲱⲗ",
+        "englishTransliteration": "selsōl"
+      }
+    ],
+    "reference": "331b",
+    "gloss": "vt. To adorn",
+    "definition": "vt. To adorn",
+    "senses": [
+      {
+        "label": "(Q)",
+        "gloss": "qen-: vb. To adorn with",
+        "definition": "adorned;"
+      },
+      {
+        "label": "ebol",
+        "partOfSpeech": "vb",
+        "gloss": "To adorn",
+        "definition": "--: m. Adornment; celcil: adj. Orderly."
+      }
+    ]
+  },
+  {
+    "headword": "coni",
+    "copticWord": "ⲥⲟⲛⲓ",
+    "englishTransliteration": "soni",
+    "variants": [
+      {
+        "type": "pl.",
+        "word": "cinwoui & sg as pl",
+        "copticWord": "ⲥⲓⲛⲱⲟⲩⲓ & ϣⲅ ⲁϣ ⲡⲗ",
+        "englishTransliteration": "sinōoui & shg ash pl"
+      }
+    ],
+    "reference": "344b",
+    "partOfSpeech": "m",
+    "gloss": "Robber",
+    "definition": "Robber"
+  },
+  {
+    "headword": "oi nconi",
+    "copticWord": "ⲟⲓ ⲛⲥⲟⲛⲓ",
+    "englishTransliteration": "oi nsoni",
+    "partOfSpeech": "vb",
+    "gloss": "To be robber",
+    "definition": "To be robber"
+  },
+  {
+    "headword": "metcinwoui",
+    "copticWord": "ⲙⲉⲧⲥⲓⲛⲱⲟⲩⲓ",
+    "englishTransliteration": "metsinōoui",
+    "partOfSpeech": "f",
+    "gloss": "Robber's trade. conk= v. cwnk - To suck",
+    "definition": "Robber's trade. conk= v. cwnk - To suck"
+  }
+]

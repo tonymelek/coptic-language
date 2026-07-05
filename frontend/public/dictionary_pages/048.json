@@ -1,0 +1,633 @@
+[
+  {
+    "headword": "kevaleon",
+    "copticWord": "ⲕⲉⲫⲁⲗⲉⲟⲛ",
+    "englishTransliteration": "kefaleon",
+    "variants": [
+      {
+        "word": "-leoc",
+        "copticWord": "-ⲗⲉⲟⲥ",
+        "englishTransliteration": "-leos"
+      },
+      {
+        "word": "-laion",
+        "copticWord": "-ⲗⲁⲓⲟⲛ",
+        "englishTransliteration": "-laion"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Chapter, section",
+    "definition": "Chapter, section"
+  },
+  {
+    "headword": "keval/",
+    "copticWord": "ⲕⲉⲫⲁⲗⲏ",
+    "englishTransliteration": "kefali",
+    "variants": [
+      {
+        "word": "-leon",
+        "copticWord": "-ⲗⲉⲟⲛ",
+        "englishTransliteration": "-leon"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Head, extremity",
+    "definition": "Head, extremity"
+  },
+  {
+    "headword": "kevaloc",
+    "copticWord": "ⲕⲉⲫⲁⲗⲟⲥ",
+    "englishTransliteration": "kefalos",
+    "variants": [
+      {
+        "word": "kevaroc",
+        "copticWord": "ⲕⲉⲫⲁⲣⲟⲥ",
+        "englishTransliteration": "kefaros"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "A species of mullet",
+    "definition": "A species of mullet"
+  },
+  {
+    "headword": "kevaroc",
+    "copticWord": "ⲕⲉⲫⲁⲣⲟⲥ",
+    "englishTransliteration": "kefaros",
+    "gloss": "Species of mullet",
+    "definition": "Species of mullet",
+    "crossReference": {
+      "target": "kevaloc",
+      "gloss": "Species of mullet"
+    }
+  },
+  {
+    "headword": "kes",
+    "copticWord": "ⲕⲉϣ",
+    "englishTransliteration": "kesh",
+    "gloss": "Pen",
+    "definition": "Pen",
+    "crossReference": {
+      "target": "kas",
+      "gloss": "Pen"
+    }
+  },
+  {
+    "headword": "keh",
+    "copticWord": "ⲕⲉϩ",
+    "englishTransliteration": "keh",
+    "variants": [
+      {
+        "word": "kah",
+        "copticWord": "ⲕⲁϩ",
+        "englishTransliteration": "kah"
+      }
+    ],
+    "reference": "131b",
+    "partOfSpeech": "n",
+    "gloss": "Arm",
+    "definition": "Arm"
+  },
+  {
+    "headword": "jinkim",
+    "copticWord": "ϫⲓⲛⲕⲓⲙ",
+    "englishTransliteration": "jinkim",
+    "gloss": "fm. Movement",
+    "definition": "fm. Movement"
+  },
+  {
+    "headword": "kemto",
+    "copticWord": "ⲕⲉⲙⲧⲟ",
+    "englishTransliteration": "kemto",
+    "gloss": "m",
+    "definition": "m"
+  },
+  {
+    "headword": "kinamwmon",
+    "copticWord": "ⲕⲓⲛⲁⲙⲱⲙⲟⲛ",
+    "englishTransliteration": "kinamōmon",
+    "variants": [
+      {
+        "word": "kinna",
+        "copticWord": "ⲕⲓⲛⲛⲁ",
+        "englishTransliteration": "kinna"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "A superior kind of cassia, cinnamomum cassia",
+    "definition": "cinnamon"
+  },
+  {
+    "headword": "kindinoc",
+    "copticWord": "ⲕⲓⲛⲇⲓⲛⲟⲥ",
+    "englishTransliteration": "kindinos",
+    "variants": [
+      {
+        "word": "kundinoc",
+        "copticWord": "ⲕⲩⲛⲇⲓⲛⲟⲥ",
+        "englishTransliteration": "kyndinos"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Danger, hazard, venture",
+    "definition": "Danger, hazard, venture"
+  },
+  {
+    "headword": "erkinduneuin",
+    "copticWord": "ⲉⲣⲕⲓⲛⲇⲩⲛⲉⲩⲓⲛ",
+    "englishTransliteration": "erkindynevin",
+    "variants": [
+      {
+        "word": "kundineuin",
+        "copticWord": "ⲕⲩⲛⲇⲓⲛⲉⲩⲓⲛ",
+        "englishTransliteration": "kyndinevin"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To be daring, run a risk, make a venture, be in dire peril, engage in war, venture",
+    "definition": "To be daring, run a risk, make a venture, be in dire peril, engage in war, venture"
+  },
+  {
+    "headword": "]keh",
+    "copticWord": "ϯⲕⲉϩ",
+    "englishTransliteration": "tikeh",
+    "partOfSpeech": "vb",
+    "gloss": "To smite",
+    "definition": "To smite"
+  },
+  {
+    "headword": "senkeh",
+    "copticWord": "ϣⲉⲛⲕⲉϩ",
+    "englishTransliteration": "shenkeh",
+    "partOfSpeech": "n",
+    "gloss": "Blow, buffet",
+    "definition": "Blow, buffet"
+  },
+  {
+    "headword": "kehke",
+    "copticWord": "ⲕⲉϩⲕⲉ",
+    "englishTransliteration": "kehke",
+    "gloss": "To be healed",
+    "definition": "To be healed",
+    "crossReference": {
+      "target": "kwh",
+      "gloss": "To be healed"
+    }
+  },
+  {
+    "headword": "kinnamwmon",
+    "copticWord": "ⲕⲓⲛⲛⲁⲙⲱⲙⲟⲛ",
+    "englishTransliteration": "kinnamōmon",
+    "gloss": "Cin-namon",
+    "definition": "Cin-namon",
+    "crossReference": {
+      "target": "kinamwmon",
+      "gloss": "Cin-namon"
+    }
+  },
+  {
+    "headword": "kehni",
+    "copticWord": "ⲕⲉϩⲛⲓ",
+    "englishTransliteration": "kehni",
+    "reference": "113a",
+    "partOfSpeech": "f",
+    "gloss": "Porch, shrine",
+    "definition": "Porch, shrine"
+  },
+  {
+    "headword": "(1)k/",
+    "copticWord": "ⲕⲏ",
+    "englishTransliteration": "ki",
+    "reference": "92a",
+    "partOfSpeech": "f",
+    "gloss": "River-bank",
+    "definition": "River-bank"
+  },
+  {
+    "headword": "kitwn",
+    "copticWord": "ⲕⲓⲧⲱⲛ",
+    "englishTransliteration": "kitōn",
+    "gloss": "Bed-chamber",
+    "definition": "Bed-chamber",
+    "crossReference": {
+      "target": "koitwn",
+      "gloss": "Bed-chamber"
+    }
+  },
+  {
+    "headword": "kifi",
+    "copticWord": "ⲕⲓϥⲓ",
+    "englishTransliteration": "kifi",
+    "reference": "54a",
+    "partOfSpeech": "f",
+    "gloss": "Breast",
+    "definition": "Breast"
+  },
+  {
+    "headword": "(2)k/",
+    "copticWord": "ⲕⲏ",
+    "englishTransliteration": "ki",
+    "variants": [
+      {
+        "word": "k/c",
+        "copticWord": "ⲕⲏⲥ",
+        "englishTransliteration": "kis"
+      },
+      {
+        "word": "koc",
+        "copticWord": "ⲕⲟⲥ",
+        "englishTransliteration": "kos"
+      },
+      {
+        "word": "kon",
+        "copticWord": "ⲕⲟⲛ",
+        "englishTransliteration": "kon"
+      }
+    ],
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "A relative suffix in Greek words",
+    "definition": "A relative suffix in Greek words"
+  },
+  {
+    "headword": "(1)ki]",
+    "copticWord": "ⲕⲓϯ",
+    "englishTransliteration": "kiti",
+    "reference": "123b",
+    "partOfSpeech": "f",
+    "gloss": "Double drachma, equal to one-half stater",
+    "definition": "Double drachma, equal to one-half stater"
+  },
+  {
+    "headword": "jecki]",
+    "copticWord": "ϫⲉⲥⲕⲓϯ",
+    "englishTransliteration": "jeskiti",
+    "partOfSpeech": "n",
+    "gloss": "Half a ki] or one drachma",
+    "definition": "Half a ki] or one drachma"
+  },
+  {
+    "headword": "(1)k/bi",
+    "copticWord": "ⲕⲏⲃⲓ",
+    "englishTransliteration": "keebi",
+    "variants": [
+      {
+        "word": "kabi",
+        "copticWord": "ⲕⲁⲃⲓ",
+        "englishTransliteration": "kavi"
+      }
+    ],
+    "reference": "99b",
+    "partOfSpeech": "f",
+    "gloss": "Jar, pitcher",
+    "definition": "Jar, pitcher"
+  },
+  {
+    "headword": "(2) ki]",
+    "copticWord": "ⲕⲓϯ",
+    "englishTransliteration": "kiti",
+    "variants": [
+      {
+        "word": "ref",
+        "copticWord": "ⲣⲉϥ",
+        "englishTransliteration": "ref"
+      }
+    ],
+    "reference": "124a",
+    "partOfSpeech": "n",
+    "gloss": "Player, gambler",
+    "definition": "Player, gambler"
+  },
+  {
+    "headword": "klamvwnia",
+    "copticWord": "ⲕⲗⲁⲙⲫⲱⲛⲓⲁ",
+    "englishTransliteration": "klamfōnia",
+    "gloss": "Resin",
+    "definition": "Resin",
+    "crossReference": {
+      "target": "kolovwnia",
+      "gloss": "Resin"
+    }
+  },
+  {
+    "headword": "klaroc",
+    "copticWord": "ⲕⲗⲁⲣⲟⲥ",
+    "englishTransliteration": "klaros",
+    "reference": "Gk?",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "gloss": "Among birds",
+    "definition": "Among birds"
+  },
+  {
+    "headword": "klacma",
+    "copticWord": "ⲕⲗⲁⲥⲙⲁ",
+    "englishTransliteration": "klasma",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Fragment, morsel, lesion, rupture",
+    "definition": "Fragment, morsel, lesion, rupture"
+  },
+  {
+    "headword": "klaft",
+    "copticWord": "ⲕⲗⲁϥⲧ",
+    "englishTransliteration": "klaft",
+    "variants": [
+      {
+        "word": "laft",
+        "copticWord": "ⲗⲁϥⲧ",
+        "englishTransliteration": "laft"
+      }
+    ],
+    "reference": "106a",
+    "partOfSpeech": "f",
+    "gloss": "Hood, cowl (mostly of monks)",
+    "definition": "Hood, cowl (mostly of monks)"
+  },
+  {
+    "headword": "kl/",
+    "copticWord": "ⲕⲗⲏ",
+    "englishTransliteration": "kli",
+    "variants": [
+      {
+        "word": "l/",
+        "copticWord": "ⲗⲏ",
+        "englishTransliteration": "li"
+      }
+    ],
+    "reference": "102a",
+    "partOfSpeech": "m",
+    "gloss": "A vessel for liquids",
+    "definition": "A vessel for liquids"
+  },
+  {
+    "headword": "kl/ma",
+    "copticWord": "ⲕⲗⲏⲙⲁ",
+    "englishTransliteration": "klima",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Twig or branch, esp. uine-twig, cane",
+    "definition": "Twig or branch, esp. uine-twig, cane"
+  },
+  {
+    "headword": "kl/ronomia",
+    "copticWord": "ⲕⲗⲏⲣⲟⲛⲟⲙⲓⲁ",
+    "englishTransliteration": "klironomia",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Inheritance, property, possession",
+    "definition": "Inheritance, property, possession"
+  },
+  {
+    "headword": "kl/ronomoc",
+    "copticWord": "ⲕⲗⲏⲣⲟⲛⲟⲙⲟⲥ",
+    "englishTransliteration": "klironomos",
+    "partOfSpeech": "m",
+    "gloss": "Heir, esp. heir in possession",
+    "definition": "Heir, esp. heir in possession"
+  },
+  {
+    "headword": "erkl/ronomin",
+    "copticWord": "ⲉⲣⲕⲗⲏⲣⲟⲛⲟⲙⲓⲛ",
+    "englishTransliteration": "erklironomin",
+    "partOfSpeech": "vb",
+    "gloss": "To inherit",
+    "definition": "To inherit"
+  },
+  {
+    "headword": "kl/roc",
+    "copticWord": "ⲕⲗⲏⲣⲟⲥ",
+    "englishTransliteration": "kliros",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "That which is assigned by lot, lot",
+    "definition": "clergy; legacy, inheritance, heritable estate."
+  },
+  {
+    "headword": "(2)k/bi",
+    "copticWord": "ⲕⲏⲃⲓ",
+    "englishTransliteration": "keebi",
+    "variants": [
+      {
+        "word": "kebi",
+        "copticWord": "ⲕⲉⲃⲓ",
+        "englishTransliteration": "kevi"
+      }
+    ],
+    "reference": "99b",
+    "partOfSpeech": "m",
+    "gloss": "Honey cake",
+    "definition": "Honey cake"
+  },
+  {
+    "headword": "k/kc",
+    "copticWord": "ⲕⲏⲕⲥ",
+    "englishTransliteration": "kiks",
+    "gloss": "Strip",
+    "definition": "Strip",
+    "crossReference": {
+      "target": "kwk",
+      "gloss": "Strip"
+    }
+  },
+  {
+    "headword": "k/l",
+    "copticWord": "ⲕⲏⲗ",
+    "englishTransliteration": "kil",
+    "gloss": "a fish",
+    "definition": "a fish",
+    "crossReference": {
+      "target": "kel",
+      "gloss": "a fish"
+    }
+  },
+  {
+    "headword": "k/moc",
+    "copticWord": "ⲕⲏⲙⲟⲥ",
+    "englishTransliteration": "kimos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Muzzle, gag",
+    "definition": "Muzzle, gag"
+  },
+  {
+    "headword": "k/n",
+    "copticWord": "ⲕⲏⲛ",
+    "englishTransliteration": "kin",
+    "gloss": "vb",
+    "definition": "vb"
+  },
+  {
+    "headword": "k/ncoc",
+    "copticWord": "ⲕⲏⲛⲥⲟⲥ",
+    "englishTransliteration": "kinsos",
+    "gloss": "(Lat)",
+    "definition": "m. Census, poll tax"
+  },
+  {
+    "headword": "k/poc",
+    "copticWord": "ⲕⲏⲡⲟⲥ",
+    "englishTransliteration": "kipos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Garden, orchard, plantation",
+    "definition": "Garden, orchard, plantation"
+  },
+  {
+    "headword": "k/c",
+    "copticWord": "ⲕⲏⲥ",
+    "englishTransliteration": "kis",
+    "gloss": "Relative suffix",
+    "definition": "Relative suffix",
+    "crossReference": {
+      "target": "(2)k/",
+      "gloss": "Relative suffix"
+    }
+  },
+  {
+    "headword": "k/toc",
+    "copticWord": "ⲕⲏⲧⲟⲥ",
+    "englishTransliteration": "kitos",
+    "variants": [
+      {
+        "word": "kutoc",
+        "copticWord": "ⲕⲩⲧⲟⲥ",
+        "englishTransliteration": "kytos"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Sea monster, huge fish, i.e. whale",
+    "definition": "Sea monster, huge fish, i.e. whale"
+  },
+  {
+    "headword": "kibwtoc",
+    "copticWord": "ⲕⲓⲃⲱⲧⲟⲥ",
+    "englishTransliteration": "keebōtos",
+    "variants": [
+      {
+        "word": "kubwtoc",
+        "copticWord": "ⲕⲩⲃⲱⲧⲟⲥ",
+        "englishTransliteration": "kyvōtos"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Box, chest, cover, Noah's ark, ark of covenant",
+    "definition": "Box, chest, cover, Noah's ark, ark of covenant"
+  },
+  {
+    "headword": "ki/",
+    "copticWord": "ⲕⲓⲏ",
+    "englishTransliteration": "kii",
+    "variants": [
+      {
+        "word": "[iie",
+        "copticWord": "ϭⲓⲓⲉ",
+        "englishTransliteration": "chiie"
+      }
+    ],
+    "reference": "803a",
+    "partOfSpeech": "m",
+    "gloss": "He-goat",
+    "definition": "He-goat"
+  },
+  {
+    "headword": "kiyara",
+    "copticWord": "ⲕⲓⲑⲁⲣⲁ",
+    "englishTransliteration": "kithara",
+    "variants": [
+      {
+        "word": "kuyara",
+        "copticWord": "ⲕⲩⲑⲁⲣⲁ",
+        "englishTransliteration": "kythara"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Lyre, thorax",
+    "definition": "Lyre, thorax"
+  },
+  {
+    "headword": "kim",
+    "copticWord": "ⲕⲓⲙ",
+    "englishTransliteration": "kim",
+    "reference": "108a",
+    "gloss": "vi. To move, be moved",
+    "definition": "vi. To move, be moved"
+  },
+  {
+    "headword": "kl/cic",
+    "copticWord": "ⲕⲗⲏⲥⲓⲥ",
+    "englishTransliteration": "klisis",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Calling, summon, invitation, calling in religious sense",
+    "definition": "Calling, summon, invitation, calling in religious sense"
+  },
+  {
+    "headword": "--- e",
+    "copticWord": "--- ⲉ",
+    "englishTransliteration": "--- e",
+    "partOfSpeech": "vb",
+    "gloss": "To move, touch, make sign to",
+    "definition": "vt. To move;"
+  },
+  {
+    "headword": "klinate",
+    "copticWord": "ⲕⲗⲓⲛⲁⲧⲉ",
+    "englishTransliteration": "klinate",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "gloss": "To cause to lean, scope or slant, i.e. bow",
+    "definition": "To cause to lean, scope or slant, i.e. bow"
+  },
+  {
+    "headword": "kliji",
+    "copticWord": "ⲕⲗⲓϫⲓ",
+    "englishTransliteration": "kleegi",
+    "reference": "108a",
+    "partOfSpeech": "m",
+    "gloss": "Part of a bird",
+    "definition": "Part of a bird"
+  },
+  {
+    "headword": "atkim",
+    "copticWord": "ⲁⲧⲕⲓⲙ",
+    "englishTransliteration": "atkim",
+    "partOfSpeech": "adj",
+    "gloss": "Immovable",
+    "definition": "Immovable"
+  },
+  {
+    "headword": "klomlem",
+    "copticWord": "ⲕⲗⲟⲙⲗⲉⲙ",
+    "englishTransliteration": "klomlem",
+    "gloss": "To be twisted",
+    "definition": "To be twisted",
+    "crossReference": {
+      "target": "[lomlem",
+      "gloss": "To be twisted"
+    }
+  }
+]

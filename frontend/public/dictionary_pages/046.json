@@ -1,0 +1,521 @@
+[
+  {
+    "headword": "katacarx",
+    "copticWord": "ⲕⲁⲧⲁⲥⲁⲣⲝ",
+    "englishTransliteration": "katasarks",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Parents in the flesh, family",
+    "definition": "Parents in the flesh, family"
+  },
+  {
+    "headword": "katactacic",
+    "copticWord": "ⲕⲁⲧⲁⲥⲧⲁⲥⲓⲥ",
+    "englishTransliteration": "katastasis",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Unknown",
+    "definition": "Unknown"
+  },
+  {
+    "headword": "katagoria",
+    "copticWord": "ⲕⲁⲧⲁⲅⲟⲣⲓⲁ",
+    "englishTransliteration": "katagoria",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Accusation, charges",
+    "definition": "Accusation, charges"
+  },
+  {
+    "headword": "erkahi",
+    "copticWord": "ⲉⲣⲕⲁϩⲓ",
+    "englishTransliteration": "erkahi",
+    "partOfSpeech": "vb",
+    "gloss": "To become earth, dust",
+    "definition": "To become earth, dust"
+  },
+  {
+    "headword": "remnkahi",
+    "copticWord": "ⲣⲉⲙⲛⲕⲁϩⲓ",
+    "englishTransliteration": "remnkahi",
+    "partOfSpeech": "m",
+    "gloss": "Man of earth, earth-born. kahke- v. kwh - To be healed. kahkh v. kwh - To hew out. kahi: (131a)",
+    "definition": "m. Earth, soil; earth (opp. sea), land, country; district, province"
+  },
+  {
+    "headword": "atkahi",
+    "copticWord": "ⲁⲧⲕⲁϩⲓ",
+    "englishTransliteration": "atkahi",
+    "partOfSpeech": "adj",
+    "gloss": "Without ground, off the ground",
+    "definition": "Without ground, off the ground"
+  },
+  {
+    "headword": "kat/,/ceoc",
+    "copticWord": "ⲕⲁⲧⲏⲭⲏⲥⲉⲟⲥ",
+    "englishTransliteration": "katikhiseos",
+    "gloss": "Instruction",
+    "definition": "Instruction",
+    "crossReference": {
+      "target": "kat/,oumen/",
+      "gloss": "Instruction"
+    }
+  },
+  {
+    "headword": "kahc",
+    "copticWord": "ⲕⲁϩⲥ",
+    "englishTransliteration": "kahs",
+    "gloss": "Custom",
+    "definition": "Custom",
+    "crossReference": {
+      "target": "kwh",
+      "gloss": "Custom"
+    }
+  },
+  {
+    "headword": "kaji",
+    "copticWord": "ⲕⲁϫⲓ",
+    "englishTransliteration": "kaji",
+    "reference": "134b",
+    "partOfSpeech": "m",
+    "gloss": "Pitcher, bucket",
+    "definition": "Pitcher, bucket"
+  },
+  {
+    "headword": "kat/,/cic",
+    "copticWord": "ⲕⲁⲧⲏⲭⲏⲥⲓⲥ",
+    "englishTransliteration": "katikhisis",
+    "gloss": "Instruction",
+    "definition": "Instruction",
+    "crossReference": {
+      "target": "kat/,oumen/",
+      "gloss": "Instruction"
+    }
+  },
+  {
+    "headword": "ka]",
+    "copticWord": "ⲕⲁϯ",
+    "englishTransliteration": "kati",
+    "variants": [
+      {
+        "word": "p.c. kat",
+        "copticWord": "ⲡ.ⲥ. ⲕⲁⲧ",
+        "englishTransliteration": "p.s. kat"
+      }
+    ],
+    "reference": "123a",
+    "gloss": "vi. To know, understand",
+    "definition": "vi. To know, understand",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "Knowledge, understanding",
+        "definition": "atka]: n. Ignorant person; adj. ignorant; eratka]: vb. To be ignorant; metatka]: f. Ignorance;"
+      },
+      {
+        "label": "remnka]",
+        "partOfSpeech": "m",
+        "gloss": "Man of understanding",
+        "definition": "refka]: m. Same meaning;"
+      },
+      {
+        "label": "]ka]",
+        "partOfSpeech": "vb",
+        "gloss": "To instruct",
+        "definition": "To instruct"
+      },
+      {
+        "label": "jemka]",
+        "partOfSpeech": "vb",
+        "gloss": "To find understanding",
+        "definition": "jinka]: f. Understanding;"
+      },
+      {
+        "label": "kath/t",
+        "partOfSpeech": "n",
+        "gloss": "Knowledgeable, wise person",
+        "definition": "adj. knowledgeable; erkath/t: vb. To be wise; metkath/t: f. Understanding."
+      }
+    ]
+  },
+  {
+    "headword": "kat/",
+    "copticWord": "ⲕⲁⲧⲏ",
+    "englishTransliteration": "kati",
+    "variants": [
+      {
+        "word": "oumen/",
+        "copticWord": "ⲟⲩⲙⲉⲛⲏ",
+        "englishTransliteration": "oumeni"
+      },
+      {
+        "word": "-menoi",
+        "copticWord": "-ⲙⲉⲛⲟⲓ",
+        "englishTransliteration": "-menoi"
+      }
+    ],
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "pl. Cate-chumens",
+    "definition": "pl. Cate-chumens",
+    "senses": [
+      {
+        "label": "erkat/",
+        "partOfSpeech": "vb"
+      },
+      {
+        "gloss": "To instruct, give a sermon, sermon",
+        "definition": "To instruct, give a sermon, sermon"
+      }
+    ]
+  },
+  {
+    "headword": "kat/,oumenoi",
+    "copticWord": "ⲕⲁⲧⲏⲭⲟⲩⲙⲉⲛⲟⲓ",
+    "englishTransliteration": "katikhoumenoi",
+    "gloss": "Catechumens",
+    "definition": "Catechumens",
+    "crossReference": {
+      "target": "kat/,oumen/",
+      "gloss": "Catechumens"
+    }
+  },
+  {
+    "headword": "katmic",
+    "copticWord": "ⲕⲁⲧⲙⲓⲥ",
+    "englishTransliteration": "katmis",
+    "reference": "129a",
+    "partOfSpeech": "m",
+    "gloss": "Egyptian mulberry",
+    "definition": "Egyptian mulberry"
+  },
+  {
+    "headword": "katoa",
+    "copticWord": "ⲕⲁⲧⲟⲁ",
+    "englishTransliteration": "katoa",
+    "gloss": "Boat",
+    "definition": "Boat",
+    "crossReference": {
+      "target": "katw",
+      "gloss": "Boat"
+    }
+  },
+  {
+    "headword": "katoc",
+    "copticWord": "ⲕⲁⲧⲟⲥ",
+    "englishTransliteration": "katos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Water-wheel",
+    "definition": "Water-wheel"
+  },
+  {
+    "headword": "katouli",
+    "copticWord": "ⲕⲁⲧⲟⲩⲗⲓ",
+    "englishTransliteration": "katouli",
+    "reference": "129a",
+    "partOfSpeech": "m",
+    "gloss": "Mallow",
+    "definition": "Mallow"
+  },
+  {
+    "headword": "katw",
+    "copticWord": "ⲕⲁⲧⲱ",
+    "englishTransliteration": "katō",
+    "variants": [
+      {
+        "word": "katoa",
+        "copticWord": "ⲕⲁⲧⲟⲁ",
+        "englishTransliteration": "katoa"
+      }
+    ],
+    "reference": "123b",
+    "partOfSpeech": "f",
+    "gloss": "Boat, skiff",
+    "definition": "Boat, skiff"
+  },
+  {
+    "headword": "kauma",
+    "copticWord": "ⲕⲁⲩⲙⲁ",
+    "englishTransliteration": "kavma",
+    "variants": [
+      {
+        "word": "kaucon",
+        "copticWord": "ⲕⲁⲩⲥⲟⲛ",
+        "englishTransliteration": "kavson"
+      },
+      {
+        "word": "-oc",
+        "copticWord": "-ⲟⲥ",
+        "englishTransliteration": "-os"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Burning heat, fever, heat",
+    "definition": "Burning heat, fever, heat"
+  },
+  {
+    "headword": "erkauma",
+    "copticWord": "ⲉⲣⲕⲁⲩⲙⲁ",
+    "englishTransliteration": "erkavma",
+    "partOfSpeech": "vb",
+    "gloss": "To burn, kindle",
+    "definition": "To burn, kindle"
+  },
+  {
+    "headword": "kbwou",
+    "copticWord": "ⲕⲃⲱⲟⲩ",
+    "englishTransliteration": "kvōou",
+    "gloss": "Coolness",
+    "definition": "Coolness",
+    "crossReference": {
+      "target": ",bob",
+      "gloss": "Coolness"
+    }
+  },
+  {
+    "headword": "kauri",
+    "copticWord": "ⲕⲁⲩⲣⲓ",
+    "englishTransliteration": "kavri",
+    "gloss": "Deaf",
+    "definition": "Deaf",
+    "crossReference": {
+      "target": "(1)kour",
+      "gloss": "Deaf"
+    }
+  },
+  {
+    "headword": "kavai",
+    "copticWord": "ⲕⲁⲫⲁⲓ",
+    "englishTransliteration": "kafai",
+    "reference": "130a",
+    "gloss": "pl. Egyptian partridge",
+    "definition": "pl. Egyptian partridge"
+  },
+  {
+    "headword": "ke",
+    "copticWord": "ⲕⲉ",
+    "englishTransliteration": "ke",
+    "variants": [
+      {
+        "type": "pl.",
+        "word": "ke",
+        "copticWord": "ⲕⲉ",
+        "englishTransliteration": "ke"
+      },
+      {
+        "word": "wouni",
+        "copticWord": "ⲱⲟⲩⲛⲓ",
+        "englishTransliteration": "ōouni"
+      }
+    ],
+    "reference": "90b",
+    "partOfSpeech": "mf",
+    "gloss": "Another",
+    "definition": "adj. other, different;",
+    "senses": [
+      {
+        "label": "ke...ke",
+        "partOfSpeech": "adj",
+        "gloss": "Any other",
+        "definition": "Any other"
+      },
+      {
+        "label": "keouai",
+        "partOfSpeech": "adj",
+        "gloss": "Another",
+        "definition": "Another"
+      },
+      {
+        "label": "ke- +def art",
+        "gloss": "Also, even",
+        "definition": "Also, even"
+      },
+      {
+        "label": "et",
+        "partOfSpeech": "m",
+        "gloss": "Another",
+        "definition": "Another"
+      },
+      {
+        "label": "+ art or demonst",
+        "gloss": "The other, this other",
+        "definition": "The other, this other"
+      }
+    ]
+  },
+  {
+    "headword": "kavaji",
+    "copticWord": "ⲕⲁⲫⲁϫⲓ",
+    "englishTransliteration": "kafaji",
+    "reference": "130a",
+    "partOfSpeech": "m",
+    "gloss": "Part of date-palm, lit. leaf of fiber, stump of branch",
+    "definition": "Part of date-palm, lit. leaf of fiber, stump of branch"
+  },
+  {
+    "headword": "kas",
+    "copticWord": "ⲕⲁϣ",
+    "englishTransliteration": "kash",
+    "variants": [
+      {
+        "word": "kes",
+        "copticWord": "ⲕⲉϣ",
+        "englishTransliteration": "kesh"
+      }
+    ],
+    "reference": "130a",
+    "partOfSpeech": "mf",
+    "gloss": "Reed as stalk, measure, pen, shin-bone, staff, plough-pole, spike, paling",
+    "definition": "Reed as stalk, measure, pen, shin-bone, staff, plough-pole, spike, paling",
+    "senses": [
+      {
+        "partOfSpeech": "f",
+        "gloss": "Reed bed, plantation",
+        "definition": "Reed bed, plantation"
+      }
+    ]
+  },
+  {
+    "headword": "kas=",
+    "copticWord": "ⲕⲁϣ",
+    "englishTransliteration": "kash",
+    "gloss": "To break",
+    "definition": "To break",
+    "crossReference": {
+      "target": "kws",
+      "gloss": "To break"
+    }
+  },
+  {
+    "headword": "kebi",
+    "copticWord": "ⲕⲉⲃⲓ",
+    "englishTransliteration": "kevi",
+    "gloss": "Honey cake",
+    "definition": "Honey cake",
+    "crossReference": {
+      "target": "(2)k/bi",
+      "gloss": "Honey cake"
+    }
+  },
+  {
+    "headword": "kasou",
+    "copticWord": "ⲕⲁϣⲟⲩ",
+    "englishTransliteration": "kashou",
+    "reference": "130b",
+    "gloss": "pl. A type of fish",
+    "definition": "pl. A type of fish"
+  },
+  {
+    "headword": "kasouli",
+    "copticWord": "ⲕⲁϣⲟⲩⲗⲓ",
+    "englishTransliteration": "kashouli",
+    "reference": "131a",
+    "partOfSpeech": "m",
+    "gloss": "Desert fruit",
+    "definition": "Desert fruit"
+  },
+  {
+    "headword": "kedric",
+    "copticWord": "ⲕⲉⲇⲣⲓⲥ",
+    "englishTransliteration": "kedris",
+    "variants": [
+      {
+        "word": "ketri",
+        "copticWord": "ⲕⲉⲧⲣⲓ",
+        "englishTransliteration": "ketri"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Fruit of syrian ceder",
+    "definition": "Fruit of syrian ceder"
+  },
+  {
+    "headword": "kah",
+    "copticWord": "ⲕⲁϩ",
+    "englishTransliteration": "kah",
+    "gloss": "Arm",
+    "definition": "Arm",
+    "crossReference": {
+      "target": "keh",
+      "gloss": "Arm"
+    }
+  },
+  {
+    "headword": "kah=",
+    "copticWord": "ⲕⲁϩ",
+    "englishTransliteration": "kah",
+    "gloss": "To smooth",
+    "definition": "To smooth",
+    "crossReference": {
+      "target": "kwh",
+      "gloss": "To smooth"
+    }
+  },
+  {
+    "headword": "kedroc",
+    "copticWord": "ⲕⲉⲇⲣⲟⲥ",
+    "englishTransliteration": "kedros",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Representation of a ceder cone",
+    "definition": "ceder tree."
+  },
+  {
+    "headword": "keiric]mw",
+    "copticWord": "ⲕⲉⲓⲣⲓⲥϯⲙⲱ",
+    "englishTransliteration": "kiristimō",
+    "gloss": "Leader",
+    "definition": "Leader",
+    "crossReference": {
+      "target": "kurioc",
+      "gloss": "Leader"
+    }
+  },
+  {
+    "headword": "kek",
+    "copticWord": "ⲕⲉⲕ",
+    "englishTransliteration": "kek",
+    "gloss": "To peel off",
+    "definition": "To peel off",
+    "crossReference": {
+      "target": "kwk",
+      "gloss": "To peel off"
+    }
+  },
+  {
+    "headword": "kekc",
+    "copticWord": "ⲕⲉⲕⲥ",
+    "englishTransliteration": "keks",
+    "gloss": "To strip",
+    "definition": "To strip",
+    "crossReference": {
+      "target": "kwc",
+      "gloss": "To strip"
+    }
+  },
+  {
+    "headword": "kel",
+    "copticWord": "ⲕⲉⲗ",
+    "englishTransliteration": "kel",
+    "variants": [
+      {
+        "word": "k/l",
+        "copticWord": "ⲕⲏⲗ",
+        "englishTransliteration": "kil"
+      }
+    ],
+    "reference": "102a",
+    "partOfSpeech": "m",
+    "gloss": "A fish",
+    "definition": "A fish"
+  }
+]

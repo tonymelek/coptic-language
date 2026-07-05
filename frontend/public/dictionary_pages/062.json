@@ -1,0 +1,465 @@
+[
+  {
+    "headword": "million",
+    "copticWord": "ⲙⲓⲗⲗⲓⲟⲛ",
+    "englishTransliteration": "million",
+    "gloss": "Mile",
+    "definition": "Mile",
+    "crossReference": {
+      "target": "milion",
+      "gloss": "Mile"
+    }
+  },
+  {
+    "headword": "m/r",
+    "copticWord": "ⲙⲏⲣ",
+    "englishTransliteration": "mir",
+    "reference": "180a",
+    "partOfSpeech": "m",
+    "gloss": "Shore of river, opposite shore or bank",
+    "definition": "prep. to the other side"
+  },
+  {
+    "headword": "him/r",
+    "copticWord": "ϩⲓⲙⲏⲣ",
+    "englishTransliteration": "himir",
+    "gloss": "prep. On or at the other side",
+    "definition": "---: n. On the further side."
+  },
+  {
+    "headword": "militoc",
+    "copticWord": "ⲙⲓⲗⲓⲧⲟⲥ",
+    "englishTransliteration": "militos",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Red earth, red ochre, ruddle, red lead",
+    "definition": "Red earth, red ochre, ruddle, red lead"
+  },
+  {
+    "headword": "mio=",
+    "copticWord": "ⲙⲓⲟ",
+    "englishTransliteration": "mio",
+    "reference": "158b",
+    "gloss": "w/ suffix miok, pl. miwten, miwou",
+    "definition": "vb. To be hale, often implying gratitude; bravo"
+  },
+  {
+    "headword": "miok tonou",
+    "copticWord": "ⲙⲓⲟⲕ ⲧⲟⲛⲟⲩ",
+    "englishTransliteration": "miok tonou",
+    "gloss": "Much thanks",
+    "definition": "Much thanks"
+  },
+  {
+    "headword": "miolon",
+    "copticWord": "ⲙⲓⲟⲗⲟⲛ",
+    "englishTransliteration": "miolon",
+    "gloss": "Bitumen",
+    "definition": "Bitumen",
+    "crossReference": {
+      "target": "miolwn",
+      "gloss": "Bitumen"
+    }
+  },
+  {
+    "headword": "miolwn",
+    "copticWord": "ⲙⲓⲟⲗⲱⲛ",
+    "englishTransliteration": "miolōn",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      },
+      {
+        "word": "m/olon",
+        "copticWord": "ⲙⲏⲟⲗⲟⲛ",
+        "englishTransliteration": "miolon"
+      }
+    ],
+    "reference": "165a",
+    "partOfSpeech": "n",
+    "gloss": "Bitumen extracted from embalmed corpses",
+    "definition": "Bitumen extracted from embalmed corpses"
+  },
+  {
+    "headword": "mac",
+    "copticWord": "ⲙⲁⲥ",
+    "englishTransliteration": "mas",
+    "reference": "184b",
+    "gloss": "vi. To bear, bring forth",
+    "definition": "vt. to bear young, beget; Qual. to be newly delivered, give suck;"
+  },
+  {
+    "headword": "belle mmici",
+    "copticWord": "ⲃⲉⲗⲗⲉ ⲙⲙⲓⲥⲓ",
+    "englishTransliteration": "velle mmisi",
+    "partOfSpeech": "n",
+    "gloss": "Born blind",
+    "definition": "Born blind"
+  },
+  {
+    "headword": "[ale mmici",
+    "copticWord": "ϭⲁⲗⲉ ⲙⲙⲓⲥⲓ",
+    "englishTransliteration": "chale mmisi",
+    "partOfSpeech": "n",
+    "gloss": "Born lame",
+    "definition": "Born lame"
+  },
+  {
+    "headword": "abot mmici",
+    "copticWord": "ⲁⲃⲟⲧ ⲙⲙⲓⲥⲓ",
+    "englishTransliteration": "avot mmisi",
+    "partOfSpeech": "n",
+    "gloss": "Month of birth",
+    "definition": "Month of birth"
+  },
+  {
+    "headword": "m/ciw]",
+    "copticWord": "ⲙⲏⲥⲓⲱϯ",
+    "englishTransliteration": "misiōti",
+    "gloss": "Womb. m/t, f. m/]",
+    "definition": "Womb. m/t, f. m/]",
+    "crossReference": {
+      "target": "mici",
+      "gloss": "Womb. m/t, f. m/]"
+    }
+  },
+  {
+    "headword": "met",
+    "copticWord": "ⲙⲉⲧ",
+    "englishTransliteration": "met",
+    "variants": [
+      {
+        "word": "m/t",
+        "copticWord": "ⲙⲏⲧ",
+        "englishTransliteration": "mit"
+      }
+    ],
+    "reference": "187b",
+    "gloss": "The numeral '10'",
+    "definition": "The numeral '10'"
+  },
+  {
+    "headword": "m/t",
+    "copticWord": "ⲙⲏⲧ",
+    "englishTransliteration": "mit",
+    "gloss": "Ten",
+    "definition": "Ten",
+    "crossReference": {
+      "target": "m/t",
+      "gloss": "Ten"
+    }
+  },
+  {
+    "headword": "m/ti",
+    "copticWord": "ⲙⲏⲧⲓ",
+    "englishTransliteration": "miti",
+    "reference": "Gk",
+    "partOfSpeech": "adv",
+    "isGreek": true,
+    "gloss": "Used after vbs of fear or doubt",
+    "definition": "in direct questions with vb. to do or to be"
+  },
+  {
+    "headword": "m/tige",
+    "copticWord": "ⲙⲏⲧⲓⲅⲉ",
+    "englishTransliteration": "mitige",
+    "gloss": "conj. Let alone, much less, not to mention",
+    "definition": "conj. Let alone, much less, not to mention"
+  },
+  {
+    "headword": "m/tra",
+    "copticWord": "ⲙⲏⲧⲣⲁ",
+    "englishTransliteration": "mitra",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Womb",
+    "definition": "Womb"
+  },
+  {
+    "headword": "m/u",
+    "copticWord": "ⲙⲏⲩ",
+    "englishTransliteration": "my",
+    "gloss": "v. moui - Lioness",
+    "definition": "v. moui - Lioness"
+  },
+  {
+    "headword": "m/tropolic",
+    "copticWord": "ⲙⲏⲧⲣⲟⲡⲟⲗⲓⲥ",
+    "englishTransliteration": "mitropolis",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Metropolis, capital city",
+    "definition": "Metropolis, capital city"
+  },
+  {
+    "headword": "m/s",
+    "copticWord": "ⲙⲏϣ",
+    "englishTransliteration": "mish",
+    "reference": "202a",
+    "partOfSpeech": "m",
+    "gloss": "Multitude (of persons or things), crowd, troop",
+    "definition": "Multitude (of persons or things), crowd, troop"
+  },
+  {
+    "headword": "ma mmici",
+    "copticWord": "ⲙⲁ ⲙⲙⲓⲥⲓ",
+    "englishTransliteration": "ma mmisi",
+    "partOfSpeech": "n",
+    "gloss": "Place of birth",
+    "definition": "Place of birth"
+  },
+  {
+    "headword": "samici",
+    "copticWord": "ϣⲁⲙⲓⲥⲓ",
+    "englishTransliteration": "shamisi",
+    "partOfSpeech": "n",
+    "gloss": "First-born child",
+    "definition": "First-born child"
+  },
+  {
+    "headword": "metsorp mmici",
+    "copticWord": "ⲙⲉⲧϣⲟⲣⲡ ⲙⲙⲓⲥⲓ",
+    "englishTransliteration": "metshorp mmisi",
+    "partOfSpeech": "n",
+    "gloss": "Right or position of first born",
+    "definition": "Right or position of first born"
+  },
+  {
+    "headword": "jwm mmici",
+    "copticWord": "ϫⲱⲙ ⲙⲙⲓⲥⲓ",
+    "englishTransliteration": "jōm mmisi",
+    "partOfSpeech": "n",
+    "gloss": "Birth-book",
+    "definition": "Birth-book"
+  },
+  {
+    "headword": "ehoou mmici",
+    "copticWord": "ⲉϩⲟⲟⲩ ⲙⲙⲓⲥⲓ",
+    "englishTransliteration": "ehoou mmisi",
+    "partOfSpeech": "n",
+    "gloss": "Birthday",
+    "definition": "Birthday"
+  },
+  {
+    "headword": "mici epswi",
+    "copticWord": "ⲙⲓⲥⲓ ⲉⲡϣⲱⲓ",
+    "englishTransliteration": "misi epshōi",
+    "partOfSpeech": "vb",
+    "gloss": "To bring forth",
+    "definition": "To bring forth"
+  },
+  {
+    "headword": "ermec",
+    "copticWord": "ⲉⲣⲙⲉⲥ",
+    "englishTransliteration": "ermes",
+    "partOfSpeech": "vb",
+    "gloss": "To bring forth",
+    "definition": "To bring forth"
+  },
+  {
+    "headword": "macnou]",
+    "copticWord": "ⲙⲁⲥⲛⲟⲩϯ",
+    "englishTransliteration": "masnouti",
+    "partOfSpeech": "f",
+    "gloss": "The mother of God",
+    "definition": "The mother of God"
+  },
+  {
+    "headword": "refmici",
+    "copticWord": "ⲣⲉϥⲙⲓⲥⲓ",
+    "englishTransliteration": "refmisi",
+    "partOfSpeech": "m",
+    "gloss": "One who bears",
+    "definition": "One who bears"
+  },
+  {
+    "headword": "metatmici",
+    "copticWord": "ⲙⲉⲧⲁⲧⲙⲓⲥⲓ",
+    "englishTransliteration": "metatmisi",
+    "partOfSpeech": "f",
+    "gloss": "Barrenness",
+    "definition": "Barrenness"
+  },
+  {
+    "headword": "jinmici",
+    "copticWord": "ϫⲓⲛⲙⲓⲥⲓ",
+    "englishTransliteration": "jinmisi",
+    "partOfSpeech": "m",
+    "gloss": "Birth, generation",
+    "definition": "Birth, generation"
+  },
+  {
+    "headword": "maci",
+    "copticWord": "ⲙⲁⲥⲓ",
+    "englishTransliteration": "masi",
+    "partOfSpeech": "m",
+    "gloss": "Young animal, calf, bull, cow",
+    "definition": "Young animal, calf, bull, cow"
+  },
+  {
+    "headword": "(1)m/ci",
+    "copticWord": "ⲙⲏⲥⲓ",
+    "englishTransliteration": "misi",
+    "partOfSpeech": "f",
+    "gloss": "One with child",
+    "definition": "child-birth;"
+  },
+  {
+    "headword": "(2)m/ci",
+    "copticWord": "ⲙⲏⲥⲓ",
+    "englishTransliteration": "misi",
+    "partOfSpeech": "f",
+    "gloss": "Offspring of mony, usury, interest",
+    "definition": "Offspring of mony, usury, interest"
+  },
+  {
+    "headword": "[i eym/ci",
+    "copticWord": "ϭⲓ ⲉⲑⲙⲏⲥⲓ",
+    "englishTransliteration": "chi ethmisi",
+    "partOfSpeech": "vb",
+    "gloss": "To take interest",
+    "definition": "To take interest"
+  },
+  {
+    "headword": "] eym/ci",
+    "copticWord": "ϯ ⲉⲑⲙⲏⲥⲓ",
+    "englishTransliteration": "ti ethmisi",
+    "partOfSpeech": "vb",
+    "gloss": "To give at (interest)",
+    "definition": "To give at (interest)"
+  },
+  {
+    "headword": "--- n- (gen)",
+    "copticWord": "--- ⲛ- (ⲅⲉⲛ)",
+    "englishTransliteration": "--- n- (gen)",
+    "partOfSpeech": "adj",
+    "gloss": "Many, great",
+    "definition": "Many, great"
+  },
+  {
+    "headword": "eroum/s",
+    "copticWord": "ⲉⲣⲟⲩⲙⲏϣ",
+    "englishTransliteration": "eroumish",
+    "partOfSpeech": "vb",
+    "gloss": "To be a crowd",
+    "definition": "To be a crowd"
+  },
+  {
+    "headword": "m/]",
+    "copticWord": "ⲙⲏϯ",
+    "englishTransliteration": "miti",
+    "reference": "190b",
+    "partOfSpeech": "f",
+    "gloss": "Middle",
+    "definition": "Middle"
+  },
+  {
+    "headword": "etm/]",
+    "copticWord": "ⲉⲧⲙⲏϯ",
+    "englishTransliteration": "etmiti",
+    "gloss": "prep. To, into midst, between",
+    "definition": "prep. To, into midst, between"
+  },
+  {
+    "headword": "i eym/]",
+    "copticWord": "ⲓ ⲉⲑⲙⲏϯ",
+    "englishTransliteration": "i ethmiti",
+    "partOfSpeech": "vb",
+    "gloss": "To come before, between",
+    "definition": "To come before, between"
+  },
+  {
+    "headword": "qen ym/]",
+    "copticWord": "ϧⲉⲛ ⲑⲙⲏϯ",
+    "englishTransliteration": "khen thmiti",
+    "gloss": "In the midst, between",
+    "definition": "In the midst, between"
+  },
+  {
+    "headword": "ebol qenym/]",
+    "copticWord": "ⲉⲃⲟⲗ ϧⲉⲛⲑⲙⲏϯ",
+    "englishTransliteration": "evol khenthmiti",
+    "gloss": "From out of the midst",
+    "definition": "From out of the midst"
+  },
+  {
+    "headword": "myo",
+    "copticWord": "ⲙⲑⲟ",
+    "englishTransliteration": "mtho",
+    "variants": [
+      {
+        "word": "emyo",
+        "copticWord": "ⲉⲙⲑⲟ",
+        "englishTransliteration": "emtho"
+      }
+    ],
+    "reference": "193a",
+    "partOfSpeech": "m",
+    "gloss": "Face, presence",
+    "definition": "in face of, before"
+  },
+  {
+    "headword": "myo ebol",
+    "copticWord": "ⲙⲑⲟ ⲉⲃⲟⲗ",
+    "englishTransliteration": "mtho evol",
+    "partOfSpeech": "m",
+    "gloss": "Same meaning",
+    "definition": "Same meaning"
+  },
+  {
+    "headword": "mi",
+    "copticWord": "ⲙⲓ",
+    "englishTransliteration": "mi",
+    "gloss": "Urine",
+    "definition": "Urine",
+    "crossReference": {
+      "target": "(1)m/",
+      "gloss": "Urine"
+    }
+  },
+  {
+    "headword": "miak/c",
+    "copticWord": "ⲙⲓⲁⲕⲏⲥ",
+    "englishTransliteration": "miakis",
+    "reference": "162b",
+    "gloss": "pl. Shells, pearl-shells",
+    "definition": "pl. Shells, pearl-shells"
+  },
+  {
+    "headword": "mie",
+    "copticWord": "ⲙⲓⲉ",
+    "englishTransliteration": "mie",
+    "gloss": "Lioness",
+    "definition": "Lioness",
+    "crossReference": {
+      "target": "(2)moui",
+      "gloss": "Lioness"
+    }
+  },
+  {
+    "headword": "mi/",
+    "copticWord": "ⲙⲓⲏ",
+    "englishTransliteration": "mii",
+    "gloss": "Lioness",
+    "definition": "Lioness",
+    "crossReference": {
+      "target": "(2)moui",
+      "gloss": "Lioness"
+    }
+  },
+  {
+    "headword": "milion",
+    "copticWord": "ⲙⲓⲗⲓⲟⲛ",
+    "englishTransliteration": "milion",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Roman mile",
+    "definition": "Roman mile"
+  }
+]

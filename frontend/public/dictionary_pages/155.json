@@ -1,0 +1,392 @@
+[
+  {
+    "headword": "hemki",
+    "copticWord": "ϩⲉⲙⲕⲓ",
+    "englishTransliteration": "hemki",
+    "reference": "691a",
+    "senses": [
+      {
+        "label": "ejen",
+        "gloss": "vi. To sit upon",
+        "definition": "vi. To sit upon"
+      },
+      {
+        "label": "nem",
+        "gloss": "vi. To sit with",
+        "definition": "vi. To sit with"
+      },
+      {
+        "label": "n",
+        "gloss": "vi. To sit in",
+        "definition": "vi. To sit in"
+      },
+      {
+        "label": "ca",
+        "gloss": "vi. To sit on side",
+        "definition": "vi. To sit on side"
+      },
+      {
+        "label": "qa",
+        "gloss": "vi. To sit under, at",
+        "definition": "vi. To sit under, at"
+      },
+      {
+        "label": "hi",
+        "gloss": "vi. To sit upon",
+        "definition": "vi. To sit upon"
+      },
+      {
+        "label": "qen",
+        "gloss": "vi. To sit in",
+        "definition": "vi. To sit in"
+      },
+      {
+        "label": "hiren",
+        "gloss": "vi. To sit at, on",
+        "definition": "vi. To sit at, on"
+      },
+      {
+        "label": "hijen",
+        "gloss": "vi. To sit upon",
+        "definition": "vi. To sit upon"
+      },
+      {
+        "label": "evahou",
+        "gloss": "vi. To stay behind",
+        "definition": "vi. To stay behind"
+      },
+      {
+        "label": "eqr/i",
+        "gloss": "vi. To sit down",
+        "definition": "vi. To sit down"
+      },
+      {
+        "label": "mmau",
+        "gloss": "vi. To sit there",
+        "definition": "--: n. Excrement; is nhemci: f. Urine, excrement; ma nhemci: m. Seat, privy, anus; sv/r nhemci: w/er- vb. To be assessor; jinhemci: m. Manner of sitting, dwelling."
+      }
+    ]
+  },
+  {
+    "headword": "m. Beer. hemci",
+    "copticWord": "ⲙ. Ⲃⲉⲉⲣ. ϩⲉⲙⲥⲓ",
+    "englishTransliteration": "m. Veer. hemsi",
+    "reference": "679a",
+    "gloss": "vi. To sit, remain, dwell",
+    "definition": "vi. To sit, remain, dwell"
+  },
+  {
+    "headword": "hebcw",
+    "copticWord": "ϩⲉⲃⲥⲱ",
+    "englishTransliteration": "hevsō",
+    "gloss": "Garment. hei, h/i, (Q) hiwout: (637a)",
+    "definition": "vi. To",
+    "crossReference": {
+      "target": "hwbc",
+      "gloss": "Garment. hei, h/i, (Q) hiwout: (637a)"
+    },
+    "senses": [
+      {
+        "gloss": "fall",
+        "definition": "fall"
+      },
+      {
+        "label": "e",
+        "gloss": "vi. To fall upon, into",
+        "definition": "vi. To fall upon, into"
+      },
+      {
+        "label": "ejen",
+        "gloss": "vi. To fall upon",
+        "definition": "vi. To fall upon"
+      },
+      {
+        "label": "nca",
+        "gloss": "vi. To fall from",
+        "definition": "vi. To fall from"
+      },
+      {
+        "label": "qen",
+        "gloss": "vi. To fall into",
+        "definition": "vi. To fall into"
+      },
+      {
+        "label": "qarat=",
+        "gloss": "vi. To fall below",
+        "definition": "vi. To fall below"
+      },
+      {
+        "label": "hijen",
+        "gloss": "vi. To fall upon",
+        "definition": "vi. To fall upon"
+      },
+      {
+        "label": "ebol",
+        "gloss": "vi. To fall out, away",
+        "definition": "perish;"
+      },
+      {
+        "label": "epec/t",
+        "gloss": "vi. To fall down",
+        "definition": "vi. To fall down"
+      },
+      {
+        "label": "eqr/i",
+        "gloss": "vi. To fall down",
+        "definition": "--: m. Fall, destruction;"
+      },
+      {
+        "label": "athei",
+        "partOfSpeech": "adj",
+        "gloss": "Without falling, indestructible",
+        "definition": "Without falling, indestructible"
+      },
+      {
+        "label": "jinhei",
+        "partOfSpeech": "m",
+        "gloss": "Act of falling",
+        "definition": "Act of falling"
+      }
+    ]
+  },
+  {
+    "headword": "hemhem",
+    "copticWord": "ϩⲉⲙϩⲉⲙ",
+    "englishTransliteration": "hemhem",
+    "reference": "682b",
+    "gloss": "vi. To roar, neigh (of lion)",
+    "definition": "vi. To roar, neigh (of lion)",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "Roaring, neighing",
+        "definition": "Roaring, neighing"
+      }
+    ]
+  },
+  {
+    "headword": "hemj",
+    "copticWord": "ϩⲉⲙϫ",
+    "englishTransliteration": "hemj",
+    "gloss": "Vinegar",
+    "definition": "Vinegar",
+    "crossReference": {
+      "target": "hmoj",
+      "gloss": "Vinegar"
+    }
+  },
+  {
+    "headword": "hel",
+    "copticWord": "ϩⲉⲗ",
+    "englishTransliteration": "hel",
+    "gloss": "Fear",
+    "definition": "Fear",
+    "crossReference": {
+      "target": "heli",
+      "gloss": "Fear"
+    }
+  },
+  {
+    "headword": "hen",
+    "copticWord": "ϩⲉⲛ",
+    "englishTransliteration": "hen",
+    "gloss": "To move self",
+    "definition": "To move self",
+    "crossReference": {
+      "target": "(2)hini",
+      "gloss": "To move self"
+    }
+  },
+  {
+    "headword": "helem",
+    "copticWord": "ϩⲉⲗⲉⲙ",
+    "englishTransliteration": "helem",
+    "gloss": "To seize",
+    "definition": "To seize",
+    "crossReference": {
+      "target": "hwlem",
+      "gloss": "To seize"
+    }
+  },
+  {
+    "headword": "hen=",
+    "copticWord": "ϩⲉⲛ",
+    "englishTransliteration": "hen",
+    "gloss": "To move self",
+    "definition": "To move self",
+    "crossReference": {
+      "target": "(2)hini",
+      "gloss": "To move self"
+    }
+  },
+  {
+    "headword": "heli",
+    "copticWord": "ϩⲉⲗⲓ",
+    "englishTransliteration": "heli",
+    "variants": [
+      {
+        "word": "hel",
+        "copticWord": "ϩⲉⲗ",
+        "englishTransliteration": "hel"
+      }
+    ],
+    "reference": "667a",
+    "partOfSpeech": "f",
+    "gloss": "Fear",
+    "definition": "Fear",
+    "senses": [
+      {
+        "label": "]heli",
+        "partOfSpeech": "vb",
+        "gloss": "To give fear, frighten",
+        "definition": "hiheli: vb. To emit fear, terrify."
+      }
+    ]
+  },
+  {
+    "headword": "henhen",
+    "copticWord": "ϩⲉⲛϩⲉⲛ",
+    "englishTransliteration": "henhen",
+    "gloss": "To bid",
+    "definition": "To bid",
+    "crossReference": {
+      "target": "honhen",
+      "gloss": "To bid"
+    }
+  },
+  {
+    "headword": "henhwn=",
+    "copticWord": "ϩⲉⲛϩⲱⲛ",
+    "englishTransliteration": "henhōn",
+    "gloss": "To bid. hep- v. (1)hwp - To hide",
+    "definition": "To bid. hep- v. (1)hwp - To hide",
+    "crossReference": {
+      "target": "honhen",
+      "gloss": "To bid. hep- v. (1)hwp - To hide"
+    }
+  },
+  {
+    "headword": "helhel",
+    "copticWord": "ϩⲉⲗϩⲉⲗ",
+    "englishTransliteration": "helhel",
+    "reference": "672a",
+    "gloss": "vi. To swim, float",
+    "definition": "vi. To swim, float"
+  },
+  {
+    "headword": "heri",
+    "copticWord": "ϩⲉⲣⲓ",
+    "englishTransliteration": "heri",
+    "variants": [
+      {
+        "word": "(Q) hourwou",
+        "copticWord": "(Ϧ) ϩⲟⲩⲣⲱⲟⲩ",
+        "englishTransliteration": "(Kh) hourōou"
+      }
+    ],
+    "reference": "704a",
+    "gloss": "vi. To cease, be still",
+    "definition": "vi. To cease, be still"
+  },
+  {
+    "headword": "herman",
+    "copticWord": "ϩⲉⲣⲙⲁⲛ",
+    "englishTransliteration": "herman",
+    "gloss": "Pomegranate",
+    "definition": "Pomegranate",
+    "crossReference": {
+      "target": "erman",
+      "gloss": "Pomegranate"
+    }
+  },
+  {
+    "headword": "helje",
+    "copticWord": "ϩⲉⲗϫⲉ",
+    "englishTransliteration": "helje",
+    "gloss": "Sweetness. helj/u v. hloj - Sweetness (pl.). hem- v. hwmi - To Tread",
+    "definition": "Sweetness. helj/u v. hloj - Sweetness (pl.). hem- v. hwmi - To Tread",
+    "crossReference": {
+      "target": "hloj",
+      "gloss": "Sweetness. helj/u v. hloj - Sweetness (pl.). hem- v. hwmi - To Tread"
+    }
+  },
+  {
+    "headword": "hers",
+    "copticWord": "ϩⲉⲣϣ",
+    "englishTransliteration": "hersh",
+    "gloss": "To run a groun. hetvw = etvw - Burden",
+    "definition": "To run a groun. hetvw = etvw - Burden",
+    "crossReference": {
+      "target": "(hwrs)",
+      "gloss": "To run a groun. hetvw = etvw - Burden"
+    }
+  },
+  {
+    "headword": "hejhej",
+    "copticWord": "ϩⲉϫϩⲉϫ",
+    "englishTransliteration": "hejhej",
+    "gloss": "To be distressed",
+    "definition": "To be distressed",
+    "crossReference": {
+      "target": "hojhej",
+      "gloss": "To be distressed"
+    }
+  },
+  {
+    "headword": "hemi",
+    "copticWord": "ϩⲉⲙⲓ",
+    "englishTransliteration": "hemi",
+    "reference": "677b",
+    "gloss": "w/er- vi. To steer, guide",
+    "definition": "w/er- vi. To steer, guide"
+  },
+  {
+    "headword": "manerhemi",
+    "copticWord": "ⲙⲁⲛⲉⲣϩⲉⲙⲓ",
+    "englishTransliteration": "manerhemi",
+    "partOfSpeech": "m",
+    "gloss": "Guidance",
+    "definition": "Guidance"
+  },
+  {
+    "headword": "hejhwj=",
+    "copticWord": "ϩⲉϫϩⲱϫ",
+    "englishTransliteration": "hejhōj",
+    "gloss": "To be distressed",
+    "definition": "To be distressed",
+    "crossReference": {
+      "target": "hojhej",
+      "gloss": "To be distressed"
+    }
+  },
+  {
+    "headword": "(1) h/",
+    "copticWord": "ϩⲏ",
+    "englishTransliteration": "hi",
+    "variants": [
+      {
+        "word": "h/t=",
+        "copticWord": "ϩⲏⲧ",
+        "englishTransliteration": "hit"
+      }
+    ],
+    "reference": "640b",
+    "partOfSpeech": "f",
+    "gloss": "Forepart, begin-ning",
+    "definition": "Forepart, begin-ning",
+    "senses": [
+      {
+        "label": "erh/tc",
+        "partOfSpeech": "vb",
+        "gloss": "To make beginning",
+        "definition": "ey/: prep. To the front, forwards; cath/: prep. Before, formerly, afterward, henceforth;"
+      },
+      {
+        "label": "ercath/",
+        "partOfSpeech": "vb",
+        "gloss": "To be before, go to meet",
+        "definition": "To be before, go to meet"
+      }
+    ]
+  }
+]

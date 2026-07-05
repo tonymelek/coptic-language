@@ -1,0 +1,182 @@
+[
+  {
+    "headword": "z",
+    "copticWord": "ⲍ",
+    "englishTransliteration": "z",
+    "reference": "65a",
+    "gloss": "Sixth letter of the Coptic",
+    "definition": "Sixth letter of the Coptic"
+  },
+  {
+    "headword": "m. meaning unknown. zabiloc",
+    "copticWord": "ⲙ. ⲙⲉⲁⲛⲓⲛⲅ ⲩⲛⲕⲛⲟⲱⲛ. ⲍⲁⲃⲓⲗⲟⲥ",
+    "englishTransliteration": "m. meaning ynknoōn. zavilos",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "gloss": "The arabic month 'shawal'",
+    "definition": "The arabic month 'shawal'"
+  },
+  {
+    "headword": "zaz",
+    "copticWord": "ⲍⲁⲍ",
+    "englishTransliteration": "zaz",
+    "reference": "65b",
+    "partOfSpeech": "n",
+    "gloss": "Asphodel",
+    "definition": "Asphodel"
+  },
+  {
+    "headword": "zakroulli",
+    "copticWord": "ⲍⲁⲕⲣⲟⲩⲗⲗⲓ",
+    "englishTransliteration": "zakroulli",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Curled at the tip",
+    "definition": "Curled at the tip"
+  },
+  {
+    "headword": "za",
+    "copticWord": "ⲍⲁ",
+    "englishTransliteration": "za",
+    "variants": [
+      {
+        "word": "ri",
+        "copticWord": "ⲣⲓ",
+        "englishTransliteration": "ri"
+      }
+    ],
+    "reference": "Gk?",
+    "isGreek": true,
+    "gloss": "Sugar",
+    "definition": "Sugar"
+  },
+  {
+    "headword": "zenzen",
+    "copticWord": "ⲍⲉⲛⲍⲉⲛ",
+    "englishTransliteration": "zenzen",
+    "reference": "65b"
+  },
+  {
+    "headword": "m. Lizard",
+    "copticWord": "ⲙ. Ⲗⲓⲍⲁⲣⲇ",
+    "englishTransliteration": "m. Lizard",
+    "variants": [
+      {
+        "word": "chameleon. zent/cic",
+        "copticWord": "ⲥϩⲁⲙⲉⲗⲉⲟⲛ. ⲍⲉⲛⲧⲏⲥⲓⲥ",
+        "englishTransliteration": "shameleon. zentisis"
+      }
+    ],
+    "reference": "Gk?",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "gloss": "Fight, debate",
+    "definition": "Fight, debate"
+  },
+  {
+    "headword": "z/loc",
+    "copticWord": "ⲍⲏⲗⲟⲥ",
+    "englishTransliteration": "zilos",
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Jealousy, eager rivalry, emulation, fervor, zeal",
+    "definition": "Jealousy, eager rivalry, emulation, fervor, zeal"
+  },
+  {
+    "headword": "z/lwt/c",
+    "copticWord": "ⲍⲏⲗⲱⲧⲏⲥ",
+    "englishTransliteration": "zilōtis",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Emulator, zealous admirer or follower, lealous, zealot",
+    "definition": "Emulator, zealous admirer or follower, lealous, zealot"
+  },
+  {
+    "headword": "zizuvon",
+    "copticWord": "ⲍⲓⲍⲩⲫⲟⲛ",
+    "englishTransliteration": "zizyfon",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Jujube, a tree that bears the jujube (zizyphus vulgaris)",
+    "definition": "Jujube, a tree that bears the jujube (zizyphus vulgaris)"
+  },
+  {
+    "headword": "zwgravoc",
+    "copticWord": "ⲍⲱⲅⲣⲁⲫⲟⲥ",
+    "englishTransliteration": "zōgrafos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "One who paints from life of from nature",
+    "definition": "One who paints from life of from nature"
+  },
+  {
+    "headword": "zwmoc",
+    "copticWord": "ⲍⲱⲙⲟⲥ",
+    "englishTransliteration": "zōmos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Soup or sauce to eat with meat, fish ...etc.",
+    "definition": "broth"
+  },
+  {
+    "headword": "zwn/",
+    "copticWord": "ⲍⲱⲛⲏ",
+    "englishTransliteration": "zōni",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Belt, girdle",
+    "definition": "Belt, girdle"
+  },
+  {
+    "headword": "zwon",
+    "copticWord": "ⲍⲱⲟⲛ",
+    "englishTransliteration": "zōon",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Living being, animal",
+    "definition": "Living being, animal"
+  },
+  {
+    "headword": "zwon s/m",
+    "copticWord": "ⲍⲱⲟⲛ ϣⲏⲙ",
+    "englishTransliteration": "zōon shim",
+    "gloss": "Small animal",
+    "definition": "Small animal"
+  },
+  {
+    "headword": "zeuc",
+    "copticWord": "ⲍⲉⲩⲥ",
+    "englishTransliteration": "zevs",
+    "variants": [
+      {
+        "word": "zeu",
+        "copticWord": "ⲍⲉⲩ",
+        "englishTransliteration": "zev"
+      },
+      {
+        "word": "dioc",
+        "copticWord": "ⲇⲓⲟⲥ",
+        "englishTransliteration": "dios"
+      },
+      {
+        "word": "dia",
+        "copticWord": "ⲇⲓⲁ",
+        "englishTransliteration": "dia"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "gloss": "Zeus (Roman deity)",
+    "definition": "the planet Jupiter."
+  }
+]

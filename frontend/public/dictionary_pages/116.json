@@ -1,0 +1,598 @@
+[
+  {
+    "headword": "oumot",
+    "copticWord": "ⲟⲩⲙⲟⲧ",
+    "englishTransliteration": "oumot",
+    "variants": [
+      {
+        "word": "(Q) ouomt",
+        "copticWord": "(Ϧ) ⲟⲩⲟⲙⲧ",
+        "englishTransliteration": "(Kh) ouomt"
+      }
+    ],
+    "reference": "479b",
+    "gloss": "vi. To become, be thick",
+    "definition": "---: m. Thickness. ounof: (485b) vi. To rejoice",
+    "senses": [
+      {
+        "label": "ejen",
+        "gloss": "vi. To rejoice over, at",
+        "definition": "vi. To rejoice over, at"
+      }
+    ]
+  },
+  {
+    "headword": "oulai",
+    "copticWord": "ⲟⲩⲗⲁⲓ",
+    "englishTransliteration": "oulai",
+    "reference": "477a",
+    "partOfSpeech": "n",
+    "gloss": "A plant \"polium\"",
+    "definition": "A plant \"polium\""
+  },
+  {
+    "headword": "ouent",
+    "copticWord": "ⲟⲩⲉⲛⲧ",
+    "englishTransliteration": "ouent",
+    "reference": "484a",
+    "partOfSpeech": "m",
+    "gloss": "Deep, hollow place, hold of ship",
+    "definition": "Deep, hollow place, hold of ship"
+  },
+  {
+    "headword": "ouerp",
+    "copticWord": "ⲟⲩⲉⲣⲡ",
+    "englishTransliteration": "ouerp",
+    "gloss": "To send",
+    "definition": "To send",
+    "crossReference": {
+      "target": "ouwrp",
+      "gloss": "To send"
+    }
+  },
+  {
+    "headword": "ouert",
+    "copticWord": "ⲟⲩⲉⲣⲧ",
+    "englishTransliteration": "ouert",
+    "variants": [
+      {
+        "word": "bert",
+        "copticWord": "ⲃⲉⲣⲧ",
+        "englishTransliteration": "vert"
+      }
+    ],
+    "reference": "490a",
+    "partOfSpeech": "m",
+    "gloss": "Rose",
+    "definition": "Rose"
+  },
+  {
+    "headword": "ouersi",
+    "copticWord": "ⲟⲩⲉⲣϣⲓ",
+    "englishTransliteration": "ouershi",
+    "reference": "491a",
+    "partOfSpeech": "f",
+    "gloss": "Watch, watch tower",
+    "definition": "Watch, watch tower"
+  },
+  {
+    "headword": "ouecyen",
+    "copticWord": "ⲟⲩⲉⲥⲑⲉⲛ",
+    "englishTransliteration": "ouesthen",
+    "gloss": "To broaden",
+    "definition": "To broaden",
+    "crossReference": {
+      "target": "ouocyen",
+      "gloss": "To broaden"
+    }
+  },
+  {
+    "headword": "ouecywn=",
+    "copticWord": "ⲟⲩⲉⲥⲑⲱⲛ",
+    "englishTransliteration": "ouesthōn",
+    "gloss": "To broaden",
+    "definition": "To broaden",
+    "crossReference": {
+      "target": "ouocyen",
+      "gloss": "To broaden"
+    }
+  },
+  {
+    "headword": "ouet",
+    "copticWord": "ⲟⲩⲉⲧ",
+    "englishTransliteration": "ouet",
+    "gloss": "To send",
+    "definition": "To send",
+    "crossReference": {
+      "target": "ouw]",
+      "gloss": "To send"
+    }
+  },
+  {
+    "headword": "oueteb",
+    "copticWord": "ⲟⲩⲉⲧⲉⲃ",
+    "englishTransliteration": "ouetev",
+    "gloss": "To change",
+    "definition": "To change",
+    "crossReference": {
+      "target": "ouwteb",
+      "gloss": "To change"
+    }
+  },
+  {
+    "headword": "oueth",
+    "copticWord": "ⲟⲩⲉⲧϩ",
+    "englishTransliteration": "oueth",
+    "gloss": "To pour",
+    "definition": "To pour",
+    "crossReference": {
+      "target": "ouwth",
+      "gloss": "To pour"
+    }
+  },
+  {
+    "headword": "maiounof",
+    "copticWord": "ⲙⲁⲓⲟⲩⲛⲟϥ",
+    "englishTransliteration": "maiounof",
+    "gloss": "Pleasure-loving",
+    "definition": "Pleasure-loving"
+  },
+  {
+    "headword": "erounof",
+    "copticWord": "ⲉⲣⲟⲩⲛⲟϥ",
+    "englishTransliteration": "erounof",
+    "partOfSpeech": "vb",
+    "gloss": "To make joy, to rejoice",
+    "definition": "]ounof: vb. To give joy. ounou, pl"
+  },
+  {
+    "headword": "ounwoui",
+    "copticWord": "ⲟⲩⲛⲱⲟⲩⲓ",
+    "englishTransliteration": "ounōoui",
+    "reference": "484b",
+    "partOfSpeech": "f",
+    "gloss": "hour",
+    "definition": "hour"
+  },
+  {
+    "headword": "n]ounou",
+    "copticWord": "ⲛϯⲟⲩⲛⲟⲩ",
+    "englishTransliteration": "ntiounou",
+    "partOfSpeech": "adv",
+    "gloss": "On the instant, forthwith",
+    "definition": "On the instant, forthwith"
+  },
+  {
+    "headword": "oues",
+    "copticWord": "ⲟⲩⲉϣ",
+    "englishTransliteration": "ouesh",
+    "gloss": "To desire",
+    "definition": "To desire",
+    "crossReference": {
+      "target": "ouws",
+      "gloss": "To desire"
+    }
+  },
+  {
+    "headword": "ouesc",
+    "copticWord": "ⲟⲩⲉϣⲥ",
+    "englishTransliteration": "oueshs",
+    "gloss": "To make broad",
+    "definition": "To make broad",
+    "crossReference": {
+      "target": "ouwsc",
+      "gloss": "To make broad"
+    }
+  },
+  {
+    "headword": "qen ]ounou",
+    "copticWord": "ϧⲉⲛ ϯⲟⲩⲛⲟⲩ",
+    "englishTransliteration": "khen tiounou",
+    "partOfSpeech": "adv",
+    "gloss": "same as n]ou-nou",
+    "definition": "same as n]ou-nou"
+  },
+  {
+    "headword": "ouesci",
+    "copticWord": "ⲟⲩⲉϣⲥⲓ",
+    "englishTransliteration": "oueshsi",
+    "gloss": "Breadth",
+    "definition": "Breadth",
+    "crossReference": {
+      "target": "ouwsc",
+      "gloss": "Breadth"
+    }
+  },
+  {
+    "headword": "oueh",
+    "copticWord": "ⲟⲩⲉϩ",
+    "englishTransliteration": "oueh",
+    "gloss": "To add to",
+    "definition": "To add to",
+    "crossReference": {
+      "target": "ouwh",
+      "gloss": "To add to"
+    }
+  },
+  {
+    "headword": "proc ouounou",
+    "copticWord": "ⲡⲣⲟⲥ ⲟⲩⲟⲩⲛⲟⲩ",
+    "englishTransliteration": "pros ouounou",
+    "gloss": "For an hour",
+    "definition": "For an hour"
+  },
+  {
+    "headword": "ref",
+    "copticWord": "ⲣⲉϥ",
+    "englishTransliteration": "ref",
+    "variants": [
+      {
+        "word": "a ounou",
+        "copticWord": "ⲁ ⲟⲩⲛⲟⲩ",
+        "englishTransliteration": "a ounou"
+      }
+    ],
+    "gloss": "Astrologer, caster of horoscopes",
+    "definition": "Astrologer, caster of horoscopes"
+  },
+  {
+    "headword": "ouehem",
+    "copticWord": "ⲟⲩⲉϩⲉⲙ",
+    "englishTransliteration": "ouehem",
+    "gloss": "To repeat",
+    "definition": "To repeat",
+    "crossReference": {
+      "target": "ouwhem",
+      "gloss": "To repeat"
+    }
+  },
+  {
+    "headword": "ouej",
+    "copticWord": "ⲟⲩⲉϫ",
+    "englishTransliteration": "ouej",
+    "gloss": "To cut",
+    "definition": "To cut",
+    "crossReference": {
+      "target": "ouwj",
+      "gloss": "To cut"
+    }
+  },
+  {
+    "headword": "metref",
+    "copticWord": "ⲙⲉⲧⲣⲉϥ",
+    "englishTransliteration": "metref",
+    "variants": [
+      {
+        "word": "a ounou",
+        "copticWord": "ⲁ ⲟⲩⲛⲟⲩ",
+        "englishTransliteration": "a ounou"
+      }
+    ],
+    "partOfSpeech": "f",
+    "gloss": "Diviner's art",
+    "definition": "Diviner's art"
+  },
+  {
+    "headword": "ouejp",
+    "copticWord": "ⲟⲩⲉϫⲡ",
+    "englishTransliteration": "ouejp",
+    "gloss": "To break",
+    "definition": "To break",
+    "crossReference": {
+      "target": "ouwjp",
+      "gloss": "To break"
+    }
+  },
+  {
+    "headword": "ouejro",
+    "copticWord": "ⲟⲩⲉϫⲣⲟ",
+    "englishTransliteration": "ouejro",
+    "gloss": "Door post",
+    "definition": "Door post",
+    "crossReference": {
+      "target": "ouoji",
+      "gloss": "Door post"
+    }
+  },
+  {
+    "headword": "ouejrwou",
+    "copticWord": "ⲟⲩⲉϫⲣⲱⲟⲩ",
+    "englishTransliteration": "ouejrōou",
+    "gloss": "Door posts",
+    "definition": "Door posts",
+    "crossReference": {
+      "target": "ouoji",
+      "gloss": "Door posts"
+    }
+  },
+  {
+    "headword": "ouejouwj=",
+    "copticWord": "ⲟⲩⲉϫⲟⲩⲱϫ",
+    "englishTransliteration": "ouejouōj",
+    "gloss": "To chew",
+    "definition": "To chew",
+    "crossReference": {
+      "target": "ouojouej",
+      "gloss": "To chew"
+    }
+  },
+  {
+    "headword": "ounwou]",
+    "copticWord": "ⲟⲩⲛⲱⲟⲩϯ",
+    "englishTransliteration": "ounōouti",
+    "gloss": "Swaddling bands",
+    "definition": "Swaddling bands",
+    "crossReference": {
+      "target": "nwou]",
+      "gloss": "Swaddling bands"
+    }
+  },
+  {
+    "headword": "ouoyb",
+    "copticWord": "ⲟⲩⲟⲑⲃ",
+    "englishTransliteration": "ouothv",
+    "gloss": "To remove",
+    "definition": "To remove",
+    "crossReference": {
+      "target": "ouwteb",
+      "gloss": "To remove"
+    }
+  },
+  {
+    "headword": "ouoyn=",
+    "copticWord": "ⲟⲩⲟⲑⲛ",
+    "englishTransliteration": "ouothn",
+    "gloss": "To remove",
+    "definition": "To remove",
+    "crossReference": {
+      "target": "ouwten",
+      "gloss": "To remove"
+    }
+  },
+  {
+    "headword": "ouab - Priest ou/i",
+    "copticWord": "ⲟⲩⲁⲃ - Ⲡⲣⲓⲉϣⲧ ⲟⲩⲏⲓ",
+    "englishTransliteration": "ouav - Priesht ouii",
+    "reference": "471b",
+    "partOfSpeech": "adv",
+    "gloss": "Indeed, verily",
+    "definition": "Indeed, verily"
+  },
+  {
+    "headword": "je ou/i",
+    "copticWord": "ϫⲉ ⲟⲩⲏⲓ",
+    "englishTransliteration": "je ouii",
+    "gloss": "For",
+    "definition": "For"
+  },
+  {
+    "headword": "(1)ouoi",
+    "copticWord": "ⲟⲩⲟⲓ",
+    "englishTransliteration": "ouoi",
+    "variants": [
+      {
+        "word": "nouoi",
+        "copticWord": "ⲛⲟⲩⲟⲓ",
+        "englishTransliteration": "nouoi"
+      }
+    ],
+    "reference": "472a",
+    "partOfSpeech": "m",
+    "gloss": "Rush course, swift movement",
+    "definition": "Rush course, swift movement"
+  },
+  {
+    "headword": "]ouoi",
+    "copticWord": "ϯⲟⲩⲟⲓ",
+    "englishTransliteration": "tiouoi",
+    "partOfSpeech": "m",
+    "gloss": "Progress, impetuosity",
+    "definition": "Progress, impetuosity"
+  },
+  {
+    "headword": "jin]ouoi",
+    "copticWord": "ϫⲓⲛϯⲟⲩⲟⲓ",
+    "englishTransliteration": "jintiouoi",
+    "partOfSpeech": "m",
+    "gloss": "on-rush, attak",
+    "definition": "on-rush, attak"
+  },
+  {
+    "headword": "ou/r",
+    "copticWord": "ⲟⲩⲏⲣ",
+    "englishTransliteration": "ouir",
+    "reference": "488b",
+    "gloss": "Interrog. pron",
+    "definition": "Interrog. pron"
+  },
+  {
+    "headword": "How great",
+    "copticWord": "Ϩⲟⲱ ⲅⲣⲉⲁⲧ",
+    "englishTransliteration": "Hoō great",
+    "variants": [
+      {
+        "word": "many",
+        "copticWord": "ⲙⲁⲛⲑ",
+        "englishTransliteration": "manth"
+      },
+      {
+        "word": "much? nou/r",
+        "copticWord": "ⲙⲩⲥϩⲎ ⲛⲟⲩⲏⲣ",
+        "englishTransliteration": "myshI nouir"
+      }
+    ],
+    "gloss": "By how much?",
+    "definition": "By how much?"
+  },
+  {
+    "headword": "]pouoi",
+    "copticWord": "ϯⲡⲟⲩⲟⲓ",
+    "englishTransliteration": "tipouoi",
+    "variants": [
+      {
+        "word": "mpouoi",
+        "copticWord": "ⲙⲡⲟⲩⲟⲓ",
+        "englishTransliteration": "mpouoi"
+      },
+      {
+        "word": "pekoui &c",
+        "copticWord": "ⲡⲉⲕⲟⲩⲓ &ⲥ",
+        "englishTransliteration": "pekoui &s"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To go forward",
+    "definition": "To go forward"
+  },
+  {
+    "headword": "aou/r",
+    "copticWord": "ⲁⲟⲩⲏⲣ",
+    "englishTransliteration": "aouir",
+    "variants": [
+      {
+        "word": "au/r",
+        "copticWord": "ⲁⲩⲏⲣ",
+        "englishTransliteration": "avir"
+      }
+    ],
+    "gloss": "About (circa)",
+    "definition": "About (circa)"
+  },
+  {
+    "headword": "epau/r",
+    "copticWord": "ⲉⲡⲁⲩⲏⲣ",
+    "englishTransliteration": "epavir",
+    "variants": [
+      {
+        "word": "epab/r",
+        "copticWord": "ⲉⲡⲁⲃⲏⲣ",
+        "englishTransliteration": "epavir"
+      }
+    ],
+    "gloss": "To what extent",
+    "definition": "To what extent"
+  },
+  {
+    "headword": "e",
+    "copticWord": "ⲉ",
+    "englishTransliteration": "e",
+    "partOfSpeech": "vb",
+    "gloss": "To advance toward",
+    "definition": "--- ebol qen: vb. To advance forth from;"
+  },
+  {
+    "headword": "ou/sci",
+    "copticWord": "ⲟⲩⲏϣⲥⲓ",
+    "englishTransliteration": "ouishsi",
+    "gloss": "Breadth",
+    "definition": "Breadth",
+    "crossReference": {
+      "target": "ouwsc",
+      "gloss": "Breadth"
+    }
+  },
+  {
+    "headword": "oui",
+    "copticWord": "ⲟⲩⲓ",
+    "englishTransliteration": "oui",
+    "gloss": "one (f)",
+    "definition": "one (f)",
+    "crossReference": {
+      "target": "ouai",
+      "gloss": "one (f)"
+    }
+  },
+  {
+    "headword": "(2)ouoi",
+    "copticWord": "ⲟⲩⲟⲓ",
+    "englishTransliteration": "ouoi",
+    "reference": "472b",
+    "gloss": "interj. Woe!",
+    "definition": "interj. Woe!"
+  },
+  {
+    "headword": "ouinam",
+    "copticWord": "ⲟⲩⲓⲛⲁⲙ",
+    "englishTransliteration": "ouinam",
+    "reference": "483b",
+    "partOfSpeech": "f",
+    "gloss": "Right hand",
+    "definition": "Right hand",
+    "senses": [
+      {
+        "label": "qen",
+        "gloss": "By, with right hand",
+        "definition": "By, with right hand"
+      }
+    ]
+  },
+  {
+    "headword": "nouinam",
+    "copticWord": "ⲛⲟⲩⲓⲛⲁⲙ",
+    "englishTransliteration": "nouinam",
+    "gloss": "Those on the right",
+    "definition": "--- e-: On right;"
+  },
+  {
+    "headword": "(3)ouoi",
+    "copticWord": "ⲟⲩⲟⲓ",
+    "englishTransliteration": "ouoi",
+    "reference": "473a",
+    "partOfSpeech": "m",
+    "gloss": "Husbandman, cultivator of field or vines, farmer",
+    "definition": "Husbandman, cultivator of field or vines, farmer"
+  },
+  {
+    "headword": "remouoi",
+    "copticWord": "ⲣⲉⲙⲟⲩⲟⲓ",
+    "englishTransliteration": "remouoi",
+    "partOfSpeech": "m",
+    "gloss": "Husbandman",
+    "definition": "Husbandman"
+  },
+  {
+    "headword": "ouici",
+    "copticWord": "ⲟⲩⲓⲥⲓ",
+    "englishTransliteration": "ouisi",
+    "variants": [
+      {
+        "word": "bici",
+        "copticWord": "ⲃⲓⲥⲓ",
+        "englishTransliteration": "visi"
+      },
+      {
+        "word": "ouac=",
+        "copticWord": "ⲟⲩⲁⲥ",
+        "englishTransliteration": "ouas"
+      },
+      {
+        "word": "bac",
+        "copticWord": "ⲃⲁⲥ",
+        "englishTransliteration": "vas"
+      }
+    ],
+    "reference": "492a",
+    "gloss": "vi. To saw",
+    "definition": "vi. To saw"
+  },
+  {
+    "headword": "ouoki",
+    "copticWord": "ⲟⲩⲟⲕⲓ",
+    "englishTransliteration": "ouoki",
+    "reference": "477a",
+    "partOfSpeech": "m",
+    "gloss": "Dregs of sesame (in oil-press)",
+    "definition": "Dregs of sesame (in oil-press)"
+  },
+  {
+    "headword": "ouom=",
+    "copticWord": "ⲟⲩⲟⲙ",
+    "englishTransliteration": "ouom",
+    "gloss": "To eat",
+    "definition": "To eat",
+    "crossReference": {
+      "target": "ouwm",
+      "gloss": "To eat"
+    }
+  }
+]

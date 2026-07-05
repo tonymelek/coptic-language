@@ -1,0 +1,324 @@
+[
+  {
+    "headword": "c",
+    "copticWord": "ⲥ",
+    "englishTransliteration": "s",
+    "reference": "313a",
+    "gloss": "The 18th letter of alphabet called cima",
+    "definition": "The 18th letter of alphabet called cima",
+    "senses": [
+      {
+        "label": "c",
+        "gloss": "The numeral '200'",
+        "definition": "The numeral '200'"
+      }
+    ]
+  },
+  {
+    "headword": "(1) ca",
+    "copticWord": "ⲥⲁ",
+    "englishTransliteration": "sa",
+    "reference": "313a",
+    "partOfSpeech": "m",
+    "gloss": "Side, part",
+    "definition": "Side, part",
+    "senses": [
+      {
+        "label": "(2)",
+        "gloss": "ca: (316a)",
+        "definition": "m., Man + gen. n-, man of, maker of, dealer in."
+      },
+      {
+        "label": "cabbaton",
+        "reference": "Gk",
+        "partOfSpeech": "m",
+        "gloss": "The Hebrew Sabath. cabe, f. cab/, pl. cabeu & sg as pl.: (319a)",
+        "definition": "m. Wise person; metcabe: f. Wisdom; ercabe: vb. To become, be wise; jinercabe: m. Becoming wise, instruction; ceb: m. Knowing, cunning person; metceb: f. Craftiness, guile; cboui: m. Disciple, pupil, apprentice; metcboui: f. State of pupilage; cbw, pl. cbwoui & sg as pl.: f. Doctrine, teaching; atcbw, metatcbw: adj. Without teaching, ignorant; ]cbw: vb. To teach, chastise; ref]cbw: m. Teacher; metref]cbw: f. Teaching; jin]cbw: m. Teaching; [icbw: vb. To get teaching; be taught; learn;",
+        "isGreek": true
+      },
+      {
+        "label": "cab/",
+        "gloss": "Wise person (f). cab/out v. tcabo - To be learned. ref[icbw: m. One taught",
+        "definition": "at[icbw: adj. Untaught; man[icbw: m. Learning place. cabeu v. cabe - Wise persons."
+      },
+      {
+        "label": "cabo",
+        "gloss": "To learn",
+        "definition": "To learn"
+      }
+    ]
+  },
+  {
+    "headword": "ebol ca",
+    "copticWord": "ⲉⲃⲟⲗ ⲥⲁ",
+    "englishTransliteration": "evol sa",
+    "gloss": "From the side, from",
+    "definition": "From the side, from"
+  },
+  {
+    "headword": "keca",
+    "copticWord": "ⲕⲉⲥⲁ",
+    "englishTransliteration": "kesa",
+    "gloss": "Other port, apart, elsewhere",
+    "definition": "Other port, apart, elsewhere"
+  },
+  {
+    "headword": "nca",
+    "copticWord": "ⲛⲥⲁ",
+    "englishTransliteration": "nsa",
+    "variants": [
+      {
+        "word": "ncw=",
+        "copticWord": "ⲛⲥⲱ",
+        "englishTransliteration": "nsō"
+      }
+    ],
+    "gloss": "prep. Against",
+    "definition": "prep. Against"
+  },
+  {
+    "headword": "caca niben",
+    "copticWord": "ⲥⲁⲥⲁ ⲛⲓⲃⲉⲛ",
+    "englishTransliteration": "sasa neeben",
+    "gloss": "On every side",
+    "definition": "On every side"
+  },
+  {
+    "headword": "caouca",
+    "copticWord": "ⲥⲁⲟⲩⲥⲁ",
+    "englishTransliteration": "saousa",
+    "variants": [
+      {
+        "word": "capca",
+        "copticWord": "ⲥⲁⲡⲥⲁ",
+        "englishTransliteration": "sapsa"
+      }
+    ],
+    "gloss": "On a side, apart",
+    "definition": "On a side, apart"
+  },
+  {
+    "headword": "hli nca",
+    "copticWord": "ϩⲗⲓ ⲛⲥⲁ",
+    "englishTransliteration": "hli nsa",
+    "gloss": "On any (no) side",
+    "definition": "On any (no) side"
+  },
+  {
+    "headword": "meneca",
+    "copticWord": "ⲙⲉⲛⲉⲥⲁ",
+    "englishTransliteration": "menesa",
+    "variants": [
+      {
+        "word": "menencw=",
+        "copticWord": "ⲙⲉⲛⲉⲛⲥⲱ",
+        "englishTransliteration": "menensō"
+      }
+    ],
+    "gloss": "prep. After (of time)",
+    "definition": "prep. After (of time)"
+  },
+  {
+    "headword": "menecwc",
+    "copticWord": "ⲙⲉⲛⲉⲥⲱⲥ",
+    "englishTransliteration": "menesōs",
+    "gloss": "Afterward",
+    "definition": "Afterward"
+  },
+  {
+    "headword": "cabo=",
+    "copticWord": "ⲥⲁⲃⲟ",
+    "englishTransliteration": "savo",
+    "gloss": "To learn",
+    "definition": "To learn",
+    "crossReference": {
+      "target": "tcabo",
+      "gloss": "To learn"
+    }
+  },
+  {
+    "headword": "cag/n/",
+    "copticWord": "ⲥⲁⲅⲏⲛⲏ",
+    "englishTransliteration": "sagini",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Large drag-net, hunting net",
+    "definition": "Large drag-net, hunting net"
+  },
+  {
+    "headword": "cadanac",
+    "copticWord": "ⲥⲁⲇⲁⲛⲁⲥ",
+    "englishTransliteration": "sadanas",
+    "gloss": "Satan",
+    "definition": "Satan",
+    "crossReference": {
+      "target": "catanac",
+      "gloss": "Satan"
+    }
+  },
+  {
+    "headword": "cayeri",
+    "copticWord": "ⲥⲁⲑⲉⲣⲓ",
+    "englishTransliteration": "satheri",
+    "reference": "366a",
+    "partOfSpeech": "f",
+    "gloss": "Unit of measure (corn & weight",
+    "definition": "Unit of measure (corn & weight"
+  },
+  {
+    "headword": "caymi",
+    "copticWord": "ⲥⲁⲑⲙⲓ",
+    "englishTransliteration": "sathmi",
+    "reference": "363a",
+    "gloss": "vi. To chew, ruminate",
+    "definition": "--- epswi: vb. To ruminate, bring up;"
+  },
+  {
+    "headword": "--- ejen",
+    "copticWord": "--- ⲉϫⲉⲛ",
+    "englishTransliteration": "--- ejen",
+    "partOfSpeech": "vb",
+    "gloss": "To chew upon (food)",
+    "definition": "---: m. Cud."
+  },
+  {
+    "headword": "cai",
+    "copticWord": "ⲥⲁⲓ",
+    "englishTransliteration": "sai",
+    "variants": [
+      {
+        "word": "caiwou",
+        "note": "Q",
+        "copticWord": "ⲥⲁⲓⲱⲟⲩ",
+        "englishTransliteration": "saiōou"
+      },
+      {
+        "word": "caie",
+        "note": "Q",
+        "copticWord": "ⲥⲁⲓⲉ",
+        "englishTransliteration": "saie"
+      }
+    ],
+    "reference": "315a",
+    "gloss": "vi. To be beautiful",
+    "definition": "vi. To be beautiful"
+  },
+  {
+    "headword": "caie",
+    "copticWord": "ⲥⲁⲓⲉ",
+    "englishTransliteration": "saie",
+    "variants": [
+      {
+        "word": "cai",
+        "copticWord": "ⲥⲁⲓ",
+        "englishTransliteration": "sai"
+      },
+      {
+        "type": "pl.",
+        "word": "caiwou & sg as pl",
+        "copticWord": "ⲥⲁⲓⲱⲟⲩ & ϣⲅ ⲁϣ ⲡⲗ",
+        "englishTransliteration": "saiōou & shg ash pl"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "Beauty",
+    "definition": "Beauty"
+  },
+  {
+    "headword": "metcaie",
+    "copticWord": "ⲙⲉⲧⲥⲁⲓⲉ",
+    "englishTransliteration": "metsaie",
+    "partOfSpeech": "f",
+    "gloss": "Beauty",
+    "definition": "Beauty"
+  },
+  {
+    "headword": "ercaie",
+    "copticWord": "ⲉⲣⲥⲁⲓⲉ",
+    "englishTransliteration": "ersaie",
+    "variants": [
+      {
+        "word": "oi ncaie",
+        "copticWord": "ⲟⲓ ⲛⲥⲁⲓⲉ",
+        "englishTransliteration": "oi nsaie"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To become, be beautiful",
+    "definition": "] mpcai: vb. To beautify, become beautiful."
+  },
+  {
+    "headword": "cai/",
+    "copticWord": "ⲥⲁⲓⲏ",
+    "englishTransliteration": "saii",
+    "gloss": "Beautiful person (f)",
+    "definition": "Beautiful person (f)",
+    "crossReference": {
+      "target": "cai",
+      "gloss": "Beautiful person (f)"
+    }
+  },
+  {
+    "headword": "caiwou",
+    "copticWord": "ⲥⲁⲓⲱⲟⲩ",
+    "englishTransliteration": "saiōou",
+    "gloss": "Beauties",
+    "definition": "Beauties",
+    "crossReference": {
+      "target": "cai",
+      "gloss": "Beauties"
+    }
+  },
+  {
+    "headword": "cak",
+    "copticWord": "ⲥⲁⲕ",
+    "englishTransliteration": "sak",
+    "reference": "324b",
+    "partOfSpeech": "m",
+    "gloss": "Adornment, appearance, capacity",
+    "definition": "Adornment, appearance, capacity",
+    "senses": [
+      {
+        "label": "]cak",
+        "partOfSpeech": "vb",
+        "gloss": "To make a show, give appearance",
+        "definition": "[icak: vb. To take opportunity, give occasion."
+      }
+    ]
+  },
+  {
+    "headword": "calpiggoc",
+    "copticWord": "ⲥⲁⲗⲡⲓⲅⲅⲟⲥ",
+    "englishTransliteration": "salpingos",
+    "gloss": "Trumpet",
+    "definition": "Trumpet",
+    "crossReference": {
+      "target": "calpigx",
+      "gloss": "Trumpet"
+    }
+  },
+  {
+    "headword": "calpigx",
+    "copticWord": "ⲥⲁⲗⲡⲓⲅⲝ",
+    "englishTransliteration": "salpigks",
+    "variants": [
+      {
+        "word": "calpiggoc",
+        "copticWord": "ⲥⲁⲗⲡⲓⲅⲅⲟⲥ",
+        "englishTransliteration": "salpingos"
+      }
+    ],
+    "partOfSpeech": "f",
+    "gloss": "Trumpet",
+    "definition": "Trumpet"
+  },
+  {
+    "headword": "ercalpizin",
+    "copticWord": "ⲉⲣⲥⲁⲗⲡⲓⲍⲓⲛ",
+    "englishTransliteration": "ersalpizin",
+    "partOfSpeech": "vb",
+    "gloss": "To blow the trumpet",
+    "definition": "To blow the trumpet"
+  }
+]

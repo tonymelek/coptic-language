@@ -1,0 +1,480 @@
+[
+  {
+    "headword": "coutwn",
+    "copticWord": "ⲥⲟⲩⲧⲱⲛ",
+    "englishTransliteration": "soutōn",
+    "gloss": "To be straight",
+    "definition": "To be straight",
+    "crossReference": {
+      "target": "coutwn",
+      "gloss": "To be straight"
+    }
+  },
+  {
+    "headword": "coutwn=",
+    "copticWord": "ⲥⲟⲩⲧⲱⲛ",
+    "englishTransliteration": "soutōn",
+    "gloss": "To be straight",
+    "definition": "To be straight",
+    "crossReference": {
+      "target": "coutwn",
+      "gloss": "To be straight"
+    }
+  },
+  {
+    "headword": "couwn",
+    "copticWord": "ⲥⲟⲩⲱⲛ",
+    "englishTransliteration": "souōn",
+    "gloss": "To know",
+    "definition": "To know",
+    "crossReference": {
+      "target": "cwoun",
+      "gloss": "To know"
+    }
+  },
+  {
+    "headword": "couwn=",
+    "copticWord": "ⲥⲟⲩⲱⲛ",
+    "englishTransliteration": "souōn",
+    "gloss": "To know",
+    "definition": "To know",
+    "crossReference": {
+      "target": "cwoun",
+      "gloss": "To know"
+    }
+  },
+  {
+    "headword": "covia",
+    "copticWord": "ⲥⲟⲫⲓⲁ",
+    "englishTransliteration": "sofia",
+    "gloss": "Wisdom",
+    "definition": "Wisdom",
+    "crossReference": {
+      "target": "covoc",
+      "gloss": "Wisdom"
+    }
+  },
+  {
+    "headword": "qa",
+    "copticWord": "ϧⲁ",
+    "englishTransliteration": "kha",
+    "partOfSpeech": "vb",
+    "gloss": "To take counsel against, about",
+    "definition": "To take counsel against, about",
+    "senses": [
+      {
+        "label": "atco[ni",
+        "partOfSpeech": "adj",
+        "gloss": "Without counsel",
+        "definition": "metatco[ni: f. State of being without counsel; ill-considered; refco[ni: m. Counsellor, advisor; iri, er co[ni: vb. To take counsel, make decision; [ico[ni: vb. To take counsel, reflect, advise; --: m. Counsel, design;"
+      },
+      {
+        "label": "]co[ni",
+        "partOfSpeech": "vb",
+        "gloss": "To give counsel",
+        "definition": "ref]co[ni: m. Counsellor."
+      },
+      {
+        "label": "cpatal/",
+        "reference": "Gk",
+        "partOfSpeech": "f",
+        "gloss": "Wantonness, luxury. cpeira v. cpira - Regiment",
+        "definition": "Wantonness, luxury. cpeira v. cpira - Regiment",
+        "isGreek": true
+      },
+      {
+        "label": "cpekolatwr",
+        "gloss": "Speculator",
+        "definition": "Speculator"
+      }
+    ]
+  },
+  {
+    "headword": "covoc",
+    "copticWord": "ⲥⲟⲫⲟⲥ",
+    "englishTransliteration": "sofos",
+    "variants": [
+      {
+        "word": "-ia",
+        "copticWord": "-ⲓⲁ",
+        "englishTransliteration": "-ia"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Wise",
+    "definition": "mf. wise man or woman"
+  },
+  {
+    "headword": "ercovoc",
+    "copticWord": "ⲉⲣⲥⲟⲫⲟⲥ",
+    "englishTransliteration": "ersofos",
+    "partOfSpeech": "vb",
+    "gloss": "To be wise",
+    "definition": "To be wise"
+  },
+  {
+    "headword": "covroc",
+    "copticWord": "ⲥⲟⲫⲣⲟⲥ",
+    "englishTransliteration": "sofros",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      }
+    ],
+    "reference": "Gk?",
+    "isGreek": true,
+    "senses": [
+      {
+        "label": "nem",
+        "partOfSpeech": "vb",
+        "gloss": "To dispute with",
+        "definition": "To dispute with"
+      },
+      {
+        "label": "ehr/i ejen",
+        "partOfSpeech": "vb",
+        "gloss": "To reprove for",
+        "definition": "--: m. Reproof, correction; refcohi: m. Reprover; jincohi: m. Reproval;"
+      }
+    ]
+  },
+  {
+    "headword": "adj. Pure",
+    "copticWord": "ⲁⲇϫ. Ⲡⲩⲣⲉ",
+    "englishTransliteration": "adj. Pyre",
+    "variants": [
+      {
+        "word": "clean. cof= v. cwf - To defile. cof (Q) v. cwf - To be defiled. cohi",
+        "copticWord": "ⲥⲗⲉⲁⲛ. ⲥⲟϥ ⲫ̅. ⲥⲱϥ - Ⲧⲟ ⲇⲉϥⲓⲗⲉ. ⲥⲟϥ (Ϧ) ⲫ. ⲥⲱϥ - Ⲧⲟ ⲃⲉ ⲇⲉϥⲓⲗⲉⲇ. ⲥⲟϩⲓ",
+        "englishTransliteration": "slean. sof f̅. sōf - To defile. sof (Kh) f. sōf - To ve defiled. sohi"
+      }
+    ],
+    "reference": "380b",
+    "gloss": "vi. To reprove, correct",
+    "definition": "vi. To reprove, correct"
+  },
+  {
+    "headword": "[icohi",
+    "copticWord": "ϭⲓⲥⲟϩⲓ",
+    "englishTransliteration": "chisohi",
+    "partOfSpeech": "vb",
+    "gloss": "To receive reproof",
+    "definition": "To receive reproof"
+  },
+  {
+    "headword": "coj",
+    "copticWord": "ⲥⲟϫ",
+    "englishTransliteration": "soj",
+    "variants": [
+      {
+        "word": "co[",
+        "copticWord": "ⲥⲟϭ",
+        "englishTransliteration": "soch"
+      }
+    ],
+    "reference": "388a",
+    "partOfSpeech": "m",
+    "gloss": "Fool",
+    "definition": "Fool"
+  },
+  {
+    "headword": "cpekoulatwr",
+    "copticWord": "ⲥⲡⲉⲕⲟⲩⲗⲁⲧⲱⲣ",
+    "englishTransliteration": "spekoulatōr",
+    "variants": [
+      {
+        "word": "-kolatwr",
+        "copticWord": "-ⲕⲟⲗⲁⲧⲱⲣ",
+        "englishTransliteration": "-kolatōr"
+      }
+    ],
+    "gloss": "(Lat.)",
+    "definition": "(of the Roman Imperial Army); Speculator, scout, executioner, member of the Imperial body guard"
+  },
+  {
+    "headword": "cperma",
+    "copticWord": "ⲥⲡⲉⲣⲙⲁ",
+    "englishTransliteration": "sperma",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Seed, race, descent, offspring",
+    "definition": "Seed, race, descent, offspring"
+  },
+  {
+    "headword": "cpermologoc",
+    "copticWord": "ⲥⲡⲉⲣⲙⲟⲗⲟⲅⲟⲥ",
+    "englishTransliteration": "spermologos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Pickinh up scraps, gossiping",
+    "definition": "an idle babbler"
+  },
+  {
+    "headword": "cp/laion",
+    "copticWord": "ⲥⲡⲏⲗⲁⲓⲟⲛ",
+    "englishTransliteration": "spilaion",
+    "variants": [
+      {
+        "word": "-leon",
+        "copticWord": "-ⲗⲉⲟⲛ",
+        "englishTransliteration": "-leon"
+      }
+    ],
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Grotto, cavern, cave",
+    "definition": "Grotto, cavern, cave"
+  },
+  {
+    "headword": "metcoj",
+    "copticWord": "ⲙⲉⲧⲥⲟϫ",
+    "englishTransliteration": "metsoj",
+    "partOfSpeech": "f",
+    "gloss": "Foolishness, folly",
+    "definition": "Foolishness, folly"
+  },
+  {
+    "headword": "ercoj",
+    "copticWord": "ⲉⲣⲥⲟϫ",
+    "englishTransliteration": "ersoj",
+    "gloss": "vi. To be made fool, be fool",
+    "definition": "vi. To be made fool, be fool"
+  },
+  {
+    "headword": "cp/leon",
+    "copticWord": "ⲥⲡⲏⲗⲉⲟⲛ",
+    "englishTransliteration": "spileon",
+    "gloss": "Cave",
+    "definition": "Cave",
+    "crossReference": {
+      "target": "cp/laion",
+      "gloss": "Cave"
+    }
+  },
+  {
+    "headword": "cp/rma",
+    "copticWord": "ⲥⲡⲏⲣⲙⲁ",
+    "englishTransliteration": "spirma",
+    "gloss": "Seed",
+    "definition": "Seed",
+    "crossReference": {
+      "target": "cperma",
+      "gloss": "Seed"
+    }
+  },
+  {
+    "headword": "cojen",
+    "copticWord": "ⲥⲟϫⲉⲛ",
+    "englishTransliteration": "sojen",
+    "reference": "388b",
+    "partOfSpeech": "m",
+    "gloss": "Ointment",
+    "definition": "Ointment"
+  },
+  {
+    "headword": "cpira",
+    "copticWord": "ⲥⲡⲓⲣⲁ",
+    "englishTransliteration": "spira",
+    "variants": [
+      {
+        "word": "cpeira",
+        "copticWord": "ⲥⲡⲉⲓⲣⲁ",
+        "englishTransliteration": "spira"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Tactical unit (of the Army)",
+    "definition": "regiment i.e. a group of soldiers"
+  },
+  {
+    "headword": "cplag",
+    "copticWord": "ⲥⲡⲗⲁⲅ",
+    "englishTransliteration": "splag",
+    "variants": [
+      {
+        "word": "non",
+        "copticWord": "ⲛⲟⲛ",
+        "englishTransliteration": "non"
+      }
+    ],
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "pl. Inward parts of the body, wombs, guts",
+    "definition": "pl. Inward parts of the body, wombs, guts"
+  },
+  {
+    "headword": "cojp=",
+    "copticWord": "ⲥⲟϫⲡ",
+    "englishTransliteration": "sojp",
+    "gloss": "To remain over",
+    "definition": "To remain over",
+    "crossReference": {
+      "target": "cwjp",
+      "gloss": "To remain over"
+    }
+  },
+  {
+    "headword": "co[",
+    "copticWord": "ⲥⲟϭ",
+    "englishTransliteration": "soch",
+    "gloss": "Fool",
+    "definition": "Fool",
+    "crossReference": {
+      "target": "coj",
+      "gloss": "Fool"
+    }
+  },
+  {
+    "headword": "co[ni",
+    "copticWord": "ⲥⲟϭⲛⲓ",
+    "englishTransliteration": "sochni",
+    "reference": "615b",
+    "gloss": "vi. To take counsel, consider",
+    "definition": "vi. To take counsel, consider"
+  },
+  {
+    "headword": "--- eybe",
+    "copticWord": "--- ⲉⲑⲃⲉ",
+    "englishTransliteration": "--- ethve",
+    "partOfSpeech": "vb",
+    "gloss": "To take counsel concerning",
+    "definition": "To take counsel concerning"
+  },
+  {
+    "headword": "ejen",
+    "copticWord": "ⲉϫⲉⲛ",
+    "englishTransliteration": "ejen",
+    "partOfSpeech": "vb",
+    "gloss": "To take counsel upon, about",
+    "definition": "To take counsel upon, about"
+  },
+  {
+    "headword": "nem",
+    "copticWord": "ⲛⲉⲙ",
+    "englishTransliteration": "nem",
+    "partOfSpeech": "vb",
+    "gloss": "To take counsel with",
+    "definition": "To take counsel with"
+  },
+  {
+    "headword": "cpla,non",
+    "copticWord": "ⲥⲡⲗⲁⲭⲛⲟⲛ",
+    "englishTransliteration": "splakhnon",
+    "gloss": "Wombs",
+    "definition": "Wombs",
+    "crossReference": {
+      "target": "cplag,non",
+      "gloss": "Wombs"
+    }
+  },
+  {
+    "headword": "cponduloc",
+    "copticWord": "ⲥⲡⲟⲛⲇⲩⲗⲟⲥ",
+    "englishTransliteration": "spondylos",
+    "variants": [
+      {
+        "word": "cvonduloc",
+        "copticWord": "ⲥⲫⲟⲛⲇⲩⲗⲟⲥ",
+        "englishTransliteration": "sfondylos"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "A type of wood",
+    "definition": "A type of wood"
+  },
+  {
+    "headword": "cpora",
+    "copticWord": "ⲥⲡⲟⲣⲁ",
+    "englishTransliteration": "spora",
+    "variants": [
+      {
+        "word": "cvora",
+        "copticWord": "ⲥⲫⲟⲣⲁ",
+        "englishTransliteration": "sfora"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "sowing",
+    "definition": "seed, offspring; fruit"
+  },
+  {
+    "headword": "cpoud/",
+    "copticWord": "ⲥⲡⲟⲩⲇⲏ",
+    "englishTransliteration": "spoudi",
+    "variants": [
+      {
+        "word": "-/c",
+        "copticWord": "-ⲏⲥ",
+        "englishTransliteration": "-is"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Haste, spped, zeal, effort, earnestness",
+    "definition": "Haste, spped, zeal, effort, earnestness"
+  },
+  {
+    "headword": "ncpoudeoc",
+    "copticWord": "ⲛⲥⲡⲟⲩⲇⲉⲟⲥ",
+    "englishTransliteration": "nspoudeos",
+    "partOfSpeech": "adv",
+    "gloss": "In haste, hastily, earnestly, attentively",
+    "definition": "In haste, hastily, earnestly, attentively"
+  },
+  {
+    "headword": "nca",
+    "copticWord": "ⲛⲥⲁ",
+    "englishTransliteration": "nsa",
+    "partOfSpeech": "vb",
+    "gloss": "To take counsel after, against",
+    "definition": "To take counsel after, against"
+  },
+  {
+    "headword": "cpoud/c",
+    "copticWord": "ⲥⲡⲟⲩⲇⲏⲥ",
+    "englishTransliteration": "spoudis",
+    "gloss": "Haste",
+    "definition": "Haste",
+    "crossReference": {
+      "target": "cpoud/",
+      "gloss": "Haste"
+    }
+  },
+  {
+    "headword": "crah",
+    "copticWord": "ⲥⲣⲁϩ",
+    "englishTransliteration": "srah",
+    "reference": "358a",
+    "partOfSpeech": "n",
+    "gloss": "Example, object of shame",
+    "definition": "Example, object of shame"
+  },
+  {
+    "headword": "ercrah",
+    "copticWord": "ⲉⲣⲥⲣⲁϩ",
+    "englishTransliteration": "ersrah",
+    "variants": [
+      {
+        "word": "oi ncrah",
+        "copticWord": "ⲟⲓ ⲛⲥⲣⲁϩ",
+        "englishTransliteration": "oi nsrah"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To display as example, to put to shame",
+    "definition": "To display as example, to put to shame"
+  }
+]

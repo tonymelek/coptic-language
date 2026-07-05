@@ -1,0 +1,554 @@
+[
+  {
+    "headword": "oi nlafchimi",
+    "copticWord": "ⲟⲓ ⲛⲗⲁϥⲥϩⲓⲙⲓ",
+    "englishTransliteration": "oi nlafshimi",
+    "partOfSpeech": "vb",
+    "gloss": "To be hungry, greedy",
+    "definition": "To be hungry, greedy"
+  },
+  {
+    "headword": "liboc",
+    "copticWord": "ⲗⲓⲃⲟⲥ",
+    "englishTransliteration": "leebos",
+    "variants": [
+      {
+        "word": "-bwc",
+        "copticWord": "-ⲃⲱⲥ",
+        "englishTransliteration": "-vōs"
+      }
+    ],
+    "reference": "137b",
+    "partOfSpeech": "m",
+    "gloss": "Colic",
+    "definition": "Colic"
+  },
+  {
+    "headword": "libwc",
+    "copticWord": "ⲗⲓⲃⲱⲥ",
+    "englishTransliteration": "leebōs",
+    "gloss": "Colic",
+    "definition": "Colic",
+    "crossReference": {
+      "target": "liboc",
+      "gloss": "Colic"
+    }
+  },
+  {
+    "headword": "liyogravion",
+    "copticWord": "ⲗⲓⲑⲟⲅⲣⲁⲫⲓⲟⲛ",
+    "englishTransliteration": "lithografion",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Engraving",
+    "definition": "Engraving",
+    "senses": [
+      {
+        "label": "liyogravoc",
+        "partOfSpeech": "m",
+        "gloss": "Engraver",
+        "definition": "metliyogravoc: f. Engraving."
+      }
+    ]
+  },
+  {
+    "headword": "loipon",
+    "copticWord": "ⲗⲟⲓⲡⲟⲛ",
+    "englishTransliteration": "loipon",
+    "variants": [
+      {
+        "word": "-oc",
+        "copticWord": "-ⲟⲥ",
+        "englishTransliteration": "-os"
+      },
+      {
+        "word": "l/pon",
+        "copticWord": "ⲗⲏⲡⲟⲛ",
+        "englishTransliteration": "lipon"
+      }
+    ],
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "prep. Hence forward, hereafter",
+    "definition": "prep. Hence forward, hereafter"
+  },
+  {
+    "headword": "adv. further",
+    "copticWord": "ⲁⲇⲫ. ϥⲩⲣⲧϩⲉⲣ",
+    "englishTransliteration": "adf. fyrther",
+    "variants": [
+      {
+        "word": "then",
+        "copticWord": "ⲧϩⲉⲛ",
+        "englishTransliteration": "then"
+      },
+      {
+        "word": "well then",
+        "copticWord": "ⲱⲉⲗⲗ ⲧϩⲉⲛ",
+        "englishTransliteration": "ōell then"
+      },
+      {
+        "word": "finally. lok",
+        "copticWord": "ϥⲓⲛⲁⲗⲗⲑ. ⲗⲟⲕ",
+        "englishTransliteration": "finallth. lok"
+      }
+    ],
+    "reference": "138a",
+    "partOfSpeech": "m",
+    "gloss": "Bowl, cup (as a measure)",
+    "definition": "Bowl, cup (as a measure)"
+  },
+  {
+    "headword": "splok",
+    "copticWord": "ϣⲡⲗⲟⲕ",
+    "englishTransliteration": "shplok",
+    "partOfSpeech": "m",
+    "gloss": "A measure containing a lok. loimoc: (Gk)",
+    "definition": "mf. Plague, pest;adj. pestilent."
+  },
+  {
+    "headword": "lol",
+    "copticWord": "ⲗⲟⲗ",
+    "englishTransliteration": "lol",
+    "reference": "141a",
+    "partOfSpeech": "m",
+    "gloss": "Bed, bench",
+    "definition": "Bed, bench"
+  },
+  {
+    "headword": "lom",
+    "copticWord": "ⲗⲟⲙ",
+    "englishTransliteration": "lom",
+    "variants": [
+      {
+        "word": "lwm",
+        "copticWord": "ⲗⲱⲙ",
+        "englishTransliteration": "lōm"
+      },
+      {
+        "word": "lwmi",
+        "copticWord": "ⲗⲱⲙⲓ",
+        "englishTransliteration": "lōmi"
+      },
+      {
+        "word": "lwimi",
+        "copticWord": "ⲗⲱⲓⲙⲓ",
+        "englishTransliteration": "lōimi"
+      }
+    ],
+    "reference": "142b",
+    "partOfSpeech": "m",
+    "gloss": "Morsel, bit",
+    "definition": "Morsel, bit"
+  },
+  {
+    "headword": "liyogravoc",
+    "copticWord": "ⲗⲓⲑⲟⲅⲣⲁⲫⲟⲥ",
+    "englishTransliteration": "lithografos",
+    "gloss": "Engraver",
+    "definition": "Engraver",
+    "crossReference": {
+      "target": "liyogravion",
+      "gloss": "Engraver"
+    }
+  },
+  {
+    "headword": "lomc (Q)",
+    "copticWord": "ⲗⲟⲙⲥ (Ϧ)",
+    "englishTransliteration": "loms (Kh)",
+    "reference": "143a",
+    "gloss": "vi. To be foul, stink",
+    "definition": "vi. To be foul, stink"
+  },
+  {
+    "headword": "lik",
+    "copticWord": "ⲗⲓⲕ",
+    "englishTransliteration": "lik",
+    "reference": "138a",
+    "partOfSpeech": "m",
+    "gloss": "Pot, jar",
+    "definition": "Pot, jar"
+  },
+  {
+    "headword": "lox=",
+    "copticWord": "ⲗⲟⲝ",
+    "englishTransliteration": "loks",
+    "gloss": "To bite",
+    "definition": "To bite",
+    "crossReference": {
+      "target": "loux",
+      "gloss": "To bite"
+    }
+  },
+  {
+    "headword": "lil",
+    "copticWord": "ⲗⲓⲗ",
+    "englishTransliteration": "lil",
+    "gloss": "- Bird",
+    "definition": "- Bird",
+    "crossReference": {
+      "target": "[aj",
+      "gloss": "- Bird"
+    }
+  },
+  {
+    "headword": "lim/n",
+    "copticWord": "ⲗⲓⲙⲏⲛ",
+    "englishTransliteration": "limin",
+    "variants": [
+      {
+        "word": "limn",
+        "copticWord": "ⲗⲓⲙⲛ",
+        "englishTransliteration": "limn"
+      }
+    ],
+    "reference": "143a",
+    "partOfSpeech": "m",
+    "gloss": "Portrait, image (painted)",
+    "definition": "Portrait, image (painted)"
+  },
+  {
+    "headword": "limn",
+    "copticWord": "ⲗⲓⲙⲛ",
+    "englishTransliteration": "limn",
+    "gloss": "Portrait",
+    "definition": "Portrait",
+    "crossReference": {
+      "target": "lim/n",
+      "gloss": "Portrait"
+    }
+  },
+  {
+    "headword": "limn/",
+    "copticWord": "ⲗⲓⲙⲛⲏ",
+    "englishTransliteration": "limni",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Pool of standing water, marshy lake, mere",
+    "definition": "lake."
+  },
+  {
+    "headword": "lix",
+    "copticWord": "ⲗⲓⲝ",
+    "englishTransliteration": "liks",
+    "reference": "140a",
+    "partOfSpeech": "m",
+    "gloss": "Veil, covering",
+    "definition": "Veil, covering"
+  },
+  {
+    "headword": "louk",
+    "copticWord": "ⲗⲟⲩⲕ",
+    "englishTransliteration": "louk",
+    "reference": "138b",
+    "partOfSpeech": "m",
+    "gloss": "Cheek or corner of mouth",
+    "definition": "Cheek or corner of mouth"
+  },
+  {
+    "headword": "louklak",
+    "copticWord": "ⲗⲟⲩⲕⲗⲁⲕ",
+    "englishTransliteration": "louklak",
+    "reference": "139a",
+    "partOfSpeech": "adj",
+    "gloss": "Bad, wicked",
+    "definition": "Bad, wicked"
+  },
+  {
+    "headword": "loukoji",
+    "copticWord": "ⲗⲟⲩⲕⲟϫⲓ",
+    "englishTransliteration": "loukoji",
+    "reference": "140b",
+    "gloss": "A coin 'solidus'",
+    "definition": "A coin 'solidus'"
+  },
+  {
+    "headword": "loulwou",
+    "copticWord": "ⲗⲟⲩⲗⲱⲟⲩ",
+    "englishTransliteration": "loulōou",
+    "gloss": "To be exalted",
+    "definition": "To be exalted",
+    "crossReference": {
+      "target": "hloulwou",
+      "gloss": "To be exalted"
+    }
+  },
+  {
+    "headword": "loux",
+    "copticWord": "ⲗⲟⲩⲝ",
+    "englishTransliteration": "louks",
+    "variants": [
+      {
+        "word": "lox=",
+        "copticWord": "ⲗⲟⲝ",
+        "englishTransliteration": "loks"
+      },
+      {
+        "word": "lox",
+        "note": "Q",
+        "copticWord": "ⲗⲟⲝ",
+        "englishTransliteration": "loks"
+      }
+    ],
+    "reference": "139b",
+    "gloss": "vi. To bite, pierce",
+    "definition": "vi. To bite, pierce"
+  },
+  {
+    "headword": "litania",
+    "copticWord": "ⲗⲓⲧⲁⲛⲓⲁ",
+    "englishTransliteration": "litania",
+    "variants": [
+      {
+        "word": "litaneia",
+        "copticWord": "ⲗⲓⲧⲁⲛⲉⲓⲁ",
+        "englishTransliteration": "litania"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Litany, entreaty, prayer, congregational supplication",
+    "definition": "Litany, entreaty, prayer, congregational supplication"
+  },
+  {
+    "headword": "erlitaneuin",
+    "copticWord": "ⲉⲣⲗⲓⲧⲁⲛⲉⲩⲓⲛ",
+    "englishTransliteration": "erlitanevin",
+    "partOfSpeech": "vb",
+    "gloss": "To accept, entreat",
+    "definition": "To accept, entreat"
+  },
+  {
+    "headword": "litourgia",
+    "copticWord": "ⲗⲓⲧⲟⲩⲣⲅⲓⲁ",
+    "englishTransliteration": "litourgia",
+    "gloss": "Liturgy",
+    "definition": "Liturgy",
+    "crossReference": {
+      "target": "leitourgia",
+      "gloss": "Liturgy"
+    }
+  },
+  {
+    "headword": "se nloux",
+    "copticWord": "ϣⲉ ⲛⲗⲟⲩⲝ",
+    "englishTransliteration": "she nlouks",
+    "partOfSpeech": "m",
+    "gloss": "Piercing wood, splinter",
+    "definition": "Piercing wood, splinter"
+  },
+  {
+    "headword": "litourgoc",
+    "copticWord": "ⲗⲓⲧⲟⲩⲣⲅⲟⲥ",
+    "englishTransliteration": "litourgos",
+    "gloss": "Minister",
+    "definition": "Minister",
+    "crossReference": {
+      "target": "leitourgia",
+      "gloss": "Minister"
+    }
+  },
+  {
+    "headword": "litra",
+    "copticWord": "ⲗⲓⲧⲣⲁ",
+    "englishTransliteration": "litra",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Pound (unit of weight)",
+    "definition": "Pound (unit of weight)"
+  },
+  {
+    "headword": "lout/r",
+    "copticWord": "ⲗⲟⲩⲧⲏⲣ",
+    "englishTransliteration": "loutir",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Washing or bathing-tub, laver",
+    "definition": "baptistery."
+  },
+  {
+    "headword": "liji",
+    "copticWord": "ⲗⲓϫⲓ",
+    "englishTransliteration": "leegi",
+    "reference": "150b",
+    "partOfSpeech": "n",
+    "gloss": "Bowl, dish",
+    "definition": "Bowl, dish"
+  },
+  {
+    "headword": "lobleb",
+    "copticWord": "ⲗⲟⲃⲗⲉⲃ",
+    "englishTransliteration": "lovlev",
+    "reference": "137b",
+    "gloss": "vi. To feel violent love",
+    "definition": "vi. To feel violent love"
+  },
+  {
+    "headword": "lobs=",
+    "copticWord": "ⲗⲟⲃϣ",
+    "englishTransliteration": "lovsh",
+    "gloss": "To glow",
+    "definition": "To glow",
+    "crossReference": {
+      "target": "(1)lwbs",
+      "gloss": "To glow"
+    }
+  },
+  {
+    "headword": "loflef",
+    "copticWord": "ⲗⲟϥⲗⲉϥ",
+    "englishTransliteration": "loflef",
+    "variants": [
+      {
+        "word": "leflwf=",
+        "copticWord": "ⲗⲉϥⲗⲱϥ",
+        "englishTransliteration": "leflōf"
+      },
+      {
+        "word": "leflwf",
+        "note": "Q",
+        "copticWord": "ⲗⲉϥⲗⲱϥ",
+        "englishTransliteration": "leflōf"
+      },
+      {
+        "word": "leflwft",
+        "note": "Q",
+        "copticWord": "ⲗⲉϥⲗⲱϥⲧ",
+        "englishTransliteration": "leflōft"
+      }
+    ],
+    "reference": "148b",
+    "gloss": "vi. To mortify, become rotten, perish",
+    "definition": "vt. to make rotten, destroy;"
+  },
+  {
+    "headword": "logikoc",
+    "copticWord": "ⲗⲟⲅⲓⲕⲟⲥ",
+    "englishTransliteration": "logikos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Intellectual, rational, in eloquence",
+    "definition": "Intellectual, rational, in eloquence"
+  },
+  {
+    "headword": "logion",
+    "copticWord": "ⲗⲟⲅⲓⲟⲛ",
+    "englishTransliteration": "logion",
+    "partOfSpeech": "m",
+    "gloss": "The oracular breastplate of the high priest or the bishop",
+    "definition": "The oracular breastplate of the high priest or the bishop"
+  },
+  {
+    "headword": "--- ebol",
+    "copticWord": "--- ⲉⲃⲟⲗ",
+    "englishTransliteration": "--- evol",
+    "gloss": "vi. Same meaning",
+    "definition": "vt. To destroy"
+  },
+  {
+    "headword": "leflifi",
+    "copticWord": "ⲗⲉϥⲗⲓϥⲓ",
+    "englishTransliteration": "leflifi",
+    "partOfSpeech": "f",
+    "gloss": "What drops off, fragment, crumb",
+    "definition": "What drops off, fragment, crumb"
+  },
+  {
+    "headword": "loj=",
+    "copticWord": "ⲗⲟϫ",
+    "englishTransliteration": "loj",
+    "reference": "152b",
+    "gloss": "vt. To hide, pilfer",
+    "definition": "vt. To hide, pilfer"
+  },
+  {
+    "headword": "logicmoc",
+    "copticWord": "ⲗⲟⲅⲓⲥⲙⲟⲥ",
+    "englishTransliteration": "logismos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Reason, cofession, notion, argument, thought, attitude",
+    "definition": "Reason, cofession, notion, argument, thought, attitude"
+  },
+  {
+    "headword": "logoc",
+    "copticWord": "ⲗⲟⲅⲟⲥ",
+    "englishTransliteration": "logos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Word, debate, language, narrative",
+    "definition": "Logos."
+  },
+  {
+    "headword": "log",
+    "copticWord": "ⲗⲟⲅ",
+    "englishTransliteration": "log",
+    "variants": [
+      {
+        "word": "/",
+        "copticWord": "ⲏ",
+        "englishTransliteration": "i"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Spear, lance, javelin",
+    "definition": "Spear, lance, javelin"
+  },
+  {
+    "headword": "lojlej",
+    "copticWord": "ⲗⲟϫⲗⲉϫ",
+    "englishTransliteration": "lojlej",
+    "reference": "150b",
+    "gloss": "vi. To languish, be sickly",
+    "definition": "vi. To languish, be sickly"
+  },
+  {
+    "headword": "lajlej",
+    "copticWord": "ⲗⲁϫⲗⲉϫ",
+    "englishTransliteration": "lajlej",
+    "partOfSpeech": "n",
+    "gloss": "Sickness, humility",
+    "definition": "Sickness, humility"
+  },
+  {
+    "headword": "lojh=",
+    "copticWord": "ⲗⲟϫϩ",
+    "englishTransliteration": "lojh",
+    "gloss": "To crush",
+    "definition": "To crush",
+    "crossReference": {
+      "target": "lwjh",
+      "gloss": "To crush"
+    }
+  },
+  {
+    "headword": "lura",
+    "copticWord": "ⲗⲩⲣⲁ",
+    "englishTransliteration": "lyra",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Lyre, a musical instrument",
+    "definition": "Lyre, a musical instrument"
+  },
+  {
+    "headword": "lutra",
+    "copticWord": "ⲗⲩⲧⲣⲁ",
+    "englishTransliteration": "lytra",
+    "reference": "Gk?",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "gloss": "Pound or liter",
+    "definition": "Pound or liter"
+  }
+]

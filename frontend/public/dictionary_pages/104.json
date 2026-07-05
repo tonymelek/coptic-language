@@ -1,0 +1,353 @@
+[
+  {
+    "headword": "cwouhit/c",
+    "copticWord": "ⲥⲱⲟⲩϩⲓⲧⲏⲥ",
+    "englishTransliteration": "sōouhitis",
+    "gloss": "White of eye. cwouhi: (374a)",
+    "definition": "f. Egg",
+    "crossReference": {
+      "target": "cwouhi",
+      "gloss": "White of eye. cwouhi: (374a)"
+    }
+  },
+  {
+    "headword": "cwouhi nkoumari",
+    "copticWord": "ⲥⲱⲟⲩϩⲓ ⲛⲕⲟⲩⲙⲁⲣⲓ",
+    "englishTransliteration": "sōouhi nkoumari",
+    "partOfSpeech": "m",
+    "gloss": "Garden eggplant",
+    "definition": "crown of head."
+  },
+  {
+    "headword": "(1) cwp",
+    "copticWord": "ⲥⲱⲡ",
+    "englishTransliteration": "sōp",
+    "variants": [
+      {
+        "word": "cwb",
+        "copticWord": "ⲥⲱⲃ",
+        "englishTransliteration": "sōv"
+      },
+      {
+        "word": "cep",
+        "copticWord": "ⲥⲉⲡ",
+        "englishTransliteration": "sep"
+      },
+      {
+        "word": "ceb",
+        "copticWord": "ⲥⲉⲃ",
+        "englishTransliteration": "sev"
+      },
+      {
+        "word": "cop=",
+        "copticWord": "ⲥⲟⲡ",
+        "englishTransliteration": "sop"
+      }
+    ],
+    "reference": "351a",
+    "gloss": "vi. To dip, soak",
+    "definition": "vi. To dip, soak",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "Dipped, moistened food",
+        "definition": "Dipped, moistened food"
+      }
+    ]
+  },
+  {
+    "headword": "refcwlj",
+    "copticWord": "ⲣⲉϥⲥⲱⲗϫ",
+    "englishTransliteration": "refsōlj",
+    "partOfSpeech": "m",
+    "gloss": "One who wipes out. cwni v. con - Sister. cwnk, cenk-, conk=: (344b)",
+    "definition": "vb. To suck."
+  },
+  {
+    "headword": "(1) cwnt",
+    "copticWord": "ⲥⲱⲛⲧ",
+    "englishTransliteration": "sōnt",
+    "variants": [
+      {
+        "word": "cent",
+        "copticWord": "ⲥⲉⲛⲧ",
+        "englishTransliteration": "sent"
+      },
+      {
+        "word": "cont=",
+        "copticWord": "ⲥⲟⲛⲧ",
+        "englishTransliteration": "sont"
+      }
+    ],
+    "reference": "345a",
+    "gloss": "vi. To be created, founded, created",
+    "definition": "vi. To be created, founded, created",
+    "senses": [
+      {
+        "partOfSpeech": "n",
+        "gloss": "Creature, creation",
+        "definition": "atcont=: adj. Uncreated; maicwnt: m. Loving offspring; refcwnt: m. Creator; ouahmcwnt: m. Re-creation; jincwnt: m. Creation; cen]: f. Foundation; ,w cen]: vb. To lay foundation;"
+      },
+      {
+        "label": "jin",
+        "partOfSpeech": "m",
+        "gloss": "Laying foundation",
+        "definition": "refhicen]: m. Founder."
+      }
+    ]
+  },
+  {
+    "headword": "(2) cwp",
+    "copticWord": "ⲥⲱⲡ",
+    "englishTransliteration": "sōp",
+    "reference": "351a",
+    "partOfSpeech": "m",
+    "gloss": "Kohl-stick for appling kohl to eyes",
+    "definition": "Kohl-stick for appling kohl to eyes"
+  },
+  {
+    "headword": "cwpi",
+    "copticWord": "ⲥⲱⲡⲓ",
+    "englishTransliteration": "sōpi",
+    "reference": "321b",
+    "senses": [
+      {
+        "label": "vi",
+        "gloss": "To scatter, spread",
+        "definition": "--: m. Distribution; e-: vb. To spread for, against; ehren-: vb. To scatter upon; nem-: vb. To scatter with, to upon; ebol ha-: vb. To dispel from; ebol: vb. To spread out, abroad, prepare."
+      }
+    ]
+  },
+  {
+    "headword": "f. Edge",
+    "copticWord": "ϥ. Ⲉⲇⲅⲉ",
+    "englishTransliteration": "f. Edge",
+    "variants": [
+      {
+        "word": "fringe (of garment). cwr",
+        "copticWord": "ϥⲣⲓⲛⲅⲉ (ⲟϥ ⲅⲁⲣⲙⲉⲛⲧ). ⲥⲱⲣ",
+        "englishTransliteration": "fringe (of garment). sōr"
+      },
+      {
+        "word": "cer",
+        "copticWord": "ⲥⲉⲣ",
+        "englishTransliteration": "ser"
+      },
+      {
+        "word": "cor",
+        "copticWord": "ⲥⲟⲣ",
+        "englishTransliteration": "sor"
+      },
+      {
+        "word": "cor=",
+        "copticWord": "ⲥⲟⲣ",
+        "englishTransliteration": "sor"
+      },
+      {
+        "word": "c/r",
+        "note": "Q",
+        "copticWord": "ⲥⲏⲣ",
+        "englishTransliteration": "sir"
+      }
+    ],
+    "reference": "353b"
+  },
+  {
+    "headword": "(2) cwnt",
+    "copticWord": "ⲥⲱⲛⲧ",
+    "englishTransliteration": "sōnt",
+    "reference": "346a",
+    "partOfSpeech": "m",
+    "gloss": "Custom, custom of women (i.e. menstruation)",
+    "definition": "Custom, custom of women (i.e. menstruation)"
+  },
+  {
+    "headword": "cwrem",
+    "copticWord": "ⲥⲱⲣⲉⲙ",
+    "englishTransliteration": "sōrem",
+    "variants": [
+      {
+        "word": "cerem",
+        "copticWord": "ⲥⲉⲣⲉⲙ",
+        "englishTransliteration": "serem"
+      },
+      {
+        "word": "corm=",
+        "copticWord": "ⲥⲟⲣⲙ",
+        "englishTransliteration": "sorm"
+      },
+      {
+        "word": "corem",
+        "note": "Q",
+        "copticWord": "ⲥⲟⲣⲉⲙ",
+        "englishTransliteration": "sorem"
+      }
+    ],
+    "reference": "355a",
+    "gloss": "vi. To go astray, err, be lost",
+    "definition": "lead astray, lose;",
+    "senses": [
+      {
+        "label": "hi",
+        "partOfSpeech": "vb",
+        "gloss": "To stray in",
+        "definition": "To stray in"
+      },
+      {
+        "label": "qen",
+        "gloss": "vi. To stray in, by reason of",
+        "definition": "vi. To stray in, by reason of"
+      },
+      {
+        "label": "hiten",
+        "partOfSpeech": "vb",
+        "gloss": "to go astray through",
+        "definition": "--- hijen: vb. To stray upon;"
+      },
+      {
+        "label": "ebol",
+        "gloss": "vi. To wander forth, about, be idle",
+        "definition": "vt. to mislead;"
+      },
+      {
+        "label": "ebol ha",
+        "gloss": "vi. To stray from",
+        "definition": "vi. To stray from"
+      },
+      {
+        "label": "ebol qen",
+        "gloss": "vt. To set astray from",
+        "definition": "vt. To set astray from"
+      },
+      {
+        "label": "ebol hiten",
+        "partOfSpeech": "vb",
+        "gloss": "To stray from, be means of",
+        "definition": "To stray from, be means of"
+      },
+      {
+        "label": "cabol n",
+        "partOfSpeech": "vb",
+        "gloss": "To send astray from",
+        "definition": "--: m. Error; mou ncwrem: m. Torrent; atcwrem: adj. Clear, unerring; refcwrem: m. One who leads astray; cerm/: n. Wanderer, vagrant; cormec: f. Error, wandering; crom: m. Unconsiousness."
+      }
+    ]
+  },
+  {
+    "headword": "cwnh",
+    "copticWord": "ⲥⲱⲛϩ",
+    "englishTransliteration": "sōnh",
+    "variants": [
+      {
+        "word": "cenh",
+        "copticWord": "ⲥⲉⲛϩ",
+        "englishTransliteration": "senh"
+      },
+      {
+        "word": "conh=",
+        "copticWord": "ⲥⲟⲛϩ",
+        "englishTransliteration": "sonh"
+      },
+      {
+        "word": "conh",
+        "note": "Q",
+        "copticWord": "ⲥⲟⲛϩ",
+        "englishTransliteration": "sonh"
+      }
+    ],
+    "reference": "348b",
+    "gloss": "vi. To be bound, fettered",
+    "definition": "vt. To bind; --- e-: vb. To bind to",
+    "senses": [
+      {
+        "label": "cnauh",
+        "partOfSpeech": "m",
+        "gloss": "Bond, fetter",
+        "definition": "Bond, fetter"
+      }
+    ]
+  },
+  {
+    "headword": "mancwnh",
+    "copticWord": "ⲙⲁⲛⲥⲱⲛϩ",
+    "englishTransliteration": "mansōnh",
+    "partOfSpeech": "m",
+    "gloss": "Place of binding, prison",
+    "definition": "Place of binding, prison"
+  },
+  {
+    "headword": "jincwnh",
+    "copticWord": "ϫⲓⲛⲥⲱⲛϩ",
+    "englishTransliteration": "jinsōnh",
+    "partOfSpeech": "m",
+    "gloss": "Binding",
+    "definition": "Binding"
+  },
+  {
+    "headword": "cwouben",
+    "copticWord": "ⲥⲱⲟⲩⲃⲉⲛ",
+    "englishTransliteration": "sōouven",
+    "reference": "369a",
+    "partOfSpeech": "m",
+    "gloss": "Grass",
+    "definition": "Grass"
+  },
+  {
+    "headword": "cwoun",
+    "copticWord": "ⲥⲱⲟⲩⲛ",
+    "englishTransliteration": "sōoun",
+    "variants": [
+      {
+        "word": "cwounou",
+        "copticWord": "ⲥⲱⲟⲩⲛⲟⲩ",
+        "englishTransliteration": "sōounou"
+      },
+      {
+        "word": "couwn",
+        "copticWord": "ⲥⲟⲩⲱⲛ",
+        "englishTransliteration": "souōn"
+      },
+      {
+        "word": "couen",
+        "copticWord": "ⲥⲟⲩⲉⲛ",
+        "englishTransliteration": "souen"
+      },
+      {
+        "word": "couwn=",
+        "copticWord": "ⲥⲟⲩⲱⲛ",
+        "englishTransliteration": "souōn"
+      }
+    ],
+    "reference": "369b",
+    "gloss": "vi. To know",
+    "definition": "---, couen-: m. Knowledge;",
+    "senses": [
+      {
+        "label": "cou/n",
+        "partOfSpeech": "adj",
+        "gloss": "Well known, famous person",
+        "definition": "Well known, famous person"
+      },
+      {
+        "label": "atcwoun",
+        "partOfSpeech": "adj",
+        "gloss": "Without knowledge",
+        "definition": "metatcwoun: f. Ignorance;"
+      },
+      {
+        "label": "remncwoun",
+        "partOfSpeech": "m",
+        "gloss": "One known, acquaintance",
+        "definition": "refcwoun: m. One who knows;"
+      }
+    ]
+  },
+  {
+    "headword": "jincouen",
+    "copticWord": "ϫⲓⲛⲥⲟⲩⲉⲛ",
+    "englishTransliteration": "jinsouen",
+    "partOfSpeech": "m",
+    "gloss": "Knowing, knowledge. cwounou v. cwoun - To know",
+    "definition": "Knowing, knowledge. cwounou v. cwoun - To know"
+  }
+]

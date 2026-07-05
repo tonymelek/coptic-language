@@ -1,0 +1,308 @@
+[
+  {
+    "headword": "mou]",
+    "copticWord": "ⲙⲟⲩϯ",
+    "englishTransliteration": "mouti",
+    "reference": "191b",
+    "gloss": "vi. To speak, call",
+    "definition": "vt. call, pronounce;",
+    "senses": [
+      {
+        "label": "ejen",
+        "partOfSpeech": "vb",
+        "gloss": "To call upon, cry to",
+        "definition": "To call upon, cry to"
+      },
+      {
+        "label": "oube",
+        "partOfSpeech": "vb",
+        "gloss": "To call upon, cry to",
+        "definition": "--- qajen-: vb. To call ahead, forward;"
+      },
+      {
+        "label": "ha",
+        "partOfSpeech": "vb",
+        "gloss": "To call to",
+        "definition": "To call to"
+      },
+      {
+        "label": "ebol",
+        "partOfSpeech": "vb",
+        "gloss": "To call out (from within)",
+        "definition": "To call out (from within)"
+      },
+      {
+        "label": "epec/t",
+        "partOfSpeech": "vb",
+        "gloss": "To call down (from above)",
+        "definition": "To call down (from above)"
+      },
+      {
+        "label": "eqoun",
+        "partOfSpeech": "vb",
+        "gloss": "To call to, cry upon",
+        "definition": "invite in; summon;"
+      },
+      {
+        "label": "eqr/i",
+        "partOfSpeech": "vb",
+        "gloss": "To call down (from above)",
+        "definition": "To call down (from above)"
+      },
+      {
+        "label": "jinmou]",
+        "partOfSpeech": "m",
+        "gloss": "Calling, naming",
+        "definition": "Calling, naming"
+      },
+      {
+        "label": "taiemou]",
+        "partOfSpeech": "vb",
+        "gloss": "To address word to, greet",
+        "definition": "n. greeting."
+      }
+    ]
+  },
+  {
+    "headword": "marmar",
+    "copticWord": "ⲙⲁⲣⲙⲁⲣ",
+    "englishTransliteration": "marmar",
+    "partOfSpeech": "n",
+    "gloss": "Bandage",
+    "definition": "Bandage"
+  },
+  {
+    "headword": "morc",
+    "copticWord": "ⲙⲟⲣⲥ",
+    "englishTransliteration": "mors",
+    "partOfSpeech": "f",
+    "gloss": "Bundle, girdle used as purse",
+    "definition": "Bundle, girdle used as purse"
+  },
+  {
+    "headword": "merqaq",
+    "copticWord": "ⲙⲉⲣϧⲁϧ",
+    "englishTransliteration": "merkhakh",
+    "gloss": "(new) n. Necktie",
+    "definition": "(new) n. Necktie"
+  },
+  {
+    "headword": "mouca",
+    "copticWord": "ⲙⲟⲩⲥⲁ",
+    "englishTransliteration": "mousa",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Music",
+    "definition": "Music"
+  },
+  {
+    "headword": "moucikoc",
+    "copticWord": "ⲙⲟⲩⲥⲓⲕⲟⲥ",
+    "englishTransliteration": "mousikos",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      }
+    ],
+    "partOfSpeech": "n",
+    "gloss": "Musical, musician",
+    "definition": "Musical, musician"
+  },
+  {
+    "headword": "mouceion",
+    "copticWord": "ⲙⲟⲩⲥⲉⲓⲟⲛ",
+    "englishTransliteration": "mousion",
+    "variants": [
+      {
+        "word": "mouzeoum",
+        "copticWord": "ⲙⲟⲩⲍⲉⲟⲩⲙ",
+        "englishTransliteration": "mouzeoum"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Museum",
+    "definition": "Museum"
+  },
+  {
+    "headword": "moucer",
+    "copticWord": "ⲙⲟⲩⲥⲉⲣ",
+    "englishTransliteration": "mouser",
+    "variants": [
+      {
+        "word": "mouc/r",
+        "copticWord": "ⲙⲟⲩⲥⲏⲣ",
+        "englishTransliteration": "mousir"
+      }
+    ],
+    "reference": "184b",
+    "partOfSpeech": "m",
+    "gloss": "Strap, band, belt, girdle",
+    "definition": "Strap, band, belt, girdle"
+  },
+  {
+    "headword": "mouc/r",
+    "copticWord": "ⲙⲟⲩⲥⲏⲣ",
+    "englishTransliteration": "mousir",
+    "gloss": "Strap",
+    "definition": "Strap",
+    "crossReference": {
+      "target": "moucer",
+      "gloss": "Strap"
+    }
+  },
+  {
+    "headword": "mo",
+    "copticWord": "ⲙⲟ",
+    "englishTransliteration": "mo",
+    "variants": [
+      {
+        "word": "loc",
+        "copticWord": "ⲗⲟⲥ",
+        "englishTransliteration": "los"
+      },
+      {
+        "word": "mo",
+        "copticWord": "ⲙⲟ",
+        "englishTransliteration": "mo"
+      },
+      {
+        "word": "louc",
+        "copticWord": "ⲗⲟⲩⲥ",
+        "englishTransliteration": "lous"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Bar, lever, crowbar, bar or bolt placed across gate i.e. lock",
+    "definition": "Bar, lever, crowbar, bar or bolt placed across gate i.e. lock"
+  },
+  {
+    "headword": "moucikon",
+    "copticWord": "ⲙⲟⲩⲥⲓⲕⲟⲛ",
+    "englishTransliteration": "mousikon",
+    "gloss": "Musical",
+    "definition": "Musical",
+    "crossReference": {
+      "target": "mouca",
+      "gloss": "Musical"
+    }
+  },
+  {
+    "headword": "mo,louc",
+    "copticWord": "ⲙⲟⲭⲗⲟⲩⲥ",
+    "englishTransliteration": "mokhlous",
+    "gloss": "Lever",
+    "definition": "Lever",
+    "crossReference": {
+      "target": "mo,loc",
+      "gloss": "Lever"
+    }
+  },
+  {
+    "headword": "mosi",
+    "copticWord": "ⲙⲟϣⲓ",
+    "englishTransliteration": "moshi",
+    "reference": "203b",
+    "gloss": "vi. To walk, go (on land or water)",
+    "definition": "be about to, proceed to;",
+    "senses": [
+      {
+        "partOfSpeech": "n",
+        "gloss": "going, pace, journey",
+        "definition": "--- e-: vb. To go to; ejen-: vb. To walk upon, go toward; nem-: vb. To walk, agree, consort with; nca-: vb. To go after, follow; --- camenh/: vb. To go after, follow; cavahou: vb. To go after, follow; hivahou: vb. To go after, folloe; --- sa-: vb. To go to; hi-: vb. To walk on, walk in; --- hivouei: vb. To spread abroad; --- qen-: vb. To go, walk in; qajen-: vb. To go before; hijen-: vb. To go upon; ebol: vb. To go forth; jinmosi ebol: m. Going forth; epswi: vb To go up; ey/: vb. To go forward; eqoun: vb. To go in, approach; hay/: vb. To go before; hiy/: vb. To go before; aymosi: adj. Pathless; mammosi: m. Place of walking, path; epswi: m. Path upward; eqoun: m. Path inward; hijen: m. Path upon;"
+      }
+    ]
+  },
+  {
+    "headword": "mout",
+    "copticWord": "ⲙⲟⲩⲧ",
+    "englishTransliteration": "mout",
+    "reference": "189a",
+    "partOfSpeech": "m",
+    "gloss": "Sinew, nerve",
+    "definition": "pl. joints; sg. neck, throat"
+  },
+  {
+    "headword": "moust",
+    "copticWord": "ⲙⲟⲩϣⲧ",
+    "englishTransliteration": "mousht",
+    "variants": [
+      {
+        "word": "mest",
+        "copticWord": "ⲙⲉϣⲧ",
+        "englishTransliteration": "mesht"
+      },
+      {
+        "word": "mast",
+        "copticWord": "ⲙⲁϣⲧ",
+        "englishTransliteration": "masht"
+      },
+      {
+        "word": "most=",
+        "copticWord": "ⲙⲟϣⲧ",
+        "englishTransliteration": "mosht"
+      }
+    ],
+    "reference": "206b",
+    "gloss": "vt. To examine, search out, visit",
+    "definition": "rflx. examine self, reflect; consider, visit;",
+    "senses": [
+      {
+        "label": "ebol",
+        "gloss": "vb rflx. To consider, ponder",
+        "definition": "---: m. Consideration, opinion;"
+      },
+      {
+        "label": "metatmoust",
+        "partOfSpeech": "f",
+        "gloss": "Thoughtlessness",
+        "definition": "Thoughtlessness"
+      }
+    ]
+  },
+  {
+    "headword": "moujt",
+    "copticWord": "ⲙⲟⲩϫⲧ",
+    "englishTransliteration": "moujt",
+    "variants": [
+      {
+        "word": "mojt=",
+        "copticWord": "ⲙⲟϫⲧ",
+        "englishTransliteration": "mojt"
+      },
+      {
+        "word": "(Q) mojt",
+        "copticWord": "(Ϧ) ⲙⲟϫⲧ",
+        "englishTransliteration": "(Kh) mojt"
+      }
+    ],
+    "reference": "214a",
+    "gloss": "vi. To be mixed",
+    "definition": "tr. mix;",
+    "senses": [
+      {
+        "label": "e",
+        "partOfSpeech": "vb",
+        "gloss": "To be mixed with",
+        "definition": "--: n. Mixture; metatmoujt: f. Unmixedness; jinmoujt: f. Mixture, intercource."
+      }
+    ]
+  },
+  {
+    "headword": "moujq",
+    "copticWord": "ⲙⲟⲩϫϧ",
+    "englishTransliteration": "moujkh",
+    "gloss": "Girdle",
+    "definition": "Girdle",
+    "crossReference": {
+      "target": "mojq",
+      "gloss": "Girdle"
+    }
+  }
+]

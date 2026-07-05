@@ -1,0 +1,307 @@
+[
+  {
+    "headword": "qarat= n",
+    "copticWord": "ϧⲁⲣⲁⲧ ⲛ̅",
+    "englishTransliteration": "kharat n̅",
+    "gloss": "vi. To reach, arrive at",
+    "definition": "vi. To reach, arrive at"
+  },
+  {
+    "headword": "ebol qen",
+    "copticWord": "ⲉⲃⲟⲗ ϧⲉⲛ",
+    "englishTransliteration": "evol khen",
+    "gloss": "vi. To flow out into",
+    "definition": "flow out from;"
+  },
+  {
+    "headword": "sa",
+    "copticWord": "ϣⲁ",
+    "englishTransliteration": "sha",
+    "gloss": "vi. To reach to",
+    "definition": "vi. To reach to"
+  },
+  {
+    "headword": "e",
+    "copticWord": "ⲉ",
+    "englishTransliteration": "e",
+    "gloss": "vt. To pour into",
+    "definition": "vt. To pour into"
+  },
+  {
+    "headword": "ebol",
+    "copticWord": "ⲉⲃⲟⲗ",
+    "englishTransliteration": "evol",
+    "gloss": "vi. To reach out",
+    "definition": "vi. To reach out"
+  },
+  {
+    "headword": "ven mwou ebol",
+    "copticWord": "ⲫⲉⲛ ⲙⲱⲟⲩ ⲉⲃⲟⲗ",
+    "englishTransliteration": "fen mōou evol",
+    "gloss": "vt. To pour out water",
+    "definition": "urinate;"
+  },
+  {
+    "headword": "ma nvoh",
+    "copticWord": "ⲙⲁ ⲛⲫⲟϩ",
+    "englishTransliteration": "ma nfoh",
+    "partOfSpeech": "m",
+    "gloss": "Goal",
+    "definition": "Goal"
+  },
+  {
+    "headword": "atven ebol",
+    "copticWord": "ⲁⲧⲫⲉⲛ ⲉⲃⲟⲗ",
+    "englishTransliteration": "atfen evol",
+    "partOfSpeech": "adj",
+    "gloss": "Without shedding",
+    "definition": "Without shedding"
+  },
+  {
+    "headword": "voji",
+    "copticWord": "ⲫⲟϫⲓ",
+    "englishTransliteration": "foji",
+    "gloss": "Fragment",
+    "definition": "Fragment",
+    "crossReference": {
+      "target": "(1)vwji",
+      "gloss": "Fragment"
+    }
+  },
+  {
+    "headword": "ebol ejen",
+    "copticWord": "ⲉⲃⲟⲗ ⲉϫⲉⲛ",
+    "englishTransliteration": "evol ejen",
+    "gloss": "vt. To pour out upon",
+    "definition": "vt. To pour out upon"
+  },
+  {
+    "headword": "vr/s",
+    "copticWord": "ⲫⲣⲏϣ",
+    "englishTransliteration": "frish",
+    "gloss": "Thing spread",
+    "definition": "Thing spread",
+    "crossReference": {
+      "target": "vwrs",
+      "gloss": "Thing spread"
+    }
+  },
+  {
+    "headword": "vrw",
+    "copticWord": "ⲫⲣⲱ",
+    "englishTransliteration": "frō",
+    "reference": "268a",
+    "partOfSpeech": "f",
+    "gloss": "Winter",
+    "definition": "Winter"
+  },
+  {
+    "headword": "ervrw",
+    "copticWord": "ⲉⲣⲫⲣⲱ",
+    "englishTransliteration": "erfrō",
+    "gloss": "vb To pass winter",
+    "definition": "vb To pass winter"
+  },
+  {
+    "headword": "vual/",
+    "copticWord": "ⲫⲩⲁⲗⲏ",
+    "englishTransliteration": "fyali",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Cup, bowl",
+    "definition": "Cup, bowl"
+  },
+  {
+    "headword": "vwnk",
+    "copticWord": "ⲫⲱⲛⲕ",
+    "englishTransliteration": "fōnk",
+    "variants": [
+      {
+        "word": "venk",
+        "copticWord": "ⲫⲉⲛⲕ",
+        "englishTransliteration": "fenk"
+      },
+      {
+        "word": "(Q) vonk",
+        "copticWord": "(Ϧ) ⲫⲟⲛⲕ",
+        "englishTransliteration": "(Kh) fonk"
+      }
+    ],
+    "reference": "265b",
+    "gloss": "vi",
+    "definition": "vi"
+  },
+  {
+    "headword": "vw=",
+    "copticWord": "ⲫⲱ",
+    "englishTransliteration": "fō",
+    "variants": [
+      {
+        "word": "yw=",
+        "copticWord": "ⲑⲱ",
+        "englishTransliteration": "thō"
+      },
+      {
+        "word": "nou=",
+        "copticWord": "ⲛⲟⲩ",
+        "englishTransliteration": "nou"
+      }
+    ],
+    "reference": "260b",
+    "gloss": "poss. pron. as n mine, his &c",
+    "definition": "poss. pron. as n mine, his &c"
+  },
+  {
+    "headword": "vwlh",
+    "copticWord": "ⲫⲱⲗϩ",
+    "englishTransliteration": "fōlh",
+    "variants": [
+      {
+        "word": "volh=",
+        "copticWord": "ⲫⲟⲗϩ",
+        "englishTransliteration": "folh"
+      }
+    ],
+    "reference": "261a",
+    "gloss": "vt. To wound",
+    "definition": "vi. To be wounded;",
+    "senses": [
+      {
+        "label": "e",
+        "gloss": "vi. To be wounded, offended by",
+        "definition": "--: m. Wound; jinvwlh: m. Change; volhf: m. Wounded person. vwlj, volj-, volj=: (261b); vt. To deliver, decide, settle an affair; voljro: vt. To expand mouse, yawn; --- nem: vi. To agree, come to terms with, settle;"
+      },
+      {
+        "label": "ebol",
+        "gloss": "vt. To reach conclusion, make an end",
+        "definition": "vt. To reach conclusion, make an end"
+      },
+      {
+        "label": "vi",
+        "gloss": "ebol ha: vi. To be freed from",
+        "definition": "--- ebol qen: vi. To be transferred, relieved from; vt. take off, take out; --: m. Ease, liberty. vwn, ven-, von=, (Q) v/n: (263a); To be poured, flow;"
+      },
+      {
+        "label": "ebol",
+        "gloss": "vi. To be poured out",
+        "definition": "vi. To be poured out"
+      },
+      {
+        "label": "ebol ejen",
+        "gloss": "vi. To flow out upon",
+        "definition": "vi. To flow out upon"
+      },
+      {
+        "label": "ebol hijen",
+        "gloss": "vi. To flow out upon",
+        "definition": "vi. To flow out upon"
+      }
+    ]
+  },
+  {
+    "headword": "To draw",
+    "copticWord": "Ⲧⲟ ⲇⲣⲁⲱ",
+    "englishTransliteration": "To draō",
+    "variants": [
+      {
+        "word": "empty out water; vt. To draw",
+        "copticWord": "ⲉⲙⲡⲧⲑ ⲟⲩⲧ ⲱⲁⲧⲉⲣⲑ ⲫⲧ. Ⲧⲟ ⲇⲣⲁⲱ",
+        "englishTransliteration": "emptth out ōaterth ft. To draō"
+      },
+      {
+        "word": "bail water; transfer",
+        "copticWord": "ⲃⲁⲓⲗ ⲱⲁⲧⲉⲣⲑ ⲧⲣⲁⲛϣϥⲉⲣ",
+        "englishTransliteration": "vail ōaterth transhfer"
+      },
+      {
+        "word": "carry; --- epswi",
+        "copticWord": "ⲥⲁⲣⲣⲑⲑ --- ⲉⲡϣⲱⲓ",
+        "englishTransliteration": "sarrthth --- epshōi"
+      }
+    ],
+    "gloss": "vi. To bring up",
+    "definition": "vi. To bring up"
+  },
+  {
+    "headword": "refvwnk",
+    "copticWord": "ⲣⲉϥⲫⲱⲛⲕ",
+    "englishTransliteration": "reffōnk",
+    "partOfSpeech": "m",
+    "gloss": "Sculptor",
+    "definition": "Sculptor"
+  },
+  {
+    "headword": "vwnh",
+    "copticWord": "ⲫⲱⲛϩ",
+    "englishTransliteration": "fōnh",
+    "variants": [
+      {
+        "word": "venh",
+        "copticWord": "ⲫⲉⲛϩ",
+        "englishTransliteration": "fenh"
+      },
+      {
+        "word": "vonh=",
+        "copticWord": "ⲫⲟⲛϩ",
+        "englishTransliteration": "fonh"
+      },
+      {
+        "word": "(Q) vonh",
+        "copticWord": "(Ϧ) ⲫⲟⲛϩ",
+        "englishTransliteration": "(Kh) fonh"
+      }
+    ],
+    "reference": "514b",
+    "gloss": "vi. To turn, be turned",
+    "definition": "--- e-: vi. To turn toward, to; --- ejen-: vi. To turn upon, toward; --- cabol n-: vi. To turn away from;",
+    "senses": [
+      {
+        "label": "qa",
+        "gloss": "vi, To turn from",
+        "definition": "vi, To turn from"
+      },
+      {
+        "label": "qen",
+        "gloss": "vi. To turn in",
+        "definition": "--- ebol qen: vi. To turn from; --- nqr/i qen: vi. To turn in;"
+      },
+      {
+        "label": "ebol ha",
+        "gloss": "vi. To turn from",
+        "definition": "--- hi: vi. To turn toward; --- hijen: vi. To turn upon; --- ebol: vi. To turn outward, away; --- evahou: vi. To turn backward; --- eqoun: vi. To turn into, toward; ---: m. Turning;"
+      },
+      {
+        "label": "atvwnh",
+        "partOfSpeech": "adj",
+        "gloss": "Unalterable",
+        "definition": "jinvwnh: m. Change, alteration; vonhc: n. Change."
+      }
+    ]
+  },
+  {
+    "headword": "vwnj",
+    "copticWord": "ⲫⲱⲛϫ",
+    "englishTransliteration": "fōnj",
+    "variants": [
+      {
+        "word": "venj",
+        "copticWord": "ⲫⲉⲛϫ",
+        "englishTransliteration": "fenj"
+      },
+      {
+        "word": "vonj=",
+        "copticWord": "ⲫⲟⲛϫ",
+        "englishTransliteration": "fonj"
+      },
+      {
+        "word": "(Q) vonj",
+        "copticWord": "(Ϧ) ⲫⲟⲛϫ",
+        "englishTransliteration": "(Kh) fonj"
+      }
+    ],
+    "reference": "515a",
+    "gloss": "vt. To overthrow, destroy",
+    "definition": "---: m. Overthrow, destruction."
+  }
+]

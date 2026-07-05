@@ -1,0 +1,557 @@
+[
+  {
+    "headword": "kamara",
+    "copticWord": "ⲕⲁⲙⲁⲣⲁ",
+    "englishTransliteration": "kamara",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Anything with an arched cover, covered carriage, vaulted chamber",
+    "definition": "Anything with an arched cover, covered carriage, vaulted chamber"
+  },
+  {
+    "headword": "kacb/t",
+    "copticWord": "ⲕⲁⲥⲃⲏⲧ",
+    "englishTransliteration": "kasvit",
+    "partOfSpeech": "n",
+    "gloss": "Rib-bones",
+    "definition": "Rib-bones"
+  },
+  {
+    "headword": "kacro",
+    "copticWord": "ⲕⲁⲥⲣⲟ",
+    "englishTransliteration": "kasro",
+    "partOfSpeech": "f",
+    "gloss": "Jaw-bone",
+    "definition": "---: m. Stone, pip (of fruit: grapes), gourd."
+  },
+  {
+    "headword": "kaminoc",
+    "copticWord": "ⲕⲁⲙⲓⲛⲟⲥ",
+    "englishTransliteration": "kaminos",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Oven, furnace, kiln",
+    "definition": "Oven, furnace, kiln"
+  },
+  {
+    "headword": "(2) kac",
+    "copticWord": "ⲕⲁⲥ",
+    "englishTransliteration": "kas",
+    "reference": "120a",
+    "partOfSpeech": "m",
+    "gloss": "Carat (a coin)",
+    "definition": "Carat (a coin)"
+  },
+  {
+    "headword": "kampi",
+    "copticWord": "ⲕⲁⲙⲡⲓ",
+    "englishTransliteration": "kampi",
+    "reference": "110b",
+    "partOfSpeech": "f",
+    "gloss": "Cricket, cockroach",
+    "definition": "sparrow, finch."
+  },
+  {
+    "headword": "(3) kac",
+    "copticWord": "ⲕⲁⲥ",
+    "englishTransliteration": "kas",
+    "reference": "Gk",
+    "partOfSpeech": "part",
+    "isGreek": true,
+    "gloss": "Even, so that",
+    "definition": "Even, so that"
+  },
+  {
+    "headword": "kan",
+    "copticWord": "ⲕⲁⲛ",
+    "englishTransliteration": "kan",
+    "reference": "Gk",
+    "partOfSpeech": "part",
+    "isGreek": true,
+    "gloss": "Even if, even",
+    "definition": "Even if, even"
+  },
+  {
+    "headword": "kacamon",
+    "copticWord": "ⲕⲁⲥⲁⲙⲟⲛ",
+    "englishTransliteration": "kasamon",
+    "variants": [
+      {
+        "word": "-wn",
+        "copticWord": "-ⲱⲛ",
+        "englishTransliteration": "-ōn"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Honey suckle",
+    "definition": "Honey suckle"
+  },
+  {
+    "headword": "kaneon",
+    "copticWord": "ⲕⲁⲛⲉⲟⲛ",
+    "englishTransliteration": "kaneon",
+    "variants": [
+      {
+        "word": "kanoun",
+        "copticWord": "ⲕⲁⲛⲟⲩⲛ",
+        "englishTransliteration": "kanoun"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Basket of reed or cane, bread basket",
+    "definition": "Basket of reed or cane, bread basket"
+  },
+  {
+    "headword": "kacia",
+    "copticWord": "ⲕⲁⲥⲓⲁ",
+    "englishTransliteration": "kasia",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Cassia, cinnamon",
+    "definition": "Cassia, cinnamon"
+  },
+  {
+    "headword": "kannabic",
+    "copticWord": "ⲕⲁⲛⲛⲁⲃⲓⲥ",
+    "englishTransliteration": "kannavis",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Hemp, cannabis sativa",
+    "definition": "Hemp, cannabis sativa"
+  },
+  {
+    "headword": "kackerat",
+    "copticWord": "ⲕⲁⲥⲕⲉⲣⲁⲧ",
+    "englishTransliteration": "kaskerat",
+    "gloss": "Half a carat",
+    "definition": "Half a carat",
+    "crossReference": {
+      "target": "kackeratice",
+      "gloss": "Half a carat"
+    }
+  },
+  {
+    "headword": "kanoun",
+    "copticWord": "ⲕⲁⲛⲟⲩⲛ",
+    "englishTransliteration": "kanoun",
+    "gloss": "Basket",
+    "definition": "Basket",
+    "crossReference": {
+      "target": "kaneon",
+      "gloss": "Basket"
+    }
+  },
+  {
+    "headword": "kackeratice",
+    "copticWord": "ⲕⲁⲥⲕⲉⲣⲁⲧⲓⲥⲉ",
+    "englishTransliteration": "kaskeratise",
+    "variants": [
+      {
+        "word": "-rat",
+        "copticWord": "-ⲣⲁⲧ",
+        "englishTransliteration": "-rat"
+      }
+    ],
+    "gloss": "(Copt-Gr?)",
+    "definition": "m. Half a carat (weight measure)."
+  },
+  {
+    "headword": "kanoufi",
+    "copticWord": "ⲕⲁⲛⲟⲩϥⲓ",
+    "englishTransliteration": "kanoufi",
+    "reference": "113a",
+    "partOfSpeech": "m",
+    "gloss": "A fish, babus, bynni",
+    "definition": "A fish, babus, bynni"
+  },
+  {
+    "headword": "kactanon",
+    "copticWord": "ⲕⲁⲥⲧⲁⲛⲟⲛ",
+    "englishTransliteration": "kastanon",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Sweet chestnuts",
+    "definition": "Sweet chestnuts"
+  },
+  {
+    "headword": "kanwn",
+    "copticWord": "ⲕⲁⲛⲱⲛ",
+    "englishTransliteration": "kanōn",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Rule, standard, scheme, model",
+    "definition": "Rule, standard, scheme, model"
+  },
+  {
+    "headword": "kactorioc",
+    "copticWord": "ⲕⲁⲥⲧⲟⲣⲓⲟⲥ",
+    "englishTransliteration": "kastorios",
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Of or belonging to castor",
+    "definition": "Of or belonging to castor"
+  },
+  {
+    "headword": "kactron",
+    "copticWord": "ⲕⲁⲥⲧⲣⲟⲛ",
+    "englishTransliteration": "kastron",
+    "gloss": "(lat)",
+    "definition": "m. A fortified palace, fort-ress."
+  },
+  {
+    "headword": "kap",
+    "copticWord": "ⲕⲁⲡ",
+    "englishTransliteration": "kap",
+    "reference": "113a",
+    "partOfSpeech": "m",
+    "gloss": "String of harp or similar instruments, thread, string, strand",
+    "definition": "String of harp or similar instruments, thread, string, strand"
+  },
+  {
+    "headword": "masi ntepikap",
+    "copticWord": "ⲙⲁϣⲓ ⲛⲧⲉⲡⲓⲕⲁⲡ",
+    "englishTransliteration": "mashi ntepikap",
+    "partOfSpeech": "m",
+    "gloss": "Plumb line",
+    "definition": "Plumb line"
+  },
+  {
+    "headword": "cankap",
+    "copticWord": "ⲥⲁⲛⲕⲁⲡ",
+    "englishTransliteration": "sankap",
+    "gloss": "Rope-maker, rope-seller",
+    "definition": "Rope-maker, rope-seller"
+  },
+  {
+    "headword": "kat",
+    "copticWord": "ⲕⲁⲧ",
+    "englishTransliteration": "kat",
+    "gloss": "Basket",
+    "definition": "Basket",
+    "crossReference": {
+      "target": "kw]",
+      "gloss": "Basket"
+    }
+  },
+  {
+    "headword": "kapnoc",
+    "copticWord": "ⲕⲁⲡⲛⲟⲥ",
+    "englishTransliteration": "kapnos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Smoke",
+    "definition": "Smoke"
+  },
+  {
+    "headword": "kapso",
+    "copticWord": "ⲕⲁⲡϣⲟ",
+    "englishTransliteration": "kapsho",
+    "gloss": "Sandy land",
+    "definition": "Sandy land",
+    "crossReference": {
+      "target": "kapsw",
+      "gloss": "Sandy land"
+    }
+  },
+  {
+    "headword": "kata",
+    "copticWord": "ⲕⲁⲧⲁ",
+    "englishTransliteration": "kata",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "prep. In accordance with, in answer to",
+    "definition": "prep. In accordance with, in answer to"
+  },
+  {
+    "headword": "kapsw",
+    "copticWord": "ⲕⲁⲡϣⲱ",
+    "englishTransliteration": "kapshō",
+    "variants": [
+      {
+        "word": "-so",
+        "copticWord": "-ϣⲟ",
+        "englishTransliteration": "-sho"
+      }
+    ],
+    "reference": "114b",
+    "partOfSpeech": "n",
+    "gloss": "Sand (waste) land",
+    "definition": "Sand (waste) land"
+  },
+  {
+    "headword": "katabacic",
+    "copticWord": "ⲕⲁⲧⲁⲃⲁⲥⲓⲥ",
+    "englishTransliteration": "katavasis",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Descent, steep ground, declivity",
+    "definition": "Descent, steep ground, declivity"
+  },
+  {
+    "headword": "karap/p",
+    "copticWord": "ⲕⲁⲣⲁⲡⲏⲡ",
+    "englishTransliteration": "karapip",
+    "variants": [
+      {
+        "word": "-pip",
+        "copticWord": "-ⲡⲓⲡ",
+        "englishTransliteration": "-pip"
+      }
+    ],
+    "reference": "117a",
+    "partOfSpeech": "m",
+    "gloss": "Hoopoe",
+    "definition": "Hoopoe"
+  },
+  {
+    "headword": "karapip",
+    "copticWord": "ⲕⲁⲣⲁⲡⲓⲡ",
+    "englishTransliteration": "karapip",
+    "gloss": "Hoopoe",
+    "definition": "Hoopoe",
+    "crossReference": {
+      "target": "karap/p",
+      "gloss": "Hoopoe"
+    }
+  },
+  {
+    "headword": "kataklucmoc",
+    "copticWord": "ⲕⲁⲧⲁⲕⲗⲩⲥⲙⲟⲥ",
+    "englishTransliteration": "kataklysmos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Flood, deluge, inundation",
+    "definition": "Flood, deluge, inundation"
+  },
+  {
+    "headword": "kardia",
+    "copticWord": "ⲕⲁⲣⲇⲓⲁ",
+    "englishTransliteration": "kardia",
+    "variants": [
+      {
+        "word": "-iac",
+        "copticWord": "-ⲓⲁⲥ",
+        "englishTransliteration": "-ias"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Heart, inclination, desire, mind",
+    "definition": "Heart, inclination, desire, mind"
+  },
+  {
+    "headword": "katakrima",
+    "copticWord": "ⲕⲁⲧⲁⲕⲣⲓⲙⲁ",
+    "englishTransliteration": "katakrima",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Condemnation, judgement, punishment, fine, damage",
+    "definition": "Condemnation, judgement, punishment, fine, damage"
+  },
+  {
+    "headword": "karyalloc",
+    "copticWord": "ⲕⲁⲣⲑⲁⲗⲗⲟⲥ",
+    "englishTransliteration": "karthallos",
+    "gloss": "Basket",
+    "definition": "Basket",
+    "crossReference": {
+      "target": "kartalloc",
+      "gloss": "Basket"
+    }
+  },
+  {
+    "headword": "katalalia",
+    "copticWord": "ⲕⲁⲧⲁⲗⲁⲗⲓⲁ",
+    "englishTransliteration": "katalalia",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Evil report, slander",
+    "definition": "Evil report, slander"
+  },
+  {
+    "headword": "kari",
+    "copticWord": "ⲕⲁⲣⲓ",
+    "englishTransliteration": "kari",
+    "reference": "115a",
+    "partOfSpeech": "f",
+    "gloss": "Gullet, belly",
+    "definition": "Gullet, belly"
+  },
+  {
+    "headword": "karoukion",
+    "copticWord": "ⲕⲁⲣⲟⲩⲕⲓⲟⲛ",
+    "englishTransliteration": "karoukion",
+    "gloss": "(lat)",
+    "definition": "m. Carriage."
+  },
+  {
+    "headword": "katameroc",
+    "copticWord": "ⲕⲁⲧⲁⲙⲉⲣⲟⲥ",
+    "englishTransliteration": "katameros",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Katameros, lection-ary in the Coptic Church",
+    "definition": "Katameros, lection-ary in the Coptic Church"
+  },
+  {
+    "headword": "karpoc",
+    "copticWord": "ⲕⲁⲣⲡⲟⲥ",
+    "englishTransliteration": "karpos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Fruit, seed, offspring, benefit",
+    "definition": "Fruit, seed, offspring, benefit"
+  },
+  {
+    "headword": "katanixic",
+    "copticWord": "ⲕⲁⲧⲁⲛⲓⲝⲓⲥ",
+    "englishTransliteration": "kataniksis",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Stupefaction, bewilderment",
+    "definition": "i.e. piety, godliness."
+  },
+  {
+    "headword": "kartalloc",
+    "copticWord": "ⲕⲁⲣⲧⲁⲗⲗⲟⲥ",
+    "englishTransliteration": "kartallos",
+    "variants": [
+      {
+        "word": "-aloc",
+        "copticWord": "-ⲁⲗⲟⲥ",
+        "englishTransliteration": "-alos"
+      },
+      {
+        "word": "karyalloc",
+        "copticWord": "ⲕⲁⲣⲑⲁⲗⲗⲟⲥ",
+        "englishTransliteration": "karthallos"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Basket with pointed bottom",
+    "definition": "Basket with pointed bottom"
+  },
+  {
+    "headword": "katantan",
+    "copticWord": "ⲕⲁⲧⲁⲛⲧⲁⲛ",
+    "englishTransliteration": "katantan",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "gloss": "To come down, arrive, come upon",
+    "definition": "To come down, arrive, come upon"
+  },
+  {
+    "headword": "katapetacma",
+    "copticWord": "ⲕⲁⲧⲁⲡⲉⲧⲁⲥⲙⲁ",
+    "englishTransliteration": "katapetasma",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Curtain, veil, esp. the veil of the temple",
+    "definition": "Curtain, veil, esp. the veil of the temple"
+  },
+  {
+    "headword": "table cover. kataponticmoc",
+    "copticWord": "ⲧⲁⲃⲗⲉ ⲥⲟⲫⲉⲣ. ⲕⲁⲧⲁⲡⲟⲛⲧⲓⲥⲙⲟⲥ",
+    "englishTransliteration": "tavle sofer. katapontismos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Drowning",
+    "definition": "Drowning"
+  },
+  {
+    "headword": "kartaloc",
+    "copticWord": "ⲕⲁⲣⲧⲁⲗⲟⲥ",
+    "englishTransliteration": "kartalos",
+    "gloss": "Basket. karouc: (117b)",
+    "definition": "n (adj). Curled (of hair). karj- v. kwrj - To break off. karjsai v. kwrj - Broken-nosed.",
+    "crossReference": {
+      "target": "kartalloc",
+      "gloss": "Basket. karouc: (117b)"
+    }
+  },
+  {
+    "headword": "(1) kac",
+    "copticWord": "ⲕⲁⲥ",
+    "englishTransliteration": "kas",
+    "reference": "119b",
+    "partOfSpeech": "m",
+    "gloss": "Bone",
+    "definition": "Bone"
+  },
+  {
+    "headword": "mer",
+    "copticWord": "ⲙⲉⲣ",
+    "englishTransliteration": "mer",
+    "variants": [
+      {
+        "word": "morkac",
+        "copticWord": "ⲙⲟⲣⲕⲁⲥ",
+        "englishTransliteration": "morkas"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "Bone setter",
+    "definition": "Bone setter"
+  },
+  {
+    "headword": "erkac",
+    "copticWord": "ⲉⲣⲕⲁⲥ",
+    "englishTransliteration": "erkas",
+    "partOfSpeech": "vb",
+    "gloss": "To become bone (through sickness)",
+    "definition": "To become bone (through sickness)"
+  },
+  {
+    "headword": "katarakt/c",
+    "copticWord": "ⲕⲁⲧⲁⲣⲁⲕⲧⲏⲥ",
+    "englishTransliteration": "kataraktis",
+    "variants": [
+      {
+        "word": "-rrakt/c",
+        "copticWord": "-ⲣⲣⲁⲕⲧⲏⲥ",
+        "englishTransliteration": "-rraktis"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Waterfall, cataract",
+    "definition": "Waterfall, cataract"
+  },
+  {
+    "headword": "katarrakt/c",
+    "copticWord": "ⲕⲁⲧⲁⲣⲣⲁⲕⲧⲏⲥ",
+    "englishTransliteration": "katarraktis",
+    "gloss": "Waterfall",
+    "definition": "Waterfall",
+    "crossReference": {
+      "target": "katarakt/c",
+      "gloss": "Waterfall"
+    }
+  }
+]

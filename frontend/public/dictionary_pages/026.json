@@ -1,0 +1,727 @@
+[
+  {
+    "headword": "emi",
+    "copticWord": "ⲉⲙⲓ",
+    "englishTransliteration": "emi",
+    "reference": "77b",
+    "gloss": "vi. To know, understand",
+    "definition": "vi. To know, understand",
+    "senses": [
+      {
+        "label": "atemi",
+        "partOfSpeech": "adj",
+        "gloss": "Ignorant, innocent --: m. Knowledge",
+        "definition": "Ignorant, innocent --: m. Knowledge"
+      }
+    ]
+  },
+  {
+    "headword": "eratemi",
+    "copticWord": "ⲉⲣⲁⲧⲉⲙⲓ",
+    "englishTransliteration": "eratemi",
+    "variants": [
+      {
+        "word": "oi natemi",
+        "copticWord": "ⲟⲓ ⲛⲁⲧⲉⲙⲓ",
+        "englishTransliteration": "oi natemi"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To be",
+    "definition": "To be"
+  },
+  {
+    "headword": "elbiji",
+    "copticWord": "ⲉⲗⲃⲓϫⲓ",
+    "englishTransliteration": "elveegi",
+    "reference": "54b",
+    "partOfSpeech": "m",
+    "gloss": "An implement of irrigation",
+    "definition": "central shaft of a water wheel or its circulating cable."
+  },
+  {
+    "headword": "eleon",
+    "copticWord": "ⲉⲗⲉⲟⲛ",
+    "englishTransliteration": "eleon",
+    "gloss": "Mercy",
+    "definition": "Mercy",
+    "crossReference": {
+      "target": "(1)eleoc",
+      "gloss": "Mercy"
+    }
+  },
+  {
+    "headword": "(1) eleoc",
+    "copticWord": "ⲉⲗⲉⲟⲥ",
+    "englishTransliteration": "eleos",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Pity, mercy, compassion",
+    "definition": "Pity, mercy, compassion"
+  },
+  {
+    "headword": "metatemi",
+    "copticWord": "ⲙⲉⲧⲁⲧⲉⲙⲓ",
+    "englishTransliteration": "metatemi",
+    "partOfSpeech": "f",
+    "gloss": "Ignorant, innocence",
+    "definition": "Ignorant, innocence"
+  },
+  {
+    "headword": "refemi",
+    "copticWord": "ⲣⲉϥⲉⲙⲓ",
+    "englishTransliteration": "refemi",
+    "partOfSpeech": "m",
+    "gloss": "One that knows",
+    "definition": "One that knows"
+  },
+  {
+    "headword": "(2) eleoc",
+    "copticWord": "ⲉⲗⲉⲟⲥ",
+    "englishTransliteration": "eleos",
+    "variants": [
+      {
+        "word": "elewc",
+        "copticWord": "ⲉⲗⲉⲱⲥ",
+        "englishTransliteration": "eleōs"
+      }
+    ],
+    "reference": "Gk?",
+    "isGreek": true,
+    "gloss": "Do not!",
+    "definition": "Do not!"
+  },
+  {
+    "headword": "emit",
+    "copticWord": "ⲉⲙⲓⲧ",
+    "englishTransliteration": "emit",
+    "gloss": "Celery",
+    "definition": "Celery",
+    "crossReference": {
+      "target": "mit",
+      "gloss": "Celery"
+    }
+  },
+  {
+    "headword": "emk",
+    "copticWord": "ⲉⲙⲕ",
+    "englishTransliteration": "emk",
+    "gloss": "To swallow",
+    "definition": "To swallow",
+    "crossReference": {
+      "target": "wmk",
+      "gloss": "To swallow"
+    }
+  },
+  {
+    "headword": "eleuyeria",
+    "copticWord": "ⲉⲗⲉⲩⲑⲉⲣⲓⲁ",
+    "englishTransliteration": "elevtheria",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Freedom, frankness, independence",
+    "definition": "Freedom, frankness, independence",
+    "senses": [
+      {
+        "label": "eleuyerioc",
+        "partOfSpeech": "m",
+        "gloss": "Freeman, liberal",
+        "definition": "Freeman, liberal"
+      }
+    ]
+  },
+  {
+    "headword": "emkah",
+    "copticWord": "ⲉⲙⲕⲁϩ",
+    "englishTransliteration": "emkah",
+    "gloss": "To be paiful",
+    "definition": "To be paiful",
+    "crossReference": {
+      "target": "mkah",
+      "gloss": "To be paiful"
+    }
+  },
+  {
+    "headword": "emlaq",
+    "copticWord": "ⲉⲙⲗⲁϧ",
+    "englishTransliteration": "emlakh",
+    "gloss": "To fight",
+    "definition": "To fight",
+    "crossReference": {
+      "target": "mlaq",
+      "gloss": "To fight"
+    }
+  },
+  {
+    "headword": "emmon",
+    "copticWord": "ⲉⲙⲙⲟⲛ",
+    "englishTransliteration": "emmon",
+    "gloss": "No",
+    "definition": "No",
+    "crossReference": {
+      "target": "mmon",
+      "gloss": "No"
+    }
+  },
+  {
+    "headword": "elevantinon",
+    "copticWord": "ⲉⲗⲉⲫⲁⲛⲧⲓⲛⲟⲛ",
+    "englishTransliteration": "elefantinon",
+    "gloss": "Ivory",
+    "definition": "Ivory",
+    "crossReference": {
+      "target": "elevantinoc",
+      "gloss": "Ivory"
+    }
+  },
+  {
+    "headword": "emnote",
+    "copticWord": "ⲉⲙⲛⲟⲧⲉ",
+    "englishTransliteration": "emnote",
+    "gloss": "Porter",
+    "definition": "Porter",
+    "crossReference": {
+      "target": "mnout",
+      "gloss": "Porter"
+    }
+  },
+  {
+    "headword": "elevantinoc",
+    "copticWord": "ⲉⲗⲉⲫⲁⲛⲧⲓⲛⲟⲥ",
+    "englishTransliteration": "elefantinos",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Ivory",
+    "definition": "Ivory"
+  },
+  {
+    "headword": "elewc",
+    "copticWord": "ⲉⲗⲉⲱⲥ",
+    "englishTransliteration": "eleōs",
+    "gloss": "Do not!",
+    "definition": "Do not!",
+    "crossReference": {
+      "target": "(2)eleoc",
+      "gloss": "Do not!"
+    }
+  },
+  {
+    "headword": "emno]",
+    "copticWord": "ⲉⲙⲛⲟϯ",
+    "englishTransliteration": "emnoti",
+    "gloss": "Breasts",
+    "definition": "Breasts",
+    "crossReference": {
+      "target": "mnot",
+      "gloss": "Breasts"
+    }
+  },
+  {
+    "headword": "emnout",
+    "copticWord": "ⲉⲙⲛⲟⲩⲧ",
+    "englishTransliteration": "emnout",
+    "gloss": "Porter",
+    "definition": "Porter",
+    "crossReference": {
+      "target": "mnout",
+      "gloss": "Porter"
+    }
+  },
+  {
+    "headword": "elko",
+    "copticWord": "ⲉⲗⲕⲟ",
+    "englishTransliteration": "elko",
+    "variants": [
+      {
+        "word": "elkou",
+        "copticWord": "ⲉⲗⲕⲟⲩ",
+        "englishTransliteration": "elkou"
+      },
+      {
+        "word": "alkou",
+        "copticWord": "ⲁⲗⲕⲟⲩ",
+        "englishTransliteration": "alkou"
+      }
+    ],
+    "reference": "54b",
+    "partOfSpeech": "m",
+    "gloss": "Fruit of sycamore",
+    "definition": "Fruit of sycamore"
+  },
+  {
+    "headword": "empsa",
+    "copticWord": "ⲉⲙⲡϣⲁ",
+    "englishTransliteration": "empsha",
+    "gloss": "To be worthy",
+    "definition": "To be worthy",
+    "crossReference": {
+      "target": "mpsa",
+      "gloss": "To be worthy"
+    }
+  },
+  {
+    "headword": "emrai",
+    "copticWord": "ⲉⲙⲣⲁⲓ",
+    "englishTransliteration": "emrai",
+    "gloss": "Seed of cereals",
+    "definition": "Seed of cereals",
+    "crossReference": {
+      "target": "mbrai",
+      "gloss": "Seed of cereals"
+    }
+  },
+  {
+    "headword": "elkc",
+    "copticWord": "ⲉⲗⲕⲥ",
+    "englishTransliteration": "elks",
+    "gloss": "Corner",
+    "definition": "Corner",
+    "crossReference": {
+      "target": "wlk",
+      "gloss": "Corner"
+    }
+  },
+  {
+    "headword": "emrwm",
+    "copticWord": "ⲉⲙⲣⲱⲙ",
+    "englishTransliteration": "emrōm",
+    "gloss": "Pillow",
+    "definition": "Pillow",
+    "crossReference": {
+      "target": "mrwm",
+      "gloss": "Pillow"
+    }
+  },
+  {
+    "headword": "elkou",
+    "copticWord": "ⲉⲗⲕⲟⲩ",
+    "englishTransliteration": "elkou",
+    "gloss": "Fruit of sycamore",
+    "definition": "Fruit of sycamore",
+    "crossReference": {
+      "target": "elko",
+      "gloss": "Fruit of sycamore"
+    }
+  },
+  {
+    "headword": "elksai",
+    "copticWord": "ⲉⲗⲕϣⲁⲓ",
+    "englishTransliteration": "elkshai",
+    "gloss": "Sneer",
+    "definition": "Sneer",
+    "crossReference": {
+      "target": "wlk",
+      "gloss": "Sneer"
+    }
+  },
+  {
+    "headword": "emc",
+    "copticWord": "ⲉⲙⲥ",
+    "englishTransliteration": "ems",
+    "gloss": "To dip",
+    "definition": "To dip",
+    "crossReference": {
+      "target": "wmc",
+      "gloss": "To dip"
+    }
+  },
+  {
+    "headword": "emci",
+    "copticWord": "ⲉⲙⲥⲓ",
+    "englishTransliteration": "emsi",
+    "gloss": "Immersion",
+    "definition": "Immersion",
+    "crossReference": {
+      "target": "wmc",
+      "gloss": "Immersion"
+    }
+  },
+  {
+    "headword": "ell/n",
+    "copticWord": "ⲉⲗⲗⲏⲛ",
+    "englishTransliteration": "ellin",
+    "variants": [
+      {
+        "word": "-/noc",
+        "copticWord": "-ⲏⲛⲟⲥ",
+        "englishTransliteration": "-inos"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "gloss": "Greek, heathen, the ancient name for ancient greece",
+    "definition": "Greek, heathen, the ancient name for ancient greece"
+  },
+  {
+    "headword": "emcobi",
+    "copticWord": "ⲉⲙⲥⲟⲃⲓ",
+    "englishTransliteration": "emsovi",
+    "variants": [
+      {
+        "word": "metcobi",
+        "copticWord": "ⲙⲉⲧⲥⲟⲃⲓ",
+        "englishTransliteration": "metsovi"
+      }
+    ],
+    "reference": "186b",
+    "partOfSpeech": "f",
+    "gloss": "Large needle",
+    "definition": "Large needle"
+  },
+  {
+    "headword": "emton",
+    "copticWord": "ⲉⲙⲧⲟⲛ",
+    "englishTransliteration": "emton",
+    "gloss": "To be at rest",
+    "definition": "To be at rest",
+    "crossReference": {
+      "target": "mton",
+      "gloss": "To be at rest"
+    }
+  },
+  {
+    "headword": "ell/noc",
+    "copticWord": "ⲉⲗⲗⲏⲛⲟⲥ",
+    "englishTransliteration": "ellinos",
+    "gloss": "Greek",
+    "definition": "Greek",
+    "crossReference": {
+      "target": "ell/n",
+      "gloss": "Greek"
+    }
+  },
+  {
+    "headword": "emwoui",
+    "copticWord": "ⲉⲙⲱⲟⲩⲓ",
+    "englishTransliteration": "emōoui",
+    "reference": "55b",
+    "partOfSpeech": "f",
+    "gloss": "Cat",
+    "definition": "Cat"
+  },
+  {
+    "headword": "ellogimoc",
+    "copticWord": "ⲉⲗⲗⲟⲅⲓⲙⲟⲥ",
+    "englishTransliteration": "ellogimos",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "gloss": "One held in account or regard, in high repute",
+    "definition": "eloquent person."
+  },
+  {
+    "headword": "elx",
+    "copticWord": "ⲉⲗⲝ",
+    "englishTransliteration": "elks",
+    "gloss": "Corner",
+    "definition": "Corner",
+    "crossReference": {
+      "target": "wlk",
+      "gloss": "Corner"
+    }
+  },
+  {
+    "headword": "elhem",
+    "copticWord": "ⲉⲗϩⲉⲙ",
+    "englishTransliteration": "elhem",
+    "reference": "150a",
+    "gloss": "vi. To roar (esp. of lions)",
+    "definition": "vi. To roar (esp. of lions)"
+  },
+  {
+    "headword": "jinelhem",
+    "copticWord": "ϫⲓⲛⲉⲗϩⲉⲙ",
+    "englishTransliteration": "jinelhem",
+    "partOfSpeech": "f",
+    "gloss": "Roaring",
+    "definition": "Roaring"
+  },
+  {
+    "headword": "emsir",
+    "copticWord": "ⲉⲙϣⲓⲣ",
+    "englishTransliteration": "emshir",
+    "gloss": "A Coptic month, 'amshir'",
+    "definition": "A Coptic month, 'amshir'",
+    "crossReference": {
+      "target": "(1)msir",
+      "gloss": "A Coptic month, 'amshir'"
+    }
+  },
+  {
+    "headword": "emsis",
+    "copticWord": "ⲉⲙϣⲓϣ",
+    "englishTransliteration": "emshish",
+    "gloss": "Vengeance",
+    "definition": "Vengeance",
+    "crossReference": {
+      "target": "msis",
+      "gloss": "Vengeance"
+    }
+  },
+  {
+    "headword": "emhau",
+    "copticWord": "ⲉⲙϩⲁⲩ",
+    "englishTransliteration": "emhav",
+    "gloss": "Tomb",
+    "definition": "Tomb",
+    "crossReference": {
+      "target": "mhau",
+      "gloss": "Tomb"
+    }
+  },
+  {
+    "headword": "elh/c",
+    "copticWord": "ⲉⲗϩⲏⲥ",
+    "englishTransliteration": "elhis",
+    "reference": "769b",
+    "gloss": "Exhaustion, panting",
+    "definition": "Exhaustion, panting"
+  },
+  {
+    "headword": "elhwb",
+    "copticWord": "ⲉⲗϩⲱⲃ",
+    "englishTransliteration": "elhōv",
+    "variants": [
+      {
+        "word": "elhwp",
+        "copticWord": "ⲉⲗϩⲱⲡ",
+        "englishTransliteration": "elhōp"
+      }
+    ],
+    "reference": "149b",
+    "gloss": "Steam vapor",
+    "definition": "Steam vapor"
+  },
+  {
+    "headword": "elhwp",
+    "copticWord": "ⲉⲗϩⲱⲡ",
+    "englishTransliteration": "elhōp",
+    "gloss": "Steam vapor",
+    "definition": "Steam vapor",
+    "crossReference": {
+      "target": "elhwb",
+      "gloss": "Steam vapor"
+    }
+  },
+  {
+    "headword": "eljwb",
+    "copticWord": "ⲉⲗϫⲱⲃ",
+    "englishTransliteration": "eljōv",
+    "reference": "55b",
+    "partOfSpeech": "m",
+    "gloss": "Heron",
+    "definition": "Heron"
+  },
+  {
+    "headword": "emasw",
+    "copticWord": "ⲉⲙⲁϣⲱ",
+    "englishTransliteration": "emashō",
+    "gloss": "Very",
+    "definition": "Very",
+    "crossReference": {
+      "target": "maso",
+      "gloss": "Very"
+    }
+  },
+  {
+    "headword": "embon",
+    "copticWord": "ⲉⲙⲃⲟⲛ",
+    "englishTransliteration": "emvon",
+    "gloss": "Wrath",
+    "definition": "Wrath",
+    "crossReference": {
+      "target": "mbon",
+      "gloss": "Wrath"
+    }
+  },
+  {
+    "headword": "embrehi",
+    "copticWord": "ⲉⲙⲃⲣⲉϩⲓ",
+    "englishTransliteration": "emvrehi",
+    "gloss": "Cart",
+    "definition": "Cart",
+    "crossReference": {
+      "target": "mbrehi",
+      "gloss": "Cart"
+    }
+  },
+  {
+    "headword": "embric",
+    "copticWord": "ⲉⲙⲃⲣⲓⲥ",
+    "englishTransliteration": "emvris",
+    "reference": "183a",
+    "partOfSpeech": "m",
+    "gloss": "New wine, must",
+    "definition": "New wine, must"
+  },
+  {
+    "headword": "emhit",
+    "copticWord": "ⲉⲙϩⲓⲧ",
+    "englishTransliteration": "emhit",
+    "reference": "212a",
+    "partOfSpeech": "m",
+    "gloss": "North",
+    "definition": "North"
+  },
+  {
+    "headword": "emjwl",
+    "copticWord": "ⲉⲙϫⲱⲗ",
+    "englishTransliteration": "emjōl",
+    "gloss": "Onion",
+    "definition": "Onion",
+    "crossReference": {
+      "target": "mjwl",
+      "gloss": "Onion"
+    }
+  },
+  {
+    "headword": "en",
+    "copticWord": "ⲉⲛ",
+    "englishTransliteration": "en",
+    "reference": "66b",
+    "partOfSpeech": "m",
+    "gloss": "Ape, monkey",
+    "definition": "Ape, monkey"
+  },
+  {
+    "headword": "en=",
+    "copticWord": "ⲉⲛ",
+    "englishTransliteration": "en",
+    "gloss": "To bring",
+    "definition": "To bring",
+    "crossReference": {
+      "target": "ini",
+      "gloss": "To bring"
+    }
+  },
+  {
+    "headword": "enage",
+    "copticWord": "ⲉⲛⲁⲅⲉ",
+    "englishTransliteration": "enage",
+    "gloss": "To urge on",
+    "definition": "To urge on",
+    "crossReference": {
+      "target": "enege",
+      "gloss": "To urge on"
+    }
+  },
+  {
+    "headword": "ene",
+    "copticWord": "ⲉⲛⲉ",
+    "englishTransliteration": "ene",
+    "reference": "56b",
+    "gloss": "vbal prfx. of unfulfilled condition",
+    "definition": "vbal prfx. of unfulfilled condition"
+  },
+  {
+    "headword": "embrw",
+    "copticWord": "ⲉⲙⲃⲣⲱ",
+    "englishTransliteration": "emvrō",
+    "reference": "183a",
+    "partOfSpeech": "f",
+    "gloss": "Harbor, landing stage on sea or river",
+    "definition": "Harbor, landing stage on sea or river"
+  },
+  {
+    "headword": "ement",
+    "copticWord": "ⲉⲙⲉⲛⲧ",
+    "englishTransliteration": "ement",
+    "reference": "56a",
+    "partOfSpeech": "m",
+    "gloss": "The west",
+    "definition": "The west"
+  },
+  {
+    "headword": "emyo",
+    "copticWord": "ⲉⲙⲑⲟ",
+    "englishTransliteration": "emtho",
+    "gloss": "Before",
+    "definition": "Before",
+    "crossReference": {
+      "target": "myo",
+      "gloss": "Before"
+    }
+  },
+  {
+    "headword": "emyw",
+    "copticWord": "ⲉⲙⲑⲱ",
+    "englishTransliteration": "emthō",
+    "reference": "193a",
+    "partOfSpeech": "f",
+    "gloss": "Shipwreck",
+    "definition": "Shipwreck"
+  },
+  {
+    "headword": "enege",
+    "copticWord": "ⲉⲛⲉⲅⲉ",
+    "englishTransliteration": "enege",
+    "variants": [
+      {
+        "word": "enage",
+        "copticWord": "ⲉⲛⲁⲅⲉ",
+        "englishTransliteration": "enage"
+      },
+      {
+        "word": "enige",
+        "copticWord": "ⲉⲛⲓⲅⲉ",
+        "englishTransliteration": "enige"
+      },
+      {
+        "word": "/nege",
+        "copticWord": "ⲏⲛⲉⲅⲉ",
+        "englishTransliteration": "inege"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "gloss": "To urge on, promote, accuse",
+    "definition": "To urge on, promote, accuse"
+  },
+  {
+    "headword": "energeia",
+    "copticWord": "ⲉⲛⲉⲣⲅⲉⲓⲁ",
+    "englishTransliteration": "energia",
+    "variants": [
+      {
+        "word": "-gia",
+        "copticWord": "-ⲅⲓⲁ",
+        "englishTransliteration": "-gia"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Activity, operation, function, performance, action",
+    "definition": "Activity, operation, function, performance, action"
+  },
+  {
+    "headword": "energia",
+    "copticWord": "ⲉⲛⲉⲣⲅⲓⲁ",
+    "englishTransliteration": "energia",
+    "gloss": "Activity",
+    "definition": "Activity",
+    "crossReference": {
+      "target": "energeia",
+      "gloss": "Activity"
+    }
+  }
+]

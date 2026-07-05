@@ -1,0 +1,331 @@
+[
+  {
+    "headword": "atorb=",
+    "copticWord": "ⲁⲧⲟⲣⲃ",
+    "englishTransliteration": "atorv",
+    "partOfSpeech": "adj",
+    "gloss": "Unlimited, boundless",
+    "definition": "Unlimited, boundless"
+  },
+  {
+    "headword": "erbi",
+    "copticWord": "ⲉⲣⲃⲓ",
+    "englishTransliteration": "ervi",
+    "partOfSpeech": "f",
+    "gloss": "Enclosure, pen esp. for sheep",
+    "definition": "Enclosure, pen esp. for sheep"
+  },
+  {
+    "headword": "metrefwou nh/t",
+    "copticWord": "ⲙⲉⲧⲣⲉϥⲱⲟⲩ ⲛϩⲏⲧ",
+    "englishTransliteration": "metrefōou nhit",
+    "partOfSpeech": "f",
+    "gloss": "Pa-tience",
+    "definition": "---: n. Length."
+  },
+  {
+    "headword": "wck",
+    "copticWord": "ⲱⲥⲕ",
+    "englishTransliteration": "ōsk",
+    "variants": [
+      {
+        "word": "(Q) ock",
+        "copticWord": "(Ϧ) ⲟⲥⲕ",
+        "englishTransliteration": "(Kh) osk"
+      }
+    ],
+    "reference": "530b",
+    "gloss": "vi. To delay, continue, be prolonged",
+    "definition": "vi. To delay, continue, be prolonged",
+    "senses": [
+      {
+        "label": "sa",
+        "gloss": "vi. To delay till",
+        "definition": "vi. To delay till"
+      },
+      {
+        "label": "hijen",
+        "gloss": "vi. To delay upon",
+        "definition": "vi. To delay upon"
+      },
+      {
+        "label": "icjen",
+        "gloss": "vi. To delay since",
+        "definition": "vi. To delay since"
+      }
+    ]
+  },
+  {
+    "headword": "wous",
+    "copticWord": "ⲱⲟⲩϣ",
+    "englishTransliteration": "ōoush",
+    "reference": "257a",
+    "partOfSpeech": "m",
+    "gloss": "Gruel (of bread or lentils)",
+    "definition": "Gruel (of bread or lentils)"
+  },
+  {
+    "headword": "ecki",
+    "copticWord": "ⲉⲥⲕⲓ",
+    "englishTransliteration": "eski",
+    "partOfSpeech": "f",
+    "gloss": "Delay",
+    "definition": "Delay"
+  },
+  {
+    "headword": "wcq",
+    "copticWord": "ⲱⲥϧ",
+    "englishTransliteration": "ōskh",
+    "variants": [
+      {
+        "word": "ocq",
+        "copticWord": "ⲟⲥϧ",
+        "englishTransliteration": "oskh"
+      },
+      {
+        "word": "wcq",
+        "copticWord": "ⲱⲥϧ",
+        "englishTransliteration": "ōskh"
+      },
+      {
+        "word": "ocq=",
+        "copticWord": "ⲟⲥϧ",
+        "englishTransliteration": "oskh"
+      }
+    ],
+    "reference": "538b",
+    "senses": [
+      {
+        "label": "vi",
+        "gloss": "To reap, mow, harvest",
+        "definition": "--: m. Reaping, harvest; refwcq: m. Reaper; ocq: m. sickle; hiocq: vb. To wield sickle; [aiocq: m. Sickle-bearer, reaper."
+      }
+    ]
+  },
+  {
+    "headword": "wt",
+    "copticWord": "ⲱⲧ",
+    "englishTransliteration": "ōt",
+    "reference": "531b",
+    "partOfSpeech": "m",
+    "gloss": "Fat",
+    "definition": "Fat"
+  },
+  {
+    "headword": "wtp",
+    "copticWord": "ⲱⲧⲡ",
+    "englishTransliteration": "ōtp",
+    "variants": [
+      {
+        "word": "hwtp; (Q) otp",
+        "copticWord": "ϩⲱⲧⲡⲑ (Ϧ) ⲟⲧⲡ",
+        "englishTransliteration": "hōtpth (Kh) otp"
+      },
+      {
+        "word": "hotp",
+        "copticWord": "ϩⲟⲧⲡ",
+        "englishTransliteration": "hotp"
+      },
+      {
+        "word": "hopt",
+        "copticWord": "ϩⲟⲡⲧ",
+        "englishTransliteration": "hopt"
+      }
+    ],
+    "reference": "531b",
+    "gloss": "vt. To shut, enclose, imprison",
+    "definition": "vt. To shut, enclose, imprison"
+  },
+  {
+    "headword": "wth(m)",
+    "copticWord": "ⲱⲧϩ(ⲙ)",
+    "englishTransliteration": "ōth(m)",
+    "variants": [
+      {
+        "word": "ouwth",
+        "copticWord": "ⲟⲩⲱⲧϩ",
+        "englishTransliteration": "ouōth"
+      }
+    ],
+    "reference": "532b",
+    "partOfSpeech": "vb",
+    "gloss": "To tie",
+    "definition": "--- e-: vb. To tie upon; ---: m. Fastened thing or place, lock"
+  },
+  {
+    "headword": "ouathi",
+    "copticWord": "ⲟⲩⲁⲧϩⲓ",
+    "englishTransliteration": "ouathi",
+    "variants": [
+      {
+        "word": "ouayi",
+        "copticWord": "ⲟⲩⲁⲑⲓ",
+        "englishTransliteration": "ouathi"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "Wrap (on loom)",
+    "definition": "Wrap (on loom)"
+  },
+  {
+    "headword": "ayah",
+    "copticWord": "ⲁⲑⲁϩ",
+    "englishTransliteration": "athah",
+    "variants": [
+      {
+        "type": "pl.",
+        "word": "ayauh",
+        "copticWord": "ⲁⲑⲁⲩϩ",
+        "englishTransliteration": "athavh"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "What is bound (upon man or beast)",
+    "definition": "burden;"
+  },
+  {
+    "headword": "wsem",
+    "copticWord": "ⲱϣⲉⲙ",
+    "englishTransliteration": "ōshem",
+    "variants": [
+      {
+        "word": "osem",
+        "copticWord": "ⲟϣⲉⲙ",
+        "englishTransliteration": "oshem"
+      },
+      {
+        "word": "osm=",
+        "copticWord": "ⲟϣⲙ",
+        "englishTransliteration": "oshm"
+      },
+      {
+        "word": "(Q) osem",
+        "copticWord": "(Ϧ) ⲟϣⲉⲙ",
+        "englishTransliteration": "(Kh) oshem"
+      }
+    ],
+    "reference": "535a",
+    "gloss": "vi. To be quenched, dried up",
+    "definition": "vt. To quench;",
+    "senses": [
+      {
+        "label": "atwsem",
+        "partOfSpeech": "adj",
+        "gloss": "Unquenched, unquenchable, unslaked",
+        "definition": "Unquenched, unquenchable, unslaked"
+      }
+    ]
+  },
+  {
+    "headword": "refhiayah",
+    "copticWord": "ⲣⲉϥϩⲓⲁⲑⲁϩ",
+    "englishTransliteration": "refhiathah",
+    "partOfSpeech": "m",
+    "gloss": "Porter. wth v. ouwth- To pour. (1)wou: (62a)",
+    "definition": "m. Honor, glory;",
+    "senses": [
+      {
+        "label": "]wou",
+        "partOfSpeech": "vb",
+        "gloss": "To give honor, glorify",
+        "definition": "metref]wou: f. Glorification; jin]wou: m. act of glorification; [iwou: vb. To be glorified."
+      }
+    ]
+  },
+  {
+    "headword": "asmi",
+    "copticWord": "ⲁϣⲙⲓ",
+    "englishTransliteration": "ashmi",
+    "partOfSpeech": "f",
+    "gloss": "Thing burnt & quenched",
+    "definition": "soot"
+  },
+  {
+    "headword": "wsi",
+    "copticWord": "ⲱϣⲓ",
+    "englishTransliteration": "ōshi",
+    "reference": "535a"
+  },
+  {
+    "headword": "nn. (in mounwsi) rain. ws]",
+    "copticWord": "ⲛⲛ. (ⲓⲛ ⲙⲟⲩⲛⲱϣⲓ) ⲣⲁⲓⲛ. ⲱϣϯ",
+    "englishTransliteration": "nn. (in mounōshi) rain. ōshti",
+    "reference": "535b",
+    "gloss": "vi. To drag, crawl, flow",
+    "definition": "---: m. Dragging."
+  },
+  {
+    "headword": "(2) wou",
+    "copticWord": "ⲱⲟⲩ",
+    "englishTransliteration": "ōou",
+    "reference": "533a",
+    "gloss": "vi. To be long (in compounds)",
+    "definition": "vi. To be long (in compounds)",
+    "senses": [
+      {
+        "label": "e",
+        "gloss": "vi. To be patient with",
+        "definition": "---: m. Patience; refwou nh/t: m. Patient person;"
+      }
+    ]
+  },
+  {
+    "headword": "wou nh/t",
+    "copticWord": "ⲱⲟⲩ ⲛϩⲏⲧ",
+    "englishTransliteration": "ōou nhit",
+    "gloss": "vi. To be long-hearted, patient",
+    "definition": "vi. To be long-hearted, patient"
+  },
+  {
+    "headword": "wsj",
+    "copticWord": "ⲱϣϫ",
+    "englishTransliteration": "ōshj",
+    "variants": [
+      {
+        "word": "osj",
+        "copticWord": "ⲟϣϫ",
+        "englishTransliteration": "oshj"
+      },
+      {
+        "word": "osj=",
+        "copticWord": "ⲟϣϫ",
+        "englishTransliteration": "oshj"
+      },
+      {
+        "word": "(Q) osj",
+        "copticWord": "(Ϧ) ⲟϣϫ",
+        "englishTransliteration": "(Kh) oshj"
+      }
+    ],
+    "reference": "531b",
+    "gloss": "vi. To smear, anoint",
+    "definition": ": m. Plastering, anointing."
+  },
+  {
+    "headword": "wfi",
+    "copticWord": "ⲱϥⲓ",
+    "englishTransliteration": "ōfi",
+    "variants": [
+      {
+        "word": "ef",
+        "copticWord": "ⲉϥ",
+        "englishTransliteration": "ef"
+      },
+      {
+        "word": "of=",
+        "copticWord": "ⲟϥ",
+        "englishTransliteration": "of"
+      }
+    ],
+    "reference": "535b",
+    "gloss": "vi. To press",
+    "definition": "gather, mop up;",
+    "senses": [
+      {
+        "label": "eqr/i e",
+        "gloss": "vi. To press down upon",
+        "definition": "vi. To press down upon"
+      }
+    ]
+  }
+]

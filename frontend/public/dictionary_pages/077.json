@@ -1,0 +1,120 @@
+[
+  {
+    "headword": "metnasth/t",
+    "copticWord": "ⲙⲉⲧⲛⲁϣⲧϩⲏⲧ",
+    "englishTransliteration": "metnashthit",
+    "partOfSpeech": "f",
+    "gloss": "Hard hearted-ness",
+    "definition": "Hard hearted-ness"
+  },
+  {
+    "headword": "ernasth/t",
+    "copticWord": "ⲉⲣⲛⲁϣⲧϩⲏⲧ",
+    "englishTransliteration": "ernashthit",
+    "partOfSpeech": "vb",
+    "gloss": "To be hard hearted",
+    "definition": "To be hard hearted"
+  },
+  {
+    "headword": "qen ounsot",
+    "copticWord": "ϧⲉⲛ ⲟⲩⲛϣⲟⲧ",
+    "englishTransliteration": "khen ounshot",
+    "partOfSpeech": "adv",
+    "gloss": "Roughly, hardly",
+    "definition": "]nsot: vb. To make hard (mostly with h/t), encourage;"
+  },
+  {
+    "headword": "nas]",
+    "copticWord": "ⲛⲁϣϯ",
+    "englishTransliteration": "nashti",
+    "partOfSpeech": "m",
+    "gloss": "Strength, strengthener, pro-tector",
+    "definition": "Strength, strengthener, pro-tector"
+  },
+  {
+    "headword": "metneste",
+    "copticWord": "ⲙⲉⲧⲛⲉϣⲧⲉ",
+    "englishTransliteration": "metneshte",
+    "partOfSpeech": "f",
+    "gloss": "Roughness",
+    "definition": "Roughness"
+  },
+  {
+    "headword": "erneste",
+    "copticWord": "ⲉⲣⲛⲉϣⲧⲉ",
+    "englishTransliteration": "erneshte",
+    "partOfSpeech": "vb",
+    "gloss": "To become hard",
+    "definition": "To become hard"
+  },
+  {
+    "headword": "nhi",
+    "copticWord": "ⲛϩⲓ",
+    "englishTransliteration": "nhi",
+    "gloss": "On",
+    "definition": "On",
+    "crossReference": {
+      "target": "hi",
+      "gloss": "On"
+    }
+  },
+  {
+    "headword": "nhr/i",
+    "copticWord": "ⲛϩⲣⲏⲓ",
+    "englishTransliteration": "nhrii",
+    "gloss": "Above",
+    "definition": "Above",
+    "crossReference": {
+      "target": "hr/i",
+      "gloss": "Above"
+    }
+  },
+  {
+    "headword": "nhour",
+    "copticWord": "ⲛϩⲟⲩⲣ",
+    "englishTransliteration": "nhour",
+    "variants": [
+      {
+        "word": "enhour",
+        "copticWord": "ⲉⲛϩⲟⲩⲣ",
+        "englishTransliteration": "enhour"
+      }
+    ],
+    "reference": "245a",
+    "gloss": "vi. To tremble",
+    "definition": "cause to tremble, be terrible; ---: n. Shuddering, fear"
+  },
+  {
+    "headword": "atnhour",
+    "copticWord": "ⲁⲧⲛϩⲟⲩⲣ",
+    "englishTransliteration": "atnhour",
+    "partOfSpeech": "adj",
+    "gloss": "Unshakable, immovable",
+    "definition": "Unshakable, immovable"
+  },
+  {
+    "headword": "nje",
+    "copticWord": "ⲛϫⲉ",
+    "englishTransliteration": "nje",
+    "reference": "252a",
+    "partOfSpeech": "part",
+    "gloss": "preceding nominal subject in the verbal sentence",
+    "definition": "occurs more frequently in texts translated from Greek."
+  },
+  {
+    "headword": "ernas]",
+    "copticWord": "ⲉⲣⲛⲁϣϯ",
+    "englishTransliteration": "ernashti",
+    "partOfSpeech": "vb",
+    "gloss": "To be protector",
+    "definition": "To be protector"
+  },
+  {
+    "headword": "neste",
+    "copticWord": "ⲛⲉϣⲧⲉ",
+    "englishTransliteration": "neshte",
+    "partOfSpeech": "m",
+    "gloss": "Hard, rough person",
+    "definition": "Hard, rough person"
+  }
+]

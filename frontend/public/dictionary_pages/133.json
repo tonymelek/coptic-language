@@ -1,0 +1,286 @@
+[
+  {
+    "headword": "wp",
+    "copticWord": "ⲱⲡ",
+    "englishTransliteration": "ōp",
+    "variants": [
+      {
+        "word": "ep",
+        "copticWord": "ⲉⲡ",
+        "englishTransliteration": "ep"
+      },
+      {
+        "word": "op=",
+        "copticWord": "ⲟⲡ",
+        "englishTransliteration": "op"
+      },
+      {
+        "word": "(Q) /p",
+        "copticWord": "(Ϧ) ⲏⲡ",
+        "englishTransliteration": "(Kh) ip"
+      }
+    ],
+    "reference": "526a",
+    "gloss": "vi. To count, esteem",
+    "definition": "vi. To count, esteem",
+    "senses": [
+      {
+        "label": "e",
+        "gloss": "vi. To count to",
+        "definition": "Q. Belonging, related to;"
+      },
+      {
+        "label": "eqoun e",
+        "gloss": "vt. To count in, include",
+        "definition": "vt. To count in, include"
+      },
+      {
+        "label": "nem",
+        "gloss": "vt. To number with",
+        "definition": "vt. To number with"
+      },
+      {
+        "label": "n",
+        "gloss": "vt. + Dat",
+        "definition": "vt. + Dat"
+      },
+      {
+        "label": "nten",
+        "gloss": "vt. To count with, for",
+        "definition": "--- qen: vt. To count in, among; ---: m. Reckoning;"
+      },
+      {
+        "label": "atwp",
+        "partOfSpeech": "adj",
+        "gloss": "Unesteemed",
+        "definition": "Unesteemed"
+      },
+      {
+        "label": "]wp",
+        "partOfSpeech": "vb",
+        "gloss": "To give account",
+        "definition": "fiwp: vb. To take reckoning, calculate; metfiwp: f. Reckoning; reffiwp: m. Accountant;"
+      },
+      {
+        "label": "hiwp",
+        "partOfSpeech": "vb",
+        "gloss": "To make reckoning, calculation",
+        "definition": "To make reckoning, calculation"
+      }
+    ]
+  },
+  {
+    "headword": "wmk",
+    "copticWord": "ⲱⲙⲕ",
+    "englishTransliteration": "ōmk",
+    "variants": [
+      {
+        "word": "emk",
+        "copticWord": "ⲉⲙⲕ",
+        "englishTransliteration": "emk"
+      },
+      {
+        "word": "omk=",
+        "copticWord": "ⲟⲙⲕ",
+        "englishTransliteration": "omk"
+      }
+    ],
+    "reference": "523a",
+    "gloss": "vt. To swallow",
+    "definition": "--- epec/t: vt. To be engulfed;",
+    "senses": [
+      {
+        "label": "eqr/i",
+        "gloss": "vt. To swallow down, overwhelm",
+        "definition": "vt. To swallow down, overwhelm"
+      }
+    ]
+  },
+  {
+    "headword": "wmc",
+    "copticWord": "ⲱⲙⲥ",
+    "englishTransliteration": "ōms",
+    "variants": [
+      {
+        "word": "emc",
+        "copticWord": "ⲉⲙⲥ",
+        "englishTransliteration": "ems"
+      },
+      {
+        "word": "omc",
+        "copticWord": "ⲟⲙⲥ",
+        "englishTransliteration": "oms"
+      },
+      {
+        "word": "omc=",
+        "copticWord": "ⲟⲙⲥ",
+        "englishTransliteration": "oms"
+      }
+    ],
+    "reference": "523a",
+    "gloss": "vi. To be sunk, submerged",
+    "definition": "vt. To sink dip; --- e-: vt. To sink, dive into, dip;",
+    "senses": [
+      {
+        "label": "qen",
+        "gloss": "vt. To sink in, into",
+        "definition": "vt. To sink in, into"
+      },
+      {
+        "label": "ebol",
+        "partOfSpeech": "m",
+        "gloss": "Weakness of sight",
+        "definition": "pjinwmc ebol : m. Immersion;"
+      },
+      {
+        "label": "epec/t",
+        "gloss": "vt. To sink down",
+        "definition": "---: m. Sinking, dipping, baptism; ]wmc: vb. To give baptism, baptize; ref]wmc: m. Baptist;"
+      },
+      {
+        "label": "[iwmc",
+        "partOfSpeech": "vb",
+        "gloss": "To give baptism, be baptized",
+        "definition": "To give baptism, be baptized"
+      },
+      {
+        "label": "jinwmc",
+        "partOfSpeech": "m",
+        "gloss": "Baptism",
+        "definition": "emci: m. diving, immersion."
+      }
+    ]
+  },
+  {
+    "headword": "jinwp",
+    "copticWord": "ϫⲓⲛⲱⲡ",
+    "englishTransliteration": "jinōp",
+    "partOfSpeech": "m",
+    "gloss": "Reckoning, calculation. wrban: (529a)",
+    "definition": "m. Box tree."
+  },
+  {
+    "headword": "wreb",
+    "copticWord": "ⲱⲣⲉⲃ",
+    "englishTransliteration": "ōrev",
+    "variants": [
+      {
+        "word": "orb=",
+        "copticWord": "ⲟⲣⲃ",
+        "englishTransliteration": "orv"
+      },
+      {
+        "word": "(Q) oreb",
+        "copticWord": "(Ϧ) ⲟⲣⲉⲃ",
+        "englishTransliteration": "(Kh) orev"
+      }
+    ],
+    "reference": "529a",
+    "gloss": "vt. To detest, abominate, defile",
+    "definition": "vt. To detest, abominate, defile"
+  },
+  {
+    "headword": "wrk",
+    "copticWord": "ⲱⲣⲕ",
+    "englishTransliteration": "ōrk",
+    "reference": "529a",
+    "gloss": "vi. To swear",
+    "definition": "vt. To swear oath, invoke person;",
+    "senses": [
+      {
+        "label": "e",
+        "gloss": "vt. To invoked person adjured",
+        "definition": "vt. To invoked person adjured"
+      },
+      {
+        "label": "eybe",
+        "gloss": "vt. To swear oath concerning",
+        "definition": "vt. To swear oath concerning"
+      },
+      {
+        "label": "ejen",
+        "gloss": "vt. To swear oath upon, as to",
+        "definition": "vt. To swear oath upon, as to"
+      },
+      {
+        "label": "nahren",
+        "gloss": "vt. To swear oath before, by",
+        "definition": "vt. To swear oath before, by"
+      },
+      {
+        "label": "nnouj",
+        "gloss": "vt. To swear falsely",
+        "definition": "refwrk nnouj: m. False swearer;"
+      }
+    ]
+  },
+  {
+    "headword": "wni",
+    "copticWord": "ⲱⲛⲓ",
+    "englishTransliteration": "ōni",
+    "variants": [
+      {
+        "word": "ana",
+        "copticWord": "ⲁⲛⲁ",
+        "englishTransliteration": "ana"
+      }
+    ],
+    "reference": "524a",
+    "gloss": "mf Stone",
+    "definition": "mf Stone",
+    "senses": [
+      {
+        "label": "mwit nwni",
+        "partOfSpeech": "m",
+        "gloss": "Stony place",
+        "definition": "erwni, oi nwni: vb. To become, be as stone;"
+      },
+      {
+        "label": "hiwni",
+        "partOfSpeech": "vb",
+        "gloss": "To throw stone, stone",
+        "definition": "To throw stone, stone"
+      }
+    ]
+  },
+  {
+    "headword": "ma nwni",
+    "copticWord": "ⲙⲁ ⲛⲱⲛⲓ",
+    "englishTransliteration": "ma nōni",
+    "partOfSpeech": "m",
+    "gloss": "Stony place",
+    "definition": "Stony place"
+  },
+  {
+    "headword": "wnq",
+    "copticWord": "ⲱⲛϧ",
+    "englishTransliteration": "ōnkh",
+    "variants": [
+      {
+        "word": "onq=",
+        "copticWord": "ⲟⲛϧ",
+        "englishTransliteration": "onkh"
+      },
+      {
+        "word": "(Q) onq",
+        "copticWord": "(Ϧ) ⲟⲛϧ",
+        "englishTransliteration": "(Kh) onkh"
+      }
+    ],
+    "reference": "525a",
+    "gloss": "vi. To live",
+    "definition": "vi. To live",
+    "senses": [
+      {
+        "label": "e",
+        "gloss": "vi. To live on, by",
+        "definition": "vi. To live on, by"
+      },
+      {
+        "label": "n",
+        "gloss": "vi. to live during",
+        "definition": "--- qen: vi. To live on, from; --: m. Life; ma nwnq: m. Place of life; jinwnq: m. Way, means of life; ref]wnq: m. Life-giver; sv/r nwnq: m. Who lives with another; life-time friend."
+      }
+    ]
+  }
+]

@@ -1,0 +1,334 @@
+[
+  {
+    "headword": "caji",
+    "copticWord": "ⲥⲁϫⲓ",
+    "englishTransliteration": "saji",
+    "reference": "612b",
+    "gloss": "vi. To speak",
+    "definition": "vt. To speak, say;",
+    "senses": [
+      {
+        "label": "e",
+        "partOfSpeech": "vb",
+        "gloss": "To speak to, into",
+        "definition": "To speak to, into"
+      },
+      {
+        "label": "eybe",
+        "partOfSpeech": "vb",
+        "gloss": "To speak concerning, about",
+        "definition": "To speak concerning, about"
+      },
+      {
+        "label": "ejen",
+        "partOfSpeech": "vb",
+        "gloss": "To speak for, on behalf of, concerning",
+        "definition": "To speak for, on behalf of, concerning"
+      },
+      {
+        "label": "nem",
+        "partOfSpeech": "vb",
+        "gloss": "To speak with",
+        "definition": "To speak with"
+      },
+      {
+        "label": "n",
+        "partOfSpeech": "vb",
+        "gloss": "To speak in, with",
+        "definition": "To speak in, with"
+      },
+      {
+        "label": "nca",
+        "partOfSpeech": "vb",
+        "gloss": "To speak after, against",
+        "definition": "malign;"
+      },
+      {
+        "label": "nahren",
+        "partOfSpeech": "vb",
+        "gloss": "To speak before, in front of",
+        "definition": "To speak before, in front of"
+      },
+      {
+        "label": "qaten",
+        "partOfSpeech": "vb",
+        "gloss": "To speak before",
+        "definition": "To speak before"
+      },
+      {
+        "label": "qa",
+        "partOfSpeech": "vb",
+        "gloss": "To speak concerning",
+        "definition": "To speak concerning"
+      },
+      {
+        "label": "m/s",
+        "gloss": "ncaji: m. Multitude of words",
+        "definition": "la caji: adj. loquacious; [icaji: vb. To take, accept word; jemcaji: (rare) vb. To find word (of complaint); atcaji: adj. Speechless, unspeakable; ma ncaji: m. Place of talk, gossip; refcaji: m. Speaker, eloquent person houo caji: saying too much; jincaji: m. Speech, saying, tale, conversation. qen: vb. To speak with (agent), in; --: m. Saying, word, affair;"
+      }
+    ]
+  },
+  {
+    "headword": "cahceh",
+    "copticWord": "ⲥⲁϩⲥⲉϩ",
+    "englishTransliteration": "sahseh",
+    "variants": [
+      {
+        "word": "cahcwh=",
+        "copticWord": "ⲥⲁϩⲥⲱϩ",
+        "englishTransliteration": "sahsōh"
+      },
+      {
+        "word": "cahceh",
+        "note": "Q",
+        "copticWord": "ⲥⲁϩⲥⲉϩ",
+        "englishTransliteration": "sahseh"
+      }
+    ],
+    "reference": "386b",
+    "gloss": "vt. To roll round, rub down, plane",
+    "definition": "vt. To roll round, rub down, plane"
+  },
+  {
+    "headword": "(1) ca]",
+    "copticWord": "ⲥⲁϯ",
+    "englishTransliteration": "sati",
+    "reference": "359a",
+    "partOfSpeech": "vb",
+    "gloss": "(Q) To spun",
+    "definition": "(Q) To spun",
+    "senses": [
+      {
+        "label": "(2)",
+        "gloss": "ca]: (360a)",
+        "definition": "f. Fire; hica]: vb. To throw fire, set on fire."
+      }
+    ]
+  },
+  {
+    "headword": "cahw=",
+    "copticWord": "ⲥⲁϩⲱ",
+    "englishTransliteration": "sahō",
+    "gloss": "To remove. cah]: (387a)",
+    "definition": "vi. To kindle fire, heat;",
+    "crossReference": {
+      "target": "cwhi",
+      "gloss": "To remove. cah]: (387a)"
+    },
+    "senses": [
+      {
+        "label": "n/ etcah]",
+        "gloss": "pl. Stokers",
+        "definition": "--- qa-: vb. To light fire beneath;"
+      },
+      {
+        "label": "vt. To kindle",
+        "partOfSpeech": "m",
+        "gloss": "Fire",
+        "definition": "Fire"
+      },
+      {
+        "label": "hicah]",
+        "partOfSpeech": "vb",
+        "gloss": "To put Fire, set alight",
+        "definition": "ma ncah]: m. Cooking place, kitchen;"
+      },
+      {
+        "label": "refcah]",
+        "partOfSpeech": "m",
+        "gloss": "Fire lighter, cook",
+        "definition": "Fire lighter, cook"
+      }
+    ]
+  },
+  {
+    "headword": "ca]",
+    "copticWord": "ⲥⲁϯ",
+    "englishTransliteration": "sati",
+    "gloss": "Arrow dart",
+    "definition": "Arrow dart",
+    "crossReference": {
+      "target": "ci]",
+      "gloss": "Arrow dart"
+    }
+  },
+  {
+    "headword": "cbe",
+    "copticWord": "ⲥⲃⲉ",
+    "englishTransliteration": "sve",
+    "reference": "321b",
+    "partOfSpeech": "m",
+    "gloss": "Door",
+    "definition": "Door"
+  },
+  {
+    "headword": "cbyaiou",
+    "copticWord": "ⲥⲃⲑⲁⲓⲟⲩ",
+    "englishTransliteration": "svthaiou",
+    "gloss": "Fences",
+    "definition": "Fences",
+    "crossReference": {
+      "target": "cobt",
+      "gloss": "Fences"
+    }
+  },
+  {
+    "headword": "cbok",
+    "copticWord": "ⲥⲃⲟⲕ",
+    "englishTransliteration": "svok",
+    "variants": [
+      {
+        "word": "cobk",
+        "note": "Q",
+        "copticWord": "ⲥⲟⲃⲕ",
+        "englishTransliteration": "sovk"
+      }
+    ],
+    "reference": "322a",
+    "gloss": "vi. To become, be small, few",
+    "definition": "vi. To become, be small, few",
+    "senses": [
+      {
+        "label": "n/ou ncbok",
+        "partOfSpeech": "vb",
+        "gloss": "To go on diminishing",
+        "definition": "To go on diminishing"
+      },
+      {
+        "gloss": "vt. To make less",
+        "definition": "vt. To make less"
+      },
+      {
+        "partOfSpeech": "m",
+        "gloss": "Smallness, few",
+        "definition": "Smallness, few"
+      }
+    ]
+  },
+  {
+    "headword": "cboui",
+    "copticWord": "ⲥⲃⲟⲩⲓ",
+    "englishTransliteration": "svoui",
+    "gloss": "Disciple",
+    "definition": "Disciple",
+    "crossReference": {
+      "target": "cabe",
+      "gloss": "Disciple"
+    }
+  },
+  {
+    "headword": "cbw",
+    "copticWord": "ⲥⲃⲱ",
+    "englishTransliteration": "svō",
+    "gloss": "Doctrine",
+    "definition": "Doctrine",
+    "crossReference": {
+      "target": "cabe",
+      "gloss": "Doctrine"
+    }
+  },
+  {
+    "headword": "cbwoui",
+    "copticWord": "ⲥⲃⲱⲟⲩⲓ",
+    "englishTransliteration": "svōoui",
+    "gloss": "Doctrines",
+    "definition": "Doctrines",
+    "crossReference": {
+      "target": "cabe",
+      "gloss": "Doctrines"
+    }
+  },
+  {
+    "headword": "ce",
+    "copticWord": "ⲥⲉ",
+    "englishTransliteration": "se",
+    "reference": "316b",
+    "gloss": "Numeral 'sixty'",
+    "definition": "Numeral 'sixty'"
+  },
+  {
+    "headword": "ceb",
+    "copticWord": "ⲥⲉⲃ",
+    "englishTransliteration": "sev",
+    "gloss": "Cunning person",
+    "definition": "Cunning person",
+    "crossReference": {
+      "target": "cabe",
+      "gloss": "Cunning person"
+    }
+  },
+  {
+    "headword": "ceba",
+    "copticWord": "ⲥⲉⲃⲁ",
+    "englishTransliteration": "seva",
+    "variants": [
+      {
+        "type": "pl.",
+        "word": "cebawy",
+        "copticWord": "ⲥⲉⲃⲁⲱⲑ",
+        "englishTransliteration": "sevaōth"
+      }
+    ],
+    "gloss": "(Heb)",
+    "definition": "m. Solider. cebawy v. ceba - Soliders."
+  },
+  {
+    "headword": "ceben",
+    "copticWord": "ⲥⲉⲃⲉⲛ",
+    "englishTransliteration": "seven",
+    "reference": "322b",
+    "partOfSpeech": "n",
+    "gloss": "Bandage, selvage",
+    "definition": "Bandage, selvage"
+  },
+  {
+    "headword": "ceb/c",
+    "copticWord": "ⲥⲉⲃⲏⲥ",
+    "englishTransliteration": "sevis",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Worship, honor",
+    "definition": "Worship, honor",
+    "senses": [
+      {
+        "label": "erceb/cye",
+        "partOfSpeech": "vb",
+        "gloss": "To worship, honor",
+        "definition": "To worship, honor"
+      }
+    ]
+  },
+  {
+    "headword": "cebi",
+    "copticWord": "ⲥⲉⲃⲓ",
+    "englishTransliteration": "sevi",
+    "variants": [
+      {
+        "word": "coube",
+        "copticWord": "ⲥⲟⲩⲃⲉ",
+        "englishTransliteration": "souve"
+      },
+      {
+        "word": "coub/t=",
+        "copticWord": "ⲥⲟⲩⲃⲏⲧ",
+        "englishTransliteration": "souvit"
+      },
+      {
+        "word": "coub/t",
+        "note": "Q",
+        "copticWord": "ⲥⲟⲩⲃⲏⲧ",
+        "englishTransliteration": "souvit"
+      },
+      {
+        "word": "cou/t",
+        "note": "Q",
+        "copticWord": "ⲥⲟⲩⲏⲧ",
+        "englishTransliteration": "souit"
+      }
+    ],
+    "reference": "321b",
+    "gloss": "vt. To circumcise",
+    "definition": "---: m. Circumcision;"
+  }
+]

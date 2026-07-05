@@ -1,0 +1,494 @@
+[
+  {
+    "headword": "ref[imkah",
+    "copticWord": "ⲣⲉϥϭⲓⲙⲕⲁϩ",
+    "englishTransliteration": "refchimkah",
+    "partOfSpeech": "m",
+    "gloss": "Sufferer, apt to suffer",
+    "definition": "Sufferer, apt to suffer"
+  },
+  {
+    "headword": "mkah nh/t",
+    "copticWord": "ⲙⲕⲁϩ ⲛϩⲏⲧ",
+    "englishTransliteration": "mkah nhit",
+    "partOfSpeech": "vb",
+    "gloss": "To be pained, troubled at heart",
+    "definition": "To be pained, troubled at heart"
+  },
+  {
+    "headword": "metatmkah nh/t",
+    "copticWord": "ⲙⲉⲧⲁⲧⲙⲕⲁϩ ⲛϩⲏⲧ",
+    "englishTransliteration": "metatmkah nhit",
+    "partOfSpeech": "f",
+    "gloss": "Without grief",
+    "definition": "Without grief"
+  },
+  {
+    "headword": "]mkah nh/t",
+    "copticWord": "ϯⲙⲕⲁϩ ⲛϩⲏⲧ",
+    "englishTransliteration": "timkah nhit",
+    "partOfSpeech": "vb",
+    "gloss": "To grieve, vex",
+    "definition": "To grieve, vex"
+  },
+  {
+    "headword": "ermkah nh/t",
+    "copticWord": "ⲉⲣⲙⲕⲁϩ ⲛϩⲏⲧ",
+    "englishTransliteration": "ermkah nhit",
+    "partOfSpeech": "vb",
+    "gloss": "To be grieved",
+    "definition": "To be grieved"
+  },
+  {
+    "headword": "[imkah nh/t",
+    "copticWord": "ϭⲓⲙⲕⲁϩ ⲛϩⲏⲧ",
+    "englishTransliteration": "chimkah nhit",
+    "partOfSpeech": "vb",
+    "gloss": "To be pained, troubled",
+    "definition": "To be pained, troubled"
+  },
+  {
+    "headword": "mlaq",
+    "copticWord": "ⲙⲗⲁϧ",
+    "englishTransliteration": "mlakh",
+    "variants": [
+      {
+        "word": "emlaq",
+        "copticWord": "ⲉⲙⲗⲁϧ",
+        "englishTransliteration": "emlakh"
+      }
+    ],
+    "reference": "165b",
+    "gloss": "vi. To fight, quarrel",
+    "definition": "vi. To fight, quarrel"
+  },
+  {
+    "headword": "tale m/ci",
+    "copticWord": "ⲧⲁⲗⲉ ⲙⲏⲥⲓ",
+    "englishTransliteration": "tale misi",
+    "partOfSpeech": "vb",
+    "gloss": "To add interest (to a loan)",
+    "definition": "To add interest (to a loan)"
+  },
+  {
+    "headword": "meciw]",
+    "copticWord": "ⲙⲉⲥⲓⲱϯ",
+    "englishTransliteration": "mesiōti",
+    "variants": [
+      {
+        "word": "m/ciw]",
+        "copticWord": "ⲙⲏⲥⲓⲱϯ",
+        "englishTransliteration": "misiōti"
+      }
+    ],
+    "partOfSpeech": "f",
+    "gloss": "Womb",
+    "definition": "nursing, having given birth"
+  },
+  {
+    "headword": "mec qen /i",
+    "copticWord": "ⲙⲉⲥ ϧⲉⲛ ⲏⲓ",
+    "englishTransliteration": "mes khen ii",
+    "partOfSpeech": "mf",
+    "gloss": "One born in the house",
+    "definition": "One born in the house"
+  },
+  {
+    "headword": "cemici",
+    "copticWord": "ⲥⲉⲙⲓⲥⲓ",
+    "englishTransliteration": "semisi",
+    "partOfSpeech": "f",
+    "gloss": "lit. Birth-place, seat",
+    "definition": "so childbirth, parturition"
+  },
+  {
+    "headword": "ymecio",
+    "copticWord": "ⲑⲙⲉⲥⲓⲟ",
+    "englishTransliteration": "thmesio",
+    "variants": [
+      {
+        "word": "ymecie",
+        "copticWord": "ⲑⲙⲉⲥⲓⲉ",
+        "englishTransliteration": "thmesie"
+      }
+    ],
+    "gloss": "vt. To bring to birth, act as midwife",
+    "definition": "vt. To bring to birth, act as midwife"
+  },
+  {
+    "headword": "micitopoc",
+    "copticWord": "ⲙⲓⲥⲓⲧⲟⲡⲟⲥ",
+    "englishTransliteration": "misitopos",
+    "reference": "Gk?",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Bench, seat, the midst of the place",
+    "definition": "Bench, seat, the midst of the place"
+  },
+  {
+    "headword": "mit",
+    "copticWord": "ⲙⲓⲧ",
+    "englishTransliteration": "mit",
+    "variants": [
+      {
+        "word": "emit",
+        "copticWord": "ⲉⲙⲓⲧ",
+        "englishTransliteration": "emit"
+      }
+    ],
+    "reference": "188a",
+    "partOfSpeech": "m",
+    "gloss": "Parsley, or celery",
+    "definition": "Parsley, or celery"
+  },
+  {
+    "headword": "mitra",
+    "copticWord": "ⲙⲓⲧⲣⲁ",
+    "englishTransliteration": "mitra",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Headband, snood, hood, turban, diadem",
+    "definition": "Headband, snood, hood, turban, diadem"
+  },
+  {
+    "headword": "mitwoui",
+    "copticWord": "ⲙⲓⲧⲱⲟⲩⲓ",
+    "englishTransliteration": "mitōoui",
+    "gloss": "Roads",
+    "definition": "Roads",
+    "crossReference": {
+      "target": "mwit",
+      "gloss": "Roads"
+    }
+  },
+  {
+    "headword": "misi",
+    "copticWord": "ⲙⲓϣⲓ",
+    "englishTransliteration": "mishi",
+    "variants": [
+      {
+        "word": "mes",
+        "copticWord": "ⲙⲉϣ",
+        "englishTransliteration": "mesh"
+      },
+      {
+        "word": "mas",
+        "copticWord": "ⲙⲁϣ",
+        "englishTransliteration": "mash"
+      },
+      {
+        "word": "mas=",
+        "copticWord": "ⲙⲁϣ",
+        "englishTransliteration": "mash"
+      },
+      {
+        "word": "(Q) masi",
+        "copticWord": "(Ϧ) ⲙⲁϣⲓ",
+        "englishTransliteration": "(Kh) mashi"
+      }
+    ],
+    "reference": "202b",
+    "gloss": "vi. To fight",
+    "definition": "to strike;"
+  },
+  {
+    "headword": "ermlaq ejen",
+    "copticWord": "ⲉⲣⲙⲗⲁϧ ⲉϫⲉⲛ",
+    "englishTransliteration": "ermlakh ejen",
+    "partOfSpeech": "vb",
+    "gloss": "To fight for, on behalf of",
+    "definition": "To fight for, on behalf of"
+  },
+  {
+    "headword": "refmlaq",
+    "copticWord": "ⲣⲉϥⲙⲗⲁϧ",
+    "englishTransliteration": "refmlakh",
+    "partOfSpeech": "m",
+    "gloss": "Fighter",
+    "definition": "Fighter"
+  },
+  {
+    "headword": "mmauat=",
+    "copticWord": "ⲙⲙⲁⲩⲁⲧ",
+    "englishTransliteration": "mmavat",
+    "variants": [
+      {
+        "word": "mauat=",
+        "note": "rare",
+        "copticWord": "ⲙⲁⲩⲁⲧ",
+        "englishTransliteration": "mavat"
+      }
+    ],
+    "reference": "198b",
+    "partOfSpeech": "adj"
+  },
+  {
+    "headword": "e",
+    "copticWord": "ⲉ",
+    "englishTransliteration": "e",
+    "partOfSpeech": "vb",
+    "gloss": "To fight for, fight bravely",
+    "definition": "fight against, attack;"
+  },
+  {
+    "headword": "ejen",
+    "copticWord": "ⲉϫⲉⲛ",
+    "englishTransliteration": "ejen",
+    "partOfSpeech": "vb",
+    "gloss": "To fight for, on behalf of, strike upon",
+    "definition": "To fight for, on behalf of, strike upon"
+  },
+  {
+    "headword": "ehr/i ejen",
+    "copticWord": "ⲉϩⲣⲏⲓ ⲉϫⲉⲛ",
+    "englishTransliteration": "ehrii ejen",
+    "partOfSpeech": "vb",
+    "gloss": "to fight for",
+    "definition": "--- nem-: vb. To fight with, against;"
+  },
+  {
+    "headword": "hijen",
+    "copticWord": "ϩⲓϫⲉⲛ",
+    "englishTransliteration": "heegen",
+    "partOfSpeech": "vb",
+    "gloss": "To fight on behalf of",
+    "definition": "To fight on behalf of"
+  },
+  {
+    "headword": "mmauatf",
+    "copticWord": "ⲙⲙⲁⲩⲁⲧϥ",
+    "englishTransliteration": "mmavatf",
+    "partOfSpeech": "adv",
+    "gloss": "Only, merely",
+    "definition": "Only, merely"
+  },
+  {
+    "headword": "mmasw",
+    "copticWord": "ⲙⲙⲁϣⲱ",
+    "englishTransliteration": "mmashō",
+    "gloss": "Greatly",
+    "definition": "Greatly",
+    "crossReference": {
+      "target": "masw",
+      "gloss": "Greatly"
+    }
+  },
+  {
+    "headword": "mmin mmo=",
+    "copticWord": "ⲙⲙⲓⲛ ⲙⲙⲟ",
+    "englishTransliteration": "mmin mmo",
+    "variants": [
+      {
+        "word": "mmine",
+        "copticWord": "ⲙⲙⲓⲛⲉ",
+        "englishTransliteration": "mmine"
+      }
+    ],
+    "reference": "168b",
+    "gloss": "emphasizing a preceding pron. mostly poss.",
+    "definition": "Own, proper, self"
+  },
+  {
+    "headword": "mmine",
+    "copticWord": "ⲙⲙⲓⲛⲉ",
+    "englishTransliteration": "mmine",
+    "gloss": "Self",
+    "definition": "Self",
+    "crossReference": {
+      "target": "mmin",
+      "gloss": "Self"
+    }
+  },
+  {
+    "headword": "(1) mmon w/ prep. mmont=",
+    "copticWord": "ⲙⲙⲟⲛ ⲱⲏ ⲡⲣⲉⲡ. ⲙⲙⲟⲛⲧ",
+    "englishTransliteration": "mmon ōi prep. mmont",
+    "variants": [
+      {
+        "word": "mmonta=",
+        "note": "rare",
+        "copticWord": "ⲙⲙⲟⲛⲧⲁ",
+        "englishTransliteration": "mmonta"
+      }
+    ],
+    "reference": "166b",
+    "partOfSpeech": "vb",
+    "gloss": "Not to be",
+    "definition": "w/ mmo=, not having; mmonte- (often w/ mmau); vb. Not to have",
+    "senses": [
+      {
+        "label": "questions); if not",
+        "gloss": "If not, else",
+        "definition": "If not, else"
+      },
+      {
+        "label": "icje mmon",
+        "gloss": "If not, else",
+        "definition": "sap mmon: Or not, or else, rather."
+      }
+    ]
+  },
+  {
+    "headword": "mmon",
+    "copticWord": "ⲙⲙⲟⲛ",
+    "englishTransliteration": "mmon",
+    "variants": [
+      {
+        "word": "emmon",
+        "copticWord": "ⲉⲙⲙⲟⲛ",
+        "englishTransliteration": "emmon"
+      }
+    ],
+    "partOfSpeech": "part",
+    "gloss": "No (in answering",
+    "definition": "No (in answering"
+  },
+  {
+    "headword": "ebol",
+    "copticWord": "ⲉⲃⲟⲗ",
+    "englishTransliteration": "evol",
+    "partOfSpeech": "vb",
+    "gloss": "To strike",
+    "definition": "To strike",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "Fight, quarrel",
+        "definition": "Fight, quarrel"
+      },
+      {
+        "label": "atmisi",
+        "partOfSpeech": "adj",
+        "gloss": "Not attacked, unhurt",
+        "definition": "refmisi: m. Fighter;"
+      },
+      {
+        "label": "errefmisi",
+        "partOfSpeech": "vb",
+        "gloss": "To be quarrelsome, hostile",
+        "definition": "To be quarrelsome, hostile"
+      }
+    ]
+  },
+  {
+    "headword": "jinmisi",
+    "copticWord": "ϫⲓⲛⲙⲓϣⲓ",
+    "englishTransliteration": "jinmishi",
+    "partOfSpeech": "vb",
+    "gloss": "Art of fighting",
+    "definition": "Art of fighting"
+  },
+  {
+    "headword": "mkah",
+    "copticWord": "ⲙⲕⲁϩ",
+    "englishTransliteration": "mkah",
+    "variants": [
+      {
+        "word": "emkah",
+        "copticWord": "ⲉⲙⲕⲁϩ",
+        "englishTransliteration": "emkah"
+      },
+      {
+        "word": "(Q) mokh",
+        "copticWord": "(Ϧ) ⲙⲟⲕϩ",
+        "englishTransliteration": "(Kh) mokh"
+      }
+    ],
+    "reference": "163a",
+    "gloss": "vi. To be painful, difficult, grieved",
+    "definition": "vi. To be painful, difficult, grieved",
+    "senses": [
+      {
+        "label": "pl. mkauh & sg as pl",
+        "partOfSpeech": "m",
+        "gloss": "Pain, difficulty, grief",
+        "definition": "Pain, difficulty, grief"
+      },
+      {
+        "label": "atmkah",
+        "partOfSpeech": "adj",
+        "gloss": "Without pain",
+        "definition": "Without pain"
+      },
+      {
+        "label": "ermkah",
+        "partOfSpeech": "vb",
+        "gloss": "To be pained, grieved",
+        "definition": "To be pained, grieved"
+      },
+      {
+        "label": "]mkah",
+        "partOfSpeech": "vb",
+        "gloss": "To give pain",
+        "definition": "To give pain"
+      }
+    ]
+  },
+  {
+    "headword": "(2) mmon",
+    "copticWord": "ⲙⲙⲟⲛ",
+    "englishTransliteration": "mmon",
+    "reference": "169a",
+    "partOfSpeech": "adv",
+    "gloss": "Verily, for. mmonte- v. (1)mmon - Not to have",
+    "definition": "Verily, for. mmonte- v. (1)mmon - Not to have"
+  },
+  {
+    "headword": "sepmkah",
+    "copticWord": "ϣⲉⲡⲙⲕⲁϩ",
+    "englishTransliteration": "shepmkah",
+    "partOfSpeech": "vb",
+    "gloss": "To receive pain, suffer",
+    "definition": "To receive pain, suffer"
+  },
+  {
+    "headword": "[imkah",
+    "copticWord": "ϭⲓⲙⲕⲁϩ",
+    "englishTransliteration": "chimkah",
+    "partOfSpeech": "vb",
+    "gloss": "To receive pain, suffer",
+    "definition": "To receive pain, suffer"
+  },
+  {
+    "headword": "mna",
+    "copticWord": "ⲙⲛⲁ",
+    "englishTransliteration": "mna",
+    "variants": [
+      {
+        "word": "amn",
+        "copticWord": "ⲁⲙⲛ",
+        "englishTransliteration": "amn"
+      }
+    ],
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "f",
+    "definition": "f"
+  },
+  {
+    "headword": "mn/",
+    "copticWord": "ⲙⲛⲏ",
+    "englishTransliteration": "mni",
+    "reference": "174b",
+    "partOfSpeech": "adv",
+    "gloss": "There, thither",
+    "definition": "There, thither"
+  },
+  {
+    "headword": "camn/",
+    "copticWord": "ⲥⲁⲙⲛⲏ",
+    "englishTransliteration": "samni",
+    "partOfSpeech": "adv",
+    "gloss": "Beyond",
+    "definition": "Beyond"
+  },
+  {
+    "headword": "hamn/",
+    "copticWord": "ϩⲁⲙⲛⲏ",
+    "englishTransliteration": "hamni",
+    "partOfSpeech": "adv",
+    "gloss": "There",
+    "definition": "There"
+  }
+]

@@ -1,0 +1,486 @@
+[
+  {
+    "headword": "v/n(Q)",
+    "copticWord": "ⲫⲏⲛ(Ϧ)",
+    "englishTransliteration": "fin(Kh)",
+    "gloss": "To be poured. v/rs: (269b)",
+    "definition": "m. red-colored substance. v/oui v. ve - Heavens.",
+    "crossReference": {
+      "target": "vwn",
+      "gloss": "To be poured. v/rs: (269b)"
+    }
+  },
+  {
+    "headword": "v/s(Q)",
+    "copticWord": "ⲫⲏϣ(Ϧ)",
+    "englishTransliteration": "fish(Kh)",
+    "gloss": "To be divided. v/q(Q) v. vwq - To be broken. v/qi v. vwq - Fragment. vyonoc: (Gk)",
+    "definition": "To be divided. v/q(Q) v. vwq - To be broken. v/qi v. vwq - Fragment. vyonoc: (Gk)",
+    "crossReference": {
+      "target": "vws",
+      "gloss": "To be divided. v/q(Q) v. vwq - To be broken. v/qi v. vwq - Fragment. vyonoc: (Gk)"
+    },
+    "senses": [
+      {
+        "label": "]vi",
+        "partOfSpeech": "vb",
+        "gloss": "To give a kiss, kiss",
+        "definition": "To give a kiss, kiss"
+      }
+    ]
+  },
+  {
+    "headword": "m. envy jealousy",
+    "copticWord": "ⲙ. ⲉⲛⲫⲑ ϫⲉⲁⲗⲟⲩϣⲑ",
+    "englishTransliteration": "m. enfth jealoushth",
+    "variants": [
+      {
+        "word": "spite. vi",
+        "copticWord": "ϣⲡⲓⲧⲉ. ⲫⲓ",
+        "englishTransliteration": "shpite. fi"
+      }
+    ],
+    "reference": "260a",
+    "partOfSpeech": "f",
+    "gloss": "Kiss",
+    "definition": "Kiss"
+  },
+  {
+    "headword": "vonven",
+    "copticWord": "ⲫⲟⲛⲫⲉⲛ",
+    "englishTransliteration": "fonfen",
+    "gloss": "To overflow. vonh= v. vwnh - To turn. vonh (Q) v. vwnh - To be turned. vonhc v. vwnh - Change. vonj= v. vwnj - To overthrow. vonj (Q) v. vwnj - To be overthrown. vori, fori: (42a)",
+    "definition": "To overflow. vonh= v. vwnh - To turn. vonh (Q) v. vwnh - To be turned. vonhc v. vwnh - Change. vonj= v. vwnj - To overthrow. vonj (Q) v. vwnj - To be overthrown. vori, fori: (42a)",
+    "crossReference": {
+      "target": "vonpen",
+      "gloss": "To overflow. vonh= v. vwnh - To turn. vonh (Q) v. vwnh - To be turned. vonhc v. vwnh - Change. vonj= v. vwnj - To overthrow. vonj (Q) v. vwnj - To be overthrown. vori, fori: (42a)"
+    }
+  },
+  {
+    "headword": "m. Fish (bouri). vori (Q) v. viri - To be proclaimed. vorin",
+    "copticWord": "ⲙ. Ϥⲓϣϩ (ⲃⲟⲩⲣⲓ). ⲫⲟⲣⲓ (Ϧ) ⲫ. ⲫⲓⲣⲓ - Ⲧⲟ ⲃⲉ ⲡⲣⲟⲥⲗⲁⲓⲙⲉⲇ. ⲫⲟⲣⲓⲛ",
+    "englishTransliteration": "m. Fishh (vouri). fori (Kh) f. firi - To ve proslaimed. forin",
+    "variants": [
+      {
+        "word": "ervorin",
+        "copticWord": "ⲉⲣⲫⲟⲣⲓⲛ",
+        "englishTransliteration": "erforin"
+      }
+    ],
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "To wear, bear constantly. vonk(Q) v. vwnk - To be transferred. vonpen, vonven, (Q) venvwn: (514a)",
+    "definition": "vi. To overflow."
+  },
+  {
+    "headword": "vi/",
+    "copticWord": "ⲫⲓⲏ",
+    "englishTransliteration": "fii",
+    "reference": "514a",
+    "partOfSpeech": "f",
+    "gloss": "Sprout, blossom",
+    "definition": "Sprout, blossom"
+  },
+  {
+    "headword": "vork=",
+    "copticWord": "ⲫⲟⲣⲕ",
+    "englishTransliteration": "fork",
+    "gloss": "To be plucked out",
+    "definition": "To be plucked out",
+    "crossReference": {
+      "target": "(1)vwrk",
+      "gloss": "To be plucked out"
+    }
+  },
+  {
+    "headword": "vin",
+    "copticWord": "ⲫⲓⲛ",
+    "englishTransliteration": "fin",
+    "reference": "263a",
+    "partOfSpeech": "m",
+    "gloss": "Mouse",
+    "definition": "Mouse"
+  },
+  {
+    "headword": "aouan mvin",
+    "copticWord": "ⲁⲟⲩⲁⲛ ⲙⲫⲓⲛ",
+    "englishTransliteration": "aouan mfin",
+    "partOfSpeech": "m",
+    "gloss": "Mouse-colored",
+    "definition": "Mouse-colored"
+  },
+  {
+    "headword": "vork",
+    "copticWord": "ⲫⲟⲣⲕ",
+    "englishTransliteration": "fork",
+    "gloss": "Pallium. vork v. (2)vwrk - Calf",
+    "definition": "Pallium. vork v. (2)vwrk - Calf",
+    "crossReference": {
+      "target": "(2)vwrk",
+      "gloss": "Pallium. vork v. (2)vwrk - Calf"
+    }
+  },
+  {
+    "headword": "viri",
+    "copticWord": "ⲫⲓⲣⲓ",
+    "englishTransliteration": "firi",
+    "variants": [
+      {
+        "word": "ver",
+        "copticWord": "ⲫⲉⲣ",
+        "englishTransliteration": "fer"
+      },
+      {
+        "word": "(Q)vori",
+        "copticWord": "(Ϧ)ⲫⲟⲣⲓ",
+        "englishTransliteration": "(Kh)fori"
+      },
+      {
+        "word": "(Q)veriwou",
+        "copticWord": "(Ϧ)ⲫⲉⲣⲓⲱⲟⲩ",
+        "englishTransliteration": "(Kh)feriōou"
+      }
+    ],
+    "reference": "267a",
+    "gloss": "I. vi. To come forth (light, blossom &c)",
+    "definition": "I. vi. To come forth (light, blossom &c)",
+    "senses": [
+      {
+        "label": "e",
+        "gloss": "vi. To put forth, announce, tell",
+        "definition": "vi. To put forth, announce, tell"
+      },
+      {
+        "label": "eybe",
+        "gloss": "vi. To tell of, talk of",
+        "definition": "vi. To tell of, talk of"
+      },
+      {
+        "label": "ejen",
+        "gloss": "vi: To come forth, shine upon",
+        "definition": "vi: To come forth, shine upon"
+      },
+      {
+        "label": "n",
+        "gloss": "vi. To come forth, shine for",
+        "definition": "vi. To come forth, shine for"
+      },
+      {
+        "label": "qaten",
+        "gloss": "vi. To tell to",
+        "definition": "vi. To tell to"
+      },
+      {
+        "label": "ebol",
+        "gloss": "vi. To come come forth, blossom forth",
+        "definition": "vi. To come come forth, blossom forth"
+      },
+      {
+        "label": "II",
+        "gloss": "ebol e-: vi. To come forth for",
+        "definition": "--- ebol qen: vi. To come forth from; vt. To put forth, proclaim; ---: m. Coming, shining forth, tale; jinviri: m. Coming, showing forth."
+      }
+    ]
+  },
+  {
+    "headword": "vorper",
+    "copticWord": "ⲫⲟⲣⲡⲉⲣ",
+    "englishTransliteration": "forper",
+    "variants": [
+      {
+        "word": "vervwr=",
+        "copticWord": "ⲫⲉⲣⲫⲱⲣ",
+        "englishTransliteration": "ferfōr"
+      },
+      {
+        "word": "(Q) vervwr; p.c. varver",
+        "copticWord": "(Ϧ) ⲫⲉⲣⲫⲱⲣⲑ ⲡ.ⲥ. ⲫⲁⲣⲫⲉⲣ",
+        "englishTransliteration": "(Kh) ferfōrth p.s. farfer"
+      },
+      {
+        "word": "varper",
+        "copticWord": "ⲫⲁⲣⲡⲉⲣ",
+        "englishTransliteration": "farper"
+      }
+    ],
+    "reference": "515b"
+  },
+  {
+    "headword": "To open",
+    "copticWord": "Ⲧⲟ ⲟⲡⲉⲛ",
+    "englishTransliteration": "To open",
+    "variants": [
+      {
+        "word": "loosen",
+        "copticWord": "ⲗⲟⲟϣⲉⲛ",
+        "englishTransliteration": "looshen"
+      },
+      {
+        "word": "vorc",
+        "copticWord": "ⲫⲟⲣⲥ",
+        "englishTransliteration": "fors"
+      }
+    ],
+    "reference": "515b",
+    "gloss": "vt. To break up",
+    "definition": "vt. To break up"
+  },
+  {
+    "headword": "vors=",
+    "copticWord": "ⲫⲟⲣϣ",
+    "englishTransliteration": "forsh",
+    "gloss": "To spread",
+    "definition": "To spread",
+    "crossReference": {
+      "target": "vwrs",
+      "gloss": "To spread"
+    }
+  },
+  {
+    "headword": "vorsi",
+    "copticWord": "ⲫⲟⲣϣⲓ",
+    "englishTransliteration": "forshi",
+    "gloss": "Spread table",
+    "definition": "Spread table",
+    "crossReference": {
+      "target": "vwrs",
+      "gloss": "Spread table"
+    }
+  },
+  {
+    "headword": "vocca",
+    "copticWord": "ⲫⲟⲥⲥⲁ",
+    "englishTransliteration": "fossa",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Hole, den",
+    "definition": "Hole, den"
+  },
+  {
+    "headword": "votci",
+    "copticWord": "ⲫⲟⲧⲥⲓ",
+    "englishTransliteration": "fotsi",
+    "gloss": "Leap",
+    "definition": "Leap",
+    "crossReference": {
+      "target": "fwji",
+      "gloss": "Leap"
+    }
+  },
+  {
+    "headword": "votvet",
+    "copticWord": "ⲫⲟⲧⲫⲉⲧ",
+    "englishTransliteration": "fotfet",
+    "variants": [
+      {
+        "word": "vetvwt=",
+        "copticWord": "ⲫⲉⲧⲫⲱⲧ",
+        "englishTransliteration": "fetfōt"
+      },
+      {
+        "word": "(Q) vetvwt",
+        "copticWord": "(Ϧ) ⲫⲉⲧⲫⲱⲧ",
+        "englishTransliteration": "(Kh) fetfōt"
+      }
+    ],
+    "reference": "276a",
+    "gloss": "vi. To fall away",
+    "definition": "vi. To fall away"
+  },
+  {
+    "headword": "voth",
+    "copticWord": "ⲫⲟⲧϩ",
+    "englishTransliteration": "foth",
+    "gloss": "To carve",
+    "definition": "To carve",
+    "crossReference": {
+      "target": "vwth",
+      "gloss": "To carve"
+    }
+  },
+  {
+    "headword": "voth=",
+    "copticWord": "ⲫⲟⲧϩ",
+    "englishTransliteration": "foth",
+    "gloss": "To carve",
+    "definition": "To carve",
+    "crossReference": {
+      "target": "vwth",
+      "gloss": "To carve"
+    }
+  },
+  {
+    "headword": "vosn=",
+    "copticWord": "ⲫⲟϣⲛ",
+    "englishTransliteration": "foshn",
+    "gloss": "To serve",
+    "definition": "To serve",
+    "crossReference": {
+      "target": "vwsen",
+      "gloss": "To serve"
+    }
+  },
+  {
+    "headword": "vosnef",
+    "copticWord": "ⲫⲟϣⲛⲉϥ",
+    "englishTransliteration": "foshnef",
+    "gloss": "Ordination",
+    "definition": "Ordination",
+    "crossReference": {
+      "target": "vwsen",
+      "gloss": "Ordination"
+    }
+  },
+  {
+    "headword": "vi]",
+    "copticWord": "ⲫⲓϯ",
+    "englishTransliteration": "fiti",
+    "gloss": ": (276a)",
+    "definition": "f. Bow (arcus)."
+  },
+  {
+    "headword": "vl/ou",
+    "copticWord": "ⲫⲗⲏⲟⲩ",
+    "englishTransliteration": "fliou",
+    "gloss": "Vanity",
+    "definition": "Vanity",
+    "crossReference": {
+      "target": "evl/ou",
+      "gloss": "Vanity"
+    }
+  },
+  {
+    "headword": "voboc",
+    "copticWord": "ⲫⲟⲃⲟⲥ",
+    "englishTransliteration": "fovos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Fear",
+    "definition": "Fear"
+  },
+  {
+    "headword": "voqen",
+    "copticWord": "ⲫⲟϧⲉⲛ",
+    "englishTransliteration": "fokhen",
+    "gloss": "Planks",
+    "definition": "Planks",
+    "crossReference": {
+      "target": "vwqen",
+      "gloss": "Planks"
+    }
+  },
+  {
+    "headword": "voh",
+    "copticWord": "ⲫⲟϩ",
+    "englishTransliteration": "foh",
+    "variants": [
+      {
+        "word": "veh",
+        "copticWord": "ⲫⲉϩ",
+        "englishTransliteration": "feh"
+      },
+      {
+        "word": "(Q) veh",
+        "copticWord": "(Ϧ) ⲫⲉϩ",
+        "englishTransliteration": "(Kh) feh"
+      }
+    ],
+    "reference": "281a",
+    "gloss": "vi. To reach",
+    "definition": "vi. To reach"
+  },
+  {
+    "headword": "voi",
+    "copticWord": "ⲫⲟⲓ",
+    "englishTransliteration": "foi",
+    "reference": "260b",
+    "partOfSpeech": "f",
+    "gloss": "Bench",
+    "definition": "Bench"
+  },
+  {
+    "headword": "e",
+    "copticWord": "ⲉ",
+    "englishTransliteration": "e",
+    "gloss": "vi. To attain to",
+    "definition": "vi. To attain to"
+  },
+  {
+    "headword": "von=",
+    "copticWord": "ⲫⲟⲛ",
+    "englishTransliteration": "fon",
+    "gloss": "To flow",
+    "definition": "To flow",
+    "crossReference": {
+      "target": "vwn",
+      "gloss": "To flow"
+    }
+  },
+  {
+    "headword": "volh=",
+    "copticWord": "ⲫⲟⲗϩ",
+    "englishTransliteration": "folh",
+    "gloss": "To be wounded",
+    "definition": "To be wounded",
+    "crossReference": {
+      "target": "vwlh",
+      "gloss": "To be wounded"
+    }
+  },
+  {
+    "headword": "epec/t e",
+    "copticWord": "ⲉⲡⲉⲥⲏⲧ ⲉ",
+    "englishTransliteration": "epesit e",
+    "gloss": "vi. To reach down to",
+    "definition": "vi. To reach down to"
+  },
+  {
+    "headword": "volhf",
+    "copticWord": "ⲫⲟⲗϩϥ",
+    "englishTransliteration": "folhf",
+    "gloss": "Wounded person",
+    "definition": "Wounded person",
+    "crossReference": {
+      "target": "vwlh",
+      "gloss": "Wounded person"
+    }
+  },
+  {
+    "headword": "volj",
+    "copticWord": "ⲫⲟⲗϫ",
+    "englishTransliteration": "folj",
+    "gloss": "To deliver",
+    "definition": "To deliver",
+    "crossReference": {
+      "target": "vwlj",
+      "gloss": "To deliver"
+    }
+  },
+  {
+    "headword": "volj=",
+    "copticWord": "ⲫⲟⲗϫ",
+    "englishTransliteration": "folj",
+    "gloss": "To deliver",
+    "definition": "To deliver",
+    "crossReference": {
+      "target": "vwlj",
+      "gloss": "To deliver"
+    }
+  },
+  {
+    "headword": "epswi e",
+    "copticWord": "ⲉⲡϣⲱⲓ ⲉ",
+    "englishTransliteration": "epshōi e",
+    "gloss": "vi. To reach up to",
+    "definition": "--- eqoun e-: vi. To reach, to arrive within;"
+  },
+  {
+    "headword": "eqr/i e",
+    "copticWord": "ⲉϧⲣⲏⲓ ⲉ",
+    "englishTransliteration": "ekhrii e",
+    "gloss": "vi. To reach down",
+    "definition": "--- ejen: vi. To reach, come upon; --- n-: vi. To arrive at;"
+  }
+]

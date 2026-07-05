@@ -1,0 +1,483 @@
+[
+  {
+    "headword": "hra",
+    "copticWord": "ϩⲣⲁ",
+    "englishTransliteration": "hra",
+    "variants": [
+      {
+        "word": "hrw=",
+        "copticWord": "ϩⲣⲱ",
+        "englishTransliteration": "hrō"
+      }
+    ],
+    "reference": "698a",
+    "partOfSpeech": "vb",
+    "gloss": "It is fitting",
+    "definition": "It is fitting"
+  },
+  {
+    "headword": "hra=",
+    "copticWord": "ϩⲣⲁ",
+    "englishTransliteration": "hra",
+    "gloss": "Face",
+    "definition": "Face",
+    "crossReference": {
+      "target": "ho",
+      "gloss": "Face"
+    }
+  },
+  {
+    "headword": "hou/ou",
+    "copticWord": "ϩⲟⲩⲏⲟⲩ",
+    "englishTransliteration": "houiou",
+    "reference": "739b"
+  },
+  {
+    "headword": "Q. prob. = ou/ou houit",
+    "copticWord": "Ϧ. ⲡⲣⲟⲃ.  ⲟ̅ⲩⲏⲟⲩ ϩⲟⲩⲓⲧ",
+    "englishTransliteration": "Kh. prov.  o̅yiou houit",
+    "variants": [
+      {
+        "type": "f.",
+        "word": "houi]",
+        "copticWord": "ϩⲟⲩⲓϯ",
+        "englishTransliteration": "houiti"
+      },
+      {
+        "type": "pl.",
+        "word": "houa]",
+        "copticWord": "ϩⲟⲩⲁϯ",
+        "englishTransliteration": "houati"
+      }
+    ],
+    "reference": "738a",
+    "partOfSpeech": "m",
+    "gloss": "First",
+    "definition": "f. Beginning, first;"
+  },
+  {
+    "headword": "hre",
+    "copticWord": "ϩⲣⲉ",
+    "englishTransliteration": "hre",
+    "gloss": "Upper part",
+    "definition": "Upper part",
+    "crossReference": {
+      "target": "hr/i",
+      "gloss": "Upper part"
+    }
+  },
+  {
+    "headword": "hre=",
+    "copticWord": "ϩⲣⲉ",
+    "englishTransliteration": "hre",
+    "gloss": "Face",
+    "definition": "Face",
+    "crossReference": {
+      "target": "ho",
+      "gloss": "Face"
+    }
+  },
+  {
+    "headword": "er",
+    "copticWord": "ⲉⲣ",
+    "englishTransliteration": "er",
+    "variants": [
+      {
+        "word": "oi nhouit",
+        "copticWord": "ⲟⲓ ⲛϩⲟⲩⲓⲧ",
+        "englishTransliteration": "oi nhouit"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To be first. houi] v. houit - First one",
+    "definition": "To be first. houi] v. houit - First one"
+  },
+  {
+    "headword": "hresi",
+    "copticWord": "ϩⲣⲉϣⲓ",
+    "englishTransliteration": "hreshi",
+    "gloss": "Weight",
+    "definition": "Weight",
+    "crossReference": {
+      "target": "(1)hros",
+      "gloss": "Weight"
+    }
+  },
+  {
+    "headword": "href",
+    "copticWord": "ϩⲣⲉϥ",
+    "englishTransliteration": "href",
+    "reference": "702a",
+    "partOfSpeech": "m",
+    "gloss": "Chisel",
+    "definition": "Chisel"
+  },
+  {
+    "headword": "hulakmi",
+    "copticWord": "ϩⲩⲗⲁⲕⲙⲓ",
+    "englishTransliteration": "hylakmi",
+    "gloss": "Blear-eyed person",
+    "definition": "Blear-eyed person",
+    "crossReference": {
+      "target": "hilakmi",
+      "gloss": "Blear-eyed person"
+    }
+  },
+  {
+    "headword": "hr/i",
+    "copticWord": "ϩⲣⲏⲓ",
+    "englishTransliteration": "hrii",
+    "variants": [
+      {
+        "word": "hre",
+        "copticWord": "ϩⲣⲉ",
+        "englishTransliteration": "hre"
+      }
+    ],
+    "reference": "698a",
+    "partOfSpeech": "m",
+    "gloss": "Upper part",
+    "definition": "Upper part",
+    "senses": [
+      {
+        "label": "ehr/i",
+        "gloss": "prep. To, above, upward",
+        "definition": "prep. To, above, upward"
+      },
+      {
+        "partOfSpeech": "n",
+        "gloss": "Person above, superior, magnate",
+        "definition": "ha: prep. Up to; qen: prep. Up from;"
+      },
+      {
+        "label": "nhr/i",
+        "partOfSpeech": "adv",
+        "gloss": "Upward, above",
+        "definition": "Upward, above"
+      },
+      {
+        "label": "hi",
+        "partOfSpeech": "adv",
+        "gloss": "(w/emphasis) on, in",
+        "definition": "saehr/i: adv. Upward; e-: adv. Up to."
+      }
+    ]
+  },
+  {
+    "headword": "hum/",
+    "copticWord": "ϩⲩⲙⲏ",
+    "englishTransliteration": "hymi",
+    "gloss": "Pelican. houo, ouho: (735a)",
+    "definition": "m. Greater part, greatness; adj. Greater, more;",
+    "crossReference": {
+      "target": "hm/",
+      "gloss": "Pelican. houo, ouho: (735a)"
+    },
+    "senses": [
+      {
+        "label": "e",
+        "gloss": "Beyond, more than",
+        "definition": "nhouo: adv. Greatly, very, more; methouo: f. Abundance, superfluity; erhouo: vb. To be, have more; exceed;"
+      },
+      {
+        "label": "e",
+        "partOfSpeech": "vb",
+        "gloss": "To be, have more than",
+        "definition": "---: vb. (+obj. n. or vb. immediately following) To be the more, do greatly."
+      }
+    ]
+  },
+  {
+    "headword": "hr/ri",
+    "copticWord": "ϩⲣⲏⲣⲓ",
+    "englishTransliteration": "hriri",
+    "variants": [
+      {
+        "word": "ehr/ri",
+        "copticWord": "ⲉϩⲣⲏⲣⲓ",
+        "englishTransliteration": "ehriri"
+      }
+    ],
+    "reference": "704a",
+    "partOfSpeech": "f",
+    "gloss": "Flower",
+    "definition": "Flower"
+  },
+  {
+    "headword": "hourw=",
+    "copticWord": "ϩⲟⲩⲣⲱ",
+    "englishTransliteration": "hourō",
+    "reference": "737b",
+    "gloss": "vt. To deprive",
+    "definition": "vt. To deprive"
+  },
+  {
+    "headword": "hr/si",
+    "copticWord": "ϩⲣⲏϣⲓ",
+    "englishTransliteration": "hrishi",
+    "gloss": "Weight",
+    "definition": "Weight",
+    "crossReference": {
+      "target": "(1)hros",
+      "gloss": "Weight"
+    }
+  },
+  {
+    "headword": "(1) hrim",
+    "copticWord": "ϩⲣⲓⲙ",
+    "englishTransliteration": "hrim",
+    "reference": "703a",
+    "partOfSpeech": "m",
+    "gloss": "Pelican",
+    "definition": "Pelican",
+    "senses": [
+      {
+        "label": "qrim",
+        "gloss": "Bird's claw",
+        "definition": "Bird's claw"
+      }
+    ]
+  },
+  {
+    "headword": "hourwou (Q) v. heri - To be ceased. houf",
+    "copticWord": "ϩⲟⲩⲣⲱⲟⲩ (Ϧ) ⲫ. ϩⲉⲣⲓ - Ⲧⲟ ⲃⲉ ⲥⲉⲁϣⲉⲇ. ϩⲟⲩϥ",
+    "englishTransliteration": "hourōou (Kh) f. heri - To ve seashed. houf",
+    "reference": "741a",
+    "partOfSpeech": "m",
+    "gloss": "Vetch, pulse",
+    "definition": "Vetch, pulse"
+  },
+  {
+    "headword": "(2) hrim",
+    "copticWord": "ϩⲣⲓⲙ",
+    "englishTransliteration": "hrim",
+    "reference": "703b",
+    "partOfSpeech": "m",
+    "gloss": "a plant (artemisia)",
+    "definition": "a plant (artemisia)"
+  },
+  {
+    "headword": "hw",
+    "copticWord": "ϩⲱ",
+    "englishTransliteration": "hō",
+    "reference": "651a",
+    "partOfSpeech": "vb",
+    "gloss": "mostly impers., To suffice, be enough",
+    "definition": "mostly impers., To suffice, be enough",
+    "senses": [
+      {
+        "label": "e",
+        "partOfSpeech": "vb",
+        "gloss": "To be satisfied with",
+        "definition": "To be satisfied with"
+      }
+    ]
+  },
+  {
+    "headword": "(1) hros",
+    "copticWord": "ϩⲣⲟϣ",
+    "englishTransliteration": "hrosh",
+    "variants": [
+      {
+        "word": "ehros",
+        "copticWord": "ⲉϩⲣⲟϣ",
+        "englishTransliteration": "ehrosh"
+      },
+      {
+        "word": "(Q) hors",
+        "copticWord": "(Ϧ) ϩⲟⲣϣ",
+        "englishTransliteration": "(Kh) horsh"
+      }
+    ],
+    "reference": "706a",
+    "gloss": "vi. To be heavy, slow, difficult",
+    "definition": "vt. To make heavy;",
+    "senses": [
+      {
+        "label": "e",
+        "partOfSpeech": "vb",
+        "gloss": "To be difficult for, beyond",
+        "definition": "To be difficult for, beyond"
+      },
+      {
+        "label": "ejen",
+        "partOfSpeech": "vb",
+        "gloss": "To be difficult upon",
+        "definition": "To be difficult upon"
+      },
+      {
+        "label": "n",
+        "partOfSpeech": "vb",
+        "gloss": "To be difficult with, in",
+        "definition": "--- qen: vb. To be difficult in; ---: m. Weight, burden;"
+      }
+    ]
+  },
+  {
+    "headword": "hw=",
+    "copticWord": "ϩⲱ",
+    "englishTransliteration": "hō",
+    "reference": "651b",
+    "gloss": "Pron. of emphasis or contrast. Self, also, for (+pron.) part",
+    "definition": "But, on the other hand."
+  },
+  {
+    "headword": "(1) hwb",
+    "copticWord": "ϩⲱⲃ",
+    "englishTransliteration": "hōv",
+    "reference": "652b",
+    "gloss": "vt. To send",
+    "definition": "vt. To send"
+  },
+  {
+    "headword": "remnhwb",
+    "copticWord": "ⲣⲉⲙⲛϩⲱⲃ",
+    "englishTransliteration": "remnhōv",
+    "partOfSpeech": "m",
+    "gloss": "Man sent, messenger",
+    "definition": "Man sent, messenger"
+  },
+  {
+    "headword": "(2) hwb",
+    "copticWord": "ϩⲱⲃ",
+    "englishTransliteration": "hōv",
+    "variants": [
+      {
+        "word": "heb",
+        "copticWord": "ϩⲉⲃ",
+        "englishTransliteration": "hev"
+      },
+      {
+        "type": "pl.",
+        "word": "hb/oui",
+        "copticWord": "ϩⲃⲏⲟⲩⲓ",
+        "englishTransliteration": "hvioui"
+      }
+    ],
+    "reference": "653a",
+    "partOfSpeech": "m",
+    "gloss": "Thing, work, matter, event",
+    "definition": "Thing, work, matter, event",
+    "senses": [
+      {
+        "label": "e",
+        "partOfSpeech": "vb",
+        "gloss": "To do work at, on",
+        "definition": "--- ha: vb. To do work for;"
+      }
+    ]
+  },
+  {
+    "headword": "mmon hwb",
+    "copticWord": "ⲙⲙⲟⲛ ϩⲱⲃ",
+    "englishTransliteration": "mmon hōv",
+    "gloss": "There is not a matter, is no business",
+    "definition": "There is not a matter, is no business"
+  },
+  {
+    "headword": "hwb njij",
+    "copticWord": "ϩⲱⲃ ⲛϫⲓϫ",
+    "englishTransliteration": "hōv njeeg",
+    "partOfSpeech": "m",
+    "gloss": "Handiwork",
+    "definition": "Handiwork"
+  },
+  {
+    "headword": "erhwb",
+    "copticWord": "ⲉⲣϩⲱⲃ",
+    "englishTransliteration": "erhōv",
+    "partOfSpeech": "vb",
+    "gloss": "To do work",
+    "definition": "To do work"
+  },
+  {
+    "headword": "qen",
+    "copticWord": "ϧⲉⲛ",
+    "englishTransliteration": "khen",
+    "partOfSpeech": "vb",
+    "gloss": "To do work in, with, by",
+    "definition": "To do work in, with, by"
+  },
+  {
+    "headword": "hroub",
+    "copticWord": "ϩⲣⲟⲩⲃ",
+    "englishTransliteration": "hrouv",
+    "gloss": "Young fish. hrour: (705b)",
+    "definition": "Young fish. hrour: (705b)",
+    "crossReference": {
+      "target": "hfour",
+      "gloss": "Young fish. hrour: (705b)"
+    }
+  },
+  {
+    "headword": "vi. To be quiet",
+    "copticWord": "ⲫⲓ. Ⲧⲟ ⲃⲉ ϧⲩⲓⲉⲧ",
+    "englishTransliteration": "fi. To ve khyiet",
+    "variants": [
+      {
+        "word": "cease. hrw",
+        "copticWord": "ⲥⲉⲁϣⲉ. ϩⲣⲱ",
+        "englishTransliteration": "seashe. hrō"
+      },
+      {
+        "word": "ehrw",
+        "copticWord": "ⲉϩⲣⲱ",
+        "englishTransliteration": "ehrō"
+      }
+    ],
+    "reference": "701b"
+  },
+  {
+    "headword": "f. Oven",
+    "copticWord": "ϥ. Ⲟⲫⲉⲛ",
+    "englishTransliteration": "f. Ofen",
+    "variants": [
+      {
+        "word": "furnace. hrw= v. hra- - It is fitting. hrwt",
+        "copticWord": "ϥⲩⲣⲛⲁⲥⲉ. ϩⲣⲱ ⲫ̅. ϩⲣⲁ- - Ⲓⲧ ⲓϣ ϥⲓⲧⲧⲓⲛⲅ. ϩⲣⲱⲧ",
+        "englishTransliteration": "fyrnase. hrō f̅. hra- - It ish fitting. hrōt"
+      },
+      {
+        "word": "ehrwt",
+        "copticWord": "ⲉϩⲣⲱⲧ",
+        "englishTransliteration": "ehrōt"
+      }
+    ],
+    "reference": "704b"
+  },
+  {
+    "headword": "f. Wine press. htop",
+    "copticWord": "ϥ. Ⲱⲓⲛⲉ ⲡⲣⲉϣϣ. ϩⲧⲟⲡ",
+    "englishTransliteration": "f. Ōine preshsh. htop",
+    "reference": "725b",
+    "partOfSpeech": "m",
+    "gloss": "Fall, destruction. hou- la v. la - To slander. houa] v. houit - First ones",
+    "definition": "Fall, destruction. hou- la v. la - To slander. houa] v. houit - First ones"
+  },
+  {
+    "headword": "hwb",
+    "copticWord": "ϩⲱⲃ",
+    "englishTransliteration": "hōv",
+    "gloss": "Horn",
+    "definition": "Horn",
+    "crossReference": {
+      "target": "(2)hwp",
+      "gloss": "Horn"
+    }
+  },
+  {
+    "headword": "(Q) hobc",
+    "copticWord": "(Ϧ) ϩⲟⲃⲥ",
+    "englishTransliteration": "(Kh) hovs",
+    "variants": [
+      {
+        "word": "hopc",
+        "copticWord": "ϩⲟⲡⲥ",
+        "englishTransliteration": "hops"
+      }
+    ],
+    "reference": "658b",
+    "gloss": "vi. To cover, be covered",
+    "definition": "vi. To cover, be covered"
+  }
+]

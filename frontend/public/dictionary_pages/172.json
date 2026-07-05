@@ -1,0 +1,743 @@
+[
+  {
+    "headword": "(2) [non",
+    "copticWord": "ϭⲛⲟⲛ",
+    "englishTransliteration": "chnon",
+    "variants": [
+      {
+        "word": "[ne",
+        "copticWord": "ϭⲛⲉ",
+        "englishTransliteration": "chne"
+      }
+    ],
+    "reference": "821b",
+    "gloss": "vt. To bend, bow (w/jw= head)",
+    "definition": "vt. To bend, bow (w/jw= head)",
+    "senses": [
+      {
+        "gloss": ": m. Submission, obedience",
+        "definition": ": m. Submission, obedience"
+      }
+    ]
+  },
+  {
+    "headword": "[lil",
+    "copticWord": "ϭⲗⲓⲗ",
+    "englishTransliteration": "chlil",
+    "reference": "811a",
+    "partOfSpeech": "m",
+    "gloss": "Burnt-offering",
+    "definition": "Burnt-offering"
+  },
+  {
+    "headword": "[lo",
+    "copticWord": "ϭⲗⲟ",
+    "englishTransliteration": "chlo",
+    "reference": "810a",
+    "gloss": "vt. To surround, besiege",
+    "definition": "---, f"
+  },
+  {
+    "headword": "[rw",
+    "copticWord": "ϭⲣⲱ",
+    "englishTransliteration": "chrō",
+    "partOfSpeech": "m",
+    "gloss": "Hedge, fence",
+    "definition": "Hedge, fence"
+  },
+  {
+    "headword": "[loi",
+    "copticWord": "ϭⲗⲟⲓ",
+    "englishTransliteration": "chloi",
+    "reference": "810b",
+    "partOfSpeech": "f",
+    "gloss": "Ball",
+    "definition": "Ball"
+  },
+  {
+    "headword": "[nof",
+    "copticWord": "ϭⲛⲟϥ",
+    "englishTransliteration": "chnof",
+    "variants": [
+      {
+        "word": "snof",
+        "copticWord": "ϣⲛⲟϥ",
+        "englishTransliteration": "shnof"
+      },
+      {
+        "word": "snouf",
+        "copticWord": "ϣⲛⲟⲩϥ",
+        "englishTransliteration": "shnouf"
+      }
+    ],
+    "reference": "777a",
+    "partOfSpeech": "m",
+    "gloss": "Bas-ket, crate",
+    "definition": "Bas-ket, crate"
+  },
+  {
+    "headword": "[nou",
+    "copticWord": "ϭⲛⲟⲩ",
+    "englishTransliteration": "chnou",
+    "variants": [
+      {
+        "word": "[nou=",
+        "copticWord": "ϭⲛⲟⲩ",
+        "englishTransliteration": "chnou"
+      }
+    ],
+    "reference": "774b",
+    "gloss": "vt. To ask, question, require",
+    "definition": "vt. To ask, question, require"
+  },
+  {
+    "headword": "[nou=",
+    "copticWord": "ϭⲛⲟⲩ",
+    "englishTransliteration": "chnou",
+    "gloss": "To ask",
+    "definition": "To ask",
+    "crossReference": {
+      "target": "[nou",
+      "gloss": "To ask"
+    }
+  },
+  {
+    "headword": "[lomlem",
+    "copticWord": "ϭⲗⲟⲙⲗⲉⲙ",
+    "englishTransliteration": "chlomlem",
+    "variants": [
+      {
+        "word": "klomlem",
+        "copticWord": "ⲕⲗⲟⲙⲗⲉⲙ",
+        "englishTransliteration": "klomlem"
+      },
+      {
+        "word": "lomlem",
+        "copticWord": "ⲗⲟⲙⲗⲉⲙ",
+        "englishTransliteration": "lomlem"
+      },
+      {
+        "word": "[lemlwm=; (Q) [lemlwm",
+        "copticWord": "ϭⲗⲉⲙⲗⲱⲙⲑ̅ (Ϧ) ϭⲗⲉⲙⲗⲱⲙ",
+        "englishTransliteration": "chlemlōmth̅ (Kh) chlemlōm"
+      },
+      {
+        "word": "leml/m",
+        "copticWord": "ⲗⲉⲙⲗⲏⲙ",
+        "englishTransliteration": "lemlim"
+      }
+    ],
+    "reference": "811a",
+    "gloss": "vi. To be twisted, implicated",
+    "definition": "vi. To be twisted, implicated"
+  },
+  {
+    "headword": "[lot",
+    "copticWord": "ϭⲗⲟⲧ",
+    "englishTransliteration": "chlot",
+    "gloss": "Gourd",
+    "definition": "Gourd",
+    "crossReference": {
+      "target": "(2)[loj",
+      "gloss": "Gourd"
+    }
+  },
+  {
+    "headword": "[nouf",
+    "copticWord": "ϭⲛⲟⲩϥ",
+    "englishTransliteration": "chnouf",
+    "variants": [
+      {
+        "word": "[nwf",
+        "copticWord": "ϭⲛⲱϥ",
+        "englishTransliteration": "chnōf"
+      }
+    ],
+    "reference": "824a",
+    "partOfSpeech": "m",
+    "gloss": "Heavy object (iron hammer)",
+    "definition": "Heavy object (iron hammer)"
+  },
+  {
+    "headword": "[lof",
+    "copticWord": "ϭⲗⲟϥ",
+    "englishTransliteration": "chlof",
+    "gloss": "Shame",
+    "definition": "Shame",
+    "crossReference": {
+      "target": "slof",
+      "gloss": "Shame"
+    }
+  },
+  {
+    "headword": "[nwou",
+    "copticWord": "ϭⲛⲱⲟⲩ",
+    "englishTransliteration": "chnōou",
+    "reference": "776b",
+    "partOfSpeech": "m",
+    "gloss": "Threshing floor",
+    "definition": "Threshing floor"
+  },
+  {
+    "headword": "(1) [loj",
+    "copticWord": "ϭⲗⲟϫ",
+    "englishTransliteration": "chloj",
+    "variants": [
+      {
+        "word": "jolj",
+        "copticWord": "ϫⲟⲗϫ",
+        "englishTransliteration": "jolj"
+      }
+    ],
+    "reference": "815a",
+    "partOfSpeech": "m",
+    "gloss": "Bed, bier",
+    "definition": "Bed, bier"
+  },
+  {
+    "headword": "[nwf",
+    "copticWord": "ϭⲛⲱϥ",
+    "englishTransliteration": "chnōf",
+    "gloss": "Heavy object",
+    "definition": "Heavy object",
+    "crossReference": {
+      "target": "[nouf",
+      "gloss": "Heavy object"
+    }
+  },
+  {
+    "headword": "(2) [loj",
+    "copticWord": "ϭⲗⲟϫ",
+    "englishTransliteration": "chloj",
+    "variants": [
+      {
+        "word": "[lot",
+        "copticWord": "ϭⲗⲟⲧ",
+        "englishTransliteration": "chlot"
+      },
+      {
+        "word": "e[loj",
+        "copticWord": "ⲉϭⲗⲟϫ",
+        "englishTransliteration": "echloj"
+      },
+      {
+        "word": "ejloj",
+        "copticWord": "ⲉϫⲗⲟϫ",
+        "englishTransliteration": "ejloj"
+      },
+      {
+        "word": "slwj",
+        "copticWord": "ϣⲗⲱϫ",
+        "englishTransliteration": "shlōj"
+      }
+    ],
+    "reference": "815a",
+    "partOfSpeech": "m",
+    "gloss": "Gourd",
+    "definition": "Gourd"
+  },
+  {
+    "headword": "(1) [o",
+    "copticWord": "ϭⲟ",
+    "englishTransliteration": "cho",
+    "variants": [
+      {
+        "word": "t[o",
+        "copticWord": "ⲧϭⲟ",
+        "englishTransliteration": "tcho"
+      },
+      {
+        "word": "[e",
+        "copticWord": "ϭⲉ",
+        "englishTransliteration": "che"
+      },
+      {
+        "word": "[o=",
+        "copticWord": "ϭⲟ",
+        "englishTransliteration": "cho"
+      },
+      {
+        "word": "(Q) [/out",
+        "copticWord": "(Ϧ) ϭⲏⲟⲩⲧ",
+        "englishTransliteration": "(Kh) chiout"
+      }
+    ],
+    "reference": "752a",
+    "gloss": "vi. To sow, plant",
+    "definition": "---: m. Sowing, planting;",
+    "senses": [
+      {
+        "label": "man[o",
+        "partOfSpeech": "m",
+        "gloss": "Place of sowing, planting",
+        "definition": "Place of sowing, planting"
+      }
+    ]
+  },
+  {
+    "headword": "[lwbi",
+    "copticWord": "ϭⲗⲱⲃⲓ",
+    "englishTransliteration": "chlōvi",
+    "reference": "810b",
+    "partOfSpeech": "m",
+    "gloss": "Scissors",
+    "definition": "Scissors"
+  },
+  {
+    "headword": "[lwt",
+    "copticWord": "ϭⲗⲱⲧ",
+    "englishTransliteration": "chlōt",
+    "variants": [
+      {
+        "word": "slwt",
+        "copticWord": "ϣⲗⲱⲧ",
+        "englishTransliteration": "shlōt"
+      }
+    ],
+    "reference": "813a",
+    "partOfSpeech": "mf",
+    "gloss": "Kidney",
+    "definition": "Kidney"
+  },
+  {
+    "headword": "(2) [o",
+    "copticWord": "ϭⲟ",
+    "englishTransliteration": "cho",
+    "variants": [
+      {
+        "word": "[e",
+        "copticWord": "ϭⲉ",
+        "englishTransliteration": "che"
+      },
+      {
+        "word": "[o=",
+        "copticWord": "ϭⲟ",
+        "englishTransliteration": "cho"
+      }
+    ],
+    "reference": "752b",
+    "gloss": "vt. To put forth, send forth",
+    "definition": "spend."
+  },
+  {
+    "headword": "[lwous",
+    "copticWord": "ϭⲗⲱⲟⲩϣ",
+    "englishTransliteration": "chlōoush",
+    "variants": [
+      {
+        "word": "slwous",
+        "copticWord": "ϣⲗⲱⲟⲩϣ",
+        "englishTransliteration": "shlōoush"
+      },
+      {
+        "word": "[alwous",
+        "copticWord": "ϭⲁⲗⲱⲟⲩϣ",
+        "englishTransliteration": "chalōoush"
+      }
+    ],
+    "reference": "813b",
+    "partOfSpeech": "m",
+    "gloss": "Maimed, paralysed person",
+    "definition": "Maimed, paralysed person"
+  },
+  {
+    "headword": "[me",
+    "copticWord": "ϭⲙⲉ",
+    "englishTransliteration": "chme",
+    "gloss": "Gardener",
+    "definition": "Gardener",
+    "crossReference": {
+      "target": "[wm",
+      "gloss": "Gardener"
+    }
+  },
+  {
+    "headword": "[o=",
+    "copticWord": "ϭⲟ",
+    "englishTransliteration": "cho",
+    "gloss": "To sow",
+    "definition": "To sow",
+    "crossReference": {
+      "target": "(1)[o",
+      "gloss": "To sow"
+    }
+  },
+  {
+    "headword": "[m/",
+    "copticWord": "ϭⲙⲏ",
+    "englishTransliteration": "chmi",
+    "gloss": "Gardener",
+    "definition": "Gardener",
+    "crossReference": {
+      "target": "[wm",
+      "gloss": "Gardener"
+    }
+  },
+  {
+    "headword": "[nau",
+    "copticWord": "ϭⲛⲁⲩ",
+    "englishTransliteration": "chnav",
+    "variants": [
+      {
+        "word": "[nauh",
+        "copticWord": "ϭⲛⲁⲩϩ",
+        "englishTransliteration": "chnavh"
+      }
+    ],
+    "reference": "776a",
+    "gloss": "vt. To delay",
+    "definition": "vt. To delay"
+  },
+  {
+    "headword": "[oic",
+    "copticWord": "ϭⲟⲓⲥ",
+    "englishTransliteration": "chois",
+    "variants": [
+      {
+        "type": "pl.",
+        "word": "[iceu",
+        "copticWord": "ϭⲓⲥⲉⲩ",
+        "englishTransliteration": "chisev"
+      }
+    ],
+    "reference": "787b",
+    "partOfSpeech": "m",
+    "gloss": "Lord, master",
+    "definition": "Lord, master",
+    "senses": [
+      {
+        "label": "f",
+        "gloss": "Lady, mistress",
+        "definition": "Lady, mistress"
+      },
+      {
+        "label": "er",
+        "partOfSpeech": "vb",
+        "gloss": "To be lord, rule",
+        "definition": "met[oic: f. Lordship."
+      }
+    ]
+  },
+  {
+    "headword": "at[nau",
+    "copticWord": "ⲁⲧϭⲛⲁⲩ",
+    "englishTransliteration": "atchnav",
+    "partOfSpeech": "adj",
+    "gloss": "Without delay",
+    "definition": "Without delay"
+  },
+  {
+    "headword": "ref[nau",
+    "copticWord": "ⲣⲉϥϭⲛⲁⲩ",
+    "englishTransliteration": "refchnav",
+    "partOfSpeech": "m",
+    "gloss": "Sluggard",
+    "definition": "Sluggard"
+  },
+  {
+    "headword": "metref[nau",
+    "copticWord": "ⲙⲉⲧⲣⲉϥϭⲛⲁⲩ",
+    "englishTransliteration": "metrefchnav",
+    "partOfSpeech": "f",
+    "gloss": "Delay, sloth",
+    "definition": "Delay, sloth"
+  },
+  {
+    "headword": "[olbi",
+    "copticWord": "ϭⲟⲗⲃⲓ",
+    "englishTransliteration": "cholvi",
+    "variants": [
+      {
+        "word": "solbi",
+        "copticWord": "ϣⲟⲗⲃⲓ",
+        "englishTransliteration": "sholvi"
+      }
+    ],
+    "reference": "810b",
+    "partOfSpeech": "f",
+    "gloss": "Garment of wool",
+    "definition": "Garment of wool"
+  },
+  {
+    "headword": "[enne",
+    "copticWord": "ϭⲉⲛⲛⲉ",
+    "englishTransliteration": "chenne",
+    "variants": [
+      {
+        "type": "pl.",
+        "word": "[enneu",
+        "copticWord": "ϭⲉⲛⲛⲉⲩ",
+        "englishTransliteration": "chennev"
+      }
+    ],
+    "partOfSpeech": "n",
+    "gloss": "Sluggard, de-layer",
+    "definition": "Sluggard, de-layer"
+  },
+  {
+    "headword": "[olk",
+    "copticWord": "ϭⲟⲗⲕ",
+    "englishTransliteration": "cholk",
+    "gloss": "To stretch",
+    "definition": "To stretch",
+    "crossReference": {
+      "target": "[wlk",
+      "gloss": "To stretch"
+    }
+  },
+  {
+    "headword": "[nauh",
+    "copticWord": "ϭⲛⲁⲩϩ",
+    "englishTransliteration": "chnavh",
+    "gloss": "To delay",
+    "definition": "To delay",
+    "crossReference": {
+      "target": "[nau",
+      "gloss": "To delay"
+    }
+  },
+  {
+    "headword": "[olk=",
+    "copticWord": "ϭⲟⲗⲕ",
+    "englishTransliteration": "cholk",
+    "gloss": "To stretch",
+    "definition": "To stretch",
+    "crossReference": {
+      "target": "[wlk",
+      "gloss": "To stretch"
+    }
+  },
+  {
+    "headword": "[olkc",
+    "copticWord": "ϭⲟⲗⲕⲥ",
+    "englishTransliteration": "cholks",
+    "gloss": "Strain",
+    "definition": "Strain",
+    "crossReference": {
+      "target": "[wlk",
+      "gloss": "Strain"
+    }
+  },
+  {
+    "headword": "[olmec",
+    "copticWord": "ϭⲟⲗⲙⲉⲥ",
+    "englishTransliteration": "cholmes",
+    "gloss": "Gnat",
+    "definition": "Gnat",
+    "crossReference": {
+      "target": "solmec",
+      "gloss": "Gnat"
+    }
+  },
+  {
+    "headword": "[olp=",
+    "copticWord": "ϭⲟⲗⲡ",
+    "englishTransliteration": "cholp",
+    "gloss": "To create",
+    "definition": "To create",
+    "crossReference": {
+      "target": "(1)[wlp",
+      "gloss": "To create"
+    }
+  },
+  {
+    "headword": "[nah",
+    "copticWord": "ϭⲛⲁϩ",
+    "englishTransliteration": "chnah",
+    "variants": [
+      {
+        "type": "pl.",
+        "word": "[nauh",
+        "copticWord": "ϭⲛⲁⲩϩ",
+        "englishTransliteration": "chnavh"
+      }
+    ],
+    "reference": "777a",
+    "partOfSpeech": "m",
+    "gloss": "Forearm",
+    "definition": "Forearm"
+  },
+  {
+    "headword": "mar[nah",
+    "copticWord": "ⲙⲁⲣϭⲛⲁϩ",
+    "englishTransliteration": "marchnah",
+    "variants": [
+      {
+        "word": "morsnah",
+        "copticWord": "ⲙⲟⲣϣⲛⲁϩ",
+        "englishTransliteration": "morshnah"
+      },
+      {
+        "word": "mor-[nauh",
+        "copticWord": "ⲙⲟⲣ-ϭⲛⲁⲩϩ",
+        "englishTransliteration": "mor-chnavh"
+      }
+    ],
+    "partOfSpeech": "f",
+    "gloss": "What is bound on shoulders, scapular of monks",
+    "definition": "What is bound on shoulders, scapular of monks"
+  },
+  {
+    "headword": "[omf",
+    "copticWord": "ϭⲟⲙϥ",
+    "englishTransliteration": "chomf",
+    "variants": [
+      {
+        "word": "[onf",
+        "copticWord": "ϭⲟⲛϥ",
+        "englishTransliteration": "chonf"
+      }
+    ],
+    "reference": "795a",
+    "partOfSpeech": "m",
+    "gloss": "Papyrus",
+    "definition": "Papyrus"
+  },
+  {
+    "headword": "[ne",
+    "copticWord": "ϭⲛⲉ",
+    "englishTransliteration": "chne",
+    "gloss": "To bend",
+    "definition": "To bend",
+    "crossReference": {
+      "target": "(2)[non",
+      "gloss": "To bend"
+    }
+  },
+  {
+    "headword": "[ont=",
+    "copticWord": "ϭⲟⲛⲧ",
+    "englishTransliteration": "chont",
+    "gloss": "To try",
+    "definition": "To try",
+    "crossReference": {
+      "target": "jwnt",
+      "gloss": "To try"
+    }
+  },
+  {
+    "headword": "[n/n",
+    "copticWord": "ϭⲛⲏⲛ",
+    "englishTransliteration": "chnin",
+    "gloss": "v. s[n/n - To strive",
+    "definition": "v. s[n/n - To strive"
+  },
+  {
+    "headword": "[onf",
+    "copticWord": "ϭⲟⲛϥ",
+    "englishTransliteration": "chonf",
+    "gloss": "Papyrus",
+    "definition": "Papyrus",
+    "crossReference": {
+      "target": "[omf",
+      "gloss": "Papyrus"
+    }
+  },
+  {
+    "headword": "[n/out",
+    "copticWord": "ϭⲛⲏⲟⲩⲧ",
+    "englishTransliteration": "chniout",
+    "gloss": "To be soft",
+    "definition": "To be soft",
+    "crossReference": {
+      "target": "(1)[non",
+      "gloss": "To be soft"
+    }
+  },
+  {
+    "headword": "(1) [op",
+    "copticWord": "ϭⲟⲡ",
+    "englishTransliteration": "chop",
+    "variants": [
+      {
+        "word": "sop",
+        "copticWord": "ϣⲟⲡ",
+        "englishTransliteration": "shop"
+      }
+    ],
+    "reference": "824b",
+    "partOfSpeech": "f",
+    "gloss": "Sole of foot, foot",
+    "definition": "Sole of foot, foot"
+  },
+  {
+    "headword": "[no",
+    "copticWord": "ϭⲛⲟ",
+    "englishTransliteration": "chno",
+    "variants": [
+      {
+        "word": "(Q) [n/out",
+        "copticWord": "(Ϧ) ϭⲛⲏⲟⲩⲧ",
+        "englishTransliteration": "(Kh) chniout"
+      }
+    ],
+    "reference": "821a",
+    "gloss": "vi. To be hard",
+    "definition": "vi. To be hard"
+  },
+  {
+    "headword": "(2) [op",
+    "copticWord": "ϭⲟⲡ",
+    "englishTransliteration": "chop",
+    "reference": "825a",
+    "partOfSpeech": "f",
+    "gloss": "Cutting instrument",
+    "definition": "Cutting instrument"
+  },
+  {
+    "headword": "(1) [non",
+    "copticWord": "ϭⲛⲟⲛ",
+    "englishTransliteration": "chnon",
+    "variants": [
+      {
+        "word": "(Q) [n/out",
+        "copticWord": "(Ϧ) ϭⲛⲏⲟⲩⲧ",
+        "englishTransliteration": "(Kh) chniout"
+      }
+    ],
+    "reference": "821a",
+    "gloss": "vi. To be soft, smooth, weak",
+    "definition": "---: m. Softness.;",
+    "senses": [
+      {
+        "label": "jane",
+        "partOfSpeech": "adj",
+        "gloss": "Soft",
+        "definition": "Soft"
+      }
+    ]
+  },
+  {
+    "headword": "[op",
+    "copticWord": "ϭⲟⲡ",
+    "englishTransliteration": "chop",
+    "gloss": "To shave",
+    "definition": "To shave",
+    "crossReference": {
+      "target": "(1)swp",
+      "gloss": "To shave"
+    }
+  },
+  {
+    "headword": "[op=",
+    "copticWord": "ϭⲟⲡ",
+    "englishTransliteration": "chop",
+    "gloss": "To seize",
+    "definition": "To seize",
+    "crossReference": {
+      "target": "[wpi",
+      "gloss": "To seize"
+    }
+  },
+  {
+    "headword": "[orp=",
+    "copticWord": "ϭⲟⲣⲡ",
+    "englishTransliteration": "chorp",
+    "gloss": "To uncover",
+    "definition": "To uncover",
+    "crossReference": {
+      "target": "(1)[wrp",
+      "gloss": "To uncover"
+    }
+  }
+]

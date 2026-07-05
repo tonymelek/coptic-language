@@ -1,0 +1,515 @@
+[
+  {
+    "headword": "iop/",
+    "copticWord": "ⲓⲟⲡⲏ",
+    "englishTransliteration": "iopi",
+    "variants": [
+      {
+        "word": "iopi",
+        "copticWord": "ⲓⲟⲡⲓ",
+        "englishTransliteration": "iopi"
+      },
+      {
+        "word": "ieb",
+        "copticWord": "ⲓⲉⲃ",
+        "englishTransliteration": "iev"
+      },
+      {
+        "word": "i/b",
+        "copticWord": "ⲓⲏⲃ",
+        "englishTransliteration": "ieeb"
+      },
+      {
+        "word": "iep",
+        "copticWord": "ⲓⲉⲡ",
+        "englishTransliteration": "iep"
+      },
+      {
+        "word": "iev",
+        "copticWord": "ⲓⲉⲫ",
+        "englishTransliteration": "ief"
+      },
+      {
+        "word": "ieb",
+        "copticWord": "ⲓⲉⲃ",
+        "englishTransliteration": "iev"
+      }
+    ],
+    "partOfSpeech": "f",
+    "gloss": "Craft, art, occupation",
+    "definition": "Craft, art, occupation"
+  },
+  {
+    "headword": "iebswt",
+    "copticWord": "ⲓⲉⲃϣⲱⲧ",
+    "englishTransliteration": "ievshōt",
+    "partOfSpeech": "f",
+    "gloss": "Trade, merchandize",
+    "definition": "Trade, merchandize"
+  },
+  {
+    "headword": "eriebswt",
+    "copticWord": "ⲉⲣⲓⲉⲃϣⲱⲧ",
+    "englishTransliteration": "erievshōt",
+    "partOfSpeech": "vb",
+    "gloss": "To trade",
+    "definition": "To trade"
+  },
+  {
+    "headword": "metiebswt",
+    "copticWord": "ⲙⲉⲧⲓⲉⲃϣⲱⲧ",
+    "englishTransliteration": "metievshōt",
+    "partOfSpeech": "f",
+    "gloss": "Trading, merchandize",
+    "definition": "Trading, merchandize"
+  },
+  {
+    "headword": "ievouwi",
+    "copticWord": "ⲓⲉⲫⲟⲩⲱⲓ",
+    "englishTransliteration": "iefouōi",
+    "partOfSpeech": "f",
+    "gloss": "Tillage, tilled land",
+    "definition": "produce of tillage"
+  },
+  {
+    "headword": "erieb",
+    "copticWord": "ⲉⲣⲓⲉⲃ",
+    "englishTransliteration": "eriev",
+    "variants": [
+      {
+        "word": "eri/b",
+        "note": "hi/b",
+        "copticWord": "ⲉⲣⲓⲏⲃ",
+        "englishTransliteration": "erieeb"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To spin. iopi v. iop/ - Craft. ior: (82a)",
+    "definition": "m. Canal"
+  },
+  {
+    "headword": "iom",
+    "copticWord": "ⲓⲟⲙ",
+    "englishTransliteration": "iom",
+    "variants": [
+      {
+        "type": "pl.",
+        "word": "amaiou",
+        "copticWord": "ⲁⲙⲁⲓⲟⲩ",
+        "englishTransliteration": "amaiou"
+      }
+    ],
+    "reference": "77a",
+    "partOfSpeech": "m",
+    "gloss": "Sea",
+    "definition": "trench, conduit; wine press."
+  },
+  {
+    "headword": "metnaiat=",
+    "copticWord": "ⲙⲉⲧⲛⲁⲓⲁⲧ",
+    "englishTransliteration": "metnaiat",
+    "partOfSpeech": "f",
+    "gloss": "Blessedness",
+    "definition": "Blessedness"
+  },
+  {
+    "headword": "ieratik/",
+    "copticWord": "ⲓⲉⲣⲁⲧⲓⲕⲏ",
+    "englishTransliteration": "ieratiki",
+    "gloss": "Priestly. ieratikoc, hieratikoc, f. -/: (Gk)",
+    "definition": "m.",
+    "crossReference": {
+      "target": "ieratikoc",
+      "gloss": "Priestly. ieratikoc, hieratikoc, f. -/: (Gk)"
+    },
+    "senses": [
+      {
+        "gloss": "Priestly, sacerdotal",
+        "definition": "Priestly, sacerdotal"
+      }
+    ]
+  },
+  {
+    "headword": "iev",
+    "copticWord": "ⲓⲉⲫ",
+    "englishTransliteration": "ief",
+    "gloss": "Craft",
+    "definition": "Craft",
+    "crossReference": {
+      "target": "iop/",
+      "gloss": "Craft"
+    }
+  },
+  {
+    "headword": "i/b",
+    "copticWord": "ⲓⲏⲃ",
+    "englishTransliteration": "ieeb",
+    "gloss": "v. ieb - Claw",
+    "definition": "v. ieb - Claw"
+  },
+  {
+    "headword": "i/c",
+    "copticWord": "ⲓⲏⲥ",
+    "englishTransliteration": "iis",
+    "gloss": "(Q) v. iwc - To hasten",
+    "definition": "(Q) v. iwc - To hasten"
+  },
+  {
+    "headword": "imi",
+    "copticWord": "ⲓⲙⲓ",
+    "englishTransliteration": "imi",
+    "gloss": "Knowledge",
+    "definition": "Knowledge",
+    "crossReference": {
+      "target": "emi",
+      "gloss": "Knowledge"
+    }
+  },
+  {
+    "headword": "(1) imperat. anioui",
+    "copticWord": "ⲓⲙⲡⲉⲣⲁⲧ. ⲁⲛⲓⲟⲩⲓ",
+    "englishTransliteration": "imperat. anioui",
+    "variants": [
+      {
+        "word": "anit=",
+        "copticWord": "ⲁⲛⲓⲧ",
+        "englishTransliteration": "anit"
+      }
+    ],
+    "reference": "78b",
+    "gloss": "vt. To bring bear",
+    "definition": "vt. To bring bear",
+    "senses": [
+      {
+        "label": "e",
+        "partOfSpeech": "vb",
+        "gloss": "To bring to, bring for",
+        "definition": "To bring to, bring for"
+      },
+      {
+        "label": "erat=",
+        "partOfSpeech": "vb",
+        "gloss": "To bring to, bring before",
+        "definition": "To bring to, bring before"
+      },
+      {
+        "label": "ejen",
+        "partOfSpeech": "vb",
+        "gloss": "To bring upon",
+        "definition": "liken to, cmpare with;"
+      },
+      {
+        "label": "n",
+        "partOfSpeech": "vb",
+        "gloss": "To bring to (of persons)",
+        "definition": "To bring to (of persons)"
+      },
+      {
+        "label": "nahren",
+        "partOfSpeech": "vb",
+        "gloss": "To bring before",
+        "definition": "To bring before"
+      },
+      {
+        "label": "sa",
+        "partOfSpeech": "vb",
+        "gloss": "To bring to",
+        "definition": "To bring to"
+      },
+      {
+        "label": "ha",
+        "partOfSpeech": "vb",
+        "gloss": "To bring to (of persons",
+        "definition": "To bring to (of persons"
+      },
+      {
+        "label": "hijen",
+        "partOfSpeech": "vb",
+        "gloss": "To bring upon, carry upon",
+        "definition": "To bring upon, carry upon"
+      },
+      {
+        "label": "ebol",
+        "partOfSpeech": "vb",
+        "gloss": "To bring out, put out, publish",
+        "definition": "To bring out, put out, publish"
+      },
+      {
+        "label": "eym/]",
+        "partOfSpeech": "vb",
+        "gloss": "To bring into midst, recall",
+        "definition": "To bring into midst, recall"
+      },
+      {
+        "label": "epec/t",
+        "partOfSpeech": "vb",
+        "gloss": "To bring down",
+        "definition": "To bring down"
+      },
+      {
+        "label": "epswi",
+        "partOfSpeech": "vb",
+        "gloss": "To bring up, raise up",
+        "definition": "To bring up, raise up"
+      },
+      {
+        "label": "evahou",
+        "partOfSpeech": "vb",
+        "gloss": "To bring back",
+        "definition": "To bring back"
+      },
+      {
+        "label": "eqr/i",
+        "partOfSpeech": "vb",
+        "gloss": "To bring down",
+        "definition": "To bring down"
+      },
+      {
+        "label": "eqoun",
+        "partOfSpeech": "vb",
+        "gloss": "To bring in, put in",
+        "definition": "---: m. Reception, reciept;"
+      },
+      {
+        "label": "ehr/i",
+        "partOfSpeech": "vb",
+        "gloss": "To bring up",
+        "definition": "To bring up"
+      },
+      {
+        "label": "hith/",
+        "partOfSpeech": "vb",
+        "gloss": "To bring forward",
+        "definition": "jinini, jinen=: mf. Bringing;"
+      }
+    ]
+  },
+  {
+    "headword": "qaior",
+    "copticWord": "ϧⲁⲓⲟⲣ",
+    "englishTransliteration": "khaior",
+    "partOfSpeech": "m",
+    "gloss": "Canal bank",
+    "definition": "Canal bank"
+  },
+  {
+    "headword": "jinior",
+    "copticWord": "ϫⲓⲛⲓⲟⲣ",
+    "englishTransliteration": "jinior",
+    "partOfSpeech": "m",
+    "gloss": "Place of ferry, ford",
+    "definition": "ferryboat; ferryman"
+  },
+  {
+    "headword": "erjinior",
+    "copticWord": "ⲉⲣϫⲓⲛⲓⲟⲣ",
+    "englishTransliteration": "erjinior",
+    "partOfSpeech": "vb",
+    "gloss": "To ferry over, ford river, cross sea or land",
+    "definition": "To ferry over, ford river, cross sea or land"
+  },
+  {
+    "headword": "aterjinior",
+    "copticWord": "ⲁⲧⲉⲣϫⲓⲛⲓⲟⲣ",
+    "englishTransliteration": "aterjinior",
+    "partOfSpeech": "adj",
+    "gloss": "Not to be crossed, inaccessible",
+    "definition": "iaro, pl"
+  },
+  {
+    "headword": "iarwou",
+    "copticWord": "ⲓⲁⲣⲱⲟⲩ",
+    "englishTransliteration": "iarōou",
+    "partOfSpeech": "m",
+    "gloss": "River, lit. great canal",
+    "definition": "River, lit. great canal"
+  },
+  {
+    "headword": "steam",
+    "copticWord": "ϣⲧⲉⲁⲙ",
+    "englishTransliteration": "shteam",
+    "variants": [
+      {
+        "word": "viaro",
+        "copticWord": "ⲫⲓⲁⲣⲟ",
+        "englishTransliteration": "fiaro"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "The Nile",
+    "definition": "The Nile"
+  },
+  {
+    "headword": "(1)iohi",
+    "copticWord": "ⲓⲟϩⲓ",
+    "englishTransliteration": "iohi",
+    "variants": [
+      {
+        "word": "iah",
+        "copticWord": "ⲓⲁϩ",
+        "englishTransliteration": "iah"
+      }
+    ],
+    "reference": "89b",
+    "partOfSpeech": "m",
+    "gloss": "Field",
+    "definition": "Field"
+  },
+  {
+    "headword": "ceyiohi",
+    "copticWord": "ⲥⲉⲑⲓⲟϩⲓ",
+    "englishTransliteration": "sethiohi",
+    "partOfSpeech": "f",
+    "gloss": "A measure of tilled land",
+    "definition": "A measure of tilled land"
+  },
+  {
+    "headword": "(2)iohi",
+    "copticWord": "ⲓⲟϩⲓ",
+    "englishTransliteration": "iohi",
+    "reference": "90b",
+    "gloss": "Fold",
+    "definition": "Fold",
+    "crossReference": {
+      "target": "ohi",
+      "gloss": "Fold"
+    }
+  },
+  {
+    "headword": "(2) ini",
+    "copticWord": "ⲓⲛⲓ",
+    "englishTransliteration": "ini",
+    "variants": [
+      {
+        "word": "oni",
+        "note": "Q",
+        "copticWord": "ⲟⲛⲓ",
+        "englishTransliteration": "oni"
+      }
+    ],
+    "reference": "80b",
+    "gloss": "vt. To resemble, be like",
+    "definition": "vt. To resemble, be like",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "Likeness, aspect",
+        "definition": "Likeness, aspect"
+      }
+    ]
+  },
+  {
+    "headword": "(3) ini",
+    "copticWord": "ⲓⲛⲓ",
+    "englishTransliteration": "ini",
+    "reference": "81a",
+    "partOfSpeech": "f",
+    "gloss": "Thumb",
+    "definition": "great toe."
+  },
+  {
+    "headword": "(3)iohi",
+    "copticWord": "ⲓⲟϩⲓ",
+    "englishTransliteration": "iohi",
+    "reference": "90b",
+    "partOfSpeech": "n",
+    "gloss": "Water wheel",
+    "definition": "Water wheel"
+  },
+  {
+    "headword": "io]",
+    "copticWord": "ⲓⲟϯ",
+    "englishTransliteration": "ioti",
+    "gloss": "Fathers",
+    "definition": "Fathers",
+    "crossReference": {
+      "target": "(1)iwt",
+      "gloss": "Fathers"
+    }
+  },
+  {
+    "headword": "arioui",
+    "copticWord": "ⲁⲣⲓⲟⲩⲓ",
+    "englishTransliteration": "arioui",
+    "variants": [
+      {
+        "word": "ari",
+        "copticWord": "ⲁⲣⲓ",
+        "englishTransliteration": "ari"
+      },
+      {
+        "word": "arit=",
+        "copticWord": "ⲁⲣⲓⲧ",
+        "englishTransliteration": "arit"
+      }
+    ],
+    "reference": "83a",
+    "gloss": "vi. To act",
+    "definition": "become, befall; do; vt. to make; make fruit, bear fruit; pass time; make (total); amount to"
+  },
+  {
+    "headword": "refiri",
+    "copticWord": "ⲣⲉϥⲓⲣⲓ",
+    "englishTransliteration": "refiri",
+    "partOfSpeech": "m",
+    "gloss": "Maker, doer",
+    "definition": "Maker, doer"
+  },
+  {
+    "headword": "metrefiri",
+    "copticWord": "ⲙⲉⲧⲣⲉϥⲓⲣⲓ",
+    "englishTransliteration": "metrefiri",
+    "partOfSpeech": "f",
+    "gloss": "Doing, making",
+    "definition": "Doing, making"
+  },
+  {
+    "headword": "jiniri",
+    "copticWord": "ϫⲓⲛⲓⲣⲓ",
+    "englishTransliteration": "jiniri",
+    "partOfSpeech": "m",
+    "gloss": "Act of doing",
+    "definition": "Act of doing"
+  },
+  {
+    "headword": "asiri",
+    "copticWord": "ⲁϣⲓⲣⲓ",
+    "englishTransliteration": "ashiri",
+    "partOfSpeech": "n",
+    "gloss": "Diligent person",
+    "definition": "Diligent person"
+  },
+  {
+    "headword": "metasiri",
+    "copticWord": "ⲙⲉⲧⲁϣⲓⲣⲓ",
+    "englishTransliteration": "metashiri",
+    "partOfSpeech": "f",
+    "gloss": "Activity, diligence",
+    "definition": "Activity, diligence"
+  },
+  {
+    "headword": "tase iri",
+    "copticWord": "ⲧⲁϣⲉ ⲓⲣⲓ",
+    "englishTransliteration": "tashe iri",
+    "partOfSpeech": "vb",
+    "gloss": "To do more, increase doing",
+    "definition": "To do more, increase doing"
+  },
+  {
+    "headword": "(4) ini",
+    "copticWord": "ⲓⲛⲓ",
+    "englishTransliteration": "ini",
+    "reference": "81a",
+    "partOfSpeech": "f",
+    "gloss": "Carpenter's axe, adze",
+    "definition": "Carpenter's axe, adze"
+  },
+  {
+    "headword": "ic",
+    "copticWord": "ⲓⲥ",
+    "englishTransliteration": "is",
+    "reference": "85a",
+    "gloss": "interj. Behold, lo, here is (w/noun)",
+    "definition": "since, ago;"
+  }
+]

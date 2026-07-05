@@ -1,0 +1,454 @@
+[
+  {
+    "headword": "mwit",
+    "copticWord": "ⲙⲱⲓⲧ",
+    "englishTransliteration": "mōit",
+    "variants": [
+      {
+        "type": "pl.",
+        "word": "mitwoui",
+        "copticWord": "ⲙⲓⲧⲱⲟⲩⲓ",
+        "englishTransliteration": "mitōoui"
+      }
+    ],
+    "reference": "188a",
+    "partOfSpeech": "m",
+    "gloss": "Road, path",
+    "definition": "place.",
+    "senses": [
+      {
+        "label": "er[aumwit",
+        "partOfSpeech": "vb",
+        "gloss": "To be leader",
+        "definition": "mwit ni eqoun: m. Entrance; mwit ni ebol: m. Entrance; ]mpimwit: vb. To give away, occasion; [imwit: vb. To take road, lead, guide; ref[imwit: m. Leader, guide; metref[imwit: f. Leading, guidance;"
+      },
+      {
+        "label": "ebol",
+        "partOfSpeech": "m",
+        "gloss": "Road (of going) out",
+        "definition": "Road (of going) out"
+      },
+      {
+        "label": "eqoun",
+        "partOfSpeech": "m",
+        "gloss": "Road (of going) in",
+        "definition": "Road (of going) in"
+      },
+      {
+        "label": "epswi",
+        "partOfSpeech": "m",
+        "gloss": "Going up",
+        "definition": "Going up"
+      },
+      {
+        "label": "mmosi",
+        "partOfSpeech": "m",
+        "gloss": "Track",
+        "definition": "Track"
+      },
+      {
+        "label": "ncini",
+        "partOfSpeech": "m",
+        "gloss": "Passage",
+        "definition": "Passage"
+      }
+    ]
+  },
+  {
+    "headword": "nh/t",
+    "copticWord": "ⲛϩⲏⲧ",
+    "englishTransliteration": "nhit",
+    "partOfSpeech": "n",
+    "gloss": "Rest, satisfaction",
+    "definition": "---: m. Rest, ease, relief;"
+  },
+  {
+    "headword": "qen oumton",
+    "copticWord": "ϧⲉⲛ ⲟⲩⲙⲧⲟⲛ",
+    "englishTransliteration": "khen oumton",
+    "partOfSpeech": "adv",
+    "gloss": "Easily",
+    "definition": "Easily"
+  },
+  {
+    "headword": "atemton",
+    "copticWord": "ⲁⲧⲉⲙⲧⲟⲛ",
+    "englishTransliteration": "atemton",
+    "partOfSpeech": "adj",
+    "gloss": "Unquiet",
+    "definition": "Unquiet"
+  },
+  {
+    "headword": "ma nmton",
+    "copticWord": "ⲙⲁ ⲛⲙⲧⲟⲛ",
+    "englishTransliteration": "ma nmton",
+    "partOfSpeech": "m",
+    "gloss": "Place of resting",
+    "definition": "Place of resting"
+  },
+  {
+    "headword": "ermton",
+    "copticWord": "ⲉⲣⲙⲧⲟⲛ",
+    "englishTransliteration": "ermton",
+    "partOfSpeech": "vb",
+    "gloss": "To be, set at rest, ease",
+    "definition": "]mton: vb. To set at ease, content, set a pause;"
+  },
+  {
+    "headword": "[imton",
+    "copticWord": "ϭⲓⲙⲧⲟⲛ",
+    "englishTransliteration": "chimton",
+    "partOfSpeech": "vb",
+    "gloss": "To get rest, be at ease",
+    "definition": "To get rest, be at ease"
+  },
+  {
+    "headword": "metmoten",
+    "copticWord": "ⲙⲉⲧⲙⲟⲧⲉⲛ",
+    "englishTransliteration": "metmoten",
+    "partOfSpeech": "f",
+    "gloss": "Ease",
+    "definition": "Ease"
+  },
+  {
+    "headword": "moynec",
+    "copticWord": "ⲙⲟⲑⲛⲉⲥ",
+    "englishTransliteration": "mothnes",
+    "partOfSpeech": "f",
+    "gloss": "Ease, contentment",
+    "definition": "facility, opportunity;"
+  },
+  {
+    "headword": "mwou",
+    "copticWord": "ⲙⲱⲟⲩ",
+    "englishTransliteration": "mōou",
+    "variants": [
+      {
+        "word": "mou",
+        "copticWord": "ⲙⲟⲩ",
+        "englishTransliteration": "mou"
+      }
+    ],
+    "reference": "197a",
+    "partOfSpeech": "m",
+    "gloss": "Water",
+    "definition": "inundation"
+  },
+  {
+    "headword": "mwou nbebi",
+    "copticWord": "ⲙⲱⲟⲩ ⲛⲃⲉⲃⲓ",
+    "englishTransliteration": "mōou nvevi",
+    "partOfSpeech": "m",
+    "gloss": "Fountain",
+    "definition": "Fountain"
+  },
+  {
+    "headword": "mwou ncwrem",
+    "copticWord": "ⲙⲱⲟⲩ ⲛⲥⲱⲣⲉⲙ",
+    "englishTransliteration": "mōou nsōrem",
+    "partOfSpeech": "m",
+    "gloss": "Torrent",
+    "definition": "Torrent"
+  },
+  {
+    "headword": "aymwou",
+    "copticWord": "ⲁⲑⲙⲱⲟⲩ",
+    "englishTransliteration": "athmōou",
+    "partOfSpeech": "adj",
+    "gloss": "Waterless",
+    "definition": "Waterless"
+  },
+  {
+    "headword": "metaymwou",
+    "copticWord": "ⲙⲉⲧⲁⲑⲙⲱⲟⲩ",
+    "englishTransliteration": "metathmōou",
+    "partOfSpeech": "f",
+    "gloss": "Drought",
+    "definition": "Drought"
+  },
+  {
+    "headword": "meh mmwou",
+    "copticWord": "ⲙⲉϩ ⲙⲙⲱⲟⲩ",
+    "englishTransliteration": "meh mmōou",
+    "partOfSpeech": "vb",
+    "gloss": "To draw water",
+    "definition": "To draw water"
+  },
+  {
+    "headword": "refmeh mmwou",
+    "copticWord": "ⲣⲉϥⲙⲉϩ ⲙⲙⲱⲟⲩ",
+    "englishTransliteration": "refmeh mmōou",
+    "partOfSpeech": "m",
+    "gloss": "Water dra-",
+    "definition": "Water dra-"
+  },
+  {
+    "headword": "[imoynec",
+    "copticWord": "ϭⲓⲙⲟⲑⲛⲉⲥ",
+    "englishTransliteration": "chimothnes",
+    "partOfSpeech": "vb",
+    "gloss": "To get relief, satisfaction",
+    "definition": "To get relief, satisfaction",
+    "senses": [
+      {
+        "label": "qen oumoynec",
+        "partOfSpeech": "adv",
+        "gloss": "Easily",
+        "definition": "Easily"
+      },
+      {
+        "label": "mtotf",
+        "reference": "196a",
+        "partOfSpeech": "m",
+        "gloss": "Wild rue. mulion v. milion - Mile",
+        "definition": "Wild rue. mulion v. milion - Mile"
+      },
+      {
+        "label": "mullion",
+        "gloss": "Mile",
+        "definition": "Mile"
+      },
+      {
+        "label": "muron",
+        "reference": "Gk",
+        "partOfSpeech": "m",
+        "gloss": "Sweet oil, chrism oil, perfume",
+        "definition": "a sacrament of the Coptic Church. mucywt/c: (Gk?); n. Hireling.",
+        "isGreek": true
+      },
+      {
+        "label": "muctagwgia",
+        "reference": "Gk",
+        "partOfSpeech": "f",
+        "gloss": "Initiation into the mysteries, mystical doctrine",
+        "definition": "Initiation into the mysteries, mystical doctrine",
+        "isGreek": true
+      },
+      {
+        "label": "muct/rion",
+        "reference": "Gk",
+        "gloss": "Mystery, sacrament, secret, hidden",
+        "definition": "Mystery, sacrament, secret, hidden",
+        "isGreek": true
+      },
+      {
+        "label": "mv/",
+        "gloss": "- Part. of denial",
+        "definition": "- Part. of denial"
+      }
+    ]
+  },
+  {
+    "headword": "ermwou",
+    "copticWord": "ⲉⲣⲙⲱⲟⲩ",
+    "englishTransliteration": "ermōou",
+    "partOfSpeech": "vb",
+    "gloss": "To become water, liquify",
+    "definition": "To become water, liquify"
+  },
+  {
+    "headword": "cermwou",
+    "copticWord": "ⲥⲉⲣⲙⲱⲟⲩ",
+    "englishTransliteration": "sermōou",
+    "partOfSpeech": "vb",
+    "gloss": "To scatter, distribute water",
+    "definition": "To scatter, distribute water"
+  },
+  {
+    "headword": "]mwou",
+    "copticWord": "ϯⲙⲱⲟⲩ",
+    "englishTransliteration": "timōou",
+    "partOfSpeech": "vb",
+    "gloss": "To give water",
+    "definition": "To give water"
+  },
+  {
+    "headword": "ma n]mwou",
+    "copticWord": "ⲙⲁ ⲛϯⲙⲱⲟⲩ",
+    "englishTransliteration": "ma ntimōou",
+    "partOfSpeech": "m",
+    "gloss": "Place of giving (forth) water",
+    "definition": "Place of giving (forth) water"
+  },
+  {
+    "headword": "tce mwou",
+    "copticWord": "ⲧⲥⲉ ⲙⲱⲟⲩ",
+    "englishTransliteration": "tse mōou",
+    "partOfSpeech": "vb",
+    "gloss": "To slake with water",
+    "definition": "To slake with water"
+  },
+  {
+    "headword": "mvr/]",
+    "copticWord": "ⲙⲫⲣⲏϯ",
+    "englishTransliteration": "mfriti",
+    "gloss": "Like",
+    "definition": "Like",
+    "crossReference": {
+      "target": "r/]",
+      "gloss": "Like"
+    }
+  },
+  {
+    "headword": "[imwit",
+    "copticWord": "ϭⲓⲙⲱⲓⲧ",
+    "englishTransliteration": "chimōit",
+    "partOfSpeech": "vb",
+    "gloss": "To take, receive water",
+    "definition": "To take, receive water"
+  },
+  {
+    "headword": "er[imwit",
+    "copticWord": "ⲉⲣϭⲓⲙⲱⲓⲧ",
+    "englishTransliteration": "erchimōit",
+    "partOfSpeech": "m",
+    "gloss": "Urine",
+    "definition": "Urine"
+  },
+  {
+    "headword": "moumi",
+    "copticWord": "ⲙⲟⲩⲙⲓ",
+    "englishTransliteration": "moumi",
+    "partOfSpeech": "f",
+    "gloss": "Spring, fountain",
+    "definition": "Spring, fountain"
+  },
+  {
+    "headword": "mwoui",
+    "copticWord": "ⲙⲱⲟⲩⲓ",
+    "englishTransliteration": "mōoui",
+    "gloss": "Light",
+    "definition": "Light",
+    "crossReference": {
+      "target": "moue",
+      "gloss": "Light"
+    }
+  },
+  {
+    "headword": "mwout",
+    "copticWord": "ⲙⲱⲟⲩⲧ",
+    "englishTransliteration": "mōout",
+    "reference": "201a",
+    "gloss": "vt. To kill",
+    "definition": "vt. To kill"
+  },
+  {
+    "headword": "mvwr",
+    "copticWord": "ⲙⲫⲱⲣ",
+    "englishTransliteration": "mfōr",
+    "reference": "178b",
+    "gloss": "deprecatory interj. Do it not!, by no means!, nay!",
+    "definition": "deprecatory interj. Do it not!, by no means!, nay!",
+    "senses": [
+      {
+        "label": "yre",
+        "gloss": "Let not",
+        "definition": "Let not"
+      }
+    ]
+  },
+  {
+    "headword": "mper",
+    "copticWord": "ⲙⲡⲉⲣ",
+    "englishTransliteration": "mper",
+    "gloss": "vbal prfx of neg. imperative",
+    "definition": "do not;"
+  },
+  {
+    "headword": "(1)msir",
+    "copticWord": "ⲙϣⲓⲣ",
+    "englishTransliteration": "mshir",
+    "variants": [
+      {
+        "word": "emsir",
+        "copticWord": "ⲉⲙϣⲓⲣ",
+        "englishTransliteration": "emshir"
+      },
+      {
+        "word": "me",
+        "copticWord": "ⲙⲉ",
+        "englishTransliteration": "me"
+      },
+      {
+        "word": "ir",
+        "copticWord": "ⲓⲣ",
+        "englishTransliteration": "ir"
+      }
+    ],
+    "reference": "206a",
+    "partOfSpeech": "n",
+    "gloss": "Name of 6th month of the Coptic Calendar 'Amshir'",
+    "definition": "Name of 6th month of the Coptic Calendar 'Amshir'"
+  },
+  {
+    "headword": "mwini",
+    "copticWord": "ⲙⲱⲓⲛⲓ",
+    "englishTransliteration": "mōini",
+    "gloss": "take",
+    "definition": "take",
+    "crossReference": {
+      "target": "mo",
+      "gloss": "take"
+    }
+  },
+  {
+    "headword": "(2)msir",
+    "copticWord": "ⲙϣⲓⲣ",
+    "englishTransliteration": "mshir",
+    "variants": [
+      {
+        "word": "emsir",
+        "copticWord": "ⲉⲙϣⲓⲣ",
+        "englishTransliteration": "emshir"
+      }
+    ],
+    "reference": "206a",
+    "partOfSpeech": "m",
+    "gloss": "Pot, box (for incense)",
+    "definition": "Pot, box (for incense)"
+  },
+  {
+    "headword": "msis",
+    "copticWord": "ⲙϣⲓϣ",
+    "englishTransliteration": "mshish",
+    "variants": [
+      {
+        "word": "emsis",
+        "copticWord": "ⲉⲙϣⲓϣ",
+        "englishTransliteration": "emshish"
+      },
+      {
+        "word": "mpsis",
+        "copticWord": "ⲙⲡϣⲓϣ",
+        "englishTransliteration": "mpshish"
+      }
+    ],
+    "reference": "207b",
+    "partOfSpeech": "m",
+    "gloss": "Vengeance",
+    "definition": "Vengeance"
+  },
+  {
+    "headword": "iri mpsis",
+    "copticWord": "ⲓⲣⲓ ⲙⲡϣⲓϣ",
+    "englishTransliteration": "iri mpshish",
+    "variants": [
+      {
+        "word": "erpmsis",
+        "copticWord": "ⲉⲣⲡⲙϣⲓϣ",
+        "englishTransliteration": "erpmshish"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To do vengeance",
+    "definition": "requite;"
+  },
+  {
+    "headword": "[imsis",
+    "copticWord": "ϭⲓⲙϣⲓϣ",
+    "englishTransliteration": "chimshish",
+    "partOfSpeech": "vb",
+    "gloss": "To take vengeance, be avenged",
+    "definition": "To take vengeance, be avenged"
+  }
+]

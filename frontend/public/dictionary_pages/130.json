@@ -1,0 +1,69 @@
+[
+  {
+    "headword": "wra",
+    "copticWord": "ⲱⲣⲁ",
+    "englishTransliteration": "ōra",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "District, region, country, land",
+    "definition": "District, region, country, land"
+  },
+  {
+    "headword": "qen ou",
+    "copticWord": "ϧⲉⲛ ⲟⲩ",
+    "englishTransliteration": "khen ou",
+    "variants": [
+      {
+        "word": "wp",
+        "copticWord": "ⲱⲡ",
+        "englishTransliteration": "ōp"
+      }
+    ],
+    "partOfSpeech": "adv",
+    "gloss": "secretly",
+    "definition": "secretly"
+  },
+  {
+    "headword": "n",
+    "copticWord": "ⲛ",
+    "englishTransliteration": "n",
+    "variants": [
+      {
+        "word": "wp",
+        "copticWord": "ⲱⲡ",
+        "englishTransliteration": "ōp"
+      }
+    ],
+    "partOfSpeech": "adv",
+    "gloss": "secretly",
+    "definition": "secretly"
+  },
+  {
+    "headword": "(",
+    "copticWord": "(",
+    "englishTransliteration": "(",
+    "variants": [
+      {
+        "word": "wr)",
+        "copticWord": "ⲱⲣ)",
+        "englishTransliteration": "ōr)"
+      },
+      {
+        "word": "er",
+        "copticWord": "ⲉⲣ",
+        "englishTransliteration": "er"
+      }
+    ],
+    "reference": "516b",
+    "gloss": "vt. To destroy",
+    "definition": "vt. To destroy"
+  },
+  {
+    "headword": "wric",
+    "copticWord": "ⲱⲣⲓⲥ",
+    "englishTransliteration": "ōris",
+    "gloss": "Prep. Without. ,wouni v. ke- - Others",
+    "definition": "Prep. Without. ,wouni v. ke- - Others"
+  }
+]

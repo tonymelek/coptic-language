@@ -1,0 +1,296 @@
+[
+  {
+    "headword": "epswi",
+    "copticWord": "ⲉⲡϣⲱⲓ",
+    "englishTransliteration": "epshōi",
+    "gloss": "vi. To sing upward",
+    "definition": "vi. To sing upward"
+  },
+  {
+    "headword": "(1) hwou",
+    "copticWord": "ϩⲱⲟⲩ",
+    "englishTransliteration": "hōou",
+    "reference": "731a",
+    "gloss": "vi. (Q), To be putrid, bad, wicked",
+    "definition": "vi. (Q), To be putrid, bad, wicked",
+    "senses": [
+      {
+        "label": "e",
+        "partOfSpeech": "vb",
+        "gloss": "To be bad beyond, worse than",
+        "definition": "pethwou: m. Evil one or thing, wickedness;"
+      },
+      {
+        "label": "atpethwou",
+        "partOfSpeech": "adj",
+        "gloss": "Guileless, unharmed",
+        "definition": "metatpethwou: f. Innocence;"
+      },
+      {
+        "label": "erpethwou",
+        "partOfSpeech": "vb",
+        "gloss": "To do evil",
+        "definition": "campethwou: m. Doer of evil."
+      }
+    ]
+  },
+  {
+    "headword": "refhwc",
+    "copticWord": "ⲣⲉϥϩⲱⲥ",
+    "englishTransliteration": "refhōs",
+    "partOfSpeech": "m",
+    "gloss": "Singer",
+    "definition": "Singer"
+  },
+  {
+    "headword": "metrefhwc",
+    "copticWord": "ⲙⲉⲧⲣⲉϥϩⲱⲥ",
+    "englishTransliteration": "metrefhōs",
+    "partOfSpeech": "f",
+    "gloss": "Singing",
+    "definition": "Singing"
+  },
+  {
+    "headword": "jinhwc",
+    "copticWord": "ϫⲓⲛϩⲱⲥ",
+    "englishTransliteration": "jinhōs",
+    "partOfSpeech": "m",
+    "gloss": "Singing, song",
+    "definition": "Singing, song"
+  },
+  {
+    "headword": "hwc",
+    "copticWord": "ϩⲱⲥ",
+    "englishTransliteration": "hōs",
+    "partOfSpeech": "m",
+    "gloss": "Big drum",
+    "definition": "Big drum"
+  },
+  {
+    "headword": "(2) hwc",
+    "copticWord": "ϩⲱⲥ",
+    "englishTransliteration": "hōs",
+    "variants": [
+      {
+        "word": "hoc",
+        "copticWord": "ϩⲟⲥ",
+        "englishTransliteration": "hos"
+      }
+    ],
+    "reference": "710a",
+    "senses": [
+      {
+        "label": "e",
+        "partOfSpeech": "vb",
+        "gloss": "To make sail to",
+        "definition": "To make sail to"
+      }
+    ]
+  },
+  {
+    "headword": "m. Thread",
+    "copticWord": "ⲙ. Ⲧϩⲣⲉⲁⲇ",
+    "englishTransliteration": "m. Thread",
+    "variants": [
+      {
+        "word": "cord. hwt",
+        "copticWord": "ⲥⲟⲣⲇ. ϩⲱⲧ",
+        "englishTransliteration": "sord. hōt"
+      }
+    ],
+    "reference": "718b",
+    "gloss": "(w/er) vb. To make sail, float",
+    "definition": "(w/er) vb. To make sail, float"
+  },
+  {
+    "headword": "(2) hwou",
+    "copticWord": "ϩⲱⲟⲩ",
+    "englishTransliteration": "hōou",
+    "reference": "732a",
+    "gloss": "vi. To rain",
+    "definition": "---: m. Rain, moisture"
+  },
+  {
+    "headword": "mounhwou",
+    "copticWord": "ⲙⲟⲩⲛϩⲱⲟⲩ",
+    "englishTransliteration": "mounhōou",
+    "partOfSpeech": "m",
+    "gloss": "Rain, moisture",
+    "definition": "Rain, moisture"
+  },
+  {
+    "headword": "jinhwou",
+    "copticWord": "ϫⲓⲛϩⲱⲟⲩ",
+    "englishTransliteration": "jinhōou",
+    "partOfSpeech": "m",
+    "gloss": "Act of raining",
+    "definition": "Act of raining"
+  },
+  {
+    "headword": "jinerhwt",
+    "copticWord": "ϫⲓⲛⲉⲣϩⲱⲧ",
+    "englishTransliteration": "jinerhōt",
+    "partOfSpeech": "m",
+    "gloss": "Sailing, voyage",
+    "definition": "Sailing, voyage"
+  },
+  {
+    "headword": "hwt/r",
+    "copticWord": "ϩⲱⲧⲏⲣ",
+    "englishTransliteration": "hōtir",
+    "reference": "726b",
+    "partOfSpeech": "n",
+    "gloss": "Among maladies",
+    "definition": "Among maladies"
+  },
+  {
+    "headword": "hwtp",
+    "copticWord": "ϩⲱⲧⲡ",
+    "englishTransliteration": "hōtp",
+    "variants": [
+      {
+        "word": "hotp=",
+        "copticWord": "ϩⲟⲧⲡ",
+        "englishTransliteration": "hotp"
+      },
+      {
+        "word": "(Often hopt=)",
+        "copticWord": "(Ⲟϥⲧⲉⲛ ϩⲟⲡⲧ)",
+        "englishTransliteration": "(Often hopt)"
+      },
+      {
+        "word": "(Q) hotp",
+        "copticWord": "(Ϧ) ϩⲟⲧⲡ",
+        "englishTransliteration": "(Kh) hotp"
+      }
+    ],
+    "reference": "724b",
+    "gloss": "vi. To join, attune, be reconciled, sink",
+    "definition": "vi. To join, attune, be reconciled, sink",
+    "senses": [
+      {
+        "label": "e",
+        "gloss": "vi. To join to",
+        "definition": "--: m. Joint, joining, reconciliation; athwtp: adj. Unsinking; manhwtp: m. Place of sinking (sun), west; methwtp: f. Union; erhwtp: vb. To reconcile; refhwtp: m. Reconciler; jinhwtp: m. Union, reconciliation, sinking of (sun); hotp, hopt: n. Thing joined, chain, rim."
+      }
+    ]
+  },
+  {
+    "headword": "hwoui (Q) v. hioui - To be casted. hwout",
+    "copticWord": "ϩⲱⲟⲩⲓ (Ϧ) ⲫ. ϩⲓⲟⲩⲓ - Ⲧⲟ ⲃⲉ ⲥⲁϣⲧⲉⲇ. ϩⲱⲟⲩⲧ",
+    "englishTransliteration": "hōoui (Kh) f. hioui - To ve sashted. hōout",
+    "reference": "738b",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "Distress, straits",
+        "definition": "Distress, straits"
+      }
+    ]
+  },
+  {
+    "headword": "m. Male",
+    "copticWord": "ⲙ. Ⲙⲁⲗⲉ",
+    "englishTransliteration": "m. Male",
+    "variants": [
+      {
+        "word": "gods",
+        "copticWord": "ⲅⲟⲇϣ",
+        "englishTransliteration": "godsh"
+      },
+      {
+        "word": "husband. hwous",
+        "copticWord": "ϩⲩϣⲃⲁⲛⲇ. ϩⲱⲟⲩϣ",
+        "englishTransliteration": "hyshvand. hōoush"
+      }
+    ],
+    "reference": "739b"
+  },
+  {
+    "headword": "vi. To abuse",
+    "copticWord": "ⲫⲓ. Ⲧⲟ ⲁⲃⲩϣⲉ",
+    "englishTransliteration": "fi. To avyshe",
+    "variants": [
+      {
+        "word": "curse. hws",
+        "copticWord": "ⲥⲩⲣϣⲉ. ϩⲱϣ",
+        "englishTransliteration": "syrshe. hōsh"
+      },
+      {
+        "word": "(Q) h/s",
+        "copticWord": "(Ϧ) ϩⲏϣ",
+        "englishTransliteration": "(Kh) hish"
+      }
+    ],
+    "reference": "740a",
+    "gloss": "vi. To be in distress",
+    "definition": "vi. To be in distress"
+  },
+  {
+    "headword": "hwj",
+    "copticWord": "ϩⲱϫ",
+    "englishTransliteration": "hōj",
+    "reference": "724b",
+    "partOfSpeech": "adj",
+    "gloss": "Cold",
+    "definition": "Cold"
+  },
+  {
+    "headword": "(1) hw]",
+    "copticWord": "ϩⲱϯ",
+    "englishTransliteration": "hōti",
+    "reference": "722a",
+    "gloss": "vi. To rub, bruise",
+    "definition": "vi. To rub, bruise"
+  },
+  {
+    "headword": "se nhw]",
+    "copticWord": "ϣⲉ ⲛϩⲱϯ",
+    "englishTransliteration": "she nhōti",
+    "partOfSpeech": "m",
+    "gloss": "Wooden Pole",
+    "definition": "Wooden Pole"
+  },
+  {
+    "headword": "(2) hw]",
+    "copticWord": "ϩⲱϯ",
+    "englishTransliteration": "hōti",
+    "reference": "722a",
+    "partOfSpeech": "m",
+    "gloss": "Tribute",
+    "definition": "]hw]: vb. To pay tribute"
+  },
+  {
+    "headword": "athw]",
+    "copticWord": "ⲁⲧϩⲱϯ",
+    "englishTransliteration": "athōti",
+    "partOfSpeech": "adj",
+    "gloss": "Tax-free",
+    "definition": "Tax-free"
+  },
+  {
+    "headword": "(3) hw]",
+    "copticWord": "ϩⲱϯ",
+    "englishTransliteration": "hōti",
+    "reference": "722b",
+    "partOfSpeech": "n",
+    "gloss": "Necessity. As impers. vb. It is needful",
+    "definition": "Necessity. As impers. vb. It is needful",
+    "senses": [
+      {
+        "label": "e",
+        "partOfSpeech": "vb",
+        "gloss": "If is needful for. hfot, hfwt: (696b)",
+        "definition": "Fathom. hfour hroub: (741a); m. Young fish. hfw v. hof - Young fish. hfwt v. hfot - Fathom."
+      }
+    ]
+  },
+  {
+    "headword": "hwtf",
+    "copticWord": "ϩⲱⲧϥ",
+    "englishTransliteration": "hōtf",
+    "reference": "728a",
+    "gloss": "vt. To nail",
+    "definition": "vt. To nail"
+  }
+]

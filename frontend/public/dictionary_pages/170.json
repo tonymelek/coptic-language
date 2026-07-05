@@ -1,0 +1,523 @@
+[
+  {
+    "headword": "[aj",
+    "copticWord": "ϭⲁϫ",
+    "englishTransliteration": "chaj",
+    "reference": "798b",
+    "partOfSpeech": "m",
+    "gloss": "Sparrow",
+    "definition": "Sparrow"
+  },
+  {
+    "headword": "[",
+    "copticWord": "ϭ",
+    "englishTransliteration": "ch",
+    "reference": "801a",
+    "gloss": "30th lettere of the Coptic Alphabet",
+    "definition": "30th lettere of the Coptic Alphabet"
+  },
+  {
+    "headword": "[aj nlil",
+    "copticWord": "ϭⲁϫ ⲛⲗⲓⲗ",
+    "englishTransliteration": "chaj nlil",
+    "partOfSpeech": "m",
+    "gloss": "a bird (Abu Fasada)",
+    "definition": "a bird (Abu Fasada)"
+  },
+  {
+    "headword": "[a[eu",
+    "copticWord": "ϭⲁϭⲉⲩ",
+    "englishTransliteration": "chachev",
+    "gloss": "Maimed persons",
+    "definition": "Maimed persons",
+    "crossReference": {
+      "target": "ja[e",
+      "gloss": "Maimed persons"
+    }
+  },
+  {
+    "headword": "[abwt",
+    "copticWord": "ϭⲁⲃⲱⲧ",
+    "englishTransliteration": "chavōt",
+    "reference": "806a",
+    "partOfSpeech": "n",
+    "gloss": "Material or instrument used in cleansing sheep",
+    "definition": "Material or instrument used in cleansing sheep"
+  },
+  {
+    "headword": "[e",
+    "copticWord": "ϭⲉ",
+    "englishTransliteration": "che",
+    "gloss": "To plant",
+    "definition": "To plant",
+    "crossReference": {
+      "target": "(1)[o",
+      "gloss": "To plant"
+    }
+  },
+  {
+    "headword": "[eli",
+    "copticWord": "ϭⲉⲗⲓ",
+    "englishTransliteration": "cheli",
+    "reference": "807b",
+    "partOfSpeech": "m",
+    "gloss": "Butter",
+    "definition": "Butter"
+  },
+  {
+    "headword": "[elk",
+    "copticWord": "ϭⲉⲗⲕ",
+    "englishTransliteration": "chelk",
+    "gloss": "To stretch",
+    "definition": "To stretch",
+    "crossReference": {
+      "target": "[wlk",
+      "gloss": "To stretch"
+    }
+  },
+  {
+    "headword": "[ak",
+    "copticWord": "ϭⲁⲕ",
+    "englishTransliteration": "chak",
+    "reference": "760b",
+    "gloss": "vi. To clap (hands), flap wings",
+    "definition": "---: plam of hand, clapping, flapping"
+  },
+  {
+    "headword": "ref[ak",
+    "copticWord": "ⲣⲉϥϭⲁⲕ",
+    "englishTransliteration": "refchak",
+    "partOfSpeech": "m",
+    "gloss": "Clapper (of hands)",
+    "definition": "Clapper (of hands)"
+  },
+  {
+    "headword": "[al",
+    "copticWord": "ϭⲁⲗ",
+    "englishTransliteration": "chal",
+    "gloss": "Wave",
+    "definition": "Wave",
+    "crossReference": {
+      "target": "(1)jol",
+      "gloss": "Wave"
+    }
+  },
+  {
+    "headword": "[enne",
+    "copticWord": "ϭⲉⲛⲛⲉ",
+    "englishTransliteration": "chenne",
+    "gloss": "Delayer",
+    "definition": "Delayer",
+    "crossReference": {
+      "target": "[nau",
+      "gloss": "Delayer"
+    }
+  },
+  {
+    "headword": "[alauj",
+    "copticWord": "ϭⲁⲗⲁⲩϫ",
+    "englishTransliteration": "chalavj",
+    "gloss": "Feet",
+    "definition": "Feet",
+    "crossReference": {
+      "target": "[aloj",
+      "gloss": "Feet"
+    }
+  },
+  {
+    "headword": "[enneu",
+    "copticWord": "ϭⲉⲛⲛⲉⲩ",
+    "englishTransliteration": "chennev",
+    "gloss": "Delayers",
+    "definition": "Delayers",
+    "crossReference": {
+      "target": "[nau",
+      "gloss": "Delayers"
+    }
+  },
+  {
+    "headword": "[eno",
+    "copticWord": "ϭⲉⲛⲟ",
+    "englishTransliteration": "cheno",
+    "variants": [
+      {
+        "word": "[eno=",
+        "copticWord": "ϭⲉⲛⲟ",
+        "englishTransliteration": "cheno"
+      },
+      {
+        "word": "(Q) [en/out",
+        "copticWord": "(Ϧ) ϭⲉⲛⲏⲟⲩⲧ",
+        "englishTransliteration": "(Kh) cheniout"
+      }
+    ],
+    "reference": "774a",
+    "gloss": "vi",
+    "definition": "vi"
+  },
+  {
+    "headword": "[ale",
+    "copticWord": "ϭⲁⲗⲉ",
+    "englishTransliteration": "chale",
+    "variants": [
+      {
+        "word": "sale",
+        "copticWord": "ϣⲁⲗⲉ",
+        "englishTransliteration": "shale"
+      },
+      {
+        "type": "pl.",
+        "word": "[aleu",
+        "copticWord": "ϭⲁⲗⲉⲩ",
+        "englishTransliteration": "chalev"
+      }
+    ],
+    "reference": "807b",
+    "partOfSpeech": "n",
+    "gloss": "Lame, crippled person",
+    "definition": "Lame, crippled person"
+  },
+  {
+    "headword": "[aleu",
+    "copticWord": "ϭⲁⲗⲉⲩ",
+    "englishTransliteration": "chalev",
+    "gloss": "Lame persons",
+    "definition": "Lame persons",
+    "crossReference": {
+      "target": "[ale",
+      "gloss": "Lame persons"
+    }
+  },
+  {
+    "headword": "at[eno",
+    "copticWord": "ⲁⲧϭⲉⲛⲟ",
+    "englishTransliteration": "atcheno",
+    "partOfSpeech": "adj",
+    "gloss": "Unquestionable",
+    "definition": "Unquestionable"
+  },
+  {
+    "headword": "[eno=",
+    "copticWord": "ϭⲉⲛⲟ",
+    "englishTransliteration": "cheno",
+    "gloss": "To quench",
+    "definition": "To quench",
+    "crossReference": {
+      "target": "[eno",
+      "gloss": "To quench"
+    }
+  },
+  {
+    "headword": "[entwli",
+    "copticWord": "ϭⲉⲛⲧⲱⲗⲓ",
+    "englishTransliteration": "chentōli",
+    "gloss": "Unbleached cloth",
+    "definition": "Unbleached cloth",
+    "crossReference": {
+      "target": "sentwli",
+      "gloss": "Unbleached cloth"
+    }
+  },
+  {
+    "headword": "[ep",
+    "copticWord": "ϭⲉⲡ",
+    "englishTransliteration": "chep",
+    "gloss": "To shave",
+    "definition": "To shave",
+    "crossReference": {
+      "target": "(1)swp",
+      "gloss": "To shave"
+    }
+  },
+  {
+    "headword": "[aloj",
+    "copticWord": "ϭⲁⲗⲟϫ",
+    "englishTransliteration": "chaloj",
+    "variants": [
+      {
+        "type": "pl.",
+        "word": "[alauj",
+        "copticWord": "ϭⲁⲗⲁⲩϫ",
+        "englishTransliteration": "chalavj"
+      }
+    ],
+    "reference": "814a",
+    "partOfSpeech": "f",
+    "gloss": "Foot, knee",
+    "definition": "Foot, knee"
+  },
+  {
+    "headword": "[ere",
+    "copticWord": "ϭⲉⲣⲉ",
+    "englishTransliteration": "chere",
+    "gloss": "To burn",
+    "definition": "To burn",
+    "crossReference": {
+      "target": "[ero",
+      "gloss": "To burn"
+    }
+  },
+  {
+    "headword": "[alp",
+    "copticWord": "ϭⲁⲗⲡ",
+    "englishTransliteration": "chalp",
+    "gloss": "Lump",
+    "definition": "Lump",
+    "crossReference": {
+      "target": "[lap",
+      "gloss": "Lump"
+    }
+  },
+  {
+    "headword": "[aloukc",
+    "copticWord": "ϭⲁⲗⲟⲩⲕⲥ",
+    "englishTransliteration": "chalouks",
+    "variants": [
+      {
+        "word": "saloukc",
+        "copticWord": "ϣⲁⲗⲟⲩⲕⲥ",
+        "englishTransliteration": "shalouks"
+      }
+    ],
+    "reference": "810b",
+    "partOfSpeech": "f",
+    "gloss": "Scarabaeus beetle",
+    "definition": "Scarabaeus beetle"
+  },
+  {
+    "headword": "[alw=",
+    "copticWord": "ϭⲁⲗⲱ",
+    "englishTransliteration": "chalō",
+    "gloss": "To deposit",
+    "definition": "To deposit",
+    "crossReference": {
+      "target": "(2)jwili",
+      "gloss": "To deposit"
+    }
+  },
+  {
+    "headword": "(Q) [er/out",
+    "copticWord": "(Ϧ) ϭⲉⲣⲏⲟⲩⲧ",
+    "englishTransliteration": "(Kh) cheriout",
+    "reference": "781b",
+    "gloss": "vi. To blaze, burn.",
+    "definition": "vi. To blaze, burn."
+  },
+  {
+    "headword": "[alwous",
+    "copticWord": "ϭⲁⲗⲱⲟⲩϣ",
+    "englishTransliteration": "chalōoush",
+    "gloss": "Paralyzed person",
+    "definition": "Paralyzed person",
+    "crossReference": {
+      "target": "[lwous",
+      "gloss": "Paralyzed person"
+    }
+  },
+  {
+    "headword": "--- e",
+    "copticWord": "--- ⲉ",
+    "englishTransliteration": "--- e",
+    "gloss": "vi. To burn for",
+    "definition": "vi. To burn for"
+  },
+  {
+    "headword": "at[ero",
+    "copticWord": "ⲁⲧϭⲉⲣⲟ",
+    "englishTransliteration": "atchero",
+    "partOfSpeech": "adj",
+    "gloss": "Unlit",
+    "definition": "Unlit"
+  },
+  {
+    "headword": "[amauli",
+    "copticWord": "ϭⲁⲙⲁⲩⲗⲓ",
+    "englishTransliteration": "chamavli",
+    "gloss": "Camels",
+    "definition": "Camels",
+    "crossReference": {
+      "target": "jamoul",
+      "gloss": "Camels"
+    }
+  },
+  {
+    "headword": "[ero",
+    "copticWord": "ϭⲉⲣⲟ",
+    "englishTransliteration": "chero",
+    "gloss": "To burn",
+    "definition": "To burn",
+    "crossReference": {
+      "target": "[ero",
+      "gloss": "To burn"
+    }
+  },
+  {
+    "headword": "[ero=",
+    "copticWord": "ϭⲉⲣⲟ",
+    "englishTransliteration": "chero",
+    "gloss": "To burn",
+    "definition": "To burn",
+    "crossReference": {
+      "target": "[ero",
+      "gloss": "To burn"
+    }
+  },
+  {
+    "headword": "[arwp",
+    "copticWord": "ϭⲁⲣⲱⲡ",
+    "englishTransliteration": "charōp",
+    "reference": "828a",
+    "partOfSpeech": "m",
+    "gloss": "Staff, rod",
+    "definition": "Staff, rod"
+  },
+  {
+    "headword": "[erw=",
+    "copticWord": "ϭⲉⲣⲱ",
+    "englishTransliteration": "cherō",
+    "gloss": "To burn",
+    "definition": "To burn",
+    "crossReference": {
+      "target": "[ero",
+      "gloss": "To burn"
+    }
+  },
+  {
+    "headword": "[ac",
+    "copticWord": "ϭⲁⲥ",
+    "englishTransliteration": "chas",
+    "gloss": "To exalt",
+    "definition": "To exalt",
+    "crossReference": {
+      "target": "(1)[ici",
+      "gloss": "To exalt"
+    }
+  },
+  {
+    "headword": "[ec",
+    "copticWord": "ϭⲉⲥ",
+    "englishTransliteration": "ches",
+    "gloss": "To exalt",
+    "definition": "To exalt",
+    "crossReference": {
+      "target": "(1)[ici",
+      "gloss": "To exalt"
+    }
+  },
+  {
+    "headword": "[ac=",
+    "copticWord": "ϭⲁⲥ",
+    "englishTransliteration": "chas",
+    "gloss": "To exalt",
+    "definition": "To exalt",
+    "crossReference": {
+      "target": "(1)[ici",
+      "gloss": "To exalt"
+    }
+  },
+  {
+    "headword": "[et[wt",
+    "copticWord": "ϭⲉⲧϭⲱⲧ",
+    "englishTransliteration": "chetchōt",
+    "gloss": "To cut",
+    "definition": "To cut",
+    "crossReference": {
+      "target": "[ot[et",
+      "gloss": "To cut"
+    }
+  },
+  {
+    "headword": "[et[wt=",
+    "copticWord": "ϭⲉⲧϭⲱⲧ",
+    "englishTransliteration": "chetchōt",
+    "gloss": "To cut",
+    "definition": "To cut",
+    "crossReference": {
+      "target": "[ot[et",
+      "gloss": "To cut"
+    }
+  },
+  {
+    "headword": "(1)[eh",
+    "copticWord": "ϭⲉϩ",
+    "englishTransliteration": "cheh",
+    "reference": "839b",
+    "gloss": "v. Q. To be exalted",
+    "definition": "v. Q. To be exalted"
+  },
+  {
+    "headword": "[atfi",
+    "copticWord": "ϭⲁⲧϥⲓ",
+    "englishTransliteration": "chatfi",
+    "reference": "792b",
+    "partOfSpeech": "m",
+    "gloss": "Reptile",
+    "definition": "Reptile"
+  },
+  {
+    "headword": "(2)[eh (Q)",
+    "copticWord": "ϭⲉϩ (Ϧ)",
+    "englishTransliteration": "cheh (Kh)",
+    "reference": "797a",
+    "gloss": "vi. To be smeared, be anointed",
+    "definition": "vi. To be smeared, be anointed"
+  },
+  {
+    "headword": "[au",
+    "copticWord": "ϭⲁⲩ",
+    "englishTransliteration": "chav",
+    "gloss": "Receiver",
+    "definition": "Receiver",
+    "crossReference": {
+      "target": "(1)[i",
+      "gloss": "Receiver"
+    }
+  },
+  {
+    "headword": "[/",
+    "copticWord": "ϭⲏ",
+    "englishTransliteration": "chi",
+    "reference": "803a",
+    "partOfSpeech": "m",
+    "gloss": "Quince",
+    "definition": "Quince"
+  },
+  {
+    "headword": "[aqem",
+    "copticWord": "ϭⲁϧⲉⲙ",
+    "englishTransliteration": "chakhem",
+    "gloss": "To defile",
+    "definition": "To defile",
+    "crossReference": {
+      "target": "[wqem",
+      "gloss": "To defile"
+    }
+  },
+  {
+    "headword": "[/pi",
+    "copticWord": "ϭⲏⲡⲓ",
+    "englishTransliteration": "chipi",
+    "reference": "825b",
+    "partOfSpeech": "f",
+    "gloss": "Cloud",
+    "definition": "Cloud"
+  },
+  {
+    "headword": "[/ou",
+    "copticWord": "ϭⲏⲟⲩ",
+    "englishTransliteration": "chiou",
+    "reference": "835a",
+    "partOfSpeech": "m",
+    "gloss": "Coriander plant",
+    "definition": "Coriander plant"
+  },
+  {
+    "headword": "[aqem (Q) v. [wqem - To be defiled. [aqm= v. [wqem - To defile. [ahci",
+    "copticWord": "ϭⲁϧⲉⲙ (Ϧ) ⲫ. ϭⲱϧⲉⲙ - Ⲧⲟ ⲃⲉ ⲇⲉϥⲓⲗⲉⲇ. ϭⲁϧⲙ ⲫ̅. ϭⲱϧⲉⲙ - Ⲧⲟ ⲇⲉϥⲓⲗⲉ. ϭⲁϩⲥⲓ",
+    "englishTransliteration": "chakhem (Kh) f. chōkhem - To ve defiled. chakhm f̅. chōkhem - To defile. chahsi",
+    "reference": "839b",
+    "partOfSpeech": "f",
+    "gloss": "Gazelle",
+    "definition": "Gazelle"
+  }
+]

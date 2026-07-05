@@ -1,0 +1,421 @@
+[
+  {
+    "headword": "cmurna",
+    "copticWord": "ⲥⲙⲩⲣⲛⲁ",
+    "englishTransliteration": "smyrna",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Myrrh (the gum of an Arabian Tree). cnau, f",
+    "definition": "Myrrh (the gum of an Arabian Tree). cnau, f"
+  },
+  {
+    "headword": "cnou]",
+    "copticWord": "ⲥⲛⲟⲩϯ",
+    "englishTransliteration": "snouti",
+    "reference": "346b",
+    "partOfSpeech": "m",
+    "gloss": "Two",
+    "definition": "Two"
+  },
+  {
+    "headword": "mpecnau",
+    "copticWord": "ⲙⲡⲉⲥⲛⲁⲩ",
+    "englishTransliteration": "mpesnav",
+    "partOfSpeech": "adv",
+    "gloss": "Both together",
+    "definition": "Both together"
+  },
+  {
+    "headword": "erb",
+    "copticWord": "ⲉⲣⲃ",
+    "englishTransliteration": "erv",
+    "partOfSpeech": "vb",
+    "gloss": "To become, be two",
+    "definition": "To become, be two"
+  },
+  {
+    "headword": "ermahcnau",
+    "copticWord": "ⲉⲣⲙⲁϩⲥⲛⲁⲩ",
+    "englishTransliteration": "ermahsnav",
+    "partOfSpeech": "vb",
+    "gloss": "To be second",
+    "definition": "To be second"
+  },
+  {
+    "headword": "cnauh",
+    "copticWord": "ⲥⲛⲁⲩϩ",
+    "englishTransliteration": "snavh",
+    "gloss": "Bond",
+    "definition": "Bond",
+    "crossReference": {
+      "target": "cwnh",
+      "gloss": "Bond"
+    }
+  },
+  {
+    "headword": "cnah",
+    "copticWord": "ⲥⲛⲁϩ",
+    "englishTransliteration": "snah",
+    "gloss": "Bond",
+    "definition": "Bond",
+    "crossReference": {
+      "target": "cwnh",
+      "gloss": "Bond"
+    }
+  },
+  {
+    "headword": "cmaragdoc",
+    "copticWord": "ⲥⲙⲁⲣⲁⲅⲇⲟⲥ",
+    "englishTransliteration": "smaragdos",
+    "variants": [
+      {
+        "word": "-ktoc",
+        "copticWord": "-ⲕⲧⲟⲥ",
+        "englishTransliteration": "-ktos"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Emerald",
+    "definition": "Emerald"
+  },
+  {
+    "headword": "cmaraktoc",
+    "copticWord": "ⲥⲙⲁⲣⲁⲕⲧⲟⲥ",
+    "englishTransliteration": "smaraktos",
+    "gloss": "Emerald",
+    "definition": "Emerald",
+    "crossReference": {
+      "target": "cmaragdoc",
+      "gloss": "Emerald"
+    }
+  },
+  {
+    "headword": "cmau",
+    "copticWord": "ⲥⲙⲁⲩ",
+    "englishTransliteration": "smav",
+    "reference": "342a",
+    "partOfSpeech": "m",
+    "gloss": "Dual, (eye) temples, eyelids",
+    "definition": "Dual, (eye) temples, eyelids"
+  },
+  {
+    "headword": "cmah",
+    "copticWord": "ⲥⲙⲁϩ",
+    "englishTransliteration": "smah",
+    "variants": [
+      {
+        "word": "cmeh",
+        "copticWord": "ⲥⲙⲉϩ",
+        "englishTransliteration": "smeh"
+      }
+    ],
+    "reference": "342a",
+    "partOfSpeech": "m",
+    "gloss": "Bunch of fruit, flowers",
+    "definition": "Bunch of fruit, flowers"
+  },
+  {
+    "headword": "cmeh",
+    "copticWord": "ⲥⲙⲉϩ",
+    "englishTransliteration": "smeh",
+    "reference": "342a",
+    "partOfSpeech": "m",
+    "gloss": "(mostly pl.) Herb",
+    "definition": "(mostly pl.) Herb"
+  },
+  {
+    "headword": "cn/ou",
+    "copticWord": "ⲥⲛⲏⲟⲩ",
+    "englishTransliteration": "sniou",
+    "gloss": "Brothers",
+    "definition": "Brothers",
+    "crossReference": {
+      "target": "con",
+      "gloss": "Brothers"
+    }
+  },
+  {
+    "headword": "as pl",
+    "copticWord": "ⲁϣ ⲡⲗ",
+    "englishTransliteration": "ash pl",
+    "reference": "348b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "cm/",
+    "copticWord": "ⲥⲙⲏ",
+    "englishTransliteration": "smi",
+    "reference": "334b",
+    "partOfSpeech": "f",
+    "gloss": "Voice of men, of animals, of things",
+    "definition": "Voice of men, of animals, of things"
+  },
+  {
+    "headword": "atcnof",
+    "copticWord": "ⲁⲧⲥⲛⲟϥ",
+    "englishTransliteration": "atsnof",
+    "partOfSpeech": "adj",
+    "gloss": "Bloodless",
+    "definition": "Bloodless"
+  },
+  {
+    "headword": "] cm/",
+    "copticWord": "ϯ ⲥⲙⲏ",
+    "englishTransliteration": "ti smi",
+    "partOfSpeech": "vb",
+    "gloss": "To give voice",
+    "definition": "To give voice"
+  },
+  {
+    "headword": "[icm/",
+    "copticWord": "ϭⲓⲥⲙⲏ",
+    "englishTransliteration": "chismi",
+    "partOfSpeech": "vb",
+    "gloss": "To receive sound, listen",
+    "definition": "--- e-: vb. To listen to;"
+  },
+  {
+    "headword": "man[icm/",
+    "copticWord": "ⲙⲁⲛϭⲓⲥⲙⲏ",
+    "englishTransliteration": "manchismi",
+    "partOfSpeech": "m",
+    "gloss": "Place of hearing, of trial",
+    "definition": "Place of hearing, of trial"
+  },
+  {
+    "headword": "vwn cnof ebol",
+    "copticWord": "ⲫⲱⲛ ⲥⲛⲟϥ ⲉⲃⲟⲗ",
+    "englishTransliteration": "fōn snof evol",
+    "partOfSpeech": "vb",
+    "gloss": "To shed blood",
+    "definition": "To shed blood"
+  },
+  {
+    "headword": "ercnof",
+    "copticWord": "ⲉⲣⲥⲛⲟϥ",
+    "englishTransliteration": "ersnof",
+    "partOfSpeech": "vb",
+    "gloss": "To become blood",
+    "definition": "To become blood"
+  },
+  {
+    "headword": "wli cnof",
+    "copticWord": "ⲱⲗⲓ ⲥⲛⲟϥ",
+    "englishTransliteration": "ōli snof",
+    "partOfSpeech": "vb",
+    "gloss": "To staunch, mop up blood",
+    "definition": "To staunch, mop up blood"
+  },
+  {
+    "headword": "cnte",
+    "copticWord": "ⲥⲛⲧⲉ",
+    "englishTransliteration": "snte",
+    "gloss": "()",
+    "definition": "f. A condition of the fig (early fig)"
+  },
+  {
+    "headword": "cnwf",
+    "copticWord": "ⲥⲛⲱϥ",
+    "englishTransliteration": "snōf",
+    "gloss": "Bloods",
+    "definition": "Bloods",
+    "crossReference": {
+      "target": "cnof",
+      "gloss": "Bloods"
+    }
+  },
+  {
+    "headword": "ref[icm/",
+    "copticWord": "ⲣⲉϥϭⲓⲥⲙⲏ",
+    "englishTransliteration": "refchismi",
+    "partOfSpeech": "m",
+    "gloss": "Listener, Obeyer",
+    "definition": "Listener, Obeyer"
+  },
+  {
+    "headword": "cmont",
+    "copticWord": "ⲥⲙⲟⲛⲧ",
+    "englishTransliteration": "smont",
+    "gloss": "Likeness",
+    "definition": "Likeness",
+    "crossReference": {
+      "target": "cmot",
+      "gloss": "Likeness"
+    }
+  },
+  {
+    "headword": "co=",
+    "copticWord": "ⲥⲟ",
+    "englishTransliteration": "so",
+    "gloss": "To drink",
+    "definition": "To drink",
+    "crossReference": {
+      "target": "cw",
+      "gloss": "To drink"
+    }
+  },
+  {
+    "headword": "cobceb",
+    "copticWord": "ⲥⲟⲃⲥⲉⲃ",
+    "englishTransliteration": "sovsev",
+    "variants": [
+      {
+        "word": "cepcep",
+        "copticWord": "ⲥⲉⲡⲥⲉⲡ",
+        "englishTransliteration": "sepsep"
+      }
+    ],
+    "reference": "352b",
+    "gloss": "vi. To pray, entreat, comfort",
+    "definition": "vi. To pray, entreat, comfort"
+  },
+  {
+    "headword": "e",
+    "copticWord": "ⲉ",
+    "englishTransliteration": "e",
+    "gloss": "vi. To comfort",
+    "definition": "vi. To comfort"
+  },
+  {
+    "headword": "cmot",
+    "copticWord": "ⲥⲙⲟⲧ",
+    "englishTransliteration": "smot",
+    "variants": [
+      {
+        "word": "cmont",
+        "copticWord": "ⲥⲙⲟⲛⲧ",
+        "englishTransliteration": "smont"
+      }
+    ],
+    "reference": "340b",
+    "partOfSpeech": "mf",
+    "gloss": "Form, character, likeness, pattern",
+    "definition": "Form, character, likeness, pattern"
+  },
+  {
+    "headword": "iri",
+    "copticWord": "ⲓⲣⲓ",
+    "englishTransliteration": "iri",
+    "variants": [
+      {
+        "word": "oi ncmot",
+        "copticWord": "ⲟⲓ ⲛⲥⲙⲟⲧ",
+        "englishTransliteration": "oi nsmot"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To have appearance, be like, be pattern",
+    "definition": "To have appearance, be like, be pattern"
+  },
+  {
+    "headword": "[icmot",
+    "copticWord": "ϭⲓⲥⲙⲟⲧ",
+    "englishTransliteration": "chismot",
+    "partOfSpeech": "vb",
+    "gloss": "To become, be like",
+    "definition": "To become, be like"
+  },
+  {
+    "headword": "refcobceb",
+    "copticWord": "ⲣⲉϥⲥⲟⲃⲥⲉⲃ",
+    "englishTransliteration": "refsovsev",
+    "partOfSpeech": "m",
+    "gloss": "Beguiler. cobt, pl",
+    "definition": "Beguiler. cobt, pl"
+  },
+  {
+    "headword": "cbyaiou",
+    "copticWord": "ⲥⲃⲑⲁⲓⲟⲩ",
+    "englishTransliteration": "svthaiou",
+    "partOfSpeech": "m",
+    "gloss": "Wall (of city), fence",
+    "definition": "Wall (of city), fence"
+  },
+  {
+    "headword": "cmou",
+    "copticWord": "ⲥⲙⲟⲩ",
+    "englishTransliteration": "smou",
+    "variants": [
+      {
+        "word": "cmamat",
+        "note": "Q",
+        "copticWord": "ⲥⲙⲁⲙⲁⲧ",
+        "englishTransliteration": "smamat"
+      },
+      {
+        "word": "cmauat",
+        "note": "Q",
+        "copticWord": "ⲥⲙⲁⲩⲁⲧ",
+        "englishTransliteration": "smavat"
+      },
+      {
+        "word": "cmarwout",
+        "note": "Q",
+        "copticWord": "ⲥⲙⲁⲣⲱⲟⲩⲧ",
+        "englishTransliteration": "smarōout"
+      }
+    ],
+    "reference": "335a",
+    "gloss": "vi. To bless, praise",
+    "definition": "vi. To bless, praise"
+  },
+  {
+    "headword": "(Q)",
+    "copticWord": "(Ϧ)",
+    "englishTransliteration": "(Kh)",
+    "gloss": "Ready",
+    "definition": "Ready"
+  },
+  {
+    "headword": "ercob]",
+    "copticWord": "ⲉⲣⲥⲟⲃϯ",
+    "englishTransliteration": "ersovti",
+    "partOfSpeech": "vb",
+    "gloss": "To make preparation",
+    "definition": "To make preparation"
+  },
+  {
+    "headword": "atcob]",
+    "copticWord": "ⲁⲧⲥⲟⲃϯ",
+    "englishTransliteration": "atsovti",
+    "partOfSpeech": "adj",
+    "gloss": "Unprovided",
+    "definition": "Unprovided"
+  },
+  {
+    "headword": "ma ncob]",
+    "copticWord": "ⲙⲁ ⲛⲥⲟⲃϯ",
+    "englishTransliteration": "ma nsovti",
+    "partOfSpeech": "m",
+    "gloss": "Place of preparing, storage",
+    "definition": "Place of preparing, storage"
+  },
+  {
+    "headword": "[icmou",
+    "copticWord": "ϭⲓⲥⲙⲟⲩ",
+    "englishTransliteration": "chismou",
+    "partOfSpeech": "vb",
+    "gloss": "To take blessing, salute",
+    "definition": "--- ejen: vb. To take a sacrament for"
+  },
+  {
+    "headword": "jincmou",
+    "copticWord": "ϫⲓⲛⲥⲙⲟⲩ",
+    "englishTransliteration": "jinsmou",
+    "partOfSpeech": "m",
+    "gloss": "Act of blessing",
+    "definition": "Act of blessing"
+  },
+  {
+    "headword": "cmour",
+    "copticWord": "ⲥⲙⲟⲩⲣ",
+    "englishTransliteration": "smour",
+    "reference": "339b",
+    "partOfSpeech": "m",
+    "gloss": "Moustache",
+    "definition": "Moustache"
+  }
+]

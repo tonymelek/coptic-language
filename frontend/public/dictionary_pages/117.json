@@ -1,0 +1,496 @@
+[
+  {
+    "headword": "(1) ouon",
+    "copticWord": "ⲟⲩⲟⲛ",
+    "englishTransliteration": "ouon",
+    "variants": [
+      {
+        "word": "ouonte",
+        "copticWord": "ⲟⲩⲟⲛⲧⲉ",
+        "englishTransliteration": "ouonte"
+      },
+      {
+        "word": "ouonta=",
+        "copticWord": "ⲟⲩⲟⲛⲧⲁ",
+        "englishTransliteration": "ouonta"
+      }
+    ],
+    "reference": "481a",
+    "partOfSpeech": "vb",
+    "gloss": "To be, have",
+    "definition": "--- mmo=: Of person or thing having."
+  },
+  {
+    "headword": "ouosf (Q) v. ouwsf - To be worn down. ouoh",
+    "copticWord": "ⲟⲩⲟϣϥ (Ϧ) ⲫ. ⲟⲩⲱϣϥ - Ⲧⲟ ⲃⲉ ⲱⲟⲣⲛ ⲇⲟⲱⲛ. ⲟⲩⲟϩ",
+    "englishTransliteration": "ouoshf (Kh) f. ouōshf - To ve ōorn doōn. ouoh",
+    "reference": "19b",
+    "gloss": "conj.",
+    "definition": "And; ouosf= v. ouwsf - To perish.",
+    "senses": [
+      {
+        "label": "on",
+        "gloss": "conj.",
+        "definition": "moreover, further."
+      }
+    ]
+  },
+  {
+    "headword": "ouoh",
+    "copticWord": "ⲟⲩⲟϩ",
+    "englishTransliteration": "ouoh",
+    "gloss": "To be (there)",
+    "definition": "To be (there)",
+    "crossReference": {
+      "target": "ouwh",
+      "gloss": "To be (there)"
+    }
+  },
+  {
+    "headword": "(2) ouon",
+    "copticWord": "ⲟⲩⲟⲛ",
+    "englishTransliteration": "ouon",
+    "reference": "482a",
+    "gloss": "pron. Someone, something, some",
+    "definition": "pron. Someone, something, some",
+    "senses": [
+      {
+        "label": "keouon",
+        "gloss": "pl. Other ones",
+        "definition": "pl. Other ones"
+      },
+      {
+        "label": "ouon niben",
+        "partOfSpeech": "n",
+        "gloss": "Everyone",
+        "definition": "oun ouon: vb. (rare), There is one, are some;"
+      },
+      {
+        "label": "mmon ouon",
+        "gloss": "There is not one, any",
+        "definition": "ouon nca ouon: One after another."
+      }
+    ]
+  },
+  {
+    "headword": "ouohem",
+    "copticWord": "ⲟⲩⲟϩⲉⲙ",
+    "englishTransliteration": "ouohem",
+    "gloss": "To repeat",
+    "definition": "To repeat",
+    "crossReference": {
+      "target": "ouwhem",
+      "gloss": "To repeat"
+    }
+  },
+  {
+    "headword": "ouohi",
+    "copticWord": "ⲟⲩⲟϩⲓ",
+    "englishTransliteration": "ouohi",
+    "variants": [
+      {
+        "word": "bohi",
+        "copticWord": "ⲃⲟϩⲓ",
+        "englishTransliteration": "vohi"
+      }
+    ],
+    "reference": "509a",
+    "partOfSpeech": "m",
+    "gloss": "Fisher",
+    "definition": "Fisher"
+  },
+  {
+    "headword": "ouoj=",
+    "copticWord": "ⲟⲩⲟϫ",
+    "englishTransliteration": "ouoj",
+    "gloss": "To cut",
+    "definition": "To cut",
+    "crossReference": {
+      "target": "ouwj",
+      "gloss": "To cut"
+    }
+  },
+  {
+    "headword": "ouojbej",
+    "copticWord": "ⲟⲩⲟϫⲃⲉϫ",
+    "englishTransliteration": "ouojvej",
+    "gloss": "To chew",
+    "definition": "To chew",
+    "crossReference": {
+      "target": "ouojouej",
+      "gloss": "To chew"
+    }
+  },
+  {
+    "headword": "ouonta=",
+    "copticWord": "ⲟⲩⲟⲛⲧⲁ",
+    "englishTransliteration": "ouonta",
+    "gloss": "To have",
+    "definition": "To have",
+    "crossReference": {
+      "target": "(1)ouon",
+      "gloss": "To have"
+    }
+  },
+  {
+    "headword": "(1)ouoji",
+    "copticWord": "ⲟⲩⲟϫⲓ",
+    "englishTransliteration": "ouoji",
+    "reference": "511a",
+    "partOfSpeech": "vb",
+    "gloss": "To bend, twist",
+    "definition": "To bend, twist"
+  },
+  {
+    "headword": "ouonte",
+    "copticWord": "ⲟⲩⲟⲛⲧⲉ",
+    "englishTransliteration": "ouonte",
+    "gloss": "To have",
+    "definition": "To have",
+    "crossReference": {
+      "target": "(1)ouon",
+      "gloss": "To have"
+    }
+  },
+  {
+    "headword": "ouonh=",
+    "copticWord": "ⲟⲩⲟⲛϩ",
+    "englishTransliteration": "ouonh",
+    "gloss": "To reveal",
+    "definition": "To reveal",
+    "crossReference": {
+      "target": "ouwnh",
+      "gloss": "To reveal"
+    }
+  },
+  {
+    "headword": "ouonhf",
+    "copticWord": "ⲟⲩⲟⲛϩϥ",
+    "englishTransliteration": "ouonhf",
+    "reference": "480a",
+    "partOfSpeech": "m",
+    "gloss": "Manager",
+    "definition": "Manager"
+  },
+  {
+    "headword": "ouorp",
+    "copticWord": "ⲟⲩⲟⲣⲡ",
+    "englishTransliteration": "ouorp",
+    "gloss": "To send",
+    "definition": "To send",
+    "crossReference": {
+      "target": "ouwrp",
+      "gloss": "To send"
+    }
+  },
+  {
+    "headword": "(2)ouoji",
+    "copticWord": "ⲟⲩⲟϫⲓ",
+    "englishTransliteration": "ouoji",
+    "reference": "512b",
+    "partOfSpeech": "f",
+    "gloss": "Jaw, cheek",
+    "definition": "ouejro, pl"
+  },
+  {
+    "headword": "ouejrwou",
+    "copticWord": "ⲟⲩⲉϫⲣⲱⲟⲩ",
+    "englishTransliteration": "ouejrōou",
+    "partOfSpeech": "f",
+    "gloss": "Door's jawbone, door-post",
+    "definition": "Door's jawbone, door-post"
+  },
+  {
+    "headword": "ouojp=",
+    "copticWord": "ⲟⲩⲟϫⲡ",
+    "englishTransliteration": "ouojp",
+    "gloss": "To break",
+    "definition": "To break",
+    "crossReference": {
+      "target": "ouwjp",
+      "gloss": "To break"
+    }
+  },
+  {
+    "headword": "ouorp=",
+    "copticWord": "ⲟⲩⲟⲣⲡ",
+    "englishTransliteration": "ouorp",
+    "gloss": "To send",
+    "definition": "To send",
+    "crossReference": {
+      "target": "ouwrp",
+      "gloss": "To send"
+    }
+  },
+  {
+    "headword": "ouocer",
+    "copticWord": "ⲟⲩⲟⲥⲉⲣ",
+    "englishTransliteration": "ouoser",
+    "variants": [
+      {
+        "word": "bocer",
+        "copticWord": "ⲃⲟⲥⲉⲣ",
+        "englishTransliteration": "voser"
+      }
+    ],
+    "reference": "492a",
+    "partOfSpeech": "m",
+    "gloss": "Oar",
+    "definition": "Oar"
+  },
+  {
+    "headword": "ouocyen",
+    "copticWord": "ⲟⲩⲟⲥⲑⲉⲛ",
+    "englishTransliteration": "ouosthen",
+    "variants": [
+      {
+        "word": "ouecyen",
+        "copticWord": "ⲟⲩⲉⲥⲑⲉⲛ",
+        "englishTransliteration": "ouesthen"
+      },
+      {
+        "word": "ouecywn=; (Q) ouecywn",
+        "copticWord": "ⲟⲩⲉⲥⲑⲱⲛⲑ̅ (Ϧ) ⲟⲩⲉⲥⲑⲱⲛ",
+        "englishTransliteration": "ouesthōnth̅ (Kh) ouesthōn"
+      },
+      {
+        "word": "becywn",
+        "copticWord": "ⲃⲉⲥⲑⲱⲛ",
+        "englishTransliteration": "vesthōn"
+      }
+    ],
+    "reference": "492b",
+    "gloss": "vi. To become, make broad",
+    "definition": "vt. to broaden; ---: m. Breadth;",
+    "senses": [
+      {
+        "label": "ebol",
+        "gloss": "vi. To be broad, well provided",
+        "definition": "vt. to enlarge."
+      }
+    ]
+  },
+  {
+    "headword": "ouot",
+    "copticWord": "ⲟⲩⲟⲧ",
+    "englishTransliteration": "ouot",
+    "gloss": "It is different",
+    "definition": "It is different",
+    "crossReference": {
+      "target": "ouw]",
+      "gloss": "It is different"
+    }
+  },
+  {
+    "headword": "ouojouej",
+    "copticWord": "ⲟⲩⲟϫⲟⲩⲉϫ",
+    "englishTransliteration": "ouojouej",
+    "variants": [
+      {
+        "word": "ouojbej",
+        "copticWord": "ⲟⲩⲟϫⲃⲉϫ",
+        "englishTransliteration": "ouojvej"
+      },
+      {
+        "word": "ouejouwj=",
+        "copticWord": "ⲟⲩⲉϫⲟⲩⲱϫ",
+        "englishTransliteration": "ouejouōj"
+      },
+      {
+        "word": "bejbwj=",
+        "copticWord": "ⲃⲉϫⲃⲱϫ",
+        "englishTransliteration": "vejvōj"
+      }
+    ],
+    "reference": "513b",
+    "gloss": "vi. To chew, crush",
+    "definition": "vi. To chew, crush"
+  },
+  {
+    "headword": "ouo]",
+    "copticWord": "ⲟⲩⲟϯ",
+    "englishTransliteration": "ouoti",
+    "gloss": "Herbs",
+    "definition": "Herbs",
+    "crossReference": {
+      "target": "(1)ouwt",
+      "gloss": "Herbs"
+    }
+  },
+  {
+    "headword": "oura]",
+    "copticWord": "ⲟⲩⲣⲁϯ",
+    "englishTransliteration": "ourati",
+    "gloss": "Guardians",
+    "definition": "Guardians",
+    "crossReference": {
+      "target": "ourit",
+      "gloss": "Guardians"
+    }
+  },
+  {
+    "headword": "our/te",
+    "copticWord": "ⲟⲩⲣⲏⲧⲉ",
+    "englishTransliteration": "ourite",
+    "reference": "491a",
+    "partOfSpeech": "f",
+    "gloss": "Foot",
+    "definition": "Foot"
+  },
+  {
+    "headword": "ouric",
+    "copticWord": "ⲟⲩⲣⲓⲥ",
+    "englishTransliteration": "ouris",
+    "reference": "489b",
+    "partOfSpeech": "m",
+    "gloss": "a kind of plant. ourit, pl",
+    "definition": "a kind of plant. ourit, pl"
+  },
+  {
+    "headword": "ourwou",
+    "copticWord": "ⲟⲩⲣⲱⲟⲩ",
+    "englishTransliteration": "ourōou",
+    "reference": "299a",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "ouot=",
+    "copticWord": "ⲟⲩⲟⲧ",
+    "englishTransliteration": "ouot",
+    "gloss": "To send",
+    "definition": "To send",
+    "crossReference": {
+      "target": "ouw]",
+      "gloss": "To send"
+    }
+  },
+  {
+    "headword": "ouotb=",
+    "copticWord": "ⲟⲩⲟⲧⲃ",
+    "englishTransliteration": "ouotv",
+    "gloss": "To change",
+    "definition": "To change",
+    "crossReference": {
+      "target": "ouwteb",
+      "gloss": "To change"
+    }
+  },
+  {
+    "headword": "ouotn=",
+    "copticWord": "ⲟⲩⲟⲧⲛ",
+    "englishTransliteration": "ouotn",
+    "gloss": "To pour",
+    "definition": "To pour",
+    "crossReference": {
+      "target": "ouwten",
+      "gloss": "To pour"
+    }
+  },
+  {
+    "headword": "ouotp=",
+    "copticWord": "ⲟⲩⲟⲧⲡ",
+    "englishTransliteration": "ouotp",
+    "gloss": "To change. ouotouet v. (1)ouwt - Green",
+    "definition": "To change. ouotouet v. (1)ouwt - Green",
+    "crossReference": {
+      "target": "ouwteb",
+      "gloss": "To change. ouotouet v. (1)ouwt - Green"
+    }
+  },
+  {
+    "headword": "ouosm=",
+    "copticWord": "ⲟⲩⲟϣⲙ",
+    "englishTransliteration": "ouoshm",
+    "gloss": "To bruise",
+    "definition": "To bruise",
+    "crossReference": {
+      "target": "ouwsem",
+      "gloss": "To bruise"
+    }
+  },
+  {
+    "headword": "ouosoues",
+    "copticWord": "ⲟⲩⲟϣⲟⲩⲉϣ",
+    "englishTransliteration": "ouoshouesh",
+    "gloss": "To strike",
+    "definition": "To strike",
+    "crossReference": {
+      "target": "bosbes",
+      "gloss": "To strike"
+    }
+  },
+  {
+    "headword": "metouro",
+    "copticWord": "ⲙⲉⲧⲟⲩⲣⲟ",
+    "englishTransliteration": "metouro",
+    "partOfSpeech": "f",
+    "gloss": "Kingdom",
+    "definition": "Kingdom"
+  },
+  {
+    "headword": "erouro",
+    "copticWord": "ⲉⲣⲟⲩⲣⲟ",
+    "englishTransliteration": "erouro",
+    "partOfSpeech": "vb",
+    "gloss": "To be king, reign",
+    "definition": "To be king, reign"
+  },
+  {
+    "headword": "iri nouro",
+    "copticWord": "ⲓⲣⲓ ⲛⲟⲩⲣⲟ",
+    "englishTransliteration": "iri nouro",
+    "partOfSpeech": "vb",
+    "gloss": "To make king",
+    "definition": "To make king"
+  },
+  {
+    "headword": "ourw",
+    "copticWord": "ⲟⲩⲣⲱ",
+    "englishTransliteration": "ourō",
+    "reference": "489a",
+    "partOfSpeech": "m",
+    "gloss": "Bean",
+    "definition": "Bean"
+  },
+  {
+    "headword": "oucabin",
+    "copticWord": "ⲟⲩⲥⲁⲃⲓⲛ",
+    "englishTransliteration": "ousavin",
+    "reference": "492a",
+    "partOfSpeech": "m",
+    "gloss": "Fennel. outah, pl",
+    "definition": "Fennel. outah, pl"
+  },
+  {
+    "headword": "outauh",
+    "copticWord": "ⲟⲩⲧⲁⲩϩ",
+    "englishTransliteration": "outavh",
+    "reference": "498a",
+    "gloss": "Fruit",
+    "definition": "Fruit"
+  },
+  {
+    "headword": "atoutah",
+    "copticWord": "ⲁⲧⲟⲩⲧⲁϩ",
+    "englishTransliteration": "atoutah",
+    "partOfSpeech": "adj",
+    "gloss": "Fruitless",
+    "definition": "Fruitless"
+  },
+  {
+    "headword": "er outah",
+    "copticWord": "ⲉⲣ ⲟⲩⲧⲁϩ",
+    "englishTransliteration": "er outah",
+    "partOfSpeech": "vb",
+    "gloss": "To bear fruit",
+    "definition": "To bear fruit"
+  },
+  {
+    "headword": "en outah ebol",
+    "copticWord": "ⲉⲛ ⲟⲩⲧⲁϩ ⲉⲃⲟⲗ",
+    "englishTransliteration": "en outah evol",
+    "partOfSpeech": "vb",
+    "gloss": "To bring forth fruit",
+    "definition": "To bring forth fruit"
+  }
+]

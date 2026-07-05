@@ -1,0 +1,598 @@
+[
+  {
+    "headword": "y/t",
+    "copticWord": "ⲑⲏⲧ",
+    "englishTransliteration": "thit",
+    "gloss": "y/ou, you- (439b)",
+    "definition": "m. Wind, breath; hipy/ou: vb. To gasp, expire; ceky/ou: vb. To draw breath; nespy/ou: f. Fan; ,ay/ou: m. Window; caray/ou: f. Wind. y/s (Q) v. yws - To be determined. y/f v. yaf - Spittle. yibc, yebc: (401a); m. Heel; [iyibc: vb. To take by heel, to trip up; metyibc: f. Among courier's tools. (Q) v. ywt - To be joined."
+  },
+  {
+    "headword": "yik",
+    "copticWord": "ⲑⲓⲕ",
+    "englishTransliteration": "thik",
+    "gloss": "To spark",
+    "definition": "To spark",
+    "crossReference": {
+      "target": "(2)ywk",
+      "gloss": "To spark"
+    }
+  },
+  {
+    "headword": "yinoporon",
+    "copticWord": "ⲑⲓⲛⲟⲡⲟⲣⲟⲛ",
+    "englishTransliteration": "thinoporon",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Autumn",
+    "definition": "Autumn"
+  },
+  {
+    "headword": "yiou/out",
+    "copticWord": "ⲑⲓⲟⲩⲏⲟⲩⲧ",
+    "englishTransliteration": "thiouiout",
+    "gloss": "To cease",
+    "definition": "To cease",
+    "crossReference": {
+      "target": "ouw",
+      "gloss": "To cease"
+    }
+  },
+  {
+    "headword": "yifi",
+    "copticWord": "ⲑⲓϥⲓ",
+    "englishTransliteration": "thifi",
+    "reference": "69b",
+    "partOfSpeech": "m",
+    "gloss": "Swelling, tumor",
+    "definition": "Swelling, tumor"
+  },
+  {
+    "headword": "yiqi",
+    "copticWord": "ⲑⲓϧⲓ",
+    "englishTransliteration": "thikhi",
+    "variants": [
+      {
+        "word": "yaqi",
+        "note": "Q",
+        "copticWord": "ⲑⲁϧⲓ",
+        "englishTransliteration": "thakhi"
+      }
+    ],
+    "reference": "456b",
+    "gloss": "vi. To become, be drunk",
+    "definition": "vi. To become, be drunk"
+  },
+  {
+    "headword": "--- n",
+    "copticWord": "--- ⲛ",
+    "englishTransliteration": "--- n",
+    "partOfSpeech": "vb",
+    "gloss": "To be drunk with",
+    "definition": "To be drunk with"
+  },
+  {
+    "headword": "yeoceb/c",
+    "copticWord": "ⲑⲉⲟⲥⲉⲃⲏⲥ",
+    "englishTransliteration": "theosevis",
+    "gloss": "Religious",
+    "definition": "Religious",
+    "crossReference": {
+      "target": "yeoc",
+      "gloss": "Religious"
+    }
+  },
+  {
+    "headword": "yeotokoc",
+    "copticWord": "ⲑⲉⲟⲧⲟⲕⲟⲥ",
+    "englishTransliteration": "theotokos",
+    "gloss": "Mother of God",
+    "definition": "Mother of God",
+    "crossReference": {
+      "target": "yeoc",
+      "gloss": "Mother of God"
+    }
+  },
+  {
+    "headword": "yeoviloc",
+    "copticWord": "ⲑⲉⲟⲫⲓⲗⲟⲥ",
+    "englishTransliteration": "theofilos",
+    "gloss": "God-loving",
+    "definition": "God-loving",
+    "crossReference": {
+      "target": "yeoc",
+      "gloss": "God-loving"
+    }
+  },
+  {
+    "headword": "yeou",
+    "copticWord": "ⲑⲉⲟⲩ",
+    "englishTransliteration": "theou",
+    "gloss": "God",
+    "definition": "God",
+    "crossReference": {
+      "target": "yeoc",
+      "gloss": "God"
+    }
+  },
+  {
+    "headword": "yerilon",
+    "copticWord": "ⲑⲉⲣⲓⲗⲟⲛ",
+    "englishTransliteration": "therilon",
+    "reference": "Gk?",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Crescent",
+    "definition": "Crescent"
+  },
+  {
+    "headword": "yermoc",
+    "copticWord": "ⲑⲉⲣⲙⲟⲥ",
+    "englishTransliteration": "thermos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Lupine, lupinus albus",
+    "definition": "Lupine, lupinus albus"
+  },
+  {
+    "headword": "yerp",
+    "copticWord": "ⲑⲉⲣⲡ",
+    "englishTransliteration": "therp",
+    "gloss": "To sew",
+    "definition": "To sew",
+    "crossReference": {
+      "target": "ywrp",
+      "gloss": "To sew"
+    }
+  },
+  {
+    "headword": "yers",
+    "copticWord": "ⲑⲉⲣϣ",
+    "englishTransliteration": "thersh",
+    "variants": [
+      {
+        "word": "y/rs",
+        "copticWord": "ⲑⲏⲣϣ",
+        "englishTransliteration": "thirsh"
+      }
+    ],
+    "reference": "69a",
+    "partOfSpeech": "m",
+    "gloss": "Linseed. To make heavy, terrify",
+    "definition": "Linseed. To make heavy, terrify"
+  },
+  {
+    "headword": "yerso=",
+    "copticWord": "ⲑⲉⲣϣⲟ",
+    "englishTransliteration": "thersho",
+    "gloss": "To terrify",
+    "definition": "To terrify",
+    "crossReference": {
+      "target": "yerso",
+      "gloss": "To terrify"
+    }
+  },
+  {
+    "headword": "yec",
+    "copticWord": "ⲑⲉⲥ",
+    "englishTransliteration": "thes",
+    "variants": [
+      {
+        "word": "yecic",
+        "copticWord": "ⲑⲉⲥⲓⲥ",
+        "englishTransliteration": "thesis"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Sense, feeling",
+    "definition": "Sense, feeling"
+  },
+  {
+    "headword": "pie nyecic",
+    "copticWord": "ⲡⲓⲉ ⲛⲑⲉⲥⲓⲥ",
+    "englishTransliteration": "pie nthesis",
+    "gloss": "The five senses",
+    "definition": "The five senses"
+  },
+  {
+    "headword": "yet",
+    "copticWord": "ⲑⲉⲧ",
+    "englishTransliteration": "thet",
+    "gloss": "To be joined",
+    "definition": "To be joined",
+    "crossReference": {
+      "target": "ywt",
+      "gloss": "To be joined"
+    }
+  },
+  {
+    "headword": "yewria",
+    "copticWord": "ⲑⲉⲱⲣⲓⲁ",
+    "englishTransliteration": "theōria",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Viewing, beholding",
+    "definition": "Viewing, beholding"
+  },
+  {
+    "headword": "eryewrin",
+    "copticWord": "ⲉⲣⲑⲉⲱⲣⲓⲛ",
+    "englishTransliteration": "ertheōrin",
+    "partOfSpeech": "vb",
+    "gloss": "To see, watch, contemplate, witness",
+    "definition": "To see, watch, contemplate, witness"
+  },
+  {
+    "headword": "yewrimoc",
+    "copticWord": "ⲑⲉⲱⲣⲓⲙⲟⲥ",
+    "englishTransliteration": "theōrimos",
+    "variants": [
+      {
+        "word": "yeorimoc",
+        "copticWord": "ⲑⲉⲟⲣⲓⲙⲟⲥ",
+        "englishTransliteration": "theorimos"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "The seer of God",
+    "definition": "The seer of God"
+  },
+  {
+    "headword": "yes",
+    "copticWord": "ⲑⲉϣ",
+    "englishTransliteration": "thesh",
+    "gloss": "To determine",
+    "definition": "To determine",
+    "crossReference": {
+      "target": "yws",
+      "gloss": "To determine"
+    }
+  },
+  {
+    "headword": "yese",
+    "copticWord": "ⲑⲉϣⲉ",
+    "englishTransliteration": "theshe",
+    "gloss": "Neighbor",
+    "definition": "Neighbor",
+    "crossReference": {
+      "target": "yws",
+      "gloss": "Neighbor"
+    }
+  },
+  {
+    "headword": "yeseu",
+    "copticWord": "ⲑⲉϣⲉⲩ",
+    "englishTransliteration": "theshev",
+    "gloss": "Neighbors",
+    "definition": "Neighbors",
+    "crossReference": {
+      "target": "yws",
+      "gloss": "Neighbors"
+    }
+  },
+  {
+    "headword": "yes/",
+    "copticWord": "ⲑⲉϣⲏ",
+    "englishTransliteration": "theshi",
+    "gloss": "Neighbor",
+    "definition": "Neighbor",
+    "crossReference": {
+      "target": "yws",
+      "gloss": "Neighbor"
+    }
+  },
+  {
+    "headword": "yeq",
+    "copticWord": "ⲑⲉϧ",
+    "englishTransliteration": "thekh",
+    "gloss": "To mix",
+    "definition": "To mix",
+    "crossReference": {
+      "target": "ywq",
+      "gloss": "To mix"
+    }
+  },
+  {
+    "headword": "yeqywq=",
+    "copticWord": "ⲑⲉϧⲑⲱϧ",
+    "englishTransliteration": "thekhthōkh",
+    "gloss": "To confuse",
+    "definition": "To confuse",
+    "crossReference": {
+      "target": "yoqteq",
+      "gloss": "To confuse"
+    }
+  },
+  {
+    "headword": "yeqywq",
+    "copticWord": "ⲑⲉϧⲑⲱϧ",
+    "englishTransliteration": "thekhthōkh",
+    "gloss": "to confuse",
+    "definition": "to confuse",
+    "crossReference": {
+      "target": "yoqteq",
+      "gloss": "to confuse"
+    }
+  },
+  {
+    "headword": "y/",
+    "copticWord": "ⲑⲏ",
+    "englishTransliteration": "thi",
+    "gloss": "That one",
+    "definition": "That one",
+    "crossReference": {
+      "target": "v/",
+      "gloss": "That one"
+    }
+  },
+  {
+    "headword": "y/bi",
+    "copticWord": "ⲑⲏⲃⲓ",
+    "englishTransliteration": "theebi",
+    "gloss": "Coffin",
+    "definition": "Coffin",
+    "crossReference": {
+      "target": "taibi",
+      "gloss": "Coffin"
+    }
+  },
+  {
+    "headword": "y/m",
+    "copticWord": "ⲑⲏⲙ",
+    "englishTransliteration": "thim",
+    "gloss": "(Q), t/m (Q): (413a)",
+    "definition": "vb qual. To be sharp."
+  },
+  {
+    "headword": "refyiqi",
+    "copticWord": "ⲣⲉϥⲑⲓϧⲓ",
+    "englishTransliteration": "refthikhi",
+    "partOfSpeech": "m",
+    "gloss": "Drunkard",
+    "definition": "Drunkard"
+  },
+  {
+    "headword": "jinstemyiqi",
+    "copticWord": "ϫⲓⲛϣⲧⲉⲙⲑⲓϧⲓ",
+    "englishTransliteration": "jinshtemthikhi",
+    "partOfSpeech": "m",
+    "gloss": "State of not being drunken",
+    "definition": "State of not being drunken"
+  },
+  {
+    "headword": "yl/",
+    "copticWord": "ⲑⲗⲏ",
+    "englishTransliteration": "thli",
+    "reference": "410a",
+    "gloss": "vi. To drip, let drop",
+    "definition": "vi. To drip, let drop"
+  },
+  {
+    "headword": "yl/li",
+    "copticWord": "ⲑⲗⲏⲗⲓ",
+    "englishTransliteration": "thlili",
+    "gloss": "To drip",
+    "definition": "To drip",
+    "crossReference": {
+      "target": "yl/",
+      "gloss": "To drip"
+    }
+  },
+  {
+    "headword": "yli'ic",
+    "copticWord": "ⲑⲗⲓⲯⲓⲥ",
+    "englishTransliteration": "thlipsis",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Pressure, crushing, oppression, affliction. ylom, pl",
+    "definition": "Pressure, crushing, oppression, affliction. ylom, pl"
+  },
+  {
+    "headword": "ylwm",
+    "copticWord": "ⲑⲗⲱⲙ",
+    "englishTransliteration": "thlōm",
+    "reference": "411a",
+    "partOfSpeech": "m",
+    "gloss": "Furrow, shallow trench",
+    "definition": "Furrow, shallow trench"
+  },
+  {
+    "headword": "ymaie",
+    "copticWord": "ⲑⲙⲁⲓⲉ",
+    "englishTransliteration": "thmaie",
+    "gloss": "To justify",
+    "definition": "To justify",
+    "crossReference": {
+      "target": "ymaio",
+      "gloss": "To justify"
+    }
+  },
+  {
+    "headword": "ymaio",
+    "copticWord": "ⲑⲙⲁⲓⲟ",
+    "englishTransliteration": "thmaio",
+    "variants": [
+      {
+        "word": "maio",
+        "copticWord": "ⲙⲁⲓⲟ",
+        "englishTransliteration": "maio"
+      },
+      {
+        "word": "mai",
+        "copticWord": "ⲙⲁⲓ",
+        "englishTransliteration": "mai"
+      },
+      {
+        "word": "ymaie",
+        "copticWord": "ⲑⲙⲁⲓⲉ",
+        "englishTransliteration": "thmaie"
+      },
+      {
+        "word": "ymaio=",
+        "copticWord": "ⲑⲙⲁⲓⲟ",
+        "englishTransliteration": "thmaio"
+      },
+      {
+        "word": "maio=",
+        "copticWord": "ⲙⲁⲓⲟ",
+        "englishTransliteration": "maio"
+      },
+      {
+        "word": "ymai/out",
+        "note": "Q",
+        "copticWord": "ⲑⲙⲁⲓⲏⲟⲩⲧ",
+        "englishTransliteration": "thmaiiout"
+      }
+    ],
+    "reference": "415b",
+    "gloss": "vt. To justify, praise",
+    "definition": "vi. to be justified; ---: m. Justification"
+  },
+  {
+    "headword": "ymaio=",
+    "copticWord": "ⲑⲙⲁⲓⲟ",
+    "englishTransliteration": "thmaio",
+    "gloss": "To justify",
+    "definition": "To justify",
+    "crossReference": {
+      "target": "ymaio",
+      "gloss": "To justify"
+    }
+  },
+  {
+    "headword": "ymecie",
+    "copticWord": "ⲑⲙⲉⲥⲓⲉ",
+    "englishTransliteration": "thmesie",
+    "gloss": "To deliver (birth)",
+    "definition": "To deliver (birth)",
+    "crossReference": {
+      "target": "mici",
+      "gloss": "To deliver (birth)"
+    }
+  },
+  {
+    "headword": "ymecio",
+    "copticWord": "ⲑⲙⲉⲥⲓⲟ",
+    "englishTransliteration": "thmesio",
+    "gloss": "To deliver (birth)",
+    "definition": "To deliver (birth)",
+    "crossReference": {
+      "target": "mici",
+      "gloss": "To deliver (birth)"
+    }
+  },
+  {
+    "headword": "ym/",
+    "copticWord": "ⲑⲙⲏ",
+    "englishTransliteration": "thmi",
+    "reference": "415b",
+    "partOfSpeech": "f",
+    "gloss": "Mat (of reeds)",
+    "definition": "Mat (of reeds)"
+  },
+  {
+    "headword": "y/mi",
+    "copticWord": "ⲑⲏⲙⲓ",
+    "englishTransliteration": "thimi",
+    "gloss": "Righteous",
+    "definition": "Righteous",
+    "crossReference": {
+      "target": "m/i",
+      "gloss": "Righteous"
+    }
+  },
+  {
+    "headword": "ymic",
+    "copticWord": "ⲑⲙⲓⲥ",
+    "englishTransliteration": "thmis",
+    "reference": "68b",
+    "gloss": "pl. Dust",
+    "definition": "pl. Dust"
+  },
+  {
+    "headword": "y/n",
+    "copticWord": "ⲑⲏⲛ",
+    "englishTransliteration": "thin",
+    "reference": "69a",
+    "partOfSpeech": "m",
+    "gloss": "Sulfur",
+    "definition": "Sulfur"
+  },
+  {
+    "headword": "y/ni",
+    "copticWord": "ⲑⲏⲛⲓ",
+    "englishTransliteration": "thini",
+    "variants": [
+      {
+        "word": "yeni",
+        "copticWord": "ⲑⲉⲛⲓ",
+        "englishTransliteration": "theni"
+      }
+    ],
+    "reference": "69a",
+    "gloss": "vi. To sprout, grow",
+    "definition": "vi. To sprout, grow"
+  },
+  {
+    "headword": "y/ra",
+    "copticWord": "ⲑⲏⲣⲁ",
+    "englishTransliteration": "thira",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Hunting (of wild beasts), chase, eager pursuit, prey, catch",
+    "definition": "Hunting (of wild beasts), chase, eager pursuit, prey, catch"
+  },
+  {
+    "headword": "y/rion",
+    "copticWord": "ⲑⲏⲣⲓⲟⲛ",
+    "englishTransliteration": "thirion",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "gloss": "Wild animals",
+    "definition": "Wild animals"
+  },
+  {
+    "headword": "niy/rion nagrion",
+    "copticWord": "ⲛⲓⲑⲏⲣⲓⲟⲛ ⲛⲁⲅⲣⲓⲟⲛ",
+    "englishTransliteration": "nithirion nagrion",
+    "gloss": "Wild animals",
+    "definition": "Wild animals"
+  },
+  {
+    "headword": "y/rs",
+    "copticWord": "ⲑⲏⲣϣ",
+    "englishTransliteration": "thirsh",
+    "gloss": "Linseed",
+    "definition": "Linseed",
+    "crossReference": {
+      "target": "yers",
+      "gloss": "Linseed"
+    }
+  },
+  {
+    "headword": "y/cauroc",
+    "copticWord": "ⲑⲏⲥⲁⲩⲣⲟⲥ",
+    "englishTransliteration": "thisavros",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Store, treasure",
+    "definition": "Store, treasure"
+  },
+  {
+    "headword": "(1)yo",
+    "copticWord": "ⲑⲟ",
+    "englishTransliteration": "tho",
+    "reference": "19a",
+    "partOfSpeech": "m",
+    "gloss": "Multitude",
+    "definition": "Multitude"
+  }
+]

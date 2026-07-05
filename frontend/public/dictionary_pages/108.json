@@ -1,0 +1,444 @@
+[
+  {
+    "headword": "tarso",
+    "copticWord": "ⲧⲁⲣϣⲟ",
+    "englishTransliteration": "tarsho",
+    "variants": [
+      {
+        "word": "tarso=",
+        "copticWord": "ⲧⲁⲣϣⲟ",
+        "englishTransliteration": "tarsho"
+      },
+      {
+        "word": "tars/out",
+        "note": "Q",
+        "copticWord": "ⲧⲁⲣϣⲏⲟⲩⲧ",
+        "englishTransliteration": "tarshiout"
+      }
+    ],
+    "reference": "432b",
+    "gloss": "vt. To increase, multiply",
+    "definition": "vt. To increase, multiply"
+  },
+  {
+    "headword": "tanso=",
+    "copticWord": "ⲧⲁⲛϣⲟ",
+    "englishTransliteration": "tansho",
+    "gloss": "To increase",
+    "definition": "To increase",
+    "crossReference": {
+      "target": "taso",
+      "gloss": "To increase"
+    }
+  },
+  {
+    "headword": "tanqe",
+    "copticWord": "ⲧⲁⲛϧⲉ",
+    "englishTransliteration": "tankhe",
+    "gloss": "To make alive",
+    "definition": "To make alive",
+    "crossReference": {
+      "target": "tanqo",
+      "gloss": "To make alive"
+    }
+  },
+  {
+    "headword": "tanqo",
+    "copticWord": "ⲧⲁⲛϧⲟ",
+    "englishTransliteration": "tankho",
+    "variants": [
+      {
+        "word": "tanqe",
+        "copticWord": "ⲧⲁⲛϧⲉ",
+        "englishTransliteration": "tankhe"
+      },
+      {
+        "word": "tanqo=",
+        "copticWord": "ⲧⲁⲛϧⲟ",
+        "englishTransliteration": "tankho"
+      }
+    ],
+    "reference": "421a",
+    "gloss": "vt",
+    "definition": "vt"
+  },
+  {
+    "headword": "tarso=",
+    "copticWord": "ⲧⲁⲣϣⲟ",
+    "englishTransliteration": "tarsho",
+    "gloss": "To increase. tacye- v. tacyo - To bring back",
+    "definition": "To increase. tacye- v. tacyo - To bring back",
+    "crossReference": {
+      "target": "tarso",
+      "gloss": "To increase. tacye- v. tacyo - To bring back"
+    }
+  },
+  {
+    "headword": "tacy/out",
+    "copticWord": "ⲧⲁⲥⲑⲏⲟⲩⲧ",
+    "englishTransliteration": "tasthiout",
+    "gloss": "To be brought back",
+    "definition": "To be brought back",
+    "crossReference": {
+      "target": "tacyo",
+      "gloss": "To be brought back"
+    }
+  },
+  {
+    "headword": "To make",
+    "copticWord": "Ⲧⲟ ⲙⲁⲕⲉ",
+    "englishTransliteration": "To make",
+    "variants": [
+      {
+        "word": "keep alive; be alive",
+        "copticWord": "ⲕⲉⲉⲡ ⲁⲗⲓⲫⲉⲑ ⲃⲉ ⲁⲗⲓⲫⲉ",
+        "englishTransliteration": "keep alifeth ve alife"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "Keeping alive, saving",
+    "definition": "Keeping alive, saving"
+  },
+  {
+    "headword": "reftanqo",
+    "copticWord": "ⲣⲉϥⲧⲁⲛϧⲟ",
+    "englishTransliteration": "reftankho",
+    "partOfSpeech": "m",
+    "gloss": "Life giver, savior. tanqo= v. tanqo - To make alive. taoue- v. taouo - To send. taou/out (Q) v. taouo - To be sent",
+    "definition": "Life giver, savior. tanqo= v. tanqo - To make alive. taoue- v. taouo - To send. taou/out (Q) v. taouo - To be sent"
+  },
+  {
+    "headword": "tacyo",
+    "copticWord": "ⲧⲁⲥⲑⲟ",
+    "englishTransliteration": "tastho",
+    "variants": [
+      {
+        "word": "tacye",
+        "copticWord": "ⲧⲁⲥⲑⲉ",
+        "englishTransliteration": "tasthe"
+      },
+      {
+        "word": "tacyo",
+        "copticWord": "ⲧⲁⲥⲑⲟ",
+        "englishTransliteration": "tastho"
+      },
+      {
+        "word": "tacyo=",
+        "copticWord": "ⲧⲁⲥⲑⲟ",
+        "englishTransliteration": "tastho"
+      },
+      {
+        "word": "tacy/out",
+        "note": "Q",
+        "copticWord": "ⲧⲁⲥⲑⲏⲟⲩⲧ",
+        "englishTransliteration": "tasthiout"
+      }
+    ],
+    "reference": "436a",
+    "gloss": "vt. To bring, pay back, repeat",
+    "definition": "vi. To make to return, turn, bring back.",
+    "senses": [
+      {
+        "label": "e",
+        "partOfSpeech": "vb",
+        "gloss": "To return to",
+        "definition": "To return to"
+      },
+      {
+        "label": "ejen",
+        "partOfSpeech": "vb",
+        "gloss": "To turn upon, toward",
+        "definition": "--- sa-: vb. To return, turn to; --- ha-: vb. To return, turn to; --- hijen-: vb. To turn upon, to;"
+      },
+      {
+        "label": "ebol",
+        "gloss": "vt. To turn out, reject, return",
+        "definition": "vt. To turn out, reject, return"
+      },
+      {
+        "label": "ebol ha",
+        "partOfSpeech": "vb",
+        "gloss": "To turn away from",
+        "definition": "To turn away from"
+      },
+      {
+        "label": "ebol hi",
+        "partOfSpeech": "vb",
+        "gloss": "To turn away from",
+        "definition": "--- ebol hijen-: vb. To turn away from;"
+      },
+      {
+        "label": "eqoun ha",
+        "partOfSpeech": "vb",
+        "gloss": "To turn in to",
+        "definition": "--- ebol: m. Rejection."
+      },
+      {
+        "label": "cabol n",
+        "partOfSpeech": "vb",
+        "gloss": "To turn away from",
+        "definition": "To turn away from"
+      },
+      {
+        "label": "evahou",
+        "partOfSpeech": "vb",
+        "gloss": "To turn backward",
+        "definition": "---: n. Sending back."
+      }
+    ]
+  },
+  {
+    "headword": "taouo",
+    "copticWord": "ⲧⲁⲟⲩⲟ",
+    "englishTransliteration": "taouo",
+    "variants": [
+      {
+        "word": "taoue",
+        "copticWord": "ⲧⲁⲟⲩⲉ",
+        "englishTransliteration": "taoue"
+      },
+      {
+        "word": "taouo=",
+        "copticWord": "ⲧⲁⲟⲩⲟ",
+        "englishTransliteration": "taouo"
+      },
+      {
+        "word": "taou/out",
+        "note": "Q",
+        "copticWord": "ⲧⲁⲟⲩⲏⲟⲩⲧ",
+        "englishTransliteration": "taouiout"
+      }
+    ],
+    "reference": "441b",
+    "gloss": "vt. To send",
+    "definition": "put forth, produce; utter, proclaim, recount; give, say name; overthrow;",
+    "senses": [
+      {
+        "label": "e",
+        "gloss": "vt. To send to, cast upon",
+        "definition": "tell to;"
+      },
+      {
+        "label": "eqoun e",
+        "gloss": "vt. To send to",
+        "definition": "vt. To send to"
+      },
+      {
+        "label": "ejen",
+        "gloss": "vt. To send upon",
+        "definition": "vt. To send upon"
+      },
+      {
+        "label": "n",
+        "gloss": "vt. To send to",
+        "definition": "vt. To send to"
+      },
+      {
+        "label": "nca",
+        "gloss": "vt. To send after",
+        "definition": "vt. To send after"
+      },
+      {
+        "label": "sa",
+        "gloss": "vt. To send to",
+        "definition": "vt. To send to"
+      },
+      {
+        "label": "ha",
+        "gloss": "vt. To sent to",
+        "definition": "vt. To sent to"
+      },
+      {
+        "label": "qajen",
+        "gloss": "vt. To send before",
+        "definition": "vt. To send before"
+      },
+      {
+        "label": "ebol",
+        "gloss": "vt. To send forth",
+        "definition": "vt. To send forth"
+      },
+      {
+        "label": "epec/t",
+        "gloss": "vt. To send, cast down",
+        "definition": "vt. To send, cast down"
+      },
+      {
+        "label": "epswi",
+        "gloss": "vt. To cast up",
+        "definition": "vt. To cast up"
+      },
+      {
+        "label": "eqr/i",
+        "gloss": "vt. To send, cast down",
+        "definition": "jintaouo: m. Explanation, recital."
+      }
+    ]
+  },
+  {
+    "headword": "taouo=",
+    "copticWord": "ⲧⲁⲟⲩⲟ",
+    "englishTransliteration": "taouo",
+    "gloss": "To send",
+    "definition": "To send",
+    "crossReference": {
+      "target": "taouo",
+      "gloss": "To send"
+    }
+  },
+  {
+    "headword": "tap",
+    "copticWord": "ⲧⲁⲡ",
+    "englishTransliteration": "tap",
+    "reference": "422a",
+    "partOfSpeech": "m",
+    "gloss": "Horn",
+    "definition": "Horn"
+  },
+  {
+    "headword": "jintacyo",
+    "copticWord": "ϫⲓⲛⲧⲁⲥⲑⲟ",
+    "englishTransliteration": "jintastho",
+    "partOfSpeech": "m",
+    "gloss": "Return",
+    "definition": "Return"
+  },
+  {
+    "headword": "tacyo=",
+    "copticWord": "ⲧⲁⲥⲑⲟ",
+    "englishTransliteration": "tastho",
+    "gloss": "To bring back",
+    "definition": "To bring back",
+    "crossReference": {
+      "target": "tacyo",
+      "gloss": "To bring back"
+    }
+  },
+  {
+    "headword": "tatci",
+    "copticWord": "ⲧⲁⲧⲥⲓ",
+    "englishTransliteration": "tatsi",
+    "reference": "466b",
+    "partOfSpeech": "f",
+    "gloss": "Foot sole, foot print",
+    "definition": "Foot sole, foot print"
+  },
+  {
+    "headword": "se ntatci",
+    "copticWord": "ϣⲉ ⲛⲧⲁⲧⲥⲓ",
+    "englishTransliteration": "she ntatsi",
+    "partOfSpeech": "f",
+    "gloss": "Blow, kick, stroke of foot, foot print",
+    "definition": "Blow, kick, stroke of foot, foot print"
+  },
+  {
+    "headword": "patap nouwt",
+    "copticWord": "ⲡⲁⲧⲁⲡ ⲛⲟⲩⲱⲧ",
+    "englishTransliteration": "patap nouōt",
+    "partOfSpeech": "m",
+    "gloss": "Unicorn",
+    "definition": "Unicorn"
+  },
+  {
+    "headword": "tapro",
+    "copticWord": "ⲧⲁⲡⲣⲟ",
+    "englishTransliteration": "tapro",
+    "reference": "423b",
+    "partOfSpeech": "f",
+    "gloss": "Mouth",
+    "definition": "Mouth"
+  },
+  {
+    "headword": "tar",
+    "copticWord": "ⲧⲁⲣ",
+    "englishTransliteration": "tar",
+    "reference": "423b",
+    "gloss": "m f(once)",
+    "definition": "Branch, point"
+  },
+  {
+    "headword": "oi ntar",
+    "copticWord": "ⲟⲓ ⲛⲧⲁⲣ",
+    "englishTransliteration": "oi ntar",
+    "partOfSpeech": "vb",
+    "gloss": "To have points",
+    "definition": "To have points"
+  },
+  {
+    "headword": "rat tar ebol",
+    "copticWord": "ⲣⲁⲧ ⲧⲁⲣ ⲉⲃⲟⲗ",
+    "englishTransliteration": "rat tar evol",
+    "partOfSpeech": "vb",
+    "gloss": "To put forth branches",
+    "definition": "To put forth branches"
+  },
+  {
+    "headword": "tarke",
+    "copticWord": "ⲧⲁⲣⲕⲉ",
+    "englishTransliteration": "tarke",
+    "gloss": "To make to swear",
+    "definition": "To make to swear",
+    "crossReference": {
+      "target": "tarko",
+      "gloss": "To make to swear"
+    }
+  },
+  {
+    "headword": "[itatci nca",
+    "copticWord": "ϭⲓⲧⲁⲧⲥⲓ ⲛⲥⲁ",
+    "englishTransliteration": "chitatsi nsa",
+    "partOfSpeech": "vb",
+    "gloss": "To take step after, follow",
+    "definition": "To take step after, follow"
+  },
+  {
+    "headword": "at[itatci",
+    "copticWord": "ⲁⲧϭⲓⲧⲁⲧⲥⲓ",
+    "englishTransliteration": "atchitatsi",
+    "partOfSpeech": "adj",
+    "gloss": "Not to be tracked",
+    "definition": "Not to be tracked"
+  },
+  {
+    "headword": "tath",
+    "copticWord": "ⲧⲁⲧϩ",
+    "englishTransliteration": "tath",
+    "gloss": "lead",
+    "definition": "lead",
+    "crossReference": {
+      "target": "taht",
+      "gloss": "lead"
+    }
+  },
+  {
+    "headword": "tarko",
+    "copticWord": "ⲧⲁⲣⲕⲟ",
+    "englishTransliteration": "tarko",
+    "variants": [
+      {
+        "word": "tarke",
+        "copticWord": "ⲧⲁⲣⲕⲉ",
+        "englishTransliteration": "tarke"
+      },
+      {
+        "word": "tarko=",
+        "copticWord": "ⲧⲁⲣⲕⲟ",
+        "englishTransliteration": "tarko"
+      }
+    ],
+    "reference": "430a",
+    "gloss": "vt. To make to swear, adjure, entreat",
+    "definition": "vt. To make to swear, adjure, entreat"
+  },
+  {
+    "headword": "tarko=",
+    "copticWord": "ⲧⲁⲣⲕⲟ",
+    "englishTransliteration": "tarko",
+    "gloss": "To make to swear",
+    "definition": "To make to swear",
+    "crossReference": {
+      "target": "tarko",
+      "gloss": "To make to swear"
+    }
+  }
+]

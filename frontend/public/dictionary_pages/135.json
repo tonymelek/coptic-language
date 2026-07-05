@@ -1,0 +1,100 @@
+[
+  {
+    "headword": "wqt",
+    "copticWord": "ⲱϧⲧ",
+    "englishTransliteration": "ōkht",
+    "variants": [
+      {
+        "word": "(Q) oqt",
+        "copticWord": "(Ϧ) ⲟϧⲧ",
+        "englishTransliteration": "(Kh) okht"
+      }
+    ],
+    "reference": "536b",
+    "gloss": "vi. To drip, trickle",
+    "definition": "vi. To drip, trickle"
+  },
+  {
+    "headword": "wjeb",
+    "copticWord": "ⲱϫⲉⲃ",
+    "englishTransliteration": "ōjev",
+    "variants": [
+      {
+        "word": "wjef",
+        "copticWord": "ⲱϫⲉϥ",
+        "englishTransliteration": "ōjef"
+      },
+      {
+        "word": "(Q) ojeb",
+        "copticWord": "(Ϧ) ⲟϫⲉⲃ",
+        "englishTransliteration": "(Kh) ojev"
+      }
+    ],
+    "reference": "540a",
+    "gloss": "vi. To become, be cold, frozen",
+    "definition": "vi. To become, be cold, frozen"
+  },
+  {
+    "headword": "wjer",
+    "copticWord": "ⲱϫⲉⲣ",
+    "englishTransliteration": "ōjer",
+    "reference": "540a",
+    "gloss": "vi. To become hard, stiff",
+    "definition": "freeze wjef v. wjeb - To become cold"
+  },
+  {
+    "headword": "wjh",
+    "copticWord": "ⲱϫϩ",
+    "englishTransliteration": "ōjh",
+    "variants": [
+      {
+        "word": "ouoj=",
+        "copticWord": "ⲟⲩⲟϫ",
+        "englishTransliteration": "ouoj"
+      },
+      {
+        "word": "ojh=",
+        "copticWord": "ⲟϫϩ",
+        "englishTransliteration": "ojh"
+      },
+      {
+        "word": "ohj=",
+        "copticWord": "ⲟϩϫ",
+        "englishTransliteration": "ohj"
+      }
+    ],
+    "reference": "540b"
+  },
+  {
+    "headword": "oft",
+    "copticWord": "ⲟϥⲧ",
+    "englishTransliteration": "oft",
+    "reference": "536a",
+    "gloss": "vt. To nail, fix",
+    "definition": "--- e-: vt. (rare) to nail to; --- eqoun e-: vi. To nail into, onto; --- n-: vi. To be nailed, studded with; --- qen: vt. To nail in"
+  },
+  {
+    "headword": "jinwft",
+    "copticWord": "ϫⲓⲛⲱϥⲧ",
+    "englishTransliteration": "jinōft",
+    "partOfSpeech": "m",
+    "gloss": "Nailing",
+    "definition": "Nailing"
+  },
+  {
+    "headword": "ift",
+    "copticWord": "ⲓϥⲧ",
+    "englishTransliteration": "ift",
+    "partOfSpeech": "m",
+    "gloss": "Nail, spike",
+    "definition": "Nail, spike"
+  },
+  {
+    "headword": "se nift",
+    "copticWord": "ϣⲉ ⲛⲓϥⲧ",
+    "englishTransliteration": "she nift",
+    "partOfSpeech": "m",
+    "gloss": "Blow, wound of nail",
+    "definition": "]ift: vb. To put, fix nail."
+  }
+]

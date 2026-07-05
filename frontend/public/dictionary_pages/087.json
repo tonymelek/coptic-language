@@ -1,0 +1,445 @@
+[
+  {
+    "headword": "r/]",
+    "copticWord": "ⲣⲏϯ",
+    "englishTransliteration": "riti",
+    "reference": "304b",
+    "partOfSpeech": "m",
+    "gloss": "Manner, fashion, likeness",
+    "definition": "Manner, fashion, likeness",
+    "senses": [
+      {
+        "label": "mpek",
+        "gloss": "like you, him &c",
+        "definition": "like you, him &c"
+      },
+      {
+        "label": "kata vr/]",
+        "gloss": "According to the manner, as",
+        "definition": "According to the manner, as"
+      },
+      {
+        "label": "ca nr/]",
+        "gloss": "As",
+        "definition": "As"
+      },
+      {
+        "label": "as nr/]",
+        "gloss": "What sort, manner",
+        "definition": "What sort, manner"
+      },
+      {
+        "label": "m/s",
+        "gloss": "nr/]: Many sorts",
+        "definition": "nr/]: Many sorts"
+      },
+      {
+        "label": "yo nr/]",
+        "gloss": "Many sorts",
+        "definition": "Many sorts"
+      },
+      {
+        "label": "r/] niben",
+        "gloss": "Every sort, way",
+        "definition": "Every sort, way"
+      },
+      {
+        "label": "iri",
+        "partOfSpeech": "vb",
+        "gloss": "To be in manner, likeness, be as",
+        "definition": "To be in manner, likeness, be as"
+      },
+      {
+        "label": "] mvr/]",
+        "partOfSpeech": "vb",
+        "gloss": "To give means",
+        "definition": "jem r/], pir/]: vb. To find means;"
+      },
+      {
+        "label": "ouon",
+        "partOfSpeech": "vb",
+        "gloss": "There is, is not means",
+        "definition": "There is, is not means"
+      }
+    ]
+  },
+  {
+    "headword": "pair/]",
+    "copticWord": "ⲡⲁⲓⲣⲏϯ",
+    "englishTransliteration": "pairiti",
+    "gloss": "In this manner, thus",
+    "definition": "In this manner, thus"
+  },
+  {
+    "headword": "mvr/]",
+    "copticWord": "ⲙⲫⲣⲏϯ",
+    "englishTransliteration": "mfriti",
+    "gloss": "In form, manner, like as",
+    "definition": "In form, manner, like as"
+  },
+  {
+    "headword": "mpair/]",
+    "copticWord": "ⲙⲡⲁⲓⲣⲏϯ",
+    "englishTransliteration": "mpairiti",
+    "gloss": "(Adjectival) of this sort, like this, thus",
+    "definition": "(Adverbial) in this manner, thus;"
+  },
+  {
+    "headword": "rem",
+    "copticWord": "ⲣⲉⲙ",
+    "englishTransliteration": "rem",
+    "gloss": "Man of",
+    "definition": "Man of",
+    "crossReference": {
+      "target": "rwmi",
+      "gloss": "Man of"
+    }
+  },
+  {
+    "headword": "remheu",
+    "copticWord": "ⲣⲉⲙϩⲉⲩ",
+    "englishTransliteration": "remhev",
+    "variants": [
+      {
+        "word": "-h/ou",
+        "copticWord": "-ϩⲏⲟⲩ",
+        "englishTransliteration": "-hiou"
+      }
+    ],
+    "reference": "297a",
+    "partOfSpeech": "m",
+    "gloss": "Free person",
+    "definition": "Free person"
+  },
+  {
+    "headword": "metremhe",
+    "copticWord": "ⲙⲉⲧⲣⲉⲙϩⲉ",
+    "englishTransliteration": "metremhe",
+    "partOfSpeech": "f",
+    "gloss": "Freedom",
+    "definition": "Freedom"
+  },
+  {
+    "headword": "erremhe",
+    "copticWord": "ⲉⲣⲣⲉⲙϩⲉ",
+    "englishTransliteration": "erremhe",
+    "partOfSpeech": "vb",
+    "gloss": "To make free, become free",
+    "definition": "To make free, become free"
+  },
+  {
+    "headword": "remh/",
+    "copticWord": "ⲣⲉⲙϩⲏ",
+    "englishTransliteration": "remhi",
+    "gloss": "Free person (f)",
+    "definition": "Free person (f)",
+    "crossReference": {
+      "target": "remhe",
+      "gloss": "Free person (f)"
+    }
+  },
+  {
+    "headword": "remh/ou",
+    "copticWord": "ⲣⲉⲙϩⲏⲟⲩ",
+    "englishTransliteration": "remhiou",
+    "gloss": "Free persons",
+    "definition": "Free persons",
+    "crossReference": {
+      "target": "remhe",
+      "gloss": "Free persons"
+    }
+  },
+  {
+    "headword": "ren",
+    "copticWord": "ⲣⲉⲛ",
+    "englishTransliteration": "ren",
+    "gloss": "Name",
+    "definition": "Name",
+    "crossReference": {
+      "target": "ran",
+      "gloss": "Name"
+    }
+  },
+  {
+    "headword": "ri",
+    "copticWord": "ⲣⲓ",
+    "englishTransliteration": "ri",
+    "reference": "287b",
+    "partOfSpeech": "f",
+    "gloss": "Cell, room",
+    "definition": "Cell, room"
+  },
+  {
+    "headword": "rem=",
+    "copticWord": "ⲣⲉⲙ",
+    "englishTransliteration": "rem",
+    "gloss": "Name",
+    "definition": "Name",
+    "crossReference": {
+      "target": "ran",
+      "gloss": "Name"
+    }
+  },
+  {
+    "headword": "rib/",
+    "copticWord": "ⲣⲓⲃⲏ",
+    "englishTransliteration": "reebi",
+    "variants": [
+      {
+        "word": "ribi",
+        "copticWord": "ⲣⲓⲃⲓ",
+        "englishTransliteration": "reebi"
+      }
+    ],
+    "reference": "291b",
+    "partOfSpeech": "f",
+    "gloss": "Rope with belt (for hauling ship's cable)",
+    "definition": "Rope with belt (for hauling ship's cable)"
+  },
+  {
+    "headword": "ret",
+    "copticWord": "ⲣⲉⲧ",
+    "englishTransliteration": "ret",
+    "gloss": "To grow",
+    "definition": "To grow",
+    "crossReference": {
+      "target": "rwt",
+      "gloss": "To grow"
+    }
+  },
+  {
+    "headword": "res",
+    "copticWord": "ⲣⲉϣ",
+    "englishTransliteration": "resh",
+    "gloss": "To suffice",
+    "definition": "To suffice",
+    "crossReference": {
+      "target": "rwsi",
+      "gloss": "To suffice"
+    }
+  },
+  {
+    "headword": "ribi",
+    "copticWord": "ⲣⲓⲃⲓ",
+    "englishTransliteration": "reebi",
+    "gloss": "Rope",
+    "definition": "Rope",
+    "crossReference": {
+      "target": "rib/",
+      "gloss": "Rope"
+    }
+  },
+  {
+    "headword": "riki",
+    "copticWord": "ⲣⲓⲕⲓ",
+    "englishTransliteration": "riki",
+    "variants": [
+      {
+        "word": "rek",
+        "copticWord": "ⲣⲉⲕ",
+        "englishTransliteration": "rek"
+      },
+      {
+        "word": "rak",
+        "copticWord": "ⲣⲁⲕ",
+        "englishTransliteration": "rak"
+      },
+      {
+        "word": "rakt=",
+        "copticWord": "ⲣⲁⲕⲧ",
+        "englishTransliteration": "rakt"
+      },
+      {
+        "word": "rak=",
+        "copticWord": "ⲣⲁⲕ",
+        "englishTransliteration": "rak"
+      },
+      {
+        "word": "raki",
+        "note": "Q",
+        "copticWord": "ⲣⲁⲕⲓ",
+        "englishTransliteration": "raki"
+      }
+    ],
+    "reference": "291b",
+    "gloss": "I. vi. To bend, turn",
+    "definition": "--- e-: vi. To bend toward, incline;",
+    "senses": [
+      {
+        "label": "ejen",
+        "gloss": "vi. To bend toward, incline",
+        "definition": "vi. To bend toward, incline"
+      },
+      {
+        "label": "n",
+        "gloss": "(dat): vb. To bend to, toward",
+        "definition": "(dat): vb. To bend to, toward"
+      },
+      {
+        "label": "nca",
+        "gloss": "Same meaning",
+        "definition": "--- nahren-: Same meaning;"
+      },
+      {
+        "label": "ha",
+        "gloss": "Same meaning",
+        "definition": "Same meaning"
+      },
+      {
+        "label": "hijen",
+        "gloss": "vt. To bend upon",
+        "definition": "vt. To bend upon"
+      },
+      {
+        "label": "ebol",
+        "gloss": "vi. To turn from, away",
+        "definition": "vi. To turn from, away"
+      },
+      {
+        "label": "--- n",
+        "gloss": "vi. To turn from",
+        "definition": "--- --- ha-: Same meaning; --- --- hi-: Same meaning; --- epec/t: vi. To bend down;"
+      },
+      {
+        "label": "--- qen",
+        "gloss": "Same meaning",
+        "definition": "Same meaning"
+      },
+      {
+        "label": "cabol n",
+        "gloss": "Same meaning",
+        "definition": "Same meaning"
+      },
+      {
+        "label": "evahou",
+        "partOfSpeech": "vb",
+        "gloss": "To turn back",
+        "definition": "To turn back"
+      },
+      {
+        "label": "eqoun",
+        "partOfSpeech": "vb",
+        "gloss": "To turn in, toward",
+        "definition": "---: m. Turning, inclination;"
+      },
+      {
+        "label": "mbal",
+        "partOfSpeech": "m",
+        "gloss": "Blink, wink of eye",
+        "definition": "atriki: adj. Without turning, unwavering;"
+      },
+      {
+        "label": "csriki",
+        "partOfSpeech": "adj",
+        "gloss": "Unbending",
+        "definition": "Unbending"
+      },
+      {
+        "label": "refriki",
+        "partOfSpeech": "m",
+        "gloss": "Turner, bender",
+        "definition": "Turner, bender"
+      },
+      {
+        "label": "jinriki",
+        "partOfSpeech": "m",
+        "gloss": "Inclination, perversion",
+        "definition": "Inclination, perversion"
+      }
+    ]
+  },
+  {
+    "headword": "r/",
+    "copticWord": "ⲣⲏ",
+    "englishTransliteration": "ri",
+    "reference": "287b",
+    "partOfSpeech": "m",
+    "gloss": "Sun",
+    "definition": "Sun"
+  },
+  {
+    "headword": "piouwini mvr/",
+    "copticWord": "ⲡⲓⲟⲩⲱⲓⲛⲓ ⲙⲫⲣⲏ",
+    "englishTransliteration": "piouōini mfri",
+    "gloss": "The sun's light",
+    "definition": "The sun's light"
+  },
+  {
+    "headword": "r/i",
+    "copticWord": "ⲣⲏⲓ",
+    "englishTransliteration": "rii",
+    "reference": "287b",
+    "partOfSpeech": "m",
+    "gloss": "A fish \"Alestes Dentex\"",
+    "definition": "A fish \"Alestes Dentex\""
+  },
+  {
+    "headword": "r/icen",
+    "copticWord": "ⲣⲏⲓⲥⲉⲛ",
+    "englishTransliteration": "riisen",
+    "gloss": "Dust",
+    "definition": "Dust",
+    "crossReference": {
+      "target": "r/ici",
+      "gloss": "Dust"
+    }
+  },
+  {
+    "headword": "r/ici",
+    "copticWord": "ⲣⲏⲓⲥⲓ",
+    "englishTransliteration": "riisi",
+    "variants": [
+      {
+        "word": "-cen",
+        "copticWord": "-ⲥⲉⲛ",
+        "englishTransliteration": "-sen"
+      }
+    ],
+    "reference": "301b",
+    "partOfSpeech": "m",
+    "gloss": "Dust",
+    "definition": "Dust"
+  },
+  {
+    "headword": "r/c",
+    "copticWord": "ⲣⲏⲥ",
+    "englishTransliteration": "ris",
+    "reference": "299b",
+    "partOfSpeech": "m",
+    "gloss": "South",
+    "definition": "South",
+    "senses": [
+      {
+        "label": "remr/c",
+        "partOfSpeech": "n",
+        "gloss": "Man of south, Upper Egyptian",
+        "definition": "mar/c: m. Southern Country, Upper Egypt."
+      }
+    ]
+  },
+  {
+    "headword": "r/t",
+    "copticWord": "ⲣⲏⲧ",
+    "englishTransliteration": "rit",
+    "gloss": "v. er/t - To vow",
+    "definition": "v. er/t - To vow"
+  },
+  {
+    "headword": "r/twr",
+    "copticWord": "ⲣⲏⲧⲱⲣ",
+    "englishTransliteration": "ritōr",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Public speaker, teacher of eloquence, rhetorician",
+    "definition": "Public speaker, teacher of eloquence, rhetorician"
+  },
+  {
+    "headword": "rimi",
+    "copticWord": "ⲣⲓⲙⲓ",
+    "englishTransliteration": "rimi",
+    "reference": "294a",
+    "gloss": "vi. To weep",
+    "definition": "vi. To weep"
+  }
+]

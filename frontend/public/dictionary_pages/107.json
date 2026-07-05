@@ -1,0 +1,418 @@
+[
+  {
+    "headword": "t",
+    "copticWord": "ⲧ",
+    "englishTransliteration": "t",
+    "reference": "389a",
+    "gloss": "19th letter of the Coptic Alphabet",
+    "definition": "19th letter of the Coptic Alphabet",
+    "senses": [
+      {
+        "label": "t",
+        "gloss": "The numeral 300",
+        "definition": "The numeral 300"
+      }
+    ]
+  },
+  {
+    "headword": "takto",
+    "copticWord": "ⲧⲁⲕⲧⲟ",
+    "englishTransliteration": "takto",
+    "variants": [
+      {
+        "word": "takte",
+        "copticWord": "ⲧⲁⲕⲧⲉ",
+        "englishTransliteration": "takte"
+      },
+      {
+        "word": "takto=",
+        "copticWord": "ⲧⲁⲕⲧⲟ",
+        "englishTransliteration": "takto"
+      },
+      {
+        "word": "takt/out",
+        "note": "Q",
+        "copticWord": "ⲧⲁⲕⲧⲏⲟⲩⲧ",
+        "englishTransliteration": "taktiout"
+      }
+    ],
+    "reference": "407b",
+    "gloss": "vt. To put, go around",
+    "definition": "vt. To put, go around"
+  },
+  {
+    "headword": "ta",
+    "copticWord": "ⲧⲁ",
+    "englishTransliteration": "ta",
+    "gloss": "- The ... belonging to",
+    "definition": "- The ... belonging to",
+    "crossReference": {
+      "target": "pa",
+      "gloss": "- The ... belonging to"
+    }
+  },
+  {
+    "headword": "tabir",
+    "copticWord": "ⲧⲁⲃⲓⲣ",
+    "englishTransliteration": "tavir",
+    "reference": "400b",
+    "partOfSpeech": "m",
+    "gloss": "Sanctuary",
+    "definition": "Sanctuary"
+  },
+  {
+    "headword": "tabteb",
+    "copticWord": "ⲧⲁⲃⲧⲉⲃ",
+    "englishTransliteration": "tavtev",
+    "reference": "401b",
+    "gloss": "vi. To form, compound, invest",
+    "definition": "vi. To form, compound, invest"
+  },
+  {
+    "headword": "tavm/i",
+    "copticWord": "ⲧⲁⲫⲙⲏⲓ",
+    "englishTransliteration": "tafmii",
+    "gloss": "Truth",
+    "definition": "Truth",
+    "crossReference": {
+      "target": "m/i",
+      "gloss": "Truth"
+    }
+  },
+  {
+    "headword": "tai",
+    "copticWord": "ⲧⲁⲓ",
+    "englishTransliteration": "tai",
+    "reference": "390a",
+    "partOfSpeech": "adv",
+    "gloss": "Here",
+    "definition": "Here"
+  },
+  {
+    "headword": "taie",
+    "copticWord": "ⲧⲁⲓⲉ",
+    "englishTransliteration": "taie",
+    "gloss": "To honor",
+    "definition": "To honor",
+    "crossReference": {
+      "target": "taio",
+      "gloss": "To honor"
+    }
+  },
+  {
+    "headword": "taio",
+    "copticWord": "ⲧⲁⲓⲟ",
+    "englishTransliteration": "taio",
+    "variants": [
+      {
+        "word": "taie",
+        "copticWord": "ⲧⲁⲓⲉ",
+        "englishTransliteration": "taie"
+      },
+      {
+        "word": "taio=",
+        "copticWord": "ⲧⲁⲓⲟ",
+        "englishTransliteration": "taio"
+      },
+      {
+        "word": "tai/out",
+        "note": "Q",
+        "copticWord": "ⲧⲁⲓⲏⲟⲩⲧ",
+        "englishTransliteration": "taiiout"
+      }
+    ],
+    "reference": "390b",
+    "gloss": "vt. To honor, pay respect to, adorn",
+    "definition": "(Q) honored, excellent, precious; --- nten: vb. To be honered by, with;",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "Honor",
+        "definition": "complimentary gift; maitaio: adj. honor-loving; ]taio: vb. To give honor, gift;"
+      },
+      {
+        "label": "[itaio",
+        "partOfSpeech": "vb",
+        "gloss": "To receive honor, gift",
+        "definition": "To receive honor, gift"
+      }
+    ]
+  },
+  {
+    "headword": "talo=",
+    "copticWord": "ⲧⲁⲗⲟ",
+    "englishTransliteration": "talo",
+    "gloss": "To lift",
+    "definition": "To lift",
+    "crossReference": {
+      "target": "talo",
+      "gloss": "To lift"
+    }
+  },
+  {
+    "headword": "tal[e",
+    "copticWord": "ⲧⲁⲗϭⲉ",
+    "englishTransliteration": "talche",
+    "gloss": "To heal",
+    "definition": "To heal",
+    "crossReference": {
+      "target": "tal[o",
+      "gloss": "To heal"
+    }
+  },
+  {
+    "headword": "tal[o",
+    "copticWord": "ⲧⲁⲗϭⲟ",
+    "englishTransliteration": "talcho",
+    "variants": [
+      {
+        "word": "tal[e",
+        "copticWord": "ⲧⲁⲗϭⲉ",
+        "englishTransliteration": "talche"
+      },
+      {
+        "word": "tal[o=",
+        "copticWord": "ⲧⲁⲗϭⲟ",
+        "englishTransliteration": "talcho"
+      }
+    ],
+    "reference": "411b",
+    "gloss": "vt. To make to cease, heal",
+    "definition": "vt. To make to cease, heal"
+  },
+  {
+    "headword": "taio=",
+    "copticWord": "ⲧⲁⲓⲟ",
+    "englishTransliteration": "taio",
+    "gloss": "To honor",
+    "definition": "To honor",
+    "crossReference": {
+      "target": "taio",
+      "gloss": "To honor"
+    }
+  },
+  {
+    "headword": "qen",
+    "copticWord": "ϧⲉⲛ",
+    "englishTransliteration": "khen",
+    "gloss": "vt. To heal from, of",
+    "definition": "vt. To heal from, of"
+  },
+  {
+    "headword": "take",
+    "copticWord": "ⲧⲁⲕⲉ",
+    "englishTransliteration": "take",
+    "gloss": "To destroy",
+    "definition": "To destroy",
+    "crossReference": {
+      "target": "tako",
+      "gloss": "To destroy"
+    }
+  },
+  {
+    "headword": "tak/out (Q) v. tako - To be destroyed. tako",
+    "copticWord": "ⲧⲁⲕⲏⲟⲩⲧ (Ϧ) ⲫ. ⲧⲁⲕⲟ - Ⲧⲟ ⲃⲉ ⲇⲉϣⲧⲣⲟⲑⲉⲇ. ⲧⲁⲕⲟ",
+    "englishTransliteration": "takiout (Kh) f. tako - To ve deshtrothed. tako",
+    "variants": [
+      {
+        "word": "take",
+        "copticWord": "ⲧⲁⲕⲉ",
+        "englishTransliteration": "take"
+      },
+      {
+        "word": "tako=",
+        "copticWord": "ⲧⲁⲕⲟ",
+        "englishTransliteration": "tako"
+      },
+      {
+        "word": "tak/out",
+        "copticWord": "ⲧⲁⲕⲏⲟⲩⲧ",
+        "englishTransliteration": "takiout"
+      }
+    ],
+    "reference": "405a",
+    "senses": [
+      {
+        "gloss": "vt. To destroy, lose",
+        "definition": "vt. To destroy, lose"
+      },
+      {
+        "label": "vi",
+        "gloss": "e-: vt. To lose against",
+        "definition": "To perish, be lost, destroy, corrupt;"
+      },
+      {
+        "label": "ehr/i ejen",
+        "gloss": "vi. To perish upon, for",
+        "definition": "vi. To perish upon, for"
+      },
+      {
+        "label": "nten",
+        "gloss": "vi. To perish away from",
+        "definition": "---: m. Perdition;"
+      },
+      {
+        "label": "attako",
+        "partOfSpeech": "adj",
+        "gloss": "imperishable",
+        "definition": "imperishable"
+      },
+      {
+        "label": "metattako",
+        "partOfSpeech": "f",
+        "gloss": "Incorruption",
+        "definition": "reftako: m. Destroyer; adj. perishable; jintako: m. Destruction."
+      }
+    ]
+  },
+  {
+    "headword": "ebol ha",
+    "copticWord": "ⲉⲃⲟⲗ ϩⲁ",
+    "englishTransliteration": "evol ha",
+    "gloss": "vt. To desist from",
+    "definition": "--- ebol hijen-: vt. To make cease of, from;"
+  },
+  {
+    "headword": "attal[o",
+    "copticWord": "ⲁⲧⲧⲁⲗϭⲟ",
+    "englishTransliteration": "attalcho",
+    "partOfSpeech": "adj",
+    "gloss": "Not to be healed, unhealed",
+    "definition": "Not to be healed, unhealed"
+  },
+  {
+    "headword": "reftal[o",
+    "copticWord": "ⲣⲉϥⲧⲁⲗϭⲟ",
+    "englishTransliteration": "reftalcho",
+    "partOfSpeech": "m",
+    "gloss": "Healer",
+    "definition": "Healer"
+  },
+  {
+    "headword": "jintal[o",
+    "copticWord": "ϫⲓⲛⲧⲁⲗϭⲟ",
+    "englishTransliteration": "jintalcho",
+    "partOfSpeech": "m",
+    "gloss": "Healing",
+    "definition": "Healing"
+  },
+  {
+    "headword": "tal[o=",
+    "copticWord": "ⲧⲁⲗϭⲟ",
+    "englishTransliteration": "talcho",
+    "gloss": "To heal",
+    "definition": "To heal",
+    "crossReference": {
+      "target": "tal[o",
+      "gloss": "To heal"
+    }
+  },
+  {
+    "headword": "tame",
+    "copticWord": "ⲧⲁⲙⲉ",
+    "englishTransliteration": "tame",
+    "gloss": "To tell",
+    "definition": "To tell",
+    "crossReference": {
+      "target": "tamo",
+      "gloss": "To tell"
+    }
+  },
+  {
+    "headword": "tamo",
+    "copticWord": "ⲧⲁⲙⲟ",
+    "englishTransliteration": "tamo",
+    "variants": [
+      {
+        "word": "tame",
+        "copticWord": "ⲧⲁⲙⲉ",
+        "englishTransliteration": "tame"
+      },
+      {
+        "word": "tamo=",
+        "copticWord": "ⲧⲁⲙⲟ",
+        "englishTransliteration": "tamo"
+      }
+    ],
+    "reference": "413b",
+    "gloss": "vt. To tell, inform",
+    "definition": "vt. To tell, inform"
+  },
+  {
+    "headword": "e",
+    "copticWord": "ⲉ",
+    "englishTransliteration": "e",
+    "gloss": "vt. To tell + D.O",
+    "definition": "vt. To tell + D.O"
+  },
+  {
+    "headword": "tako=",
+    "copticWord": "ⲧⲁⲕⲟ",
+    "englishTransliteration": "tako",
+    "gloss": "To destroy",
+    "definition": "To destroy",
+    "crossReference": {
+      "target": "tako",
+      "gloss": "To destroy"
+    }
+  },
+  {
+    "headword": "eybe",
+    "copticWord": "ⲉⲑⲃⲉ",
+    "englishTransliteration": "ethve",
+    "gloss": "vt. To tell about, of",
+    "definition": "---: n. Thing told;"
+  },
+  {
+    "headword": "takte",
+    "copticWord": "ⲧⲁⲕⲧⲉ",
+    "englishTransliteration": "takte",
+    "gloss": "To go around",
+    "definition": "To go around",
+    "crossReference": {
+      "target": "takto",
+      "gloss": "To go around"
+    }
+  },
+  {
+    "headword": "reftamo",
+    "copticWord": "ⲣⲉϥⲧⲁⲙⲟ",
+    "englishTransliteration": "reftamo",
+    "partOfSpeech": "m",
+    "gloss": "Teller, informer",
+    "definition": "Teller, informer"
+  },
+  {
+    "headword": "tamo=",
+    "copticWord": "ⲧⲁⲙⲟ",
+    "englishTransliteration": "tamo",
+    "gloss": "To tell",
+    "definition": "To tell",
+    "crossReference": {
+      "target": "tamo",
+      "gloss": "To tell"
+    }
+  },
+  {
+    "headword": "tanse",
+    "copticWord": "ⲧⲁⲛϣⲉ",
+    "englishTransliteration": "tanshe",
+    "gloss": "To increase",
+    "definition": "To increase",
+    "crossReference": {
+      "target": "taso",
+      "gloss": "To increase"
+    }
+  },
+  {
+    "headword": "tanso",
+    "copticWord": "ⲧⲁⲛϣⲟ",
+    "englishTransliteration": "tansho",
+    "gloss": "To increase",
+    "definition": "To increase",
+    "crossReference": {
+      "target": "taso",
+      "gloss": "To increase"
+    }
+  }
+]

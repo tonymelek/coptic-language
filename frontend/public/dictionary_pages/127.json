@@ -1,0 +1,639 @@
+[
+  {
+    "headword": "kbwou",
+    "copticWord": "ⲕⲃⲱⲟⲩ",
+    "englishTransliteration": "kvōou",
+    "partOfSpeech": "n",
+    "gloss": "coolness",
+    "definition": "coolness"
+  },
+  {
+    "headword": "tkbo",
+    "copticWord": "ⲧⲕⲃⲟ",
+    "englishTransliteration": "tkvo",
+    "gloss": "vt. To make cool",
+    "definition": "vt. To make cool"
+  },
+  {
+    "headword": ",a",
+    "copticWord": "ⲭⲁ",
+    "englishTransliteration": "kha",
+    "gloss": "To put",
+    "definition": "To put",
+    "crossReference": {
+      "target": ",w",
+      "gloss": "To put"
+    }
+  },
+  {
+    "headword": ",e",
+    "copticWord": "ⲭⲉ",
+    "englishTransliteration": "khe",
+    "gloss": "Particle of apposition",
+    "definition": "Particle of apposition",
+    "crossReference": {
+      "target": "(1)qa",
+      "gloss": "Particle of apposition"
+    }
+  },
+  {
+    "headword": ",a=",
+    "copticWord": "ⲭⲁ",
+    "englishTransliteration": "kha",
+    "gloss": "To put",
+    "definition": "To put",
+    "crossReference": {
+      "target": ",w",
+      "gloss": "To put"
+    }
+  },
+  {
+    "headword": "elmi",
+    "copticWord": "ⲉⲗⲙⲓ",
+    "englishTransliteration": "elmi",
+    "reference": "516b",
+    "partOfSpeech": "f",
+    "gloss": "Unknown",
+    "definition": "Unknown"
+  },
+  {
+    "headword": ",ay/ou",
+    "copticWord": "ⲭⲁⲑⲏⲟⲩ",
+    "englishTransliteration": "khathiou",
+    "gloss": "Window",
+    "definition": "Window",
+    "crossReference": {
+      "target": "y/ou",
+      "gloss": "Window"
+    }
+  },
+  {
+    "headword": "el",
+    "copticWord": "ⲉⲗ",
+    "englishTransliteration": "el",
+    "variants": [
+      {
+        "word": "a",
+        "copticWord": "ⲁ",
+        "englishTransliteration": "a"
+      },
+      {
+        "word": "wf",
+        "copticWord": "ⲱϥ",
+        "englishTransliteration": "ōf"
+      }
+    ],
+    "reference": "516b",
+    "gloss": "pl. abscess, tumor",
+    "definition": "pl. abscess, tumor"
+  },
+  {
+    "headword": "ak",
+    "copticWord": "ⲁⲕ",
+    "englishTransliteration": "ak",
+    "reference": "100b",
+    "gloss": "pl. Part of a bird",
+    "definition": "pl. Part of a bird"
+  },
+  {
+    "headword": ",emi",
+    "copticWord": "ⲭⲉⲙⲓ",
+    "englishTransliteration": "khemi",
+    "gloss": "Black",
+    "definition": "Black",
+    "crossReference": {
+      "target": ",mom",
+      "gloss": "Black"
+    }
+  },
+  {
+    "headword": ",emc",
+    "copticWord": "ⲭⲉⲙⲥ",
+    "englishTransliteration": "khems",
+    "gloss": "Darkness",
+    "definition": "Darkness",
+    "crossReference": {
+      "target": ",remrwm",
+      "gloss": "Darkness"
+    }
+  },
+  {
+    "headword": ",akyi",
+    "copticWord": "ⲭⲁⲕⲑⲓ",
+    "englishTransliteration": "khakthi",
+    "gloss": "Louse",
+    "definition": "Louse",
+    "crossReference": {
+      "target": "kakyi",
+      "gloss": "Louse"
+    }
+  },
+  {
+    "headword": ",emtc",
+    "copticWord": "ⲭⲉⲙⲧⲥ",
+    "englishTransliteration": "khemts",
+    "gloss": "Darkness",
+    "definition": "Darkness",
+    "crossReference": {
+      "target": ",remrwm",
+      "gloss": "Darkness"
+    }
+  },
+  {
+    "headword": "aki",
+    "copticWord": "ⲁⲕⲓ",
+    "englishTransliteration": "aki",
+    "reference": "101b",
+    "gloss": "m Darkness",
+    "definition": "m Darkness"
+  },
+  {
+    "headword": ",ep",
+    "copticWord": "ⲭⲉⲡ",
+    "englishTransliteration": "khep",
+    "gloss": "To hide",
+    "definition": "To hide",
+    "crossReference": {
+      "target": ",wp",
+      "gloss": "To hide"
+    }
+  },
+  {
+    "headword": ",er",
+    "copticWord": "ⲭⲉⲣ",
+    "englishTransliteration": "kher",
+    "gloss": "To destroy",
+    "definition": "To destroy",
+    "crossReference": {
+      "target": ",wr",
+      "gloss": "To destroy"
+    }
+  },
+  {
+    "headword": "er",
+    "copticWord": "ⲉⲣ",
+    "englishTransliteration": "er",
+    "variants": [
+      {
+        "word": "aki",
+        "copticWord": "ⲁⲕⲓ",
+        "englishTransliteration": "aki"
+      }
+    ],
+    "gloss": "vb To be, become dark. ,akkamau, kakkamau: (516b)",
+    "definition": "vb To be, become dark. ,akkamau, kakkamau: (516b)",
+    "senses": [
+      {
+        "gloss": "Small night owl",
+        "definition": "Small night owl"
+      }
+    ]
+  },
+  {
+    "headword": "f",
+    "copticWord": "ϥ",
+    "englishTransliteration": "f",
+    "variants": [
+      {
+        "word": "al/nouc",
+        "copticWord": "ⲁⲗⲏⲛⲟⲩⲥ",
+        "englishTransliteration": "alinous"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Bridle, harness",
+    "definition": "Bridle, harness"
+  },
+  {
+    "headword": "era",
+    "copticWord": "ⲉⲣⲁ",
+    "englishTransliteration": "era",
+    "reference": "516b",
+    "partOfSpeech": "f",
+    "gloss": "Share plough",
+    "definition": "Share plough"
+  },
+  {
+    "headword": "ere",
+    "copticWord": "ⲉⲣⲉ",
+    "englishTransliteration": "ere",
+    "variants": [
+      {
+        "word": "pl",
+        "copticWord": "ⲡⲗ",
+        "englishTransliteration": "pl"
+      },
+      {
+        "word": "erete",
+        "copticWord": "ⲉⲣⲉⲧⲉ",
+        "englishTransliteration": "erete"
+      }
+    ],
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "greeting",
+    "definition": "greeting"
+  },
+  {
+    "headword": ",ereb",
+    "copticWord": "ⲭⲉⲣⲉⲃ",
+    "englishTransliteration": "kherev",
+    "gloss": "Form",
+    "definition": "Form",
+    "crossReference": {
+      "target": "qereb",
+      "gloss": "Form"
+    }
+  },
+  {
+    "headword": ",ame",
+    "copticWord": "ⲭⲁⲙⲉ",
+    "englishTransliteration": "khame",
+    "gloss": "Black",
+    "definition": "Black",
+    "crossReference": {
+      "target": ",mom",
+      "gloss": "Black"
+    }
+  },
+  {
+    "headword": ",erc",
+    "copticWord": "ⲭⲉⲣⲥ",
+    "englishTransliteration": "khers",
+    "gloss": "A type of fish",
+    "definition": "A type of fish",
+    "crossReference": {
+      "target": "kerc",
+      "gloss": "A type of fish"
+    }
+  },
+  {
+    "headword": ",ameu",
+    "copticWord": "ⲭⲁⲙⲉⲩ",
+    "englishTransliteration": "khamev",
+    "gloss": "Black",
+    "definition": "Black",
+    "crossReference": {
+      "target": ",mom",
+      "gloss": "Black"
+    }
+  },
+  {
+    "headword": "eretizin",
+    "copticWord": "ⲉⲣⲉⲧⲓⲍⲓⲛ",
+    "englishTransliteration": "eretizin",
+    "variants": [
+      {
+        "word": "er",
+        "copticWord": "ⲉⲣ",
+        "englishTransliteration": "er"
+      },
+      {
+        "word": "eretizin",
+        "copticWord": "ⲉⲣⲉⲧⲓⲍⲓⲛ",
+        "englishTransliteration": "eretizin"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "gloss": "To greet",
+    "definition": "To greet"
+  },
+  {
+    "headword": ",am/",
+    "copticWord": "ⲭⲁⲙⲏ",
+    "englishTransliteration": "khami",
+    "gloss": "Black",
+    "definition": "Black",
+    "crossReference": {
+      "target": ",mom",
+      "gloss": "Black"
+    }
+  },
+  {
+    "headword": "ancrwf",
+    "copticWord": "ⲁⲛⲥⲣⲱϥ",
+    "englishTransliteration": "ansrōf",
+    "reference": "516b",
+    "partOfSpeech": "n",
+    "gloss": "Name of a field pest",
+    "definition": "Name of a field pest"
+  },
+  {
+    "headword": ",erouw",
+    "copticWord": "ⲭⲉⲣⲟⲩⲱ",
+    "englishTransliteration": "kherouō",
+    "gloss": "Thunder",
+    "definition": "Thunder",
+    "crossReference": {
+      "target": "qrwou",
+      "gloss": "Thunder"
+    }
+  },
+  {
+    "headword": "et",
+    "copticWord": "ⲉⲧ",
+    "englishTransliteration": "et",
+    "variants": [
+      {
+        "word": "f",
+        "copticWord": "ϥ",
+        "englishTransliteration": "f"
+      },
+      {
+        "word": "e]",
+        "copticWord": "ⲉϯ",
+        "englishTransliteration": "eti"
+      }
+    ],
+    "reference": "92a",
+    "gloss": "m another",
+    "definition": "m another"
+  },
+  {
+    "headword": "apso",
+    "copticWord": "ⲁⲡϣⲟ",
+    "englishTransliteration": "apsho",
+    "reference": "114b",
+    "partOfSpeech": "m",
+    "gloss": "Immature thorns on palm leaves",
+    "definition": "Immature thorns on palm leaves"
+  },
+  {
+    "headword": ",ara",
+    "copticWord": "ⲭⲁⲣⲁ",
+    "englishTransliteration": "khara",
+    "gloss": "Sound",
+    "definition": "Sound",
+    "crossReference": {
+      "target": "qrwou",
+      "gloss": "Sound"
+    }
+  },
+  {
+    "headword": ",arabai",
+    "copticWord": "ⲭⲁⲣⲁⲃⲁⲓ",
+    "englishTransliteration": "kharavai",
+    "gloss": "Thunder",
+    "definition": "Thunder",
+    "crossReference": {
+      "target": "qrwou",
+      "gloss": "Thunder"
+    }
+  },
+  {
+    "headword": "areb",
+    "copticWord": "ⲁⲣⲉⲃ",
+    "englishTransliteration": "arev",
+    "reference": "516b",
+    "partOfSpeech": "vb",
+    "gloss": "qual or adj. Lowly, abased",
+    "definition": "qual or adj. Lowly, abased"
+  },
+  {
+    "headword": ",e]",
+    "copticWord": "ⲭⲉϯ",
+    "englishTransliteration": "kheti",
+    "gloss": "Another (f)",
+    "definition": "Another (f)",
+    "crossReference": {
+      "target": ",et",
+      "gloss": "Another (f)"
+    }
+  },
+  {
+    "headword": "arizecye",
+    "copticWord": "ⲁⲣⲓⲍⲉⲥⲑⲉ",
+    "englishTransliteration": "arizesthe",
+    "variants": [
+      {
+        "word": "er",
+        "copticWord": "ⲉⲣ",
+        "englishTransliteration": "er"
+      },
+      {
+        "word": "arizecye",
+        "copticWord": "ⲁⲣⲓⲍⲉⲥⲑⲉ",
+        "englishTransliteration": "arizesthe"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "gloss": "To give gift, grant, give, remit",
+    "definition": "To give gift, grant, give, remit"
+  },
+  {
+    "headword": "arouki",
+    "copticWord": "ⲁⲣⲟⲩⲕⲓ",
+    "englishTransliteration": "arouki",
+    "reference": "517a",
+    "partOfSpeech": "m",
+    "gloss": "Lizard",
+    "definition": "Lizard"
+  },
+  {
+    "headword": ",/mi",
+    "copticWord": "ⲭⲏⲙⲓ",
+    "englishTransliteration": "khimi",
+    "gloss": "Egypt",
+    "definition": "Egypt",
+    "crossReference": {
+      "target": ",mom",
+      "gloss": "Egypt"
+    }
+  },
+  {
+    "headword": "arwji",
+    "copticWord": "ⲁⲣⲱϫⲓ",
+    "englishTransliteration": "arōji",
+    "reference": "517a",
+    "partOfSpeech": "f",
+    "gloss": "Mallet",
+    "definition": "Mallet"
+  },
+  {
+    "headword": ",ac",
+    "copticWord": "ⲭⲁⲥ",
+    "englishTransliteration": "khas",
+    "gloss": "In order that",
+    "definition": "In order that",
+    "crossReference": {
+      "target": "je,ac",
+      "gloss": "In order that"
+    }
+  },
+  {
+    "headword": "ackec",
+    "copticWord": "ⲁⲥⲕⲉⲥ",
+    "englishTransliteration": "askes",
+    "reference": "121a",
+    "gloss": "vi. To whisper",
+    "definition": "vi. To whisper",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "Whispering",
+        "definition": "Whispering"
+      },
+      {
+        "label": "ref",
+        "partOfSpeech": "m",
+        "gloss": "Whisperer",
+        "definition": "Whisperer"
+      }
+    ]
+  },
+  {
+    "headword": "/pi",
+    "copticWord": "ⲏⲡⲓ",
+    "englishTransliteration": "ipi",
+    "reference": "114a",
+    "partOfSpeech": "f",
+    "gloss": "Vaulted place, cellar, canopy",
+    "definition": "Vaulted place, cellar, canopy"
+  },
+  {
+    "headword": "/ra",
+    "copticWord": "ⲏⲣⲁ",
+    "englishTransliteration": "ira",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Widow",
+    "definition": "Widow"
+  },
+  {
+    "headword": ",/t",
+    "copticWord": "ⲭⲏⲧ",
+    "englishTransliteration": "khit",
+    "gloss": "North",
+    "definition": "North",
+    "crossReference": {
+      "target": "q/t",
+      "gloss": "North"
+    }
+  },
+  {
+    "headword": "at/r",
+    "copticWord": "ⲁⲧⲏⲣ",
+    "englishTransliteration": "atir",
+    "reference": "517b"
+  },
+  {
+    "headword": "m. Compass for measuring",
+    "copticWord": "ⲙ. Ⲥⲟⲙⲡⲁϣϣ ϥⲟⲣ ⲙⲉⲁϣⲩⲣⲓⲛⲅ",
+    "englishTransliteration": "m. Sompashsh for meashyring",
+    "variants": [
+      {
+        "word": "ba",
+        "copticWord": "ⲃⲁ",
+        "englishTransliteration": "va"
+      }
+    ],
+    "reference": "99b",
+    "partOfSpeech": "n",
+    "gloss": "Compulsion, forced labor",
+    "definition": "Compulsion, forced labor"
+  },
+  {
+    "headword": "ift",
+    "copticWord": "ⲓϥⲧ",
+    "englishTransliteration": "ift",
+    "reference": "517b",
+    "partOfSpeech": "m",
+    "gloss": "Plant Pulicaria",
+    "definition": "Plant Pulicaria"
+  },
+  {
+    "headword": "lal",
+    "copticWord": "ⲗⲁⲗ",
+    "englishTransliteration": "lal",
+    "reference": "103a",
+    "partOfSpeech": "m",
+    "gloss": "Chain esp. on the neck",
+    "definition": "necklace."
+  },
+  {
+    "headword": "bob",
+    "copticWord": "ⲃⲟⲃ",
+    "englishTransliteration": "vov",
+    "variants": [
+      {
+        "word": "(Q) k/b",
+        "copticWord": "(Ϧ) ⲕⲏⲃ",
+        "englishTransliteration": "(Kh) keeb"
+      },
+      {
+        "word": "(Q) k/p",
+        "copticWord": "(Ϧ) ⲕⲏⲡ",
+        "englishTransliteration": "(Kh) kip"
+      }
+    ],
+    "reference": "100a",
+    "gloss": "vi To be, become cool",
+    "definition": "qual. cool; vt. to make cool;",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "coolness",
+        "definition": "coolness"
+      },
+      {
+        "label": "]",
+        "partOfSpeech": "vb",
+        "gloss": "To make cool",
+        "definition": "To make cool"
+      },
+      {
+        "label": "[i",
+        "partOfSpeech": "vb",
+        "gloss": "To get cooling, refreshment",
+        "definition": "To get cooling, refreshment"
+      }
+    ]
+  },
+  {
+    "headword": ",laft",
+    "copticWord": "ⲭⲗⲁϥⲧ",
+    "englishTransliteration": "khlaft",
+    "gloss": "Hood",
+    "definition": "Hood",
+    "crossReference": {
+      "target": "klaft",
+      "gloss": "Hood"
+    }
+  },
+  {
+    "headword": "l/",
+    "copticWord": "ⲗⲏ",
+    "englishTransliteration": "li",
+    "reference": "102a",
+    "partOfSpeech": "m",
+    "gloss": "A vessel for liquid",
+    "definition": "A vessel for liquid"
+  },
+  {
+    "headword": "lo",
+    "copticWord": "ⲗⲟ",
+    "englishTransliteration": "lo",
+    "reference": "102b",
+    "partOfSpeech": "m",
+    "gloss": "Vegetable",
+    "definition": "poison used for arrows."
+  },
+  {
+    "headword": ",lol",
+    "copticWord": "ⲭⲗⲟⲗ",
+    "englishTransliteration": "khlol",
+    "gloss": "Curling hair",
+    "definition": "Curling hair",
+    "crossReference": {
+      "target": "kelwl",
+      "gloss": "Curling hair"
+    }
+  }
+]

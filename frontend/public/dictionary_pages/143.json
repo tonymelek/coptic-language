@@ -1,0 +1,493 @@
+[
+  {
+    "headword": "so]",
+    "copticWord": "ϣⲟϯ",
+    "englishTransliteration": "shoti",
+    "gloss": "Pillows",
+    "definition": "Pillows",
+    "crossReference": {
+      "target": "sswt",
+      "gloss": "Pillows"
+    }
+  },
+  {
+    "headword": "sp",
+    "copticWord": "ϣⲡ",
+    "englishTransliteration": "shp",
+    "gloss": "To receive",
+    "definition": "To receive",
+    "crossReference": {
+      "target": "(2)swp",
+      "gloss": "To receive"
+    }
+  },
+  {
+    "headword": "sop=",
+    "copticWord": "ϣⲟⲡ",
+    "englishTransliteration": "shop",
+    "gloss": "To receive",
+    "definition": "To receive",
+    "crossReference": {
+      "target": "(2)swp",
+      "gloss": "To receive"
+    }
+  },
+  {
+    "headword": "sop",
+    "copticWord": "ϣⲟⲡ",
+    "englishTransliteration": "shop",
+    "gloss": "Cucumber",
+    "definition": "Cucumber",
+    "crossReference": {
+      "target": "(2)swpi",
+      "gloss": "Cucumber"
+    }
+  },
+  {
+    "headword": "spe",
+    "copticWord": "ϣⲡⲉ",
+    "englishTransliteration": "shpe",
+    "gloss": "Instant",
+    "definition": "Instant",
+    "crossReference": {
+      "target": "(3)swp",
+      "gloss": "Instant"
+    }
+  },
+  {
+    "headword": "sro",
+    "copticWord": "ϣⲣⲟ",
+    "englishTransliteration": "shro",
+    "gloss": "Menstruation srw, sro: (586a)",
+    "definition": "f. Menstruation;",
+    "crossReference": {
+      "target": "srw",
+      "gloss": "Menstruation srw, sro: (586a)"
+    }
+  },
+  {
+    "headword": "sopc",
+    "copticWord": "ϣⲟⲡⲥ",
+    "englishTransliteration": "shops",
+    "gloss": "Reception. sopt= v. swbt - To change. sopseb v. sobseb - To sharpen. sopsep v. sobseb - To sharpen. sor= v. swr - To pile up",
+    "definition": "Reception. sopt= v. swbt - To change. sopseb v. sobseb - To sharpen. sopsep v. sobseb - To sharpen. sor= v. swr - To pile up",
+    "crossReference": {
+      "target": "(2)swp",
+      "gloss": "Reception. sopt= v. swbt - To change. sopseb v. sobseb - To sharpen. sopsep v. sobseb - To sharpen. sor= v. swr - To pile up"
+    }
+  },
+  {
+    "headword": "er",
+    "copticWord": "ⲉⲣ",
+    "englishTransliteration": "er",
+    "variants": [
+      {
+        "word": "oi nsrw",
+        "copticWord": "ⲟⲓ ⲛϣⲣⲱ",
+        "englishTransliteration": "oi nshrō"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To be menstruous. srwic v. rwic - Guard",
+    "definition": "To be menstruous. srwic v. rwic - Guard"
+  },
+  {
+    "headword": "sorp",
+    "copticWord": "ϣⲟⲣⲡ",
+    "englishTransliteration": "shorp",
+    "gloss": "First",
+    "definition": "First",
+    "crossReference": {
+      "target": "swrp",
+      "gloss": "First"
+    }
+  },
+  {
+    "headword": "sta]",
+    "copticWord": "ϣⲧⲁϯ",
+    "englishTransliteration": "shtati",
+    "variants": [
+      {
+        "word": "sya]",
+        "copticWord": "ϣⲑⲁϯ",
+        "englishTransliteration": "shthati"
+      }
+    ],
+    "reference": "598b",
+    "partOfSpeech": "m",
+    "gloss": "Edge, fringe, border (of garment)",
+    "definition": "Edge, fringe, border (of garment)"
+  },
+  {
+    "headword": "sorp=",
+    "copticWord": "ϣⲟⲣⲡ",
+    "englishTransliteration": "shorp",
+    "gloss": "To be early. sorpi v. swrp - First",
+    "definition": "To be early. sorpi v. swrp - First",
+    "crossReference": {
+      "target": "swrp",
+      "gloss": "To be early. sorpi v. swrp - First"
+    }
+  },
+  {
+    "headword": "stekwou",
+    "copticWord": "ϣⲧⲉⲕⲱⲟⲩ",
+    "englishTransliteration": "shtekōou",
+    "reference": "595b",
+    "partOfSpeech": "m",
+    "gloss": "Prison",
+    "definition": "Prison"
+  },
+  {
+    "headword": "sort(Q)",
+    "copticWord": "ϣⲟⲣⲧ(Ϧ)",
+    "englishTransliteration": "short(Kh)",
+    "gloss": "To be demented. sortf v. sotref - Falcon",
+    "definition": "To be demented. sortf v. sotref - Falcon",
+    "crossReference": {
+      "target": "swrt",
+      "gloss": "To be demented. sortf v. sotref - Falcon"
+    }
+  },
+  {
+    "headword": "sorser",
+    "copticWord": "ϣⲟⲣϣⲉⲣ",
+    "englishTransliteration": "shorsher",
+    "variants": [
+      {
+        "word": "serswr=",
+        "copticWord": "ϣⲉⲣϣⲱⲣ",
+        "englishTransliteration": "shershōr"
+      }
+    ],
+    "reference": "589a",
+    "gloss": "vi. To upset, overturn",
+    "definition": "vi. To upset, overturn"
+  },
+  {
+    "headword": "stem",
+    "copticWord": "ϣⲧⲉⲙ",
+    "englishTransliteration": "shtem",
+    "reference": "412a",
+    "gloss": "Negative prefix of the infinitive, conjuctive, causative, conditional, temporal",
+    "definition": "Negative prefix of the infinitive, conjuctive, causative, conditional, temporal"
+  },
+  {
+    "headword": "st/=",
+    "copticWord": "ϣⲧⲏ",
+    "englishTransliteration": "shti",
+    "gloss": "To lay down",
+    "definition": "To lay down",
+    "crossReference": {
+      "target": "sto",
+      "gloss": "To lay down"
+    }
+  },
+  {
+    "headword": "stmo",
+    "copticWord": "ϣⲧⲙⲟ",
+    "englishTransliteration": "shtmo",
+    "gloss": "To make small",
+    "definition": "To make small",
+    "crossReference": {
+      "target": "tsmo",
+      "gloss": "To make small"
+    }
+  },
+  {
+    "headword": "stmo=",
+    "copticWord": "ϣⲧⲙⲟ",
+    "englishTransliteration": "shtmo",
+    "gloss": "To make small",
+    "definition": "To make small",
+    "crossReference": {
+      "target": "tsmo",
+      "gloss": "To make small"
+    }
+  },
+  {
+    "headword": "sotem(Q)",
+    "copticWord": "ϣⲟⲧⲉⲙ(Ϧ)",
+    "englishTransliteration": "shotem(Kh)",
+    "gloss": "To be shut",
+    "definition": "To be shut",
+    "crossReference": {
+      "target": "swtem",
+      "gloss": "To be shut"
+    }
+  },
+  {
+    "headword": "sotref",
+    "copticWord": "ϣⲟⲧⲣⲉϥ",
+    "englishTransliteration": "shotref",
+    "variants": [
+      {
+        "word": "soyref",
+        "copticWord": "ϣⲟⲑⲣⲉϥ",
+        "englishTransliteration": "shothref"
+      },
+      {
+        "word": "sortf",
+        "copticWord": "ϣⲟⲣⲧϥ",
+        "englishTransliteration": "shortf"
+      }
+    ],
+    "reference": "598b",
+    "partOfSpeech": "m",
+    "gloss": "Falcon",
+    "definition": "Falcon"
+  },
+  {
+    "headword": "sto=",
+    "copticWord": "ϣⲧⲟ",
+    "englishTransliteration": "shto",
+    "gloss": "To lay down",
+    "definition": "To lay down",
+    "crossReference": {
+      "target": "sto",
+      "gloss": "To lay down"
+    }
+  },
+  {
+    "headword": "sou",
+    "copticWord": "ϣⲟⲩ",
+    "englishTransliteration": "shou",
+    "gloss": "Son",
+    "definition": "Son",
+    "crossReference": {
+      "target": "s/ri",
+      "gloss": "Son"
+    }
+  },
+  {
+    "headword": "sotset",
+    "copticWord": "ϣⲟⲧϣⲉⲧ",
+    "englishTransliteration": "shotshet",
+    "variants": [
+      {
+        "word": "setswt=",
+        "copticWord": "ϣⲉⲧϣⲱⲧ",
+        "englishTransliteration": "shetshōt"
+      },
+      {
+        "word": "(Q) setswt",
+        "copticWord": "(Ϧ) ϣⲉⲧϣⲱⲧ",
+        "englishTransliteration": "(Kh) shetshōt"
+      }
+    ],
+    "reference": "599a",
+    "gloss": "vt. To cut, carve, hollow. sotset v. [ot[et - To slaughter. sou v. (1)sau - Value",
+    "definition": "vt. To cut, carve, hollow. sotset v. [ot[et - To slaughter. sou v. (1)sau - Value"
+  },
+  {
+    "headword": "sos",
+    "copticWord": "ϣⲟϣ",
+    "englishTransliteration": "shosh",
+    "variants": [
+      {
+        "word": "sws",
+        "copticWord": "ϣⲱϣ",
+        "englishTransliteration": "shōsh"
+      },
+      {
+        "word": "sosou",
+        "copticWord": "ϣⲟϣⲟⲩ",
+        "englishTransliteration": "shoshou"
+      }
+    ],
+    "reference": "605a",
+    "gloss": "mf a kind of antelope",
+    "definition": "mf a kind of antelope"
+  },
+  {
+    "headword": "soue",
+    "copticWord": "ϣⲟⲩⲉ",
+    "englishTransliteration": "shoue",
+    "gloss": "To flow",
+    "definition": "To flow",
+    "crossReference": {
+      "target": "souo",
+      "gloss": "To flow"
+    }
+  },
+  {
+    "headword": "souie",
+    "copticWord": "ϣⲟⲩⲓⲉ",
+    "englishTransliteration": "shouie",
+    "gloss": "Dryness",
+    "definition": "Dryness",
+    "crossReference": {
+      "target": "swoui",
+      "gloss": "Dryness"
+    }
+  },
+  {
+    "headword": "sos=",
+    "copticWord": "ϣⲟϣ",
+    "englishTransliteration": "shosh",
+    "gloss": "To despise",
+    "definition": "To despise",
+    "crossReference": {
+      "target": "(1)sws",
+      "gloss": "To despise"
+    }
+  },
+  {
+    "headword": "souit (Q) v. souo - Empty. soumenrit v. mei - Worthy of love. sounic",
+    "copticWord": "ϣⲟⲩⲓⲧ (Ϧ) ⲫ. ϣⲟⲩⲟ - Ⲉⲙⲡⲧⲑ. ϣⲟⲩⲙⲉⲛⲣⲓⲧ ⲫ. ⲙⲉⲓ - Ⲱⲟⲣⲧϩⲑ ⲟϥ ⲗⲟⲫⲉ. ϣⲟⲩⲛⲓⲥ",
+    "englishTransliteration": "shouit (Kh) f. shouo - Emptth. shoumenrit f. mi - Ōorthth of lofe. shounis",
+    "reference": "572a",
+    "partOfSpeech": "m",
+    "gloss": "Black cumin",
+    "definition": "Black cumin"
+  },
+  {
+    "headword": "sospi",
+    "copticWord": "ϣⲟϣⲡⲓ",
+    "englishTransliteration": "shoshpi",
+    "gloss": "()",
+    "definition": "f. Stomach."
+  },
+  {
+    "headword": "sost",
+    "copticWord": "ϣⲟϣⲧ",
+    "englishTransliteration": "shosht",
+    "variants": [
+      {
+        "word": "swst",
+        "copticWord": "ϣⲱϣⲧ",
+        "englishTransliteration": "shōsht"
+      }
+    ],
+    "reference": "608b",
+    "partOfSpeech": "m",
+    "gloss": "Hindrance, impediment, key",
+    "definition": "Hindrance, impediment, key",
+    "senses": [
+      {
+        "label": "atsost",
+        "partOfSpeech": "adj",
+        "gloss": "Without key",
+        "definition": "Without key"
+      }
+    ]
+  },
+  {
+    "headword": "souo",
+    "copticWord": "ϣⲟⲩⲟ",
+    "englishTransliteration": "shouo",
+    "variants": [
+      {
+        "word": "soue",
+        "copticWord": "ϣⲟⲩⲉ",
+        "englishTransliteration": "shoue"
+      },
+      {
+        "word": "sou",
+        "copticWord": "ϣⲟⲩ",
+        "englishTransliteration": "shou"
+      },
+      {
+        "word": "souw=",
+        "copticWord": "ϣⲟⲩⲱ",
+        "englishTransliteration": "shouō"
+      },
+      {
+        "word": "souo=",
+        "copticWord": "ϣⲟⲩⲟ",
+        "englishTransliteration": "shouo"
+      }
+    ],
+    "reference": "602a",
+    "gloss": "vi. To flow, pour, discharge",
+    "definition": "vi. To flow, pour, discharge"
+  },
+  {
+    "headword": "souo=",
+    "copticWord": "ϣⲟⲩⲟ",
+    "englishTransliteration": "shouo",
+    "gloss": "To flow",
+    "definition": "To flow",
+    "crossReference": {
+      "target": "souo",
+      "gloss": "To flow"
+    }
+  },
+  {
+    "headword": "sour/",
+    "copticWord": "ϣⲟⲩⲣⲏ",
+    "englishTransliteration": "shouri",
+    "reference": "603b",
+    "partOfSpeech": "f",
+    "gloss": "Censer, brazier, altar",
+    "definition": "Censer, brazier, altar"
+  },
+  {
+    "headword": "souw=",
+    "copticWord": "ϣⲟⲩⲱ",
+    "englishTransliteration": "shouō",
+    "gloss": "To flow",
+    "definition": "To flow",
+    "crossReference": {
+      "target": "souo",
+      "gloss": "To flow"
+    }
+  },
+  {
+    "headword": "souwou(Q)",
+    "copticWord": "ϣⲟⲩⲱⲟⲩ(Ϧ)",
+    "englishTransliteration": "shouōou(Kh)",
+    "gloss": "To be dry",
+    "definition": "To be dry",
+    "crossReference": {
+      "target": "swoui",
+      "gloss": "To be dry"
+    }
+  },
+  {
+    "headword": "sous/t",
+    "copticWord": "ϣⲟⲩϣⲏⲧ",
+    "englishTransliteration": "shoushit",
+    "reference": "603b",
+    "partOfSpeech": "n",
+    "gloss": "Herb eaten by sheep",
+    "definition": "Herb eaten by sheep"
+  },
+  {
+    "headword": "sousitc",
+    "copticWord": "ϣⲟⲩϣⲓⲧⲥ",
+    "englishTransliteration": "shoushits",
+    "reference": "603b",
+    "partOfSpeech": "m",
+    "gloss": "Whistling, hissing",
+    "definition": "Whistling, hissing"
+  },
+  {
+    "headword": "soust",
+    "copticWord": "ϣⲟⲩϣⲧ",
+    "englishTransliteration": "shousht",
+    "reference": "608b",
+    "partOfSpeech": "m",
+    "gloss": "Window",
+    "definition": "Window"
+  },
+  {
+    "headword": "sousou",
+    "copticWord": "ϣⲟⲩϣⲟⲩ",
+    "englishTransliteration": "shoushou",
+    "reference": "604a",
+    "gloss": "vi. To boast",
+    "definition": "vt. to pride oneself;"
+  },
+  {
+    "headword": "sost(Q)",
+    "copticWord": "ϣⲟϣⲧ(Ϧ)",
+    "englishTransliteration": "shosht(Kh)",
+    "gloss": "sosou: (609a)",
+    "definition": "m. Pot, jar. sosou v. sos - A kind of antelope. sosf= v. (1)sws - To despise. sosf(Q) v. (1)sws - To be despised. sof= v. swf - To be laid waste. soft(Q) v. swft - To stumble. sohen: (688b); m. Incense.",
+    "crossReference": {
+      "target": "swst",
+      "gloss": "sosou: (609a)"
+    }
+  }
+]

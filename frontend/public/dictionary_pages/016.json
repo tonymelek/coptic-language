@@ -1,0 +1,389 @@
+[
+  {
+    "headword": "ahwr",
+    "copticWord": "ⲁϩⲱⲣ",
+    "englishTransliteration": "ahōr",
+    "gloss": "Treasures",
+    "definition": "Treasures",
+    "crossReference": {
+      "target": "(1)aho",
+      "gloss": "Treasures"
+    }
+  },
+  {
+    "headword": "aqwm",
+    "copticWord": "ⲁϧⲱⲙ",
+    "englishTransliteration": "akhōm",
+    "reference": "25a",
+    "partOfSpeech": "m",
+    "gloss": "Eagle",
+    "definition": "orig. falcon, vulture."
+  },
+  {
+    "headword": "aje",
+    "copticWord": "ⲁϫⲉ",
+    "englishTransliteration": "aje",
+    "gloss": "To say",
+    "definition": "To say",
+    "crossReference": {
+      "target": "jw",
+      "gloss": "To say"
+    }
+  },
+  {
+    "headword": "ajo",
+    "copticWord": "ⲁϫⲟ",
+    "englishTransliteration": "ajo",
+    "gloss": "Viper",
+    "definition": "Viper",
+    "crossReference": {
+      "target": "(1)ajw",
+      "gloss": "Viper"
+    }
+  },
+  {
+    "headword": "aqwri",
+    "copticWord": "ⲁϧⲱⲣⲓ",
+    "englishTransliteration": "akhōri",
+    "variants": [
+      {
+        "word": "aqwiri",
+        "copticWord": "ⲁϧⲱⲓⲣⲓ",
+        "englishTransliteration": "akhōiri"
+      },
+      {
+        "word": "aqori",
+        "copticWord": "ⲁϧⲟⲣⲓ",
+        "englishTransliteration": "akhori"
+      }
+    ],
+    "reference": "23b",
+    "senses": [
+      {
+        "label": "a",
+        "gloss": "Answers questions affirmatively,",
+        "definition": "Answers questions affirmatively,"
+      },
+      {
+        "label": "b",
+        "gloss": "Varies with `ce',",
+        "definition": "Varies with `ce',"
+      },
+      {
+        "label": "c",
+        "gloss": "Sometimes ce - more emphatic, contradictory, answers m/,",
+        "definition": "Sometimes ce - more emphatic, contradictory, answers m/,"
+      },
+      {
+        "label": "d",
+        "gloss": "With conditional icje or eswp, if so, if indeed,",
+        "definition": "With conditional icje or eswp, if so, if indeed,"
+      },
+      {
+        "label": "e",
+        "gloss": "Verily, well then, indeed,",
+        "definition": "Verily, well then, indeed,"
+      },
+      {
+        "label": "f",
+        "gloss": "Introduces questions",
+        "definition": "Introduces questions"
+      }
+    ]
+  },
+  {
+    "headword": "m. Asp. aha",
+    "copticWord": "ⲙ. Ⲁϣⲡ. ⲁϩⲁ",
+    "englishTransliteration": "m. Ashp. aha",
+    "variants": [
+      {
+        "word": "ah/",
+        "copticWord": "ⲁϩⲏ",
+        "englishTransliteration": "ahi"
+      }
+    ],
+    "reference": "64b",
+    "partOfSpeech": "part",
+    "gloss": "`yes'",
+    "definition": "`yes'"
+  },
+  {
+    "headword": "ajo=",
+    "copticWord": "ⲁϫⲟ",
+    "englishTransliteration": "ajo",
+    "gloss": "To say",
+    "definition": "To say",
+    "crossReference": {
+      "target": "jw",
+      "gloss": "To say"
+    }
+  },
+  {
+    "headword": "ajol]",
+    "copticWord": "ⲁϫⲟⲗϯ",
+    "englishTransliteration": "ajolti",
+    "reference": "26a",
+    "partOfSpeech": "n",
+    "gloss": "Wagon, cart",
+    "definition": "Wagon, cart"
+  },
+  {
+    "headword": "ajot=",
+    "copticWord": "ⲁϫⲟⲧ",
+    "englishTransliteration": "ajot",
+    "gloss": "To say",
+    "definition": "To say",
+    "crossReference": {
+      "target": "jw",
+      "gloss": "To say"
+    }
+  },
+  {
+    "headword": "ajpi",
+    "copticWord": "ⲁϫⲡⲓ",
+    "englishTransliteration": "ajpi",
+    "reference": "777b",
+    "gloss": "fm. Hour",
+    "definition": "fm. Hour"
+  },
+  {
+    "headword": "mvnau najp",
+    "copticWord": "ⲙⲫⲛⲁⲩ ⲛⲁϫⲡ",
+    "englishTransliteration": "mfnav najp",
+    "partOfSpeech": "adv",
+    "gloss": "At the time of, about the ... hour",
+    "definition": "At the time of, about the ... hour"
+  },
+  {
+    "headword": "ajou",
+    "copticWord": "ⲁϫⲟⲩ",
+    "englishTransliteration": "ajou",
+    "gloss": "Viper",
+    "definition": "Viper",
+    "crossReference": {
+      "target": "(1)ajw",
+      "gloss": "Viper"
+    }
+  },
+  {
+    "headword": "(1) ajw",
+    "copticWord": "ⲁϫⲱ",
+    "englishTransliteration": "ajō",
+    "variants": [
+      {
+        "word": "ajo",
+        "copticWord": "ⲁϫⲟ",
+        "englishTransliteration": "ajo"
+      },
+      {
+        "word": "ajou",
+        "copticWord": "ⲁϫⲟⲩ",
+        "englishTransliteration": "ajou"
+      },
+      {
+        "word": "ejw",
+        "copticWord": "ⲉϫⲱ",
+        "englishTransliteration": "ejō"
+      },
+      {
+        "word": "ejou",
+        "copticWord": "ⲉϫⲟⲩ",
+        "englishTransliteration": "ejou"
+      }
+    ],
+    "reference": "25b",
+    "partOfSpeech": "f",
+    "gloss": "Viper",
+    "definition": "Viper"
+  },
+  {
+    "headword": "ah/",
+    "copticWord": "ⲁϩⲏ",
+    "englishTransliteration": "ahi",
+    "gloss": "Yes ahi: (24a)",
+    "definition": "m. Length, limit of life, life span;",
+    "crossReference": {
+      "target": "aha",
+      "gloss": "Yes ahi: (24a)"
+    },
+    "senses": [
+      {
+        "label": "erahi",
+        "partOfSpeech": "vb",
+        "gloss": "Pass life",
+        "definition": "Pass life"
+      },
+      {
+        "label": "nebahi",
+        "partOfSpeech": "n",
+        "gloss": "Long-lived, only with met-or er-",
+        "definition": "Long-lived, only with met-or er-"
+      },
+      {
+        "label": "metsarahi",
+        "partOfSpeech": "f",
+        "gloss": "Short life",
+        "definition": "ersarahi: vb. To be short-lived; jemahi: vb. To have (find) ling life."
+      }
+    ]
+  },
+  {
+    "headword": "(2) ajw",
+    "copticWord": "ⲁϫⲱ",
+    "englishTransliteration": "ajō",
+    "variants": [
+      {
+        "word": "jo",
+        "copticWord": "ϫⲟ",
+        "englishTransliteration": "jo"
+      }
+    ],
+    "reference": "753b",
+    "partOfSpeech": "m",
+    "gloss": "Crook-back or haunch back",
+    "definition": "Crook-back or haunch back"
+  },
+  {
+    "headword": "a[in",
+    "copticWord": "ⲁϭⲓⲛ",
+    "englishTransliteration": "achin",
+    "reference": "744a",
+    "partOfSpeech": "m",
+    "gloss": "Scented herb, mint",
+    "definition": "Scented herb, mint"
+  },
+  {
+    "headword": "asin ncyoi = a[in ncyoi",
+    "copticWord": "ⲁϣⲓⲛ ⲛⲥⲑⲟⲓ  ⲁ̅ϭⲓⲛ ⲛⲥⲑⲟⲓ",
+    "englishTransliteration": "ashin nsthoi  a̅chin nsthoi",
+    "partOfSpeech": "n",
+    "gloss": "Aromatic plant",
+    "definition": "Aromatic plant"
+  },
+  {
+    "headword": "a[ne",
+    "copticWord": "ⲁϭⲛⲉ",
+    "englishTransliteration": "achne",
+    "gloss": "- Without",
+    "definition": "- Without",
+    "crossReference": {
+      "target": "at[ne",
+      "gloss": "- Without"
+    }
+  },
+  {
+    "headword": "a[ni",
+    "copticWord": "ⲁϭⲛⲓ",
+    "englishTransliteration": "achni",
+    "reference": "26b",
+    "partOfSpeech": "mf",
+    "gloss": "Blemish, stain",
+    "definition": "Blemish, stain"
+  },
+  {
+    "headword": "(1) aho",
+    "copticWord": "ⲁϩⲟ",
+    "englishTransliteration": "aho",
+    "variants": [
+      {
+        "word": "ahor",
+        "copticWord": "ⲁϩⲟⲣ",
+        "englishTransliteration": "ahor"
+      },
+      {
+        "type": "pl.",
+        "word": "ahwr & sg as pl",
+        "copticWord": "ⲁϩⲱⲣ & ϣⲅ ⲁϣ ⲡⲗ",
+        "englishTransliteration": "ahōr & shg ash pl"
+      }
+    ],
+    "reference": "24b",
+    "partOfSpeech": "m",
+    "gloss": "Treasure",
+    "definition": "treasury, store-house",
+    "senses": [
+      {
+        "label": "(2)",
+        "gloss": "aho: (24b)",
+        "definition": "n. Dwelling, abode. ahom: (24b); m. only with fi- forming vi. to sigh, groan;"
+      }
+    ]
+  },
+  {
+    "headword": "anahwr",
+    "copticWord": "ⲁⲛⲁϩⲱⲣ",
+    "englishTransliteration": "anahōr",
+    "gloss": "pl. Store-houses",
+    "definition": "pl. Store-houses"
+  },
+  {
+    "headword": "ata[ni",
+    "copticWord": "ⲁⲧⲁϭⲛⲓ",
+    "englishTransliteration": "atachni",
+    "partOfSpeech": "adj",
+    "gloss": "Stainless",
+    "definition": "Stainless"
+  },
+  {
+    "headword": "metata[ni",
+    "copticWord": "ⲙⲉⲧⲁⲧⲁϭⲛⲓ",
+    "englishTransliteration": "metatachni",
+    "partOfSpeech": "f",
+    "gloss": "Stainlessness",
+    "definition": "Stainlessness"
+  },
+  {
+    "headword": "era[ni",
+    "copticWord": "ⲉⲣⲁϭⲛⲓ",
+    "englishTransliteration": "erachni",
+    "partOfSpeech": "vb",
+    "gloss": "To be stained",
+    "definition": "To be stained"
+  },
+  {
+    "headword": "erata[ni",
+    "copticWord": "ⲉⲣⲁⲧⲁϭⲛⲓ",
+    "englishTransliteration": "eratachni",
+    "partOfSpeech": "vb",
+    "gloss": "To be stainless",
+    "definition": "To be stainless"
+  },
+  {
+    "headword": "hia[ni",
+    "copticWord": "ϩⲓⲁϭⲛⲓ",
+    "englishTransliteration": "hiachni",
+    "partOfSpeech": "vb",
+    "gloss": "To cast a stain",
+    "definition": "To cast a stain"
+  },
+  {
+    "headword": "a[r/n",
+    "copticWord": "ⲁϭⲣⲏⲛ",
+    "englishTransliteration": "achrin",
+    "variants": [
+      {
+        "word": "at[r/n",
+        "copticWord": "ⲁⲧϭⲣⲏⲛ",
+        "englishTransliteration": "atchrin"
+      }
+    ],
+    "reference": "26b"
+  },
+  {
+    "headword": "f. Barren female. a[o",
+    "copticWord": "ϥ. Ⲃⲁⲣⲣⲉⲛ ϥⲉⲙⲁⲗⲉ. ⲁϭⲟ",
+    "englishTransliteration": "f. Varren female. acho",
+    "reference": "753b",
+    "partOfSpeech": "m",
+    "gloss": "Armpit",
+    "definition": "Armpit"
+  },
+  {
+    "headword": "fiahom",
+    "copticWord": "ϥⲓⲁϩⲟⲙ",
+    "englishTransliteration": "fiahom",
+    "partOfSpeech": "m",
+    "gloss": "Groan, yawn, roar. ahor v. (1)aho - Treasure",
+    "definition": "Groan, yawn, roar. ahor v. (1)aho - Treasure"
+  }
+]

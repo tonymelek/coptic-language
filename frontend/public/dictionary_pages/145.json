@@ -1,0 +1,396 @@
+[
+  {
+    "headword": "(1) swnt",
+    "copticWord": "ϣⲱⲛⲧ",
+    "englishTransliteration": "shōnt",
+    "variants": [
+      {
+        "word": "sent",
+        "copticWord": "ϣⲉⲛⲧ",
+        "englishTransliteration": "shent"
+      },
+      {
+        "word": "sont=",
+        "copticWord": "ϣⲟⲛⲧ",
+        "englishTransliteration": "shont"
+      },
+      {
+        "word": "(Q) sont",
+        "copticWord": "(Ϧ) ϣⲟⲛⲧ",
+        "englishTransliteration": "(Kh) shont"
+      }
+    ],
+    "reference": "572b",
+    "gloss": "vt. To plait",
+    "definition": "vt. To plait"
+  },
+  {
+    "headword": "sen]",
+    "copticWord": "ϣⲉⲛϯ",
+    "englishTransliteration": "shenti",
+    "partOfSpeech": "f",
+    "gloss": "Plaited work",
+    "definition": "Plaited work"
+  },
+  {
+    "headword": "(1) swpi",
+    "copticWord": "ϣⲱⲡⲓ",
+    "englishTransliteration": "shōpi",
+    "variants": [
+      {
+        "word": "(Q) sop",
+        "copticWord": "(Ϧ) ϣⲟⲡ",
+        "englishTransliteration": "(Kh) shop"
+      }
+    ],
+    "reference": "577b",
+    "gloss": "vi. To become, befall, happen",
+    "definition": "Q. To be, exist; --- e-: vi. To happen for;",
+    "senses": [
+      {
+        "label": "ejen",
+        "gloss": "vi. To befall upon",
+        "definition": "vi. To befall upon"
+      },
+      {
+        "label": "nem",
+        "gloss": "vi. To become with",
+        "definition": "vi. To become with"
+      },
+      {
+        "label": "n",
+        "gloss": "vi. To happen in",
+        "definition": "to;"
+      },
+      {
+        "label": "n- + e",
+        "gloss": "vi. To become for as",
+        "definition": "vi. To become for as"
+      },
+      {
+        "label": "oube",
+        "gloss": "vi. To happen toward",
+        "definition": "vi. To happen toward"
+      },
+      {
+        "label": "oute",
+        "gloss": "vi. To happen between",
+        "definition": "vi. To happen between"
+      },
+      {
+        "label": "sa",
+        "gloss": "vi. To happen to, till",
+        "definition": "vi. To happen to, till"
+      },
+      {
+        "label": "qa",
+        "gloss": "vi. To become under",
+        "definition": "vi. To become under"
+      },
+      {
+        "label": "qen",
+        "gloss": "vi. To happen in",
+        "definition": "vi. To happen in"
+      },
+      {
+        "label": "ha",
+        "gloss": "vi. To befall to",
+        "definition": "vi. To befall to"
+      },
+      {
+        "label": "hi",
+        "gloss": "vi. To befall on, in",
+        "definition": "vi. To befall on, in"
+      },
+      {
+        "label": "qaten",
+        "gloss": "vi. To become under, with",
+        "definition": "vi. To become under, with"
+      },
+      {
+        "label": "hiten",
+        "gloss": "vi. To become through,",
+        "definition": "vi. To become through,"
+      },
+      {
+        "gloss": "by",
+        "definition": "by"
+      },
+      {
+        "label": "hijen",
+        "gloss": "vi. To befall upon",
+        "definition": "vi. To befall upon"
+      },
+      {
+        "label": "mmau",
+        "gloss": "vi. To happen there",
+        "definition": "---: m. Being;"
+      },
+      {
+        "label": "atswpi",
+        "partOfSpeech": "adj",
+        "gloss": "Not being, undwelt in",
+        "definition": "manswpi: m. Dwelling place;"
+      },
+      {
+        "label": "jinswpi",
+        "partOfSpeech": "m",
+        "gloss": "Act, state of being",
+        "definition": "eswp: conj. If it befall, if, when."
+      }
+    ]
+  },
+  {
+    "headword": "(2) swnt",
+    "copticWord": "ϣⲱⲛⲧ",
+    "englishTransliteration": "shōnt",
+    "variants": [
+      {
+        "word": "(Q) sont",
+        "copticWord": "(Ϧ) ϣⲟⲛⲧ",
+        "englishTransliteration": "(Kh) shont"
+      }
+    ],
+    "reference": "572b",
+    "gloss": "vi. To quarrel",
+    "definition": "vi. To quarrel"
+  },
+  {
+    "headword": "ma nswnt",
+    "copticWord": "ⲙⲁ ⲛϣⲱⲛⲧ",
+    "englishTransliteration": "ma nshōnt",
+    "partOfSpeech": "m",
+    "gloss": "Place of quarrel",
+    "definition": "Place of quarrel"
+  },
+  {
+    "headword": "(swnh)",
+    "copticWord": "(ϣⲱⲛϩ)",
+    "englishTransliteration": "(shōnh)",
+    "variants": [
+      {
+        "word": "sonh=",
+        "copticWord": "ϣⲟⲛϩ",
+        "englishTransliteration": "shonh"
+      }
+    ],
+    "reference": "574b",
+    "gloss": "vt. To deprive. (1)swp, [wp, sop, [op, seb-, sep-, [ep-, sob=",
+    "definition": "vt. To deprive. (1)swp, [wp, sop, [op, seb-, sep-, [ep-, sob="
+  },
+  {
+    "headword": "(Q) s/b",
+    "copticWord": "(Ϧ) ϣⲏⲃ",
+    "englishTransliteration": "(Kh) sheeb",
+    "variants": [
+      {
+        "word": "sep",
+        "copticWord": "ϣⲉⲡ",
+        "englishTransliteration": "shep"
+      }
+    ],
+    "reference": "550b",
+    "gloss": "vi. To shave, clip",
+    "definition": "vi. To shave, clip"
+  },
+  {
+    "headword": "sebjw",
+    "copticWord": "ϣⲉⲃϫⲱ",
+    "englishTransliteration": "shevjō",
+    "gloss": "vi. To shave head",
+    "definition": "vi. To shave head"
+  },
+  {
+    "headword": "(2) (Q) s/p",
+    "copticWord": "(Ϧ) ϣⲏⲡ",
+    "englishTransliteration": "(Kh) ship",
+    "variants": [
+      {
+        "word": "p.c. sap",
+        "copticWord": "ⲡ.ⲥ. ϣⲁⲡ",
+        "englishTransliteration": "p.s. shap"
+      }
+    ],
+    "reference": "574b",
+    "gloss": "vt. To receive, contain, take, buy",
+    "definition": "Q. acceptable;",
+    "senses": [
+      {
+        "label": "e",
+        "gloss": "vi. To accept, restrain self, take",
+        "definition": "vt. Take to self, contain;"
+      },
+      {
+        "label": "ejen",
+        "gloss": "vi. To receive on behalf of, for",
+        "definition": "vi. To receive on behalf of, for"
+      },
+      {
+        "label": "n",
+        "gloss": "vi. To expend on",
+        "definition": "vi. To expend on"
+      },
+      {
+        "label": "qa",
+        "gloss": "vi. To buy for (price of)",
+        "definition": "vi. To buy for (price of)"
+      },
+      {
+        "label": "eqoun",
+        "gloss": "vi. To accept",
+        "definition": "vi. To accept"
+      },
+      {
+        "label": "p.c",
+        "gloss": "--- mmau: vi. To take away",
+        "definition": "Receiver; --: m. Acceptance; atswp, atsop=: adj. Uncontain-able, limitless; refswp: m. Receiver; jinswp: m. Receiving, accepting; sopc: f. Reception, entertaintment."
+      }
+    ]
+  },
+  {
+    "headword": "(2) swpi",
+    "copticWord": "ϣⲱⲡⲓ",
+    "englishTransliteration": "shōpi",
+    "variants": [
+      {
+        "word": "sop",
+        "copticWord": "ϣⲟⲡ",
+        "englishTransliteration": "shop"
+      }
+    ],
+    "reference": "580b",
+    "gloss": "mf Cucumber, gourd",
+    "definition": "mf Cucumber, gourd"
+  },
+  {
+    "headword": "swpt",
+    "copticWord": "ϣⲱⲡⲧ",
+    "englishTransliteration": "shōpt",
+    "gloss": "To change. swps (rare), swbs: (582a)",
+    "definition": "m. Arm, foreleg of animals, shoulder.",
+    "crossReference": {
+      "target": "swbt",
+      "gloss": "To change. swps (rare), swbs: (582a)"
+    }
+  },
+  {
+    "headword": "swph",
+    "copticWord": "ϣⲱⲡϩ",
+    "englishTransliteration": "shōph",
+    "gloss": "To be scorched. swr, ser-, sor=: (583a)",
+    "definition": "vt. To pile up, make thick; stop up (wells & c).",
+    "crossReference": {
+      "target": "swbh",
+      "gloss": "To be scorched. swr, ser-, sor=: (583a)"
+    }
+  },
+  {
+    "headword": "swrp",
+    "copticWord": "ϣⲱⲣⲡ",
+    "englishTransliteration": "shōrp",
+    "variants": [
+      {
+        "word": "serp",
+        "copticWord": "ϣⲉⲣⲡ",
+        "englishTransliteration": "sherp"
+      },
+      {
+        "word": "sorp=",
+        "copticWord": "ϣⲟⲣⲡ",
+        "englishTransliteration": "shorp"
+      }
+    ],
+    "reference": "586b",
+    "gloss": "vt. To be early",
+    "definition": "vt. To be early",
+    "senses": [
+      {
+        "label": "e",
+        "gloss": "vt. To be early to, at",
+        "definition": "swrp: Morning;"
+      },
+      {
+        "label": "sorp",
+        "partOfSpeech": "adj",
+        "gloss": "Earliest, first",
+        "definition": "Earliest, first"
+      },
+      {
+        "label": "nswrp",
+        "partOfSpeech": "adv",
+        "gloss": "Early",
+        "definition": "Early"
+      },
+      {
+        "label": "nsorp",
+        "partOfSpeech": "adv",
+        "gloss": "At first, formerly",
+        "definition": "At first, formerly"
+      },
+      {
+        "label": "icjen swrp",
+        "gloss": "From the beginning",
+        "definition": "er sorp, oi nsorp: vb. To be before, first; hasten."
+      }
+    ]
+  },
+  {
+    "headword": "(3) swp",
+    "copticWord": "ϣⲱⲡ",
+    "englishTransliteration": "shōp",
+    "variants": [
+      {
+        "word": "spe",
+        "copticWord": "ϣⲡⲉ",
+        "englishTransliteration": "shpe"
+      },
+      {
+        "word": "nswp",
+        "copticWord": "ⲛϣⲱⲡ",
+        "englishTransliteration": "nshōp"
+      }
+    ],
+    "reference": "576b",
+    "partOfSpeech": "n"
+  },
+  {
+    "headword": "swrt",
+    "copticWord": "ϣⲱⲣⲧ",
+    "englishTransliteration": "shōrt",
+    "variants": [
+      {
+        "word": "(Q) sort",
+        "copticWord": "(Ϧ) ϣⲟⲣⲧ",
+        "englishTransliteration": "(Kh) short"
+      }
+    ],
+    "reference": "588b",
+    "gloss": "vi. To be demented",
+    "definition": "vi. To be demented"
+  },
+  {
+    "headword": "swrsi",
+    "copticWord": "ϣⲱⲣϣⲓ",
+    "englishTransliteration": "shōrshi",
+    "reference": "589a",
+    "partOfSpeech": "m",
+    "gloss": "Wrinkle, furrow (in skin)",
+    "definition": "Wrinkle, furrow (in skin)"
+  },
+  {
+    "headword": "(1) pl. so]",
+    "copticWord": "ⲡⲗ. ϣⲟϯ",
+    "englishTransliteration": "pl. shoti",
+    "variants": [
+      {
+        "word": "eso]",
+        "copticWord": "ⲉϣⲟϯ",
+        "englishTransliteration": "eshoti"
+      }
+    ],
+    "reference": "590a",
+    "partOfSpeech": "m",
+    "gloss": "Trader, merchant",
+    "definition": "Trader, merchant"
+  }
+]

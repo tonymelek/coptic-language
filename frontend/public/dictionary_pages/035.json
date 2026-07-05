@@ -1,0 +1,174 @@
+[
+  {
+    "headword": "/",
+    "copticWord": "ⲏ",
+    "englishTransliteration": "i",
+    "reference": "66a",
+    "gloss": "Seventh letter of Coptic Alphabet",
+    "definition": "Seventh letter of Coptic Alphabet"
+  },
+  {
+    "headword": "(1) /i",
+    "copticWord": "ⲏⲓ",
+    "englishTransliteration": "ii",
+    "variants": [
+      {
+        "type": "pl.",
+        "word": "/ou",
+        "copticWord": "ⲏⲟⲩ",
+        "englishTransliteration": "iou"
+      },
+      {
+        "type": "sg as pl"
+      }
+    ],
+    "reference": "66a",
+    "partOfSpeech": "m",
+    "gloss": "House",
+    "definition": "household, family"
+  },
+  {
+    "headword": "mecqen/i",
+    "copticWord": "ⲙⲉⲥϧⲉⲛⲏⲓ",
+    "englishTransliteration": "meskhenii",
+    "partOfSpeech": "n",
+    "gloss": "Born in the house",
+    "definition": "Born in the house"
+  },
+  {
+    "headword": "remn/i",
+    "copticWord": "ⲣⲉⲙⲛⲏⲓ",
+    "englishTransliteration": "remnii",
+    "variants": [
+      {
+        "word": "remqen/i",
+        "copticWord": "ⲣⲉⲙϧⲉⲛⲏⲓ",
+        "englishTransliteration": "remkhenii"
+      }
+    ],
+    "partOfSpeech": "mf",
+    "gloss": "Member of the household, domestic, kinsman",
+    "definition": "monastic superintendent, warden;"
+  },
+  {
+    "headword": "metremqen/i",
+    "copticWord": "ⲙⲉⲧⲣⲉⲙϧⲉⲛⲏⲓ",
+    "englishTransliteration": "metremkhenii",
+    "partOfSpeech": "f",
+    "gloss": "Kinship",
+    "definition": "Kinship"
+  },
+  {
+    "headword": "(2)/i",
+    "copticWord": "ⲏⲓ",
+    "englishTransliteration": "ii",
+    "reference": "66b",
+    "partOfSpeech": "m",
+    "gloss": "Pair, couple",
+    "definition": "Pair, couple"
+  },
+  {
+    "headword": "/p",
+    "copticWord": "ⲏⲡ",
+    "englishTransliteration": "ip",
+    "gloss": "Belonging to",
+    "definition": "Belonging to",
+    "crossReference": {
+      "target": "wp",
+      "gloss": "Belonging to"
+    }
+  },
+  {
+    "headword": "/pi",
+    "copticWord": "ⲏⲡⲓ",
+    "englishTransliteration": "ipi",
+    "gloss": "Number",
+    "definition": "Number",
+    "crossReference": {
+      "target": "wp",
+      "gloss": "Number"
+    }
+  },
+  {
+    "headword": "/pc",
+    "copticWord": "ⲏⲡⲥ",
+    "englishTransliteration": "ips",
+    "reference": "14b",
+    "partOfSpeech": "f",
+    "gloss": "Number",
+    "definition": "Number"
+  },
+  {
+    "headword": "/ri",
+    "copticWord": "ⲏⲣⲓ",
+    "englishTransliteration": "iri",
+    "reference": "66b"
+  },
+  {
+    "headword": "m. A kind of birds (samman). /rp",
+    "copticWord": "ⲙ. Ⲁ ⲕⲓⲛⲇ ⲟϥ ⲃⲓⲣⲇϣ (ϣⲁⲙⲙⲁⲛ). ⲏⲣⲡ",
+    "englishTransliteration": "m. A kind of virdsh (shamman). irp",
+    "variants": [
+      {
+        "type": "sg as pl"
+      }
+    ],
+    "reference": "66b",
+    "partOfSpeech": "m",
+    "gloss": "Wine",
+    "definition": "Wine"
+  },
+  {
+    "headword": "cau /rp",
+    "copticWord": "ⲥⲁⲩ ⲏⲣⲡ",
+    "englishTransliteration": "sav irp",
+    "gloss": "Wine drinker",
+    "definition": "Wine drinker"
+  },
+  {
+    "headword": "er/rp",
+    "copticWord": "ⲉⲣⲏⲣⲡ",
+    "englishTransliteration": "erirp",
+    "partOfSpeech": "vb",
+    "gloss": "To become wine",
+    "definition": "To become wine"
+  },
+  {
+    "headword": "/toc",
+    "copticWord": "ⲏⲧⲟⲥ",
+    "englishTransliteration": "itos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Silver money",
+    "definition": "Silver money"
+  },
+  {
+    "headword": "/i - Houses /ji",
+    "copticWord": "ⲏⲓ - Ϩⲟⲩϣⲉϣ ⲏϫⲓ",
+    "englishTransliteration": "ii - Houshesh iji",
+    "reference": "97b",
+    "partOfSpeech": "m",
+    "gloss": "Leek",
+    "definition": "Leek"
+  },
+  {
+    "headword": "/lioc",
+    "copticWord": "ⲏⲗⲓⲟⲥ",
+    "englishTransliteration": "ilios",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Sun",
+    "definition": "Sun"
+  },
+  {
+    "headword": "/mac",
+    "copticWord": "ⲏⲙⲁⲥ",
+    "englishTransliteration": "imas",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "pers. pron., 1st pers. pl. 'we'",
+    "definition": "pers. pron., 1st pers. pl. 'we'"
+  }
+]

@@ -1,0 +1,451 @@
+[
+  {
+    "headword": "os=",
+    "copticWord": "ⲟϣ",
+    "englishTransliteration": "osh",
+    "gloss": "To cry",
+    "definition": "To cry",
+    "crossReference": {
+      "target": "ws",
+      "gloss": "To cry"
+    }
+  },
+  {
+    "headword": "organon",
+    "copticWord": "ⲟⲣⲅⲁⲛⲟⲛ",
+    "englishTransliteration": "organon",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "A musical instrument, organ",
+    "definition": "A musical instrument, organ"
+  },
+  {
+    "headword": "osem",
+    "copticWord": "ⲟϣⲉⲙ",
+    "englishTransliteration": "oshem",
+    "gloss": "To be quenched",
+    "definition": "To be quenched",
+    "crossReference": {
+      "target": "wsem",
+      "gloss": "To be quenched"
+    }
+  },
+  {
+    "headword": "org/",
+    "copticWord": "ⲟⲣⲅⲏ",
+    "englishTransliteration": "orgi",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Temperament, mood",
+    "definition": "anger, wrath; passion."
+  },
+  {
+    "headword": "osm=",
+    "copticWord": "ⲟϣⲙ",
+    "englishTransliteration": "oshm",
+    "gloss": "To be quenched",
+    "definition": "To be quenched",
+    "crossReference": {
+      "target": "wsem",
+      "gloss": "To be quenched"
+    }
+  },
+  {
+    "headword": "osj",
+    "copticWord": "ⲟϣϫ",
+    "englishTransliteration": "oshj",
+    "gloss": "To smear",
+    "definition": "To smear",
+    "crossReference": {
+      "target": "wsj",
+      "gloss": "To smear"
+    }
+  },
+  {
+    "headword": "osj=",
+    "copticWord": "ⲟϣϫ",
+    "englishTransliteration": "oshj",
+    "gloss": "To smear",
+    "definition": "To smear",
+    "crossReference": {
+      "target": "wsj",
+      "gloss": "To smear"
+    }
+  },
+  {
+    "headword": "oryinon",
+    "copticWord": "ⲟⲣⲑⲓⲛⲟⲛ",
+    "englishTransliteration": "orthinon",
+    "variants": [
+      {
+        "word": "oryion",
+        "copticWord": "ⲟⲣⲑⲓⲟⲛ",
+        "englishTransliteration": "orthion"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "gloss": "Of the voice",
+    "definition": "high-pitched, shrill."
+  },
+  {
+    "headword": "oryion",
+    "copticWord": "ⲟⲣⲑⲓⲟⲛ",
+    "englishTransliteration": "orthion",
+    "gloss": "Shrill",
+    "definition": "Shrill",
+    "crossReference": {
+      "target": "oryinon",
+      "gloss": "Shrill"
+    }
+  },
+  {
+    "headword": "of=",
+    "copticWord": "ⲟϥ",
+    "englishTransliteration": "of",
+    "gloss": "To press",
+    "definition": "To press",
+    "crossReference": {
+      "target": "wfi",
+      "gloss": "To press"
+    }
+  },
+  {
+    "headword": "oryodox/",
+    "copticWord": "ⲟⲣⲑⲟⲇⲟⲝⲏ",
+    "englishTransliteration": "orthodoksi",
+    "gloss": "Orthodox",
+    "definition": "Orthodox",
+    "crossReference": {
+      "target": "oryodoxia",
+      "gloss": "Orthodox"
+    }
+  },
+  {
+    "headword": "oft=",
+    "copticWord": "ⲟϥⲧ",
+    "englishTransliteration": "oft",
+    "gloss": "To nail",
+    "definition": "To nail",
+    "crossReference": {
+      "target": "wft",
+      "gloss": "To nail"
+    }
+  },
+  {
+    "headword": "(1) ohi",
+    "copticWord": "ⲟϩⲓ",
+    "englishTransliteration": "ohi",
+    "variants": [
+      {
+        "word": "iohi",
+        "copticWord": "ⲓⲟϩⲓ",
+        "englishTransliteration": "iohi"
+      }
+    ],
+    "reference": "258a",
+    "partOfSpeech": "m",
+    "gloss": "Yard (of house), fold (for cattle, sheep)",
+    "definition": "pasture; flock, herd."
+  },
+  {
+    "headword": "oryodoxia",
+    "copticWord": "ⲟⲣⲑⲟⲇⲟⲝⲓⲁ",
+    "englishTransliteration": "orthodoksia",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Right opinion, orthodoxy",
+    "definition": "Right opinion, orthodoxy"
+  },
+  {
+    "headword": "oryodoxoc",
+    "copticWord": "ⲟⲣⲑⲟⲇⲟⲝⲟⲥ",
+    "englishTransliteration": "orthodoksos",
+    "variants": [
+      {
+        "word": "-/",
+        "copticWord": "-ⲏ",
+        "englishTransliteration": "-i"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "Orthodox in religion",
+    "definition": "Orthodox in religion"
+  },
+  {
+    "headword": "ormickoc",
+    "copticWord": "ⲟⲣⲙⲓⲥⲕⲟⲥ",
+    "englishTransliteration": "ormiskos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Small necklace",
+    "definition": "Small necklace"
+  },
+  {
+    "headword": "(2) ohi",
+    "copticWord": "ⲟϩⲓ",
+    "englishTransliteration": "ohi",
+    "variants": [
+      {
+        "word": "(Q) ohi",
+        "copticWord": "(Ϧ) ⲟϩⲓ",
+        "englishTransliteration": "(Kh) ohi"
+      }
+    ],
+    "reference": "536b",
+    "gloss": "vi. To stand, stay, wait",
+    "definition": "vi. To stand, stay, wait",
+    "senses": [
+      {
+        "label": "e",
+        "partOfSpeech": "vb",
+        "gloss": "To abide by, wait for",
+        "definition": "To abide by, wait for"
+      },
+      {
+        "label": "nem",
+        "partOfSpeech": "vb",
+        "gloss": "To stay with",
+        "definition": "To stay with"
+      },
+      {
+        "label": "n",
+        "partOfSpeech": "vb",
+        "gloss": "To wait for, attend to",
+        "definition": "as, for;"
+      },
+      {
+        "label": "oube",
+        "partOfSpeech": "vb",
+        "gloss": "To stand before, against",
+        "definition": "To stand before, against"
+      },
+      {
+        "label": "qaten",
+        "partOfSpeech": "vb",
+        "gloss": "To stay with",
+        "definition": "To stay with"
+      },
+      {
+        "label": "hijen",
+        "partOfSpeech": "vb",
+        "gloss": "To stay upon",
+        "definition": "--- cabol: vb. To stay outside; --- evahou: vb. To stay behind;"
+      },
+      {
+        "label": "eqoun ehren",
+        "partOfSpeech": "vb",
+        "gloss": "To stand against",
+        "definition": "To stand against"
+      },
+      {
+        "label": "erat=",
+        "partOfSpeech": "vb",
+        "gloss": "To stand on foot, stand",
+        "definition": "To stand on foot, stand"
+      },
+      {
+        "label": "e",
+        "partOfSpeech": "vb",
+        "gloss": "To stand before, against, attend on",
+        "definition": "To stand before, against, attend on"
+      },
+      {
+        "label": "ejen",
+        "partOfSpeech": "vb",
+        "gloss": "To stand upon, against",
+        "definition": "nem-: vb. To stand with; nahren-: vb. To sdtand"
+      },
+      {
+        "label": "beside; oube",
+        "partOfSpeech": "vb",
+        "gloss": "To stand against",
+        "definition": "To stand against"
+      },
+      {
+        "label": "qaten",
+        "partOfSpeech": "vb",
+        "gloss": "To stand at, before",
+        "definition": "To stand at, before"
+      },
+      {
+        "label": "hijen",
+        "partOfSpeech": "vb",
+        "gloss": "To stand upon, at, beside",
+        "definition": "To stand upon, at, beside"
+      }
+    ]
+  },
+  {
+    "headword": "oroboc",
+    "copticWord": "ⲟⲣⲟⲃⲟⲥ",
+    "englishTransliteration": "orovos",
+    "variants": [
+      {
+        "word": "orob/",
+        "copticWord": "ⲟⲣⲟⲃⲏ",
+        "englishTransliteration": "orovi"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Bitter vetch",
+    "definition": "Bitter vetch"
+  },
+  {
+    "headword": "orvanoc",
+    "copticWord": "ⲟⲣⲫⲁⲛⲟⲥ",
+    "englishTransliteration": "orfanos",
+    "variants": [
+      {
+        "type": "f.",
+        "word": "-/",
+        "copticWord": "-ⲏ",
+        "englishTransliteration": "-i"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Orphan, without parents, fatherless",
+    "definition": "Orphan, without parents, fatherless"
+  },
+  {
+    "headword": "orf=",
+    "copticWord": "ⲟⲣϥ",
+    "englishTransliteration": "orf",
+    "gloss": "To be enclosed",
+    "definition": "To be enclosed",
+    "crossReference": {
+      "target": "wrf",
+      "gloss": "To be enclosed"
+    }
+  },
+  {
+    "headword": "(1) oci",
+    "copticWord": "ⲟⲥⲓ",
+    "englishTransliteration": "osi",
+    "reference": "256b",
+    "partOfSpeech": "m",
+    "gloss": "Loss, damage, fine",
+    "definition": "]oci: vb. To suffer loss, hurt, be fined."
+  },
+  {
+    "headword": "(2) oci",
+    "copticWord": "ⲟⲥⲓ",
+    "englishTransliteration": "osi",
+    "reference": "257a",
+    "partOfSpeech": "n",
+    "gloss": "In pise noci 'tamarisk'",
+    "definition": "In pise noci 'tamarisk'"
+  },
+  {
+    "headword": "ocq",
+    "copticWord": "ⲟⲥϧ",
+    "englishTransliteration": "oskh",
+    "gloss": "To reap",
+    "definition": "To reap",
+    "crossReference": {
+      "target": "wcq",
+      "gloss": "To reap"
+    }
+  },
+  {
+    "headword": "ocq=",
+    "copticWord": "ⲟⲥϧ",
+    "englishTransliteration": "oskh",
+    "gloss": "To reap",
+    "definition": "To reap",
+    "crossReference": {
+      "target": "wcq",
+      "gloss": "To reap"
+    }
+  },
+  {
+    "headword": "oude",
+    "copticWord": "ⲟⲩⲇⲉ",
+    "englishTransliteration": "oude",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "neg part. But not",
+    "definition": "and not, nor."
+  },
+  {
+    "headword": "okoun",
+    "copticWord": "ⲟⲕⲟⲩⲛ",
+    "englishTransliteration": "okoun",
+    "reference": "Gk",
+    "partOfSpeech": "adv",
+    "isGreek": true,
+    "gloss": "Certainly not",
+    "definition": "therefore; then do you not; but at least."
+  },
+  {
+    "headword": "oul/",
+    "copticWord": "ⲟⲩⲗⲏ",
+    "englishTransliteration": "ouli",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Wound scarred over, scar",
+    "definition": "Wound scarred over, scar"
+  },
+  {
+    "headword": "oumioc",
+    "copticWord": "ⲟⲩⲙⲓⲟⲥ",
+    "englishTransliteration": "oumios",
+    "gloss": "Like",
+    "definition": "Like",
+    "crossReference": {
+      "target": "omoc",
+      "gloss": "Like"
+    }
+  },
+  {
+    "headword": "oumoc",
+    "copticWord": "ⲟⲩⲙⲟⲥ",
+    "englishTransliteration": "oumos",
+    "gloss": "Like",
+    "definition": "Like",
+    "crossReference": {
+      "target": "omoc",
+      "gloss": "Like"
+    }
+  },
+  {
+    "headword": "oun",
+    "copticWord": "ⲟⲩⲛ",
+    "englishTransliteration": "oun",
+    "reference": "Gk",
+    "partOfSpeech": "adv",
+    "isGreek": true,
+    "gloss": "So, then, well, as I was saying",
+    "definition": "So, then, well, as I was saying"
+  },
+  {
+    "headword": "ouranoc",
+    "copticWord": "ⲟⲩⲣⲁⲛⲟⲥ",
+    "englishTransliteration": "ouranos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Heaven, firmament of heaven",
+    "definition": "tent, pavilion; climate."
+  },
+  {
+    "headword": "o'wnion",
+    "copticWord": "ⲟⲯⲱⲛⲓⲟⲛ",
+    "englishTransliteration": "opsōnion",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Salary",
+    "definition": "pay, allowance, fee; wage."
+  }
+]

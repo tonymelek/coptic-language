@@ -1,0 +1,500 @@
+[
+  {
+    "headword": "(2) sbe",
+    "copticWord": "ϣⲃⲉ",
+    "englishTransliteration": "shve",
+    "reference": "603a",
+    "partOfSpeech": "m",
+    "gloss": "Persea tree, lebbakh",
+    "definition": "Persea tree, lebbakh"
+  },
+  {
+    "headword": "sbe",
+    "copticWord": "ϣⲃⲉ",
+    "englishTransliteration": "shve",
+    "gloss": "filth",
+    "definition": "filth",
+    "crossReference": {
+      "target": "s/ibi",
+      "gloss": "filth"
+    }
+  },
+  {
+    "headword": "(1) sbin",
+    "copticWord": "ϣⲃⲓⲛ",
+    "englishTransliteration": "shvin",
+    "reference": "553a",
+    "gloss": "nn. Grain",
+    "definition": "nn. Grain"
+  },
+  {
+    "headword": "(2) sbin",
+    "copticWord": "ϣⲃⲓⲛ",
+    "englishTransliteration": "shvin",
+    "reference": "553a",
+    "gloss": "nn. Part of sheep's intestines",
+    "definition": "nn. Part of sheep's intestines"
+  },
+  {
+    "headword": "sbo]",
+    "copticWord": "ϣⲃⲟϯ",
+    "englishTransliteration": "shvoti",
+    "gloss": "Rods",
+    "definition": "Rods",
+    "crossReference": {
+      "target": "sbwt",
+      "gloss": "Rods"
+    }
+  },
+  {
+    "headword": "sebi",
+    "copticWord": "ϣⲉⲃⲓ",
+    "englishTransliteration": "shevi",
+    "reference": "551a",
+    "gloss": "p.c. vb. To change, be changed",
+    "definition": "p.c. vb. To change, be changed",
+    "senses": [
+      {
+        "label": "e",
+        "gloss": "vt. To be different from",
+        "definition": "sebiw: f. Change, exchange, requital;"
+      }
+    ]
+  },
+  {
+    "headword": "sobi",
+    "copticWord": "ϣⲟⲃⲓ",
+    "englishTransliteration": "shovi",
+    "partOfSpeech": "m",
+    "gloss": "Changed, disguised person",
+    "definition": "hypocrite"
+  },
+  {
+    "headword": "metsobi",
+    "copticWord": "ⲙⲉⲧϣⲟⲃⲓ",
+    "englishTransliteration": "metshovi",
+    "partOfSpeech": "f",
+    "gloss": "Hypocrisy",
+    "definition": "Hypocrisy"
+  },
+  {
+    "headword": "sebiw(once)",
+    "copticWord": "ϣⲉⲃⲓⲱ(ⲟⲛⲥⲉ)",
+    "englishTransliteration": "sheviō(onse)",
+    "variants": [
+      {
+        "word": "sebie",
+        "copticWord": "ϣⲉⲃⲓⲉ",
+        "englishTransliteration": "shevie"
+      },
+      {
+        "word": "sebi/t=",
+        "copticWord": "ϣⲉⲃⲓⲏⲧ",
+        "englishTransliteration": "sheviit"
+      },
+      {
+        "word": "sbbiw=",
+        "copticWord": "ϣⲃⲃⲓⲱ",
+        "englishTransliteration": "shviō"
+      },
+      {
+        "word": "(Q) sebi/out",
+        "copticWord": "(Ϧ) ϣⲉⲃⲓⲏⲟⲩⲧ",
+        "englishTransliteration": "(Kh) sheviiout"
+      }
+    ],
+    "gloss": "vt. to change",
+    "definition": "seb- v. (1)swp - To shave."
+  },
+  {
+    "headword": "sbw",
+    "copticWord": "ϣⲃⲱ",
+    "englishTransliteration": "shvō",
+    "gloss": "Fable. sbw v. (2)sfw - A measure of length",
+    "definition": "Fable. sbw v. (2)sfw - A measure of length",
+    "crossReference": {
+      "target": "(1)sfw",
+      "gloss": "Fable. sbw v. (2)sfw - A measure of length"
+    }
+  },
+  {
+    "headword": "sbwbi",
+    "copticWord": "ϣⲃⲱⲃⲓ",
+    "englishTransliteration": "shvōvi",
+    "reference": "603a",
+    "partOfSpeech": "f",
+    "gloss": "Throat",
+    "definition": "Throat"
+  },
+  {
+    "headword": "sbwt",
+    "copticWord": "ϣⲃⲱⲧ",
+    "englishTransliteration": "shvōt",
+    "variants": [
+      {
+        "type": "pl.",
+        "word": "sbo]",
+        "copticWord": "ϣⲃⲟϯ",
+        "englishTransliteration": "shvoti"
+      }
+    ],
+    "reference": "554a",
+    "senses": [
+      {
+        "label": "e",
+        "gloss": "vi. To go to",
+        "definition": "vi. To go to"
+      },
+      {
+        "label": "ejen",
+        "gloss": "vi. To go on to",
+        "definition": "vi. To go on to"
+      },
+      {
+        "label": "sa",
+        "gloss": "vi. To go to",
+        "definition": "vi. To go to"
+      },
+      {
+        "label": "qa",
+        "gloss": "vi. To go beneath",
+        "definition": "vi. To go beneath"
+      },
+      {
+        "label": "qaten",
+        "gloss": "vi. To go up to",
+        "definition": "vi. To go up to"
+      },
+      {
+        "label": "ha",
+        "gloss": "vi. To go to",
+        "definition": "vi. To go to"
+      },
+      {
+        "label": "hi",
+        "gloss": "vi. To go on",
+        "definition": "vi. To go on"
+      },
+      {
+        "label": "qen",
+        "gloss": "vi. To go in",
+        "definition": "vi. To go in"
+      },
+      {
+        "label": "hiren",
+        "gloss": "vi. To go to",
+        "definition": "vi. To go to"
+      },
+      {
+        "label": "ebol",
+        "gloss": "vi. To go forth",
+        "definition": "vi. To go forth"
+      },
+      {
+        "label": "cabol n",
+        "gloss": "vi. To go forth from",
+        "definition": "vi. To go forth from"
+      },
+      {
+        "label": "epec/t",
+        "gloss": "vi. To go down, descend",
+        "definition": "vi. To go down, descend"
+      },
+      {
+        "label": "epswi",
+        "gloss": "vi. To go up, ascend",
+        "definition": "vi. To go up, ascend"
+      },
+      {
+        "label": "eqoun",
+        "gloss": "vi. To go in",
+        "definition": "vi. To go in"
+      },
+      {
+        "label": "eqr/i e",
+        "gloss": "vi. To go down to",
+        "definition": "vi. To go down to"
+      },
+      {
+        "label": "ehr/i",
+        "gloss": "vi. To go up",
+        "definition": "vi. To go up"
+      }
+    ]
+  },
+  {
+    "headword": "m. Rod",
+    "copticWord": "ⲙ. Ⲣⲟⲇ",
+    "englishTransliteration": "m. Rod",
+    "variants": [
+      {
+        "word": "staff. (1)se",
+        "copticWord": "ϣⲧⲁϥϥ. (1)ϣⲉ",
+        "englishTransliteration": "shtaff. (1)she"
+      },
+      {
+        "word": "imperat. mase",
+        "copticWord": "ⲓⲙⲡⲉⲣⲁⲧ. ⲙⲁϣⲉ",
+        "englishTransliteration": "imperat. mashe"
+      }
+    ],
+    "reference": "544b",
+    "gloss": "vi. To go",
+    "definition": "vi. To go"
+  },
+  {
+    "headword": "iri",
+    "copticWord": "ⲓⲣⲓ",
+    "englishTransliteration": "iri",
+    "variants": [
+      {
+        "word": "er sebiw",
+        "copticWord": "ⲉⲣ ϣⲉⲃⲓⲱ",
+        "englishTransliteration": "er sheviō"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To be instead, replace",
+    "definition": "To be instead, replace"
+  },
+  {
+    "headword": "]sebiw",
+    "copticWord": "ϯϣⲉⲃⲓⲱ",
+    "englishTransliteration": "tisheviō",
+    "partOfSpeech": "vb",
+    "gloss": "To give the like, requite",
+    "definition": "To give the like, requite"
+  },
+  {
+    "headword": "(2) se",
+    "copticWord": "ϣⲉ",
+    "englishTransliteration": "she",
+    "reference": "546a",
+    "partOfSpeech": "m",
+    "gloss": "Wood",
+    "definition": "Wood",
+    "senses": [
+      {
+        "label": "hamse",
+        "partOfSpeech": "m",
+        "gloss": "Carpenter",
+        "definition": "Carpenter"
+      },
+      {
+        "label": "erhamse",
+        "partOfSpeech": "vb",
+        "gloss": "To be carpenter",
+        "definition": "methamse: f. Carpenter's craft, carpentary."
+      }
+    ]
+  },
+  {
+    "headword": "se nnoh",
+    "copticWord": "ϣⲉ ⲛⲛⲟϩ",
+    "englishTransliteration": "she nnoh",
+    "partOfSpeech": "m",
+    "gloss": "A land measure (100 cubits)",
+    "definition": "A land measure (100 cubits)"
+  },
+  {
+    "headword": "[isebiw",
+    "copticWord": "ϭⲓϣⲉⲃⲓⲱ",
+    "englishTransliteration": "chisheviō",
+    "partOfSpeech": "vb",
+    "gloss": "To take requital, be repaid",
+    "definition": "To take requital, be repaid"
+  },
+  {
+    "headword": "sebie",
+    "copticWord": "ϣⲉⲃⲓⲉ",
+    "englishTransliteration": "shevie",
+    "gloss": "-To change",
+    "definition": "-To change",
+    "crossReference": {
+      "target": "sebi",
+      "gloss": "-To change"
+    }
+  },
+  {
+    "headword": "sebiw",
+    "copticWord": "ϣⲉⲃⲓⲱ",
+    "englishTransliteration": "sheviō",
+    "gloss": "- To change",
+    "definition": "- To change",
+    "crossReference": {
+      "target": "sebi",
+      "gloss": "- To change"
+    }
+  },
+  {
+    "headword": "sebi- - Change sebois",
+    "copticWord": "ϣⲉⲃⲓ- - Ⲥϩⲁⲛⲅⲉ ϣⲉⲃⲟⲓϣ",
+    "englishTransliteration": "shevi- - Shange shevoish",
+    "reference": "554b",
+    "gloss": "nn. A term of abuse with privative at-",
+    "definition": "nn. A term of abuse with privative at-"
+  },
+  {
+    "headword": "sebt",
+    "copticWord": "ϣⲉⲃⲧ",
+    "englishTransliteration": "shevt",
+    "gloss": "To change",
+    "definition": "To change",
+    "crossReference": {
+      "target": "swbt",
+      "gloss": "To change"
+    }
+  },
+  {
+    "headword": "sebseb",
+    "copticWord": "ϣⲉⲃϣⲉⲃ",
+    "englishTransliteration": "shevshev",
+    "gloss": "To sharpen",
+    "definition": "To sharpen",
+    "crossReference": {
+      "target": "sobseb",
+      "gloss": "To sharpen"
+    }
+  },
+  {
+    "headword": "sebswb(Q)",
+    "copticWord": "ϣⲉⲃϣⲱⲃ(Ϧ)",
+    "englishTransliteration": "shevshōv(Kh)",
+    "gloss": "To be sharpened",
+    "definition": "To be sharpened",
+    "crossReference": {
+      "target": "sobseb",
+      "gloss": "To be sharpened"
+    }
+  },
+  {
+    "headword": "sebswp(Q)",
+    "copticWord": "ϣⲉⲃϣⲱⲡ(Ϧ)",
+    "englishTransliteration": "shevshōp(Kh)",
+    "gloss": "To be sharpened",
+    "definition": "To be sharpened",
+    "crossReference": {
+      "target": "sobseb",
+      "gloss": "To be sharpened"
+    }
+  },
+  {
+    "headword": "sebjw",
+    "copticWord": "ϣⲉⲃϫⲱ",
+    "englishTransliteration": "shevjō",
+    "gloss": "To shave head",
+    "definition": "To shave head",
+    "crossReference": {
+      "target": "(1)swp",
+      "gloss": "To shave head"
+    }
+  },
+  {
+    "headword": "sek",
+    "copticWord": "ϣⲉⲕ",
+    "englishTransliteration": "shek",
+    "gloss": "To dig",
+    "definition": "To dig",
+    "crossReference": {
+      "target": "swk",
+      "gloss": "To dig"
+    }
+  },
+  {
+    "headword": "sekswk(Q)",
+    "copticWord": "ϣⲉⲕϣⲱⲕ(Ϧ)",
+    "englishTransliteration": "shekshōk(Kh)",
+    "gloss": "To be dug",
+    "definition": "To be dug",
+    "crossReference": {
+      "target": "(1)soksek",
+      "gloss": "To be dug"
+    }
+  },
+  {
+    "headword": "sel",
+    "copticWord": "ϣⲉⲗ",
+    "englishTransliteration": "shel",
+    "gloss": "To despoil",
+    "definition": "To despoil",
+    "crossReference": {
+      "target": "(1)swl",
+      "gloss": "To despoil"
+    }
+  },
+  {
+    "headword": "selet",
+    "copticWord": "ϣⲉⲗⲉⲧ",
+    "englishTransliteration": "shelet",
+    "reference": "560b",
+    "partOfSpeech": "f",
+    "gloss": "bride",
+    "definition": "bride"
+  },
+  {
+    "headword": "(3) se",
+    "copticWord": "ϣⲉ",
+    "englishTransliteration": "she",
+    "reference": "546b",
+    "gloss": "nn. Hundred",
+    "definition": "nn. Hundred"
+  },
+  {
+    "headword": "(4) se",
+    "copticWord": "ϣⲉ",
+    "englishTransliteration": "she",
+    "variants": [
+      {
+        "word": "sa",
+        "copticWord": "ϣⲁ",
+        "englishTransliteration": "sha"
+      }
+    ],
+    "reference": "547a",
+    "gloss": "by (in swearing)",
+    "definition": "by (in swearing)"
+  },
+  {
+    "headword": "se",
+    "copticWord": "ϣⲉ",
+    "englishTransliteration": "she",
+    "gloss": "Stroke",
+    "definition": "Stroke",
+    "crossReference": {
+      "target": "(sws)",
+      "gloss": "Stroke"
+    }
+  },
+  {
+    "headword": "[i selet",
+    "copticWord": "ϭⲓ ϣⲉⲗⲉⲧ",
+    "englishTransliteration": "chi shelet",
+    "partOfSpeech": "vb",
+    "gloss": "To take bride, marry",
+    "definition": "(rare) marriage"
+  },
+  {
+    "headword": "manselet",
+    "copticWord": "ⲙⲁⲛϣⲉⲗⲉⲧ",
+    "englishTransliteration": "manshelet",
+    "partOfSpeech": "m",
+    "gloss": "Place of marriage, bride chamber, marriage",
+    "definition": "Place of marriage, bride chamber, marriage"
+  },
+  {
+    "headword": "patselet",
+    "copticWord": "ⲡⲁⲧϣⲉⲗⲉⲧ",
+    "englishTransliteration": "patshelet",
+    "partOfSpeech": "m",
+    "gloss": "He of the bride, bridegroom",
+    "definition": "He of the bride, bridegroom"
+  },
+  {
+    "headword": "metpatselet",
+    "copticWord": "ⲙⲉⲧⲡⲁⲧϣⲉⲗⲉⲧ",
+    "englishTransliteration": "metpatshelet",
+    "partOfSpeech": "f",
+    "gloss": "Condition of marriage, nuptials",
+    "definition": "Condition of marriage, nuptials"
+  }
+]

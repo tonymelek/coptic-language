@@ -1,0 +1,557 @@
+[
+  {
+    "headword": "parimia",
+    "copticWord": "ⲡⲁⲣⲓⲙⲓⲁ",
+    "englishTransliteration": "parimia",
+    "gloss": "Proverb",
+    "definition": "Proverb",
+    "crossReference": {
+      "target": "paroimia",
+      "gloss": "Proverb"
+    }
+  },
+  {
+    "headword": "paroikia",
+    "copticWord": "ⲡⲁⲣⲟⲓⲕⲓⲁ",
+    "englishTransliteration": "paroikia",
+    "variants": [
+      {
+        "word": "parikia",
+        "copticWord": "ⲡⲁⲣⲓⲕⲓⲁ",
+        "englishTransliteration": "parikia"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Sojouring in a foreign land",
+    "definition": "Sojouring in a foreign land"
+  },
+  {
+    "headword": "paroimia",
+    "copticWord": "ⲡⲁⲣⲟⲓⲙⲓⲁ",
+    "englishTransliteration": "paroimia",
+    "variants": [
+      {
+        "word": "parimia",
+        "copticWord": "ⲡⲁⲣⲓⲙⲓⲁ",
+        "englishTransliteration": "parimia"
+      },
+      {
+        "word": "parhoimia",
+        "copticWord": "ⲡⲁⲣϩⲟⲓⲙⲓⲁ",
+        "englishTransliteration": "parhoimia"
+      }
+    ],
+    "reference": "Gk",
+    "isGreek": true,
+    "senses": [
+      {
+        "label": "f",
+        "gloss": "Proverb",
+        "definition": "figure, comparison; digres-sion."
+      }
+    ]
+  },
+  {
+    "headword": "paro'ic",
+    "copticWord": "ⲡⲁⲣⲟⲯⲓⲥ",
+    "englishTransliteration": "paropsis",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Fresh tasted (of misery)",
+    "definition": "disk on which such meals are served."
+  },
+  {
+    "headword": "parr/cia",
+    "copticWord": "ⲡⲁⲣⲣⲏⲥⲓⲁ",
+    "englishTransliteration": "parrisia",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Outspokenness, frankness, freedom of speech,",
+    "definition": "Outspokenness, frankness, freedom of speech,",
+    "senses": [
+      {
+        "label": "erparr/ciazecye",
+        "partOfSpeech": "vb",
+        "gloss": "To be frank",
+        "definition": "declare qen ouparr/cia: adv. Frankly; out-sponkenly."
+      }
+    ]
+  },
+  {
+    "headword": "pasonc",
+    "copticWord": "ⲡⲁϣⲟⲛⲥ",
+    "englishTransliteration": "pashons",
+    "reference": "279a",
+    "gloss": "Bashons, name of the 9th month of the Coptic year. pe= v. va- (1) - Belonging to. pedec v. ped/ - Shackles. ped/, ped/c, pedec: (Gk)",
+    "definition": "m. Fetter, shackles"
+  },
+  {
+    "headword": "anklet",
+    "copticWord": "ⲁⲛⲕⲗⲉⲧ",
+    "englishTransliteration": "anklet",
+    "variants": [
+      {
+        "word": "bangle. peiracmoc",
+        "copticWord": "ⲃⲁⲛⲅⲗⲉ. ⲡⲉⲓⲣⲁⲥⲙⲟⲥ",
+        "englishTransliteration": "vangle. pirasmos"
+      },
+      {
+        "word": "piracmoc",
+        "copticWord": "ⲡⲓⲣⲁⲥⲙⲟⲥ",
+        "englishTransliteration": "pirasmos"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Test, trial, temptation",
+    "definition": "Test, trial, temptation"
+  },
+  {
+    "headword": "erpirazin",
+    "copticWord": "ⲉⲣⲡⲓⲣⲁⲍⲓⲛ",
+    "englishTransliteration": "erpirazin",
+    "partOfSpeech": "vb",
+    "gloss": "To tempt, test, seduce. pelagoc: (Gk)",
+    "definition": "To tempt, test, seduce. pelagoc: (Gk)"
+  },
+  {
+    "headword": "m. High sea",
+    "copticWord": "ⲙ. Ϩⲓⲅϩ ϣⲉⲁ",
+    "englishTransliteration": "m. High shea",
+    "variants": [
+      {
+        "word": "flooded plain. pelepepen",
+        "copticWord": "ϥⲗⲟⲟⲇⲉⲇ ⲡⲗⲁⲓⲛ. ⲡⲉⲗⲉⲡⲉⲡⲉⲛ",
+        "englishTransliteration": "flooded plain. pelepepen"
+      },
+      {
+        "word": "pepwn",
+        "copticWord": "ⲡⲉⲡⲱⲛ",
+        "englishTransliteration": "pepōn"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "A kind of melon",
+    "definition": "A kind of melon"
+  },
+  {
+    "headword": "watermelon. pelma",
+    "copticWord": "ⲱⲁⲧⲉⲣⲙⲉⲗⲟⲛ. ⲡⲉⲗⲙⲁ",
+    "englishTransliteration": "ōatermelon. pelma",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "gloss": "The sole of the foot. pent/koct/ v. pent/koctoc - Penta-cost. pent/koctoc, pent/koct/: (Gk)",
+    "definition": "f. Fiftieth, the feast of the Pentacost. pepwn v. pelepepen - Watermelon. peremou v. permou - Lunatic. periodoc: (Gk); f. Cycle of period of time, periodic"
+  },
+  {
+    "headword": "orbit of a heavenly body. perickelic",
+    "copticWord": "ⲟⲣⲃⲓⲧ ⲟϥ ⲁ ϩⲉⲁⲫⲉⲛⲗⲑ ⲃⲟⲇⲑ. ⲡⲉⲣⲓⲥⲕⲉⲗⲓⲥ",
+    "englishTransliteration": "orvit of a heafenlth vodth. periskelis",
+    "reference": "Gk",
+    "isGreek": true
+  },
+  {
+    "headword": "f. Leg band i.e. anklet",
+    "copticWord": "ϥ. Ⲗⲉⲅ ⲃⲁⲛⲇ ⲓ.ⲉ. ⲁⲛⲕⲗⲉⲧ",
+    "englishTransliteration": "f. Leg vand i.e. anklet",
+    "variants": [
+      {
+        "word": "bangle. permou",
+        "copticWord": "ⲃⲁⲛⲅⲗⲉ. ⲡⲉⲣⲙⲟⲩ",
+        "englishTransliteration": "vangle. permou"
+      },
+      {
+        "word": "peremou",
+        "copticWord": "ⲡⲉⲣⲉⲙⲟⲩ",
+        "englishTransliteration": "peremou"
+      }
+    ],
+    "reference": "269a",
+    "partOfSpeech": "n",
+    "gloss": "Lunatic",
+    "definition": "Lunatic"
+  },
+  {
+    "headword": "oi mpermou",
+    "copticWord": "ⲟⲓ ⲙⲡⲉⲣⲙⲟⲩ",
+    "englishTransliteration": "oi mpermou",
+    "partOfSpeech": "vb",
+    "gloss": "To be lunatic. perc/c: (Gk)",
+    "definition": "To be lunatic. perc/c: (Gk)"
+  },
+  {
+    "headword": "m. Persia",
+    "copticWord": "ⲙ. Ⲡⲉⲣϣⲓⲁ",
+    "englishTransliteration": "m. Pershia",
+    "variants": [
+      {
+        "word": "Iran. petaleion",
+        "copticWord": "Ⲓⲣⲁⲛ. ⲡⲉⲧⲁⲗⲉⲓⲟⲛ",
+        "englishTransliteration": "Iran. petalion"
+      },
+      {
+        "word": "petalon",
+        "copticWord": "ⲡⲉⲧⲁⲗⲟⲛ",
+        "englishTransliteration": "petalon"
+      },
+      {
+        "word": "petalion",
+        "copticWord": "ⲡⲉⲧⲁⲗⲓⲟⲛ",
+        "englishTransliteration": "petalion"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Leaf",
+    "definition": "Leaf"
+  },
+  {
+    "headword": "crown of leaves. pawpi",
+    "copticWord": "ⲥⲣⲟⲱⲛ ⲟϥ ⲗⲉⲁⲫⲉϣ. ⲡⲁⲱⲡⲓ",
+    "englishTransliteration": "sroōn of leafesh. paōpi",
+    "variants": [
+      {
+        "word": "paopi",
+        "copticWord": "ⲡⲁⲟⲡⲓ",
+        "englishTransliteration": "paopi"
+      },
+      {
+        "word": "paop/",
+        "copticWord": "ⲡⲁⲟⲡⲏ",
+        "englishTransliteration": "paopi"
+      }
+    ],
+    "reference": "266b",
+    "gloss": "Babeh, name of the 2nd month of the Coptic year",
+    "definition": "Babeh, name of the 2nd month of the Coptic year"
+  },
+  {
+    "headword": "parhoimia",
+    "copticWord": "ⲡⲁⲣϩⲟⲓⲙⲓⲁ",
+    "englishTransliteration": "parhoimia",
+    "gloss": "Proverb",
+    "definition": "Proverb",
+    "crossReference": {
+      "target": "paroimia",
+      "gloss": "Proverb"
+    }
+  },
+  {
+    "headword": "pater",
+    "copticWord": "ⲡⲁⲧⲉⲣ",
+    "englishTransliteration": "pater",
+    "gloss": "Father",
+    "definition": "Father",
+    "crossReference": {
+      "target": "pat/r",
+      "gloss": "Father"
+    }
+  },
+  {
+    "headword": "paterec",
+    "copticWord": "ⲡⲁⲧⲉⲣⲉⲥ",
+    "englishTransliteration": "pateres",
+    "gloss": "Father",
+    "definition": "Father",
+    "crossReference": {
+      "target": "pat/r",
+      "gloss": "Father"
+    }
+  },
+  {
+    "headword": "pateroc",
+    "copticWord": "ⲡⲁⲧⲉⲣⲟⲥ",
+    "englishTransliteration": "pateros",
+    "gloss": "Father",
+    "definition": "Father",
+    "crossReference": {
+      "target": "pat/r",
+      "gloss": "Father"
+    }
+  },
+  {
+    "headword": "pat/r",
+    "copticWord": "ⲡⲁⲧⲏⲣ",
+    "englishTransliteration": "patir",
+    "variants": [
+      {
+        "word": "patroc",
+        "copticWord": "ⲡⲁⲧⲣⲟⲥ",
+        "englishTransliteration": "patros"
+      },
+      {
+        "word": "patri",
+        "copticWord": "ⲡⲁⲧⲣⲓ",
+        "englishTransliteration": "patri"
+      },
+      {
+        "word": "pateroc",
+        "copticWord": "ⲡⲁⲧⲉⲣⲟⲥ",
+        "englishTransliteration": "pateros"
+      },
+      {
+        "word": "pater",
+        "copticWord": "ⲡⲁⲧⲉⲣ",
+        "englishTransliteration": "pater"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Father",
+    "definition": "Father"
+  },
+  {
+    "headword": "partalic",
+    "copticWord": "ⲡⲁⲣⲧⲁⲗⲓⲥ",
+    "englishTransliteration": "partalis",
+    "gloss": "Leopard. patri v. pat/r - Father",
+    "definition": "Leopard. patri v. pat/r - Father",
+    "crossReference": {
+      "target": "pardalic",
+      "gloss": "Leopard. patri v. pat/r - Father"
+    }
+  },
+  {
+    "headword": "patriar",
+    "copticWord": "ⲡⲁⲧⲣⲓⲁⲣ",
+    "englishTransliteration": "patriar",
+    "variants": [
+      {
+        "word": "/c",
+        "copticWord": "ⲏⲥ",
+        "englishTransliteration": "is"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Father or chief of a race, patriarch",
+    "definition": "Father or chief of a race, patriarch"
+  },
+  {
+    "headword": "title of the bishops of Alexandria. patriar",
+    "copticWord": "ⲧⲓⲧⲗⲉ ⲟϥ ⲧϩⲉ ⲃⲓϣϩⲟⲡϣ ⲟϥ Ⲁⲗⲉⲝⲁⲛⲇⲣⲓⲁ. ⲡⲁⲧⲣⲓⲁⲣ",
+    "englishTransliteration": "title of the vishhopsh of Aleksandria. patriar",
+    "variants": [
+      {
+        "word": "ikoc",
+        "copticWord": "ⲓⲕⲟⲥ",
+        "englishTransliteration": "ikos"
+      }
+    ],
+    "partOfSpeech": "adj",
+    "gloss": "Belonging to the patriarch, patriarchal",
+    "definition": "Belonging to the patriarch, patriarchal"
+  },
+  {
+    "headword": "petalion",
+    "copticWord": "ⲡⲉⲧⲁⲗⲓⲟⲛ",
+    "englishTransliteration": "petalion",
+    "gloss": "Leaf",
+    "definition": "Leaf",
+    "crossReference": {
+      "target": "petaleion",
+      "gloss": "Leaf"
+    }
+  },
+  {
+    "headword": "patriar,ikoc",
+    "copticWord": "ⲡⲁⲧⲣⲓⲁⲣⲭⲓⲕⲟⲥ",
+    "englishTransliteration": "patriarkhikos",
+    "gloss": "Patriar-chal",
+    "definition": "Patriar-chal",
+    "crossReference": {
+      "target": "patriar,/c",
+      "gloss": "Patriar-chal"
+    }
+  },
+  {
+    "headword": "patric",
+    "copticWord": "ⲡⲁⲧⲣⲓⲥ",
+    "englishTransliteration": "patris",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Fatherland, country. hometown, native land",
+    "definition": "Fatherland, country. hometown, native land"
+  },
+  {
+    "headword": "petalon",
+    "copticWord": "ⲡⲉⲧⲁⲗⲟⲛ",
+    "englishTransliteration": "petalon",
+    "gloss": "Leaf",
+    "definition": "Leaf",
+    "crossReference": {
+      "target": "petaleion",
+      "gloss": "Leaf"
+    }
+  },
+  {
+    "headword": "petepet",
+    "copticWord": "ⲡⲉⲧⲉⲡⲉⲧ",
+    "englishTransliteration": "petepet",
+    "gloss": "Hoopoe",
+    "definition": "Hoopoe",
+    "crossReference": {
+      "target": "petep/p",
+      "gloss": "Hoopoe"
+    }
+  },
+  {
+    "headword": "petep/p",
+    "copticWord": "ⲡⲉⲧⲉⲡⲏⲡ",
+    "englishTransliteration": "petepip",
+    "variants": [
+      {
+        "word": "petepet",
+        "copticWord": "ⲡⲉⲧⲉⲡⲉⲧ",
+        "englishTransliteration": "petepet"
+      }
+    ],
+    "reference": "276a",
+    "gloss": "pl. Hoopoe",
+    "definition": "pl. Hoopoe"
+  },
+  {
+    "headword": "petra",
+    "copticWord": "ⲡⲉⲧⲣⲁ",
+    "englishTransliteration": "petra",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Rock, boulder",
+    "definition": "stone."
+  },
+  {
+    "headword": "peja=",
+    "copticWord": "ⲡⲉϫⲁ",
+    "englishTransliteration": "pega",
+    "gloss": "Said",
+    "definition": "Said",
+    "crossReference": {
+      "target": "peje",
+      "gloss": "Said"
+    }
+  },
+  {
+    "headword": "patroc",
+    "copticWord": "ⲡⲁⲧⲣⲟⲥ",
+    "englishTransliteration": "patros",
+    "gloss": "Father",
+    "definition": "Father",
+    "crossReference": {
+      "target": "pat/r",
+      "gloss": "Father"
+    }
+  },
+  {
+    "headword": "patselet",
+    "copticWord": "ⲡⲁⲧϣⲉⲗⲉⲧ",
+    "englishTransliteration": "patshelet",
+    "gloss": "Bridegroom",
+    "definition": "Bridegroom",
+    "crossReference": {
+      "target": "selet",
+      "gloss": "Bridegroom"
+    }
+  },
+  {
+    "headword": "pa",
+    "copticWord": "ⲡⲁ",
+    "englishTransliteration": "pa",
+    "variants": [
+      {
+        "word": "n/",
+        "copticWord": "ⲛⲏ",
+        "englishTransliteration": "ni"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Hoar-frost, rime (frozen rain), ice",
+    "definition": "Hoar-frost, rime (frozen rain), ice"
+  },
+  {
+    "headword": "pawni",
+    "copticWord": "ⲡⲁⲱⲛⲓ",
+    "englishTransliteration": "paōni",
+    "reference": "236b",
+    "gloss": "Paoni, Baunah, name of the 10th month of the Coptic year",
+    "definition": "Paoni, Baunah, name of the 10th month of the Coptic year"
+  },
+  {
+    "headword": "peje",
+    "copticWord": "ⲡⲉϫⲉ",
+    "englishTransliteration": "peje",
+    "variants": [
+      {
+        "word": "peja=",
+        "copticWord": "ⲡⲉϫⲁ",
+        "englishTransliteration": "pega"
+      }
+    ],
+    "reference": "285a",
+    "partOfSpeech": "vb",
+    "gloss": "Said",
+    "definition": "Said"
+  },
+  {
+    "headword": "p/ra",
+    "copticWord": "ⲡⲏⲣⲁ",
+    "englishTransliteration": "pira",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Leathern pouch",
+    "definition": "wallet"
+  },
+  {
+    "headword": "p/ri",
+    "copticWord": "ⲡⲏⲣⲓ",
+    "englishTransliteration": "piri",
+    "reference": "267a",
+    "partOfSpeech": "m",
+    "gloss": "Quail",
+    "definition": "Quail"
+  },
+  {
+    "headword": "meciw] mp/ri",
+    "copticWord": "ⲙⲉⲥⲓⲱϯ ⲙⲡⲏⲣⲓ",
+    "englishTransliteration": "mesiōti mpiri",
+    "partOfSpeech": "f",
+    "gloss": "Flock, brood of quails",
+    "definition": "Flock, brood of quails"
+  },
+  {
+    "headword": "pi",
+    "copticWord": "ⲡⲓ",
+    "englishTransliteration": "pi",
+    "gloss": "- The",
+    "definition": "- The",
+    "crossReference": {
+      "target": "p",
+      "gloss": "- The"
+    }
+  },
+  {
+    "headword": "pikiltoc",
+    "copticWord": "ⲡⲓⲕⲓⲗⲧⲟⲥ",
+    "englishTransliteration": "pikiltos",
+    "gloss": "Broidered",
+    "definition": "Broidered",
+    "crossReference": {
+      "target": "poikiltoc",
+      "gloss": "Broidered"
+    }
+  }
+]

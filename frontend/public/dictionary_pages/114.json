@@ -1,0 +1,177 @@
+[
+  {
+    "headword": "themko",
+    "copticWord": "ⲧϩⲉⲙⲕⲟ",
+    "englishTransliteration": "themko",
+    "variants": [
+      {
+        "word": "themko=",
+        "copticWord": "ⲧϩⲉⲙⲕⲟ",
+        "englishTransliteration": "themko"
+      },
+      {
+        "word": "themk/out",
+        "note": "Q",
+        "copticWord": "ⲧϩⲉⲙⲕⲏⲟⲩⲧ",
+        "englishTransliteration": "themkiout"
+      }
+    ],
+    "reference": "459b",
+    "gloss": "vt. To ill-use, afflict, humuliate",
+    "definition": "---: m. Ill-treatment, affliction"
+  },
+  {
+    "headword": "refthemko",
+    "copticWord": "ⲣⲉϥⲧϩⲉⲙⲕⲟ",
+    "englishTransliteration": "refthemko",
+    "partOfSpeech": "m",
+    "gloss": "Punisher",
+    "definition": "Punisher"
+  },
+  {
+    "headword": "themko=",
+    "copticWord": "ⲧϩⲉⲙⲕⲟ",
+    "englishTransliteration": "themko",
+    "gloss": "To humiliate",
+    "definition": "To humiliate",
+    "crossReference": {
+      "target": "themko",
+      "gloss": "To humiliate"
+    }
+  },
+  {
+    "headword": "themmo",
+    "copticWord": "ⲧϩⲉⲙⲙⲟ",
+    "englishTransliteration": "themmo",
+    "gloss": "To kindle",
+    "definition": "To kindle",
+    "crossReference": {
+      "target": "temhe",
+      "gloss": "To kindle"
+    }
+  },
+  {
+    "headword": "themce",
+    "copticWord": "ⲧϩⲉⲙⲥⲉ",
+    "englishTransliteration": "themse",
+    "gloss": "To seat",
+    "definition": "To seat",
+    "crossReference": {
+      "target": "themco",
+      "gloss": "To seat"
+    }
+  },
+  {
+    "headword": "--- hi",
+    "copticWord": "--- ϩⲓ",
+    "englishTransliteration": "--- hi",
+    "gloss": "vt. To seat at, on",
+    "definition": "--- qen-: vt. To seat in; --- hijen-: vt. To seat upon; themco= v. themco - To seat"
+  },
+  {
+    "headword": "thmo",
+    "copticWord": "ⲧϩⲙⲟ",
+    "englishTransliteration": "thmo",
+    "gloss": "To warm",
+    "definition": "To warm",
+    "crossReference": {
+      "target": "tqmo",
+      "gloss": "To warm"
+    }
+  },
+  {
+    "headword": "tho",
+    "copticWord": "ⲧϩⲟ",
+    "englishTransliteration": "tho",
+    "variants": [
+      {
+        "word": "yoh",
+        "copticWord": "ⲑⲟϩ",
+        "englishTransliteration": "thoh"
+      }
+    ],
+    "reference": "457a",
+    "gloss": "vi. To make or be bad",
+    "definition": "--- e-: vi. To be worse than; ---: m. badness."
+  },
+  {
+    "headword": "themco",
+    "copticWord": "ⲧϩⲉⲙⲥⲟ",
+    "englishTransliteration": "themso",
+    "variants": [
+      {
+        "word": "themce",
+        "copticWord": "ⲧϩⲉⲙⲥⲉ",
+        "englishTransliteration": "themse"
+      },
+      {
+        "word": "themco=",
+        "copticWord": "ⲧϩⲉⲙⲥⲟ",
+        "englishTransliteration": "themso"
+      },
+      {
+        "word": "them-c/out",
+        "note": "Q",
+        "copticWord": "ⲧϩⲉⲙ-ⲥⲏⲟⲩⲧ",
+        "englishTransliteration": "them-siout"
+      }
+    ],
+    "reference": "460a",
+    "gloss": "vt. To make to sit, seat",
+    "definition": "--- e-: vt. To set in place; --- ejen-: vt. To seat upon;"
+  },
+  {
+    "headword": "thve",
+    "copticWord": "ⲧϩⲫⲉ",
+    "englishTransliteration": "thfe",
+    "gloss": "To beget",
+    "definition": "To beget",
+    "crossReference": {
+      "target": "jvo",
+      "gloss": "To beget"
+    }
+  },
+  {
+    "headword": "thvo",
+    "copticWord": "ⲧϩⲫⲟ",
+    "englishTransliteration": "thfo",
+    "variants": [
+      {
+        "word": "tvo",
+        "copticWord": "ⲧⲫⲟ",
+        "englishTransliteration": "tfo"
+      },
+      {
+        "word": "tve",
+        "copticWord": "ⲧⲫⲉ",
+        "englishTransliteration": "tfe"
+      },
+      {
+        "word": "tvo=",
+        "copticWord": "ⲧⲫⲟ",
+        "englishTransliteration": "tfo"
+      }
+    ],
+    "reference": "461a",
+    "gloss": "vt. To cause to reach, bring back, accompany",
+    "definition": "--- e-: vt. To lead forth."
+  },
+  {
+    "headword": "t[o",
+    "copticWord": "ⲧϭⲟ",
+    "englishTransliteration": "tcho",
+    "gloss": "To plant",
+    "definition": "To plant",
+    "crossReference": {
+      "target": "[o",
+      "gloss": "To plant"
+    }
+  },
+  {
+    "headword": "--- nem",
+    "copticWord": "--- ⲛⲉⲙ",
+    "englishTransliteration": "--- nem",
+    "gloss": "vt. To seat with",
+    "definition": "vt. To seat with"
+  }
+]

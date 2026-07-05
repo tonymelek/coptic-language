@@ -1,0 +1,121 @@
+[
+  {
+    "headword": "atbwtc",
+    "copticWord": "ⲁⲧⲃⲱⲧⲥ",
+    "englishTransliteration": "atvōts",
+    "partOfSpeech": "adj",
+    "gloss": "Impugnable",
+    "definition": "Impugnable"
+  },
+  {
+    "headword": "refbwtc",
+    "copticWord": "ⲣⲉϥⲃⲱⲧⲥ",
+    "englishTransliteration": "refvōts",
+    "partOfSpeech": "m",
+    "gloss": "Warrior",
+    "definition": "Warrior"
+  },
+  {
+    "headword": "erbwtc",
+    "copticWord": "ⲉⲣⲃⲱⲧⲥ",
+    "englishTransliteration": "ervōts",
+    "gloss": "vb Array against, make war with",
+    "definition": "vb Array against, make war with"
+  },
+  {
+    "headword": "betc",
+    "copticWord": "ⲃⲉⲧⲥ",
+    "englishTransliteration": "vets",
+    "partOfSpeech": "n",
+    "gloss": "War",
+    "definition": "War"
+  },
+  {
+    "headword": "besswi",
+    "copticWord": "ⲃⲉϣϣⲱⲓ",
+    "englishTransliteration": "veshshōi",
+    "gloss": "pl. lit. Secret parts uncovered",
+    "definition": "--- ebol: vi. To be naked, revealed; vt. to uncover, lay bare, divest of; m. nakedness"
+  },
+  {
+    "headword": "jinbws ebol",
+    "copticWord": "ϫⲓⲛⲃⲱϣ ⲉⲃⲟⲗ",
+    "englishTransliteration": "jinvōsh evol",
+    "partOfSpeech": "m",
+    "gloss": "Laying bare, display. bwhem v. ouwhem - To answer. bws, bas-, bas=, b/s (Q): (47b)",
+    "definition": "vi. To be loosened, undone; (Q) to be naked; vt. to strip, divest, lay bare, unsheath, despoil, release, give leave; ---: m. Nakedness"
+  },
+  {
+    "headword": "refb/s",
+    "copticWord": "ⲣⲉϥⲃⲏϣ",
+    "englishTransliteration": "refvish",
+    "partOfSpeech": "m",
+    "gloss": "Naked person",
+    "definition": "Naked person"
+  },
+  {
+    "headword": "b/tc/",
+    "copticWord": "ⲃⲏⲧⲥⲏ",
+    "englishTransliteration": "vitsi",
+    "partOfSpeech": "f",
+    "gloss": "Female warrior",
+    "definition": "Female warrior"
+  },
+  {
+    "headword": "(bwhn)",
+    "copticWord": "(ⲃⲱϩⲛ)",
+    "englishTransliteration": "(vōhn)",
+    "variants": [
+      {
+        "word": "ouwhn",
+        "copticWord": "ⲟⲩⲱϩⲛ",
+        "englishTransliteration": "ouōhn"
+      }
+    ],
+    "reference": "48a",
+    "gloss": "vt. To cover (with roof)",
+    "definition": "vt. To cover (with roof)"
+  },
+  {
+    "headword": "bwwh",
+    "copticWord": "ⲃⲱⲱϩ",
+    "englishTransliteration": "vōōh",
+    "variants": [
+      {
+        "word": "boh",
+        "copticWord": "ⲃⲟϩ",
+        "englishTransliteration": "voh"
+      }
+    ],
+    "reference": "47b",
+    "gloss": "A name of an idol at Alexandria",
+    "definition": "A name of an idol at Alexandria"
+  },
+  {
+    "headword": "bwj",
+    "copticWord": "ⲃⲱϫ",
+    "englishTransliteration": "vōj",
+    "gloss": "To cut",
+    "definition": "To cut",
+    "crossReference": {
+      "target": "ouwj",
+      "gloss": "To cut"
+    }
+  },
+  {
+    "headword": "bw]",
+    "copticWord": "ⲃⲱϯ",
+    "englishTransliteration": "vōti",
+    "variants": [
+      {
+        "word": "bo]",
+        "copticWord": "ⲃⲟϯ",
+        "englishTransliteration": "voti"
+      }
+    ],
+    "reference": "45b",
+    "partOfSpeech": "m",
+    "gloss": "Durah (a cereal), millet",
+    "definition": "Durah (a cereal), millet"
+  }
+]

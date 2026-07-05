@@ -1,0 +1,593 @@
+[
+  {
+    "headword": "basous",
+    "copticWord": "ⲃⲁϣⲟⲩϣ",
+    "englishTransliteration": "vashoush",
+    "reference": "47b",
+    "partOfSpeech": "m",
+    "gloss": "The plant 'rue'",
+    "definition": "The plant 'rue'"
+  },
+  {
+    "headword": "bah",
+    "copticWord": "ⲃⲁϩ",
+    "englishTransliteration": "vah",
+    "gloss": "Oasis",
+    "definition": "Oasis",
+    "crossReference": {
+      "target": "ouah",
+      "gloss": "Oasis"
+    }
+  },
+  {
+    "headword": "lau nbeni",
+    "copticWord": "ⲗⲁⲩ ⲛⲃⲉⲛⲓ",
+    "englishTransliteration": "lav nveni",
+    "partOfSpeech": "n",
+    "gloss": "Cluster of dates",
+    "definition": "Cluster of dates"
+  },
+  {
+    "headword": "cerbeni",
+    "copticWord": "ⲥⲉⲣⲃⲉⲛⲓ",
+    "englishTransliteration": "serveni",
+    "partOfSpeech": "n",
+    "gloss": "Palm-thorn",
+    "definition": "Palm-thorn"
+  },
+  {
+    "headword": "senbeni",
+    "copticWord": "ϣⲉⲛⲃⲉⲛⲓ",
+    "englishTransliteration": "shenveni",
+    "variants": [
+      {
+        "word": "sebeni",
+        "copticWord": "ϣⲉⲃⲉⲛⲓ",
+        "englishTransliteration": "sheveni"
+      }
+    ],
+    "partOfSpeech": "n",
+    "gloss": "Palm fiber",
+    "definition": "Palm fiber"
+  },
+  {
+    "headword": "benipi",
+    "copticWord": "ⲃⲉⲛⲓⲡⲓ",
+    "englishTransliteration": "venipi",
+    "reference": "41a",
+    "partOfSpeech": "m",
+    "gloss": "iron",
+    "definition": "iron",
+    "senses": [
+      {
+        "label": "a",
+        "gloss": "as metal",
+        "definition": "as metal"
+      },
+      {
+        "label": "b",
+        "gloss": "as chains, fetters, sword",
+        "definition": "as chains, fetters, sword"
+      },
+      {
+        "label": "c",
+        "partOfSpeech": "adj"
+      },
+      {
+        "label": "]benipi",
+        "partOfSpeech": "vb",
+        "gloss": "To put iron upon",
+        "definition": "To put iron upon"
+      }
+    ]
+  },
+  {
+    "headword": "bahmi",
+    "copticWord": "ⲃⲁϩⲙⲓ",
+    "englishTransliteration": "vahmi",
+    "gloss": "To answer",
+    "definition": "To answer",
+    "crossReference": {
+      "target": "ouwhem",
+      "gloss": "To answer"
+    }
+  },
+  {
+    "headword": "bahci",
+    "copticWord": "ⲃⲁϩⲥⲓ",
+    "englishTransliteration": "vahsi",
+    "reference": "48a",
+    "partOfSpeech": "f",
+    "gloss": "Heifer",
+    "definition": "Heifer"
+  },
+  {
+    "headword": "baji",
+    "copticWord": "ⲃⲁϫⲓ",
+    "englishTransliteration": "vaji",
+    "reference": "512b",
+    "partOfSpeech": "n",
+    "gloss": "Blow",
+    "definition": "Blow"
+  },
+  {
+    "headword": "baj/ini",
+    "copticWord": "ⲃⲁϫⲏⲓⲛⲓ",
+    "englishTransliteration": "vajiini",
+    "gloss": "Glass",
+    "definition": "Glass",
+    "crossReference": {
+      "target": "abaj/ini",
+      "gloss": "Glass"
+    }
+  },
+  {
+    "headword": "baj/ni",
+    "copticWord": "ⲃⲁϫⲏⲛⲓ",
+    "englishTransliteration": "vajini",
+    "gloss": "Glass",
+    "definition": "Glass",
+    "crossReference": {
+      "target": "abaj/ini",
+      "gloss": "Glass"
+    }
+  },
+  {
+    "headword": "bajini",
+    "copticWord": "ⲃⲁϫⲓⲛⲓ",
+    "englishTransliteration": "vajini",
+    "gloss": "Glass",
+    "definition": "Glass",
+    "crossReference": {
+      "target": "abaj/ini",
+      "gloss": "Glass"
+    }
+  },
+  {
+    "headword": "benn/",
+    "copticWord": "ⲃⲉⲛⲛⲏ",
+    "englishTransliteration": "venni",
+    "reference": "266a",
+    "partOfSpeech": "f",
+    "gloss": "Door-post, threshold, step",
+    "definition": "Door-post, threshold, step"
+  },
+  {
+    "headword": "benji",
+    "copticWord": "ⲃⲉⲛϫⲓ",
+    "englishTransliteration": "venji",
+    "reference": "41b",
+    "partOfSpeech": "f",
+    "gloss": "elephant's trunk",
+    "definition": "elephant's trunk"
+  },
+  {
+    "headword": "bajrwou",
+    "copticWord": "ⲃⲁϫⲣⲱⲟⲩ",
+    "englishTransliteration": "vajrōou",
+    "gloss": "Door-post",
+    "definition": "Door-post",
+    "crossReference": {
+      "target": "ouejrwou v. ouoji",
+      "gloss": "Door-post"
+    }
+  },
+  {
+    "headword": "berber",
+    "copticWord": "ⲃⲉⲣⲃⲉⲣ",
+    "englishTransliteration": "verver",
+    "reference": "42b",
+    "gloss": "vi. Boil",
+    "definition": "vi. Boil",
+    "senses": [
+      {
+        "label": "ebol",
+        "gloss": "vi. To cause to boil, pour forth",
+        "definition": "vi. To cause to boil, pour forth"
+      },
+      {
+        "label": "epswi",
+        "gloss": "vi. To boil up, over",
+        "definition": "---: m. Boiling heat."
+      }
+    ]
+  },
+  {
+    "headword": "bebi",
+    "copticWord": "ⲃⲉⲃⲓ",
+    "englishTransliteration": "vevi",
+    "reference": "28b",
+    "gloss": "vi. To bubble, to well up (of a spring)",
+    "definition": "vt. to pour forth. bring forth, rain down"
+  },
+  {
+    "headword": "refbebi",
+    "copticWord": "ⲣⲉϥⲃⲉⲃⲓ",
+    "englishTransliteration": "refvevi",
+    "partOfSpeech": "m",
+    "gloss": "Bringer forth",
+    "definition": "Bringer forth"
+  },
+  {
+    "headword": "metrefbebi",
+    "copticWord": "ⲙⲉⲧⲣⲉϥⲃⲉⲃⲓ",
+    "englishTransliteration": "metrefvevi",
+    "partOfSpeech": "f",
+    "gloss": "Outpouring",
+    "definition": "Outpouring"
+  },
+  {
+    "headword": "jinbebi",
+    "copticWord": "ϫⲓⲛⲃⲉⲃⲓ",
+    "englishTransliteration": "jinvevi",
+    "partOfSpeech": "m",
+    "gloss": "Pronouncing (of a name)",
+    "definition": "Pronouncing (of a name)"
+  },
+  {
+    "headword": "berbwr=",
+    "copticWord": "ⲃⲉⲣⲃⲱⲣ",
+    "englishTransliteration": "vervōr",
+    "gloss": "To push",
+    "definition": "To push",
+    "crossReference": {
+      "target": "borber",
+      "gloss": "To push"
+    }
+  },
+  {
+    "headword": "beelzeboul",
+    "copticWord": "ⲃⲉⲉⲗⲍⲉⲃⲟⲩⲗ",
+    "englishTransliteration": "veelzevoul",
+    "gloss": "King of demons",
+    "definition": "King of demons",
+    "crossReference": {
+      "target": "belzeboul",
+      "gloss": "King of demons"
+    }
+  },
+  {
+    "headword": "bel",
+    "copticWord": "ⲃⲉⲗ",
+    "englishTransliteration": "vel",
+    "gloss": "To loosen",
+    "definition": "To loosen",
+    "crossReference": {
+      "target": "bwl",
+      "gloss": "To loosen"
+    }
+  },
+  {
+    "headword": "bere[woutc",
+    "copticWord": "ⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ",
+    "englishTransliteration": "verechōouts",
+    "reference": "44b",
+    "partOfSpeech": "f",
+    "gloss": "Chariot.",
+    "definition": "modern 'car'."
+  },
+  {
+    "headword": "belzeboub",
+    "copticWord": "ⲃⲉⲗⲍⲉⲃⲟⲩⲃ",
+    "englishTransliteration": "velzevouv",
+    "gloss": "King of demons",
+    "definition": "King of demons",
+    "crossReference": {
+      "target": "belzeboul",
+      "gloss": "King of demons"
+    }
+  },
+  {
+    "headword": "beri",
+    "copticWord": "ⲃⲉⲣⲓ",
+    "englishTransliteration": "veri",
+    "reference": "43a",
+    "partOfSpeech": "adj",
+    "gloss": "new, young",
+    "definition": "n. new thing, young person;",
+    "senses": [
+      {
+        "label": "metberi",
+        "partOfSpeech": "f",
+        "gloss": "Newness, youth",
+        "definition": "mberi: adv. Newly, recently;"
+      }
+    ]
+  },
+  {
+    "headword": "iri nberi",
+    "copticWord": "ⲓⲣⲓ ⲛⲃⲉⲣⲓ",
+    "englishTransliteration": "iri nveri",
+    "gloss": "vt. To make new, renew",
+    "definition": "vt. To make new, renew"
+  },
+  {
+    "headword": "erberi",
+    "copticWord": "ⲉⲣⲃⲉⲣⲓ",
+    "englishTransliteration": "erveri",
+    "gloss": "v. To become new",
+    "definition": "v. To become new"
+  },
+  {
+    "headword": "berci",
+    "copticWord": "ⲃⲉⲣⲥⲓ",
+    "englishTransliteration": "versi",
+    "reference": "43a"
+  },
+  {
+    "headword": "m. Orach (atriplex). berci]",
+    "copticWord": "ⲙ. Ⲟⲣⲁⲥϩ (ⲁⲧⲣⲓⲡⲗⲉⲝ). ⲃⲉⲣⲥⲓϯ",
+    "englishTransliteration": "m. Orash (atripleks). versiti",
+    "reference": "43b",
+    "partOfSpeech": "m",
+    "gloss": "Basket, bread basket",
+    "definition": "Basket, bread basket"
+  },
+  {
+    "headword": "bert",
+    "copticWord": "ⲃⲉⲣⲧ",
+    "englishTransliteration": "vert",
+    "gloss": "Rose",
+    "definition": "Rose",
+    "crossReference": {
+      "target": "ouert",
+      "gloss": "Rose"
+    }
+  },
+  {
+    "headword": "bers/ou",
+    "copticWord": "ⲃⲉⲣϣⲏⲟⲩ",
+    "englishTransliteration": "vershiou",
+    "reference": "44a",
+    "partOfSpeech": "m",
+    "gloss": "Coriander seed",
+    "definition": "Coriander seed"
+  },
+  {
+    "headword": "berso",
+    "copticWord": "ⲃⲉⲣϣⲟ",
+    "englishTransliteration": "versho",
+    "reference": "44a",
+    "partOfSpeech": "m",
+    "gloss": "Sinner, malfactor, wretched, bad one",
+    "definition": "Sinner, malfactor, wretched, bad one"
+  },
+  {
+    "headword": "becywn",
+    "copticWord": "ⲃⲉⲥⲑⲱⲛ",
+    "englishTransliteration": "vesthōn",
+    "gloss": "To broaden",
+    "definition": "To broaden",
+    "crossReference": {
+      "target": "ouocyen",
+      "gloss": "To broaden"
+    }
+  },
+  {
+    "headword": "becnate",
+    "copticWord": "ⲃⲉⲥⲛⲁⲧⲉ",
+    "englishTransliteration": "vesnate",
+    "gloss": "Smith",
+    "definition": "Smith",
+    "crossReference": {
+      "target": "becn/t",
+      "gloss": "Smith"
+    }
+  },
+  {
+    "headword": "becn/t",
+    "copticWord": "ⲃⲉⲥⲛⲏⲧ",
+    "englishTransliteration": "vesnit",
+    "variants": [
+      {
+        "word": "bacn/t",
+        "copticWord": "ⲃⲁⲥⲛⲏⲧ",
+        "englishTransliteration": "vasnit"
+      },
+      {
+        "type": "pl.",
+        "word": "becbate",
+        "copticWord": "ⲃⲉⲥⲃⲁⲧⲉ",
+        "englishTransliteration": "vesvate"
+      }
+    ],
+    "reference": "44b",
+    "partOfSpeech": "m",
+    "gloss": "Smith",
+    "definition": "Smith"
+  },
+  {
+    "headword": "bet",
+    "copticWord": "ⲃⲉⲧ",
+    "englishTransliteration": "vet",
+    "gloss": "Pollute",
+    "definition": "Pollute",
+    "crossReference": {
+      "target": "bo]",
+      "gloss": "Pollute"
+    }
+  },
+  {
+    "headword": "betbet",
+    "copticWord": "ⲃⲉⲧⲃⲉⲧ",
+    "englishTransliteration": "vetvet",
+    "reference": "46a",
+    "partOfSpeech": "f",
+    "gloss": "A vegetable, common pea",
+    "definition": "A vegetable, common pea"
+  },
+  {
+    "headword": "betc",
+    "copticWord": "ⲃⲉⲧⲥ",
+    "englishTransliteration": "vets",
+    "gloss": "War",
+    "definition": "War",
+    "crossReference": {
+      "target": "bwtc",
+      "gloss": "War"
+    }
+  },
+  {
+    "headword": "belzeboul",
+    "copticWord": "ⲃⲉⲗⲍⲉⲃⲟⲩⲗ",
+    "englishTransliteration": "velzevoul",
+    "variants": [
+      {
+        "word": "-boub",
+        "copticWord": "-ⲃⲟⲩⲃ",
+        "englishTransliteration": "-vouv"
+      },
+      {
+        "word": "beelzeboul",
+        "copticWord": "ⲃⲉⲉⲗⲍⲉⲃⲟⲩⲗ",
+        "englishTransliteration": "veelzevoul"
+      }
+    ],
+    "gloss": "(Heb)",
+    "definition": "m. Beelzebul, king of demons, lord of dung; orig. the Philistine god worshipped at Ekron"
+  },
+  {
+    "headword": "belywn",
+    "copticWord": "ⲃⲉⲗⲑⲱⲛ",
+    "englishTransliteration": "velthōn",
+    "reference": "37b"
+  },
+  {
+    "headword": "n. Lion. belle",
+    "copticWord": "ⲛ. Ⲗⲓⲟⲛ. ⲃⲉⲗⲗⲉ",
+    "englishTransliteration": "n. Lion. velle",
+    "variants": [
+      {
+        "type": "f.",
+        "word": "-/",
+        "copticWord": "-ⲏ",
+        "englishTransliteration": "-i"
+      },
+      {
+        "type": "pl.",
+        "word": "-eu",
+        "copticWord": "-ⲉⲩ",
+        "englishTransliteration": "-ev"
+      }
+    ],
+    "reference": "38a",
+    "partOfSpeech": "m",
+    "gloss": "Blind person",
+    "definition": "Blind person"
+  },
+  {
+    "headword": "metbelle",
+    "copticWord": "ⲙⲉⲧⲃⲉⲗⲗⲉ",
+    "englishTransliteration": "metvelle",
+    "partOfSpeech": "f",
+    "gloss": "Blindness",
+    "definition": "Blindness"
+  },
+  {
+    "headword": "erbelle",
+    "copticWord": "ⲉⲣⲃⲉⲗⲗⲉ",
+    "englishTransliteration": "ervelle",
+    "gloss": "v. To be or become blind, to make blind",
+    "definition": "v. To be or become blind, to make blind"
+  },
+  {
+    "headword": "belleu",
+    "copticWord": "ⲃⲉⲗⲗⲉⲩ",
+    "englishTransliteration": "vellev",
+    "gloss": "Blind persons",
+    "definition": "Blind persons",
+    "crossReference": {
+      "target": "belle",
+      "gloss": "Blind persons"
+    }
+  },
+  {
+    "headword": "bell/",
+    "copticWord": "ⲃⲉⲗⲗⲏ",
+    "englishTransliteration": "velli",
+    "gloss": "Blind female",
+    "definition": "Blind female",
+    "crossReference": {
+      "target": "belle",
+      "gloss": "Blind female"
+    }
+  },
+  {
+    "headword": "belhwl",
+    "copticWord": "ⲃⲉⲗϩⲱⲗ",
+    "englishTransliteration": "velhōl",
+    "reference": "48a",
+    "partOfSpeech": "f",
+    "gloss": "Kind of date-palm",
+    "definition": "unripe date; the fruit 'date'"
+  },
+  {
+    "headword": "belj",
+    "copticWord": "ⲃⲉⲗϫ",
+    "englishTransliteration": "velj",
+    "reference": "38b",
+    "gloss": "fm. Pottery, earthenware",
+    "definition": "fm. Pottery, earthenware"
+  },
+  {
+    "headword": "erbelj",
+    "copticWord": "ⲉⲣⲃⲉⲗϫ",
+    "englishTransliteration": "ervelj",
+    "gloss": "v. To be made of pottery",
+    "definition": "v. To be made of pottery"
+  },
+  {
+    "headword": "beni",
+    "copticWord": "ⲃⲉⲛⲓ",
+    "englishTransliteration": "veni",
+    "gloss": "Swallow",
+    "definition": "Swallow",
+    "crossReference": {
+      "target": "b/ni",
+      "gloss": "Swallow"
+    }
+  },
+  {
+    "headword": "bai nbeni",
+    "copticWord": "ⲃⲁⲓ ⲛⲃⲉⲛⲓ",
+    "englishTransliteration": "vai nveni",
+    "partOfSpeech": "m",
+    "gloss": "Palm-branch",
+    "definition": "Palm-branch"
+  },
+  {
+    "headword": "be",
+    "copticWord": "ⲃⲉ",
+    "englishTransliteration": "ve",
+    "variants": [
+      {
+        "word": "e",
+        "copticWord": "ⲉ",
+        "englishTransliteration": "e"
+      },
+      {
+        "type": "pl.",
+        "word": "be",
+        "copticWord": "ⲃⲉ",
+        "englishTransliteration": "ve"
+      },
+      {
+        "word": "/oui",
+        "copticWord": "ⲏⲟⲩⲓ",
+        "englishTransliteration": "ioui"
+      }
+    ],
+    "reference": "30b",
+    "partOfSpeech": "m",
+    "gloss": "Wage",
+    "definition": "Wage"
+  },
+  {
+    "headword": "af nbeni",
+    "copticWord": "ⲁϥ ⲛⲃⲉⲛⲓ",
+    "englishTransliteration": "af nveni",
+    "partOfSpeech": "n",
+    "gloss": "Stem, trunk of palm",
+    "definition": "Stem, trunk of palm"
+  }
+]

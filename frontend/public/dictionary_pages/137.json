@@ -1,0 +1,417 @@
+[
+  {
+    "headword": "refswr",
+    "copticWord": "ⲣⲉϥϣⲱⲣ",
+    "englishTransliteration": "refshōr",
+    "variants": [
+      {
+        "word": "refsari",
+        "copticWord": "ⲣⲉϥϣⲁⲣⲓ",
+        "englishTransliteration": "refshari"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "Smiter",
+    "definition": "Smiter"
+  },
+  {
+    "headword": "metrefswr",
+    "copticWord": "ⲙⲉⲧⲣⲉϥϣⲱⲣ",
+    "englishTransliteration": "metrefshōr",
+    "partOfSpeech": "f",
+    "gloss": "Devilry",
+    "definition": "Devilry"
+  },
+  {
+    "headword": "(2) sari",
+    "copticWord": "ϣⲁⲣⲓ",
+    "englishTransliteration": "shari",
+    "reference": "584a",
+    "gloss": "n or adj",
+    "definition": "n or adj"
+  },
+  {
+    "headword": "Red. sarke",
+    "copticWord": "Ⲣⲉⲇ. ϣⲁⲣⲕⲉ",
+    "englishTransliteration": "Red. sharke",
+    "reference": "586b",
+    "partOfSpeech": "m",
+    "gloss": "Lack of water, drought",
+    "definition": "Lack of water, drought"
+  },
+  {
+    "headword": "saro",
+    "copticWord": "ϣⲁⲣⲟ",
+    "englishTransliteration": "sharo",
+    "variants": [
+      {
+        "word": "sarou",
+        "copticWord": "ϣⲁⲣⲟⲩ",
+        "englishTransliteration": "sharou"
+      }
+    ],
+    "reference": "584a",
+    "gloss": "nn. command(?)",
+    "definition": "w/] vb. To give command"
+  },
+  {
+    "headword": "saro=",
+    "copticWord": "ϣⲁⲣⲟ",
+    "englishTransliteration": "sharo",
+    "gloss": "To",
+    "definition": "To",
+    "crossReference": {
+      "target": "sa",
+      "gloss": "To"
+    }
+  },
+  {
+    "headword": "sarou",
+    "copticWord": "ϣⲁⲣⲟⲩ",
+    "englishTransliteration": "sharou",
+    "gloss": "Command",
+    "definition": "Command",
+    "crossReference": {
+      "target": "saro",
+      "gloss": "Command"
+    }
+  },
+  {
+    "headword": "(604b)",
+    "copticWord": "(604ⲃ)",
+    "englishTransliteration": "(604v)",
+    "gloss": "sas- v. (1)sws - To despise. sas- v. (2)sws - To scatter. sas= v. (2)sws - To scatter. sas= v. (3)sws - To level. sas- p.c. v. (1)sws - Despised. sasi v. (sws) - Stroke. sasni: (608a)",
+    "definition": "vi. To reach, obtain; --- e-: vi. To reach to; ; pl. Among parts of building sas v. (sws) - To strike. sas v. (sws) - Stroke.",
+    "senses": [
+      {
+        "label": "eratsasni",
+        "partOfSpeech": "vb",
+        "gloss": "To fail to obtain",
+        "definition": "metatsasni: f. Unattainedness; jinsasni: m. Attainment."
+      }
+    ]
+  },
+  {
+    "headword": "sat",
+    "copticWord": "ϣⲁⲧ",
+    "englishTransliteration": "shat",
+    "gloss": "To demand",
+    "definition": "To demand",
+    "crossReference": {
+      "target": "(1)si]",
+      "gloss": "To demand"
+    }
+  },
+  {
+    "headword": "sat=",
+    "copticWord": "ϣⲁⲧ",
+    "englishTransliteration": "shat",
+    "gloss": "To demand",
+    "definition": "To demand",
+    "crossReference": {
+      "target": "(1)si]",
+      "gloss": "To demand"
+    }
+  },
+  {
+    "headword": "sast",
+    "copticWord": "ϣⲁϣⲧ",
+    "englishTransliteration": "shasht",
+    "gloss": "Among parts of building",
+    "definition": "Among parts of building",
+    "crossReference": {
+      "target": "sas",
+      "gloss": "Among parts of building"
+    }
+  },
+  {
+    "headword": "sat(Q)",
+    "copticWord": "ϣⲁⲧ(Ϧ)",
+    "englishTransliteration": "shat(Kh)",
+    "gloss": "To be gushed",
+    "definition": "To be gushed",
+    "crossReference": {
+      "target": "(2)si]",
+      "gloss": "To be gushed"
+    }
+  },
+  {
+    "headword": "sast=",
+    "copticWord": "ϣⲁϣⲧ",
+    "englishTransliteration": "shasht",
+    "gloss": "To stop. sast(Q) v. swst - To be hindered. sasf, f. sasfi: (378a)",
+    "definition": "adj. Seven. sasf v. sas - Among Parts of building.",
+    "crossReference": {
+      "target": "swst",
+      "gloss": "To stop. sast(Q) v. swst - To be hindered. sasf, f. sasfi: (378a)"
+    }
+  },
+  {
+    "headword": "sate",
+    "copticWord": "ϣⲁⲧⲉ",
+    "englishTransliteration": "shate",
+    "reference": "573a",
+    "gloss": "vbal prfx. Until",
+    "definition": "vbal prfx. Until"
+  },
+  {
+    "headword": "sasf",
+    "copticWord": "ϣⲁϣϥ",
+    "englishTransliteration": "shashf",
+    "gloss": "Weaver",
+    "definition": "Weaver",
+    "crossReference": {
+      "target": "(4)sws",
+      "gloss": "Weaver"
+    }
+  },
+  {
+    "headword": "sasft",
+    "copticWord": "ϣⲁϣϥⲧ",
+    "englishTransliteration": "shashft",
+    "gloss": "Among parts of building",
+    "definition": "Among parts of building",
+    "crossReference": {
+      "target": "sas",
+      "gloss": "Among parts of building"
+    }
+  },
+  {
+    "headword": "saten",
+    "copticWord": "ϣⲁⲧⲉⲛ",
+    "englishTransliteration": "shaten",
+    "gloss": "Excepting. satc v. (2)swt - Ditch",
+    "definition": "Excepting. satc v. (2)swt - Ditch",
+    "crossReference": {
+      "target": "(2)swt",
+      "gloss": "Excepting. satc v. (2)swt - Ditch"
+    }
+  },
+  {
+    "headword": "(1) sau",
+    "copticWord": "ϣⲁⲩ",
+    "englishTransliteration": "shav",
+    "variants": [
+      {
+        "word": "sou",
+        "copticWord": "ϣⲟⲩ",
+        "englishTransliteration": "shou"
+      }
+    ],
+    "reference": "599a",
+    "gloss": "Value",
+    "definition": "Value",
+    "senses": [
+      {
+        "label": "ersau",
+        "partOfSpeech": "vb",
+        "gloss": "To be useful, prosperous, virtuous",
+        "definition": "e-: vb. To be useful for;"
+      },
+      {
+        "label": "nem",
+        "partOfSpeech": "vb",
+        "gloss": "To be useful with",
+        "definition": "eratsau: vb. To be, make worthless or vain; metsau: f. Usefulness, propriety, modesty;"
+      }
+    ]
+  },
+  {
+    "headword": "atsau",
+    "copticWord": "ⲁⲧϣⲁⲩ",
+    "englishTransliteration": "atshav",
+    "partOfSpeech": "adj",
+    "gloss": "Useless, worthless, obscene",
+    "definition": "Useless, worthless, obscene"
+  },
+  {
+    "headword": "safe",
+    "copticWord": "ϣⲁϥⲉ",
+    "englishTransliteration": "shafe",
+    "variants": [
+      {
+        "type": "f.",
+        "word": "saf/; pl. safeu",
+        "copticWord": "ϣⲁϥⲏⲑ ⲡⲗ. ϣⲁϥⲉⲩ",
+        "englishTransliteration": "shafith pl. shafev"
+      },
+      {
+        "word": "saf-/ou",
+        "copticWord": "ϣⲁϥ-ⲏⲟⲩ",
+        "englishTransliteration": "shaf-iou"
+      }
+    ],
+    "reference": "610a",
+    "partOfSpeech": "m",
+    "gloss": "Desert",
+    "definition": "Desert"
+  },
+  {
+    "headword": "safeu",
+    "copticWord": "ϣⲁϥⲉⲩ",
+    "englishTransliteration": "shafev",
+    "gloss": "Deserts",
+    "definition": "Deserts",
+    "crossReference": {
+      "target": "safe",
+      "gloss": "Deserts"
+    }
+  },
+  {
+    "headword": "saf/",
+    "copticWord": "ϣⲁϥⲏ",
+    "englishTransliteration": "shafi",
+    "gloss": "Desert (f)",
+    "definition": "Desert (f)",
+    "crossReference": {
+      "target": "safe",
+      "gloss": "Desert (f)"
+    }
+  },
+  {
+    "headword": "saf/ou",
+    "copticWord": "ϣⲁϥⲏⲟⲩ",
+    "englishTransliteration": "shafiou",
+    "gloss": "Deserts",
+    "definition": "Deserts",
+    "crossReference": {
+      "target": "safe",
+      "gloss": "Deserts"
+    }
+  },
+  {
+    "headword": "safy",
+    "copticWord": "ϣⲁϥⲑ",
+    "englishTransliteration": "shafth",
+    "gloss": "Impious person. safi, (Q) safiwou: (610a)",
+    "definition": "vi. To swell.",
+    "crossReference": {
+      "target": "swft",
+      "gloss": "Impious person. safi, (Q) safiwou: (610a)"
+    }
+  },
+  {
+    "headword": "metatsau",
+    "copticWord": "ⲙⲉⲧⲁⲧϣⲁⲩ",
+    "englishTransliteration": "metatshav",
+    "partOfSpeech": "f",
+    "gloss": "Worthlessness",
+    "definition": "---: vi. To be useful, valuable;"
+  },
+  {
+    "headword": "sou",
+    "copticWord": "ϣⲟⲩ",
+    "englishTransliteration": "shou",
+    "partOfSpeech": "vb",
+    "gloss": "To be worthy of, fit for",
+    "definition": "To be worthy of, fit for"
+  },
+  {
+    "headword": "safiwou(Q)",
+    "copticWord": "ϣⲁϥⲓⲱⲟⲩ(Ϧ)",
+    "englishTransliteration": "shafiōou(Kh)",
+    "gloss": "To be swollen. saft v. swft - Impious person. safouri: (611a)",
+    "definition": "To be swollen. saft v. swft - Impious person. safouri: (611a)",
+    "crossReference": {
+      "target": "safi",
+      "gloss": "To be swollen. saft v. swft - Impious person. safouri: (611a)"
+    }
+  },
+  {
+    "headword": "f. A type of fish. saf] v. swft - Impious person. sah",
+    "copticWord": "ϥ. Ⲁ ⲧⲑⲡⲉ ⲟϥ ϥⲓϣϩ. ϣⲁϥϯ ⲫ. ϣⲱϥⲧ - Ⲓⲙⲡⲓⲟⲩϣ ⲡⲉⲣϣⲟⲛ. ϣⲁϩ",
+    "englishTransliteration": "f. A tthpe of fishh. shafti f. shōft - Impioush pershon. shah",
+    "reference": "612a",
+    "partOfSpeech": "m",
+    "gloss": "Flame, fire",
+    "definition": "]sah: vb. To burn."
+  },
+  {
+    "headword": "(2) sau",
+    "copticWord": "ϣⲁⲩ",
+    "englishTransliteration": "shav",
+    "reference": "600b",
+    "partOfSpeech": "m",
+    "gloss": "Measure, extent",
+    "definition": "Measure, extent"
+  },
+  {
+    "headword": "(3) sau",
+    "copticWord": "ϣⲁⲩ",
+    "englishTransliteration": "shav",
+    "reference": "600b",
+    "partOfSpeech": "m",
+    "gloss": "Trunk, stump, piece",
+    "definition": "Trunk, stump, piece"
+  },
+  {
+    "headword": "(4) sau",
+    "copticWord": "ϣⲁⲩ",
+    "englishTransliteration": "shav",
+    "reference": "601a",
+    "partOfSpeech": "m",
+    "gloss": "Male cat",
+    "definition": "Male cat"
+  },
+  {
+    "headword": "sahl",
+    "copticWord": "ϣⲁϩⲗ",
+    "englishTransliteration": "shahl",
+    "reference": "612b",
+    "gloss": "Something used as fuel",
+    "definition": "Something used as fuel"
+  },
+  {
+    "headword": "sahseh",
+    "copticWord": "ϣⲁϩϣⲉϩ",
+    "englishTransliteration": "shahsheh",
+    "variants": [
+      {
+        "word": "(Q) sahswh",
+        "copticWord": "(Ϧ) ϣⲁϩϣⲱϩ",
+        "englishTransliteration": "(Kh) shahshōh"
+      }
+    ],
+    "reference": "612b",
+    "gloss": "vi. To be harsh, rough, hardy",
+    "definition": "vi. To be harsh, rough, hardy"
+  },
+  {
+    "headword": "metsahseh",
+    "copticWord": "ⲙⲉⲧϣⲁϩϣⲉϩ",
+    "englishTransliteration": "metshahsheh",
+    "partOfSpeech": "f",
+    "gloss": "Harshness, severity",
+    "definition": "Harshness, severity"
+  },
+  {
+    "headword": "sahswh(Q)",
+    "copticWord": "ϣⲁϩϣⲱϩ(Ϧ)",
+    "englishTransliteration": "shahshōh(Kh)",
+    "gloss": "To be harsh",
+    "definition": "To be harsh",
+    "crossReference": {
+      "target": "sahseh",
+      "gloss": "To be harsh"
+    }
+  },
+  {
+    "headword": "sbbiw=",
+    "copticWord": "ϣⲃⲃⲓⲱ",
+    "englishTransliteration": "shviō",
+    "gloss": "- To change",
+    "definition": "- To change",
+    "crossReference": {
+      "target": "sebi",
+      "gloss": "- To change"
+    }
+  },
+  {
+    "headword": "(1) sbe",
+    "copticWord": "ϣⲃⲉ",
+    "englishTransliteration": "shve",
+    "reference": "378a",
+    "gloss": "Seventy",
+    "definition": "Seventy"
+  }
+]

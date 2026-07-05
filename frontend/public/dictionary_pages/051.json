@@ -1,0 +1,584 @@
+[
+  {
+    "headword": "kwlh",
+    "copticWord": "ⲕⲱⲗϩ",
+    "englishTransliteration": "kōlh",
+    "variants": [
+      {
+        "word": "kolh",
+        "note": "Q",
+        "copticWord": "ⲕⲟⲗϩ",
+        "englishTransliteration": "kolh"
+      }
+    ],
+    "reference": "106b",
+    "gloss": "vi. To strike, knock",
+    "definition": "vt. to strike, clap, hammer in, fix; --- ejen-: vb. To strike upon;"
+  },
+  {
+    "headword": "n-(dat)",
+    "copticWord": "ⲛ-(ⲇⲁⲧ)",
+    "englishTransliteration": "n-(dat)",
+    "partOfSpeech": "vb",
+    "gloss": "To knock for (someone)",
+    "definition": "To knock for (someone)"
+  },
+  {
+    "headword": "kukloc",
+    "copticWord": "ⲕⲩⲕⲗⲟⲥ",
+    "englishTransliteration": "kyklos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Orbit of heavenly bodies, revolution, circular motion, sphere, globe",
+    "definition": "Orbit of heavenly bodies, revolution, circular motion, sphere, globe"
+  },
+  {
+    "headword": "kuknoc",
+    "copticWord": "ⲕⲩⲕⲛⲟⲥ",
+    "englishTransliteration": "kyknos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Swan",
+    "definition": "Swan"
+  },
+  {
+    "headword": "kumbalon",
+    "copticWord": "ⲕⲩⲙⲃⲁⲗⲟⲛ",
+    "englishTransliteration": "kymvalon",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Cymbal",
+    "definition": "Cymbal"
+  },
+  {
+    "headword": "qen",
+    "copticWord": "ϧⲉⲛ",
+    "englishTransliteration": "khen",
+    "partOfSpeech": "vb",
+    "gloss": "To strike upon, in",
+    "definition": "To strike upon, in"
+  },
+  {
+    "headword": "kundineuin",
+    "copticWord": "ⲕⲩⲛⲇⲓⲛⲉⲩⲓⲛ",
+    "englishTransliteration": "kyndinevin",
+    "gloss": "To venture",
+    "definition": "To venture",
+    "crossReference": {
+      "target": "kindunoc",
+      "gloss": "To venture"
+    }
+  },
+  {
+    "headword": "hiren",
+    "copticWord": "ϩⲓⲣⲉⲛ",
+    "englishTransliteration": "hiren",
+    "partOfSpeech": "vb",
+    "gloss": "To strike upon, at",
+    "definition": "To strike upon, at"
+  },
+  {
+    "headword": "kundinoc",
+    "copticWord": "ⲕⲩⲛⲇⲓⲛⲟⲥ",
+    "englishTransliteration": "kyndinos",
+    "gloss": "Danger",
+    "definition": "Danger",
+    "crossReference": {
+      "target": "kindinoc",
+      "gloss": "Danger"
+    }
+  },
+  {
+    "headword": "ebol",
+    "copticWord": "ⲉⲃⲟⲗ",
+    "englishTransliteration": "evol",
+    "partOfSpeech": "vb",
+    "gloss": "To knock outwards (from within)",
+    "definition": "To knock outwards (from within)"
+  },
+  {
+    "headword": "eqoun",
+    "copticWord": "ⲉϧⲟⲩⲛ",
+    "englishTransliteration": "ekhoun",
+    "partOfSpeech": "vb",
+    "gloss": "To knock inwards (from without)",
+    "definition": "To knock inwards (from without)"
+  },
+  {
+    "headword": "kwlj",
+    "copticWord": "ⲕⲱⲗϫ",
+    "englishTransliteration": "kōlj",
+    "variants": [
+      {
+        "word": "kelj",
+        "copticWord": "ⲕⲉⲗϫ",
+        "englishTransliteration": "kelj"
+      },
+      {
+        "word": "kolj=",
+        "copticWord": "ⲕⲟⲗϫ",
+        "englishTransliteration": "kolj"
+      },
+      {
+        "word": "kolj",
+        "note": "Q",
+        "copticWord": "ⲕⲟⲗϫ",
+        "englishTransliteration": "kolj"
+      },
+      {
+        "word": "[olj",
+        "note": "Q",
+        "copticWord": "ϭⲟⲗϫ",
+        "englishTransliteration": "cholj"
+      }
+    ],
+    "reference": "107b",
+    "gloss": "vi. To bend, be bent",
+    "definition": "vt. to bend, twist;"
+  },
+  {
+    "headword": "metkwlj",
+    "copticWord": "ⲙⲉⲧⲕⲱⲗϫ",
+    "englishTransliteration": "metkōlj",
+    "partOfSpeech": "f",
+    "gloss": "Crookedness",
+    "definition": "Crookedness"
+  },
+  {
+    "headword": "kwp",
+    "copticWord": "ⲕⲱⲡ",
+    "englishTransliteration": "kōp",
+    "variants": [
+      {
+        "word": "kwb",
+        "copticWord": "ⲕⲱⲃ",
+        "englishTransliteration": "kōv"
+      },
+      {
+        "word": "kob=",
+        "copticWord": "ⲕⲟⲃ",
+        "englishTransliteration": "kov"
+      },
+      {
+        "word": "k/b",
+        "note": "Q",
+        "copticWord": "ⲕⲏⲃ",
+        "englishTransliteration": "keeb"
+      }
+    ],
+    "reference": "98b",
+    "gloss": "vi. To be doubled",
+    "definition": "vt. to make double, double back, fold, close;"
+  },
+  {
+    "headword": "kuparicoc",
+    "copticWord": "ⲕⲩⲡⲁⲣⲓⲥⲟⲥ",
+    "englishTransliteration": "kyparisos",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Cypress, cypress wood (as timber)",
+    "definition": "Cypress, cypress wood (as timber)"
+  },
+  {
+    "headword": "kur",
+    "copticWord": "ⲕⲩⲣ",
+    "englishTransliteration": "kyr",
+    "gloss": "Lord",
+    "definition": "Lord",
+    "crossReference": {
+      "target": "kurioc",
+      "gloss": "Lord"
+    }
+  },
+  {
+    "headword": "kuriak/",
+    "copticWord": "ⲕⲩⲣⲓⲁⲕⲏ",
+    "englishTransliteration": "kyriaki",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Sunday",
+    "definition": "Sunday"
+  },
+  {
+    "headword": "kurinne",
+    "copticWord": "ⲕⲩⲣⲓⲛⲛⲉ",
+    "englishTransliteration": "kyrinne",
+    "reference": "Gk?",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "gloss": "Cyrene",
+    "definition": "Cyrene"
+  },
+  {
+    "headword": "kurinneoc",
+    "copticWord": "ⲕⲩⲣⲓⲛⲛⲉⲟⲥ",
+    "englishTransliteration": "kyrinneos",
+    "partOfSpeech": "m",
+    "gloss": "A native of cyrene",
+    "definition": "A native of cyrene"
+  },
+  {
+    "headword": "kurioc",
+    "copticWord": "ⲕⲩⲣⲓⲟⲥ",
+    "englishTransliteration": "kyrios",
+    "variants": [
+      {
+        "word": "kur",
+        "copticWord": "ⲕⲩⲣ",
+        "englishTransliteration": "kyr"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Lord, master, guardian, trustee",
+    "definition": "Lord, master, guardian, trustee"
+  },
+  {
+    "headword": "kuria",
+    "copticWord": "ⲕⲩⲣⲓⲁ",
+    "englishTransliteration": "kyria",
+    "partOfSpeech": "f",
+    "gloss": "Lady, mistress, madam",
+    "definition": "Lady, mistress, madam"
+  },
+  {
+    "headword": "keiric]mw",
+    "copticWord": "ⲕⲉⲓⲣⲓⲥϯⲙⲱ",
+    "englishTransliteration": "kiristimō",
+    "partOfSpeech": "m",
+    "gloss": "Head, leader",
+    "definition": "Head, leader"
+  },
+  {
+    "headword": "kwb",
+    "copticWord": "ⲕⲱⲃ",
+    "englishTransliteration": "kōv",
+    "reference": "99a",
+    "partOfSpeech": "m",
+    "gloss": "Leaven",
+    "definition": "Leaven"
+  },
+  {
+    "headword": "atkwb",
+    "copticWord": "ⲁⲧⲕⲱⲃ",
+    "englishTransliteration": "atkōv",
+    "partOfSpeech": "adj",
+    "gloss": "Without leaven",
+    "definition": "Without leaven"
+  },
+  {
+    "headword": "kwi",
+    "copticWord": "ⲕⲱⲓ",
+    "englishTransliteration": "kōi",
+    "reference": "98b",
+    "partOfSpeech": "m",
+    "gloss": "Elbow",
+    "definition": "Elbow"
+  },
+  {
+    "headword": "kwih",
+    "copticWord": "ⲕⲱⲓϩ",
+    "englishTransliteration": "kōih",
+    "variants": [
+      {
+        "word": "koihi",
+        "copticWord": "ⲕⲟⲓϩⲓ",
+        "englishTransliteration": "koihi"
+      }
+    ],
+    "reference": "132a",
+    "partOfSpeech": "m",
+    "gloss": "Sheath",
+    "definition": "cover, case containing books."
+  },
+  {
+    "headword": "kwps",
+    "copticWord": "ⲕⲱⲡϣ",
+    "englishTransliteration": "kōpsh",
+    "variants": [
+      {
+        "word": "kops",
+        "copticWord": "ⲕⲟⲡϣ",
+        "englishTransliteration": "kopsh"
+      }
+    ],
+    "reference": "114b",
+    "gloss": "vi. To bow down",
+    "definition": "vi. To bow down"
+  },
+  {
+    "headword": "kwrs",
+    "copticWord": "ⲕⲱⲣϣ",
+    "englishTransliteration": "kōrsh",
+    "reference": "117b",
+    "gloss": "vi. To request, persuade, cajole",
+    "definition": "vi. To request, persuade, cajole"
+  },
+  {
+    "headword": "kwrf",
+    "copticWord": "ⲕⲱⲣϥ",
+    "englishTransliteration": "kōrf",
+    "variants": [
+      {
+        "word": "kerf",
+        "copticWord": "ⲕⲉⲣϥ",
+        "englishTransliteration": "kerf"
+      },
+      {
+        "word": "korf=",
+        "copticWord": "ⲕⲟⲣϥ",
+        "englishTransliteration": "korf"
+      },
+      {
+        "word": "korf",
+        "note": "Q",
+        "copticWord": "ⲕⲟⲣϥ",
+        "englishTransliteration": "korf"
+      }
+    ],
+    "reference": "118a"
+  },
+  {
+    "headword": "vi",
+    "copticWord": "ⲫⲓ",
+    "englishTransliteration": "fi",
+    "gloss": "to be idle, deficient",
+    "definition": "to be idle, deficient"
+  },
+  {
+    "headword": "atkwrf",
+    "copticWord": "ⲁⲧⲕⲱⲣϥ",
+    "englishTransliteration": "atkōrf",
+    "partOfSpeech": "adj",
+    "gloss": "Unceasing",
+    "definition": "Unceasing"
+  },
+  {
+    "headword": "kwrj",
+    "copticWord": "ⲕⲱⲣϫ",
+    "englishTransliteration": "kōrj",
+    "variants": [
+      {
+        "word": "kerj",
+        "copticWord": "ⲕⲉⲣϫ",
+        "englishTransliteration": "kerj"
+      },
+      {
+        "word": "korj=",
+        "copticWord": "ⲕⲟⲣϫ",
+        "englishTransliteration": "korj"
+      },
+      {
+        "word": "p.c. karj",
+        "copticWord": "ⲡ.ⲥ. ⲕⲁⲣϫ",
+        "englishTransliteration": "p.s. karj"
+      }
+    ],
+    "reference": "119a",
+    "senses": [
+      {
+        "gloss": "vt. To cut down, break off",
+        "definition": "vi. to be in a broken state;"
+      }
+    ]
+  },
+  {
+    "headword": "karjsai",
+    "copticWord": "ⲕⲁⲣϫϣⲁⲓ",
+    "englishTransliteration": "karjshai",
+    "partOfSpeech": "adj",
+    "gloss": "Broken nosed",
+    "definition": "Broken nosed"
+  },
+  {
+    "headword": "kerjkac",
+    "copticWord": "ⲕⲉⲣϫⲕⲁⲥ",
+    "englishTransliteration": "kerjkas",
+    "partOfSpeech": "vb",
+    "gloss": "To break bone",
+    "definition": "To break bone"
+  },
+  {
+    "headword": "kakbal",
+    "copticWord": "ⲕⲁⲕⲃⲁⲗ",
+    "englishTransliteration": "kakval",
+    "partOfSpeech": "m",
+    "gloss": "With bare eyes",
+    "definition": "With bare eyes"
+  },
+  {
+    "headword": "kakhraf",
+    "copticWord": "ⲕⲁⲕϩⲣⲁϥ",
+    "englishTransliteration": "kakhraf",
+    "partOfSpeech": "m",
+    "gloss": "Bare-faced",
+    "definition": "Bare-faced"
+  },
+  {
+    "headword": "kouki",
+    "copticWord": "ⲕⲟⲩⲕⲓ",
+    "englishTransliteration": "kouki",
+    "partOfSpeech": "f",
+    "gloss": "Rind, skin",
+    "definition": "Rind, skin"
+  },
+  {
+    "headword": "k/kc",
+    "copticWord": "ⲕⲏⲕⲥ",
+    "englishTransliteration": "kiks",
+    "variants": [
+      {
+        "word": "kekc",
+        "copticWord": "ⲕⲉⲕⲥ",
+        "englishTransliteration": "keks"
+      }
+    ],
+    "partOfSpeech": "f",
+    "gloss": "What is peeled off, strip, scale",
+    "definition": "What is peeled off, strip, scale"
+  },
+  {
+    "headword": "kwl",
+    "copticWord": "ⲕⲱⲗ",
+    "englishTransliteration": "kōl",
+    "gloss": "To return",
+    "definition": "To return",
+    "crossReference": {
+      "target": "jwl",
+      "gloss": "To return"
+    }
+  },
+  {
+    "headword": "kwc",
+    "copticWord": "ⲕⲱⲥ",
+    "englishTransliteration": "kōs",
+    "variants": [
+      {
+        "word": "kec",
+        "copticWord": "ⲕⲉⲥ",
+        "englishTransliteration": "kes"
+      },
+      {
+        "word": "koc=",
+        "copticWord": "ⲕⲟⲥ",
+        "englishTransliteration": "kos"
+      },
+      {
+        "word": "k/c",
+        "note": "Q",
+        "copticWord": "ⲕⲏⲥ",
+        "englishTransliteration": "kis"
+      }
+    ],
+    "reference": "120a",
+    "gloss": "vt. To dress, prepare corpse for burial, bury",
+    "definition": "vt. To dress, prepare corpse for burial, bury",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "Burial, funeral",
+        "definition": "Burial, funeral"
+      },
+      {
+        "label": "refkwc",
+        "partOfSpeech": "m",
+        "gloss": "Embalmer",
+        "definition": "Embalmer"
+      },
+      {
+        "label": "jinkwc",
+        "partOfSpeech": "mf",
+        "gloss": "Burial",
+        "definition": "Burial"
+      },
+      {
+        "label": "kaici",
+        "partOfSpeech": "f",
+        "gloss": "Preparation for burial, embalming",
+        "definition": "grave clothes, shroud."
+      }
+    ]
+  },
+  {
+    "headword": "kalp",
+    "copticWord": "ⲕⲁⲗⲡ",
+    "englishTransliteration": "kalp",
+    "reference": "105b",
+    "gloss": "vt. To steal, rob",
+    "definition": "vt. To steal, rob"
+  },
+  {
+    "headword": "jinkwlp",
+    "copticWord": "ϫⲓⲛⲕⲱⲗⲡ",
+    "englishTransliteration": "jinkōlp",
+    "partOfSpeech": "m",
+    "gloss": "Robbing",
+    "definition": "Robbing"
+  },
+  {
+    "headword": "atkwlp",
+    "copticWord": "ⲁⲧⲕⲱⲗⲡ",
+    "englishTransliteration": "atkōlp",
+    "partOfSpeech": "adj",
+    "gloss": "Unstolen, inviolate",
+    "definition": "Unstolen, inviolate"
+  },
+  {
+    "headword": "kolpc",
+    "copticWord": "ⲕⲟⲗⲡⲥ",
+    "englishTransliteration": "kolps",
+    "partOfSpeech": "f",
+    "gloss": "Theft",
+    "definition": "Theft"
+  },
+  {
+    "headword": "kwt",
+    "copticWord": "ⲕⲱⲧ",
+    "englishTransliteration": "kōt",
+    "variants": [
+      {
+        "word": "ket",
+        "copticWord": "ⲕⲉⲧ",
+        "englishTransliteration": "ket"
+      },
+      {
+        "word": "kot=",
+        "copticWord": "ⲕⲟⲧ",
+        "englishTransliteration": "kot"
+      },
+      {
+        "word": "k/t",
+        "note": "Q",
+        "copticWord": "ⲕⲏⲧ",
+        "englishTransliteration": "kit"
+      }
+    ],
+    "reference": "122a",
+    "gloss": "vt. &",
+    "definition": "vt. &",
+    "senses": [
+      {
+        "label": "vi",
+        "gloss": "To build, form",
+        "definition": "To build, form"
+      }
+    ]
+  },
+  {
+    "headword": "kwlumb/yra",
+    "copticWord": "ⲕⲱⲗⲩⲙⲃⲏⲑⲣⲁ",
+    "englishTransliteration": "kōlymvithra",
+    "gloss": "Pool",
+    "definition": "Pool",
+    "crossReference": {
+      "target": "kolumb/yra",
+      "gloss": "Pool"
+    }
+  }
+]

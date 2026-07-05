@@ -1,0 +1,396 @@
+[
+  {
+    "headword": "ebol qen",
+    "copticWord": "ⲉⲃⲟⲗ ϧⲉⲛ",
+    "englishTransliteration": "evol khen",
+    "partOfSpeech": "vb",
+    "gloss": "To pass out from, through",
+    "definition": "To pass out from, through"
+  },
+  {
+    "headword": "ebol hiten",
+    "copticWord": "ⲉⲃⲟⲗ ϩⲓⲧⲉⲛ",
+    "englishTransliteration": "evol hiten",
+    "partOfSpeech": "vb",
+    "gloss": "To pass out from, through",
+    "definition": "To pass out from, through"
+  },
+  {
+    "headword": "ebol hijen",
+    "copticWord": "ⲉⲃⲟⲗ ϩⲓϫⲉⲛ",
+    "englishTransliteration": "evol heegen",
+    "partOfSpeech": "vb",
+    "gloss": "To pass by",
+    "definition": "To pass by"
+  },
+  {
+    "headword": "eqoun",
+    "copticWord": "ⲉϧⲟⲩⲛ",
+    "englishTransliteration": "ekhoun",
+    "partOfSpeech": "vb",
+    "gloss": "To pass in through",
+    "definition": "To pass in through"
+  },
+  {
+    "headword": "metatci",
+    "copticWord": "ⲙⲉⲧⲁⲧⲥⲓ",
+    "englishTransliteration": "metatsi",
+    "partOfSpeech": "f",
+    "gloss": "Unsatedness, greed",
+    "definition": "Unsatedness, greed"
+  },
+  {
+    "headword": "cibikon",
+    "copticWord": "ⲥⲓⲃⲓⲕⲟⲛ",
+    "englishTransliteration": "seebikon",
+    "gloss": "(Ar)",
+    "definition": "nn. Shaban, the 8th month of the Arabic calender"
+  },
+  {
+    "headword": "cibir",
+    "copticWord": "ⲥⲓⲃⲓⲣ",
+    "englishTransliteration": "seebir",
+    "gloss": "(Ar)",
+    "definition": "nn. Safar, the 2nd month of the Arabic calender"
+  },
+  {
+    "headword": "cigara",
+    "copticWord": "ⲥⲓⲅⲁⲣⲁ",
+    "englishTransliteration": "sigara",
+    "gloss": "Cigaritte",
+    "definition": "Cigaritte",
+    "crossReference": {
+      "target": "cikara",
+      "gloss": "Cigaritte"
+    }
+  },
+  {
+    "headword": "cigritia",
+    "copticWord": "ⲥⲓⲅⲣⲓⲧⲓⲁ",
+    "englishTransliteration": "sigritia",
+    "variants": [
+      {
+        "word": "cugritia",
+        "copticWord": "ⲥⲩⲅⲣⲓⲧⲓⲁ",
+        "englishTransliteration": "sygritia"
+      }
+    ],
+    "reference": "Gk?",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "The science of spiritual atheletics",
+    "definition": "The science of spiritual atheletics"
+  },
+  {
+    "headword": "eqr/i",
+    "copticWord": "ⲉϧⲣⲏⲓ",
+    "englishTransliteration": "ekhrii",
+    "partOfSpeech": "vb",
+    "gloss": "To pass downward",
+    "definition": "To pass downward",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "Passing, decline of day, afternoon",
+        "definition": "Passing, decline of day, afternoon"
+      },
+      {
+        "label": "atcini",
+        "partOfSpeech": "adj",
+        "gloss": "Impassable, not passing",
+        "definition": "mancini: m. Passage, path crossing; jincini: m. Passing by, crossing."
+      },
+      {
+        "gloss": "ciniwou (Q) v. cini - To be passed by. cinwoui v. coni - Robbers",
+        "definition": "ciniwou (Q) v. cini - To be passed by. cinwoui v. coni - Robbers"
+      },
+      {
+        "label": "ciou",
+        "gloss": "- Star",
+        "definition": "- Star"
+      },
+      {
+        "label": "ciour",
+        "reference": "371a",
+        "partOfSpeech": "m",
+        "gloss": "Eunuch",
+        "definition": "Eunuch"
+      },
+      {
+        "label": "cip",
+        "reference": "318b",
+        "partOfSpeech": "m",
+        "gloss": "Tick, insect",
+        "definition": "Tick, insect"
+      },
+      {
+        "label": "cir",
+        "reference": "353a",
+        "partOfSpeech": "n",
+        "gloss": "Jar",
+        "definition": "Jar"
+      },
+      {
+        "label": "cir/noc",
+        "gloss": "Siren",
+        "definition": "Siren"
+      },
+      {
+        "label": "ciwouni",
+        "reference": "369b",
+        "partOfSpeech": "f",
+        "gloss": "Bath",
+        "definition": "Bath"
+      },
+      {
+        "label": "ciwounit/c",
+        "partOfSpeech": "n",
+        "gloss": "Bathman",
+        "definition": "Bathman"
+      },
+      {
+        "label": "ciwounit/c",
+        "gloss": "Bathman",
+        "definition": "Bathman"
+      },
+      {
+        "label": "cijara",
+        "gloss": "Cigaritte",
+        "definition": "Cigaritte"
+      },
+      {
+        "label": "cifi",
+        "reference": "379a",
+        "partOfSpeech": "m",
+        "gloss": "Tar",
+        "definition": "tar tree, cedar."
+      },
+      {
+        "label": "cihi",
+        "reference": "379b",
+        "gloss": "vi. To be removed, displaced",
+        "definition": "vt. to move, remove self, withdraw; --- nh/t: n. Derangement of mind."
+      },
+      {
+        "label": "(1)",
+        "gloss": "ci]: (359a)",
+        "definition": "m. Basilisk."
+      },
+      {
+        "label": "(2)",
+        "gloss": "ci], cet-, cat-, cat=",
+        "definition": "(Q) c/], ca]: (360b); vi. To throw, sow; --- e-: vi. To throw at, put to; --- ejen-: vi. To throw, put upon, add to;"
+      }
+    ]
+  },
+  {
+    "headword": "cikara",
+    "copticWord": "ⲥⲓⲕⲁⲣⲁ",
+    "englishTransliteration": "sikara",
+    "variants": [
+      {
+        "word": "cigara",
+        "copticWord": "ⲥⲓⲅⲁⲣⲁ",
+        "englishTransliteration": "sigara"
+      },
+      {
+        "word": "cijara",
+        "note": "Coptic mou-jar",
+        "copticWord": "ⲥⲓϫⲁⲣⲁ",
+        "englishTransliteration": "seegara"
+      }
+    ],
+    "gloss": "(Spn)",
+    "definition": "f. Cigaritte"
+  },
+  {
+    "headword": "ciki",
+    "copticWord": "ⲥⲓⲕⲓ",
+    "englishTransliteration": "siki",
+    "reference": "328a",
+    "gloss": "vi. To grind, pound",
+    "definition": "vi. To grind, pound"
+  },
+  {
+    "headword": "wni nciki",
+    "copticWord": "ⲱⲛⲓ ⲛⲥⲓⲕⲓ",
+    "englishTransliteration": "ōni nsiki",
+    "partOfSpeech": "m",
+    "gloss": "Grounding stone",
+    "definition": "Grounding stone"
+  },
+  {
+    "headword": "ciliwmatougravoc",
+    "copticWord": "ⲥⲓⲗⲓⲱⲙⲁⲧⲟⲩⲅⲣⲁⲫⲟⲥ",
+    "englishTransliteration": "siliōmatougrafos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Notary",
+    "definition": "Notary"
+  },
+  {
+    "headword": "cim",
+    "copticWord": "ⲥⲓⲙ",
+    "englishTransliteration": "sim",
+    "variants": [
+      {
+        "word": "cim",
+        "copticWord": "ⲥⲓⲙ",
+        "englishTransliteration": "sim"
+      }
+    ],
+    "reference": "334a",
+    "partOfSpeech": "m",
+    "gloss": "Grass, fodder, herbs (in general",
+    "definition": "Grass, fodder, herbs (in general"
+  },
+  {
+    "headword": "oi ncim",
+    "copticWord": "ⲟⲓ ⲛⲥⲓⲙ",
+    "englishTransliteration": "oi nsim",
+    "partOfSpeech": "vb",
+    "gloss": "To be in grass, be green",
+    "definition": "To be in grass, be green"
+  },
+  {
+    "headword": "cimikunyinon",
+    "copticWord": "ⲥⲓⲙⲓⲕⲩⲛⲑⲓⲛⲟⲛ",
+    "englishTransliteration": "simikynthinon",
+    "gloss": "Apron",
+    "definition": "Apron",
+    "crossReference": {
+      "target": "cimikinyion",
+      "gloss": "Apron"
+    }
+  },
+  {
+    "headword": "cinahbi",
+    "copticWord": "ⲥⲓⲛⲁϩⲃⲓ",
+    "englishTransliteration": "sinahvi",
+    "reference": "349a",
+    "gloss": "nn. An ingredient in boiling cauldron",
+    "definition": "nn. An ingredient in boiling cauldron"
+  },
+  {
+    "headword": "cini",
+    "copticWord": "ⲥⲓⲛⲓ",
+    "englishTransliteration": "sini",
+    "variants": [
+      {
+        "word": "cen",
+        "copticWord": "ⲥⲉⲛ",
+        "englishTransliteration": "sen"
+      },
+      {
+        "word": "cen=",
+        "copticWord": "ⲥⲉⲛ",
+        "englishTransliteration": "sen"
+      },
+      {
+        "word": "(Q) ciniwou",
+        "copticWord": "(Ϧ) ⲥⲓⲛⲓⲱⲟⲩ",
+        "englishTransliteration": "(Kh) siniōou"
+      }
+    ],
+    "reference": "343b",
+    "gloss": "vi. To pass by, through",
+    "definition": "pass through, across;"
+  },
+  {
+    "headword": "e",
+    "copticWord": "ⲉ",
+    "englishTransliteration": "e",
+    "partOfSpeech": "vb",
+    "gloss": "To pass over to",
+    "definition": "To pass over to"
+  },
+  {
+    "headword": "ejen",
+    "copticWord": "ⲉϫⲉⲛ",
+    "englishTransliteration": "ejen",
+    "partOfSpeech": "vb",
+    "gloss": "To pass by",
+    "definition": "To pass by"
+  },
+  {
+    "headword": "qaten",
+    "copticWord": "ϧⲁⲧⲉⲛ",
+    "englishTransliteration": "khaten",
+    "partOfSpeech": "vb",
+    "gloss": "To pass by",
+    "definition": "To pass by"
+  },
+  {
+    "headword": "ha",
+    "copticWord": "ϩⲁ",
+    "englishTransliteration": "ha",
+    "partOfSpeech": "vb",
+    "gloss": "To pass over to",
+    "definition": "--- hi-: vb. To pass by on; --- qen-: vb. To pass through;"
+  },
+  {
+    "headword": "hiten",
+    "copticWord": "ϩⲓⲧⲉⲛ",
+    "englishTransliteration": "hiten",
+    "partOfSpeech": "vb",
+    "gloss": "To pass through",
+    "definition": "--- ebol: vb. To pass out, away, die;"
+  },
+  {
+    "headword": "ebol ejen",
+    "copticWord": "ⲉⲃⲟⲗ ⲉϫⲉⲛ",
+    "englishTransliteration": "evol ejen",
+    "partOfSpeech": "vb",
+    "gloss": "To pass by",
+    "definition": "To pass by"
+  },
+  {
+    "headword": "ebol eten",
+    "copticWord": "ⲉⲃⲟⲗ ⲉⲧⲉⲛ",
+    "englishTransliteration": "evol eten",
+    "partOfSpeech": "vb",
+    "gloss": "To pass through",
+    "definition": "To pass through"
+  },
+  {
+    "headword": "nca",
+    "copticWord": "ⲛⲥⲁ",
+    "englishTransliteration": "nsa",
+    "partOfSpeech": "vb",
+    "gloss": "To throw after, upon",
+    "definition": "--- qa-: vb. To throw, put beneath;"
+  },
+  {
+    "headword": "ebol oute",
+    "copticWord": "ⲉⲃⲟⲗ ⲟⲩⲧⲉ",
+    "englishTransliteration": "evol oute",
+    "partOfSpeech": "vb",
+    "gloss": "To pass out through",
+    "definition": "To pass out through"
+  },
+  {
+    "headword": "hi",
+    "copticWord": "ϩⲓ",
+    "englishTransliteration": "hi",
+    "partOfSpeech": "vb",
+    "gloss": "To throw, put upon in",
+    "definition": "--- hijen: vb. same meaning;"
+  },
+  {
+    "headword": "ebol ha",
+    "copticWord": "ⲉⲃⲟⲗ ϩⲁ",
+    "englishTransliteration": "evol ha",
+    "partOfSpeech": "vb",
+    "gloss": "To pass, bring forth from",
+    "definition": "To pass, bring forth from"
+  },
+  {
+    "headword": "ebol",
+    "copticWord": "ⲉⲃⲟⲗ",
+    "englishTransliteration": "evol",
+    "partOfSpeech": "vb",
+    "gloss": "To throw out",
+    "definition": "Q. to cast forth, lying;"
+  }
+]

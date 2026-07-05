@@ -1,0 +1,383 @@
+[
+  {
+    "headword": "nifi",
+    "copticWord": "ⲛⲓϥⲓ",
+    "englishTransliteration": "nifi",
+    "reference": "238b",
+    "gloss": "vi. To blow, breathe",
+    "definition": "tr. blow;",
+    "senses": [
+      {
+        "label": "e",
+        "partOfSpeech": "vb",
+        "gloss": "To blow upon",
+        "definition": "To blow upon"
+      },
+      {
+        "label": "eqoun e",
+        "partOfSpeech": "vb",
+        "gloss": "To blow into",
+        "definition": "To blow into"
+      },
+      {
+        "label": "eqr/i e",
+        "partOfSpeech": "vb",
+        "gloss": "To blow down upon",
+        "definition": "To blow down upon"
+      },
+      {
+        "label": "hijen",
+        "partOfSpeech": "vb",
+        "gloss": "To blow upon",
+        "definition": "To blow upon"
+      },
+      {
+        "label": "nca",
+        "partOfSpeech": "vb",
+        "gloss": "To blow after, upon",
+        "definition": "To blow after, upon"
+      },
+      {
+        "label": "nkot",
+        "reference": "224a",
+        "gloss": "vi. To sleep,lie down, lie",
+        "definition": "ebol: vb. To breathe; --, nif: m. Breath; refnifi: n. Blower, blow-pipe; jinnifi: m. Blowing; sennifi: m. Blow of breath, breathing; ] nifi: vb. To give breath; take breath, rest, doze; qamnifi: Difficult breathing."
+      },
+      {
+        "label": "e",
+        "partOfSpeech": "vb",
+        "gloss": "To sleep, lie down",
+        "definition": "To sleep, lie down"
+      },
+      {
+        "gloss": "ejen-, ehr/i ejen-, hijen-,",
+        "definition": "ejen-, ehr/i ejen-, hijen-,"
+      },
+      {
+        "label": "hi",
+        "partOfSpeech": "vb",
+        "gloss": "To lie upon",
+        "definition": "To lie upon"
+      },
+      {
+        "label": "qen",
+        "partOfSpeech": "vb",
+        "gloss": "To lie in, on",
+        "definition": "To lie in, on"
+      },
+      {
+        "label": "n",
+        "partOfSpeech": "vb",
+        "gloss": "To lie in",
+        "definition": "To lie in"
+      },
+      {
+        "label": "nem",
+        "partOfSpeech": "vb",
+        "gloss": "To lie with",
+        "definition": "--: m. Sleep;"
+      }
+    ]
+  },
+  {
+    "headword": "nyok",
+    "copticWord": "ⲛⲑⲟⲕ",
+    "englishTransliteration": "nthok",
+    "gloss": "pers pron. 2nd pers m sg. You (m). nyoc: pers pron. 3rd pers f sg. She. nyof: pers pron. 3rd pers m sg. He. nywten pers pron. 2nd pers pl. You (pl). nywou: pers pron. 3rd pers pl. They. niben: (225b)",
+    "definition": "pers pron. 2nd pers m sg. You (m). nyoc: pers pron. 3rd pers f sg. She. nyof: pers pron. 3rd pers m sg. He. nywten pers pron. 2nd pers pl. You (pl). nywou: pers pron. 3rd pers pl. They. niben: (225b)",
+    "senses": [
+      {
+        "gloss": "A certain person or thing",
+        "definition": "so & so;"
+      }
+    ]
+  },
+  {
+    "headword": "adj. Every. nibi v. n/bi - To swim. nim",
+    "copticWord": "ⲁⲇϫ. Ⲉⲫⲉⲣⲑ. ⲛⲓⲃⲓ ⲫ. ⲛⲏⲃⲓ - Ⲧⲟ ϣⲱⲓⲙ. ⲛⲓⲙ",
+    "englishTransliteration": "adj. Eferth. neebi f. neebi - To shōim. nim",
+    "reference": "225a",
+    "gloss": "interrog pron. Who ?, What?",
+    "definition": "interrog pron. Who ?, What?"
+  },
+  {
+    "headword": "panim",
+    "copticWord": "ⲡⲁⲛⲓⲙ",
+    "englishTransliteration": "panim",
+    "variants": [
+      {
+        "word": "tanim",
+        "copticWord": "ⲧⲁⲛⲓⲙ",
+        "englishTransliteration": "tanim"
+      }
+    ],
+    "gloss": "Belonging to whom. nipi v. n/bi - To swim",
+    "definition": "Belonging to whom. nipi v. n/bi - To swim"
+  },
+  {
+    "headword": "nis]",
+    "copticWord": "ⲛⲓϣϯ",
+    "englishTransliteration": "nishti",
+    "variants": [
+      {
+        "word": "noj",
+        "copticWord": "ⲛⲟϫ",
+        "englishTransliteration": "noj"
+      },
+      {
+        "word": "nouj",
+        "copticWord": "ⲛⲟⲩϫ",
+        "englishTransliteration": "nouj"
+      }
+    ],
+    "reference": "250a",
+    "partOfSpeech": "adj",
+    "gloss": "Great, large",
+    "definition": "Great, large",
+    "senses": [
+      {
+        "label": "nrwmi",
+        "gloss": "Grown or old man",
+        "definition": "Grown or old man"
+      },
+      {
+        "label": "ns/ri",
+        "gloss": "Elder son",
+        "definition": "Elder son"
+      },
+      {
+        "label": "ncon",
+        "gloss": "Elder brother",
+        "definition": "Elder brother"
+      },
+      {
+        "label": "ncwni",
+        "gloss": "Elder sister",
+        "definition": "Elder sister"
+      },
+      {
+        "label": "e",
+        "gloss": "Great, old person or thing",
+        "definition": "metnis]: f. Greatness, seniority; ernis]: vb. To become, be great; grow old, be of age;"
+      },
+      {
+        "label": "e",
+        "partOfSpeech": "vb",
+        "gloss": "To be greater, older than",
+        "definition": "To be greater, older than"
+      },
+      {
+        "label": "meternis]",
+        "partOfSpeech": "f",
+        "gloss": "Greatness",
+        "definition": "swpi nnis]: vb. To become, be great;"
+      }
+    ]
+  },
+  {
+    "headword": "atnkot",
+    "copticWord": "ⲁⲧⲛⲕⲟⲧ",
+    "englishTransliteration": "atnkot",
+    "partOfSpeech": "adj",
+    "gloss": "Sleepless",
+    "definition": "Sleepless"
+  },
+  {
+    "headword": "ma nnkot",
+    "copticWord": "ⲙⲁ ⲛⲛⲕⲟⲧ",
+    "englishTransliteration": "ma nnkot",
+    "partOfSpeech": "m",
+    "gloss": "Place of lying, couch",
+    "definition": "sexual cohabitation"
+  },
+  {
+    "headword": "refnkot",
+    "copticWord": "ⲣⲉϥⲛⲕⲟⲧ",
+    "englishTransliteration": "refnkot",
+    "partOfSpeech": "m",
+    "gloss": "One who lies",
+    "definition": "One who lies"
+  },
+  {
+    "headword": "jinnkot",
+    "copticWord": "ϫⲓⲛⲛⲕⲟⲧ",
+    "englishTransliteration": "jinnkot",
+    "partOfSpeech": "m",
+    "gloss": "Act of lying, sleeping",
+    "definition": "Act of lying, sleeping"
+  },
+  {
+    "headword": "nobi",
+    "copticWord": "ⲛⲟⲃⲓ",
+    "englishTransliteration": "novi",
+    "reference": "222a",
+    "partOfSpeech": "m",
+    "gloss": "Sin",
+    "definition": "Sin"
+  },
+  {
+    "headword": "aynobi",
+    "copticWord": "ⲁⲑⲛⲟⲃⲓ",
+    "englishTransliteration": "athnovi",
+    "partOfSpeech": "adj",
+    "gloss": "Sinless, innocent",
+    "definition": "Sinless, innocent"
+  },
+  {
+    "headword": "metatnobi",
+    "copticWord": "ⲙⲉⲧⲁⲧⲛⲟⲃⲓ",
+    "englishTransliteration": "metatnovi",
+    "partOfSpeech": "f",
+    "gloss": "Sinlessness",
+    "definition": "Sinlessness"
+  },
+  {
+    "headword": "mainobi",
+    "copticWord": "ⲙⲁⲓⲛⲟⲃⲓ",
+    "englishTransliteration": "mainovi",
+    "gloss": "Sin-loving",
+    "definition": "Sin-loving"
+  },
+  {
+    "headword": "ernobi",
+    "copticWord": "ⲉⲣⲛⲟⲃⲓ",
+    "englishTransliteration": "ernovi",
+    "partOfSpeech": "vb",
+    "gloss": "To sin, commit sin",
+    "definition": "To sin, commit sin"
+  },
+  {
+    "headword": "e",
+    "copticWord": "ⲉ",
+    "englishTransliteration": "e",
+    "partOfSpeech": "vb",
+    "gloss": "To sin against",
+    "definition": "To sin against"
+  },
+  {
+    "headword": "refernobi",
+    "copticWord": "ⲣⲉϥⲉⲣⲛⲟⲃⲓ",
+    "englishTransliteration": "refernovi",
+    "partOfSpeech": "n",
+    "gloss": "Sinner",
+    "definition": "Sinner"
+  },
+  {
+    "headword": "[inobi",
+    "copticWord": "ϭⲓⲛⲟⲃⲓ",
+    "englishTransliteration": "chinovi",
+    "partOfSpeech": "vb",
+    "gloss": "To bear sin",
+    "definition": "To bear sin"
+  },
+  {
+    "headword": "no/ma",
+    "copticWord": "ⲛⲟⲏⲙⲁ",
+    "englishTransliteration": "noima",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "gloss": "To apprehend, perceive, think, consider, reflect, presume, conceive, intend, mean",
+    "definition": "To apprehend, perceive, think, consider, reflect, presume, conceive, intend, mean"
+  },
+  {
+    "headword": "ernoin",
+    "copticWord": "ⲉⲣⲛⲟⲓⲛ",
+    "englishTransliteration": "ernoin",
+    "partOfSpeech": "vb",
+    "gloss": "To perceive, understand",
+    "definition": "To perceive, understand"
+  },
+  {
+    "headword": "no/ron",
+    "copticWord": "ⲛⲟⲏⲣⲟⲛ",
+    "englishTransliteration": "noiron",
+    "gloss": "Sensible",
+    "definition": "Sensible",
+    "crossReference": {
+      "target": "nouc",
+      "gloss": "Sensible"
+    }
+  },
+  {
+    "headword": "noini",
+    "copticWord": "ⲛⲟⲓⲛⲓ",
+    "englishTransliteration": "noini",
+    "variants": [
+      {
+        "word": "nwini",
+        "copticWord": "ⲛⲱⲓⲛⲓ",
+        "englishTransliteration": "nōini"
+      }
+    ],
+    "reference": "226b",
+    "gloss": "vi. To shake, tremble",
+    "definition": "vt. shake;"
+  },
+  {
+    "headword": "nom",
+    "copticWord": "ⲛⲟⲙ",
+    "englishTransliteration": "nom",
+    "variants": [
+      {
+        "word": "nam",
+        "copticWord": "ⲛⲁⲙ",
+        "englishTransliteration": "nam"
+      }
+    ],
+    "reference": "226a",
+    "partOfSpeech": "m",
+    "gloss": "Pine, tamarisk, cypress",
+    "definition": "Pine, tamarisk, cypress"
+  },
+  {
+    "headword": "nomimon",
+    "copticWord": "ⲛⲟⲙⲓⲙⲟⲛ",
+    "englishTransliteration": "nomimon",
+    "gloss": "Customary",
+    "definition": "Customary",
+    "crossReference": {
+      "target": "nomoc",
+      "gloss": "Customary"
+    }
+  },
+  {
+    "headword": "nomicma",
+    "copticWord": "ⲛⲟⲙⲓⲥⲙⲁ",
+    "englishTransliteration": "nomisma",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Custom, institution",
+    "definition": "current coin"
+  },
+  {
+    "headword": "nomoyet/c",
+    "copticWord": "ⲛⲟⲙⲟⲑⲉⲧⲏⲥ",
+    "englishTransliteration": "nomothetis",
+    "gloss": "Legislator",
+    "definition": "Legislator",
+    "crossReference": {
+      "target": "nomoc",
+      "gloss": "Legislator"
+    }
+  },
+  {
+    "headword": "nomoc",
+    "copticWord": "ⲛⲟⲙⲟⲥ",
+    "englishTransliteration": "nomos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Law, custom, statute, ordinance",
+    "definition": "Law, custom, statute, ordinance"
+  },
+  {
+    "headword": "cemnenomoc",
+    "copticWord": "ⲥⲉⲙⲛⲉⲛⲟⲙⲟⲥ",
+    "englishTransliteration": "semnenomos",
+    "partOfSpeech": "vb",
+    "gloss": "To draft law, legislate",
+    "definition": "To draft law, legislate"
+  }
+]

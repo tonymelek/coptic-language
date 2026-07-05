@@ -1,0 +1,492 @@
+[
+  {
+    "headword": "ar",
+    "copticWord": "ⲁⲣ",
+    "englishTransliteration": "ar",
+    "variants": [
+      {
+        "word": "/diakwn",
+        "copticWord": "ⲏⲇⲓⲁⲕⲱⲛ",
+        "englishTransliteration": "idiakōn"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Archdeacon",
+    "definition": "Archdeacon"
+  },
+  {
+    "headword": "ar,/cunagwgou",
+    "copticWord": "ⲁⲣⲭⲏⲥⲩⲛⲁⲅⲱⲅⲟⲩ",
+    "englishTransliteration": "arkhisynagōgou",
+    "gloss": "Ruler of a synagogue",
+    "definition": "Ruler of a synagogue",
+    "crossReference": {
+      "target": "ar,/cunagwgoc",
+      "gloss": "Ruler of a synagogue"
+    }
+  },
+  {
+    "headword": "aceb/c",
+    "copticWord": "ⲁⲥⲉⲃⲏⲥ",
+    "englishTransliteration": "asevis",
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Ungodly, unholy, profane, sacrilegious",
+    "definition": "m. ungodly one"
+  },
+  {
+    "headword": "metaceb/c",
+    "copticWord": "ⲙⲉⲧⲁⲥⲉⲃⲏⲥ",
+    "englishTransliteration": "metasevis",
+    "partOfSpeech": "f",
+    "gloss": "Ungodliness, profanity. acyeneia: (Gk)",
+    "definition": "Ungodliness, profanity. acyeneia: (Gk)"
+  },
+  {
+    "headword": "f. Want of strength",
+    "copticWord": "ϥ. Ⲱⲁⲛⲧ ⲟϥ ϣⲧⲣⲉⲛⲅⲧϩ",
+    "englishTransliteration": "f. Ōant of shtrength",
+    "variants": [
+      {
+        "word": "weakness",
+        "copticWord": "ⲱⲉⲁⲕⲛⲉϣϣ",
+        "englishTransliteration": "ōeakneshsh"
+      },
+      {
+        "word": "sickness",
+        "copticWord": "ϣⲓⲥⲕⲛⲉϣϣ",
+        "englishTransliteration": "shiskneshsh"
+      },
+      {
+        "word": "feebleness. acyen/c",
+        "copticWord": "ϥⲉⲉⲃⲗⲉⲛⲉϣϣ. ⲁⲥⲑⲉⲛⲏⲥ",
+        "englishTransliteration": "feevleneshsh. asthenis"
+      }
+    ],
+    "reference": "Gk",
+    "isGreek": true
+  },
+  {
+    "headword": "adj. Weak",
+    "copticWord": "ⲁⲇϫ. Ⲱⲉⲁⲕ",
+    "englishTransliteration": "adj. Ōeak",
+    "variants": [
+      {
+        "word": "feeble",
+        "copticWord": "ϥⲉⲉⲃⲗⲉ",
+        "englishTransliteration": "feevle"
+      },
+      {
+        "word": "infirm",
+        "copticWord": "ⲓⲛϥⲓⲣⲙ",
+        "englishTransliteration": "infirm"
+      },
+      {
+        "word": "sick. aciai",
+        "copticWord": "ϣⲓⲥⲕ. ⲁⲥⲓⲁⲓ",
+        "englishTransliteration": "shisk. asiai"
+      },
+      {
+        "word": "aciwou",
+        "note": "Q",
+        "copticWord": "ⲁⲥⲓⲱⲟⲩ",
+        "englishTransliteration": "asiōou"
+      }
+    ],
+    "reference": "17b",
+    "gloss": "vi. To be light, be relieved, be swift",
+    "definition": "vt. to lighten; ---: m. Lightness, alleviation; Q. hastiness"
+  },
+  {
+    "headword": "qen ouaciwou",
+    "copticWord": "ϧⲉⲛ ⲟⲩⲁⲥⲓⲱⲟⲩ",
+    "englishTransliteration": "khen ouasiōou",
+    "partOfSpeech": "adv",
+    "gloss": "Lightly. acaf: (18b)",
+    "definition": "Lightly. acaf: (18b)"
+  },
+  {
+    "headword": "n. A plant explained as `bark",
+    "copticWord": "ⲛ. Ⲁ ⲡⲗⲁⲛⲧ ⲉⲝⲡⲗⲁⲓⲛⲉⲇ ⲁϣ `ⲃⲁⲣⲕ",
+    "englishTransliteration": "n. A plant eksplained ash `vark",
+    "variants": [
+      {
+        "word": "rind of caper root'. acbol/",
+        "copticWord": "ⲣⲓⲛⲇ ⲟϥ ⲥⲁⲡⲉⲣ ⲣⲟⲟⲧⲯ. ⲁⲥⲃⲟⲗⲏ",
+        "englishTransliteration": "rind of saper rootps. asvoli"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Soot",
+    "definition": "Soot"
+  },
+  {
+    "headword": "aciwou",
+    "copticWord": "ⲁⲥⲓⲱⲟⲩ",
+    "englishTransliteration": "asiōou",
+    "gloss": "Lighten",
+    "definition": "Lighten",
+    "crossReference": {
+      "target": "aciai",
+      "gloss": "Lighten"
+    }
+  },
+  {
+    "headword": "ar,/telwnou",
+    "copticWord": "ⲁⲣⲭⲏⲧⲉⲗⲱⲛⲟⲩ",
+    "englishTransliteration": "arkhitelōnou",
+    "gloss": "Chief publican",
+    "definition": "Chief publican",
+    "crossReference": {
+      "target": "ar,/telwn/c",
+      "gloss": "Chief publican"
+    }
+  },
+  {
+    "headword": "ack/cic",
+    "copticWord": "ⲁⲥⲕⲏⲥⲓⲥ",
+    "englishTransliteration": "askisis",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Asceticism, exercise, practise, training",
+    "definition": "Asceticism, exercise, practise, training"
+  },
+  {
+    "headword": "ack/t/c",
+    "copticWord": "ⲁⲥⲕⲏⲧⲏⲥ",
+    "englishTransliteration": "askitis",
+    "variants": [
+      {
+        "word": "-ou",
+        "copticWord": "-ⲟⲩ",
+        "englishTransliteration": "-ou"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Hermit, monk, ascete",
+    "definition": "Hermit, monk, ascete"
+  },
+  {
+    "headword": "ack/tikoc",
+    "copticWord": "ⲁⲥⲕⲏⲧⲓⲕⲟⲥ",
+    "englishTransliteration": "askitikos",
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Ascetic, laborious",
+    "definition": "Ascetic, laborious"
+  },
+  {
+    "headword": "ack/tou",
+    "copticWord": "ⲁⲥⲕⲏⲧⲟⲩ",
+    "englishTransliteration": "askitou",
+    "gloss": "Hermit",
+    "definition": "Hermit",
+    "crossReference": {
+      "target": "ack/t/c",
+      "gloss": "Hermit"
+    }
+  },
+  {
+    "headword": "ar,i",
+    "copticWord": "ⲁⲣⲭⲓ",
+    "englishTransliteration": "arkhi",
+    "gloss": "Beginning",
+    "definition": "Beginning",
+    "crossReference": {
+      "target": "ar,/",
+      "gloss": "Beginning"
+    }
+  },
+  {
+    "headword": "ar,iereuc",
+    "copticWord": "ⲁⲣⲭⲓⲉⲣⲉⲩⲥ",
+    "englishTransliteration": "arkhierevs",
+    "gloss": "high priest",
+    "definition": "high priest",
+    "crossReference": {
+      "target": "ar,/ereuc",
+      "gloss": "high priest"
+    }
+  },
+  {
+    "headword": "ar,ontoc",
+    "copticWord": "ⲁⲣⲭⲟⲛⲧⲟⲥ",
+    "englishTransliteration": "arkhontos",
+    "gloss": "Ruler",
+    "definition": "Ruler",
+    "crossReference": {
+      "target": "ar,wn",
+      "gloss": "Ruler"
+    }
+  },
+  {
+    "headword": "ackoc",
+    "copticWord": "ⲁⲥⲕⲟⲥ",
+    "englishTransliteration": "askos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Wineskin, bellow",
+    "definition": "Wineskin, bellow"
+  },
+  {
+    "headword": "acma",
+    "copticWord": "ⲁⲥⲙⲁ",
+    "englishTransliteration": "asma",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Song esp. lyric ode, hymn",
+    "definition": "Song esp. lyric ode, hymn"
+  },
+  {
+    "headword": "aco",
+    "copticWord": "ⲁⲥⲟ",
+    "englishTransliteration": "aso",
+    "reference": "317a",
+    "partOfSpeech": "n",
+    "gloss": "w/] forms vi. to spare, refrain",
+    "definition": "w/] forms vi. to spare, refrain"
+  },
+  {
+    "headword": "arwma",
+    "copticWord": "ⲁⲣⲱⲙⲁ",
+    "englishTransliteration": "arōma",
+    "variants": [
+      {
+        "word": "-atoc",
+        "copticWord": "-ⲁⲧⲟⲥ",
+        "englishTransliteration": "-atos"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "An aromatic herb or spice",
+    "definition": "aroma."
+  },
+  {
+    "headword": "arwmatizecye",
+    "copticWord": "ⲁⲣⲱⲙⲁⲧⲓⲍⲉⲥⲑⲉ",
+    "englishTransliteration": "arōmatizesthe",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "v. (w/ er-) to spice, perfume",
+    "definition": "v. (w/ er-) to spice, perfume"
+  },
+  {
+    "headword": "arwmatikon",
+    "copticWord": "ⲁⲣⲱⲙⲁⲧⲓⲕⲟⲛ",
+    "englishTransliteration": "arōmatikon",
+    "gloss": "Aro-matic",
+    "definition": "Aro-matic",
+    "crossReference": {
+      "target": "arwmatikoc",
+      "gloss": "Aro-matic"
+    }
+  },
+  {
+    "headword": "arwmatikoc",
+    "copticWord": "ⲁⲣⲱⲙⲁⲧⲓⲕⲟⲥ",
+    "englishTransliteration": "arōmatikos",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Aromatic",
+    "definition": "Aromatic"
+  },
+  {
+    "headword": "arwmatoc",
+    "copticWord": "ⲁⲣⲱⲙⲁⲧⲟⲥ",
+    "englishTransliteration": "arōmatos",
+    "gloss": "Aroma",
+    "definition": "Aroma",
+    "crossReference": {
+      "target": "arwma",
+      "gloss": "Aroma"
+    }
+  },
+  {
+    "headword": "arwoui",
+    "copticWord": "ⲁⲣⲱⲟⲩⲓ",
+    "englishTransliteration": "arōoui",
+    "variants": [
+      {
+        "word": "rwoui",
+        "copticWord": "ⲣⲱⲟⲩⲓ",
+        "englishTransliteration": "rōoui"
+      }
+    ],
+    "reference": "306b",
+    "partOfSpeech": "m",
+    "gloss": "Stubble",
+    "definition": "Stubble"
+  },
+  {
+    "headword": "ars/t",
+    "copticWord": "ⲁⲣϣⲏⲧ",
+    "englishTransliteration": "arshit",
+    "variants": [
+      {
+        "word": "ers/t",
+        "copticWord": "ⲉⲣϣⲏⲧ",
+        "englishTransliteration": "ershit"
+      }
+    ],
+    "reference": "16b",
+    "partOfSpeech": "vb",
+    "gloss": "Same as tarso, `to multiply'",
+    "definition": "Same as tarso, `to multiply'"
+  },
+  {
+    "headword": "arsin",
+    "copticWord": "ⲁⲣϣⲓⲛ",
+    "englishTransliteration": "arshin",
+    "reference": "16b",
+    "partOfSpeech": "m",
+    "gloss": "Lentil",
+    "definition": "Lentil"
+  },
+  {
+    "headword": "acron",
+    "copticWord": "ⲁⲥⲣⲟⲛ",
+    "englishTransliteration": "asron",
+    "variants": [
+      {
+        "word": "-ou",
+        "copticWord": "-ⲟⲩ",
+        "englishTransliteration": "-ou"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "A plant, hazelwort",
+    "definition": "A plant, hazelwort"
+  },
+  {
+    "headword": "acrou",
+    "copticWord": "ⲁⲥⲣⲟⲩ",
+    "englishTransliteration": "asrou",
+    "gloss": "Hazelwort",
+    "definition": "Hazelwort",
+    "crossReference": {
+      "target": "acron",
+      "gloss": "Hazelwort"
+    }
+  },
+  {
+    "headword": "]aco",
+    "copticWord": "ϯⲁⲥⲟ",
+    "englishTransliteration": "tiaso",
+    "partOfSpeech": "n",
+    "gloss": "Forbearance",
+    "definition": "Forbearance"
+  },
+  {
+    "headword": "a[ne ]aco",
+    "copticWord": "ⲁϭⲛⲉ ϯⲁⲥⲟ",
+    "englishTransliteration": "achne tiaso",
+    "partOfSpeech": "adj",
+    "gloss": "Without sparing, unhindered",
+    "definition": "Without sparing, unhindered"
+  },
+  {
+    "headword": "at]aco",
+    "copticWord": "ⲁⲧϯⲁⲥⲟ",
+    "englishTransliteration": "attiaso",
+    "partOfSpeech": "adj",
+    "gloss": "Unsparing",
+    "definition": "Unsparing"
+  },
+  {
+    "headword": "metat]aco",
+    "copticWord": "ⲙⲉⲧⲁⲧϯⲁⲥⲟ",
+    "englishTransliteration": "metattiaso",
+    "partOfSpeech": "f",
+    "gloss": "Unrestrainedness",
+    "definition": "Unrestrainedness"
+  },
+  {
+    "headword": "acofper",
+    "copticWord": "ⲁⲥⲟϥⲡⲉⲣ",
+    "englishTransliteration": "asofper",
+    "reference": "18b",
+    "partOfSpeech": "n",
+    "gloss": "Explained as bitter nut (or plant)",
+    "definition": "Explained as bitter nut (or plant)"
+  },
+  {
+    "headword": "acpazecye",
+    "copticWord": "ⲁⲥⲡⲁⲍⲉⲥⲑⲉ",
+    "englishTransliteration": "aspazesthe",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "gloss": "(w/ er-) To welcome kindly, greet, salute, kiss, embrace",
+    "definition": "(w/ er-) To welcome kindly, greet, salute, kiss, embrace"
+  },
+  {
+    "headword": "acpi",
+    "copticWord": "ⲁⲥⲡⲓ",
+    "englishTransliteration": "aspi",
+    "reference": "18a",
+    "partOfSpeech": "f",
+    "gloss": "Language, speech",
+    "definition": "Language, speech"
+  },
+  {
+    "headword": "remntacpi",
+    "copticWord": "ⲣⲉⲙⲛⲧⲁⲥⲡⲓ",
+    "englishTransliteration": "remntaspi",
+    "partOfSpeech": "m",
+    "gloss": "Eloquent man",
+    "definition": "Eloquent man"
+  },
+  {
+    "headword": "accuria",
+    "copticWord": "ⲁⲥⲥⲩⲣⲓⲁ",
+    "englishTransliteration": "assyria",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Assyria",
+    "definition": "Assyria"
+  },
+  {
+    "headword": "actrologia",
+    "copticWord": "ⲁⲥⲧⲣⲟⲗⲟⲅⲓⲁ",
+    "englishTransliteration": "astrologia",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Astronomy, astrology",
+    "definition": "Astronomy, astrology"
+  },
+  {
+    "headword": "actrologoc",
+    "copticWord": "ⲁⲥⲧⲣⲟⲗⲟⲅⲟⲥ",
+    "englishTransliteration": "astrologos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Astronomer",
+    "definition": "later -astrologer."
+  }
+]

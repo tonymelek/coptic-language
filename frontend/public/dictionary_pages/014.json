@@ -1,0 +1,519 @@
+[
+  {
+    "headword": "acoui",
+    "copticWord": "ⲁⲥⲟⲩⲓ",
+    "englishTransliteration": "asoui",
+    "reference": "18b",
+    "partOfSpeech": "f",
+    "gloss": "Purse, wallet",
+    "definition": "Purse, wallet"
+  },
+  {
+    "headword": "bag. acouli",
+    "copticWord": "ⲃⲁⲅ. ⲁⲥⲟⲩⲗⲓ",
+    "englishTransliteration": "vag. asouli",
+    "reference": "18a",
+    "gloss": "pl. Butterflies. acvalton v. acvaltoc - Asphalt",
+    "definition": "pl. Butterflies. acvalton v. acvaltoc - Asphalt"
+  },
+  {
+    "headword": "aoub/t",
+    "copticWord": "ⲁⲟⲩⲃⲏⲧ",
+    "englishTransliteration": "aouvit",
+    "reference": "21b",
+    "partOfSpeech": "m",
+    "gloss": "Collection, company (of persons)",
+    "definition": "Collection, company (of persons)"
+  },
+  {
+    "headword": "(monastic) congregation",
+    "copticWord": "(ⲙⲟⲛⲁϣⲧⲓⲥ) ⲥⲟⲛⲅⲣⲉⲅⲁⲧⲓⲟⲛ",
+    "englishTransliteration": "(monashtis) songregation",
+    "variants": [
+      {
+        "word": "monastery. augouctoc",
+        "copticWord": "ⲙⲟⲛⲁϣⲧⲉⲣⲑ. ⲁⲩⲅⲟⲩⲥⲧⲟⲥ",
+        "englishTransliteration": "monashterth. avgoustos"
+      },
+      {
+        "word": "-ou",
+        "copticWord": "-ⲟⲩ",
+        "englishTransliteration": "-ou"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Augustus, August. augouctou v. augouctoc - August. au/r, aou/r v. ou/r - About (circa). auyadikon v. auyadikoc - Stubborn. auyadikoc, -on, auyat/c: (Gk)",
+    "definition": "Augustus, August. augouctou v. augouctoc - August. au/r, aou/r v. ou/r - About (circa). auyadikon v. auyadikoc - Stubborn. auyadikoc, -on, auyat/c: (Gk)"
+  },
+  {
+    "headword": "adj. Stubborn",
+    "copticWord": "ⲁⲇϫ. Ϣⲧⲩⲃⲃⲟⲣⲛ",
+    "englishTransliteration": "adj. Shtyvorn",
+    "variants": [
+      {
+        "word": "self-willed. aouan",
+        "copticWord": "ϣⲉⲗϥ-ⲱⲓⲗⲗⲉⲇ. ⲁⲟⲩⲁⲛ",
+        "englishTransliteration": "shelf-ōilled. aouan"
+      },
+      {
+        "word": "aban",
+        "copticWord": "ⲁⲃⲁⲛ",
+        "englishTransliteration": "avan"
+      }
+    ],
+    "reference": "20b",
+    "partOfSpeech": "m",
+    "gloss": "Color",
+    "definition": "appearance"
+  },
+  {
+    "headword": "aoui aouan",
+    "copticWord": "ⲁⲟⲩⲓ ⲁⲟⲩⲁⲛ",
+    "englishTransliteration": "aoui aouan",
+    "variants": [
+      {
+        "word": "abi aban",
+        "copticWord": "ⲁⲃⲓ ⲁⲃⲁⲛ",
+        "englishTransliteration": "avi avan"
+      }
+    ],
+    "gloss": "Variety of colors",
+    "definition": "Variety of colors"
+  },
+  {
+    "headword": "aouin",
+    "copticWord": "ⲁⲟⲩⲓⲛ",
+    "englishTransliteration": "aouin",
+    "partOfSpeech": "m",
+    "gloss": "Jaundice",
+    "definition": "Jaundice"
+  },
+  {
+    "headword": "acvaltoc",
+    "copticWord": "ⲁⲥⲫⲁⲗⲧⲟⲥ",
+    "englishTransliteration": "asfaltos",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      },
+      {
+        "word": "-ou",
+        "copticWord": "-ⲟⲩ",
+        "englishTransliteration": "-ou"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Asphalt, bitumen, pitch, kind of petroleum",
+    "definition": "Asphalt, bitumen, pitch, kind of petroleum"
+  },
+  {
+    "headword": "acvaltou",
+    "copticWord": "ⲁⲥⲫⲁⲗⲧⲟⲩ",
+    "englishTransliteration": "asfaltou",
+    "gloss": "Asphalt. acvoui: (18b)",
+    "definition": "n. 1st year of reign.",
+    "crossReference": {
+      "target": "acvaltoc",
+      "gloss": "Asphalt. acvoui: (18b)"
+    }
+  },
+  {
+    "headword": "acwmatoc",
+    "copticWord": "ⲁⲥⲱⲙⲁⲧⲟⲥ",
+    "englishTransliteration": "asōmatos",
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Disembodied, in-corporeal",
+    "definition": "Disembodied, in-corporeal"
+  },
+  {
+    "headword": "at",
+    "copticWord": "ⲁⲧ",
+    "englishTransliteration": "at",
+    "variants": [
+      {
+        "word": "ay-",
+        "note": "before liquids",
+        "copticWord": "ⲁⲑ-",
+        "englishTransliteration": "ath-"
+      }
+    ],
+    "reference": "18b",
+    "gloss": "A neg. prfx forming adj.",
+    "definition": "un-, without"
+  },
+  {
+    "headword": "metat",
+    "copticWord": "ⲙⲉⲧⲁⲧ",
+    "englishTransliteration": "metat",
+    "gloss": "forming f. n",
+    "definition": "forming f. n"
+  },
+  {
+    "headword": "auyat/c",
+    "copticWord": "ⲁⲩⲑⲁⲧⲏⲥ",
+    "englishTransliteration": "avthatis",
+    "gloss": "Stubborn. aoui aouan v. aouan - Variety of colors",
+    "definition": "Stubborn. aoui aouan v. aouan - Variety of colors",
+    "crossReference": {
+      "target": "auyadikoc",
+      "gloss": "Stubborn. aoui aouan v. aouan - Variety of colors"
+    }
+  },
+  {
+    "headword": "atamantinon",
+    "copticWord": "ⲁⲧⲁⲙⲁⲛⲧⲓⲛⲟⲛ",
+    "englishTransliteration": "atamantinon",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Unknown",
+    "definition": "Unknown"
+  },
+  {
+    "headword": "atamac",
+    "copticWord": "ⲁⲧⲁⲙⲁⲥ",
+    "englishTransliteration": "atamas",
+    "gloss": "Diamond",
+    "definition": "Diamond",
+    "crossReference": {
+      "target": "adamac",
+      "gloss": "Diamond"
+    }
+  },
+  {
+    "headword": "ataouin",
+    "copticWord": "ⲁⲧⲁⲟⲩⲓⲛ",
+    "englishTransliteration": "ataouin",
+    "gloss": "Without cargo",
+    "definition": "Without cargo",
+    "crossReference": {
+      "target": "aouin",
+      "gloss": "Without cargo"
+    }
+  },
+  {
+    "headword": "atonon",
+    "copticWord": "ⲁⲧⲟⲛⲟⲛ",
+    "englishTransliteration": "atonon",
+    "gloss": "Weak",
+    "definition": "Weak",
+    "crossReference": {
+      "target": "atonoc",
+      "gloss": "Weak"
+    }
+  },
+  {
+    "headword": "atonoc",
+    "copticWord": "ⲁⲧⲟⲛⲟⲥ",
+    "englishTransliteration": "atonos",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Lacking of elasticity, weak, slack",
+    "definition": "Lacking of elasticity, weak, slack"
+  },
+  {
+    "headword": "auic",
+    "copticWord": "ⲁⲩⲓⲥ",
+    "englishTransliteration": "avis",
+    "reference": "19b",
+    "gloss": "imperat. part. Give, bring hither",
+    "definition": "come."
+  },
+  {
+    "headword": "atopon",
+    "copticWord": "ⲁⲧⲟⲡⲟⲛ",
+    "englishTransliteration": "atopon",
+    "gloss": "Foul",
+    "definition": "Foul",
+    "crossReference": {
+      "target": "atopoc",
+      "gloss": "Foul"
+    }
+  },
+  {
+    "headword": "atopoc",
+    "copticWord": "ⲁⲧⲟⲡⲟⲥ",
+    "englishTransliteration": "atopos",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      }
+    ],
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Out of place, out of the way, disgusting, foul, extraordinary",
+    "definition": "Out of place, out of the way, disgusting, foul, extraordinary"
+  },
+  {
+    "headword": "aul/",
+    "copticWord": "ⲁⲩⲗⲏ",
+    "englishTransliteration": "avli",
+    "variants": [
+      {
+        "word": "-/c",
+        "copticWord": "-ⲏⲥ",
+        "englishTransliteration": "-is"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Open court (before the house), courtyard, court, hall chamber, abode, dwelling, steading for cattle",
+    "definition": "Open court (before the house), courtyard, court, hall chamber, abode, dwelling, steading for cattle"
+  },
+  {
+    "headword": "aul/c",
+    "copticWord": "ⲁⲩⲗⲏⲥ",
+    "englishTransliteration": "avlis",
+    "gloss": "Courtyard",
+    "definition": "Courtyard",
+    "crossReference": {
+      "target": "aul/",
+      "gloss": "Courtyard"
+    }
+  },
+  {
+    "headword": "atparaba",
+    "copticWord": "ⲁⲧⲡⲁⲣⲁⲃⲁ",
+    "englishTransliteration": "atparava",
+    "reference": "Gk?",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Without taking by force",
+    "definition": "Without taking by force"
+  },
+  {
+    "headword": "aul/ou",
+    "copticWord": "ⲁⲩⲗⲏⲟⲩ",
+    "englishTransliteration": "avliou",
+    "reference": "20b"
+  },
+  {
+    "headword": "pl. Part of monk's dress. auxon",
+    "copticWord": "ⲡⲗ. Ⲡⲁⲣⲧ ⲟϥ ⲙⲟⲛⲕⲯϣ ⲇⲣⲉϣϣ. ⲁⲩⲝⲟⲛ",
+    "englishTransliteration": "pl. Part of monkpssh dreshsh. avkson",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Unknown",
+    "definition": "Unknown"
+  },
+  {
+    "headword": "atre",
+    "copticWord": "ⲁⲧⲣⲉ",
+    "englishTransliteration": "atre",
+    "variants": [
+      {
+        "type": "pl.",
+        "word": "ayreu",
+        "copticWord": "ⲁⲑⲣⲉⲩ",
+        "englishTransliteration": "athrev"
+      },
+      {
+        "word": "atreu",
+        "copticWord": "ⲁⲧⲣⲉⲩ",
+        "englishTransliteration": "atrev"
+      }
+    ],
+    "reference": "726b",
+    "gloss": "A doubled thing, twin",
+    "definition": "testicles."
+  },
+  {
+    "headword": "atreu",
+    "copticWord": "ⲁⲧⲣⲉⲩ",
+    "englishTransliteration": "atrev",
+    "gloss": "Twins",
+    "definition": "Twins",
+    "crossReference": {
+      "target": "atre",
+      "gloss": "Twins"
+    }
+  },
+  {
+    "headword": "atrovia",
+    "copticWord": "ⲁⲧⲣⲟⲫⲓⲁ",
+    "englishTransliteration": "atrofia",
+    "variants": [
+      {
+        "word": "-ac",
+        "copticWord": "-ⲁⲥ",
+        "englishTransliteration": "-as"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Want of food or nourishment, atrophy, starvation, diet",
+    "definition": "Want of food or nourishment, atrophy, starvation, diet"
+  },
+  {
+    "headword": "aur/j=",
+    "copticWord": "ⲁⲩⲣⲏϫ",
+    "englishTransliteration": "avrij",
+    "reference": "16b",
+    "partOfSpeech": "n",
+    "gloss": "Limit, end",
+    "definition": "always with suffix of things limited"
+  },
+  {
+    "headword": "ataur/j=",
+    "copticWord": "ⲁⲧⲁⲩⲣⲏϫ",
+    "englishTransliteration": "atavrij",
+    "gloss": "neg adj. Limitless, boundless",
+    "definition": "neg adj. Limitless, boundless"
+  },
+  {
+    "headword": "atroviac",
+    "copticWord": "ⲁⲧⲣⲟⲫⲓⲁⲥ",
+    "englishTransliteration": "atrofias",
+    "gloss": "Atrophy",
+    "definition": "Atrophy",
+    "crossReference": {
+      "target": "atrovia",
+      "gloss": "Atrophy"
+    }
+  },
+  {
+    "headword": "atrovoc",
+    "copticWord": "ⲁⲧⲣⲟⲫⲟⲥ",
+    "englishTransliteration": "atrofos",
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Ill-fed, non-viable, ill of atrophy",
+    "definition": "Ill-fed, non-viable, ill of atrophy"
+  },
+  {
+    "headword": "autokratwr",
+    "copticWord": "ⲁⲩⲧⲟⲕⲣⲁⲧⲱⲣ",
+    "englishTransliteration": "avtokratōr",
+    "reference": "Gk",
+    "partOfSpeech": "adv",
+    "isGreek": true,
+    "gloss": "One's own master, free, independent, absolute ruler, possessing full powers",
+    "definition": "One's own master, free, independent, absolute ruler, possessing full powers"
+  },
+  {
+    "headword": "at[ne",
+    "copticWord": "ⲁⲧϭⲛⲉ",
+    "englishTransliteration": "atchne",
+    "variants": [
+      {
+        "word": "a[ne",
+        "copticWord": "ⲁϭⲛⲉ",
+        "englishTransliteration": "achne"
+      },
+      {
+        "word": "at[nou=",
+        "copticWord": "ⲁⲧϭⲛⲟⲩ",
+        "englishTransliteration": "atchnou"
+      }
+    ],
+    "reference": "25b",
+    "gloss": "prep. Without",
+    "definition": "prep. Without"
+  },
+  {
+    "headword": "autourgoc",
+    "copticWord": "ⲁⲩⲧⲟⲩⲣⲅⲟⲥ",
+    "englishTransliteration": "avtourgos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Self-working, husband-man, simple, native",
+    "definition": "Self-working, husband-man, simple, native"
+  },
+  {
+    "headword": "at[nou=",
+    "copticWord": "ⲁⲧϭⲛⲟⲩ",
+    "englishTransliteration": "atchnou",
+    "gloss": "- Without",
+    "definition": "- Without",
+    "crossReference": {
+      "target": "at[ne",
+      "gloss": "- Without"
+    }
+  },
+  {
+    "headword": "at[r/n",
+    "copticWord": "ⲁⲧϭⲣⲏⲛ",
+    "englishTransliteration": "atchrin",
+    "gloss": "Barren. au- v. a- About",
+    "definition": "Barren. au- v. a- About",
+    "crossReference": {
+      "target": "a[r/n",
+      "gloss": "Barren. au- v. a- About"
+    }
+  },
+  {
+    "headword": "aouw",
+    "copticWord": "ⲁⲟⲩⲱ",
+    "englishTransliteration": "aouō",
+    "variants": [
+      {
+        "word": "ouw",
+        "copticWord": "ⲟⲩⲱ",
+        "englishTransliteration": "ouō"
+      }
+    ],
+    "reference": "62b",
+    "partOfSpeech": "f",
+    "gloss": "Pledge, surety",
+    "definition": "] naouw: vb. To give as pledge; ,w naouw: vb. To deposit as pledge"
+  },
+  {
+    "headword": "[i naouw",
+    "copticWord": "ϭⲓ ⲛⲁⲟⲩⲱ",
+    "englishTransliteration": "chi naouō",
+    "partOfSpeech": "vb",
+    "gloss": "To take as a pledge",
+    "definition": "To take as a pledge"
+  },
+  {
+    "headword": "(1) aouw",
+    "copticWord": "ⲁⲟⲩⲱ",
+    "englishTransliteration": "aouō",
+    "gloss": "Cease",
+    "definition": "Cease",
+    "crossReference": {
+      "target": "ouw",
+      "gloss": "Cease"
+    }
+  },
+  {
+    "headword": "(2) aouw",
+    "copticWord": "ⲁⲟⲩⲱ",
+    "englishTransliteration": "aouō",
+    "gloss": "Cease",
+    "definition": "Cease",
+    "crossReference": {
+      "target": "ouw",
+      "gloss": "Cease"
+    }
+  },
+  {
+    "headword": "aouwn",
+    "copticWord": "ⲁⲟⲩⲱⲛ",
+    "englishTransliteration": "aouōn",
+    "partOfSpeech": "vb",
+    "gloss": "imperat. of ouwn, to open. aujal: (704a)",
+    "definition": "m. Anchor, hook."
+  }
+]

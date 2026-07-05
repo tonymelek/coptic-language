@@ -1,0 +1,359 @@
+[
+  {
+    "headword": "vwrs",
+    "copticWord": "ⲫⲱⲣϣ",
+    "englishTransliteration": "fōrsh",
+    "variants": [
+      {
+        "word": "vwrj",
+        "copticWord": "ⲫⲱⲣϫ",
+        "englishTransliteration": "fōrj"
+      },
+      {
+        "word": "vers",
+        "copticWord": "ⲫⲉⲣϣ",
+        "englishTransliteration": "fersh"
+      },
+      {
+        "word": "vors=",
+        "copticWord": "ⲫⲟⲣϣ",
+        "englishTransliteration": "forsh"
+      },
+      {
+        "word": "(Q) vors",
+        "copticWord": "(Ϧ) ⲫⲟⲣϣ",
+        "englishTransliteration": "(Kh) forsh"
+      }
+    ],
+    "reference": "269b",
+    "gloss": "vi. To be spread",
+    "definition": "vt. To spread;",
+    "senses": [
+      {
+        "label": "ejen",
+        "gloss": "vt. To spread upon",
+        "definition": "vt. To spread upon"
+      },
+      {
+        "label": "qa",
+        "gloss": "vi. To spread beneath, prepare (couch)",
+        "definition": "vi. To spread beneath, prepare (couch)"
+      },
+      {
+        "label": "hi",
+        "gloss": "vt. To spread on, in",
+        "definition": "vt. To spread on, in"
+      },
+      {
+        "label": "qen",
+        "gloss": "vt. To spread on, in",
+        "definition": "vt. To spread on, in"
+      },
+      {
+        "label": "qaten",
+        "gloss": "vt. To spread beside",
+        "definition": "vt. To spread beside"
+      },
+      {
+        "label": "ebol",
+        "gloss": "vi. To be spread out",
+        "definition": "vi. To be spread out"
+      },
+      {
+        "label": "ebol e",
+        "gloss": "vt. To spread to",
+        "definition": "vt. To spread to"
+      },
+      {
+        "label": "ebol ejen",
+        "gloss": "vt. To spread on, over",
+        "definition": "vt. To spread on, over"
+      },
+      {
+        "label": "ebol hijen",
+        "gloss": "vt. To spread on, over",
+        "definition": "vt. To spread on, over"
+      },
+      {
+        "gloss": "vt. To spread out, abroad",
+        "definition": "vt. To spread out, abroad"
+      },
+      {
+        "label": "epswi",
+        "gloss": "vt. To spread upward",
+        "definition": "---: m. Thing spread;"
+      },
+      {
+        "label": "ma nvwrs",
+        "partOfSpeech": "m",
+        "gloss": "Place spread, couch",
+        "definition": "jinvwrs: m. act of, place of spreading;"
+      },
+      {
+        "label": "vorsi",
+        "partOfSpeech": "f",
+        "gloss": "Spread table",
+        "definition": "Spread table"
+      },
+      {
+        "label": "mavr/s",
+        "partOfSpeech": "m",
+        "gloss": "a kind of sleeping place for the king. vr/s: m. Thing spread",
+        "definition": "a kind of sleeping place for the king. vr/s: m. Thing spread"
+      }
+    ]
+  },
+  {
+    "headword": "vwr",
+    "copticWord": "ⲫⲱⲣ",
+    "englishTransliteration": "fōr",
+    "variants": [
+      {
+        "word": "ver",
+        "copticWord": "ⲫⲉⲣ",
+        "englishTransliteration": "fer"
+      }
+    ],
+    "reference": "268a",
+    "gloss": "vt. To dream, +racou",
+    "definition": "vt. To dream, +racou"
+  },
+  {
+    "headword": "refvwr nrwmi",
+    "copticWord": "ⲣⲉϥⲫⲱⲣ ⲛⲣⲱⲙⲓ",
+    "englishTransliteration": "reffōr nrōmi",
+    "partOfSpeech": "m",
+    "gloss": "Dreamer of dreams",
+    "definition": "Dreamer of dreams"
+  },
+  {
+    "headword": "(1) vwrk",
+    "copticWord": "ⲫⲱⲣⲕ",
+    "englishTransliteration": "fōrk",
+    "variants": [
+      {
+        "word": "verk",
+        "copticWord": "ⲫⲉⲣⲕ",
+        "englishTransliteration": "ferk"
+      },
+      {
+        "word": "vork=",
+        "copticWord": "ⲫⲟⲣⲕ",
+        "englishTransliteration": "fork"
+      },
+      {
+        "word": "(Q) vork",
+        "copticWord": "(Ϧ) ⲫⲟⲣⲕ",
+        "englishTransliteration": "(Kh) fork"
+      }
+    ],
+    "reference": "268b",
+    "gloss": "vi. To be plucked out, destroyed",
+    "definition": "vi. To be plucked out, destroyed",
+    "senses": [
+      {
+        "gloss": "vt. To pluck, root out",
+        "definition": "vt. To pluck, root out"
+      },
+      {
+        "label": "qen",
+        "gloss": "vt. To pluck from",
+        "definition": "vt. To pluck from"
+      },
+      {
+        "label": "ebol",
+        "gloss": "vt. To pluck out",
+        "definition": "vi. To be plucked out, start out; qen: vt. To pluck out from;"
+      },
+      {
+        "label": "epec/t",
+        "gloss": "vt. To drag down",
+        "definition": "---epswi: vt. To pull up; --: m. Plucking out."
+      }
+    ]
+  },
+  {
+    "headword": "pietverk",
+    "copticWord": "ⲡⲓⲉⲧⲫⲉⲣⲕ",
+    "englishTransliteration": "pietferk",
+    "partOfSpeech": "m",
+    "gloss": "With wide-set teeth or split upper lip",
+    "definition": "With wide-set teeth or split upper lip"
+  },
+  {
+    "headword": "vwrj",
+    "copticWord": "ⲫⲱⲣϫ",
+    "englishTransliteration": "fōrj",
+    "gloss": "To spread. vwth, voth-, voth=, (Q) voth: (276b)",
+    "definition": "vt. To carve, engrave, depict (by carving or painting); ---: m Thing carved, graven, wrought",
+    "crossReference": {
+      "target": "vwrs",
+      "gloss": "To spread. vwth, voth-, voth=, (Q) voth: (276b)"
+    }
+  },
+  {
+    "headword": "refvoth /ou",
+    "copticWord": "ⲣⲉϥⲫⲟⲧϩ ⲏⲟⲩ",
+    "englishTransliteration": "reffoth iou",
+    "partOfSpeech": "m",
+    "gloss": "House-carver",
+    "definition": "House-carver"
+  },
+  {
+    "headword": "vws",
+    "copticWord": "ⲫⲱϣ",
+    "englishTransliteration": "fōsh",
+    "variants": [
+      {
+        "word": "ves",
+        "copticWord": "ⲫⲉϣ",
+        "englishTransliteration": "fesh"
+      },
+      {
+        "word": "vas=",
+        "copticWord": "ⲫⲁϣ",
+        "englishTransliteration": "fash"
+      },
+      {
+        "word": "(Q) v/s",
+        "copticWord": "(Ϧ) ⲫⲏϣ",
+        "englishTransliteration": "(Kh) fish"
+      }
+    ],
+    "reference": "277a",
+    "gloss": "vi. To be divided, separated",
+    "definition": "vt. to divide;",
+    "senses": [
+      {
+        "label": "e",
+        "gloss": "vt. To divide at, into",
+        "definition": "vt. To divide at, into"
+      },
+      {
+        "label": "ehren",
+        "gloss": "vi. To divide between, share with",
+        "definition": "vi. To divide between, share with"
+      },
+      {
+        "label": "ejen",
+        "gloss": "vi. To divide between, share with",
+        "definition": "vi. To divide between, share with"
+      },
+      {
+        "label": "n",
+        "gloss": "(dat), vt. To divide for, share with",
+        "definition": "(dat), vt. To divide for, share with"
+      },
+      {
+        "label": "qen",
+        "gloss": "vt. To divide in, among",
+        "definition": "vt. To divide in, among"
+      },
+      {
+        "label": "ebol",
+        "gloss": "vi. To separate, part",
+        "definition": "vi. To separate, part"
+      },
+      {
+        "label": "ebol ejen",
+        "gloss": "vt. To divide among",
+        "definition": "--: m. Division; atvws: adj. Indivisible, undivided; refvws: m. Divider; jinvws: m. Division, dividing; vasi, vas-: f. Division, half; ervasi: vb. To be half, be midway."
+      }
+    ]
+  },
+  {
+    "headword": "(2) vwrk",
+    "copticWord": "ⲫⲱⲣⲕ",
+    "englishTransliteration": "fōrk",
+    "variants": [
+      {
+        "word": "vork",
+        "copticWord": "ⲫⲟⲣⲕ",
+        "englishTransliteration": "fork"
+      }
+    ],
+    "reference": "268a",
+    "partOfSpeech": "m",
+    "gloss": "Pallium",
+    "definition": "Pallium"
+  },
+  {
+    "headword": "vork",
+    "copticWord": "ⲫⲟⲣⲕ",
+    "englishTransliteration": "fork",
+    "partOfSpeech": "m",
+    "gloss": "Foal, calf, macvork: m. Mule",
+    "definition": "Foal, calf, macvork: m. Mule"
+  },
+  {
+    "headword": "(vwsem) vasm=",
+    "copticWord": "(ⲫⲱϣⲉⲙ) ⲫⲁϣⲙ",
+    "englishTransliteration": "(fōshem) fashm",
+    "reference": "515b",
+    "gloss": "vt. Meaning unknown",
+    "definition": "vt. Meaning unknown"
+  },
+  {
+    "headword": "vwsen",
+    "copticWord": "ⲫⲱϣⲉⲛ",
+    "englishTransliteration": "fōshen",
+    "variants": [
+      {
+        "word": "vosn=",
+        "copticWord": "ⲫⲟϣⲛ",
+        "englishTransliteration": "foshn"
+      },
+      {
+        "word": "(Q) vosn",
+        "copticWord": "(Ϧ) ⲫⲟϣⲛ",
+        "englishTransliteration": "(Kh) foshn"
+      }
+    ],
+    "reference": "278b",
+    "senses": [
+      {
+        "label": "vi",
+        "gloss": "To do service, serve (as a priest)",
+        "definition": "vt to serve, ordain --: m. Service; refvwsen: m. Servant; jinvwsen: m. Service; vasni: f. Service, ordination. vosnef: m. Ordination."
+      }
+    ]
+  },
+  {
+    "headword": "vwq",
+    "copticWord": "ⲫⲱϧ",
+    "englishTransliteration": "fōkh",
+    "variants": [
+      {
+        "word": "vaq",
+        "copticWord": "ⲫⲁϧ",
+        "englishTransliteration": "fakh"
+      },
+      {
+        "word": "veq",
+        "copticWord": "ⲫⲉϧ",
+        "englishTransliteration": "fekh"
+      },
+      {
+        "word": "vaq=",
+        "copticWord": "ⲫⲁϧ",
+        "englishTransliteration": "fakh"
+      },
+      {
+        "word": "(Q) v/q",
+        "copticWord": "(Ϧ) ⲫⲏϧ",
+        "englishTransliteration": "(Kh) fikh"
+      }
+    ],
+    "reference": "280a",
+    "gloss": "vi.&vt. To break, burst, tear",
+    "definition": "vi.&vt. To break, burst, tear",
+    "senses": [
+      {
+        "label": "ejen",
+        "partOfSpeech": "vb",
+        "gloss": "To divide between",
+        "definition": "To divide between"
+      }
+    ]
+  }
+]

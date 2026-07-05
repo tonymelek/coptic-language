@@ -1,0 +1,367 @@
+[
+  {
+    "headword": "bohi",
+    "copticWord": "ⲃⲟϩⲓ",
+    "englishTransliteration": "vohi",
+    "reference": "47b",
+    "partOfSpeech": "m",
+    "gloss": "Dyke, trench",
+    "definition": "Dyke, trench"
+  },
+  {
+    "headword": "bojbej",
+    "copticWord": "ⲃⲟϫⲃⲉϫ",
+    "englishTransliteration": "vojvej",
+    "gloss": "To chew",
+    "definition": "To chew",
+    "crossReference": {
+      "target": "ouojouej",
+      "gloss": "To chew"
+    }
+  },
+  {
+    "headword": "bo]",
+    "copticWord": "ⲃⲟϯ",
+    "englishTransliteration": "voti",
+    "variants": [
+      {
+        "word": "bet",
+        "copticWord": "ⲃⲉⲧ",
+        "englishTransliteration": "vet"
+      },
+      {
+        "word": "bot",
+        "copticWord": "ⲃⲟⲧ",
+        "englishTransliteration": "vot"
+      },
+      {
+        "word": "b/t",
+        "note": "Q",
+        "copticWord": "ⲃⲏⲧ",
+        "englishTransliteration": "vit"
+      }
+    ],
+    "reference": "45b",
+    "gloss": "All forms often with f for b",
+    "definition": "vt. To pollute, hate, befoul, abominate;",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "Hateful thing, abomination",
+        "definition": "oi mbo]: vb. To become, be hateful; [ibo]: vb. To loathe, abominate; labo]: n. Sodomite."
+      }
+    ]
+  },
+  {
+    "headword": "bwki",
+    "copticWord": "ⲃⲱⲕⲓ",
+    "englishTransliteration": "vōki",
+    "gloss": "Servant girl. bwl, bel-, bol=, b/l (Q): (32a)",
+    "definition": "vi.",
+    "crossReference": {
+      "target": "(2)bwk",
+      "gloss": "Servant girl. bwl, bel-, bol=, b/l (Q): (32a)"
+    },
+    "senses": [
+      {
+        "gloss": "To loosen, untie",
+        "definition": "melt; interpret, explain; weaken, make faint; nullify (order or deed); dissolve, destroy; be immaterial; pay, remit;"
+      },
+      {
+        "label": "ebol",
+        "partOfSpeech": "vb",
+        "gloss": "To loosen, untie",
+        "definition": "be melted; be dispersed, scattered; dissolve, nullify; relax, annul (laws); absolve; destroy; pay (penalty); go to pieces, perish; slacken, grow weak, faint; be wearied; be loosened, paralyzed; be released, die; upset, unhinge; be loose (in conduct); ebol: m. Loosening, slackening, solution; release, pardon; annulling (of magic, demons); weakening, feebleness, collapse; dissolution (death); ebol nem-: vb. To be open, free with; --: m. solution, interpretation;"
+      },
+      {
+        "label": "atbwl",
+        "partOfSpeech": "adj",
+        "gloss": "Indissoluble, unending",
+        "definition": "jinbwl: f. Interpretation;"
+      },
+      {
+        "label": "ebol",
+        "partOfSpeech": "m",
+        "gloss": "Loosening, freeing",
+        "definition": "ebol: adv. Out, forth, outward; menenca ebol: prep. After, beyond, henceforth; same as icjen ebol; mbol: adv. Outside, without; spread abroad, famed; extant, in existance; eb/l: adv. Outside of, except;"
+      }
+    ]
+  },
+  {
+    "headword": "bo]=",
+    "copticWord": "ⲃⲟϯ",
+    "englishTransliteration": "voti",
+    "gloss": "To send",
+    "definition": "To send",
+    "crossReference": {
+      "target": "ouw]",
+      "gloss": "To send"
+    }
+  },
+  {
+    "headword": "brai",
+    "copticWord": "ⲃⲣⲁⲓ",
+    "englishTransliteration": "vrai",
+    "gloss": "Seed of cereals",
+    "definition": "Seed of cereals",
+    "crossReference": {
+      "target": "mbrai",
+      "gloss": "Seed of cereals"
+    }
+  },
+  {
+    "headword": "brehi",
+    "copticWord": "ⲃⲣⲉϩⲓ",
+    "englishTransliteration": "vrehi",
+    "gloss": "Cart",
+    "definition": "Cart",
+    "crossReference": {
+      "target": "mbrehi",
+      "gloss": "Cart"
+    }
+  },
+  {
+    "headword": "br/oui",
+    "copticWord": "ⲃⲣⲏⲟⲩⲓ",
+    "englishTransliteration": "vrioui",
+    "gloss": "Baskets",
+    "definition": "Baskets",
+    "crossReference": {
+      "target": "bir",
+      "gloss": "Baskets"
+    }
+  },
+  {
+    "headword": "broukoc",
+    "copticWord": "ⲃⲣⲟⲩⲕⲟⲥ",
+    "englishTransliteration": "vroukos",
+    "variants": [
+      {
+        "word": "oc",
+        "copticWord": "ⲟⲥ",
+        "englishTransliteration": "os"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Locust, or its wingless larva",
+    "definition": "Locust, or its wingless larva"
+  },
+  {
+    "headword": "brou,oc",
+    "copticWord": "ⲃⲣⲟⲩⲭⲟⲥ",
+    "englishTransliteration": "vroukhos",
+    "gloss": "Locust",
+    "definition": "Locust",
+    "crossReference": {
+      "target": "broukoc",
+      "gloss": "Locust"
+    }
+  },
+  {
+    "headword": "bukki",
+    "copticWord": "ⲃⲩⲕⲕⲓ",
+    "englishTransliteration": "vykki",
+    "gloss": "A plant",
+    "definition": "A plant",
+    "crossReference": {
+      "target": "bik,i",
+      "gloss": "A plant"
+    }
+  },
+  {
+    "headword": "ebol je",
+    "copticWord": "ⲉⲃⲟⲗ ϫⲉ",
+    "englishTransliteration": "evol je",
+    "gloss": "conj. Because, for",
+    "definition": "conj. Because, for"
+  },
+  {
+    "headword": "buk,i",
+    "copticWord": "ⲃⲩⲕⲭⲓ",
+    "englishTransliteration": "vykkhi",
+    "gloss": "A plant",
+    "definition": "A plant",
+    "crossReference": {
+      "target": "bik,i",
+      "gloss": "A plant"
+    }
+  },
+  {
+    "headword": "bouhi",
+    "copticWord": "ⲃⲟⲩϩⲓ",
+    "englishTransliteration": "vouhi",
+    "reference": "48a",
+    "partOfSpeech": "m",
+    "gloss": "Eyelid",
+    "definition": "Eyelid"
+  },
+  {
+    "headword": "bw",
+    "copticWord": "ⲃⲱ",
+    "englishTransliteration": "vō",
+    "reference": "28a",
+    "partOfSpeech": "f",
+    "gloss": "Tree where its fruit is specified as opposed to ss/n (tree in general",
+    "definition": "probably wood, plantation of trees)."
+  },
+  {
+    "headword": "eb/l je",
+    "copticWord": "ⲉⲃⲏⲗ ϫⲉ",
+    "englishTransliteration": "evil je",
+    "gloss": "w/ vb. Introduces conditional",
+    "definition": "w/ vb. Introduces conditional"
+  },
+  {
+    "headword": "(1) bwk",
+    "copticWord": "ⲃⲱⲕ",
+    "englishTransliteration": "vōk",
+    "variants": [
+      {
+        "word": "bak=",
+        "copticWord": "ⲃⲁⲕ",
+        "englishTransliteration": "vak"
+      },
+      {
+        "word": "b/k",
+        "note": "Q",
+        "copticWord": "ⲃⲏⲕ",
+        "englishTransliteration": "vik"
+      }
+    ],
+    "reference": "29a",
+    "partOfSpeech": "vb",
+    "gloss": "To go, generally se is used",
+    "definition": "To go, generally se is used"
+  },
+  {
+    "headword": "(2) bwk",
+    "copticWord": "ⲃⲱⲕ",
+    "englishTransliteration": "vōk",
+    "variants": [
+      {
+        "type": "f.",
+        "word": "bwki",
+        "copticWord": "ⲃⲱⲕⲓ",
+        "englishTransliteration": "vōki"
+      },
+      {
+        "type": "pl.",
+        "word": "ebiaik",
+        "copticWord": "ⲉⲃⲓⲁⲓⲕ",
+        "englishTransliteration": "eviaik"
+      },
+      {
+        "type": "sg as pl"
+      }
+    ],
+    "reference": "30a",
+    "partOfSpeech": "m",
+    "gloss": "Servant, slave",
+    "definition": "opposite remhe;",
+    "senses": [
+      {
+        "label": "erbwk",
+        "partOfSpeech": "vb",
+        "gloss": "To serve, labor",
+        "definition": "iri mbwk: vb. To enslave; metbwk: f. Servitude, slavery; metbal mbwk: f. Eye service."
+      }
+    ]
+  },
+  {
+    "headword": "cabol",
+    "copticWord": "ⲥⲁⲃⲟⲗ",
+    "englishTransliteration": "savol",
+    "gloss": "prep. (w/e-)",
+    "definition": "Outside of, beyond, away from; adv. outside, without;"
+  },
+  {
+    "headword": "saebol",
+    "copticWord": "ϣⲁⲉⲃⲟⲗ",
+    "englishTransliteration": "shaevol",
+    "gloss": "prep. To the outside of, out of",
+    "definition": "adv. henceforth; to the end, forever, outwards, finally, utterly, at all"
+  },
+  {
+    "headword": "erebol",
+    "copticWord": "ⲉⲣⲉⲃⲟⲗ",
+    "englishTransliteration": "erevol",
+    "partOfSpeech": "vb",
+    "gloss": "To become loosened, become free, avoid, escape",
+    "definition": "To become loosened, become free, avoid, escape"
+  },
+  {
+    "headword": "bwn",
+    "copticWord": "ⲃⲱⲛ",
+    "englishTransliteration": "vōn",
+    "reference": "39a",
+    "partOfSpeech": "adj",
+    "gloss": "Bad",
+    "definition": "Bad"
+  },
+  {
+    "headword": "boni",
+    "copticWord": "ⲃⲟⲛⲓ",
+    "englishTransliteration": "voni",
+    "partOfSpeech": "f",
+    "gloss": "Evil, misfortunate",
+    "definition": "Evil, misfortunate"
+  },
+  {
+    "headword": "ierboni",
+    "copticWord": "ⲓⲉⲣⲃⲟⲛⲓ",
+    "englishTransliteration": "iervoni",
+    "partOfSpeech": "f",
+    "gloss": "Evil eye",
+    "definition": "Evil eye"
+  },
+  {
+    "headword": "bwrp",
+    "copticWord": "ⲃⲱⲣⲡ",
+    "englishTransliteration": "vōrp",
+    "gloss": "To send",
+    "definition": "To send",
+    "crossReference": {
+      "target": "ouwrp",
+      "gloss": "To send"
+    }
+  },
+  {
+    "headword": "(bwct)",
+    "copticWord": "(ⲃⲱⲥⲧ)",
+    "englishTransliteration": "(vōst)",
+    "variants": [
+      {
+        "word": "bact",
+        "copticWord": "ⲃⲁⲥⲧ",
+        "englishTransliteration": "vast"
+      }
+    ],
+    "reference": "45a",
+    "gloss": "vi. To be dry, parched",
+    "definition": "vi. To be dry, parched"
+  },
+  {
+    "headword": "bwtc",
+    "copticWord": "ⲃⲱⲧⲥ",
+    "englishTransliteration": "vōts",
+    "variants": [
+      {
+        "word": "botc=",
+        "copticWord": "ⲃⲟⲧⲥ",
+        "englishTransliteration": "vots"
+      }
+    ],
+    "reference": "46a",
+    "gloss": "vi. To be drawn up (for battle), fight",
+    "definition": "vi. To be drawn up (for battle), fight",
+    "senses": [
+      {
+        "label": "nem",
+        "gloss": "vb to fight against",
+        "definition": "vb to fight against"
+      }
+    ]
+  }
+]

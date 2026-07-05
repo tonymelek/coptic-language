@@ -1,0 +1,476 @@
+[
+  {
+    "headword": "qre",
+    "copticWord": "ϧⲣⲉ",
+    "englishTransliteration": "khre",
+    "variants": [
+      {
+        "type": "pl.",
+        "word": "qr/oui",
+        "copticWord": "ϧⲣⲏⲟⲩⲓ",
+        "englishTransliteration": "khrioui"
+      }
+    ],
+    "reference": "701a",
+    "gloss": "fm. food (of human)",
+    "definition": "fodder (of beasts)"
+  },
+  {
+    "headword": "atqre",
+    "copticWord": "ⲁⲧϧⲣⲉ",
+    "englishTransliteration": "atkhre",
+    "partOfSpeech": "adj",
+    "gloss": "Lack of food",
+    "definition": "Lack of food"
+  },
+  {
+    "headword": "metatqre",
+    "copticWord": "ⲙⲉⲧⲁⲧϧⲣⲉ",
+    "englishTransliteration": "metatkhre",
+    "partOfSpeech": "f",
+    "gloss": "Lack of food",
+    "definition": "Lack of food"
+  },
+  {
+    "headword": "erqre",
+    "copticWord": "ⲉⲣϧⲣⲉ",
+    "englishTransliteration": "erkhre",
+    "variants": [
+      {
+        "word": "oi nqre",
+        "copticWord": "ⲟⲓ ⲛϧⲣⲉ",
+        "englishTransliteration": "oi nkhre"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To become, be food",
+    "definition": "]qre: vb. To give food;"
+  },
+  {
+    "headword": "qlij",
+    "copticWord": "ϧⲗⲓϫ",
+    "englishTransliteration": "khleeg",
+    "gloss": "Tooth ache. qmom, (Q) q/m: (677a)",
+    "definition": "vi. To be hot; ---: m. Heat, fever;",
+    "crossReference": {
+      "target": "qrajrej",
+      "gloss": "Tooth ache. qmom, (Q) q/m: (677a)"
+    },
+    "senses": [
+      {
+        "label": "]qmom",
+        "partOfSpeech": "vb",
+        "gloss": "To give heat, burn",
+        "definition": "[iqmom: vb. To get heat, be warmed; qemi: m. Heat, fever."
+      }
+    ]
+  },
+  {
+    "headword": "qoyb=",
+    "copticWord": "ϧⲟⲑⲃ",
+    "englishTransliteration": "khothv",
+    "gloss": "To kill",
+    "definition": "To kill",
+    "crossReference": {
+      "target": "qwteb",
+      "gloss": "To kill"
+    }
+  },
+  {
+    "headword": "[iqre",
+    "copticWord": "ϭⲓϧⲣⲉ",
+    "englishTransliteration": "chikhre",
+    "partOfSpeech": "vb",
+    "gloss": "To take food. qr/i: (700a)",
+    "definition": "m. Lower part, opp. hr/i;"
+  },
+  {
+    "headword": "qok",
+    "copticWord": "ϧⲟⲕ",
+    "englishTransliteration": "khok",
+    "reference": "662b",
+    "gloss": "vt. To smite, crush",
+    "definition": "vt. To smite, crush"
+  },
+  {
+    "headword": "qok=",
+    "copticWord": "ϧⲟⲕ",
+    "englishTransliteration": "khok",
+    "gloss": "To gird",
+    "definition": "To gird",
+    "crossReference": {
+      "target": "qwk",
+      "gloss": "To gird"
+    }
+  },
+  {
+    "headword": "qolqel",
+    "copticWord": "ϧⲟⲗϧⲉⲗ",
+    "englishTransliteration": "kholkhel",
+    "variants": [
+      {
+        "word": "qelqwl",
+        "copticWord": "ϧⲉⲗϧⲱⲗ",
+        "englishTransliteration": "khelkhōl"
+      },
+      {
+        "word": "qelqwl=",
+        "copticWord": "ϧⲉⲗϧⲱⲗ",
+        "englishTransliteration": "khelkhōl"
+      },
+      {
+        "word": "qelqol=",
+        "copticWord": "ϧⲉⲗϧⲟⲗ",
+        "englishTransliteration": "khelkhol"
+      },
+      {
+        "word": "(Q) qelqwl",
+        "copticWord": "(Ϧ) ϧⲉⲗϧⲱⲗ",
+        "englishTransliteration": "(Kh) khelkhōl"
+      }
+    ],
+    "reference": "672a",
+    "gloss": "vi. To slay",
+    "definition": "vi. To slay",
+    "senses": [
+      {
+        "label": "qen",
+        "gloss": "vi. To slay with",
+        "definition": "--: m. Slaughter; jinqolqel: m. Slaying; refqolqel: m. Slayer, gorer."
+      }
+    ]
+  },
+  {
+    "headword": "qomqem",
+    "copticWord": "ϧⲟⲙϧⲉⲙ",
+    "englishTransliteration": "khomkhem",
+    "variants": [
+      {
+        "word": "qemqwm=",
+        "copticWord": "ϧⲉⲙϧⲱⲙ",
+        "englishTransliteration": "khemkhōm"
+      },
+      {
+        "word": "(Q) qemqwm",
+        "copticWord": "(Ϧ) ϧⲉⲙϧⲱⲙ",
+        "englishTransliteration": "(Kh) khemkhōm"
+      }
+    ],
+    "reference": "630b",
+    "gloss": "vi. To be crushed, broken, destroyed",
+    "definition": "vt. To crush, break, destroy; ---: m. Crushing, fracture, destruction."
+  },
+  {
+    "headword": "qont=",
+    "copticWord": "ϧⲟⲛⲧ",
+    "englishTransliteration": "khont",
+    "gloss": "To come near",
+    "definition": "To come near",
+    "crossReference": {
+      "target": "qwnt",
+      "gloss": "To come near"
+    }
+  },
+  {
+    "headword": "qor=",
+    "copticWord": "ϧⲟⲣ",
+    "englishTransliteration": "khor",
+    "gloss": "To destroy",
+    "definition": "To destroy",
+    "crossReference": {
+      "target": "qwr",
+      "gloss": "To destroy"
+    }
+  },
+  {
+    "headword": "qorpc",
+    "copticWord": "ϧⲟⲣⲡⲥ",
+    "englishTransliteration": "khorps",
+    "reference": "631a",
+    "partOfSpeech": "f",
+    "gloss": "Handful",
+    "definition": "Handful"
+  },
+  {
+    "headword": "eqr/i",
+    "copticWord": "ⲉϧⲣⲏⲓ",
+    "englishTransliteration": "ekhrii",
+    "partOfSpeech": "adv",
+    "gloss": "To below, downward",
+    "definition": "appended to vbs of motion"
+  },
+  {
+    "headword": "nqr/i",
+    "copticWord": "ⲛϧⲣⲏⲓ",
+    "englishTransliteration": "nkhrii",
+    "partOfSpeech": "adv",
+    "gloss": "Below",
+    "definition": "Below"
+  },
+  {
+    "headword": "caqr/i",
+    "copticWord": "ⲥⲁϧⲣⲏⲓ",
+    "englishTransliteration": "sakhrii",
+    "partOfSpeech": "adv",
+    "gloss": "Downward, below",
+    "definition": "Downward, below"
+  },
+  {
+    "headword": "ercaqr/i",
+    "copticWord": "ⲉⲣⲥⲁϧⲣⲏⲓ",
+    "englishTransliteration": "ersakhrii",
+    "partOfSpeech": "vb",
+    "gloss": "To be below",
+    "definition": "To be below"
+  },
+  {
+    "headword": "saeqr/i",
+    "copticWord": "ϣⲁⲉϧⲣⲏⲓ",
+    "englishTransliteration": "shaekhrii",
+    "partOfSpeech": "adv",
+    "gloss": "Down to",
+    "definition": "Down to"
+  },
+  {
+    "headword": "qr/oui",
+    "copticWord": "ϧⲣⲏⲟⲩⲓ",
+    "englishTransliteration": "khrioui",
+    "gloss": "Food (pl)",
+    "definition": "Food (pl)",
+    "crossReference": {
+      "target": "qre",
+      "gloss": "Food (pl)"
+    }
+  },
+  {
+    "headword": "qrim",
+    "copticWord": "ϧⲣⲓⲙ",
+    "englishTransliteration": "khrim",
+    "gloss": "Bird's claw",
+    "definition": "Bird's claw",
+    "crossReference": {
+      "target": "(1)hrim",
+      "gloss": "Bird's claw"
+    }
+  },
+  {
+    "headword": "qrij",
+    "copticWord": "ϧⲣⲓϫ",
+    "englishTransliteration": "khreeg",
+    "gloss": "(Tooth) ache",
+    "definition": "(Tooth) ache",
+    "crossReference": {
+      "target": "qrajrej",
+      "gloss": "(Tooth) ache"
+    }
+  },
+  {
+    "headword": "qro]",
+    "copticWord": "ϧⲣⲟϯ",
+    "englishTransliteration": "khroti",
+    "reference": "631a",
+    "partOfSpeech": "m",
+    "gloss": "Child, young",
+    "definition": "Child, young"
+  },
+  {
+    "headword": "qoun",
+    "copticWord": "ϧⲟⲩⲛ",
+    "englishTransliteration": "khoun",
+    "reference": "685b",
+    "partOfSpeech": "m",
+    "gloss": "Inward part",
+    "definition": "Inward part"
+  },
+  {
+    "headword": "eqoun",
+    "copticWord": "ⲉϧⲟⲩⲛ",
+    "englishTransliteration": "ekhoun",
+    "partOfSpeech": "adv",
+    "gloss": "To inside, inward",
+    "definition": "To inside, inward"
+  },
+  {
+    "headword": "caqoun",
+    "copticWord": "ⲥⲁϧⲟⲩⲛ",
+    "englishTransliteration": "sakhoun",
+    "partOfSpeech": "adv",
+    "gloss": "Inward, inside",
+    "definition": "Inward, inside"
+  },
+  {
+    "headword": "ercaqoun",
+    "copticWord": "ⲉⲣⲥⲁϧⲟⲩⲛ",
+    "englishTransliteration": "ersakhoun",
+    "partOfSpeech": "vb",
+    "gloss": "To be within",
+    "definition": "To be within"
+  },
+  {
+    "headword": "saeqoun",
+    "copticWord": "ϣⲁⲉϧⲟⲩⲛ",
+    "englishTransliteration": "shaekhoun",
+    "gloss": "Towards innerpart, inward",
+    "definition": "--- e-: Until."
+  },
+  {
+    "headword": "qort",
+    "copticWord": "ϧⲟⲣⲧ",
+    "englishTransliteration": "khort",
+    "reference": "631a",
+    "partOfSpeech": "m",
+    "gloss": "Madman",
+    "definition": "Madman"
+  },
+  {
+    "headword": "qrwou",
+    "copticWord": "ϧⲣⲱⲟⲩ",
+    "englishTransliteration": "khrōou",
+    "variants": [
+      {
+        "word": "ara",
+        "copticWord": "ⲁⲣⲁ",
+        "englishTransliteration": "ara"
+      },
+      {
+        "word": "qara",
+        "copticWord": "ϧⲁⲣⲁ",
+        "englishTransliteration": "khara"
+      }
+    ],
+    "reference": "704b",
+    "partOfSpeech": "m",
+    "gloss": "Voice, sound",
+    "definition": "Voice, sound"
+  },
+  {
+    "headword": "atqrwou",
+    "copticWord": "ⲁⲧϧⲣⲱⲟⲩ",
+    "englishTransliteration": "atkhrōou",
+    "partOfSpeech": "adj",
+    "gloss": "Voiceless",
+    "definition": "Voiceless"
+  },
+  {
+    "headword": "cekqrwou",
+    "copticWord": "ⲥⲉⲕϧⲣⲱⲟⲩ",
+    "englishTransliteration": "sekkhrōou",
+    "partOfSpeech": "vb",
+    "gloss": "To draw sound, snort",
+    "definition": "]qrwou: vb. To give, utter voice"
+  },
+  {
+    "headword": "ws",
+    "copticWord": "ⲱϣ",
+    "englishTransliteration": "ōsh",
+    "variants": [
+      {
+        "word": "es qrwou",
+        "copticWord": "ⲉϣ ϧⲣⲱⲟⲩ",
+        "englishTransliteration": "esh khrōou"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To utter voice",
+    "definition": "To utter voice"
+  },
+  {
+    "headword": "refesqrwou",
+    "copticWord": "ⲣⲉϥⲉϣϧⲣⲱⲟⲩ",
+    "englishTransliteration": "refeshkhrōou",
+    "partOfSpeech": "m",
+    "gloss": "Herald",
+    "definition": "Herald"
+  },
+  {
+    "headword": "refqotqet",
+    "copticWord": "ⲣⲉϥϧⲟⲧϧⲉⲧ",
+    "englishTransliteration": "refkhotkhet",
+    "partOfSpeech": "m",
+    "gloss": "Inquirer",
+    "definition": "Inquirer"
+  },
+  {
+    "headword": "qrajrej",
+    "copticWord": "ϧⲣⲁϫⲣⲉϫ",
+    "englishTransliteration": "khrajrej",
+    "reference": "708b",
+    "gloss": "vt. To grind (teeth), rub",
+    "definition": "--- eqoun e-: vt. To rub against"
+  },
+  {
+    "headword": "qarabai",
+    "copticWord": "ϧⲁⲣⲁⲃⲁⲓ",
+    "englishTransliteration": "kharavai",
+    "variants": [
+      {
+        "word": "arabai",
+        "copticWord": "ⲁⲣⲁⲃⲁⲓ",
+        "englishTransliteration": "aravai"
+      },
+      {
+        "word": "qerouw",
+        "copticWord": "ϧⲉⲣⲟⲩⲱ",
+        "englishTransliteration": "kherouō"
+      },
+      {
+        "word": "erouw",
+        "copticWord": "ⲉⲣⲟⲩⲱ",
+        "englishTransliteration": "erouō"
+      }
+    ],
+    "partOfSpeech": "n",
+    "gloss": "Voice of sky, thunder",
+    "definition": "Voice of sky, thunder"
+  },
+  {
+    "headword": "qerouw",
+    "copticWord": "ϧⲉⲣⲟⲩⲱ",
+    "englishTransliteration": "kherouō",
+    "partOfSpeech": "n",
+    "gloss": "Great voice, boastful talk",
+    "definition": "Great voice, boastful talk"
+  },
+  {
+    "headword": "metqerwou",
+    "copticWord": "ⲙⲉⲧϧⲉⲣⲱⲟⲩ",
+    "englishTransliteration": "metkherōou",
+    "partOfSpeech": "f",
+    "gloss": "Boastfulness",
+    "definition": "Boastfulness"
+  },
+  {
+    "headword": "qrw]",
+    "copticWord": "ϧⲣⲱϯ",
+    "englishTransliteration": "khrōti",
+    "reference": "631b",
+    "partOfSpeech": "n",
+    "gloss": "Jugular veins",
+    "definition": "Jugular veins"
+  },
+  {
+    "headword": "qwk",
+    "copticWord": "ϧⲱⲕ",
+    "englishTransliteration": "khōk",
+    "variants": [
+      {
+        "word": "qek",
+        "copticWord": "ϧⲉⲕ",
+        "englishTransliteration": "khek"
+      },
+      {
+        "word": "qok=",
+        "copticWord": "ϧⲟⲕ",
+        "englishTransliteration": "khok"
+      },
+      {
+        "word": "(Q) q/k",
+        "copticWord": "(Ϧ) ϧⲏⲕ",
+        "englishTransliteration": "(Kh) khik"
+      }
+    ],
+    "reference": "661b",
+    "gloss": "vt. To gird, brace (with harness, armor)",
+    "definition": "--- n-: vt. To gird with, in; --- oube-: vt. To gird against; --- qarat n-: vt. To gird under;"
+  }
+]

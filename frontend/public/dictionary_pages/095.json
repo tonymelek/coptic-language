@@ -1,0 +1,517 @@
+[
+  {
+    "headword": "ceravim",
+    "copticWord": "ⲥⲉⲣⲁⲫⲓⲙ",
+    "englishTransliteration": "serafim",
+    "gloss": "(Heb)",
+    "definition": "pl. Seraphim (angels with 6 wings)."
+  },
+  {
+    "headword": "kata c/ou",
+    "copticWord": "ⲕⲁⲧⲁ ⲥⲏⲟⲩ",
+    "englishTransliteration": "kata siou",
+    "gloss": "At times, from time to time",
+    "definition": "At times, from time to time"
+  },
+  {
+    "headword": "procouc/ou",
+    "copticWord": "ⲡⲣⲟⲥⲟⲩⲥⲏⲟⲩ",
+    "englishTransliteration": "prosousiou",
+    "gloss": "For a time",
+    "definition": "For a time"
+  },
+  {
+    "headword": "cerbnne",
+    "copticWord": "ⲥⲉⲣⲃⲛⲛⲉ",
+    "englishTransliteration": "servnne",
+    "gloss": "Thorn of date palm. cerem- v. cwrem - To err",
+    "definition": "Thorn of date palm. cerem- v. cwrem - To err",
+    "crossReference": {
+      "target": "couri",
+      "gloss": "Thorn of date palm. cerem- v. cwrem - To err"
+    }
+  },
+  {
+    "headword": "sa ouc/ou",
+    "copticWord": "ϣⲁ ⲟⲩⲥⲏⲟⲩ",
+    "englishTransliteration": "sha ousiou",
+    "variants": [
+      {
+        "word": "sa pic/ou",
+        "copticWord": "ϣⲁ ⲡⲓⲥⲏⲟⲩ",
+        "englishTransliteration": "sha pisiou"
+      }
+    ],
+    "gloss": "Until, For a time",
+    "definition": "Until, For a time"
+  },
+  {
+    "headword": "atc/ou",
+    "copticWord": "ⲁⲧⲥⲏⲟⲩ",
+    "englishTransliteration": "atsiou",
+    "partOfSpeech": "adj",
+    "gloss": "Timeless",
+    "definition": "Timeless"
+  },
+  {
+    "headword": "erc/ou",
+    "copticWord": "ⲉⲣⲥⲏⲟⲩ",
+    "englishTransliteration": "ersiou",
+    "partOfSpeech": "vb",
+    "gloss": "To pass time",
+    "definition": "To pass time"
+  },
+  {
+    "headword": "cerm/",
+    "copticWord": "ⲥⲉⲣⲙⲏ",
+    "englishTransliteration": "sermi",
+    "gloss": "Wanderer",
+    "definition": "Wanderer",
+    "crossReference": {
+      "target": "cwrem",
+      "gloss": "Wanderer"
+    }
+  },
+  {
+    "headword": "cerouji",
+    "copticWord": "ⲥⲉⲣⲟⲩϫⲓ",
+    "englishTransliteration": "serouji",
+    "gloss": "Thistle",
+    "definition": "Thistle",
+    "crossReference": {
+      "target": "couri",
+      "gloss": "Thistle"
+    }
+  },
+  {
+    "headword": "cervwt",
+    "copticWord": "ⲥⲉⲣⲫⲱⲧ",
+    "englishTransliteration": "serfōt",
+    "reference": "356b",
+    "partOfSpeech": "f",
+    "gloss": "A kind of insects",
+    "definition": "A kind of insects"
+  },
+  {
+    "headword": "cecboh",
+    "copticWord": "ⲥⲉⲥⲃⲟϩ",
+    "englishTransliteration": "sesvoh",
+    "reference": "358b",
+    "partOfSpeech": "f",
+    "gloss": "Place of atonement. vi",
+    "definition": "Place of atonement. vi"
+  },
+  {
+    "headword": "cet",
+    "copticWord": "ⲥⲉⲧ",
+    "englishTransliteration": "set",
+    "gloss": "To sow",
+    "definition": "To sow",
+    "crossReference": {
+      "target": "(2)ci]",
+      "gloss": "To sow"
+    }
+  },
+  {
+    "headword": "cetp",
+    "copticWord": "ⲥⲉⲧⲡ",
+    "englishTransliteration": "setp",
+    "gloss": "To choose. cetcwt (Q) v. cotcet - To be projected. cetf- v. cwtf - To be pure. cewouni v. ciwouni - Bath",
+    "definition": "To choose. cetcwt (Q) v. cotcet - To be projected. cetf- v. cwtf - To be pure. cewouni v. ciwouni - Bath",
+    "crossReference": {
+      "target": "cwtp",
+      "gloss": "To choose. cetcwt (Q) v. cotcet - To be projected. cetf- v. cwtf - To be pure. cewouni v. ciwouni - Bath"
+    }
+  },
+  {
+    "headword": "[ic/ou",
+    "copticWord": "ϭⲓⲥⲏⲟⲩ",
+    "englishTransliteration": "chisiou",
+    "partOfSpeech": "vb",
+    "gloss": "To pass time",
+    "definition": "To pass time"
+  },
+  {
+    "headword": "cou",
+    "copticWord": "ⲥⲟⲩ",
+    "englishTransliteration": "sou",
+    "gloss": "Used with date of month or festival",
+    "definition": "Used with date of month or festival"
+  },
+  {
+    "headword": "c/pi",
+    "copticWord": "ⲥⲏⲡⲓ",
+    "englishTransliteration": "sipi",
+    "gloss": "Remainder",
+    "definition": "Remainder",
+    "crossReference": {
+      "target": "cepi",
+      "gloss": "Remainder"
+    }
+  },
+  {
+    "headword": "c/t",
+    "copticWord": "ⲥⲏⲧ",
+    "englishTransliteration": "sit",
+    "gloss": "Tail",
+    "definition": "Tail",
+    "crossReference": {
+      "target": "cat",
+      "gloss": "Tail"
+    }
+  },
+  {
+    "headword": "c/fi",
+    "copticWord": "ⲥⲏϥⲓ",
+    "englishTransliteration": "sifi",
+    "reference": "379a",
+    "partOfSpeech": "f",
+    "gloss": "Sword, knife",
+    "definition": "Sword, knife"
+  },
+  {
+    "headword": "c/j",
+    "copticWord": "ⲥⲏϫ",
+    "englishTransliteration": "sij",
+    "reference": "388a",
+    "partOfSpeech": "m",
+    "gloss": "Foal (of ass or horse)",
+    "definition": "Foal (of ass or horse)"
+  },
+  {
+    "headword": "c/]",
+    "copticWord": "ⲥⲏϯ",
+    "englishTransliteration": "siti",
+    "gloss": "To sow",
+    "definition": "To sow",
+    "crossReference": {
+      "target": "(2)ci]",
+      "gloss": "To sow"
+    }
+  },
+  {
+    "headword": "cybai",
+    "copticWord": "ⲥⲑⲃⲁⲓ",
+    "englishTransliteration": "sthvai",
+    "gloss": "Tools. cybaih, cybai, pl",
+    "definition": "Tools. cybaih, cybai, pl",
+    "crossReference": {
+      "target": "cybaih",
+      "gloss": "Tools. cybaih, cybai, pl"
+    }
+  },
+  {
+    "headword": "ceybaiou",
+    "copticWord": "ⲥⲉⲑⲃⲁⲓⲟⲩ",
+    "englishTransliteration": "sethvaiou",
+    "gloss": "pl. Tools, utensils",
+    "definition": "pl. Tools, utensils"
+  },
+  {
+    "headword": "cyerter",
+    "copticWord": "ⲥⲑⲉⲣⲧⲉⲣ",
+    "englishTransliteration": "stherter",
+    "reference": "366a",
+    "gloss": "vi. To tremble",
+    "definition": "vi. To tremble"
+  },
+  {
+    "headword": "cef",
+    "copticWord": "ⲥⲉϥ",
+    "englishTransliteration": "sef",
+    "gloss": "To pollute",
+    "definition": "To pollute",
+    "crossReference": {
+      "target": "cwf",
+      "gloss": "To pollute"
+    }
+  },
+  {
+    "headword": "cehne",
+    "copticWord": "ⲥⲉϩⲛⲉ",
+    "englishTransliteration": "sehne",
+    "gloss": "To provide",
+    "definition": "To provide",
+    "crossReference": {
+      "target": "cahni",
+      "gloss": "To provide"
+    }
+  },
+  {
+    "headword": "ceht",
+    "copticWord": "ⲥⲉϩⲧ",
+    "englishTransliteration": "seht",
+    "reference": "386b",
+    "partOfSpeech": "m",
+    "gloss": "Leprosy",
+    "definition": "Leprosy"
+  },
+  {
+    "headword": "kakceht",
+    "copticWord": "ⲕⲁⲕⲥⲉϩⲧ",
+    "englishTransliteration": "kakseht",
+    "partOfSpeech": "m",
+    "gloss": "Leper",
+    "definition": "Leper"
+  },
+  {
+    "headword": "erceht",
+    "copticWord": "ⲉⲣⲥⲉϩⲧ",
+    "englishTransliteration": "erseht",
+    "partOfSpeech": "vb",
+    "gloss": "To be leprous",
+    "definition": "To be leprous"
+  },
+  {
+    "headword": "cejp",
+    "copticWord": "ⲥⲉϫⲡ",
+    "englishTransliteration": "sejp",
+    "gloss": "To leave behind",
+    "definition": "To leave behind",
+    "crossReference": {
+      "target": "cwjp",
+      "gloss": "To leave behind"
+    }
+  },
+  {
+    "headword": "c/bi",
+    "copticWord": "ⲥⲏⲃⲓ",
+    "englishTransliteration": "seebi",
+    "variants": [
+      {
+        "word": "cebi",
+        "copticWord": "ⲥⲉⲃⲓ",
+        "englishTransliteration": "sevi"
+      }
+    ],
+    "reference": "320b",
+    "partOfSpeech": "f",
+    "gloss": "Reed, shin-bone, flute, kohl bottle",
+    "definition": "Reed, shin-bone, flute, kohl bottle"
+  },
+  {
+    "headword": "c/bi nrat=",
+    "copticWord": "ⲥⲏⲃⲓ ⲛⲣⲁⲧ",
+    "englishTransliteration": "seebi nrat",
+    "partOfSpeech": "f",
+    "gloss": "Pipe, stalk of leg, shin bone, greave",
+    "definition": "Pipe, stalk of leg, shin bone, greave"
+  },
+  {
+    "headword": "c/bi njw",
+    "copticWord": "ⲥⲏⲃⲓ ⲛϫⲱ",
+    "englishTransliteration": "seebi njō",
+    "partOfSpeech": "f",
+    "gloss": "Reed for singing, flute",
+    "definition": "Reed for singing, flute"
+  },
+  {
+    "headword": "(1) c/ini",
+    "copticWord": "ⲥⲏⲓⲛⲓ",
+    "englishTransliteration": "siini",
+    "reference": "342b",
+    "partOfSpeech": "mf",
+    "gloss": "Physician, doctor",
+    "definition": "Physician, doctor"
+  },
+  {
+    "headword": "metc/ini",
+    "copticWord": "ⲙⲉⲧⲥⲏⲓⲛⲓ",
+    "englishTransliteration": "metsiini",
+    "partOfSpeech": "f",
+    "gloss": "Physician's craft, skill, ma nc/ini: m. Place for medical treatment",
+    "definition": "refc/ini = c/ini."
+  },
+  {
+    "headword": "(2) c/ini",
+    "copticWord": "ⲥⲏⲓⲛⲓ",
+    "englishTransliteration": "siini",
+    "reference": "343b",
+    "partOfSpeech": "f",
+    "gloss": "Granary, bin",
+    "definition": "Granary, bin"
+  },
+  {
+    "headword": "cy/m",
+    "copticWord": "ⲥⲑⲏⲙ",
+    "englishTransliteration": "sthim",
+    "reference": "364b",
+    "gloss": "m",
+    "definition": "m"
+  },
+  {
+    "headword": "cyo=",
+    "copticWord": "ⲥⲑⲟ",
+    "englishTransliteration": "stho",
+    "gloss": "To bring",
+    "definition": "To bring",
+    "crossReference": {
+      "target": "tacyo",
+      "gloss": "To bring"
+    }
+  },
+  {
+    "headword": "cyoi",
+    "copticWord": "ⲥⲑⲟⲓ",
+    "englishTransliteration": "sthoi",
+    "variants": [
+      {
+        "word": "cyoi",
+        "copticWord": "ⲥⲑⲟⲓ",
+        "englishTransliteration": "sthoi"
+      },
+      {
+        "word": "cyi",
+        "copticWord": "ⲥⲑⲓ",
+        "englishTransliteration": "sthi"
+      },
+      {
+        "word": "cyu",
+        "copticWord": "ⲥⲑⲩ",
+        "englishTransliteration": "sthy"
+      }
+    ],
+    "reference": "362b",
+    "partOfSpeech": "m",
+    "gloss": "Smell",
+    "definition": "fragrant plant"
+  },
+  {
+    "headword": "cyoinoufi",
+    "copticWord": "ⲥⲑⲟⲓⲛⲟⲩϥⲓ",
+    "englishTransliteration": "sthoinoufi",
+    "variants": [
+      {
+        "word": "cyunoufi",
+        "copticWord": "ⲥⲑⲩⲛⲟⲩϥⲓ",
+        "englishTransliteration": "sthynoufi"
+      }
+    ],
+    "gloss": "Godd smell, perfume",
+    "definition": "Godd smell, perfume"
+  },
+  {
+    "headword": "cyoibwn",
+    "copticWord": "ⲥⲑⲟⲓⲃⲱⲛ",
+    "englishTransliteration": "sthoeebōn",
+    "gloss": "Bad smell",
+    "definition": "Bad smell"
+  },
+  {
+    "headword": "(3) c/ini",
+    "copticWord": "ⲥⲏⲓⲛⲓ",
+    "englishTransliteration": "siini",
+    "reference": "343b",
+    "partOfSpeech": "f",
+    "gloss": "Ploughshare",
+    "definition": "Ploughshare"
+  },
+  {
+    "headword": "c/mikinyion",
+    "copticWord": "ⲥⲏⲙⲓⲕⲓⲛⲑⲓⲟⲛ",
+    "englishTransliteration": "simikinthion",
+    "gloss": "Apron",
+    "definition": "Apron",
+    "crossReference": {
+      "target": "cimikinyion",
+      "gloss": "Apron"
+    }
+  },
+  {
+    "headword": "c/ou cou",
+    "copticWord": "ⲥⲏⲟⲩ ⲥⲟⲩ",
+    "englishTransliteration": "siou sou",
+    "reference": "367b",
+    "partOfSpeech": "m",
+    "gloss": "Time, season",
+    "definition": "Time, season"
+  },
+  {
+    "headword": "mpaic/ou",
+    "copticWord": "ⲙⲡⲁⲓⲥⲏⲟⲩ",
+    "englishTransliteration": "mpaisiou",
+    "gloss": "At this time",
+    "definition": "At this time"
+  },
+  {
+    "headword": "mpic/ou",
+    "copticWord": "ⲙⲡⲓⲥⲏⲟⲩ",
+    "englishTransliteration": "mpisiou",
+    "gloss": "At that time, formerly",
+    "definition": "at the time, when;"
+  },
+  {
+    "headword": "cyrobolon",
+    "copticWord": "ⲥⲑⲣⲟⲃⲟⲗⲟⲛ",
+    "englishTransliteration": "sthrovolon",
+    "variants": [
+      {
+        "word": "ctrobolon",
+        "copticWord": "ⲥⲧⲣⲟⲃⲟⲗⲟⲛ",
+        "englishTransliteration": "strovolon"
+      }
+    ],
+    "reference": "Gk?",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "An instrument for astronomical measurements",
+    "definition": "An instrument for astronomical measurements"
+  },
+  {
+    "headword": "cyu",
+    "copticWord": "ⲥⲑⲩ",
+    "englishTransliteration": "sthy",
+    "gloss": "Smell",
+    "definition": "Smell",
+    "crossReference": {
+      "target": "cyoi",
+      "gloss": "Smell"
+    }
+  },
+  {
+    "headword": "ci",
+    "copticWord": "ⲥⲓ",
+    "englishTransliteration": "si",
+    "variants": [
+      {
+        "word": "c/ou",
+        "note": "Q",
+        "copticWord": "ⲥⲏⲟⲩ",
+        "englishTransliteration": "siou"
+      }
+    ],
+    "reference": "316b",
+    "gloss": "vi. To be filled, satisfied, enjoy",
+    "definition": "vi. To be filled, satisfied, enjoy"
+  },
+  {
+    "headword": "cai",
+    "copticWord": "ⲥⲁⲓ",
+    "englishTransliteration": "sai",
+    "partOfSpeech": "m",
+    "gloss": "Fullness, surfeit",
+    "definition": "Fullness, surfeit"
+  },
+  {
+    "headword": "atci",
+    "copticWord": "ⲁⲧⲥⲓ",
+    "englishTransliteration": "atsi",
+    "partOfSpeech": "adj",
+    "gloss": "Insatiate",
+    "definition": "Insatiate"
+  },
+  {
+    "headword": "nouc/ou",
+    "copticWord": "ⲛⲟⲩⲥⲏⲟⲩ",
+    "englishTransliteration": "nousiou",
+    "gloss": "On a time, once, at times",
+    "definition": "On a time, once, at times"
+  },
+  {
+    "headword": "nc/ou niben",
+    "copticWord": "ⲛⲥⲏⲟⲩ ⲛⲓⲃⲉⲛ",
+    "englishTransliteration": "nsiou neeben",
+    "gloss": "At all times, always",
+    "definition": "At all times, always"
+  }
+]

@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Coptic Language — Dictionary, Unicode & Pronunciation</title>
+    <meta name="description" content="Learn and work with the Coptic language — dictionary search, Antonios Unicode conversion, and Bohairic pronunciation tools." />
+    <meta name="theme-color" content="#722F37" />
+    <link rel="icon" href="/favicon.ico" sizes="48x48" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <script src="/tailwind.cdn.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="/static_style.css" />
+  </head>
+  <body class="font-sans antialiased bg-slate-50 text-slate-900 flex flex-col min-h-screen">
+
+    <header class="bg-burgundy-900 border-b-4 border-gold sticky top-0 z-50 shadow-md">
+      <nav class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between relative">
+        <div class="flex items-center space-x-8">
+          <a href="/" class="flex items-center gap-2.5 sm:gap-3 text-xl font-bold tracking-tight text-gold hover:text-white transition sm:text-2xl no-underline">
+            <img src="/images/logo-gold.png" alt="" class="h-9 w-9 sm:h-10 sm:w-10 shrink-0" width="40" height="40" decoding="async" />
+            <span>COPTIC LANGUAGE</span>
+          </a>
+          <div class="hidden md:flex items-center space-x-6 text-sm font-medium">
+            <a href="/about.html" class="text-white/90 hover:text-gold transition">About</a>
+            <a href="/story.html" class="text-white/90 hover:text-gold transition">Story</a>
+            <a href="/contact.html" class="text-white/90 hover:text-gold transition">Contact</a>
+            <a href="/support.html" class="text-white/90 hover:text-gold transition">Support</a>
+          </div>
+        </div>
+        <button id="menu-toggle" type="button" aria-expanded="false" aria-label="Toggle navigation menu"
+          class="md:hidden inline-flex items-center justify-center p-2 rounded-md text-white/80 hover:text-gold hover:bg-burgundy-800 transition">
+          <svg id="hamburger-icon" class="h-6 w-6 block" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+          </svg>
+          <svg id="close-icon" class="h-6 w-6 hidden" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+          </svg>
+        </button>
+        <div id="mobile-menu" class="hidden absolute top-16 left-0 w-full bg-burgundy-800 border-b border-gold/30 shadow-xl flex-col px-4 py-4 space-y-3 font-medium md:hidden z-40">
+          <a href="/about.html" class="px-3 py-2 rounded-md text-white hover:text-gold text-sm">About</a>
+          <a href="/story.html" class="px-3 py-2 rounded-md text-white hover:text-gold text-sm">Story</a>
+          <a href="/contact.html" class="px-3 py-2 rounded-md text-white hover:text-gold text-sm">Contact</a>
+          <a href="/support.html" class="px-3 py-2 rounded-md text-white hover:text-gold text-sm">Support</a>
+        </div>
+      </nav>
+    </header>
+
+    <section class="hero-gradient text-white py-16 px-4 sm:px-6 lg:px-8 text-center">
+      <div class="max-w-3xl mx-auto">
+        <p class="text-sm uppercase tracking-widest text-liturgicalGold mb-4">The world's longest continually spoken language</p>
+        <h1 class="text-4xl font-extrabold sm:text-5xl tracking-tight mb-6">
+          Tools for the <span class="text-gold">Coptic language</span>
+        </h1>
+        <p class="text-lg sm:text-xl text-slate-200 font-light max-w-2xl mx-auto leading-relaxed">
+          Coptic is the final stage of Egyptian — still heard in church liturgy today. Search the dictionary,
+          convert legacy font text to Unicode, and practice Bohairic pronunciation.
+        </p>
+      </div>
+    </section>
+
+    <main class="max-w-6xl mx-auto my-16 px-4 sm:px-6 lg:px-8 flex-1 w-full">
+      <div class="text-center mb-12">
+        <h2 class="text-3xl font-bold tracking-tight text-burgundy-900 sm:text-4xl">Language tools</h2>
+        <p class="mt-2 text-slate-700">Dictionary, script conversion, and pronunciation — all under <code class="text-sm bg-burgundy-50 text-burgundy-900 px-2 py-0.5 rounded font-mono">/app</code></p>
+        <div class="w-12 h-1 bg-gold mx-auto mt-4 rounded-full"></div>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <a href="/app/dictionary" class="bg-white p-8 rounded-xl shadow-sm border border-slate-200 border-t-4 border-t-burgundy-700 hover:shadow-md hover:border-burgundy-700 transition duration-200 group no-underline">
+          <h3 class="text-lg font-bold text-slate-900 mb-3 group-hover:text-burgundy-700">Coptic Dictionary</h3>
+          <p class="text-sm text-slate-700 leading-relaxed mb-4">
+            Search Coptic words with definitions, roots, etymology, and linked pronunciation — built for students and researchers.
+          </p>
+          <span class="text-sm font-semibold text-burgundy-700">Open dictionary →</span>
+        </a>
+
+        <a href="/app/unicode" class="bg-white p-8 rounded-xl shadow-sm border border-slate-200 border-t-4 border-t-burgundy-700 hover:shadow-md hover:border-burgundy-700 transition duration-200 group no-underline">
+          <h3 class="text-lg font-bold text-slate-900 mb-3 group-hover:text-burgundy-700">Antonios Unicode</h3>
+          <p class="text-sm text-slate-700 leading-relaxed mb-4">
+            Convert legacy Antonios-font keyboard text (<code class="text-xs bg-burgundy-50 text-burgundy-900 px-1 rounded font-mono">amyn</code>) to standard Coptic Unicode (<code class="text-xs bg-burgundy-50 text-burgundy-900 px-1 rounded font-mono">ⲁⲙⲏⲛ</code>).
+          </p>
+          <span class="text-sm font-semibold text-burgundy-700">Open converter →</span>
+        </a>
+
+        <a href="/app/pronounce" class="bg-white p-8 rounded-xl shadow-sm border border-slate-200 border-t-4 border-t-burgundy-700 hover:shadow-md hover:border-burgundy-700 transition duration-200 group no-underline">
+          <h3 class="text-lg font-bold text-slate-900 mb-3 group-hover:text-burgundy-700">Coptic Pronounce</h3>
+          <p class="text-sm text-slate-700 leading-relaxed mb-4">
+            Hear and practice authentic Bohairic pronunciation — interactive helpers for learners and diaspora communities.
+          </p>
+          <span class="text-sm font-semibold text-burgundy-700">Open pronunciation →</span>
+        </a>
+      </div>
+    </main>
+
+    <footer class="site-footer pt-12 pb-10 px-4 sm:px-6 lg:px-8">
+      <div class="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-8 border-b footer-divider pb-8 mb-8">
+        <div class="text-center md:text-left space-y-2">
+          <h4 class="footer-brand">COPTIC LANGUAGE</h4>
+          <p class="footer-muted max-w-sm">Open tools for reading, searching, and pronouncing Coptic.</p>
+        </div>
+        <nav class="footer-nav" aria-label="Footer">
+          <a href="/">Home</a>
+          <a href="/about.html">About</a>
+          <a href="/story.html">Story</a>
+          <a href="/contact.html">Contact</a>
+          <a href="/support.html">Support</a>
+        </nav>
+      </div>
+      <p class="max-w-6xl mx-auto text-center footer-copy">&copy; 2026 Coptic Language. Built for the Coptic community.</p>
+    </footer>
+
+    <script src="/site.js" defer></script>
+  </body>
+</html>

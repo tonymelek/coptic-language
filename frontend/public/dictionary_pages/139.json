@@ -1,0 +1,373 @@
+[
+  {
+    "headword": "selem",
+    "copticWord": "ϣⲉⲗⲉⲙ",
+    "englishTransliteration": "shelem",
+    "reference": "560a",
+    "gloss": "vt. To draw forth",
+    "definition": "vt. To draw forth"
+  },
+  {
+    "headword": "selsel",
+    "copticWord": "ϣⲉⲗϣⲉⲗ",
+    "englishTransliteration": "shelshel",
+    "reference": "561b",
+    "gloss": "(rare) vt. To shake (in sieve), sift",
+    "definition": "(rare) vt. To shake (in sieve), sift"
+  },
+  {
+    "headword": "sels/ili",
+    "copticWord": "ϣⲉⲗϣⲏⲓⲗⲓ",
+    "englishTransliteration": "shelshiili",
+    "variants": [
+      {
+        "word": "sels/li",
+        "copticWord": "ϣⲉⲗϣⲏⲗⲓ",
+        "englishTransliteration": "shelshili"
+      }
+    ],
+    "reference": "561a",
+    "partOfSpeech": "m",
+    "gloss": "unripe, sour grapes",
+    "definition": "unripe, sour grapes"
+  },
+  {
+    "headword": "sennoufi",
+    "copticWord": "ϣⲉⲛⲛⲟⲩϥⲓ",
+    "englishTransliteration": "shennoufi",
+    "gloss": "Good news. senc: (572a)",
+    "definition": "Good news. senc: (572a)",
+    "crossReference": {
+      "target": "sini",
+      "gloss": "Good news. senc: (572a)"
+    }
+  },
+  {
+    "headword": "m. Linen",
+    "copticWord": "ⲙ. Ⲗⲓⲛⲉⲛ",
+    "englishTransliteration": "m. Linen",
+    "variants": [
+      {
+        "word": "of fine flax. sent- v. (1)swnt - To plait. sent/c",
+        "copticWord": "ⲟϥ ϥⲓⲛⲉ ϥⲗⲁⲝ. ϣⲉⲛⲧ- ⲫ. (1)ϣⲱⲛⲧ - Ⲧⲟ ⲡⲗⲁⲓⲧ. ϣⲉⲛⲧⲏⲥ",
+        "englishTransliteration": "of fine flaks. shent- f. (1)shōnt - To plait. shentis"
+      }
+    ],
+    "reference": "573b"
+  },
+  {
+    "headword": "Louse's egg. sentw",
+    "copticWord": "Ⲗⲟⲩϣⲉⲯϣ ⲉⲅⲅ. ϣⲉⲛⲧⲱ",
+    "englishTransliteration": "Loushepssh eng. shentō",
+    "reference": "573b"
+  },
+  {
+    "headword": "f. Sheet",
+    "copticWord": "ϥ. Ϣϩⲉⲉⲧ",
+    "englishTransliteration": "f. Shheet",
+    "variants": [
+      {
+        "word": "robe of linen. sentwli",
+        "copticWord": "ⲣⲟⲃⲉ ⲟϥ ⲗⲓⲛⲉⲛ. ϣⲉⲛⲧⲱⲗⲓ",
+        "englishTransliteration": "rove of linen. shentōli"
+      },
+      {
+        "word": "[entwli",
+        "copticWord": "ϭⲉⲛⲧⲱⲗⲓ",
+        "englishTransliteration": "chentōli"
+      }
+    ],
+    "reference": "573b"
+  },
+  {
+    "headword": "m. Unbleached",
+    "copticWord": "ⲙ. Ⲩⲛⲃⲗⲉⲁⲥϩⲉⲇ",
+    "englishTransliteration": "m. Ynvleashed",
+    "variants": [
+      {
+        "word": "raw cloth. senfi",
+        "copticWord": "ⲣⲁⲱ ⲥⲗⲟⲧϩ. ϣⲉⲛϥⲓ",
+        "englishTransliteration": "raō sloth. shenfi"
+      },
+      {
+        "word": "s/ifi",
+        "copticWord": "ϣⲏⲓϥⲓ",
+        "englishTransliteration": "shiifi"
+      }
+    ],
+    "reference": "574a",
+    "partOfSpeech": "f",
+    "gloss": "Scale (of fish). senh/t v. h/t - To have pity. senhin v. hin - Divination. ?senho v. ho -sen] v. (1)swnt - Plaited work. sep- v. (1)swp - To clip. sep- v. (2)swp - To buy. sep(Q) v. (1)swp - To be clipped. sobsebsepswb(Q) v. - To be sharpened. sepswp(Q) v. sobseb - To be sharpened. sephmot v. hmot - To thank. senes- v. sans - To nourish. sennifi v. nifi - Blow of breath. sennoh v. (2)se - A land measure",
+    "definition": "Scale (of fish). senh/t v. h/t - To have pity. senhin v. hin - Divination. ?senho v. ho -sen] v. (1)swnt - Plaited work. sep- v. (1)swp - To clip. sep- v. (2)swp - To buy. sep(Q) v. (1)swp - To be clipped. sobsebsepswb(Q) v. - To be sharpened. sepswp(Q) v. sobseb - To be sharpened. sephmot v. hmot - To thank. senes- v. sans - To nourish. sennifi v. nifi - Blow of breath. sennoh v. (2)se - A land measure"
+  },
+  {
+    "headword": "sels/li",
+    "copticWord": "ϣⲉⲗϣⲏⲗⲓ",
+    "englishTransliteration": "shelshili",
+    "gloss": "Unripe grapes",
+    "definition": "Unripe grapes",
+    "crossReference": {
+      "target": "sels/ili",
+      "gloss": "Unripe grapes"
+    }
+  },
+  {
+    "headword": "self",
+    "copticWord": "ϣⲉⲗϥ",
+    "englishTransliteration": "shelf",
+    "gloss": "Fear. sem v. sma - To be subtle. sem/r: (567a)",
+    "definition": "m. Leaven.",
+    "crossReference": {
+      "target": "slah",
+      "gloss": "Fear. sem v. sma - To be subtle. sem/r: (567a)"
+    }
+  },
+  {
+    "headword": "semmo",
+    "copticWord": "ϣⲉⲙⲙⲟ",
+    "englishTransliteration": "shemmo",
+    "variants": [
+      {
+        "type": "pl.",
+        "word": "semmwou",
+        "copticWord": "ϣⲉⲙⲙⲱⲟⲩ",
+        "englishTransliteration": "shemmōou"
+      }
+    ],
+    "reference": "565b",
+    "partOfSpeech": "m",
+    "senses": [
+      {
+        "gloss": "Stranger",
+        "definition": "Stranger"
+      },
+      {
+        "label": "e",
+        "partOfSpeech": "m",
+        "gloss": "Stranger to",
+        "definition": "--: adj. Strange;"
+      },
+      {
+        "label": "epsemmo",
+        "partOfSpeech": "m",
+        "gloss": "To strange parts, abroad (with verb to go)",
+        "definition": "To strange parts, abroad (with verb to go)"
+      },
+      {
+        "label": "hi psemmo",
+        "gloss": "in strange parts, abroad",
+        "definition": "metsemmo: f. Condition of stranger, strangeness;"
+      },
+      {
+        "label": "maisemmo",
+        "partOfSpeech": "adj",
+        "gloss": "loving strangers, hospitable",
+        "definition": "loving strangers, hospitable"
+      },
+      {
+        "label": "er",
+        "partOfSpeech": "vb",
+        "gloss": "To become, be stranger",
+        "definition": "To become, be stranger"
+      }
+    ]
+  },
+  {
+    "headword": "ser",
+    "copticWord": "ϣⲉⲣ",
+    "englishTransliteration": "sher",
+    "gloss": "To pile up",
+    "definition": "To pile up",
+    "crossReference": {
+      "target": "swr",
+      "gloss": "To pile up"
+    }
+  },
+  {
+    "headword": "seri",
+    "copticWord": "ϣⲉⲣⲓ",
+    "englishTransliteration": "sheri",
+    "gloss": "Daughter",
+    "definition": "Daughter",
+    "crossReference": {
+      "target": "s/ri",
+      "gloss": "Daughter"
+    }
+  },
+  {
+    "headword": "e",
+    "copticWord": "ⲉ",
+    "englishTransliteration": "e",
+    "partOfSpeech": "vb",
+    "gloss": "To be estranged from. semmwou v. semmo - Strangers. semsi, semse-, sems/t=, p.c",
+    "definition": "To be estranged from. semmwou v. semmo - Strangers. semsi, semse-, sems/t=, p.c",
+    "senses": [
+      {
+        "label": "samse",
+        "reference": "567a",
+        "gloss": "vi. To serve, worship",
+        "definition": "p.c. worshipper;"
+      },
+      {
+        "partOfSpeech": "m",
+        "gloss": "Service, worship",
+        "definition": "Service, worship"
+      },
+      {
+        "label": "ersemsi",
+        "gloss": "vi. To do service",
+        "definition": "vi. To do service"
+      },
+      {
+        "label": "refsemsi",
+        "partOfSpeech": "m",
+        "gloss": "worshipper, server",
+        "definition": "metrefsemsi: f. Service;"
+      },
+      {
+        "label": "jinsemsi",
+        "partOfSpeech": "m",
+        "gloss": "Service, religion",
+        "definition": "Service, religion"
+      }
+    ]
+  },
+  {
+    "headword": "semse",
+    "copticWord": "ϣⲉⲙϣⲉ",
+    "englishTransliteration": "shemshe",
+    "gloss": "To serve. sems/t= v. semsi - To serve. sems/ji: (568a)",
+    "definition": "vi. To whisper. sen- v. sini - To ask. sen- v. swni - Sickness. sen= v. sini - To ask.",
+    "crossReference": {
+      "target": "semsi",
+      "gloss": "To serve. sems/t= v. semsi - To serve. sems/ji: (568a)"
+    }
+  },
+  {
+    "headword": "sersi",
+    "copticWord": "ϣⲉⲣϣⲓ",
+    "englishTransliteration": "shershi",
+    "reference": "588b",
+    "partOfSpeech": "m",
+    "gloss": "Hilarity, mockery",
+    "definition": "Hilarity, mockery"
+  },
+  {
+    "headword": "ersersi",
+    "copticWord": "ⲉⲣϣⲉⲣϣⲓ",
+    "englishTransliteration": "ershershi",
+    "partOfSpeech": "vb",
+    "gloss": "To make sport, be light hearted",
+    "definition": "To make sport, be light hearted"
+  },
+  {
+    "headword": "serswr=",
+    "copticWord": "ϣⲉⲣϣⲱⲣ",
+    "englishTransliteration": "shershōr",
+    "gloss": "To upset",
+    "definition": "To upset",
+    "crossReference": {
+      "target": "swrser",
+      "gloss": "To upset"
+    }
+  },
+  {
+    "headword": "set",
+    "copticWord": "ϣⲉⲧ",
+    "englishTransliteration": "shet",
+    "gloss": "To demand",
+    "definition": "To demand",
+    "crossReference": {
+      "target": "(1)si]",
+      "gloss": "To demand"
+    }
+  },
+  {
+    "headword": "set=",
+    "copticWord": "ϣⲉⲧ",
+    "englishTransliteration": "shet",
+    "gloss": "To demand",
+    "definition": "To demand",
+    "crossReference": {
+      "target": "(1)si]",
+      "gloss": "To demand"
+    }
+  },
+  {
+    "headword": "setswt=",
+    "copticWord": "ϣⲉⲧϣⲱⲧ",
+    "englishTransliteration": "shetshōt",
+    "gloss": "To cut",
+    "definition": "To cut",
+    "crossReference": {
+      "target": "sotset",
+      "gloss": "To cut"
+    }
+  },
+  {
+    "headword": "setswt(Q)",
+    "copticWord": "ϣⲉⲧϣⲱⲧ(Ϧ)",
+    "englishTransliteration": "shetshōt(Kh)",
+    "gloss": "To be cut",
+    "definition": "To be cut",
+    "crossReference": {
+      "target": "sotset",
+      "gloss": "To be cut"
+    }
+  },
+  {
+    "headword": "ses",
+    "copticWord": "ϣⲉϣ",
+    "englishTransliteration": "shesh",
+    "gloss": "To despise",
+    "definition": "To despise",
+    "crossReference": {
+      "target": "(1)sws",
+      "gloss": "To despise"
+    }
+  },
+  {
+    "headword": "sesnoh",
+    "copticWord": "ϣⲉϣⲛⲟϩ",
+    "englishTransliteration": "sheshnoh",
+    "gloss": "Twist rope",
+    "definition": "Twist rope",
+    "crossReference": {
+      "target": "(2)noh",
+      "gloss": "Twist rope"
+    }
+  },
+  {
+    "headword": "sest=",
+    "copticWord": "ϣⲉϣⲧ",
+    "englishTransliteration": "shesht",
+    "gloss": "To stop",
+    "definition": "To stop",
+    "crossReference": {
+      "target": "swst",
+      "gloss": "To stop"
+    }
+  },
+  {
+    "headword": "sesf",
+    "copticWord": "ϣⲉϣϥ",
+    "englishTransliteration": "sheshf",
+    "gloss": "To despise",
+    "definition": "To despise",
+    "crossReference": {
+      "target": "(1)sws",
+      "gloss": "To despise"
+    }
+  },
+  {
+    "headword": "s/b(Q)",
+    "copticWord": "ϣⲏⲃ(Ϧ)",
+    "englishTransliteration": "sheeb(Kh)",
+    "gloss": "To be clipped",
+    "definition": "To be clipped",
+    "crossReference": {
+      "target": "(1)swp",
+      "gloss": "To be clipped"
+    }
+  }
+]

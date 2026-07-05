@@ -1,0 +1,445 @@
+[
+  {
+    "headword": "tom=",
+    "copticWord": "ⲧⲟⲙ",
+    "englishTransliteration": "tom",
+    "gloss": "To join",
+    "definition": "To join",
+    "crossReference": {
+      "target": "twmi",
+      "gloss": "To join"
+    }
+  },
+  {
+    "headword": "tomt (Q) v. (2)twmt - To be amazed. tomtem",
+    "copticWord": "ⲧⲟⲙⲧ (Ϧ) ⲫ. (2)ⲧⲱⲙⲧ - Ⲧⲟ ⲃⲉ ⲁⲙⲁⲍⲉⲇ. ⲧⲟⲙⲧⲉⲙ",
+    "englishTransliteration": "tomt (Kh) f. (2)tōmt - To ve amazed. tomtem",
+    "variants": [
+      {
+        "word": "yomtem",
+        "copticWord": "ⲑⲟⲙⲧⲉⲙ",
+        "englishTransliteration": "thomtem"
+      },
+      {
+        "word": "temywm",
+        "note": "Q",
+        "copticWord": "ⲧⲉⲙⲑⲱⲙ",
+        "englishTransliteration": "temthōm"
+      }
+    ],
+    "reference": "417a",
+    "gloss": "vi. To be heavy, oppressed",
+    "definition": "vi. To be heavy, oppressed"
+  },
+  {
+    "headword": "tona",
+    "copticWord": "ⲧⲟⲛⲁ",
+    "englishTransliteration": "tona",
+    "gloss": "Very",
+    "definition": "Very",
+    "crossReference": {
+      "target": "twnou",
+      "gloss": "Very"
+    }
+  },
+  {
+    "headword": "attoubo",
+    "copticWord": "ⲁⲧⲧⲟⲩⲃⲟ",
+    "englishTransliteration": "attouvo",
+    "partOfSpeech": "adj",
+    "gloss": "Impure",
+    "definition": "Impure"
+  },
+  {
+    "headword": "ma ntoubo",
+    "copticWord": "ⲙⲁ ⲛⲧⲟⲩⲃⲟ",
+    "englishTransliteration": "ma ntouvo",
+    "partOfSpeech": "m",
+    "gloss": "Place of purifying",
+    "definition": "Place of purifying"
+  },
+  {
+    "headword": "mettoubo",
+    "copticWord": "ⲙⲉⲧⲧⲟⲩⲃⲟ",
+    "englishTransliteration": "mettouvo",
+    "partOfSpeech": "f",
+    "gloss": "Purity",
+    "definition": "Purity"
+  },
+  {
+    "headword": "jintoubo",
+    "copticWord": "ϫⲓⲛⲧⲟⲩⲃⲟ",
+    "englishTransliteration": "jintouvo",
+    "partOfSpeech": "m",
+    "gloss": "Purification. toubo= v. toubo - To be pure. touie- v. touio - To wean. touio, touie-, touio=: (444a)",
+    "definition": "vt. To remove, wean. touio= v. touio - To remove. toulo v. youelo - To overflow. toun-: (446b); vt. To make to open. tounec- v. tounoc - To raise. tounoc, tounec-, tounoc-, tounoc=: (446b); vt. To wake, raise, set up; --- ejen: vt. To raise upon, incite against"
+  },
+  {
+    "headword": "ha",
+    "copticWord": "ϩⲁ",
+    "englishTransliteration": "ha",
+    "partOfSpeech": "vb",
+    "gloss": "To be pure from",
+    "definition": "--- qen-: vi. To be pure by, free from;"
+  },
+  {
+    "headword": "tono",
+    "copticWord": "ⲧⲟⲛⲟ",
+    "englishTransliteration": "tono",
+    "gloss": "Very",
+    "definition": "Very",
+    "crossReference": {
+      "target": "twnou",
+      "gloss": "Very"
+    }
+  },
+  {
+    "headword": "tonw",
+    "copticWord": "ⲧⲟⲛⲱ",
+    "englishTransliteration": "tonō",
+    "reference": "418b",
+    "gloss": "vi. To strike",
+    "definition": "vi. To strike"
+  },
+  {
+    "headword": "tonwou",
+    "copticWord": "ⲧⲟⲛⲱⲟⲩ",
+    "englishTransliteration": "tonōou",
+    "gloss": "Very",
+    "definition": "Very",
+    "crossReference": {
+      "target": "twnou",
+      "gloss": "Very"
+    }
+  },
+  {
+    "headword": "tons=",
+    "copticWord": "ⲧⲟⲛϣ",
+    "englishTransliteration": "tonsh",
+    "gloss": "To threaten",
+    "definition": "To threaten",
+    "crossReference": {
+      "target": "(twns)",
+      "gloss": "To threaten"
+    }
+  },
+  {
+    "headword": "tooui",
+    "copticWord": "ⲧⲟⲟⲩⲓ",
+    "englishTransliteration": "tooui",
+    "variants": [
+      {
+        "type": "f.",
+        "word": "hanatooui",
+        "copticWord": "ϩⲁⲛⲁⲧⲟⲟⲩⲓ",
+        "englishTransliteration": "hanatooui"
+      }
+    ],
+    "reference": "727b",
+    "partOfSpeech": "m",
+    "gloss": "dawn, morning",
+    "definition": "dawn, morning",
+    "senses": [
+      {
+        "label": "pinau nhanatooui",
+        "gloss": "Time of dawn, morning hour",
+        "definition": "Time of dawn, morning hour"
+      },
+      {
+        "label": "ehanatooui",
+        "gloss": "At dawn, in morning",
+        "definition": "nhanatooui: At dawn, in morning; sahanatooui: Till morning."
+      }
+    ]
+  },
+  {
+    "headword": "ebol ha",
+    "copticWord": "ⲉⲃⲟⲗ ϩⲁ",
+    "englishTransliteration": "evol ha",
+    "gloss": "vt. To raise from off",
+    "definition": "vt. To raise from off"
+  },
+  {
+    "headword": "top=",
+    "copticWord": "ⲧⲟⲡ",
+    "englishTransliteration": "top",
+    "reference": "422b",
+    "gloss": "vt. To stitch, stop, caulk. top= v. (1)twb - To seal",
+    "definition": "vt. To stitch, stop, caulk. top= v. (1)twb - To seal"
+  },
+  {
+    "headword": "hijen",
+    "copticWord": "ϩⲓϫⲉⲛ",
+    "englishTransliteration": "heegen",
+    "gloss": "vt. To raise upon",
+    "definition": "--- epswi: vt. To raise up; --- ehr/i: vt. To raise up"
+  },
+  {
+    "headword": "jintounoc",
+    "copticWord": "ϫⲓⲛⲧⲟⲩⲛⲟⲥ",
+    "englishTransliteration": "jintounos",
+    "partOfSpeech": "m",
+    "gloss": "Raising",
+    "definition": "Raising"
+  },
+  {
+    "headword": "topou",
+    "copticWord": "ⲧⲟⲡⲟⲩ",
+    "englishTransliteration": "topou",
+    "gloss": "Requital",
+    "definition": "Requital",
+    "crossReference": {
+      "target": "(2)twb",
+      "gloss": "Requital"
+    }
+  },
+  {
+    "headword": "tounoc",
+    "copticWord": "ⲧⲟⲩⲛⲟⲥ",
+    "englishTransliteration": "tounos",
+    "gloss": "To raise",
+    "definition": "To raise",
+    "crossReference": {
+      "target": "tounoc",
+      "gloss": "To raise"
+    }
+  },
+  {
+    "headword": "topc",
+    "copticWord": "ⲧⲟⲡⲥ",
+    "englishTransliteration": "tops",
+    "gloss": "Seal's impress",
+    "definition": "Seal's impress",
+    "crossReference": {
+      "target": "(1)twb",
+      "gloss": "Seal's impress"
+    }
+  },
+  {
+    "headword": "tounoc=",
+    "copticWord": "ⲧⲟⲩⲛⲟⲥ",
+    "englishTransliteration": "tounos",
+    "gloss": "To raise",
+    "definition": "To raise",
+    "crossReference": {
+      "target": "tounoc",
+      "gloss": "To raise"
+    }
+  },
+  {
+    "headword": "topf",
+    "copticWord": "ⲧⲟⲡϥ",
+    "englishTransliteration": "topf",
+    "gloss": "Seal's impress",
+    "definition": "Seal's impress",
+    "crossReference": {
+      "target": "(1)twb",
+      "gloss": "Seal's impress"
+    }
+  },
+  {
+    "headword": "touhe",
+    "copticWord": "ⲧⲟⲩϩⲉ",
+    "englishTransliteration": "touhe",
+    "gloss": "To add",
+    "definition": "To add",
+    "crossReference": {
+      "target": "touho",
+      "gloss": "To add"
+    }
+  },
+  {
+    "headword": "touho",
+    "copticWord": "ⲧⲟⲩϩⲟ",
+    "englishTransliteration": "touho",
+    "variants": [
+      {
+        "word": "touhe",
+        "copticWord": "ⲧⲟⲩϩⲉ",
+        "englishTransliteration": "touhe"
+      },
+      {
+        "word": "touho=",
+        "copticWord": "ⲧⲟⲩϩⲟ",
+        "englishTransliteration": "touho"
+      }
+    ],
+    "reference": "448b",
+    "gloss": "vt. To add",
+    "definition": "vt. To add"
+  },
+  {
+    "headword": "e",
+    "copticWord": "ⲉ",
+    "englishTransliteration": "e",
+    "gloss": "vt. To add to",
+    "definition": "--- nem-: vt. To join with; ---: m. Addition."
+  },
+  {
+    "headword": "torter",
+    "copticWord": "ⲧⲟⲣⲧⲉⲣ",
+    "englishTransliteration": "torter",
+    "variants": [
+      {
+        "word": "tertwr",
+        "copticWord": "ⲧⲉⲣⲧⲱⲣ",
+        "englishTransliteration": "tertōr"
+      }
+    ],
+    "reference": "432a",
+    "gloss": "vt. To thrust in, pierce",
+    "definition": "vt. To thrust in, pierce"
+  },
+  {
+    "headword": "tot",
+    "copticWord": "ⲧⲟⲧ",
+    "englishTransliteration": "tot",
+    "gloss": "Suffix for 2nd pers. pl",
+    "definition": "Suffix for 2nd pers. pl",
+    "crossReference": {
+      "target": "twri",
+      "gloss": "Suffix for 2nd pers. pl"
+    }
+  },
+  {
+    "headword": "tot=",
+    "copticWord": "ⲧⲟⲧ",
+    "englishTransliteration": "tot",
+    "gloss": "Suffix for 2nd pers. pl",
+    "definition": "Suffix for 2nd pers. pl",
+    "crossReference": {
+      "target": "twri",
+      "gloss": "Suffix for 2nd pers. pl"
+    }
+  },
+  {
+    "headword": "totc",
+    "copticWord": "ⲧⲟⲧⲥ",
+    "englishTransliteration": "tots",
+    "variants": [
+      {
+        "word": "kotc",
+        "copticWord": "ⲕⲟⲧⲥ",
+        "englishTransliteration": "kots"
+      },
+      {
+        "word": "tojc",
+        "copticWord": "ⲧⲟϫⲥ",
+        "englishTransliteration": "tojs"
+      }
+    ],
+    "reference": "407a",
+    "partOfSpeech": "m",
+    "gloss": "A thing firmly fixed",
+    "definition": "seat, chair; (mod) f. Sofa"
+  },
+  {
+    "headword": "toube",
+    "copticWord": "ⲧⲟⲩⲃⲉ",
+    "englishTransliteration": "touve",
+    "gloss": "To become pure",
+    "definition": "To become pure",
+    "crossReference": {
+      "target": "toubo",
+      "gloss": "To become pure"
+    }
+  },
+  {
+    "headword": "touho=",
+    "copticWord": "ⲧⲟⲩϩⲟ",
+    "englishTransliteration": "touho",
+    "gloss": "To add",
+    "definition": "To add",
+    "crossReference": {
+      "target": "touho",
+      "gloss": "To add"
+    }
+  },
+  {
+    "headword": "touje",
+    "copticWord": "ⲧⲟⲩϫⲉ",
+    "englishTransliteration": "touje",
+    "gloss": "To save",
+    "definition": "To save",
+    "crossReference": {
+      "target": "toujo",
+      "gloss": "To save"
+    }
+  },
+  {
+    "headword": "toubo",
+    "copticWord": "ⲧⲟⲩⲃⲟ",
+    "englishTransliteration": "touvo",
+    "variants": [
+      {
+        "word": "toube",
+        "copticWord": "ⲧⲟⲩⲃⲉ",
+        "englishTransliteration": "touve"
+      },
+      {
+        "word": "toubo=",
+        "copticWord": "ⲧⲟⲩⲃⲟ",
+        "englishTransliteration": "touvo"
+      },
+      {
+        "word": "toub/out",
+        "note": "Q",
+        "copticWord": "ⲧⲟⲩⲃⲏⲟⲩⲧ",
+        "englishTransliteration": "touviout"
+      }
+    ],
+    "reference": "399b",
+    "gloss": "vi. To become, be pure",
+    "definition": "vt. To make pure, purify;"
+  },
+  {
+    "headword": "toujo",
+    "copticWord": "ⲧⲟⲩϫⲟ",
+    "englishTransliteration": "toujo",
+    "variants": [
+      {
+        "word": "touje",
+        "copticWord": "ⲧⲟⲩϫⲉ",
+        "englishTransliteration": "touje"
+      },
+      {
+        "word": "toujo=",
+        "copticWord": "ⲧⲟⲩϫⲟ",
+        "englishTransliteration": "toujo"
+      },
+      {
+        "word": "touj/out",
+        "note": "Q",
+        "copticWord": "ⲧⲟⲩϫⲏⲟⲩⲧ",
+        "englishTransliteration": "toujiout"
+      }
+    ],
+    "reference": "448b",
+    "gloss": "vt. To make whole, save",
+    "definition": "vi. To be safe, saved; (Q) safe, preserved; --- e-: vi. To be saved from;"
+  },
+  {
+    "headword": "n",
+    "copticWord": "ⲛ",
+    "englishTransliteration": "n",
+    "partOfSpeech": "vb",
+    "gloss": "To cleanse, be pure for",
+    "definition": "To cleanse, be pure for"
+  },
+  {
+    "headword": "eybe",
+    "copticWord": "ⲉⲑⲃⲉ",
+    "englishTransliteration": "ethve",
+    "partOfSpeech": "vb",
+    "gloss": "To saved for, through",
+    "definition": "To saved for, through"
+  },
+  {
+    "headword": "nten",
+    "copticWord": "ⲛⲧⲉⲛ",
+    "englishTransliteration": "nten",
+    "partOfSpeech": "vb",
+    "gloss": "To be saved from",
+    "definition": "To be saved from"
+  }
+]

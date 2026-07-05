@@ -1,0 +1,465 @@
+[
+  {
+    "headword": "(1) amoni",
+    "copticWord": "ⲁⲙⲟⲛⲓ",
+    "englishTransliteration": "amoni",
+    "reference": "8a",
+    "gloss": "vi. To prevail, be in possession, be strong",
+    "definition": "vt. Seize, possess, detain;",
+    "senses": [
+      {
+        "label": "ejen",
+        "partOfSpeech": "vb",
+        "gloss": "Same meaning",
+        "definition": "Same meaning"
+      },
+      {
+        "label": "nem",
+        "partOfSpeech": "vb",
+        "gloss": "To support, help",
+        "definition": "To support, help"
+      },
+      {
+        "label": "nten",
+        "partOfSpeech": "vb",
+        "gloss": "To hold, be in possession of",
+        "definition": "endure, wait for;"
+      },
+      {
+        "label": "hijen",
+        "partOfSpeech": "vb",
+        "gloss": "To overcome",
+        "definition": "To overcome"
+      },
+      {
+        "label": "hijwf",
+        "partOfSpeech": "adj",
+        "gloss": "Unrestrained, uncontrollable",
+        "definition": "Unrestrained, uncontrollable"
+      },
+      {
+        "label": "metatsamoni nten",
+        "partOfSpeech": "f",
+        "gloss": "Un-controlledness, intemperance",
+        "definition": "Un-controlledness, intemperance"
+      },
+      {
+        "partOfSpeech": "m",
+        "gloss": "Handle",
+        "definition": "Handle"
+      },
+      {
+        "label": "nten",
+        "partOfSpeech": "m",
+        "gloss": "Endurance, patience",
+        "definition": "metrefamoni nten-: f. Endu-"
+      },
+      {
+        "gloss": "rance",
+        "definition": "rance"
+      },
+      {
+        "label": "jinamoni",
+        "partOfSpeech": "m",
+        "gloss": "Arrest, restrain",
+        "definition": "Arrest, restrain"
+      }
+    ]
+  },
+  {
+    "headword": "atamahi",
+    "copticWord": "ⲁⲧⲁⲙⲁϩⲓ",
+    "englishTransliteration": "atamahi",
+    "partOfSpeech": "adj",
+    "gloss": "Unrestrained, uncontrollable",
+    "definition": "Unrestrained, uncontrollable"
+  },
+  {
+    "headword": "metatamahi",
+    "copticWord": "ⲙⲉⲧⲁⲧⲁⲙⲁϩⲓ",
+    "englishTransliteration": "metatamahi",
+    "partOfSpeech": "f",
+    "gloss": "Uncontrolled-ness, incontinence",
+    "definition": "Uncontrolled-ness, incontinence"
+  },
+  {
+    "headword": "ame",
+    "copticWord": "ⲁⲙⲉ",
+    "englishTransliteration": "ame",
+    "variants": [
+      {
+        "word": "am/",
+        "copticWord": "ⲁⲙⲏ",
+        "englishTransliteration": "ami"
+      }
+    ],
+    "reference": "55b",
+    "partOfSpeech": "f",
+    "gloss": "Hoe (for digging)",
+    "definition": "Hoe (for digging)"
+  },
+  {
+    "headword": "ameyuctoc",
+    "copticWord": "ⲁⲙⲉⲑⲩⲥⲧⲟⲥ",
+    "englishTransliteration": "amethystos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "A precious stone `Amethyst'",
+    "definition": "A precious stone `Amethyst'"
+  },
+  {
+    "headword": "ameleia",
+    "copticWord": "ⲁⲙⲉⲗⲉⲓⲁ",
+    "englishTransliteration": "amelia",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "gloss": "Character or conduct of a carelss, heedless or negligent person",
+    "definition": "indeference."
+  },
+  {
+    "headword": "amelec",
+    "copticWord": "ⲁⲙⲉⲗⲉⲥ",
+    "englishTransliteration": "ameles",
+    "gloss": "Careless",
+    "definition": "Careless",
+    "crossReference": {
+      "target": "amel/c",
+      "gloss": "Careless"
+    }
+  },
+  {
+    "headword": "amel/c",
+    "copticWord": "ⲁⲙⲉⲗⲏⲥ",
+    "englishTransliteration": "amelis",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Negligent, careless, heedless",
+    "definition": "Negligent, careless, heedless"
+  },
+  {
+    "headword": "amen]",
+    "copticWord": "ⲁⲙⲉⲛϯ",
+    "englishTransliteration": "amenti",
+    "reference": "8b",
+    "partOfSpeech": "m",
+    "gloss": "Hades",
+    "definition": "Hades"
+  },
+  {
+    "headword": "ametr/t/",
+    "copticWord": "ⲁⲙⲉⲧⲣⲏⲧⲏ",
+    "englishTransliteration": "ametriti",
+    "gloss": "Immense",
+    "definition": "Immense",
+    "crossReference": {
+      "target": "ametr/toc",
+      "gloss": "Immense"
+    }
+  },
+  {
+    "headword": "ametr/t/c",
+    "copticWord": "ⲁⲙⲉⲧⲣⲏⲧⲏⲥ",
+    "englishTransliteration": "ametritis",
+    "gloss": "Immense",
+    "definition": "Immense",
+    "crossReference": {
+      "target": "ametr/toc",
+      "gloss": "Immense"
+    }
+  },
+  {
+    "headword": "(2) amoni",
+    "copticWord": "ⲁⲙⲟⲛⲓ",
+    "englishTransliteration": "amoni",
+    "variants": [
+      {
+        "word": "moni",
+        "copticWord": "ⲙⲟⲛⲓ",
+        "englishTransliteration": "moni"
+      },
+      {
+        "word": "manou=",
+        "copticWord": "ⲙⲁⲛⲟⲩ",
+        "englishTransliteration": "manou"
+      },
+      {
+        "word": "manouou=",
+        "copticWord": "ⲙⲁⲛⲟⲩⲟⲩ",
+        "englishTransliteration": "manouou"
+      },
+      {
+        "word": "menn/t=",
+        "copticWord": "ⲙⲉⲛⲛⲏⲧ",
+        "englishTransliteration": "mennit"
+      }
+    ],
+    "reference": "173a",
+    "gloss": "(I) vi. To pasture, feed",
+    "definition": "vt. To feed, tend cattle"
+  },
+  {
+    "headword": "ma mmoni",
+    "copticWord": "ⲙⲁ ⲙⲙⲟⲛⲓ",
+    "englishTransliteration": "ma mmoni",
+    "partOfSpeech": "m",
+    "gloss": "Place of pasture",
+    "definition": "Place of pasture"
+  },
+  {
+    "headword": "refamoni",
+    "copticWord": "ⲣⲉϥⲁⲙⲟⲛⲓ",
+    "englishTransliteration": "refamoni",
+    "partOfSpeech": "m",
+    "gloss": "Shepherd",
+    "definition": "Shepherd"
+  },
+  {
+    "headword": "ametr/toc",
+    "copticWord": "ⲁⲙⲉⲧⲣⲏⲧⲟⲥ",
+    "englishTransliteration": "ametritos",
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Unmeasured, unmeasurable, immense, unnumbered, countless, exhaustless",
+    "definition": "Unmeasured, unmeasurable, immense, unnumbered, countless, exhaustless"
+  },
+  {
+    "headword": "am/",
+    "copticWord": "ⲁⲙⲏ",
+    "englishTransliteration": "ami",
+    "gloss": "Hoe",
+    "definition": "Hoe",
+    "crossReference": {
+      "target": "ame",
+      "gloss": "Hoe"
+    }
+  },
+  {
+    "headword": "mani n",
+    "copticWord": "ⲙⲁⲛⲓ ⲛ",
+    "englishTransliteration": "mani n",
+    "gloss": "Herd of",
+    "definition": "Herd of"
+  },
+  {
+    "headword": "am/iri",
+    "copticWord": "ⲁⲙⲏⲓⲣⲓ",
+    "englishTransliteration": "amiiri",
+    "reference": "56a",
+    "partOfSpeech": "f",
+    "gloss": "Inundation, high water",
+    "definition": "Inundation, high water"
+  },
+  {
+    "headword": "mani",
+    "copticWord": "ⲙⲁⲛⲓ",
+    "englishTransliteration": "mani",
+    "variants": [
+      {
+        "word": "man",
+        "copticWord": "ⲙⲁⲛ",
+        "englishTransliteration": "man"
+      }
+    ],
+    "gloss": "pl. man/ou, meneu, & sg as pl.: m. Herdsman, pastor",
+    "definition": "pl. man/ou, meneu, & sg as pl.: m. Herdsman, pastor"
+  },
+  {
+    "headword": "am/n",
+    "copticWord": "ⲁⲙⲏⲛ",
+    "englishTransliteration": "amin",
+    "gloss": "(Heb)",
+    "definition": "adv. Verily, of a truth, so be it; amen."
+  },
+  {
+    "headword": "(II)",
+    "copticWord": "(ⲒⲒ)",
+    "englishTransliteration": "(II)",
+    "gloss": "vi. To be made fast, come to land, come into port (of ship)",
+    "definition": "vi. To be made fast, come to land, come into port (of ship)"
+  },
+  {
+    "headword": "am/r",
+    "copticWord": "ⲁⲙⲏⲣ",
+    "englishTransliteration": "amir",
+    "reference": "679a",
+    "partOfSpeech": "m",
+    "gloss": "Arms, embrace",
+    "definition": "Arms, embrace"
+  },
+  {
+    "headword": "am/ou",
+    "copticWord": "ⲁⲙⲏⲟⲩ",
+    "englishTransliteration": "amiou",
+    "reference": "7a"
+  },
+  {
+    "headword": "m. Herd (of cattle or sheep). am/s",
+    "copticWord": "ⲙ. Ϩⲉⲣⲇ (ⲟϥ ⲥⲁⲧⲧⲗⲉ ⲟⲣ ϣϩⲉⲉⲡ). ⲁⲙⲏϣ",
+    "englishTransliteration": "m. Herd (of sattle or shheep). amish",
+    "reference": "56a",
+    "partOfSpeech": "m",
+    "gloss": "Anvil",
+    "definition": "Anvil"
+  },
+  {
+    "headword": "amiantoc",
+    "copticWord": "ⲁⲙⲓⲁⲛⲧⲟⲥ",
+    "englishTransliteration": "amiantos",
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Undefiled, pure",
+    "definition": "Undefiled, pure"
+  },
+  {
+    "headword": "moni eqoun",
+    "copticWord": "ⲙⲟⲛⲓ ⲉϧⲟⲩⲛ",
+    "englishTransliteration": "moni ekhoun",
+    "gloss": "vi. To come in to shore, lie in port",
+    "definition": "vt. To bring into shore or port"
+  },
+  {
+    "headword": "amin",
+    "copticWord": "ⲁⲙⲓⲛ",
+    "englishTransliteration": "amin",
+    "reference": "7b",
+    "partOfSpeech": "m",
+    "gloss": "Pot (of soapstone)",
+    "definition": "Pot (of soapstone)"
+  },
+  {
+    "headword": "(1) amre",
+    "copticWord": "ⲁⲙⲣⲉ",
+    "englishTransliteration": "amre",
+    "variants": [
+      {
+        "type": "pl.",
+        "word": "amr/ou & sg as pl",
+        "copticWord": "ⲁⲙⲣⲏⲟⲩ & ϣⲅ ⲁϣ ⲡⲗ",
+        "englishTransliteration": "amriou & shg ash pl"
+      }
+    ],
+    "reference": "8b",
+    "partOfSpeech": "m",
+    "gloss": "Baker",
+    "definition": "Baker"
+  },
+  {
+    "headword": "manamre",
+    "copticWord": "ⲙⲁⲛⲁⲙⲣⲉ",
+    "englishTransliteration": "manamre",
+    "partOfSpeech": "m",
+    "gloss": "Bakery",
+    "definition": "Bakery"
+  },
+  {
+    "headword": "metamre",
+    "copticWord": "ⲙⲉⲧⲁⲙⲣⲉ",
+    "englishTransliteration": "metamre",
+    "partOfSpeech": "f",
+    "gloss": "Art or process of baking",
+    "definition": "Art or process of baking"
+  },
+  {
+    "headword": "amici",
+    "copticWord": "ⲁⲙⲓⲥⲓ",
+    "englishTransliteration": "amisi",
+    "reference": "56a",
+    "partOfSpeech": "m",
+    "gloss": "Dill, anise",
+    "definition": "Dill, anise"
+  },
+  {
+    "headword": "ammoniakon",
+    "copticWord": "ⲁⲙⲙⲟⲛⲓⲁⲕⲟⲛ",
+    "englishTransliteration": "ammoniakon",
+    "gloss": "Ammonia",
+    "definition": "Ammonia",
+    "crossReference": {
+      "target": "ammoniakoc",
+      "gloss": "Ammonia"
+    }
+  },
+  {
+    "headword": "(2) amre",
+    "copticWord": "ⲁⲙⲣⲉ",
+    "englishTransliteration": "amre",
+    "reference": "9a",
+    "partOfSpeech": "f",
+    "gloss": "Cleansed, winowed (wheat)",
+    "definition": "Cleansed, winowed (wheat)"
+  },
+  {
+    "headword": "ammoniakoc",
+    "copticWord": "ⲁⲙⲙⲟⲛⲓⲁⲕⲟⲥ",
+    "englishTransliteration": "ammoniakos",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      }
+    ],
+    "reference": "Gk?",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "A kind of plant",
+    "definition": "ammonia."
+  },
+  {
+    "headword": "amn",
+    "copticWord": "ⲁⲙⲛ",
+    "englishTransliteration": "amn",
+    "gloss": "Manna",
+    "definition": "Manna",
+    "crossReference": {
+      "target": "mna",
+      "gloss": "Manna"
+    }
+  },
+  {
+    "headword": "amna",
+    "copticWord": "ⲁⲙⲛⲁ",
+    "englishTransliteration": "amna",
+    "reference": "7b",
+    "partOfSpeech": "m",
+    "gloss": "Type of herb or perfume",
+    "definition": "manna."
+  },
+  {
+    "headword": "amnoc",
+    "copticWord": "ⲁⲙⲛⲟⲥ",
+    "englishTransliteration": "amnos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "A lamb",
+    "definition": "A lamb"
+  },
+  {
+    "headword": "amou",
+    "copticWord": "ⲁⲙⲟⲩ",
+    "englishTransliteration": "amou",
+    "reference": "7b",
+    "gloss": "vb imperat. Come, come you (m)",
+    "definition": "vb imperat. Come, come you (m)"
+  },
+  {
+    "headword": "amwini",
+    "copticWord": "ⲁⲙⲱⲓⲛⲓ",
+    "englishTransliteration": "amōini",
+    "gloss": "vb imperat. Come you (pl)",
+    "definition": "vb imperat. Come you (pl)"
+  },
+  {
+    "headword": "amoi",
+    "copticWord": "ⲁⲙⲟⲓ",
+    "englishTransliteration": "amoi",
+    "reference": "675a",
+    "gloss": "interj. Would, o that",
+    "definition": "interj. Would, o that"
+  }
+]

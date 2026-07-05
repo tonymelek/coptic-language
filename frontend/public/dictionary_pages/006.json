@@ -1,0 +1,693 @@
+[
+  {
+    "headword": "akw",
+    "copticWord": "ⲁⲕⲱ",
+    "englishTransliteration": "akō",
+    "variants": [
+      {
+        "word": "agw",
+        "copticWord": "ⲁⲅⲱ",
+        "englishTransliteration": "agō"
+      }
+    ],
+    "reference": "3b",
+    "partOfSpeech": "f",
+    "gloss": "Thing destroyed, carrion, filth, destruction",
+    "definition": "Thing destroyed, carrion, filth, destruction"
+  },
+  {
+    "headword": "ait/ma",
+    "copticWord": "ⲁⲓⲧⲏⲙⲁ",
+    "englishTransliteration": "aitima",
+    "variants": [
+      {
+        "word": "et/ma",
+        "copticWord": "ⲉⲧⲏⲙⲁ",
+        "englishTransliteration": "etima"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Request, demand, assumption, petition",
+    "definition": "Request, demand, assumption, petition"
+  },
+  {
+    "headword": "al",
+    "copticWord": "ⲁⲗ",
+    "englishTransliteration": "al",
+    "reference": "3a",
+    "partOfSpeech": "m",
+    "gloss": "Pebble",
+    "definition": "hailstone; testicle; spot, patch on skin, eruption."
+  },
+  {
+    "headword": "aiou",
+    "copticWord": "ⲁⲓⲟⲩ",
+    "englishTransliteration": "aiou",
+    "reference": "19b",
+    "partOfSpeech": "n",
+    "gloss": "(w/ er-) means to go or travel",
+    "definition": "(w/ er-) means to go or travel"
+  },
+  {
+    "headword": "akayoc",
+    "copticWord": "ⲁⲕⲁⲑⲟⲥ",
+    "englishTransliteration": "akathos",
+    "gloss": "Good",
+    "definition": "Good",
+    "crossReference": {
+      "target": "agayoc",
+      "gloss": "Good"
+    }
+  },
+  {
+    "headword": "akayarton",
+    "copticWord": "ⲁⲕⲁⲑⲁⲣⲧⲟⲛ",
+    "englishTransliteration": "akatharton",
+    "gloss": "Unclean",
+    "definition": "Unclean",
+    "crossReference": {
+      "target": "akayartoc",
+      "gloss": "Unclean"
+    }
+  },
+  {
+    "headword": "alabactron",
+    "copticWord": "ⲁⲗⲁⲃⲁⲥⲧⲣⲟⲛ",
+    "englishTransliteration": "alavastron",
+    "gloss": "Alabaster",
+    "definition": "Alabaster",
+    "crossReference": {
+      "target": "alabactroc",
+      "gloss": "Alabaster"
+    }
+  },
+  {
+    "headword": "akayartoc",
+    "copticWord": "ⲁⲕⲁⲑⲁⲣⲧⲟⲥ",
+    "englishTransliteration": "akathartos",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Unclean, defiled, filthy (in body or mind)",
+    "definition": "Unclean, defiled, filthy (in body or mind)"
+  },
+  {
+    "headword": "(1) akakia",
+    "copticWord": "ⲁⲕⲁⲕⲓⲁ",
+    "englishTransliteration": "akakia",
+    "variants": [
+      {
+        "word": "-ac",
+        "copticWord": "-ⲁⲥ",
+        "englishTransliteration": "-as"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Acacia tree",
+    "definition": "Acacia tree"
+  },
+  {
+    "headword": "alabactroc",
+    "copticWord": "ⲁⲗⲁⲃⲁⲥⲧⲣⲟⲥ",
+    "englishTransliteration": "alavastros",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Alabaster, white marble",
+    "definition": "a case box or casket made of alabaster esp. vessel for perfume."
+  },
+  {
+    "headword": "(2) akakia",
+    "copticWord": "ⲁⲕⲁⲕⲓⲁ",
+    "englishTransliteration": "akakia",
+    "variants": [
+      {
+        "word": "-ac",
+        "copticWord": "-ⲁⲥ",
+        "englishTransliteration": "-as"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Innocence, simplicity",
+    "definition": "Innocence, simplicity"
+  },
+  {
+    "headword": "alableb",
+    "copticWord": "ⲁⲗⲁⲃⲗⲉⲃ",
+    "englishTransliteration": "alavlev",
+    "gloss": "To be weary",
+    "definition": "To be weary",
+    "crossReference": {
+      "target": "alaplep",
+      "gloss": "To be weary"
+    }
+  },
+  {
+    "headword": "alak",
+    "copticWord": "ⲁⲗⲁⲕ",
+    "englishTransliteration": "alak",
+    "gloss": "Ring",
+    "definition": "Ring",
+    "crossReference": {
+      "target": "halak",
+      "gloss": "Ring"
+    }
+  },
+  {
+    "headword": "akakiac",
+    "copticWord": "ⲁⲕⲁⲕⲓⲁⲥ",
+    "englishTransliteration": "akakias",
+    "gloss": "Acacia",
+    "definition": "Acacia",
+    "crossReference": {
+      "target": "(1)akakia",
+      "gloss": "Acacia"
+    }
+  },
+  {
+    "headword": "alanon",
+    "copticWord": "ⲁⲗⲁⲛⲟⲛ",
+    "englishTransliteration": "alanon",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "A type of plant",
+    "definition": "A type of plant"
+  },
+  {
+    "headword": "akeli",
+    "copticWord": "ⲁⲕⲉⲗⲓ",
+    "englishTransliteration": "akeli",
+    "gloss": "Herd of oxen",
+    "definition": "Herd of oxen",
+    "crossReference": {
+      "target": "ageli",
+      "gloss": "Herd of oxen"
+    }
+  },
+  {
+    "headword": "alaplep",
+    "copticWord": "ⲁⲗⲁⲡⲗⲉⲡ",
+    "englishTransliteration": "alaplep",
+    "variants": [
+      {
+        "word": "alableb",
+        "copticWord": "ⲁⲗⲁⲃⲗⲉⲃ",
+        "englishTransliteration": "alavlev"
+      }
+    ],
+    "reference": "671a",
+    "gloss": "vi. To be weary, despondent",
+    "definition": "vi. To be weary, despondent",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "Weariness, distress",
+        "definition": "Weariness, distress"
+      }
+    ]
+  },
+  {
+    "headword": "akereoc",
+    "copticWord": "ⲁⲕⲉⲣⲉⲟⲥ",
+    "englishTransliteration": "akereos",
+    "reference": "Gk?",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Meek",
+    "definition": "Meek"
+  },
+  {
+    "headword": "alacw]",
+    "copticWord": "ⲁⲗⲁⲥⲱϯ",
+    "englishTransliteration": "alasōti",
+    "reference": "6a",
+    "gloss": "pl. Armies",
+    "definition": "pl. Armies"
+  },
+  {
+    "headword": "akeroc",
+    "copticWord": "ⲁⲕⲉⲣⲟⲥ",
+    "englishTransliteration": "akeros",
+    "reference": "Gk",
+    "isGreek": true
+  },
+  {
+    "headword": "adj. Ill-timed",
+    "copticWord": "ⲁⲇϫ. Ⲓⲗⲗ-ⲧⲓⲙⲉⲇ",
+    "englishTransliteration": "adj. Ill-timed",
+    "variants": [
+      {
+        "word": "unseasonable. ak/c",
+        "copticWord": "ⲩⲛϣⲉⲁϣⲟⲛⲁⲃⲗⲉ. ⲁⲕⲏⲥ",
+        "englishTransliteration": "ynsheashonavle. akis"
+      }
+    ],
+    "reference": "3b",
+    "partOfSpeech": "m",
+    "gloss": "Girdle, breeches",
+    "definition": "Girdle, breeches"
+  },
+  {
+    "headword": "akia",
+    "copticWord": "ⲁⲕⲓⲁ",
+    "englishTransliteration": "akia",
+    "gloss": "Holy",
+    "definition": "Holy",
+    "crossReference": {
+      "target": "agia",
+      "gloss": "Holy"
+    }
+  },
+  {
+    "headword": "ala",
+    "copticWord": "ⲁⲗⲁ",
+    "englishTransliteration": "ala",
+    "variants": [
+      {
+        "word": "ictoc",
+        "copticWord": "ⲓⲥⲧⲟⲥ",
+        "englishTransliteration": "istos"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Smallest, least",
+    "definition": "poor miserable."
+  },
+  {
+    "headword": "akilia",
+    "copticWord": "ⲁⲕⲓⲗⲓⲁ",
+    "englishTransliteration": "akilia",
+    "reference": "Gk?",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "A type of flies or plants",
+    "definition": "A type of flies or plants"
+  },
+  {
+    "headword": "alektor",
+    "copticWord": "ⲁⲗⲉⲕⲧⲟⲣ",
+    "englishTransliteration": "alektor",
+    "gloss": "Cock",
+    "definition": "Cock",
+    "crossReference": {
+      "target": "alektruwn",
+      "gloss": "Cock"
+    }
+  },
+  {
+    "headword": "(1)akinoc",
+    "copticWord": "ⲁⲕⲓⲛⲟⲥ",
+    "englishTransliteration": "akinos",
+    "reference": "Gk?",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "A worm (?)",
+    "definition": "A worm (?)"
+  },
+  {
+    "headword": "alektruonoc",
+    "copticWord": "ⲁⲗⲉⲕⲧⲣⲩⲟⲛⲟⲥ",
+    "englishTransliteration": "alektryonos",
+    "gloss": "Cock",
+    "definition": "Cock",
+    "crossReference": {
+      "target": "alektruwn",
+      "gloss": "Cock"
+    }
+  },
+  {
+    "headword": "(2) akinoc",
+    "copticWord": "ⲁⲕⲓⲛⲟⲥ",
+    "englishTransliteration": "akinos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Basil-thyme",
+    "definition": "Basil-thyme"
+  },
+  {
+    "headword": "(1) akl/",
+    "copticWord": "ⲁⲕⲗⲏ",
+    "englishTransliteration": "akli",
+    "variants": [
+      {
+        "word": "kal/",
+        "copticWord": "ⲕⲁⲗⲏ",
+        "englishTransliteration": "kali"
+      }
+    ],
+    "reference": "3b",
+    "partOfSpeech": "f",
+    "gloss": "Weasel",
+    "definition": "Weasel"
+  },
+  {
+    "headword": "alektruwn",
+    "copticWord": "ⲁⲗⲉⲕⲧⲣⲩⲱⲛ",
+    "englishTransliteration": "alektryōn",
+    "variants": [
+      {
+        "word": "-truonoc",
+        "copticWord": "-ⲧⲣⲩⲟⲛⲟⲥ",
+        "englishTransliteration": "-tryonos"
+      },
+      {
+        "word": "-twr",
+        "copticWord": "-ⲧⲱⲣ",
+        "englishTransliteration": "-tōr"
+      },
+      {
+        "word": "-tor",
+        "copticWord": "-ⲧⲟⲣ",
+        "englishTransliteration": "-tor"
+      }
+    ],
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "nn mf. Cock, hen",
+    "definition": "nn mf. Cock, hen"
+  },
+  {
+    "headword": "(2) akl/",
+    "copticWord": "ⲁⲕⲗⲏ",
+    "englishTransliteration": "akli",
+    "variants": [
+      {
+        "word": "kal/",
+        "copticWord": "ⲕⲁⲗⲏ",
+        "englishTransliteration": "kali"
+      },
+      {
+        "word": "akli",
+        "copticWord": "ⲁⲕⲗⲓ",
+        "englishTransliteration": "akli"
+      },
+      {
+        "word": "alk/",
+        "copticWord": "ⲁⲗⲕⲏ",
+        "englishTransliteration": "alki"
+      }
+    ],
+    "reference": "3b",
+    "partOfSpeech": "f",
+    "gloss": "A pottery vessel used for food or liquid storage",
+    "definition": "A pottery vessel used for food or liquid storage"
+  },
+  {
+    "headword": "alektwr",
+    "copticWord": "ⲁⲗⲉⲕⲧⲱⲣ",
+    "englishTransliteration": "alektōr",
+    "gloss": "Cock",
+    "definition": "Cock",
+    "crossReference": {
+      "target": "alektruwn",
+      "gloss": "Cock"
+    }
+  },
+  {
+    "headword": "alexanarinoc",
+    "copticWord": "ⲁⲗⲉⲝⲁⲛⲁⲣⲓⲛⲟⲥ",
+    "englishTransliteration": "aleksanarinos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Native of alexandria",
+    "definition": "Native of alexandria"
+  },
+  {
+    "headword": "al/yinon",
+    "copticWord": "ⲁⲗⲏⲑⲓⲛⲟⲛ",
+    "englishTransliteration": "alithinon",
+    "gloss": "True",
+    "definition": "True",
+    "crossReference": {
+      "target": "al/yinoc",
+      "gloss": "True"
+    }
+  },
+  {
+    "headword": "akli",
+    "copticWord": "ⲁⲕⲗⲓ",
+    "englishTransliteration": "akli",
+    "gloss": "Pottery vessel",
+    "definition": "Pottery vessel",
+    "crossReference": {
+      "target": "akl/",
+      "gloss": "Pottery vessel"
+    }
+  },
+  {
+    "headword": "akm/n",
+    "copticWord": "ⲁⲕⲙⲏⲛ",
+    "englishTransliteration": "akmin",
+    "reference": "Gk",
+    "partOfSpeech": "adv",
+    "isGreek": true,
+    "gloss": "Still as yet",
+    "definition": "Still as yet"
+  },
+  {
+    "headword": "akxiwma",
+    "copticWord": "ⲁⲕⲝⲓⲱⲙⲁ",
+    "englishTransliteration": "akksiōma",
+    "gloss": "Honor",
+    "definition": "Honor",
+    "crossReference": {
+      "target": "axiwma",
+      "gloss": "Honor"
+    }
+  },
+  {
+    "headword": "al/yinoc",
+    "copticWord": "ⲁⲗⲏⲑⲓⲛⲟⲥ",
+    "englishTransliteration": "alithinos",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Real, trustworthy, true",
+    "definition": "Real, trustworthy, true"
+  },
+  {
+    "headword": "al/yoc",
+    "copticWord": "ⲁⲗⲏⲑⲟⲥ",
+    "englishTransliteration": "alithos",
+    "gloss": "Truly",
+    "definition": "Truly",
+    "crossReference": {
+      "target": "al/ywc",
+      "gloss": "Truly"
+    }
+  },
+  {
+    "headword": "al/ywc",
+    "copticWord": "ⲁⲗⲏⲑⲱⲥ",
+    "englishTransliteration": "alithōs",
+    "reference": "Gk",
+    "partOfSpeech": "adv",
+    "isGreek": true,
+    "gloss": "Truely, actually, in reality",
+    "definition": "Truely, actually, in reality"
+  },
+  {
+    "headword": "akolouyia",
+    "copticWord": "ⲁⲕⲟⲗⲟⲩⲑⲓⲁ",
+    "englishTransliteration": "akolouthia",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Unknown",
+    "definition": "Unknown"
+  },
+  {
+    "headword": "akon/",
+    "copticWord": "ⲁⲕⲟⲛⲏ",
+    "englishTransliteration": "akoni",
+    "variants": [
+      {
+        "word": "-/c",
+        "copticWord": "-ⲏⲥ",
+        "englishTransliteration": "-is"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Whetstone, bone",
+    "definition": "Whetstone, bone"
+  },
+  {
+    "headword": "akon/c",
+    "copticWord": "ⲁⲕⲟⲛⲏⲥ",
+    "englishTransliteration": "akonis",
+    "gloss": "Bone",
+    "definition": "Bone",
+    "crossReference": {
+      "target": "akon/",
+      "gloss": "Bone"
+    }
+  },
+  {
+    "headword": "akraton",
+    "copticWord": "ⲁⲕⲣⲁⲧⲟⲛ",
+    "englishTransliteration": "akraton",
+    "gloss": "Unmixed",
+    "definition": "Unmixed",
+    "crossReference": {
+      "target": "akratoc",
+      "gloss": "Unmixed"
+    }
+  },
+  {
+    "headword": "al/i",
+    "copticWord": "ⲁⲗⲏⲓ",
+    "englishTransliteration": "alii",
+    "reference": "4a",
+    "gloss": "imperat of ali=",
+    "definition": "vi. To mount, go up, go on, go on board;",
+    "senses": [
+      {
+        "label": "ehr/i",
+        "gloss": "vi. To mount up, ascend in years",
+        "definition": "vi. To mount up, ascend in years"
+      },
+      {
+        "label": "ejen",
+        "gloss": "vi. To ascend, go up",
+        "definition": "vi. To ascend, go up"
+      }
+    ]
+  },
+  {
+    "headword": "akratoc",
+    "copticWord": "ⲁⲕⲣⲁⲧⲟⲥ",
+    "englishTransliteration": "akratos",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Unmixed, pure, unadulterated",
+    "definition": "Unmixed, pure, unadulterated"
+  },
+  {
+    "headword": "akribwc",
+    "copticWord": "ⲁⲕⲣⲓⲃⲱⲥ",
+    "englishTransliteration": "akreebōs",
+    "reference": "Gk",
+    "partOfSpeech": "adv",
+    "isGreek": true,
+    "gloss": "Precisely",
+    "definition": "Precisely"
+  },
+  {
+    "headword": "akt/n",
+    "copticWord": "ⲁⲕⲧⲏⲛ",
+    "englishTransliteration": "aktin",
+    "gloss": "Ray",
+    "definition": "Ray",
+    "crossReference": {
+      "target": "aktic",
+      "gloss": "Ray"
+    }
+  },
+  {
+    "headword": "akt/r",
+    "copticWord": "ⲁⲕⲧⲏⲣ",
+    "englishTransliteration": "aktir",
+    "gloss": "Ray",
+    "definition": "Ray",
+    "crossReference": {
+      "target": "aktic",
+      "gloss": "Ray"
+    }
+  },
+  {
+    "headword": "aktin",
+    "copticWord": "ⲁⲕⲧⲓⲛ",
+    "englishTransliteration": "aktin",
+    "gloss": "Ray",
+    "definition": "Ray",
+    "crossReference": {
+      "target": "aktic",
+      "gloss": "Ray"
+    }
+  },
+  {
+    "headword": "eqr/i ejen",
+    "copticWord": "ⲉϧⲣⲏⲓ ⲉϫⲉⲛ",
+    "englishTransliteration": "ekhrii ejen",
+    "gloss": "vi. To descend upon. alyilia: (Gk)",
+    "definition": "m. A type of gum."
+  },
+  {
+    "headword": "ali",
+    "copticWord": "ⲁⲗⲓ",
+    "englishTransliteration": "ali",
+    "gloss": "Hold",
+    "definition": "Hold",
+    "crossReference": {
+      "target": "wli",
+      "gloss": "Hold"
+    }
+  },
+  {
+    "headword": "aktic",
+    "copticWord": "ⲁⲕⲧⲓⲥ",
+    "englishTransliteration": "aktis",
+    "variants": [
+      {
+        "word": "akt/n",
+        "copticWord": "ⲁⲕⲧⲏⲛ",
+        "englishTransliteration": "aktin"
+      },
+      {
+        "word": "aktin",
+        "copticWord": "ⲁⲕⲧⲓⲛ",
+        "englishTransliteration": "aktin"
+      },
+      {
+        "word": "akt/r",
+        "copticWord": "ⲁⲕⲧⲏⲣ",
+        "englishTransliteration": "aktir"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Ray, sunbeam",
+    "definition": "brightness, splendor, glory."
+  }
+]

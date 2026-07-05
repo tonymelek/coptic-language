@@ -1,0 +1,594 @@
+[
+  {
+    "headword": "malicta",
+    "copticWord": "ⲙⲁⲗⲓⲥⲧⲁ",
+    "englishTransliteration": "malista",
+    "reference": "Gk",
+    "partOfSpeech": "adv",
+    "isGreek": true,
+    "gloss": "Most of all, above all, certainly",
+    "definition": "Most of all, above all, certainly"
+  },
+  {
+    "headword": "mallon",
+    "copticWord": "ⲙⲁⲗⲗⲟⲛ",
+    "englishTransliteration": "mallon",
+    "reference": "Gk",
+    "partOfSpeech": "adv",
+    "isGreek": true,
+    "gloss": "More, rather, the more, indeed, in truth",
+    "definition": "More, rather, the more, indeed, in truth"
+  },
+  {
+    "headword": "mallon ehote",
+    "copticWord": "ⲙⲁⲗⲗⲟⲛ ⲉϩⲟⲧⲉ",
+    "englishTransliteration": "mallon ehote",
+    "gloss": "Moreover",
+    "definition": "Moreover"
+  },
+  {
+    "headword": "mallon de",
+    "copticWord": "ⲙⲁⲗⲗⲟⲛ ⲇⲉ",
+    "englishTransliteration": "mallon de",
+    "gloss": "Much more, rather",
+    "definition": "Much more, rather"
+  },
+  {
+    "headword": "mallwn",
+    "copticWord": "ⲙⲁⲗⲗⲱⲛ",
+    "englishTransliteration": "mallōn",
+    "gloss": "Rather",
+    "definition": "Rather",
+    "crossReference": {
+      "target": "mallon",
+      "gloss": "Rather"
+    }
+  },
+  {
+    "headword": "marmar",
+    "copticWord": "ⲙⲁⲣⲙⲁⲣ",
+    "englishTransliteration": "marmar",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Marble",
+    "definition": "Marble"
+  },
+  {
+    "headword": "marmarit/c",
+    "copticWord": "ⲙⲁⲣⲙⲁⲣⲓⲧⲏⲥ",
+    "englishTransliteration": "marmaritis",
+    "partOfSpeech": "m",
+    "gloss": "Marble mason",
+    "definition": "Marble mason"
+  },
+  {
+    "headword": "maron",
+    "copticWord": "ⲙⲁⲣⲟⲛ",
+    "englishTransliteration": "maron",
+    "gloss": "- Let us go",
+    "definition": "- Let us go",
+    "crossReference": {
+      "target": "mare",
+      "gloss": "- Let us go"
+    }
+  },
+  {
+    "headword": "mart/ria",
+    "copticWord": "ⲙⲁⲣⲧⲏⲣⲓⲁ",
+    "englishTransliteration": "martiria",
+    "gloss": "Martyrdom",
+    "definition": "Martyrdom",
+    "crossReference": {
+      "target": "marturia",
+      "gloss": "Martyrdom"
+    }
+  },
+  {
+    "headword": "mart/rikon",
+    "copticWord": "ⲙⲁⲣⲧⲏⲣⲓⲕⲟⲛ",
+    "englishTransliteration": "martirikon",
+    "gloss": "Martyrs' lives",
+    "definition": "Martyrs' lives",
+    "crossReference": {
+      "target": "marturia",
+      "gloss": "Martyrs' lives"
+    }
+  },
+  {
+    "headword": "mame]",
+    "copticWord": "ⲙⲁⲙⲉϯ",
+    "englishTransliteration": "mameti",
+    "gloss": "Cancer",
+    "definition": "Cancer",
+    "crossReference": {
+      "target": "ouwm",
+      "gloss": "Cancer"
+    }
+  },
+  {
+    "headword": "mamrah",
+    "copticWord": "ⲙⲁⲙⲣⲁϩ",
+    "englishTransliteration": "mamrah",
+    "reference": "169a",
+    "gloss": "pl. Name of the 20th lunar station",
+    "definition": "ostriches (?)."
+  },
+  {
+    "headword": "mart/rion",
+    "copticWord": "ⲙⲁⲣⲧⲏⲣⲓⲟⲛ",
+    "englishTransliteration": "martirion",
+    "gloss": "Martyrdom",
+    "definition": "Martyrdom",
+    "crossReference": {
+      "target": "marturia",
+      "gloss": "Martyrdom"
+    }
+  },
+  {
+    "headword": "mart/roc",
+    "copticWord": "ⲙⲁⲣⲧⲏⲣⲟⲥ",
+    "englishTransliteration": "martiros",
+    "gloss": "Martyr",
+    "definition": "Martyr",
+    "crossReference": {
+      "target": "marturia",
+      "gloss": "Martyr"
+    }
+  },
+  {
+    "headword": "martiria",
+    "copticWord": "ⲙⲁⲣⲧⲓⲣⲓⲁ",
+    "englishTransliteration": "martiria",
+    "gloss": "Martyrdom",
+    "definition": "Martyrdom",
+    "crossReference": {
+      "target": "marturia",
+      "gloss": "Martyrdom"
+    }
+  },
+  {
+    "headword": "martirion",
+    "copticWord": "ⲙⲁⲣⲧⲓⲣⲓⲟⲛ",
+    "englishTransliteration": "martirion",
+    "gloss": "Martyrdom",
+    "definition": "Martyrdom",
+    "crossReference": {
+      "target": "marturia",
+      "gloss": "Martyrdom"
+    }
+  },
+  {
+    "headword": "man",
+    "copticWord": "ⲙⲁⲛ",
+    "englishTransliteration": "man",
+    "reference": "169b",
+    "gloss": "(in pavman -yman -tman), adj. Certain (person or thing)",
+    "definition": "(in pavman -yman -tman), adj. Certain (person or thing)"
+  },
+  {
+    "headword": "manecwou",
+    "copticWord": "ⲙⲁⲛⲉⲥⲱⲟⲩ",
+    "englishTransliteration": "manesōou",
+    "gloss": "Shepherd",
+    "definition": "Shepherd",
+    "crossReference": {
+      "target": "ecwou",
+      "gloss": "Shepherd"
+    }
+  },
+  {
+    "headword": "manganoc",
+    "copticWord": "ⲙⲁⲛⲅⲁⲛⲟⲥ",
+    "englishTransliteration": "manganos",
+    "gloss": "Catapult",
+    "definition": "Catapult",
+    "crossReference": {
+      "target": "magganon",
+      "gloss": "Catapult"
+    }
+  },
+  {
+    "headword": "man/ou",
+    "copticWord": "ⲙⲁⲛⲏⲟⲩ",
+    "englishTransliteration": "maniou",
+    "gloss": "Pastors",
+    "definition": "Pastors",
+    "crossReference": {
+      "target": "(2)amoni",
+      "gloss": "Pastors"
+    }
+  },
+  {
+    "headword": "manywrp",
+    "copticWord": "ⲙⲁⲛⲑⲱⲣⲡ",
+    "englishTransliteration": "manthōrp",
+    "gloss": "Darning needle",
+    "definition": "Darning needle",
+    "crossReference": {
+      "target": "ywrp",
+      "gloss": "Darning needle"
+    }
+  },
+  {
+    "headword": "mani",
+    "copticWord": "ⲙⲁⲛⲓ",
+    "englishTransliteration": "mani",
+    "gloss": "Pastor",
+    "definition": "Pastor",
+    "crossReference": {
+      "target": "(2)amoni",
+      "gloss": "Pastor"
+    }
+  },
+  {
+    "headword": "mania",
+    "copticWord": "ⲙⲁⲛⲓⲁ",
+    "englishTransliteration": "mania",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Madness, rage",
+    "definition": "Madness, rage"
+  },
+  {
+    "headword": "mank",
+    "copticWord": "ⲙⲁⲛⲕ",
+    "englishTransliteration": "mank",
+    "gloss": "Maker",
+    "definition": "Maker",
+    "crossReference": {
+      "target": "mounk",
+      "gloss": "Maker"
+    }
+  },
+  {
+    "headword": "marturia",
+    "copticWord": "ⲙⲁⲣⲧⲩⲣⲓⲁ",
+    "englishTransliteration": "martyria",
+    "partOfSpeech": "f",
+    "gloss": "Testimony, martyrdom",
+    "definition": "Testimony, martyrdom"
+  },
+  {
+    "headword": "marturoc",
+    "copticWord": "ⲙⲁⲣⲧⲩⲣⲟⲥ",
+    "englishTransliteration": "martyros",
+    "variants": [
+      {
+        "word": "-t/roc",
+        "copticWord": "-ⲧⲏⲣⲟⲥ",
+        "englishTransliteration": "-tiros"
+      },
+      {
+        "word": "-turit/c",
+        "copticWord": "-ⲧⲩⲣⲓⲧⲏⲥ",
+        "englishTransliteration": "-tyritis"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "Martyr, witness",
+    "definition": "Martyr, witness"
+  },
+  {
+    "headword": "ermarturoc",
+    "copticWord": "ⲉⲣⲙⲁⲣⲧⲩⲣⲟⲥ",
+    "englishTransliteration": "ermartyros",
+    "partOfSpeech": "vb",
+    "gloss": "To be martyred",
+    "definition": "To be martyred"
+  },
+  {
+    "headword": "marturikon",
+    "copticWord": "ⲙⲁⲣⲧⲩⲣⲓⲕⲟⲛ",
+    "englishTransliteration": "martyrikon",
+    "variants": [
+      {
+        "word": "-t/rikon",
+        "copticWord": "-ⲧⲏⲣⲓⲕⲟⲛ",
+        "englishTransliteration": "-tirikon"
+      }
+    ],
+    "partOfSpeech": "n",
+    "gloss": "Martyrs' lives, hymns in the honor of the martyrs",
+    "definition": "Martyrs' lives, hymns in the honor of the martyrs"
+  },
+  {
+    "headword": "marturion",
+    "copticWord": "ⲙⲁⲣⲧⲩⲣⲓⲟⲛ",
+    "englishTransliteration": "martyrion",
+    "variants": [
+      {
+        "word": "-t/rion",
+        "copticWord": "-ⲧⲏⲣⲓⲟⲛ",
+        "englishTransliteration": "-tirion"
+      },
+      {
+        "word": "-tirion",
+        "copticWord": "-ⲧⲓⲣⲓⲟⲛ",
+        "englishTransliteration": "-tirion"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "Martyrdom",
+    "definition": "Martyrdom"
+  },
+  {
+    "headword": "marturologion",
+    "copticWord": "ⲙⲁⲣⲧⲩⲣⲟⲗⲟⲅⲓⲟⲛ",
+    "englishTransliteration": "martyrologion",
+    "partOfSpeech": "m",
+    "gloss": "Life of a martyr, martyrology",
+    "definition": "Life of a martyr, martyrology"
+  },
+  {
+    "headword": "mankanon",
+    "copticWord": "ⲙⲁⲛⲕⲁⲛⲟⲛ",
+    "englishTransliteration": "mankanon",
+    "gloss": "Catapult",
+    "definition": "Catapult",
+    "crossReference": {
+      "target": "magganon",
+      "gloss": "Catapult"
+    }
+  },
+  {
+    "headword": "mankanwn",
+    "copticWord": "ⲙⲁⲛⲕⲁⲛⲱⲛ",
+    "englishTransliteration": "mankanōn",
+    "gloss": "Catapult",
+    "definition": "Catapult",
+    "crossReference": {
+      "target": "magganon",
+      "gloss": "Catapult"
+    }
+  },
+  {
+    "headword": "marturit/c",
+    "copticWord": "ⲙⲁⲣⲧⲩⲣⲓⲧⲏⲥ",
+    "englishTransliteration": "martyritis",
+    "gloss": "Martyr",
+    "definition": "Martyr",
+    "crossReference": {
+      "target": "marturia",
+      "gloss": "Martyr"
+    }
+  },
+  {
+    "headword": "manklabi",
+    "copticWord": "ⲙⲁⲛⲕⲗⲁⲃⲓ",
+    "englishTransliteration": "manklavi",
+    "variants": [
+      {
+        "word": "maklabi",
+        "copticWord": "ⲙⲁⲕⲗⲁⲃⲓ",
+        "englishTransliteration": "maklavi"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "Meaning unknown",
+    "definition": "Meaning unknown"
+  },
+  {
+    "headword": "manmon",
+    "copticWord": "ⲙⲁⲛⲙⲟⲛ",
+    "englishTransliteration": "manmon",
+    "reference": "176a",
+    "partOfSpeech": "m",
+    "gloss": "Orange. pasture. pasture",
+    "definition": "Orange. pasture. pasture"
+  },
+  {
+    "headword": "man[ale",
+    "copticWord": "ⲙⲁⲛϭⲁⲗⲉ",
+    "englishTransliteration": "manchale",
+    "reference": "177b",
+    "partOfSpeech": "m",
+    "gloss": "Pick, hoe",
+    "definition": "winnowing fan"
+  },
+  {
+    "headword": "map",
+    "copticWord": "ⲙⲁⲡ",
+    "englishTransliteration": "map",
+    "variants": [
+      {
+        "word": "map",
+        "copticWord": "ⲙⲁⲡ",
+        "englishTransliteration": "map"
+      }
+    ],
+    "reference": "161a",
+    "gloss": "The numeral 'thirty'",
+    "definition": "The numeral 'thirty'"
+  },
+  {
+    "headword": "mappa",
+    "copticWord": "ⲙⲁⲡⲡⲁ",
+    "englishTransliteration": "mappa",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Napkin, Ar. lifafa",
+    "definition": "Napkin, Ar. lifafa"
+  },
+  {
+    "headword": "mac",
+    "copticWord": "ⲙⲁⲥ",
+    "englishTransliteration": "mas",
+    "gloss": "Young",
+    "definition": "Young",
+    "crossReference": {
+      "target": "mici",
+      "gloss": "Young"
+    }
+  },
+  {
+    "headword": "mac=",
+    "copticWord": "ⲙⲁⲥ",
+    "englishTransliteration": "mas",
+    "gloss": "To bring forth. mac- p.c. v. mici - Bearing",
+    "definition": "To bring forth. mac- p.c. v. mici - Bearing",
+    "crossReference": {
+      "target": "mici",
+      "gloss": "To bring forth. mac- p.c. v. mici - Bearing"
+    }
+  },
+  {
+    "headword": "maci",
+    "copticWord": "ⲙⲁⲥⲓ",
+    "englishTransliteration": "masi",
+    "gloss": "Calf",
+    "definition": "Calf",
+    "crossReference": {
+      "target": "mici",
+      "gloss": "Calf"
+    }
+  },
+  {
+    "headword": "margarita",
+    "copticWord": "ⲙⲁⲣⲅⲁⲣⲓⲧⲁ",
+    "englishTransliteration": "margarita",
+    "gloss": "A small pearl",
+    "definition": "A small pearl",
+    "crossReference": {
+      "target": "margarit/c",
+      "gloss": "A small pearl"
+    }
+  },
+  {
+    "headword": "margarit/c",
+    "copticWord": "ⲙⲁⲣⲅⲁⲣⲓⲧⲏⲥ",
+    "englishTransliteration": "margaritis",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Pearl, jewel",
+    "definition": "Pearl, jewel"
+  },
+  {
+    "headword": "mare",
+    "copticWord": "ⲙⲁⲣⲉ",
+    "englishTransliteration": "mare",
+    "reference": "182b",
+    "gloss": "vbal prfx. for the optative",
+    "definition": "May, let"
+  },
+  {
+    "headword": "mari",
+    "copticWord": "ⲙⲁⲣⲓ",
+    "englishTransliteration": "mari",
+    "gloss": "Part of a loaf",
+    "definition": "Part of a loaf",
+    "crossReference": {
+      "target": "mour",
+      "gloss": "Part of a loaf"
+    }
+  },
+  {
+    "headword": "macte",
+    "copticWord": "ⲙⲁⲥⲧⲉ",
+    "englishTransliteration": "maste",
+    "gloss": "To hate",
+    "definition": "To hate",
+    "crossReference": {
+      "target": "moc]",
+      "gloss": "To hate"
+    }
+  },
+  {
+    "headword": "mactiggoc",
+    "copticWord": "ⲙⲁⲥⲧⲓⲅⲅⲟⲥ",
+    "englishTransliteration": "mastingos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Whip, flog",
+    "definition": "Whip, flog"
+  },
+  {
+    "headword": "ermactiggoc",
+    "copticWord": "ⲉⲣⲙⲁⲥⲧⲓⲅⲅⲟⲥ",
+    "englishTransliteration": "ermastingos",
+    "partOfSpeech": "vb",
+    "gloss": "To whip, flog or slash",
+    "definition": "To whip, flog or slash"
+  },
+  {
+    "headword": "mactigx",
+    "copticWord": "ⲙⲁⲥⲧⲓⲅⲝ",
+    "englishTransliteration": "mastigks",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Scourge, rod",
+    "definition": "Scourge, rod"
+  },
+  {
+    "headword": "mater",
+    "copticWord": "ⲙⲁⲧⲉⲣ",
+    "englishTransliteration": "mater",
+    "reference": "196a"
+  },
+  {
+    "headword": "n. Glue. matoi",
+    "copticWord": "ⲛ. Ⲅⲗⲩⲉ. ⲙⲁⲧⲟⲓ",
+    "englishTransliteration": "n. Glye. matoi",
+    "variants": [
+      {
+        "type": "sg as pl"
+      }
+    ],
+    "reference": "190b",
+    "partOfSpeech": "m",
+    "gloss": "Soldier",
+    "definition": "Soldier"
+  },
+  {
+    "headword": "ermatoi",
+    "copticWord": "ⲉⲣⲙⲁⲧⲟⲓ",
+    "englishTransliteration": "ermatoi",
+    "partOfSpeech": "vb",
+    "gloss": "To become soldier",
+    "definition": "To become soldier"
+  },
+  {
+    "headword": "metmatoi",
+    "copticWord": "ⲙⲉⲧⲙⲁⲧⲟⲓ",
+    "englishTransliteration": "metmatoi",
+    "partOfSpeech": "f",
+    "gloss": "Soldiery, warfare",
+    "definition": "Soldiery, warfare"
+  },
+  {
+    "headword": "mar/c",
+    "copticWord": "ⲙⲁⲣⲏⲥ",
+    "englishTransliteration": "maris",
+    "gloss": "Upper Egypt",
+    "definition": "Upper Egypt",
+    "crossReference": {
+      "target": "r/c",
+      "gloss": "Upper Egypt"
+    }
+  },
+  {
+    "headword": "(1)mau",
+    "copticWord": "ⲙⲁⲩ",
+    "englishTransliteration": "mav",
+    "reference": "196b",
+    "partOfSpeech": "n",
+    "gloss": "The place there",
+    "definition": "The place there"
+  },
+  {
+    "headword": "maric",
+    "copticWord": "ⲙⲁⲣⲓⲥ",
+    "englishTransliteration": "maris",
+    "gloss": "Jug",
+    "definition": "Jug",
+    "crossReference": {
+      "target": "maurec",
+      "gloss": "Jug"
+    }
+  }
+]

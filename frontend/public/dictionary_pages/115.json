@@ -1,0 +1,290 @@
+[
+  {
+    "headword": "u",
+    "copticWord": "ⲩ",
+    "englishTransliteration": "y",
+    "variants": [
+      {
+        "word": "ou",
+        "copticWord": "ⲟⲩ",
+        "englishTransliteration": "ou"
+      }
+    ],
+    "reference": "467a",
+    "gloss": "The 20th letter",
+    "definition": "The 20th letter"
+  },
+  {
+    "headword": "ou",
+    "copticWord": "ⲟⲩ",
+    "englishTransliteration": "ou",
+    "gloss": "A",
+    "definition": "A",
+    "crossReference": {
+      "target": "ouai",
+      "gloss": "A"
+    }
+  },
+  {
+    "headword": "oua",
+    "copticWord": "ⲟⲩⲁ",
+    "englishTransliteration": "oua",
+    "reference": "468b",
+    "partOfSpeech": "m",
+    "gloss": "Blasphemy",
+    "definition": "Blasphemy",
+    "senses": [
+      {
+        "label": "refjeoua",
+        "partOfSpeech": "m",
+        "gloss": "Speaker of blasphemy",
+        "definition": "Speaker of blasphemy"
+      }
+    ]
+  },
+  {
+    "headword": "jeoua",
+    "copticWord": "ϫⲉⲟⲩⲁ",
+    "englishTransliteration": "jeoua",
+    "partOfSpeech": "vb",
+    "gloss": "To speak blasphemy",
+    "definition": "--- e-: vb. To speak blasphemy against;"
+  },
+  {
+    "headword": "ouas=",
+    "copticWord": "ⲟⲩⲁϣ",
+    "englishTransliteration": "ouash",
+    "gloss": "To desire. ouah, bah: (508b)",
+    "definition": "n. Oasis. ouah v. ouwh - To add to. ouah- v. ouwh - To add to ouah= v. ouwh - To add up. ouahbef, ouahf: (509a); vi. To bark, growl (of dogs). ouahem- v. ouwhem - To repeat. ouahem= v. ouwhem - To repeat. ouahem- p.c. v. ouwhem - Repeater of. ouaho = (2)aho - Dwelling. ouahcahni v. cahni - To lay a command. ouahcoi v. coi - Addition of beams. ouahf v. ouahbef - To bark. oubas, ouas, ouobs (Q): (476b); vi. To become, be white; ---: m. Whiteness",
+    "crossReference": {
+      "target": "ouws",
+      "gloss": "To desire. ouah, bah: (508b)"
+    },
+    "senses": [
+      {
+        "label": "e",
+        "gloss": "vi. To be far from",
+        "definition": "vi. To be far from"
+      },
+      {
+        "label": "n",
+        "gloss": "vi. To far from",
+        "definition": "vi. To far from"
+      },
+      {
+        "label": "ebol ha",
+        "gloss": "vi. To be far from",
+        "definition": "vi. To be far from"
+      },
+      {
+        "label": "ebol qen",
+        "gloss": "vi. To be far from",
+        "definition": "vi. To be far from"
+      },
+      {
+        "label": "ebol",
+        "gloss": "vi. To be far off",
+        "definition": "vi. To be far off"
+      }
+    ]
+  },
+  {
+    "headword": "ouwbs",
+    "copticWord": "ⲟⲩⲱⲃϣ",
+    "englishTransliteration": "ouōvsh",
+    "partOfSpeech": "adj",
+    "gloss": "White (w/ pref. n-)",
+    "definition": "White (w/ pref. n-)"
+  },
+  {
+    "headword": "erouwbs",
+    "copticWord": "ⲉⲣⲟⲩⲱⲃϣ",
+    "englishTransliteration": "erouōvsh",
+    "partOfSpeech": "vb",
+    "gloss": "To be white. oube-, eoube, oub/=: (476a)",
+    "definition": "To be white. oube-, eoube, oub/=: (476a)"
+  },
+  {
+    "headword": "prep. Opposite",
+    "copticWord": "ⲡⲣⲉⲡ. Ⲟⲡⲡⲟϣⲓⲧⲉ",
+    "englishTransliteration": "prep. Opposhite",
+    "variants": [
+      {
+        "word": "toward",
+        "copticWord": "ⲧⲟⲱⲁⲣⲇ",
+        "englishTransliteration": "toōard"
+      },
+      {
+        "word": "against. oub/= v. oube- - Against. ouei",
+        "copticWord": "ⲁⲅⲁⲓⲛϣⲧ. ⲟⲩⲃⲏ ⲫ̅. ⲟⲩⲃⲉ- - Ⲁⲅⲁⲓⲛϣⲧ. ⲟⲩⲉⲓ",
+        "englishTransliteration": "againsht. ouvi f̅. ouve- - Againsht. oui"
+      },
+      {
+        "word": "ou/ou",
+        "note": "Q",
+        "copticWord": "ⲟⲩⲏⲟⲩ",
+        "englishTransliteration": "ouiou"
+      }
+    ],
+    "reference": "470a",
+    "gloss": "vi. To be distant, far reaching",
+    "definition": "vi. To be distant, far reaching"
+  },
+  {
+    "headword": "ouac=",
+    "copticWord": "ⲟⲩⲁⲥ",
+    "englishTransliteration": "ouas",
+    "gloss": "To saw. ouat=: (470a)",
+    "definition": "adj. Alone, self. ouateb v. ouwteb - To change. ouathi v. wth - wrap (nn). ouas v. oubas - To be white. ouas- v. ouws - To desire.",
+    "crossReference": {
+      "target": "ouici",
+      "gloss": "To saw. ouat=: (470a)"
+    }
+  },
+  {
+    "headword": "ouab (Q)",
+    "copticWord": "ⲟⲩⲁⲃ (Ϧ)",
+    "englishTransliteration": "ouav (Kh)",
+    "reference": "487b",
+    "gloss": "vi. To be pure, holy",
+    "definition": "--- e-: To be pure from, innocent of",
+    "senses": [
+      {
+        "label": "erou/b",
+        "partOfSpeech": "vb",
+        "gloss": "To be priest",
+        "definition": "metou/b: f. Priesthood."
+      }
+    ]
+  },
+  {
+    "headword": "ou/b",
+    "copticWord": "ⲟⲩⲏⲃ",
+    "englishTransliteration": "oueeb",
+    "partOfSpeech": "m",
+    "gloss": "Priest",
+    "definition": "Priest"
+  },
+  {
+    "headword": "ouayi",
+    "copticWord": "ⲟⲩⲁⲑⲓ",
+    "englishTransliteration": "ouathi",
+    "gloss": "Wrap (nn). ouayni v. ouwtb - Hole",
+    "definition": "Wrap (nn). ouayni v. ouwtb - Hole",
+    "crossReference": {
+      "target": "wth",
+      "gloss": "Wrap (nn). ouayni v. ouwtb - Hole"
+    }
+  },
+  {
+    "headword": "ouai",
+    "copticWord": "ⲟⲩⲁⲓ",
+    "englishTransliteration": "ouai",
+    "variants": [
+      {
+        "type": "f.",
+        "word": "oui",
+        "copticWord": "ⲟⲩⲓ",
+        "englishTransliteration": "oui"
+      }
+    ],
+    "reference": "469a",
+    "partOfSpeech": "n",
+    "gloss": "One, someone",
+    "definition": "One, someone",
+    "senses": [
+      {
+        "label": "nouai ouai",
+        "gloss": "One by one, one after another",
+        "definition": "piouai piouai: Each one; keoua: Another one; metouai: f. Unity; erouai: vb. To be, make one; ou-: Indefinite article; a."
+      }
+    ]
+  },
+  {
+    "headword": "epouei",
+    "copticWord": "ⲉⲡⲟⲩⲉⲓ",
+    "englishTransliteration": "epoui",
+    "gloss": "To a distance",
+    "definition": "To a distance"
+  },
+  {
+    "headword": "n",
+    "copticWord": "ⲛ",
+    "englishTransliteration": "n",
+    "gloss": "Away from",
+    "definition": "Away from"
+  },
+  {
+    "headword": "hiouei",
+    "copticWord": "ϩⲓⲟⲩⲉⲓ",
+    "englishTransliteration": "hioui",
+    "gloss": "At a distance",
+    "definition": "At a distance"
+  },
+  {
+    "headword": "ouam",
+    "copticWord": "ⲟⲩⲁⲙ",
+    "englishTransliteration": "ouam",
+    "gloss": "Eater (p.c.) ouame] v. ouwm - Cancer. ouan: (480a)",
+    "definition": "m. Dyke.",
+    "crossReference": {
+      "target": "ouwm",
+      "gloss": "Eater (p.c.) ouame] v. ouwm - Cancer. ouan: (480a)"
+    }
+  },
+  {
+    "headword": "icjen hivouei",
+    "copticWord": "ⲓⲥϫⲉⲛ ϩⲓⲫⲟⲩⲉⲓ",
+    "englishTransliteration": "isjen hifoui",
+    "gloss": "From a far",
+    "definition": "From a far"
+  },
+  {
+    "headword": "oueinin",
+    "copticWord": "ⲟⲩⲉⲓⲛⲓⲛ",
+    "englishTransliteration": "ouinin",
+    "reference": "484a",
+    "partOfSpeech": "n",
+    "gloss": "Greek",
+    "definition": "Greek"
+  },
+  {
+    "headword": "metoueinin",
+    "copticWord": "ⲙⲉⲧⲟⲩⲉⲓⲛⲓⲛ",
+    "englishTransliteration": "metouinin",
+    "partOfSpeech": "f",
+    "gloss": "Greek (language)",
+    "definition": "Greek (language)"
+  },
+  {
+    "headword": "ouem",
+    "copticWord": "ⲟⲩⲉⲙ",
+    "englishTransliteration": "ouem",
+    "gloss": "To eat",
+    "definition": "To eat",
+    "crossReference": {
+      "target": "ouwm",
+      "gloss": "To eat"
+    }
+  },
+  {
+    "headword": "ouem[i",
+    "copticWord": "ⲟⲩⲉⲙϭⲓ",
+    "englishTransliteration": "ouemchi",
+    "gloss": "To suckle",
+    "definition": "To suckle",
+    "crossReference": {
+      "target": "(2)[i",
+      "gloss": "To suckle"
+    }
+  },
+  {
+    "headword": "ouen",
+    "copticWord": "ⲟⲩⲉⲛ",
+    "englishTransliteration": "ouen",
+    "partOfSpeech": "part",
+    "crossReference": {
+      "target": "(2)ouwn"
+    }
+  }
+]

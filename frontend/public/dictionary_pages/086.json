@@ -1,0 +1,323 @@
+[
+  {
+    "headword": "r",
+    "copticWord": "ⲣ",
+    "englishTransliteration": "r",
+    "reference": "286a",
+    "gloss": "17th letter of the Coptic Alphabet",
+    "definition": "17th letter of the Coptic Alphabet",
+    "senses": [
+      {
+        "label": "r",
+        "gloss": "The numeral '100'",
+        "definition": "The numeral '100'"
+      },
+      {
+        "label": "r",
+        "gloss": "The numeral '900'",
+        "definition": "The numeral '900'"
+      }
+    ]
+  },
+  {
+    "headword": "ra",
+    "copticWord": "ⲣⲁ",
+    "englishTransliteration": "ra",
+    "variants": [
+      {
+        "word": "ra",
+        "copticWord": "ⲣⲁ",
+        "englishTransliteration": "ra"
+      }
+    ],
+    "reference": "287a",
+    "partOfSpeech": "m",
+    "gloss": "State, condition",
+    "definition": "State, condition"
+  },
+  {
+    "headword": "rab/",
+    "copticWord": "ⲣⲁⲃⲏ",
+    "englishTransliteration": "ravi",
+    "gloss": "Neighborhood",
+    "definition": "Neighborhood",
+    "crossReference": {
+      "target": "raou/",
+      "gloss": "Neighborhood"
+    }
+  },
+  {
+    "headword": "rak=",
+    "copticWord": "ⲣⲁⲕ",
+    "englishTransliteration": "rak",
+    "gloss": "To bend",
+    "definition": "To bend",
+    "crossReference": {
+      "target": "riki",
+      "gloss": "To bend"
+    }
+  },
+  {
+    "headword": "raka",
+    "copticWord": "ⲣⲁⲕⲁ",
+    "englishTransliteration": "raka",
+    "gloss": "(Heb)",
+    "definition": "Expressive of contempt, ignorant, bad, wretched ... etc."
+  },
+  {
+    "headword": "rakt=",
+    "copticWord": "ⲣⲁⲕⲧ",
+    "englishTransliteration": "rakt",
+    "gloss": "To bend",
+    "definition": "To bend",
+    "crossReference": {
+      "target": "riki",
+      "gloss": "To bend"
+    }
+  },
+  {
+    "headword": "rakhi",
+    "copticWord": "ⲣⲁⲕϩⲓ",
+    "englishTransliteration": "rakhi",
+    "gloss": "Fuel",
+    "definition": "Fuel",
+    "crossReference": {
+      "target": "rwkh",
+      "gloss": "Fuel"
+    }
+  },
+  {
+    "headword": "ramao",
+    "copticWord": "ⲣⲁⲙⲁⲟ",
+    "englishTransliteration": "ramao",
+    "gloss": "Rich man",
+    "definition": "Rich man",
+    "crossReference": {
+      "target": "rwmi",
+      "gloss": "Rich man"
+    }
+  },
+  {
+    "headword": "ramaoi",
+    "copticWord": "ⲣⲁⲙⲁⲟⲓ",
+    "englishTransliteration": "ramaoi",
+    "gloss": "Rich men",
+    "definition": "Rich men",
+    "crossReference": {
+      "target": "rwmi",
+      "gloss": "Rich men"
+    }
+  },
+  {
+    "headword": "ramawi",
+    "copticWord": "ⲣⲁⲙⲁⲱⲓ",
+    "englishTransliteration": "ramaōi",
+    "gloss": "Rich men",
+    "definition": "Rich men",
+    "crossReference": {
+      "target": "rwmi",
+      "gloss": "Rich men"
+    }
+  },
+  {
+    "headword": "ramawou",
+    "copticWord": "ⲣⲁⲙⲁⲱⲟⲩ",
+    "englishTransliteration": "ramaōou",
+    "gloss": "Rich men. rami: (294a)",
+    "definition": "mf. A fish \"tilapria\".",
+    "crossReference": {
+      "target": "rwmi",
+      "gloss": "Rich men. rami: (294a)"
+    }
+  },
+  {
+    "headword": "ras=",
+    "copticWord": "ⲣⲁϣ",
+    "englishTransliteration": "rash",
+    "gloss": "To suffice",
+    "definition": "To suffice",
+    "crossReference": {
+      "target": "rwsi",
+      "gloss": "To suffice"
+    }
+  },
+  {
+    "headword": "ramnoc",
+    "copticWord": "ⲣⲁⲙⲛⲟⲥ",
+    "englishTransliteration": "ramnos",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Name of various prickly shrubs",
+    "definition": "box-thorn, lycium europaeum."
+  },
+  {
+    "headword": "rasi",
+    "copticWord": "ⲣⲁϣⲓ",
+    "englishTransliteration": "rashi",
+    "reference": "208a",
+    "gloss": "vi. to rejoice",
+    "definition": "vi. to rejoice"
+  },
+  {
+    "headword": "e",
+    "copticWord": "ⲉ",
+    "englishTransliteration": "e",
+    "partOfSpeech": "vb",
+    "gloss": "To rejoice at, over",
+    "definition": "--- nem-: vb. To rejoice with;"
+  },
+  {
+    "headword": "ran",
+    "copticWord": "ⲣⲁⲛ",
+    "englishTransliteration": "ran",
+    "variants": [
+      {
+        "word": "ren",
+        "copticWord": "ⲣⲉⲛ",
+        "englishTransliteration": "ren"
+      },
+      {
+        "word": "ren=",
+        "copticWord": "ⲣⲉⲛ",
+        "englishTransliteration": "ren"
+      }
+    ],
+    "reference": "297b",
+    "partOfSpeech": "m",
+    "gloss": "Name",
+    "definition": "]ren= &c: vb. To give name, call; --- e-: vb. To give name to;",
+    "senses": [
+      {
+        "label": "eqoun",
+        "partOfSpeech": "vb",
+        "gloss": "To give in, inscribe name",
+        "definition": "mou] epiran: vb. To call a name, name, denominate."
+      }
+    ]
+  },
+  {
+    "headword": "raou/",
+    "copticWord": "ⲣⲁⲟⲩⲏ",
+    "englishTransliteration": "raoui",
+    "variants": [
+      {
+        "word": "rab/",
+        "copticWord": "ⲣⲁⲃⲏ",
+        "englishTransliteration": "ravi"
+      }
+    ],
+    "reference": "306a",
+    "partOfSpeech": "f",
+    "gloss": "Quarter of a town, neighborhood",
+    "definition": "Quarter of a town, neighborhood"
+  },
+  {
+    "headword": "metremraou/",
+    "copticWord": "ⲙⲉⲧⲣⲉⲙⲣⲁⲟⲩⲏ",
+    "englishTransliteration": "metremraoui",
+    "partOfSpeech": "f",
+    "gloss": "Neighborhood",
+    "definition": "Neighborhood"
+  },
+  {
+    "headword": "raq=",
+    "copticWord": "ⲣⲁϧ",
+    "englishTransliteration": "rakh",
+    "gloss": "To cleanse",
+    "definition": "To cleanse",
+    "crossReference": {
+      "target": "rwqi",
+      "gloss": "To cleanse"
+    }
+  },
+  {
+    "headword": "raqi",
+    "copticWord": "ⲣⲁϧⲓ",
+    "englishTransliteration": "rakhi",
+    "gloss": "Bleacher",
+    "definition": "Bleacher",
+    "crossReference": {
+      "target": "rwqi",
+      "gloss": "Bleacher"
+    }
+  },
+  {
+    "headword": "raqt",
+    "copticWord": "ⲣⲁϧⲧ",
+    "englishTransliteration": "rakht",
+    "gloss": "Cleaner",
+    "definition": "Cleaner",
+    "crossReference": {
+      "target": "rwqi",
+      "gloss": "Cleaner"
+    }
+  },
+  {
+    "headword": "raqt=",
+    "copticWord": "ⲣⲁϧⲧ",
+    "englishTransliteration": "rakht",
+    "gloss": "To strike",
+    "definition": "To strike",
+    "crossReference": {
+      "target": "rwqt",
+      "gloss": "To strike"
+    }
+  },
+  {
+    "headword": "re",
+    "copticWord": "ⲣⲉ",
+    "englishTransliteration": "re",
+    "gloss": "Fraction",
+    "definition": "Fraction",
+    "crossReference": {
+      "target": "(1)ro",
+      "gloss": "Fraction"
+    }
+  },
+  {
+    "headword": "rek",
+    "copticWord": "ⲣⲉⲕ",
+    "englishTransliteration": "rek",
+    "gloss": "To bend",
+    "definition": "To bend",
+    "crossReference": {
+      "target": "riki",
+      "gloss": "To bend"
+    }
+  },
+  {
+    "headword": "rekriki",
+    "copticWord": "ⲣⲉⲕⲣⲓⲕⲓ",
+    "englishTransliteration": "rekriki",
+    "reference": "293a",
+    "gloss": "f",
+    "definition": "f"
+  },
+  {
+    "headword": "Bending",
+    "copticWord": "Ⲃⲉⲛⲇⲓⲛⲅ",
+    "englishTransliteration": "Vending",
+    "variants": [
+      {
+        "word": "nodding (of head in sleep) [irekriki",
+        "copticWord": "ⲛⲟⲇⲇⲓⲛⲅ (ⲟϥ ϩⲉⲁⲇ ⲓⲛ ϣⲗⲉⲉⲡ) ϭⲓⲣⲉⲕⲣⲓⲕⲓ",
+        "englishTransliteration": "nodding (of head in shleep) chirekriki"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To take to nodding, doze",
+    "definition": "To take to nodding, doze"
+  },
+  {
+    "headword": "rekh",
+    "copticWord": "ⲣⲉⲕϩ",
+    "englishTransliteration": "rekh",
+    "gloss": "To burn",
+    "definition": "To burn",
+    "crossReference": {
+      "target": "rwkh",
+      "gloss": "To burn"
+    }
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "headword": "dickoc",
+    "copticWord": "ⲇⲓⲥⲕⲟⲥ",
+    "englishTransliteration": "diskos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Dish, disk",
+    "definition": "Dish, disk"
+  },
+  {
+    "headword": "dopatioc",
+    "copticWord": "ⲇⲟⲡⲁⲧⲓⲟⲥ",
+    "englishTransliteration": "dopatios",
+    "reference": "Gk",
+    "isGreek": true
+  },
+  {
+    "headword": "m. Jewelry",
+    "copticWord": "ⲙ. Ϫⲉⲱⲉⲗⲣⲑ",
+    "englishTransliteration": "m. Jeōelrth",
+    "variants": [
+      {
+        "word": "precious stone. douloc",
+        "copticWord": "ⲡⲣⲉⲥⲓⲟⲩϣ ϣⲧⲟⲛⲉ. ⲇⲟⲩⲗⲟⲥ",
+        "englishTransliteration": "presioush shtone. doulos"
+      }
+    ],
+    "reference": "Gk",
+    "isGreek": true
+  },
+  {
+    "headword": "m. Slave",
+    "copticWord": "ⲙ. Ϣⲗⲁⲫⲉ",
+    "englishTransliteration": "m. Shlafe",
+    "variants": [
+      {
+        "word": "bondman. doux",
+        "copticWord": "ⲃⲟⲛⲇⲙⲁⲛ. ⲇⲟⲩⲝ",
+        "englishTransliteration": "vondman. douks"
+      }
+    ],
+    "reference": "Gk",
+    "isGreek": true
+  },
+  {
+    "headword": "m. Duke",
+    "copticWord": "ⲙ. Ⲇⲩⲕⲉ",
+    "englishTransliteration": "m. Dyke",
+    "variants": [
+      {
+        "word": "prince",
+        "copticWord": "ⲡⲣⲓⲛⲥⲉ",
+        "englishTransliteration": "prinse"
+      },
+      {
+        "word": "king",
+        "copticWord": "ⲕⲓⲛⲅ",
+        "englishTransliteration": "king"
+      },
+      {
+        "word": "leader. doupia",
+        "copticWord": "ⲗⲉⲁⲇⲉⲣ. ⲇⲟⲩⲡⲓⲁ",
+        "englishTransliteration": "leader. doupia"
+      }
+    ],
+    "reference": "Gk?",
+    "isGreek": true
+  },
+  {
+    "headword": "f. A type of old coins. doxologia",
+    "copticWord": "ϥ. Ⲁ ⲧⲑⲡⲉ ⲟϥ ⲟⲗⲇ ⲥⲟⲓⲛϣ. ⲇⲟⲝⲟⲗⲟⲅⲓⲁ",
+    "englishTransliteration": "f. A tthpe of old soinsh. doksologia",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Laudation, glorification, doxology",
+    "definition": "Laudation, glorification, doxology"
+  },
+  {
+    "headword": "drakwn",
+    "copticWord": "ⲇⲣⲁⲕⲱⲛ",
+    "englishTransliteration": "drakōn",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Dragon",
+    "definition": "Dragon"
+  },
+  {
+    "headword": "ditioc monac",
+    "copticWord": "ⲇⲓⲧⲓⲟⲥ ⲙⲟⲛⲁⲥ",
+    "englishTransliteration": "ditios monas",
+    "reference": "Gk?",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "gloss": "The Arabic month of Gamada-al-awal",
+    "definition": "--- dioc: n. Gamada-al-akhar or -al-thani."
+  },
+  {
+    "headword": "dromoc",
+    "copticWord": "ⲇⲣⲟⲙⲟⲥ",
+    "englishTransliteration": "dromos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Course, race, flight, contest",
+    "definition": "Course, race, flight, contest"
+  },
+  {
+    "headword": "diwgmoc",
+    "copticWord": "ⲇⲓⲱⲅⲙⲟⲥ",
+    "englishTransliteration": "diōgmos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Chase, pursuit, persecution, harassing",
+    "definition": "Chase, pursuit, persecution, harassing"
+  },
+  {
+    "headword": "diwkt/c",
+    "copticWord": "ⲇⲓⲱⲕⲧⲏⲥ",
+    "englishTransliteration": "diōktis",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "persecutor, pursuer",
+    "definition": "persecutor, pursuer"
+  },
+  {
+    "headword": "drumoc",
+    "copticWord": "ⲇⲣⲩⲙⲟⲥ",
+    "englishTransliteration": "drymos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Thicket, desert, wilderness",
+    "definition": "Thicket, desert, wilderness"
+  },
+  {
+    "headword": "dokim/",
+    "copticWord": "ⲇⲟⲕⲓⲙⲏ",
+    "englishTransliteration": "dokimi",
+    "gloss": "Trial",
+    "definition": "Trial",
+    "crossReference": {
+      "target": "dokimoc",
+      "gloss": "Trial"
+    }
+  },
+  {
+    "headword": "dunamic",
+    "copticWord": "ⲇⲩⲛⲁⲙⲓⲥ",
+    "englishTransliteration": "dynamis",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Power, might, strength, authority",
+    "definition": "Power, might, strength, authority"
+  },
+  {
+    "headword": "dokimoc",
+    "copticWord": "ⲇⲟⲕⲓⲙⲟⲥ",
+    "englishTransliteration": "dokimos",
+    "variants": [
+      {
+        "word": "-/",
+        "copticWord": "-ⲏ",
+        "englishTransliteration": "-i"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Examination, trial, test",
+    "definition": "Examination, trial, test"
+  },
+  {
+    "headword": "dunatoc",
+    "copticWord": "ⲇⲩⲛⲁⲧⲟⲥ",
+    "englishTransliteration": "dynatos",
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Strong, mighty",
+    "definition": "Strong, mighty"
+  },
+  {
+    "headword": "durannoc",
+    "copticWord": "ⲇⲩⲣⲁⲛⲛⲟⲥ",
+    "englishTransliteration": "dyrannos",
+    "gloss": "Tyrant",
+    "definition": "Tyrant",
+    "crossReference": {
+      "target": "tyrannic",
+      "gloss": "Tyrant"
+    }
+  },
+  {
+    "headword": "doloc",
+    "copticWord": "ⲇⲟⲗⲟⲥ",
+    "englishTransliteration": "dolos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Cunning, trick, treachery. dox v. doxa - Glory",
+    "definition": "Cunning, trick, treachery. dox v. doxa - Glory"
+  },
+  {
+    "headword": "dwrea",
+    "copticWord": "ⲇⲱⲣⲉⲁ",
+    "englishTransliteration": "dōrea",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Gift, present esp. bounty",
+    "definition": "Gift, present esp. bounty"
+  },
+  {
+    "headword": "doxa",
+    "copticWord": "ⲇⲟⲝⲁ",
+    "englishTransliteration": "doksa",
+    "variants": [
+      {
+        "word": "dox",
+        "copticWord": "ⲇⲟⲝ",
+        "englishTransliteration": "doks"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Glory, honor, pride, repute, opinion",
+    "definition": "Glory, honor, pride, repute, opinion",
+    "senses": [
+      {
+        "label": "doxa patri",
+        "gloss": "Expression ' Glory be to the Father\"",
+        "definition": "Expression ' Glory be to the Father\""
+      }
+    ]
+  },
+  {
+    "headword": "dwron",
+    "copticWord": "ⲇⲱⲣⲟⲛ",
+    "englishTransliteration": "dōron",
+    "variants": [
+      {
+        "word": "-oc",
+        "copticWord": "-ⲟⲥ",
+        "englishTransliteration": "-os"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Gift, present, gift of honor, votive gift",
+    "definition": "Gift, present, gift of honor, votive gift"
+  },
+  {
+    "headword": "dwroc",
+    "copticWord": "ⲇⲱⲣⲟⲥ",
+    "englishTransliteration": "dōros",
+    "gloss": "Gift",
+    "definition": "Gift",
+    "crossReference": {
+      "target": "dwron",
+      "gloss": "Gift"
+    }
+  }
+]

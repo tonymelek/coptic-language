@@ -1,0 +1,485 @@
+[
+  {
+    "headword": "(2) imperat. aje",
+    "copticWord": "ⲓⲙⲡⲉⲣⲁⲧ. ⲁϫⲉ",
+    "englishTransliteration": "imperat. aje",
+    "variants": [
+      {
+        "word": "ajot=",
+        "copticWord": "ⲁϫⲟⲧ",
+        "englishTransliteration": "ajot"
+      },
+      {
+        "word": "ajo=",
+        "copticWord": "ⲁϫⲟ",
+        "englishTransliteration": "ajo"
+      }
+    ],
+    "reference": "754a",
+    "gloss": "I. vi,vt. To say, speak, tell",
+    "definition": "I. vi,vt. To say, speak, tell",
+    "senses": [
+      {
+        "label": "e",
+        "gloss": "To say to",
+        "definition": "To say to"
+      },
+      {
+        "label": "nca",
+        "gloss": "To say against",
+        "definition": "To say against"
+      }
+    ]
+  },
+  {
+    "headword": "refje",
+    "copticWord": "ⲣⲉϥϫⲉ",
+    "englishTransliteration": "refje",
+    "partOfSpeech": "m",
+    "gloss": "Sayer, speaker",
+    "definition": "Sayer, speaker"
+  },
+  {
+    "headword": "jinjoc",
+    "copticWord": "ϫⲓⲛϫⲟⲥ",
+    "englishTransliteration": "jinjos",
+    "partOfSpeech": "m",
+    "gloss": "Saying, speech",
+    "definition": "Saying, speech"
+  },
+  {
+    "headword": "jere",
+    "copticWord": "ϫⲉⲣⲉ",
+    "englishTransliteration": "jere",
+    "gloss": "To mean",
+    "definition": "To mean"
+  },
+  {
+    "headword": "II",
+    "copticWord": "ⲒⲒ",
+    "englishTransliteration": "II",
+    "gloss": "vi. Sing",
+    "definition": "vi. Sing"
+  },
+  {
+    "headword": "jwoui",
+    "copticWord": "ϫⲱⲟⲩⲓ",
+    "englishTransliteration": "jōoui",
+    "partOfSpeech": "m",
+    "gloss": ", Song",
+    "definition": "refjw, pl"
+  },
+  {
+    "headword": "refjwoui",
+    "copticWord": "ⲣⲉϥϫⲱⲟⲩⲓ",
+    "englishTransliteration": "refjōoui",
+    "partOfSpeech": "m",
+    "gloss": "Singer, minstrel",
+    "definition": "Singer, minstrel"
+  },
+  {
+    "headword": "jokhf",
+    "copticWord": "ϫⲟⲕϩϥ",
+    "englishTransliteration": "jokhf",
+    "partOfSpeech": "n",
+    "gloss": "Goad",
+    "definition": "Goad"
+  },
+  {
+    "headword": "joul",
+    "copticWord": "ϫⲟⲩⲗ",
+    "englishTransliteration": "joul",
+    "reference": "765b",
+    "partOfSpeech": "m",
+    "gloss": "Fragment",
+    "definition": "Fragment"
+  },
+  {
+    "headword": "joust",
+    "copticWord": "ϫⲟⲩϣⲧ",
+    "englishTransliteration": "jousht",
+    "reference": "837b",
+    "gloss": "vi. To look, see",
+    "definition": "--- e-: vi. To look at, to; --- n-: vi. To look toward; --- nca: vi. To look after, at; --- eqr/i: vi. To look down; --- ehr/i: vi. To look up; ---: m. Look, glance"
+  },
+  {
+    "headword": "manjoust",
+    "copticWord": "ⲙⲁⲛϫⲟⲩϣⲧ",
+    "englishTransliteration": "manjousht",
+    "partOfSpeech": "m",
+    "gloss": "Lookout place",
+    "definition": "Lookout place"
+  },
+  {
+    "headword": "refjoust",
+    "copticWord": "ⲣⲉϥϫⲟⲩϣⲧ",
+    "englishTransliteration": "refjousht",
+    "partOfSpeech": "m",
+    "gloss": "One who sees",
+    "definition": "One who sees"
+  },
+  {
+    "headword": "jouf",
+    "copticWord": "ϫⲟⲩϥ",
+    "englishTransliteration": "jouf",
+    "gloss": "To burn",
+    "definition": "To burn",
+    "crossReference": {
+      "target": "(1)jwf",
+      "gloss": "To burn"
+    }
+  },
+  {
+    "headword": "jw=",
+    "copticWord": "ϫⲱ",
+    "englishTransliteration": "jō",
+    "reference": "756a",
+    "partOfSpeech": "m",
+    "gloss": "Head",
+    "definition": "Head",
+    "senses": [
+      {
+        "label": "nca ca",
+        "gloss": "Behind head, backward, head down",
+        "definition": "Behind head, backward, head down"
+      }
+    ]
+  },
+  {
+    "headword": "jouj",
+    "copticWord": "ϫⲟⲩϫ",
+    "englishTransliteration": "jouj",
+    "variants": [
+      {
+        "word": "souj",
+        "copticWord": "ϣⲟⲩϫ",
+        "englishTransliteration": "shouj"
+      }
+    ],
+    "reference": "840b",
+    "partOfSpeech": "m",
+    "gloss": "Safflower, car-damum",
+    "definition": "Safflower, car-damum"
+  },
+  {
+    "headword": "jve",
+    "copticWord": "ϫⲫⲉ",
+    "englishTransliteration": "jfe",
+    "gloss": "To bring forth",
+    "definition": "To bring forth",
+    "crossReference": {
+      "target": "jvo",
+      "gloss": "To bring forth"
+    }
+  },
+  {
+    "headword": "jvio",
+    "copticWord": "ϫⲫⲓⲟ",
+    "englishTransliteration": "jfio",
+    "variants": [
+      {
+        "word": "(Q) jvi/t",
+        "copticWord": "(Ϧ) ϫⲫⲓⲏⲧ",
+        "englishTransliteration": "(Kh) jfiit"
+      }
+    ],
+    "reference": "778b",
+    "gloss": "vi. To blame, upbraid",
+    "definition": "vi. To blame, upbraid"
+  },
+  {
+    "headword": "metjvi/t",
+    "copticWord": "ⲙⲉⲧϫⲫⲓⲏⲧ",
+    "englishTransliteration": "metjfiit",
+    "partOfSpeech": "f",
+    "gloss": "Shame facedness, mo-desty",
+    "definition": "Shame facedness, mo-desty"
+  },
+  {
+    "headword": "jinjvi/t",
+    "copticWord": "ϫⲓⲛϫⲫⲓⲏⲧ",
+    "englishTransliteration": "jinjfiit",
+    "partOfSpeech": "m",
+    "gloss": "Modesty",
+    "definition": "Modesty"
+  },
+  {
+    "headword": "ejen",
+    "copticWord": "ⲉϫⲉⲛ",
+    "englishTransliteration": "ejen",
+    "variants": [
+      {
+        "word": "ejw=",
+        "copticWord": "ⲉϫⲱ",
+        "englishTransliteration": "ejō"
+      }
+    ],
+    "gloss": "Prep. Upon, over",
+    "definition": "for, on account of; against; to; in addition to, after"
+  },
+  {
+    "headword": "ebol ejen",
+    "copticWord": "ⲉⲃⲟⲗ ⲉϫⲉⲛ",
+    "englishTransliteration": "evol ejen",
+    "gloss": "Out upon",
+    "definition": "Out upon"
+  },
+  {
+    "headword": "qajen",
+    "copticWord": "ϧⲁϫⲉⲛ",
+    "englishTransliteration": "khajen",
+    "variants": [
+      {
+        "word": "qajw=",
+        "copticWord": "ϧⲁϫⲱ",
+        "englishTransliteration": "khajō"
+      }
+    ],
+    "gloss": "Prep. Before",
+    "definition": "Prep. Before"
+  },
+  {
+    "headword": "icjen qajw=",
+    "copticWord": "ⲓⲥϫⲉⲛ ϧⲁϫⲱ",
+    "englishTransliteration": "isjen khajō",
+    "gloss": "Since before",
+    "definition": "Since before"
+  },
+  {
+    "headword": "hijen",
+    "copticWord": "ϩⲓϫⲉⲛ",
+    "englishTransliteration": "heegen",
+    "variants": [
+      {
+        "word": "hijw=",
+        "copticWord": "ϩⲓϫⲱ",
+        "englishTransliteration": "heegō"
+      }
+    ],
+    "gloss": "Prep. lit. on head of",
+    "definition": "upon, over"
+  },
+  {
+    "headword": "ebol hijen",
+    "copticWord": "ⲉⲃⲟⲗ ϩⲓϫⲉⲛ",
+    "englishTransliteration": "evol heegen",
+    "gloss": "From upon",
+    "definition": "From upon"
+  },
+  {
+    "headword": "jvo",
+    "copticWord": "ϫⲫⲟ",
+    "englishTransliteration": "jfo",
+    "variants": [
+      {
+        "word": "jve",
+        "copticWord": "ϫⲫⲉ",
+        "englishTransliteration": "jfe"
+      },
+      {
+        "word": "thve",
+        "copticWord": "ⲧϩⲫⲉ",
+        "englishTransliteration": "thfe"
+      },
+      {
+        "word": "jvo=",
+        "copticWord": "ϫⲫⲟ",
+        "englishTransliteration": "jfo"
+      },
+      {
+        "word": "(Q) jv/out",
+        "copticWord": "(Ϧ) ϫⲫⲏⲟⲩⲧ",
+        "englishTransliteration": "(Kh) jfiout"
+      }
+    ],
+    "reference": "778b",
+    "gloss": "vt. To beget, bring forth",
+    "definition": "acquire;",
+    "senses": [
+      {
+        "label": "e",
+        "gloss": "vt. To bring forth for, to",
+        "definition": "--: m. Birth, begetting, possession, gain; refjvo: m. Begetter, maker; jinjvo: m. Begetting, generation."
+      }
+    ]
+  },
+  {
+    "headword": "nhr/i hijen",
+    "copticWord": "ⲛϩⲣⲏⲓ ϩⲓϫⲉⲛ",
+    "englishTransliteration": "nhrii heegen",
+    "gloss": "Upon. jwb",
+    "definition": "(Q) jebiwou, jwbi, p.c"
+  },
+  {
+    "headword": "jabi",
+    "copticWord": "ϫⲁⲃⲓ",
+    "englishTransliteration": "gavi",
+    "reference": "805a",
+    "gloss": "vi. To become, be feeble, timid",
+    "definition": "jwb, jwbi, f"
+  },
+  {
+    "headword": "jobi",
+    "copticWord": "ϫⲟⲃⲓ",
+    "englishTransliteration": "jovi",
+    "partOfSpeech": "m",
+    "gloss": "Weak person",
+    "definition": "Weak person"
+  },
+  {
+    "headword": "metjwb",
+    "copticWord": "ⲙⲉⲧϫⲱⲃ",
+    "englishTransliteration": "metjōv",
+    "partOfSpeech": "f",
+    "gloss": "Weakness, folly",
+    "definition": "Weakness, folly"
+  },
+  {
+    "headword": "jwb",
+    "copticWord": "ϫⲱⲃ",
+    "englishTransliteration": "jōv",
+    "gloss": "Weak person",
+    "definition": "Weak person",
+    "crossReference": {
+      "target": "jwb",
+      "gloss": "Weak person"
+    }
+  },
+  {
+    "headword": "jwbi",
+    "copticWord": "ϫⲱⲃⲓ",
+    "englishTransliteration": "jōvi",
+    "reference": "804b",
+    "partOfSpeech": "f",
+    "gloss": "Leaf",
+    "definition": "Leaf"
+  },
+  {
+    "headword": "jwi",
+    "copticWord": "ϫⲱⲓ",
+    "englishTransliteration": "jōi",
+    "reference": "759b",
+    "partOfSpeech": "m",
+    "gloss": "Earthen basin",
+    "definition": "Earthen basin"
+  },
+  {
+    "headword": "jvo=",
+    "copticWord": "ϫⲫⲟ",
+    "englishTransliteration": "jfo",
+    "gloss": "To beget",
+    "definition": "To beget",
+    "crossReference": {
+      "target": "jvo",
+      "gloss": "To beget"
+    }
+  },
+  {
+    "headword": "jvoi",
+    "copticWord": "ϫⲫⲟⲓ",
+    "englishTransliteration": "jfoi",
+    "reference": "805a",
+    "partOfSpeech": "m",
+    "gloss": "Arm (of man), leg (of beast)",
+    "definition": "Arm (of man), leg (of beast)"
+  },
+  {
+    "headword": "jvot",
+    "copticWord": "ϫⲫⲟⲧ",
+    "englishTransliteration": "jfot",
+    "variants": [
+      {
+        "word": "jvwt",
+        "copticWord": "ϫⲫⲱⲧ",
+        "englishTransliteration": "jfōt"
+      },
+      {
+        "word": "jvw]",
+        "copticWord": "ϫⲫⲱϯ",
+        "englishTransliteration": "jfōti"
+      }
+    ],
+    "reference": "795a",
+    "partOfSpeech": "m",
+    "gloss": "A part of the body whereof there are two",
+    "definition": "thighs, buttocks, testicles"
+  },
+  {
+    "headword": "jvwt",
+    "copticWord": "ϫⲫⲱⲧ",
+    "englishTransliteration": "jfōt",
+    "gloss": "Thighs",
+    "definition": "Thighs",
+    "crossReference": {
+      "target": "jvot",
+      "gloss": "Thighs"
+    }
+  },
+  {
+    "headword": "jvw]",
+    "copticWord": "ϫⲫⲱϯ",
+    "englishTransliteration": "jfōti",
+    "gloss": "Thighs",
+    "definition": "Thighs",
+    "crossReference": {
+      "target": "jvwt",
+      "gloss": "Thighs"
+    }
+  },
+  {
+    "headword": "(1) jw",
+    "copticWord": "ϫⲱ",
+    "englishTransliteration": "jō",
+    "variants": [
+      {
+        "word": "joi",
+        "copticWord": "ϫⲟⲓ",
+        "englishTransliteration": "joi"
+      },
+      {
+        "word": "jwi",
+        "copticWord": "ϫⲱⲓ",
+        "englishTransliteration": "jōi"
+      },
+      {
+        "word": "ji",
+        "copticWord": "ϫⲓ",
+        "englishTransliteration": "ji"
+      }
+    ],
+    "reference": "753b",
+    "partOfSpeech": "f",
+    "gloss": "Wall",
+    "definition": "Wall"
+  },
+  {
+    "headword": "jinym/]",
+    "copticWord": "ϫⲓⲛⲑⲙⲏϯ",
+    "englishTransliteration": "jinthmiti",
+    "partOfSpeech": "f",
+    "gloss": "Middle wall",
+    "definition": "Middle wall"
+  },
+  {
+    "headword": "(Q) jal/out",
+    "copticWord": "(Ϧ) ϫⲁⲗⲏⲟⲩⲧ",
+    "englishTransliteration": "(Kh) galiout",
+    "variants": [
+      {
+        "word": "[al/out",
+        "copticWord": "ϭⲁⲗⲏⲟⲩⲧ",
+        "englishTransliteration": "chaliout"
+      }
+    ],
+    "reference": "807b",
+    "gloss": "vi. To dwell",
+    "definition": "vi. To dwell"
+  },
+  {
+    "headword": "e",
+    "copticWord": "ⲉ",
+    "englishTransliteration": "e",
+    "gloss": "vi. To dwell at, visit",
+    "definition": "vi. To dwell at, visit"
+  }
+]

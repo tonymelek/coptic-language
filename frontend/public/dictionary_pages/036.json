@@ -1,0 +1,623 @@
+[
+  {
+    "headword": "y",
+    "copticWord": "ⲑ",
+    "englishTransliteration": "th",
+    "reference": "68a",
+    "gloss": "eighth letter of the Coptic Alphabet",
+    "definition": "eighth letter of the Coptic Alphabet",
+    "senses": [
+      {
+        "label": "y",
+        "gloss": "The numeral '9'",
+        "definition": "The numeral '9'"
+      }
+    ]
+  },
+  {
+    "headword": "yebie",
+    "copticWord": "ⲑⲉⲃⲓⲉ",
+    "englishTransliteration": "thevie",
+    "gloss": "Humble person. yebie- v. yebio - To be humble. yebi/out (Q) v. yebio - Humble. yebi v. taibi - Coffin",
+    "definition": "Humble person. yebie- v. yebio - To be humble. yebi/out (Q) v. yebio - Humble. yebi v. taibi - Coffin",
+    "crossReference": {
+      "target": "yebio",
+      "gloss": "Humble person. yebie- v. yebio - To be humble. yebi/out (Q) v. yebio - Humble. yebi v. taibi - Coffin"
+    }
+  },
+  {
+    "headword": "ya",
+    "copticWord": "ⲑⲁ",
+    "englishTransliteration": "tha",
+    "gloss": "That which belongs to",
+    "definition": "That which belongs to",
+    "crossReference": {
+      "target": "pa",
+      "gloss": "That which belongs to"
+    }
+  },
+  {
+    "headword": "yai",
+    "copticWord": "ⲑⲁⲓ",
+    "englishTransliteration": "thai",
+    "gloss": "This one",
+    "definition": "This one",
+    "crossReference": {
+      "target": "vai",
+      "gloss": "This one"
+    }
+  },
+  {
+    "headword": "yebio",
+    "copticWord": "ⲑⲉⲃⲓⲟ",
+    "englishTransliteration": "thevio",
+    "variants": [
+      {
+        "word": "yebie",
+        "copticWord": "ⲑⲉⲃⲓⲉ",
+        "englishTransliteration": "thevie"
+      },
+      {
+        "word": "yebio=",
+        "copticWord": "ⲑⲉⲃⲓⲟ",
+        "englishTransliteration": "thevio"
+      },
+      {
+        "word": "yebi/out",
+        "note": "Q",
+        "copticWord": "ⲑⲉⲃⲓⲏⲟⲩⲧ",
+        "englishTransliteration": "theviiout"
+      }
+    ],
+    "reference": "457b",
+    "gloss": "vt. To humiliate",
+    "definition": "vi. To be humble, be humbled;",
+    "senses": [
+      {
+        "label": "ebol",
+        "partOfSpeech": "vb",
+        "gloss": "To humiliate",
+        "definition": "--: m. Humility. yebie: m. Humble person; jinyebio: m. Humiliation."
+      }
+    ]
+  },
+  {
+    "headword": "yal",
+    "copticWord": "ⲑⲁⲗ",
+    "englishTransliteration": "thal",
+    "reference": "408a",
+    "partOfSpeech": "m",
+    "gloss": "Heap, hillock, hill",
+    "definition": "Heap, hillock, hill"
+  },
+  {
+    "headword": "yalacca",
+    "copticWord": "ⲑⲁⲗⲁⲥⲥⲁ",
+    "englishTransliteration": "thalassa",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Sea",
+    "definition": "Sea"
+  },
+  {
+    "headword": "yalihi",
+    "copticWord": "ⲑⲁⲗⲓϩⲓ",
+    "englishTransliteration": "thalihi",
+    "reference": "68b",
+    "partOfSpeech": "m",
+    "gloss": "A fruit tree",
+    "definition": "A fruit tree"
+  },
+  {
+    "headword": "yamie",
+    "copticWord": "ⲑⲁⲙⲓⲉ",
+    "englishTransliteration": "thamie",
+    "gloss": "To create",
+    "definition": "To create",
+    "crossReference": {
+      "target": "yamio",
+      "gloss": "To create"
+    }
+  },
+  {
+    "headword": "yebio=",
+    "copticWord": "ⲑⲉⲃⲓⲟ",
+    "englishTransliteration": "thevio",
+    "gloss": "To be humble. yebc v. yibc - Heel",
+    "definition": "To be humble. yebc v. yibc - Heel",
+    "crossReference": {
+      "target": "yebio",
+      "gloss": "To be humble. yebc v. yibc - Heel"
+    }
+  },
+  {
+    "headword": "yamio",
+    "copticWord": "ⲑⲁⲙⲓⲟ",
+    "englishTransliteration": "thamio",
+    "variants": [
+      {
+        "word": "yamie",
+        "copticWord": "ⲑⲁⲙⲓⲉ",
+        "englishTransliteration": "thamie"
+      },
+      {
+        "word": "yamio=",
+        "copticWord": "ⲑⲁⲙⲓⲟ",
+        "englishTransliteration": "thamio"
+      },
+      {
+        "word": "yami/out",
+        "note": "Q",
+        "copticWord": "ⲑⲁⲙⲓⲏⲟⲩⲧ",
+        "englishTransliteration": "thamiiout"
+      }
+    ],
+    "reference": "413a",
+    "partOfSpeech": "vb",
+    "gloss": "To make, create",
+    "definition": "---: m. Thing made, creation",
+    "senses": [
+      {
+        "label": "metrefyamie",
+        "partOfSpeech": "f",
+        "gloss": "Act of making",
+        "definition": "jinyamio: m. Making, creation."
+      }
+    ]
+  },
+  {
+    "headword": "refyamio",
+    "copticWord": "ⲣⲉϥⲑⲁⲙⲓⲟ",
+    "englishTransliteration": "refthamio",
+    "partOfSpeech": "m",
+    "gloss": "Creator, maker",
+    "definition": "Creator, maker"
+  },
+  {
+    "headword": "yekem",
+    "copticWord": "ⲑⲉⲕⲉⲙ",
+    "englishTransliteration": "thekem",
+    "gloss": "To pluck. yel/l: (410a)",
+    "definition": "vi. To rejoice;",
+    "crossReference": {
+      "target": "ywkem",
+      "gloss": "To pluck. yel/l: (410a)"
+    },
+    "senses": [
+      {
+        "label": "ejen",
+        "partOfSpeech": "vb",
+        "gloss": "To rejoice at",
+        "definition": "---: n. Joy."
+      }
+    ]
+  },
+  {
+    "headword": "yem",
+    "copticWord": "ⲑⲉⲙ",
+    "englishTransliteration": "them",
+    "gloss": "To shut",
+    "definition": "To shut",
+    "crossReference": {
+      "target": "ywm",
+      "gloss": "To shut"
+    }
+  },
+  {
+    "headword": "yamio=",
+    "copticWord": "ⲑⲁⲙⲓⲟ",
+    "englishTransliteration": "thamio",
+    "gloss": "To create",
+    "definition": "To create",
+    "crossReference": {
+      "target": "yamio",
+      "gloss": "To create"
+    }
+  },
+  {
+    "headword": "yema",
+    "copticWord": "ⲑⲉⲙⲁ",
+    "englishTransliteration": "thema",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "That which is placed or laid down, hence 'necklace'",
+    "definition": "That which is placed or laid down, hence 'necklace'"
+  },
+  {
+    "headword": "yemmo",
+    "copticWord": "ⲑⲉⲙⲙⲟ",
+    "englishTransliteration": "themmo",
+    "gloss": "To warm",
+    "definition": "To warm",
+    "crossReference": {
+      "target": "tqmo",
+      "gloss": "To warm"
+    }
+  },
+  {
+    "headword": "yanno",
+    "copticWord": "ⲑⲁⲛⲛⲟ",
+    "englishTransliteration": "thanno",
+    "reference": "69a"
+  },
+  {
+    "headword": "vt. To accomplish",
+    "copticWord": "ⲫⲧ. Ⲧⲟ ⲁⲥⲥⲟⲙⲡⲗⲓϣϩ",
+    "englishTransliteration": "ft. To assomplishh",
+    "variants": [
+      {
+        "word": "perform. yapen",
+        "copticWord": "ⲡⲉⲣϥⲟⲣⲙ. ⲑⲁⲡⲉⲛ",
+        "englishTransliteration": "perform. thapen"
+      }
+    ],
+    "reference": "423a",
+    "partOfSpeech": "n",
+    "gloss": "Cumin",
+    "definition": "Cumin"
+  },
+  {
+    "headword": "yemc",
+    "copticWord": "ⲑⲉⲙⲥ",
+    "englishTransliteration": "thems",
+    "gloss": "To bury",
+    "definition": "To bury",
+    "crossReference": {
+      "target": "ywmc",
+      "gloss": "To bury"
+    }
+  },
+  {
+    "headword": "yarmi",
+    "copticWord": "ⲑⲁⲣⲙⲓ",
+    "englishTransliteration": "tharmi",
+    "reference": "69a",
+    "partOfSpeech": "f",
+    "gloss": "Leathern shield, cuirass",
+    "definition": "Leathern shield, cuirass"
+  },
+  {
+    "headword": "yeni",
+    "copticWord": "ⲑⲉⲛⲓ",
+    "englishTransliteration": "theni",
+    "gloss": "To grow",
+    "definition": "To grow",
+    "crossReference": {
+      "target": "y/ni",
+      "gloss": "To grow"
+    }
+  },
+  {
+    "headword": "yas",
+    "copticWord": "ⲑⲁϣ",
+    "englishTransliteration": "thash",
+    "gloss": "To determine",
+    "definition": "To determine",
+    "crossReference": {
+      "target": "yws",
+      "gloss": "To determine"
+    }
+  },
+  {
+    "headword": "yeo",
+    "copticWord": "ⲑⲉⲟ",
+    "englishTransliteration": "theo",
+    "gloss": "God",
+    "definition": "God",
+    "crossReference": {
+      "target": "yeoc",
+      "gloss": "God"
+    }
+  },
+  {
+    "headword": "yas=",
+    "copticWord": "ⲑⲁϣ",
+    "englishTransliteration": "thash",
+    "gloss": "To determine",
+    "definition": "To determine",
+    "crossReference": {
+      "target": "yws",
+      "gloss": "To determine"
+    }
+  },
+  {
+    "headword": "yeodokoc",
+    "copticWord": "ⲑⲉⲟⲇⲟⲕⲟⲥ",
+    "englishTransliteration": "theodokos",
+    "gloss": "Mother of God",
+    "definition": "Mother of God",
+    "crossReference": {
+      "target": "yeoc",
+      "gloss": "Mother of God"
+    }
+  },
+  {
+    "headword": "yaf",
+    "copticWord": "ⲑⲁϥ",
+    "englishTransliteration": "thaf",
+    "variants": [
+      {
+        "word": "y/f",
+        "copticWord": "ⲑⲏϥ",
+        "englishTransliteration": "thif"
+      }
+    ],
+    "reference": "453a",
+    "partOfSpeech": "m",
+    "gloss": "Spittle",
+    "definition": "Spittle"
+  },
+  {
+    "headword": "yaf=",
+    "copticWord": "ⲑⲁϥ",
+    "englishTransliteration": "thaf",
+    "reference": "69b",
+    "gloss": "meaning unknown",
+    "definition": "meaning unknown"
+  },
+  {
+    "headword": "yaq=",
+    "copticWord": "ⲑⲁϧ",
+    "englishTransliteration": "thakh",
+    "gloss": "To mix",
+    "definition": "To mix",
+    "crossReference": {
+      "target": "ywq",
+      "gloss": "To mix"
+    }
+  },
+  {
+    "headword": "yaqi",
+    "copticWord": "ⲑⲁϧⲓ",
+    "englishTransliteration": "thakhi",
+    "gloss": "To be drunk",
+    "definition": "To be drunk",
+    "crossReference": {
+      "target": "yiqi",
+      "gloss": "To be drunk"
+    }
+  },
+  {
+    "headword": "yeologia",
+    "copticWord": "ⲑⲉⲟⲗⲟⲅⲓⲁ",
+    "englishTransliteration": "theologia",
+    "gloss": "Theology",
+    "definition": "Theology",
+    "crossReference": {
+      "target": "yeoc",
+      "gloss": "Theology"
+    }
+  },
+  {
+    "headword": "yeologoc",
+    "copticWord": "ⲑⲉⲟⲗⲟⲅⲟⲥ",
+    "englishTransliteration": "theologos",
+    "gloss": "Theologian",
+    "definition": "Theologian",
+    "crossReference": {
+      "target": "yeoc",
+      "gloss": "Theologian"
+    }
+  },
+  {
+    "headword": "yeoprepoc",
+    "copticWord": "ⲑⲉⲟⲡⲣⲉⲡⲟⲥ",
+    "englishTransliteration": "theoprepos",
+    "gloss": "Divine majesty",
+    "definition": "Divine majesty",
+    "crossReference": {
+      "target": "yeoc",
+      "gloss": "Divine majesty"
+    }
+  },
+  {
+    "headword": "yeorimoc",
+    "copticWord": "ⲑⲉⲟⲣⲓⲙⲟⲥ",
+    "englishTransliteration": "theorimos",
+    "gloss": "Seer of God",
+    "definition": "Seer of God",
+    "crossReference": {
+      "target": "yewria",
+      "gloss": "Seer of God"
+    }
+  },
+  {
+    "headword": "yahem",
+    "copticWord": "ⲑⲁϩⲉⲙ",
+    "englishTransliteration": "thahem",
+    "gloss": "To invite",
+    "definition": "To invite",
+    "crossReference": {
+      "target": "ywhem",
+      "gloss": "To invite"
+    }
+  },
+  {
+    "headword": "yeoc",
+    "copticWord": "ⲑⲉⲟⲥ",
+    "englishTransliteration": "theos",
+    "variants": [
+      {
+        "word": "yeou",
+        "copticWord": "ⲑⲉⲟⲩ",
+        "englishTransliteration": "theou"
+      },
+      {
+        "word": "yew",
+        "copticWord": "ⲑⲉⲱ",
+        "englishTransliteration": "theō"
+      },
+      {
+        "word": "yeo",
+        "copticWord": "ⲑⲉⲟ",
+        "englishTransliteration": "theo"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "God",
+    "definition": "God",
+    "senses": [
+      {
+        "label": "yelogoc",
+        "partOfSpeech": "m",
+        "gloss": "Theologian",
+        "definition": "Theologian"
+      }
+    ]
+  },
+  {
+    "headword": "cunyeoc",
+    "copticWord": "ⲥⲩⲛⲑⲉⲟⲥ",
+    "englishTransliteration": "syntheos",
+    "variants": [
+      {
+        "word": "-ou",
+        "copticWord": "-ⲟⲩ",
+        "englishTransliteration": "-ou"
+      }
+    ],
+    "gloss": "With God's help or blessing, as God helps",
+    "definition": "With God's help or blessing, as God helps"
+  },
+  {
+    "headword": "yeotokoc",
+    "copticWord": "ⲑⲉⲟⲧⲟⲕⲟⲥ",
+    "englishTransliteration": "theotokos",
+    "variants": [
+      {
+        "word": "-dokoc",
+        "copticWord": "-ⲇⲟⲕⲟⲥ",
+        "englishTransliteration": "-dokos"
+      }
+    ],
+    "partOfSpeech": "f",
+    "gloss": "Mother of God",
+    "definition": "Mother of God"
+  },
+  {
+    "headword": "yahm",
+    "copticWord": "ⲑⲁϩⲙ",
+    "englishTransliteration": "thahm",
+    "gloss": "To invite",
+    "definition": "To invite",
+    "crossReference": {
+      "target": "ywhem",
+      "gloss": "To invite"
+    }
+  },
+  {
+    "headword": "yahc",
+    "copticWord": "ⲑⲁϩⲥ",
+    "englishTransliteration": "thahs",
+    "gloss": "To anoint",
+    "definition": "To anoint",
+    "crossReference": {
+      "target": "ywhc",
+      "gloss": "To anoint"
+    }
+  },
+  {
+    "headword": "yahc=",
+    "copticWord": "ⲑⲁϩⲥ",
+    "englishTransliteration": "thahs",
+    "gloss": "To anoint",
+    "definition": "To anoint",
+    "crossReference": {
+      "target": "ywhc",
+      "gloss": "To anoint"
+    }
+  },
+  {
+    "headword": "yba",
+    "copticWord": "ⲑⲃⲁ",
+    "englishTransliteration": "thva",
+    "reference": "399a",
+    "partOfSpeech": "m",
+    "gloss": "Ten thousand",
+    "definition": "Ten thousand"
+  },
+  {
+    "headword": "ybai",
+    "copticWord": "ⲑⲃⲁⲓ",
+    "englishTransliteration": "thvai",
+    "gloss": "Lintel",
+    "definition": "Lintel",
+    "crossReference": {
+      "target": "youai",
+      "gloss": "Lintel"
+    }
+  },
+  {
+    "headword": "ybal",
+    "copticWord": "ⲑⲃⲁⲗ",
+    "englishTransliteration": "thval",
+    "gloss": "Fold for sheep",
+    "definition": "Fold for sheep",
+    "crossReference": {
+      "target": "yb/l",
+      "gloss": "Fold for sheep"
+    }
+  },
+  {
+    "headword": "yeoceb/c",
+    "copticWord": "ⲑⲉⲟⲥⲉⲃⲏⲥ",
+    "englishTransliteration": "theosevis",
+    "partOfSpeech": "m",
+    "gloss": "God-fearing person, religious",
+    "definition": "God-fearing person, religious"
+  },
+  {
+    "headword": "yb/l",
+    "copticWord": "ⲑⲃⲏⲗ",
+    "englishTransliteration": "thvil",
+    "reference": "400b",
+    "partOfSpeech": "m",
+    "gloss": "Fold for sheep",
+    "definition": "Fold for sheep"
+  },
+  {
+    "headword": "yeoviloc",
+    "copticWord": "ⲑⲉⲟⲫⲓⲗⲟⲥ",
+    "englishTransliteration": "theofilos",
+    "variants": [
+      {
+        "word": "-vile",
+        "copticWord": "-ⲫⲓⲗⲉ",
+        "englishTransliteration": "-file"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "Dear to the gods, God-loving",
+    "definition": "Dear to the gods, God-loving"
+  },
+  {
+    "headword": "yeatron",
+    "copticWord": "ⲑⲉⲁⲧⲣⲟⲛ",
+    "englishTransliteration": "theatron",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Theater, Amphitheater",
+    "definition": "Theater, Amphitheater"
+  },
+  {
+    "headword": "yeatrikoc",
+    "copticWord": "ⲑⲉⲁⲧⲣⲓⲕⲟⲥ",
+    "englishTransliteration": "theatrikos",
+    "partOfSpeech": "adj",
+    "gloss": "Theatrical",
+    "definition": "Theatrical"
+  },
+  {
+    "headword": "viloyeoc",
+    "copticWord": "ⲫⲓⲗⲟⲑⲉⲟⲥ",
+    "englishTransliteration": "filotheos",
+    "partOfSpeech": "m",
+    "gloss": "God-loving, pious person",
+    "definition": "God-loving, pious person"
+  }
+]

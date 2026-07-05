@@ -1,0 +1,436 @@
+[
+  {
+    "headword": "(2) h/mi",
+    "copticWord": "ϩⲏⲙⲓ",
+    "englishTransliteration": "himi",
+    "variants": [
+      {
+        "word": "hemi",
+        "copticWord": "ϩⲉⲙⲓ",
+        "englishTransliteration": "hemi"
+      }
+    ],
+    "reference": "676a",
+    "partOfSpeech": "m",
+    "gloss": "Dowery of divorced wife",
+    "definition": "Dowery of divorced wife",
+    "senses": [
+      {
+        "label": "h/ph/t h/t",
+        "gloss": "---: m. Confidence",
+        "definition": "ebol: vb. To loosen heart, relax, be careless; (Q) v. (1)hwp - To be hidden. h/pi v. (1)hwp - Crypt. (1)h/t, hy/=, eht/=: (714a); m. Heart, mind; i e-: vb. To come to senses; nouwt: m. Single heart, one mind; meth/t: f. Unianimity; b: m. Two hearts; adj. Double minded; erh/t b: vb. To be of two minds, be doubtful; nwni, met-: mf. Stony-heartedness; ath/t: adj. Without mind, senseless; balh/t: adj. Open, simple-minded; remnh/t: m. Man of heart, wise man; se nh/t: m. Grief; ,w nh/t, ,a nh/t: vb. To set heart, trust; e-: vb. To set heart upon;"
+      }
+    ]
+  },
+  {
+    "headword": "hay/",
+    "copticWord": "ϩⲁⲑⲏ",
+    "englishTransliteration": "hathi",
+    "gloss": "prep. In front of, before",
+    "definition": "prep. In front of, before"
+  },
+  {
+    "headword": "hiy/",
+    "copticWord": "ϩⲓⲑⲏ",
+    "englishTransliteration": "hithi",
+    "gloss": "prep. To, at front, forward",
+    "definition": "prep. To, at front, forward"
+  },
+  {
+    "headword": "icjen h/",
+    "copticWord": "ⲓⲥϫⲉⲛ ϩⲏ",
+    "englishTransliteration": "isjen hi",
+    "gloss": "From beginning",
+    "definition": "From beginning"
+  },
+  {
+    "headword": "(2) h/",
+    "copticWord": "ϩⲏ",
+    "englishTransliteration": "hi",
+    "variants": [
+      {
+        "word": "he",
+        "copticWord": "ϩⲉ",
+        "englishTransliteration": "he"
+      },
+      {
+        "word": "h",
+        "copticWord": "ϩ",
+        "englishTransliteration": "h"
+      }
+    ],
+    "reference": "643b",
+    "partOfSpeech": "m",
+    "gloss": "Season",
+    "definition": "Season"
+  },
+  {
+    "headword": "henoufi",
+    "copticWord": "ϩⲉⲛⲟⲩϥⲓ",
+    "englishTransliteration": "henoufi",
+    "partOfSpeech": "adj",
+    "gloss": "Good season, plenty",
+    "definition": "Good season, plenty"
+  },
+  {
+    "headword": "oi nh/",
+    "copticWord": "ⲟⲓ ⲛϩⲏ",
+    "englishTransliteration": "oi nhi",
+    "partOfSpeech": "vb",
+    "gloss": "To be in plenty",
+    "definition": "To be in plenty"
+  },
+  {
+    "headword": "met",
+    "copticWord": "ⲙⲉⲧ",
+    "englishTransliteration": "met",
+    "variants": [
+      {
+        "word": "ah/t",
+        "copticWord": "ⲁϩⲏⲧ",
+        "englishTransliteration": "ahit"
+      }
+    ],
+    "partOfSpeech": "f",
+    "gloss": "Reason, sense",
+    "definition": "Reason, sense"
+  },
+  {
+    "headword": "h/bi",
+    "copticWord": "ϩⲏⲃⲓ",
+    "englishTransliteration": "heebi",
+    "variants": [
+      {
+        "word": "h/ibi",
+        "copticWord": "ϩⲏⲓⲃⲓ",
+        "englishTransliteration": "hieebi"
+      },
+      {
+        "word": "q/bi",
+        "copticWord": "ϧⲏⲃⲓ",
+        "englishTransliteration": "kheebi"
+      },
+      {
+        "word": "q/ibi",
+        "copticWord": "ϧⲏⲓⲃⲓ",
+        "englishTransliteration": "khieebi"
+      }
+    ],
+    "reference": "655a",
+    "partOfSpeech": "mf",
+    "gloss": "Grief, mouring",
+    "definition": "Grief, mouring",
+    "senses": [
+      {
+        "label": "erh/bi",
+        "partOfSpeech": "vb",
+        "gloss": "To grieve, mourn",
+        "definition": "To grieve, mourn"
+      }
+    ]
+  },
+  {
+    "headword": "er",
+    "copticWord": "ⲉⲣ",
+    "englishTransliteration": "er",
+    "variants": [
+      {
+        "word": "iri nh/t",
+        "copticWord": "ⲓⲣⲓ ⲛϩⲏⲧ",
+        "englishTransliteration": "iri nhit"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To reflect, criticize, repent, regret",
+    "definition": "To reflect, criticize, repent, regret"
+  },
+  {
+    "headword": "h/t cemni",
+    "copticWord": "ϩⲏⲧ ⲥⲉⲙⲛⲓ",
+    "englishTransliteration": "hit semni",
+    "partOfSpeech": "m",
+    "gloss": "Heart be established, mind steadied",
+    "definition": "]h/t, nh/t: vb. To pay heed, observe;"
+  },
+  {
+    "headword": "h/i",
+    "copticWord": "ϩⲏⲓ",
+    "englishTransliteration": "hii",
+    "gloss": "v. hei - To fall",
+    "definition": "v. hei - To fall"
+  },
+  {
+    "headword": "h/ibi",
+    "copticWord": "ϩⲏⲓⲃⲓ",
+    "englishTransliteration": "hieebi",
+    "gloss": "Grief",
+    "definition": "Grief",
+    "crossReference": {
+      "target": "h/bi",
+      "gloss": "Grief"
+    }
+  },
+  {
+    "headword": "h/ki",
+    "copticWord": "ϩⲏⲕⲓ",
+    "englishTransliteration": "hiki",
+    "gloss": "Poor",
+    "definition": "Poor",
+    "crossReference": {
+      "target": "hko",
+      "gloss": "Poor"
+    }
+  },
+  {
+    "headword": "e",
+    "copticWord": "ⲉ",
+    "englishTransliteration": "e",
+    "partOfSpeech": "vb",
+    "gloss": "To give mind, devote self to, give heed to, be careful of",
+    "definition": "To give mind, devote self to, give heed to, be careful of"
+  },
+  {
+    "headword": "metat]ht/f",
+    "copticWord": "ⲙⲉⲧⲁⲧϯϩⲧⲏϥ",
+    "englishTransliteration": "metattihtif",
+    "partOfSpeech": "f",
+    "gloss": "Heedlessness",
+    "definition": "Heedlessness"
+  },
+  {
+    "headword": "jin]h/t",
+    "copticWord": "ϫⲓⲛϯϩⲏⲧ",
+    "englishTransliteration": "jintihit",
+    "partOfSpeech": "m",
+    "gloss": "Observation",
+    "definition": "Observation"
+  },
+  {
+    "headword": "h/l",
+    "copticWord": "ϩⲏⲗ",
+    "englishTransliteration": "hil",
+    "gloss": "v. (1)hwl - To be flown",
+    "definition": "v. (1)hwl - To be flown"
+  },
+  {
+    "headword": "h/m/",
+    "copticWord": "ϩⲏⲙⲏ",
+    "englishTransliteration": "himi",
+    "gloss": "Fare",
+    "definition": "Fare",
+    "crossReference": {
+      "target": "(1)h/mi",
+      "gloss": "Fare"
+    }
+  },
+  {
+    "headword": "senh/t",
+    "copticWord": "ϣⲉⲛϩⲏⲧ",
+    "englishTransliteration": "shenhit",
+    "variants": [
+      {
+        "word": "sanh/t",
+        "copticWord": "ϣⲁⲛϩⲏⲧ",
+        "englishTransliteration": "shanhit"
+      },
+      {
+        "word": "hanht/=",
+        "copticWord": "ϩⲁⲛϩⲧⲏ",
+        "englishTransliteration": "hanhti"
+      },
+      {
+        "word": "sanaht/=",
+        "copticWord": "ϣⲁⲛⲁϩⲧⲏ",
+        "englishTransliteration": "shanahti"
+      }
+    ],
+    "partOfSpeech": "adj",
+    "gloss": "Pitful of heart",
+    "definition": "vb. To have pity;"
+  },
+  {
+    "headword": "(1) h/mi",
+    "copticWord": "ϩⲏⲙⲓ",
+    "englishTransliteration": "himi",
+    "variants": [
+      {
+        "word": "hemi",
+        "copticWord": "ϩⲉⲙⲓ",
+        "englishTransliteration": "hemi"
+      },
+      {
+        "word": "him/",
+        "copticWord": "ϩⲓⲙⲏ",
+        "englishTransliteration": "himi"
+      },
+      {
+        "word": "h/m/",
+        "copticWord": "ϩⲏⲙⲏ",
+        "englishTransliteration": "himi"
+      }
+    ],
+    "reference": "675b",
+    "partOfSpeech": "f",
+    "gloss": "Fare, freight",
+    "definition": "Fare, freight",
+    "senses": [
+      {
+        "label": "]h/mi",
+        "partOfSpeech": "vb",
+        "gloss": "To pay fare",
+        "definition": "To pay fare"
+      }
+    ]
+  },
+  {
+    "headword": "atsenh/t",
+    "copticWord": "ⲁⲧϣⲉⲛϩⲏⲧ",
+    "englishTransliteration": "atshenhit",
+    "partOfSpeech": "adj",
+    "gloss": "Pitiless",
+    "definition": "Pitiless"
+  },
+  {
+    "headword": "metsenh/t",
+    "copticWord": "ⲙⲉⲧϣⲉⲛϩⲏⲧ",
+    "englishTransliteration": "metshenhit",
+    "partOfSpeech": "f",
+    "gloss": "Pity, mercy",
+    "definition": "Pity, mercy"
+  },
+  {
+    "headword": "refsenh/t",
+    "copticWord": "ⲣⲉϥϣⲉⲛϩⲏⲧ",
+    "englishTransliteration": "refshenhit",
+    "partOfSpeech": "m",
+    "gloss": "Compassionate person",
+    "definition": "Compassionate person"
+  },
+  {
+    "headword": "(2) h/t",
+    "copticWord": "ϩⲏⲧ",
+    "englishTransliteration": "hit",
+    "variants": [
+      {
+        "word": "hy/=",
+        "copticWord": "ϩⲑⲏ",
+        "englishTransliteration": "hthi"
+      },
+      {
+        "word": "h/t=",
+        "copticWord": "ϩⲏⲧ",
+        "englishTransliteration": "hit"
+      }
+    ],
+    "reference": "718a",
+    "partOfSpeech": "m",
+    "gloss": "Tip, edge",
+    "definition": "Tip, edge"
+  },
+  {
+    "headword": "h/t=",
+    "copticWord": "ϩⲏⲧ",
+    "englishTransliteration": "hit",
+    "gloss": "Beginning",
+    "definition": "Beginning",
+    "crossReference": {
+      "target": "h/",
+      "gloss": "Beginning"
+    }
+  },
+  {
+    "headword": "h/ou",
+    "copticWord": "ϩⲏⲟⲩ",
+    "englishTransliteration": "hiou",
+    "reference": "729a",
+    "partOfSpeech": "m",
+    "gloss": "Profit, usefulness",
+    "definition": "Profit, usefulness",
+    "senses": [
+      {
+        "label": "]h/ou",
+        "gloss": "vi. To give profit, benefit",
+        "definition": "jveh/ou: vb. To acquire gain; jemh/ou: vb. To find profit, gain;"
+      },
+      {
+        "label": "refjemh/ou",
+        "partOfSpeech": "m",
+        "gloss": "One who finds gain",
+        "definition": "One who finds gain"
+      }
+    ]
+  },
+  {
+    "headword": "maih/ou",
+    "copticWord": "ⲙⲁⲓϩⲏⲟⲩ",
+    "englishTransliteration": "maihiou",
+    "partOfSpeech": "adj",
+    "gloss": "Profit-loving",
+    "definition": "Profit-loving"
+  },
+  {
+    "headword": "erh/ou",
+    "copticWord": "ⲉⲣϩⲏⲟⲩ",
+    "englishTransliteration": "erhiou",
+    "partOfSpeech": "vb",
+    "gloss": "To profit",
+    "definition": "To profit"
+  },
+  {
+    "headword": "h/s",
+    "copticWord": "ϩⲏϣ",
+    "englishTransliteration": "hish",
+    "gloss": "(Q) v. hws - To be in distress. hy/= v. (1)h/t - Heart",
+    "definition": "(Q) v. hws - To be in distress. hy/= v. (1)h/t - Heart"
+  },
+  {
+    "headword": "pl. ehywr",
+    "copticWord": "ⲡⲗ. ⲉϩⲑⲱⲣ",
+    "englishTransliteration": "pl. ehthōr",
+    "variants": [
+      {
+        "word": "hyor",
+        "copticWord": "ϩⲑⲟⲣ",
+        "englishTransliteration": "hthor"
+      }
+    ],
+    "reference": "723a",
+    "partOfSpeech": "m",
+    "gloss": "Horse",
+    "definition": "f. mare"
+  },
+  {
+    "headword": "refnhyo",
+    "copticWord": "ⲣⲉϥⲛϩⲑⲟ",
+    "englishTransliteration": "refnhtho",
+    "partOfSpeech": "m",
+    "gloss": "Horseman",
+    "definition": "Horseman"
+  },
+  {
+    "headword": "[acihyo",
+    "copticWord": "ϭⲁⲥⲓϩⲑⲟ",
+    "englishTransliteration": "chasihtho",
+    "variants": [
+      {
+        "word": "-nhyo",
+        "copticWord": "-ⲛϩⲑⲟ",
+        "englishTransliteration": "-nhtho"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "One raised on a horse, horse-rider",
+    "definition": "One raised on a horse, horse-rider"
+  },
+  {
+    "headword": "hyor",
+    "copticWord": "ϩⲑⲟⲣ",
+    "englishTransliteration": "hthor",
+    "gloss": "Horses. (1)hi: (643a)",
+    "definition": "(rare) vi. To thresh, beat, rub;",
+    "crossReference": {
+      "target": "hyo",
+      "gloss": "Horses. (1)hi: (643a)"
+    }
+  }
+]

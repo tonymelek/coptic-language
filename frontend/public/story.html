@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Our story — Coptic Language</title>
+    <meta name="description" content="Who built Coptic Language and why — from a personal search for better dictionary and script tools to an open platform for the community." />
+    <meta name="theme-color" content="#722F37" />
+    <link rel="icon" href="/favicon.ico" sizes="48x48" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <script src="/tailwind.cdn.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="/static_style.css" />
+  </head>
+  <body class="font-sans antialiased bg-slate-50 text-slate-900 flex flex-col min-h-screen">
+
+    <header class="bg-burgundy-900 border-b-4 border-gold sticky top-0 z-50 shadow-md">
+      <nav class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between relative">
+        <div class="flex items-center space-x-8">
+          <a href="/" class="flex items-center gap-2.5 sm:gap-3 text-xl font-bold tracking-tight text-gold hover:text-white transition sm:text-2xl no-underline">
+            <img src="/images/logo-gold.png" alt="" class="h-9 w-9 sm:h-10 sm:w-10 shrink-0" width="40" height="40" decoding="async" />
+            <span>COPTIC LANGUAGE</span>
+          </a>
+          <div class="hidden md:flex items-center space-x-6 text-sm font-medium">
+            <a href="/about.html" class="text-white/90 hover:text-gold transition">About</a>
+            <a href="/story.html" class="text-gold">Story</a>
+            <a href="/contact.html" class="text-white/90 hover:text-gold transition">Contact</a>
+            <a href="/support.html" class="text-white/90 hover:text-gold transition">Support</a>
+          </div>
+        </div>
+        <button id="menu-toggle" type="button" aria-expanded="false" aria-label="Toggle navigation menu"
+          class="md:hidden inline-flex items-center justify-center p-2 rounded-md text-white/80 hover:text-gold hover:bg-burgundy-800 transition">
+          <svg id="hamburger-icon" class="h-6 w-6 block" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+          </svg>
+          <svg id="close-icon" class="h-6 w-6 hidden" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+          </svg>
+        </button>
+        <div id="mobile-menu" class="hidden absolute top-16 left-0 w-full bg-burgundy-800 border-b border-gold/30 shadow-xl flex-col px-4 py-4 space-y-3 font-medium md:hidden z-40">
+          <a href="/about.html" class="px-3 py-2 rounded-md text-white hover:text-gold text-sm">About</a>
+          <a href="/story.html" class="px-3 py-2 rounded-md text-gold text-sm">Story</a>
+          <a href="/contact.html" class="px-3 py-2 rounded-md text-white hover:text-gold text-sm">Contact</a>
+          <a href="/support.html" class="px-3 py-2 rounded-md text-white hover:text-gold text-sm">Support</a>
+        </div>
+      </nav>
+    </header>
+
+    <main class="grow max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-16 w-full">
+      <div class="text-center mb-12">
+        <h1 class="text-3xl font-extrabold tracking-tight text-burgundy-900 sm:text-4xl">Our story</h1>
+        <p class="mt-3 text-lg text-slate-700">Who built this, and why it exists.</p>
+        <div class="w-12 h-1 bg-gold mx-auto mt-4 rounded-full"></div>
+      </div>
+
+      <article class="space-y-6 text-slate-800 text-justify leading-relaxed">
+        <h2 class="text-xl font-bold text-burgundy-900 pt-2">Who I am</h2>
+        <p>
+          I am a software developer with a deep interest in Coptic language and heritage. Like many learners
+          outside Egypt, I came to the language through church liturgy, reading, and curiosity about the last
+          stage of Ancient Egyptian — not through a formal classroom alone.
+        </p>
+        <p>
+          I am not a professional linguist or a clergy member. I build tools because I needed them myself:
+          faster lookup, readable Unicode, and pronunciation help while studying texts that still use legacy
+          fonts and scattered reference books.
+        </p>
+
+        <div class="bg-burgundy-50 border-l-4 border-burgundy-700 p-6 rounded-r-xl">
+          <h3 class="text-lg font-bold text-burgundy-900 mb-1">Why this is personal</h3>
+          <p class="text-sm text-slate-700 leading-relaxed">
+            Coptic belongs to a living community — in Egypt and across a global diaspora. I wanted work that
+            serves that community openly rather than locking dictionaries and converters behind closed formats
+            or one-off scripts only I could run.
+          </p>
+        </div>
+
+        <h2 class="text-xl font-bold text-burgundy-900 pt-2">Why I started</h2>
+        <p>
+          It began with frustration at ordinary tasks. Looking up a word meant flipping through PDF scans or
+          guessing how a headword was spelled in dictionary Latin. Converting Antonios-font text to Unicode was
+          manual and error-prone. Pronunciation rules were spread across notes, books, and audio with no single
+          place to practice.
+        </p>
+        <p>
+          The classical dictionaries — especially Crum — are extraordinary, but they were not built for how we
+          search today. I started extracting and structuring entries so I could search by Coptic word,
+          transliteration, or meaning in one place.
+        </p>
+
+        <h2 class="text-xl font-bold text-burgundy-900 pt-2">What grew from that</h2>
+        <p>
+          One script to parse a page became a pipeline: Adobe extract → structured JSON → searchable dictionary
+          pages and indexes. Alongside that came <strong>coptic-antonios-unicode</strong> for script conversion and
+          <strong>coptic-pronounce</strong> for Bohairic pronunciation — small libraries I open-sourced so
+          others could reuse them in their own apps and research.
+        </p>
+        <p>
+          This site ties those pieces together under <a href="/app/dictionary" class="text-burgundy-700 font-medium">/app</a>:
+          dictionary search, Unicode conversion, and pronunciation practice in interfaces meant for daily use.
+        </p>
+
+        <h2 class="text-xl font-bold text-burgundy-900 pt-2">What I hope for</h2>
+        <p>
+          I hope students, researchers, and families in the diaspora spend less time fighting tools and more
+          time with the language itself — hymns, manuscripts, conversation, and prayer. I hope corrections and
+          contributions from readers make the data more accurate over time.
+        </p>
+        <p>
+          If you spot an error, have a manuscript source to suggest, or want to help improve the codebase,
+          please <a href="/contact.html" class="text-burgundy-700 font-medium">get in touch</a>.
+        </p>
+
+        <p class="pt-4 text-center text-sm text-slate-600">
+          For the language itself and our mission, see
+          <a href="/about.html" class="text-burgundy-700 font-medium">About Coptic</a>.
+        </p>
+      </article>
+    </main>
+
+    <footer class="site-footer pt-12 pb-10 px-4 sm:px-6 lg:px-8">
+      <nav class="max-w-6xl mx-auto footer-nav pb-8 mb-8 border-b footer-divider" aria-label="Footer">
+        <a href="/">Home</a>
+        <a href="/about.html">About</a>
+        <a href="/story.html" class="footer-active">Story</a>
+        <a href="/contact.html">Contact</a>
+        <a href="/support.html">Support</a>
+      </nav>
+      <p class="text-center footer-copy">&copy; 2026 Coptic Language</p>
+    </footer>
+
+    <script src="/site.js" defer></script>
+  </body>
+</html>

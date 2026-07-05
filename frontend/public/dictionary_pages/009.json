@@ -1,0 +1,499 @@
+[
+  {
+    "headword": "(1) an",
+    "copticWord": "ⲁⲛ",
+    "englishTransliteration": "an",
+    "reference": "10b",
+    "partOfSpeech": "m",
+    "gloss": "lit. The great one of",
+    "definition": "lit. The great one of"
+  },
+  {
+    "headword": "(2) an",
+    "copticWord": "ⲁⲛ",
+    "englishTransliteration": "an",
+    "variants": [
+      {
+        "type": "pl.",
+        "word": "anan",
+        "copticWord": "ⲁⲛⲁⲛ",
+        "englishTransliteration": "anan"
+      }
+    ],
+    "reference": "10b",
+    "gloss": "Prfx in collective numerals",
+    "definition": "Prfx in collective numerals"
+  },
+  {
+    "headword": "anam/i",
+    "copticWord": "ⲁⲛⲁⲙⲏⲓ",
+    "englishTransliteration": "anamii",
+    "reference": "524a",
+    "partOfSpeech": "m",
+    "gloss": "Precious stone, jewel. anan- v. an- - prfx in collective numerals. anantwri v. antwri - Minor. analum'ic = anal/'ic - Ascension",
+    "definition": "Precious stone, jewel. anan- v. an- - prfx in collective numerals. anantwri v. antwri - Minor. analum'ic = anal/'ic - Ascension"
+  },
+  {
+    "headword": "(3) an",
+    "copticWord": "ⲁⲛ",
+    "englishTransliteration": "an",
+    "reference": "10b",
+    "gloss": "neg. part. following subj. and predicate",
+    "definition": "not."
+  },
+  {
+    "headword": "(1) anapai",
+    "copticWord": "ⲁⲛⲁⲡⲁⲓ",
+    "englishTransliteration": "anapai",
+    "reference": "12a",
+    "partOfSpeech": "f",
+    "gloss": "Hen",
+    "definition": "Hen"
+  },
+  {
+    "headword": "(2) anapai = ia",
+    "copticWord": "ⲁⲛⲁⲡⲁⲓ  ⲓ̅ⲁ",
+    "englishTransliteration": "anapai  i̅a",
+    "reference": "12a"
+  },
+  {
+    "headword": "m. Valley. anapaucic",
+    "copticWord": "ⲙ. Ⲫⲁⲗⲗⲉⲑ. ⲁⲛⲁⲡⲁⲩⲥⲓⲥ",
+    "englishTransliteration": "m. Falleth. anapavsis",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Repose, rest, ease. anarouhi v. rouhi - Evening",
+    "definition": "Repose, rest, ease. anarouhi v. rouhi - Evening"
+  },
+  {
+    "headword": "(4) an",
+    "copticWord": "ⲁⲛ",
+    "englishTransliteration": "an",
+    "reference": "56b",
+    "gloss": "interrog. part., precedes subj",
+    "definition": "interrog. part., precedes subj"
+  },
+  {
+    "headword": "ana",
+    "copticWord": "ⲁⲛⲁ",
+    "englishTransliteration": "ana",
+    "gloss": "Stone",
+    "definition": "Stone",
+    "crossReference": {
+      "target": "wni",
+      "gloss": "Stone"
+    }
+  },
+  {
+    "headword": "anabaymoc",
+    "copticWord": "ⲁⲛⲁⲃⲁⲑⲙⲟⲥ",
+    "englishTransliteration": "anavathmos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Flight of steps, stair",
+    "definition": "Flight of steps, stair"
+  },
+  {
+    "headword": "anar",
+    "copticWord": "ⲁⲛⲁⲣ",
+    "englishTransliteration": "anar",
+    "variants": [
+      {
+        "word": "ia",
+        "copticWord": "ⲓⲁ",
+        "englishTransliteration": "ia"
+      },
+      {
+        "word": "-ac",
+        "copticWord": "-ⲁⲥ",
+        "englishTransliteration": "-as"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Anarchy, lawlessness",
+    "definition": "Anarchy, lawlessness"
+  },
+  {
+    "headword": "anar,iac",
+    "copticWord": "ⲁⲛⲁⲣⲭⲓⲁⲥ",
+    "englishTransliteration": "anarkhias",
+    "gloss": "Anarchy",
+    "definition": "Anarchy",
+    "crossReference": {
+      "target": "anar,ia",
+      "gloss": "Anarchy"
+    }
+  },
+  {
+    "headword": "anabat/c",
+    "copticWord": "ⲁⲛⲁⲃⲁⲧⲏⲥ",
+    "englishTransliteration": "anavatis",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Horseman, rider (cavalry)",
+    "definition": "Horseman, rider (cavalry)"
+  },
+  {
+    "headword": "anar,on",
+    "copticWord": "ⲁⲛⲁⲣⲭⲟⲛ",
+    "englishTransliteration": "anarkhon",
+    "gloss": "Without beginning",
+    "definition": "Without beginning",
+    "crossReference": {
+      "target": "anar,oc",
+      "gloss": "Without beginning"
+    }
+  },
+  {
+    "headword": "angkazin",
+    "copticWord": "ⲁⲛⲅⲕⲁⲍⲓⲛ",
+    "englishTransliteration": "angkazin",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "v. (w/ er-) To force, constrain",
+    "definition": "v. (w/ er-) To force, constrain"
+  },
+  {
+    "headword": "anagkeon",
+    "copticWord": "ⲁⲛⲁⲅⲕⲉⲟⲛ",
+    "englishTransliteration": "anagkeon",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Unknown",
+    "definition": "Unknown"
+  },
+  {
+    "headword": "anar,wc",
+    "copticWord": "ⲁⲛⲁⲣⲭⲱⲥ",
+    "englishTransliteration": "anarkhōs",
+    "gloss": "Without beginning",
+    "definition": "Without beginning",
+    "crossReference": {
+      "target": "anar,oc",
+      "gloss": "Without beginning"
+    }
+  },
+  {
+    "headword": "anagk/",
+    "copticWord": "ⲁⲛⲁⲅⲕⲏ",
+    "englishTransliteration": "anagki",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Force, constraint, necessity, distress, violence, suffering, compulsion by force",
+    "definition": "Force, constraint, necessity, distress, violence, suffering, compulsion by force"
+  },
+  {
+    "headword": "anactacic",
+    "copticWord": "ⲁⲛⲁⲥⲧⲁⲥⲓⲥ",
+    "englishTransliteration": "anastasis",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Resurrection, awa-",
+    "definition": "Resurrection, awa-"
+  },
+  {
+    "headword": "anagnwcma",
+    "copticWord": "ⲁⲛⲁⲅⲛⲱⲥⲙⲁ",
+    "englishTransliteration": "anagnōsma",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "A passage read aloud, lecture, reading",
+    "definition": "A passage read aloud, lecture, reading"
+  },
+  {
+    "headword": "kening",
+    "copticWord": "ⲕⲉⲛⲓⲛⲅ",
+    "englishTransliteration": "kening",
+    "variants": [
+      {
+        "word": "standing up; feast of resurrection. anactrov/",
+        "copticWord": "ϣⲧⲁⲛⲇⲓⲛⲅ ⲩⲡⲑ ϥⲉⲁϣⲧ ⲟϥ ⲣⲉϣⲩⲣⲣⲉⲥⲧⲓⲟⲛ. ⲁⲛⲁⲥⲧⲣⲟⲫⲏ",
+        "englishTransliteration": "shtanding ypth feasht of reshyrrestion. anastrofi"
+      }
+    ],
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Unknown",
+    "definition": "Unknown"
+  },
+  {
+    "headword": "anagnwct/c",
+    "copticWord": "ⲁⲛⲁⲅⲛⲱⲥⲧⲏⲥ",
+    "englishTransliteration": "anagnōstis",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Reader",
+    "definition": "Reader"
+  },
+  {
+    "headword": "anatol/",
+    "copticWord": "ⲁⲛⲁⲧⲟⲗⲏ",
+    "englishTransliteration": "anatoli",
+    "variants": [
+      {
+        "word": "-/c",
+        "copticWord": "-ⲏⲥ",
+        "englishTransliteration": "-is"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "The rising of the sun or moon",
+    "definition": "east."
+  },
+  {
+    "headword": "anatol/c",
+    "copticWord": "ⲁⲛⲁⲧⲟⲗⲏⲥ",
+    "englishTransliteration": "anatolis",
+    "gloss": "East",
+    "definition": "East",
+    "crossReference": {
+      "target": "anatol/",
+      "gloss": "East"
+    }
+  },
+  {
+    "headword": "anayema",
+    "copticWord": "ⲁⲛⲁⲑⲉⲙⲁ",
+    "englishTransliteration": "anathema",
+    "partOfSpeech": "m",
+    "gloss": "An accursed thing, curse, excommunication, a person devoted to the devil",
+    "definition": "An accursed thing, curse, excommunication, a person devoted to the devil"
+  },
+  {
+    "headword": "anaus",
+    "copticWord": "ⲁⲛⲁⲩϣ",
+    "englishTransliteration": "anavsh",
+    "gloss": "Oath",
+    "definition": "Oath",
+    "crossReference": {
+      "target": "anas",
+      "gloss": "Oath"
+    }
+  },
+  {
+    "headword": "anay/ma",
+    "copticWord": "ⲁⲛⲁⲑⲏⲙⲁ",
+    "englishTransliteration": "anathima",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "A votive offering (set up in a temple)",
+    "definition": "A votive offering (set up in a temple)"
+  },
+  {
+    "headword": "anavora",
+    "copticWord": "ⲁⲛⲁⲫⲟⲣⲁ",
+    "englishTransliteration": "anafora",
+    "variants": [
+      {
+        "word": "-ac",
+        "copticWord": "-ⲁⲥ",
+        "englishTransliteration": "-as"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Offering, sacri-fice",
+    "definition": "liturgy."
+  },
+  {
+    "headword": "anavorac",
+    "copticWord": "ⲁⲛⲁⲫⲟⲣⲁⲥ",
+    "englishTransliteration": "anaforas",
+    "gloss": "Liturgy",
+    "definition": "Liturgy",
+    "crossReference": {
+      "target": "anavora",
+      "gloss": "Liturgy"
+    }
+  },
+  {
+    "headword": "anai",
+    "copticWord": "ⲁⲛⲁⲓ",
+    "englishTransliteration": "anai",
+    "reference": "11a",
+    "gloss": "vi. To be pleasing, pleasant, grow better",
+    "definition": "vi. To be pleasing, pleasant, grow better",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "Beauty",
+        "definition": "Beauty"
+      },
+      {
+        "label": "rana",
+        "gloss": "vi. To be pleased",
+        "definition": "vt. To please; ranaf: m. That which pleases; metranaf: f. Act of pleasing; refrana=: f. One who pleases; metrefrana=: f. Act of pleasing; jinranaf: fm. Meaning as last;"
+      },
+      {
+        "label": "ini",
+        "partOfSpeech": "adj",
+        "gloss": "Pleasant, always with ctoi = perfume",
+        "definition": "Pleasant, always with ctoi = perfume"
+      }
+    ]
+  },
+  {
+    "headword": "anas",
+    "copticWord": "ⲁⲛⲁϣ",
+    "englishTransliteration": "anash",
+    "variants": [
+      {
+        "type": "pl.",
+        "word": "anaus & sg as pl",
+        "copticWord": "ⲁⲛⲁⲩϣ & ϣⲅ ⲁϣ ⲡⲗ",
+        "englishTransliteration": "anavsh & shg ash pl"
+      }
+    ],
+    "reference": "12b",
+    "partOfSpeech": "m",
+    "gloss": "Oath",
+    "definition": "Oath",
+    "senses": [
+      {
+        "label": "metref]anas",
+        "partOfSpeech": "f",
+        "gloss": "A swearing",
+        "definition": "A swearing"
+      }
+    ]
+  },
+  {
+    "headword": "anahwr",
+    "copticWord": "ⲁⲛⲁϩⲱⲣ",
+    "englishTransliteration": "anahōr",
+    "gloss": "Storehouses",
+    "definition": "Storehouses",
+    "crossReference": {
+      "target": "aho",
+      "gloss": "Storehouses"
+    }
+  },
+  {
+    "headword": "andro",
+    "copticWord": "ⲁⲛⲇⲣⲟ",
+    "englishTransliteration": "andro",
+    "variants": [
+      {
+        "word": "-w",
+        "copticWord": "-ⲱ",
+        "englishTransliteration": "-ō"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Man, human",
+    "definition": "Man, human"
+  },
+  {
+    "headword": "andrw",
+    "copticWord": "ⲁⲛⲇⲣⲱ",
+    "englishTransliteration": "andrō",
+    "gloss": "Man",
+    "definition": "Man",
+    "crossReference": {
+      "target": "andro",
+      "gloss": "Man"
+    }
+  },
+  {
+    "headword": "anaiw",
+    "copticWord": "ⲁⲛⲁⲓⲱ",
+    "englishTransliteration": "anaiō",
+    "reference": "218b",
+    "partOfSpeech": "f",
+    "gloss": "Peg, stake (for tent ropes or ship hawsers)",
+    "definition": "Peg, stake (for tent ropes or ship hawsers)"
+  },
+  {
+    "headword": "anecy/toc",
+    "copticWord": "ⲁⲛⲉⲥⲑⲏⲧⲟⲥ",
+    "englishTransliteration": "anesthitos",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Unknown",
+    "definition": "Unknown"
+  },
+  {
+    "headword": "anakl/ton",
+    "copticWord": "ⲁⲛⲁⲕⲗⲏⲧⲟⲛ",
+    "englishTransliteration": "anakliton",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Unknown",
+    "definition": "Unknown"
+  },
+  {
+    "headword": "anelywn",
+    "copticWord": "ⲁⲛⲉⲗⲑⲱⲛ",
+    "englishTransliteration": "anelthōn",
+    "reference": "Gk?",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "gloss": "To rise, walk",
+    "definition": "To rise, walk"
+  },
+  {
+    "headword": "anal/m'ic",
+    "copticWord": "ⲁⲛⲁⲗⲏⲙⲯⲓⲥ",
+    "englishTransliteration": "analimpsis",
+    "gloss": "Ascension",
+    "definition": "Ascension",
+    "crossReference": {
+      "target": "nal/'ic",
+      "gloss": "Ascension"
+    }
+  },
+  {
+    "headword": "anemro",
+    "copticWord": "ⲁⲛⲉⲙⲣⲟ",
+    "englishTransliteration": "anemro",
+    "gloss": "Harbor",
+    "definition": "Harbor",
+    "crossReference": {
+      "target": "embrw",
+      "gloss": "Harbor"
+    }
+  },
+  {
+    "headword": "anz/b",
+    "copticWord": "ⲁⲛⲍⲏⲃ",
+    "englishTransliteration": "anzeeb",
+    "reference": "12a",
+    "partOfSpeech": "f",
+    "gloss": "School",
+    "definition": "School"
+  },
+  {
+    "headword": "anal/'ic",
+    "copticWord": "ⲁⲛⲁⲗⲏⲯⲓⲥ",
+    "englishTransliteration": "analipsis",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Feast of ascension, ascension",
+    "definition": "Feast of ascension, ascension"
+  },
+  {
+    "headword": "anyas",
+    "copticWord": "ⲁⲛⲑⲁϣ",
+    "englishTransliteration": "anthash",
+    "reference": "12b",
+    "partOfSpeech": "m",
+    "gloss": "Sneeze",
+    "definition": "Sneeze"
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "headword": "erjwri",
+    "copticWord": "ⲉⲣϫⲱⲣⲓ",
+    "englishTransliteration": "erjōri",
+    "partOfSpeech": "vb",
+    "gloss": "To be strong",
+    "definition": "To be strong"
+  },
+  {
+    "headword": "jemjwri",
+    "copticWord": "ϫⲉⲙϫⲱⲣⲓ",
+    "englishTransliteration": "jemjōri",
+    "partOfSpeech": "vb",
+    "gloss": "To use strength, force",
+    "definition": "To use strength, force"
+  },
+  {
+    "headword": "[oci (Q) v. (1)[ici - To be elevated. [ocjec",
+    "copticWord": "ϭⲟⲥⲓ (Ϧ) ⲫ. (1)ϭⲓⲥⲓ - Ⲧⲟ ⲃⲉ ⲉⲗⲉⲫⲁⲧⲉⲇ. ϭⲟⲥϫⲉⲥ",
+    "englishTransliteration": "chosi (Kh) f. (1)chisi - To ve elefated. chosjes",
+    "reference": "832b",
+    "gloss": "vi. To dance",
+    "definition": "vi. To dance"
+  },
+  {
+    "headword": "[ep",
+    "copticWord": "ϭⲉⲡ",
+    "englishTransliteration": "chep",
+    "variants": [
+      {
+        "word": "sepjwri",
+        "copticWord": "ϣⲉⲡϫⲱⲣⲓ",
+        "englishTransliteration": "shepjōri"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To use strength, force",
+    "definition": "To use strength, force"
+  },
+  {
+    "headword": "metjwri",
+    "copticWord": "ⲙⲉⲧϫⲱⲣⲓ",
+    "englishTransliteration": "metjōri",
+    "partOfSpeech": "f",
+    "gloss": "Strength, prowess, feat",
+    "definition": "Strength, prowess, feat"
+  },
+  {
+    "headword": "[ot[et",
+    "copticWord": "ϭⲟⲧϭⲉⲧ",
+    "englishTransliteration": "chotchet",
+    "variants": [
+      {
+        "word": "sotset",
+        "copticWord": "ϣⲟⲧϣⲉⲧ",
+        "englishTransliteration": "shotshet"
+      },
+      {
+        "word": "[et[wt",
+        "copticWord": "ϭⲉⲧϭⲱⲧ",
+        "englishTransliteration": "chetchōt"
+      },
+      {
+        "word": "[et-[wt=",
+        "copticWord": "ϭⲉⲧ-ϭⲱⲧ",
+        "englishTransliteration": "chet-chōt"
+      }
+    ],
+    "reference": "842b",
+    "gloss": "vt. To cut, smite, slaughter",
+    "definition": "vt. To cut, smite, slaughter",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "Cutting, slaughter",
+        "definition": "ref[ot[et: m. Slayer."
+      }
+    ]
+  },
+  {
+    "headword": "[rompi",
+    "copticWord": "ϭⲣⲟⲙⲡⲓ",
+    "englishTransliteration": "chrompi",
+    "reference": "828b",
+    "partOfSpeech": "mf",
+    "gloss": "Dove",
+    "definition": "Dove"
+  },
+  {
+    "headword": "[rompsal",
+    "copticWord": "ϭⲣⲟⲙⲡϣⲁⲗ",
+    "englishTransliteration": "chrompshal",
+    "variants": [
+      {
+        "word": "[rempsal",
+        "copticWord": "ϭⲣⲉⲙⲡϣⲁⲗ",
+        "englishTransliteration": "chrempshal"
+      }
+    ],
+    "partOfSpeech": "f",
+    "gloss": "Turtle-dove",
+    "definition": "Turtle-dove"
+  },
+  {
+    "headword": "[often",
+    "copticWord": "ϭⲟϥⲧⲉⲛ",
+    "englishTransliteration": "choften",
+    "reference": "796b",
+    "partOfSpeech": "n",
+    "gloss": "(w/ adv. n-) Headlong, over the edge",
+    "definition": "(w/ adv. n-) Headlong, over the edge"
+  },
+  {
+    "headword": "[rop",
+    "copticWord": "ϭⲣⲟⲡ",
+    "englishTransliteration": "chrop",
+    "reference": "786b",
+    "partOfSpeech": "m",
+    "gloss": "Obstacle, impediment",
+    "definition": "Obstacle, impediment",
+    "senses": [
+      {
+        "label": "er",
+        "partOfSpeech": "vb",
+        "gloss": "To be stumbling block, difficult",
+        "definition": "To be stumbling block, difficult"
+      },
+      {
+        "label": "][rop",
+        "partOfSpeech": "vb",
+        "gloss": "To give scandal, trip up",
+        "definition": "[i[rop: vb. To stumble, be impeded."
+      }
+    ]
+  },
+  {
+    "headword": "at[rop",
+    "copticWord": "ⲁⲧϭⲣⲟⲡ",
+    "englishTransliteration": "atchrop",
+    "partOfSpeech": "adj",
+    "gloss": "Unimpeded",
+    "definition": "Unimpeded"
+  },
+  {
+    "headword": "hi [often ehr/i",
+    "copticWord": "ϩⲓ ϭⲟϥⲧⲉⲛ ⲉϩⲣⲏⲓ",
+    "englishTransliteration": "hi choften ehrii",
+    "partOfSpeech": "vb",
+    "gloss": "To leap over",
+    "definition": "To leap over",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "Touching, contagion",
+        "definition": "Touching, contagion"
+      }
+    ]
+  },
+  {
+    "headword": "[oh",
+    "copticWord": "ϭⲟϩ",
+    "englishTransliteration": "choh",
+    "reference": "797a",
+    "gloss": "vi. To touch",
+    "definition": "vi. To touch"
+  },
+  {
+    "headword": "[oj=",
+    "copticWord": "ϭⲟϫ",
+    "englishTransliteration": "choj",
+    "gloss": "To be stained",
+    "definition": "To be stained",
+    "crossReference": {
+      "target": "[wj",
+      "gloss": "To be stained"
+    }
+  },
+  {
+    "headword": "[oji",
+    "copticWord": "ϭⲟϫⲓ",
+    "englishTransliteration": "choji",
+    "reference": "840b",
+    "gloss": "vi. To run",
+    "definition": "vi. To run",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "Course",
+        "definition": "Course"
+      },
+      {
+        "label": "man[oji",
+        "partOfSpeech": "m",
+        "gloss": "Place of running",
+        "definition": "Place of running"
+      },
+      {
+        "label": "ref[oji",
+        "partOfSpeech": "m",
+        "gloss": "Runner, pursuer, dispeller",
+        "definition": "jin[oji: Act of running."
+      }
+    ]
+  },
+  {
+    "headword": "[roh",
+    "copticWord": "ϭⲣⲟϩ",
+    "englishTransliteration": "chroh",
+    "variants": [
+      {
+        "word": "(Q) jorh",
+        "copticWord": "(Ϧ) ϫⲟⲣϩ",
+        "englishTransliteration": "(Kh) jorh"
+      }
+    ],
+    "reference": "829b",
+    "gloss": "vi. To be in want, needy, diminished",
+    "definition": "---: m. Want, need"
+  },
+  {
+    "headword": "at[roh",
+    "copticWord": "ⲁⲧϭⲣⲟϩ",
+    "englishTransliteration": "atchroh",
+    "partOfSpeech": "adj",
+    "gloss": "Without needs",
+    "definition": "Without needs"
+  },
+  {
+    "headword": "[rw",
+    "copticWord": "ϭⲣⲱ",
+    "englishTransliteration": "chrō",
+    "reference": "828a",
+    "partOfSpeech": "f",
+    "gloss": "Dew, fine rain",
+    "definition": "Dew, fine rain"
+  },
+  {
+    "headword": "[rwp",
+    "copticWord": "ϭⲣⲱⲡ",
+    "englishTransliteration": "chrōp",
+    "reference": "829a",
+    "partOfSpeech": "m",
+    "gloss": "Oven",
+    "definition": "Oven"
+  },
+  {
+    "headword": "[re",
+    "copticWord": "ϭⲣⲉ",
+    "englishTransliteration": "chre",
+    "variants": [
+      {
+        "word": "[r/",
+        "copticWord": "ϭⲣⲏ",
+        "englishTransliteration": "chri"
+      }
+    ],
+    "reference": "828a"
+  },
+  {
+    "headword": "f. Ladle. [rempsal v. [rompi - Turtle-dove. [r/",
+    "copticWord": "ϥ. Ⲗⲁⲇⲗⲉ. ϭⲣⲉⲙⲡϣⲁⲗ ⲫ. ϭⲣⲟⲙⲡⲓ - Ⲧⲩⲣⲧⲗⲉ-ⲇⲟⲫⲉ. ϭⲣⲏ",
+    "englishTransliteration": "f. Ladle. chrempshal f. chrompi - Tyrtle-dofe. chri",
+    "reference": "828a",
+    "gloss": "vi. To dig",
+    "definition": "vi. To dig"
+  },
+  {
+    "headword": "[top",
+    "copticWord": "ϭⲧⲟⲡ",
+    "englishTransliteration": "chtop",
+    "gloss": "Defeat",
+    "definition": "Defeat",
+    "crossReference": {
+      "target": "[wtp",
+      "gloss": "Defeat"
+    }
+  },
+  {
+    "headword": "[r/",
+    "copticWord": "ϭⲣⲏ",
+    "englishTransliteration": "chri",
+    "gloss": "Ladle",
+    "definition": "Ladle",
+    "crossReference": {
+      "target": "[re",
+      "gloss": "Ladle"
+    }
+  },
+  {
+    "headword": "[ou",
+    "copticWord": "ϭⲟⲩ",
+    "englishTransliteration": "chou",
+    "reference": "835a"
+  },
+  {
+    "headword": "n. An ingredient in poison. [oui",
+    "copticWord": "ⲛ. Ⲁⲛ ⲓⲛⲅⲣⲉⲇⲓⲉⲛⲧ ⲓⲛ ⲡⲟⲓϣⲟⲛ. ϭⲟⲩⲓ",
+    "englishTransliteration": "n. An ingredient in poishon. choui",
+    "reference": "797b",
+    "gloss": "vi. To limp, halt",
+    "definition": "vi. To limp, halt"
+  },
+  {
+    "headword": "[our",
+    "copticWord": "ϭⲟⲩⲣ",
+    "englishTransliteration": "chour",
+    "gloss": "Smoke",
+    "definition": "Smoke",
+    "crossReference": {
+      "target": "[wr",
+      "gloss": "Smoke"
+    }
+  },
+  {
+    "headword": "[ouj",
+    "copticWord": "ϭⲟⲩϫ",
+    "englishTransliteration": "chouj",
+    "reference": "843b",
+    "partOfSpeech": "n",
+    "gloss": "Swelling, boil",
+    "definition": "Swelling, boil"
+  },
+  {
+    "headword": "[r/pi",
+    "copticWord": "ϭⲣⲏⲡⲓ",
+    "englishTransliteration": "chripi",
+    "reference": "829a",
+    "partOfSpeech": "f",
+    "gloss": "Diadem",
+    "definition": "Diadem"
+  },
+  {
+    "headword": "scepter. [r/out (Q) v. [ro - To be victorious. [r/hi",
+    "copticWord": "ϣⲥⲉⲡⲧⲉⲣ. ϭⲣⲏⲟⲩⲧ (Ϧ) ⲫ. ϭⲣⲟ - Ⲧⲟ ⲃⲉ ⲫⲓⲥⲧⲟⲣⲓⲟⲩϣ. ϭⲣⲏϩⲓ",
+    "englishTransliteration": "shsepter. chriout (Kh) f. chro - To ve fistorioush. chrihi",
+    "reference": "830a"
+  },
+  {
+    "headword": "m. Rawness",
+    "copticWord": "ⲙ. Ⲣⲁⲱⲛⲉϣϣ",
+    "englishTransliteration": "m. Raōneshsh",
+    "variants": [
+      {
+        "word": "raw (fruit). [r/ji",
+        "copticWord": "ⲣⲁⲱ (ϥⲣⲩⲓⲧ). ϭⲣⲏϫⲓ",
+        "englishTransliteration": "raō (fryit). chriji"
+      }
+    ],
+    "reference": "832a",
+    "partOfSpeech": "f",
+    "gloss": "Dowry",
+    "definition": "Dowry"
+  },
+  {
+    "headword": "[wlem",
+    "copticWord": "ϭⲱⲗⲉⲙ",
+    "englishTransliteration": "chōlem",
+    "reference": "768b",
+    "partOfSpeech": "n",
+    "gloss": "Festivity, dissipation",
+    "definition": "distraction, care."
+  },
+  {
+    "headword": "[ro",
+    "copticWord": "ϭⲣⲟ",
+    "englishTransliteration": "chro",
+    "variants": [
+      {
+        "word": "(Q) [r/out",
+        "copticWord": "(Ϧ) ϭⲣⲏⲟⲩⲧ",
+        "englishTransliteration": "(Kh) chriout"
+      }
+    ],
+    "reference": "783a",
+    "gloss": "vi. To be, become strong, firm, victorious",
+    "definition": "--- e-: To be victorious upon, over;",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "Victory, strength",
+        "definition": "Victory, strength"
+      },
+      {
+        "label": "er[ro",
+        "partOfSpeech": "vb",
+        "gloss": "To be victorious",
+        "definition": "To be victorious"
+      },
+      {
+        "label": "at[ro",
+        "partOfSpeech": "adj",
+        "gloss": "Unconquerable",
+        "definition": "mai[ro: adj. Victory-loving; ref[ro: m. Victor;"
+      },
+      {
+        "label": "jwri",
+        "gloss": "vi. To be strong, hard, bold",
+        "definition": "--: n. Strong. ehote e-: Stronger than;"
+      }
+    ]
+  },
+  {
+    "headword": "[wlk",
+    "copticWord": "ϭⲱⲗⲕ",
+    "englishTransliteration": "chōlk",
+    "variants": [
+      {
+        "word": "[elk",
+        "copticWord": "ϭⲉⲗⲕ",
+        "englishTransliteration": "chelk"
+      },
+      {
+        "word": "[olk",
+        "copticWord": "ϭⲟⲗⲕ",
+        "englishTransliteration": "cholk"
+      },
+      {
+        "word": "[olk=",
+        "copticWord": "ϭⲟⲗⲕ",
+        "englishTransliteration": "cholk"
+      },
+      {
+        "word": "(Q) [olk",
+        "copticWord": "(Ϧ) ϭⲟⲗⲕ",
+        "englishTransliteration": "(Kh) cholk"
+      }
+    ],
+    "reference": "766b",
+    "gloss": "vi. To stretch, extend",
+    "definition": "---: m. Strain, tension;",
+    "senses": [
+      {
+        "label": "[lak",
+        "partOfSpeech": "m",
+        "gloss": "Stretching, strain, punishment",
+        "definition": "Stretching, strain, punishment"
+      },
+      {
+        "label": "[olkc",
+        "partOfSpeech": "m",
+        "gloss": "Strain (on cord), stringency (of exercises)",
+        "definition": "Strain (on cord), stringency (of exercises)"
+      }
+    ]
+  },
+  {
+    "headword": "[wlk=",
+    "copticWord": "ϭⲱⲗⲕ",
+    "englishTransliteration": "chōlk",
+    "gloss": "To be submerged",
+    "definition": "To be submerged",
+    "crossReference": {
+      "target": "jwlk",
+      "gloss": "To be submerged"
+    }
+  },
+  {
+    "headword": "(1) [wlp",
+    "copticWord": "ϭⲱⲗⲡ",
+    "englishTransliteration": "chōlp",
+    "variants": [
+      {
+        "word": "[olp=",
+        "copticWord": "ϭⲟⲗⲡ",
+        "englishTransliteration": "cholp"
+      }
+    ],
+    "reference": "812b",
+    "gloss": "vt. To create",
+    "definition": "vt. To create"
+  },
+  {
+    "headword": "(2) [wlp",
+    "copticWord": "ϭⲱⲗⲡ",
+    "englishTransliteration": "chōlp",
+    "reference": "812b",
+    "partOfSpeech": "m",
+    "gloss": "Faggot (used as) raft",
+    "definition": "Faggot (used as) raft"
+  }
+]

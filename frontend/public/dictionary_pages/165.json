@@ -1,0 +1,548 @@
+[
+  {
+    "headword": "jinveh",
+    "copticWord": "ϫⲓⲛⲫⲉϩ",
+    "englishTransliteration": "jinfeh",
+    "gloss": "Blight",
+    "definition": "Blight",
+    "crossReference": {
+      "target": "jimveh",
+      "gloss": "Blight"
+    }
+  },
+  {
+    "headword": "jinjin",
+    "copticWord": "ϫⲓⲛϫⲓⲛ",
+    "englishTransliteration": "jinjin",
+    "reference": "824b",
+    "partOfSpeech": "m",
+    "gloss": "Rocket (plant)",
+    "definition": "Rocket (plant)"
+  },
+  {
+    "headword": "jin[wr",
+    "copticWord": "ϫⲓⲛϭⲱⲣ",
+    "englishTransliteration": "jinchōr",
+    "reference": "824b",
+    "partOfSpeech": "m",
+    "gloss": "Talent (weight or coin)",
+    "definition": "Talent (weight or coin)"
+  },
+  {
+    "headword": "jir",
+    "copticWord": "ϫⲓⲣ",
+    "englishTransliteration": "jir",
+    "reference": "780b",
+    "partOfSpeech": "m",
+    "gloss": "Brine, small salted fish",
+    "definition": "Brine, small salted fish"
+  },
+  {
+    "headword": "j/i",
+    "copticWord": "ϫⲏⲓ",
+    "englishTransliteration": "jii",
+    "reference": "747b",
+    "partOfSpeech": "m",
+    "gloss": "Chip, mole (of straw, dust)",
+    "definition": "Chip, mole (of straw, dust)"
+  },
+  {
+    "headword": "jicmic",
+    "copticWord": "ϫⲓⲥⲙⲓⲥ",
+    "englishTransliteration": "jismis",
+    "reference": "466a",
+    "partOfSpeech": "n",
+    "gloss": "Castor oil plant",
+    "definition": "Castor oil plant"
+  },
+  {
+    "headword": "jij",
+    "copticWord": "ϫⲓϫ",
+    "englishTransliteration": "jeeg",
+    "reference": "839b",
+    "partOfSpeech": "f",
+    "gloss": "Hand.",
+    "definition": "(w/iw) vb. To wash hands; (w/ini ejen) vb. To lay hand on."
+  },
+  {
+    "headword": "(1)j/ri",
+    "copticWord": "ϫⲏⲣⲓ",
+    "englishTransliteration": "jiri",
+    "reference": "782a",
+    "partOfSpeech": "f",
+    "gloss": "Threshing-floor",
+    "definition": "Threshing-floor"
+  },
+  {
+    "headword": "(1) jiji",
+    "copticWord": "ϫⲓϫⲓ",
+    "englishTransliteration": "jeegi",
+    "reference": "464a",
+    "partOfSpeech": "f",
+    "gloss": "Gourd, vegetables",
+    "definition": "Gourd, vegetables"
+  },
+  {
+    "headword": "(2) jiji",
+    "copticWord": "ϫⲓϫⲓ",
+    "englishTransliteration": "jeegi",
+    "reference": "800a",
+    "partOfSpeech": "vb",
+    "gloss": "(w/ref-) m. Brigand, robber",
+    "definition": "(w/ref-) m. Brigand, robber"
+  },
+  {
+    "headword": "(2)j/ri",
+    "copticWord": "ϫⲏⲣⲓ",
+    "englishTransliteration": "jiri",
+    "variants": [
+      {
+        "word": "jiniri",
+        "copticWord": "ϫⲓⲛⲓⲣⲓ",
+        "englishTransliteration": "jiniri"
+      }
+    ],
+    "reference": "782a",
+    "partOfSpeech": "m",
+    "gloss": "Filth",
+    "definition": "Filth"
+  },
+  {
+    "headword": "j/ou (Q)",
+    "copticWord": "ϫⲏⲟⲩ (Ϧ)",
+    "englishTransliteration": "jiou (Kh)",
+    "reference": "835a",
+    "gloss": "vi. To be narrow",
+    "definition": "vt. To make narrow;"
+  },
+  {
+    "headword": "ji[wi",
+    "copticWord": "ϫⲓϭⲱⲓ",
+    "englishTransliteration": "jichōi",
+    "reference": "800a",
+    "partOfSpeech": "n",
+    "gloss": "Single lock or plait of hair",
+    "definition": "Single lock or plait of hair"
+  },
+  {
+    "headword": "jko",
+    "copticWord": "ϫⲕⲟ",
+    "englishTransliteration": "jko",
+    "variants": [
+      {
+        "word": "jko=",
+        "copticWord": "ϫⲕⲟ",
+        "englishTransliteration": "jko"
+      }
+    ],
+    "reference": "763a",
+    "gloss": "vt. To sell, trade, spend",
+    "definition": "vt. To sell, trade, spend"
+  },
+  {
+    "headword": "jafi",
+    "copticWord": "ϫⲁϥⲓ",
+    "englishTransliteration": "gafi",
+    "reference": "795b",
+    "partOfSpeech": "vb",
+    "gloss": "To be of kin",
+    "definition": "To be of kin"
+  },
+  {
+    "headword": "ji",
+    "copticWord": "ϫⲓ",
+    "englishTransliteration": "ji",
+    "gloss": "Wall",
+    "definition": "Wall",
+    "crossReference": {
+      "target": "(1)jw",
+      "gloss": "Wall"
+    }
+  },
+  {
+    "headword": "jiiri",
+    "copticWord": "ϫⲓⲓⲣⲓ",
+    "englishTransliteration": "jiiri",
+    "variants": [
+      {
+        "word": "jiniri",
+        "copticWord": "ϫⲓⲛⲓⲣⲓ",
+        "englishTransliteration": "jiniri"
+      }
+    ],
+    "reference": "782a",
+    "partOfSpeech": "m",
+    "gloss": "Pod of carob & other plants",
+    "definition": "Pod of carob & other plants"
+  },
+  {
+    "headword": "jikr/c",
+    "copticWord": "ϫⲓⲕⲣⲏⲥ",
+    "englishTransliteration": "jikris",
+    "variants": [
+      {
+        "word": "jikroc",
+        "copticWord": "ϫⲓⲕⲣⲟⲥ",
+        "englishTransliteration": "jikros"
+      },
+      {
+        "word": "jejr/c",
+        "copticWord": "ϫⲉϫⲣⲏⲥ",
+        "englishTransliteration": "jejris"
+      }
+    ],
+    "reference": "764a",
+    "partOfSpeech": "m",
+    "gloss": "Tiger, panther",
+    "definition": "Tiger, panther"
+  },
+  {
+    "headword": "jko=",
+    "copticWord": "ϫⲕⲟ",
+    "englishTransliteration": "jko",
+    "gloss": "To sell",
+    "definition": "To sell",
+    "crossReference": {
+      "target": "jko",
+      "gloss": "To sell"
+    }
+  },
+  {
+    "headword": "jo",
+    "copticWord": "ϫⲟ",
+    "englishTransliteration": "jo",
+    "gloss": "Crook-backed",
+    "definition": "Crook-backed",
+    "crossReference": {
+      "target": "(2)ajw",
+      "gloss": "Crook-backed"
+    }
+  },
+  {
+    "headword": "jo=",
+    "copticWord": "ϫⲟ",
+    "englishTransliteration": "jo",
+    "gloss": "To say",
+    "definition": "To say",
+    "crossReference": {
+      "target": "(2)jw",
+      "gloss": "To say"
+    }
+  },
+  {
+    "headword": "jobi",
+    "copticWord": "ϫⲟⲃⲓ",
+    "englishTransliteration": "jovi",
+    "gloss": "Weak person (f)",
+    "definition": "Weak person (f)",
+    "crossReference": {
+      "target": "jwb",
+      "gloss": "Weak person (f)"
+    }
+  },
+  {
+    "headword": "jobc=",
+    "copticWord": "ϫⲟⲃⲥ",
+    "englishTransliteration": "jovs",
+    "gloss": "To bend",
+    "definition": "To bend",
+    "crossReference": {
+      "target": "jwbc",
+      "gloss": "To bend"
+    }
+  },
+  {
+    "headword": "ej/ou",
+    "copticWord": "ⲉϫⲏⲟⲩ",
+    "englishTransliteration": "ejiou",
+    "reference": "754a",
+    "partOfSpeech": "m",
+    "gloss": "Ship, boat",
+    "definition": "Ship, boat"
+  },
+  {
+    "headword": "joi",
+    "copticWord": "ϫⲟⲓ",
+    "englishTransliteration": "joi",
+    "gloss": "Wall",
+    "definition": "Wall",
+    "crossReference": {
+      "target": "(1)jw",
+      "gloss": "Wall"
+    }
+  },
+  {
+    "headword": "jok=",
+    "copticWord": "ϫⲟⲕ",
+    "englishTransliteration": "jok",
+    "gloss": "To complete",
+    "definition": "To complete",
+    "crossReference": {
+      "target": "jwk",
+      "gloss": "To complete"
+    }
+  },
+  {
+    "headword": "jikroc",
+    "copticWord": "ϫⲓⲕⲣⲟⲥ",
+    "englishTransliteration": "jikros",
+    "gloss": "Tiger",
+    "definition": "Tiger",
+    "crossReference": {
+      "target": "jikr/c",
+      "gloss": "Tiger"
+    }
+  },
+  {
+    "headword": "jimi jem- jem=",
+    "copticWord": "ϫⲓⲙⲓ ϫⲉⲙ- ϫⲉⲙ",
+    "englishTransliteration": "jimi jem- jem",
+    "reference": "820a",
+    "gloss": "vi. To find",
+    "definition": "vi. To find"
+  },
+  {
+    "headword": "jemh/t",
+    "copticWord": "ϫⲉⲙϩⲏⲧ",
+    "englishTransliteration": "jemhit",
+    "gloss": "vt. To find heart, learn wisdom",
+    "definition": "vt. To find heart, learn wisdom"
+  },
+  {
+    "headword": "joker",
+    "copticWord": "ϫⲟⲕⲉⲣ",
+    "englishTransliteration": "joker",
+    "gloss": "To be seasoned",
+    "definition": "To be seasoned",
+    "crossReference": {
+      "target": "jouker",
+      "gloss": "To be seasoned"
+    }
+  },
+  {
+    "headword": "jokm=",
+    "copticWord": "ϫⲟⲕⲙ",
+    "englishTransliteration": "jokm",
+    "gloss": "To wash",
+    "definition": "To wash",
+    "crossReference": {
+      "target": "jwkem",
+      "gloss": "To wash"
+    }
+  },
+  {
+    "headword": "jokci",
+    "copticWord": "ϫⲟⲕⲥⲓ",
+    "englishTransliteration": "joksi",
+    "reference": "765a",
+    "partOfSpeech": "m",
+    "gloss": "Crepitus ventris",
+    "definition": "Crepitus ventris"
+  },
+  {
+    "headword": "jokh",
+    "copticWord": "ϫⲟⲕϩ",
+    "englishTransliteration": "jokh",
+    "gloss": "To bite",
+    "definition": "To bite",
+    "crossReference": {
+      "target": "joukh",
+      "gloss": "To bite"
+    }
+  },
+  {
+    "headword": "jokh=",
+    "copticWord": "ϫⲟⲕϩ",
+    "englishTransliteration": "jokh",
+    "gloss": "To bite",
+    "definition": "To bite",
+    "crossReference": {
+      "target": "joukh",
+      "gloss": "To bite"
+    }
+  },
+  {
+    "headword": "jokhf",
+    "copticWord": "ϫⲟⲕϩϥ",
+    "englishTransliteration": "jokhf",
+    "gloss": "Goad",
+    "definition": "Goad",
+    "crossReference": {
+      "target": "joukh",
+      "gloss": "Goad"
+    }
+  },
+  {
+    "headword": "jokjek",
+    "copticWord": "ϫⲟⲕϫⲉⲕ",
+    "englishTransliteration": "jokjek",
+    "variants": [
+      {
+        "word": "(Q) jekjwk",
+        "copticWord": "(Ϧ) ϫⲉⲕϫⲱⲕ",
+        "englishTransliteration": "(Kh) jekjōk"
+      }
+    ],
+    "reference": "765a",
+    "gloss": "vi. To prick, brand, braid",
+    "definition": "vi. To prick, brand, braid",
+    "senses": [
+      {
+        "partOfSpeech": "f",
+        "gloss": "Stamp. brand",
+        "definition": "Stamp. brand"
+      }
+    ]
+  },
+  {
+    "headword": "(1) jol",
+    "copticWord": "ϫⲟⲗ",
+    "englishTransliteration": "jol",
+    "variants": [
+      {
+        "word": "[al",
+        "copticWord": "ϭⲁⲗ",
+        "englishTransliteration": "chal"
+      }
+    ],
+    "reference": "765b",
+    "partOfSpeech": "m",
+    "gloss": "Wave",
+    "definition": "Wave",
+    "senses": [
+      {
+        "label": "(2)",
+        "gloss": "jol, jwl: (810a)",
+        "definition": "m. Flat cake, loaf."
+      }
+    ]
+  },
+  {
+    "headword": "jol=",
+    "copticWord": "ϫⲟⲗ",
+    "englishTransliteration": "jol",
+    "gloss": "To clothe",
+    "definition": "To clothe",
+    "crossReference": {
+      "target": "(1)jwl",
+      "gloss": "To clothe"
+    }
+  },
+  {
+    "headword": "jolbi",
+    "copticWord": "ϫⲟⲗⲃⲓ",
+    "englishTransliteration": "jolvi",
+    "reference": "766b",
+    "partOfSpeech": "f",
+    "gloss": "Baker's wooden shovel",
+    "definition": "Baker's wooden shovel"
+  },
+  {
+    "headword": "atjimi",
+    "copticWord": "ⲁⲧϫⲓⲙⲓ",
+    "englishTransliteration": "atjimi",
+    "partOfSpeech": "adj",
+    "gloss": "Not to be found",
+    "definition": "Not to be found"
+  },
+  {
+    "headword": "metjimi",
+    "copticWord": "ⲙⲉⲧϫⲓⲙⲓ",
+    "englishTransliteration": "metjimi",
+    "partOfSpeech": "f",
+    "gloss": "Existence",
+    "definition": "Existence"
+  },
+  {
+    "headword": "refjimi",
+    "copticWord": "ⲣⲉϥϫⲓⲙⲓ",
+    "englishTransliteration": "refjimi",
+    "partOfSpeech": "m",
+    "gloss": "finder",
+    "definition": "finder"
+  },
+  {
+    "headword": "jinjimi",
+    "copticWord": "ϫⲓⲛϫⲓⲙⲓ",
+    "englishTransliteration": "jinjimi",
+    "partOfSpeech": "m",
+    "gloss": "Act of finding",
+    "definition": "Act of finding"
+  },
+  {
+    "headword": "jimve",
+    "copticWord": "ϫⲓⲙⲫⲉ",
+    "englishTransliteration": "jimfe",
+    "gloss": "Blight",
+    "definition": "Blight",
+    "crossReference": {
+      "target": "jimveh",
+      "gloss": "Blight"
+    }
+  },
+  {
+    "headword": "jimveh",
+    "copticWord": "ϫⲓⲙⲫⲉϩ",
+    "englishTransliteration": "jimfeh",
+    "variants": [
+      {
+        "word": "jinveh",
+        "copticWord": "ϫⲓⲛⲫⲉϩ",
+        "englishTransliteration": "jinfeh"
+      },
+      {
+        "word": "jimve",
+        "copticWord": "ϫⲓⲙⲫⲉ",
+        "englishTransliteration": "jimfe"
+      },
+      {
+        "word": "jimvoh",
+        "copticWord": "ϫⲓⲙⲫⲟϩ",
+        "englishTransliteration": "jimfoh"
+      }
+    ],
+    "reference": "771b",
+    "partOfSpeech": "n",
+    "gloss": "Blight",
+    "definition": "Blight"
+  },
+  {
+    "headword": "jimvoh",
+    "copticWord": "ϫⲓⲙⲫⲟϩ",
+    "englishTransliteration": "jimfoh",
+    "gloss": "Blight",
+    "definition": "Blight",
+    "crossReference": {
+      "target": "jimveh",
+      "gloss": "Blight"
+    }
+  },
+  {
+    "headword": "jin",
+    "copticWord": "ϫⲓⲛ",
+    "englishTransliteration": "jin",
+    "reference": "819a",
+    "gloss": "vbal pref. forming nouns of action, act of, manner of",
+    "definition": "vbal pref. forming nouns of action, act of, manner of"
+  },
+  {
+    "headword": "jiniri",
+    "copticWord": "ϫⲓⲛⲓⲣⲓ",
+    "englishTransliteration": "jiniri",
+    "gloss": "Filth",
+    "definition": "Filth",
+    "crossReference": {
+      "target": "(2)j/ri",
+      "gloss": "Filth"
+    }
+  },
+  {
+    "headword": "joli",
+    "copticWord": "ϫⲟⲗⲓ",
+    "englishTransliteration": "joli",
+    "reference": "769a",
+    "partOfSpeech": "f",
+    "gloss": "Moth",
+    "definition": "Moth"
+  }
+]

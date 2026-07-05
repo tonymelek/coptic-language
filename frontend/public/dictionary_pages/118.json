@@ -1,0 +1,296 @@
+[
+  {
+    "headword": "mac outah",
+    "copticWord": "ⲙⲁⲥ ⲟⲩⲧⲁϩ",
+    "englishTransliteration": "mas outah",
+    "gloss": "Fruit-bearer",
+    "definition": "Fruit-bearer"
+  },
+  {
+    "headword": "erouwini",
+    "copticWord": "ⲉⲣⲟⲩⲱⲓⲛⲓ",
+    "englishTransliteration": "erouōini",
+    "partOfSpeech": "vb",
+    "gloss": "To make, be light, shine",
+    "definition": "To make, be light, shine"
+  },
+  {
+    "headword": "referouwini",
+    "copticWord": "ⲣⲉϥⲉⲣⲟⲩⲱⲓⲛⲓ",
+    "englishTransliteration": "referouōini",
+    "partOfSpeech": "m",
+    "gloss": "One who lights, illuminator",
+    "definition": "One who lights, illuminator"
+  },
+  {
+    "headword": "jinerouwini",
+    "copticWord": "ϫⲓⲛⲉⲣⲟⲩⲱⲓⲛⲓ",
+    "englishTransliteration": "jinerouōini",
+    "partOfSpeech": "m",
+    "gloss": "Shining, illumina-",
+    "definition": "Shining, illumina-"
+  },
+  {
+    "headword": "] outah",
+    "copticWord": "ϯ ⲟⲩⲧⲁϩ",
+    "englishTransliteration": "ti outah",
+    "partOfSpeech": "vb",
+    "gloss": "To give fruit",
+    "definition": "To give fruit"
+  },
+  {
+    "headword": "jin] outah",
+    "copticWord": "ϫⲓⲛϯ ⲟⲩⲧⲁϩ",
+    "englishTransliteration": "jinti outah",
+    "partOfSpeech": "m",
+    "gloss": "Condition of fruit bearing",
+    "definition": "Condition of fruit bearing"
+  },
+  {
+    "headword": "faioutah",
+    "copticWord": "ϥⲁⲓⲟⲩⲧⲁϩ",
+    "englishTransliteration": "faioutah",
+    "partOfSpeech": "n",
+    "gloss": "Fruit-carrier",
+    "definition": "Fruit-carrier"
+  },
+  {
+    "headword": "]ouwini",
+    "copticWord": "ϯⲟⲩⲱⲓⲛⲓ",
+    "englishTransliteration": "tiouōini",
+    "partOfSpeech": "vb",
+    "gloss": "To give light",
+    "definition": "To give light"
+  },
+  {
+    "headword": "outauh",
+    "copticWord": "ⲟⲩⲧⲁⲩϩ",
+    "englishTransliteration": "outavh",
+    "gloss": "Fruits",
+    "definition": "Fruits",
+    "crossReference": {
+      "target": "outah",
+      "gloss": "Fruits"
+    }
+  },
+  {
+    "headword": "[iouwini",
+    "copticWord": "ϭⲓⲟⲩⲱⲓⲛⲓ",
+    "englishTransliteration": "chiouōini",
+    "partOfSpeech": "vb",
+    "gloss": "To take, get light",
+    "definition": "To take, get light"
+  },
+  {
+    "headword": "(2) ouwini",
+    "copticWord": "ⲟⲩⲱⲓⲛⲓ",
+    "englishTransliteration": "ouōini",
+    "reference": "40a",
+    "partOfSpeech": "n",
+    "gloss": "Harp",
+    "definition": "Harp"
+  },
+  {
+    "headword": "oute",
+    "copticWord": "ⲟⲩⲧⲉ",
+    "englishTransliteration": "oute",
+    "variants": [
+      {
+        "word": "outw=",
+        "copticWord": "ⲟⲩⲧⲱ",
+        "englishTransliteration": "outō"
+      }
+    ],
+    "reference": "494b",
+    "gloss": "Prep. Between, among",
+    "definition": "Prep. Between, among"
+  },
+  {
+    "headword": "ouwlc (rare)",
+    "copticWord": "ⲟⲩⲱⲗⲥ (ⲣⲁⲣⲉ)",
+    "englishTransliteration": "ouōls (rare)",
+    "variants": [
+      {
+        "word": "bolc",
+        "copticWord": "ⲃⲟⲗⲥ",
+        "englishTransliteration": "vols"
+      }
+    ],
+    "reference": "477b",
+    "gloss": "vi. To lean, be bent, be confounded",
+    "definition": "vi. To lean, be bent, be confounded"
+  },
+  {
+    "headword": "ebol oute",
+    "copticWord": "ⲉⲃⲟⲗ ⲟⲩⲧⲉ",
+    "englishTransliteration": "evol oute",
+    "gloss": "From among, between. outw= v. oute- - Between",
+    "definition": "From among, between. outw= v. oute- - Between"
+  },
+  {
+    "headword": "ouvaji",
+    "copticWord": "ⲟⲩⲫⲁϫⲓ",
+    "englishTransliteration": "oufaji",
+    "reference": "499a",
+    "partOfSpeech": "m",
+    "gloss": "Liver",
+    "definition": "Liver"
+  },
+  {
+    "headword": "(1) ouw + ]",
+    "copticWord": "ⲟⲩⲱ + ϯ",
+    "englishTransliteration": "ouō + ti",
+    "variants": [
+      {
+        "word": "aouw + [i",
+        "copticWord": "ⲁⲟⲩⲱ + ϭⲓ",
+        "englishTransliteration": "aouō + chi"
+      },
+      {
+        "word": "(Q) ou/out",
+        "copticWord": "(Ϧ) ⲟⲩⲏⲟⲩⲧ",
+        "englishTransliteration": "(Kh) ouiout"
+      }
+    ],
+    "reference": "473b",
+    "gloss": "vi. To cease, stay",
+    "definition": "vi. To cease, stay",
+    "senses": [
+      {
+        "label": "qen",
+        "gloss": "vi. To loose from",
+        "definition": "at]ouw: adj. Unending; aouw+[i: vi. To bring to an end, delay --- n-: vi. To wait for."
+      }
+    ]
+  },
+  {
+    "headword": "jinouw",
+    "copticWord": "ϫⲓⲛⲟⲩⲱ",
+    "englishTransliteration": "jinouō",
+    "gloss": "vi. To make ceace, release, loose",
+    "definition": "vi. To make ceace, release, loose"
+  },
+  {
+    "headword": "(2) ouw",
+    "copticWord": "ⲟⲩⲱ",
+    "englishTransliteration": "ouō",
+    "reference": "474b",
+    "partOfSpeech": "m",
+    "gloss": "News, report",
+    "definition": "News, report",
+    "senses": [
+      {
+        "label": "erouw",
+        "gloss": "vi. To make reply, speak n-: vi. To reply, speak to",
+        "definition": "vi. To make reply, speak n-: vi. To reply, speak to"
+      },
+      {
+        "label": "eqoun",
+        "gloss": "vi. To reply, speak to",
+        "definition": "ehr/i ejen: vi. To reply about, reply respecting; nahren: vi. To reply, speak before. oube-: vi. To reply to; --: m. Reply, verdict;"
+      }
+    ]
+  },
+  {
+    "headword": "ouwm",
+    "copticWord": "ⲟⲩⲱⲙ",
+    "englishTransliteration": "ouōm",
+    "gloss": "To eat. ouwmt: (480a)",
+    "definition": "vi. To be swollen.",
+    "crossReference": {
+      "target": "ouwm",
+      "gloss": "To eat. ouwmt: (480a)"
+    }
+  },
+  {
+    "headword": "(1) ouwn",
+    "copticWord": "ⲟⲩⲱⲛ",
+    "englishTransliteration": "ouōn",
+    "variants": [
+      {
+        "word": "aou/b",
+        "copticWord": "ⲁⲟⲩⲏⲃ",
+        "englishTransliteration": "aoueeb"
+      },
+      {
+        "word": "(Q) ou/n",
+        "copticWord": "(Ϧ) ⲟⲩⲏⲛ",
+        "englishTransliteration": "(Kh) ouin"
+      }
+    ],
+    "reference": "482b",
+    "gloss": "vi. To",
+    "definition": "vi. To",
+    "senses": [
+      {
+        "label": "open",
+        "gloss": "vb imperat. Open",
+        "definition": "--- e-: vb. To open toward, upon; ---: m. Opening; jinouwn: m. Act of opening."
+      }
+    ]
+  },
+  {
+    "headword": "aterouw",
+    "copticWord": "ⲁⲧⲉⲣⲟⲩⲱ",
+    "englishTransliteration": "aterouō",
+    "partOfSpeech": "adj",
+    "gloss": "Without reply",
+    "definition": "Without reply",
+    "senses": [
+      {
+        "label": "epswi",
+        "gloss": "vt. To grow, bring up",
+        "definition": "ehr/i: vi. To grow, bring up; ---: m. Blossom, sprout."
+      }
+    ]
+  },
+  {
+    "headword": "jinerouw",
+    "copticWord": "ϫⲓⲛⲉⲣⲟⲩⲱ",
+    "englishTransliteration": "jinerouō",
+    "partOfSpeech": "m",
+    "gloss": "Act of replying (3)ouw (rare): (475a)",
+    "definition": "n. Bud, blossom; ]ouw: vt. To put forth, bring up; --- ebol: vt. To put forth;"
+  },
+  {
+    "headword": "(2) ouwn",
+    "copticWord": "ⲟⲩⲱⲛ",
+    "englishTransliteration": "ouōn",
+    "variants": [
+      {
+        "word": "ouen",
+        "copticWord": "ⲟⲩⲉⲛ",
+        "englishTransliteration": "ouen"
+      }
+    ],
+    "reference": "483a"
+  },
+  {
+    "headword": "m. Part ouwns",
+    "copticWord": "ⲙ. Ⲡⲁⲣⲧ ⲟⲩⲱⲛϣ",
+    "englishTransliteration": "m. Part ouōnsh",
+    "reference": "485b",
+    "partOfSpeech": "m",
+    "gloss": "Wolf",
+    "definition": "Wolf"
+  },
+  {
+    "headword": "ouwbs",
+    "copticWord": "ⲟⲩⲱⲃϣ",
+    "englishTransliteration": "ouōvsh",
+    "gloss": "White. (1)ouwini: (480a)",
+    "definition": "m. Light;",
+    "crossReference": {
+      "target": "oubas",
+      "gloss": "White. (1)ouwini: (480a)"
+    },
+    "senses": [
+      {
+        "label": "ayouwini",
+        "partOfSpeech": "adj",
+        "gloss": "Without light",
+        "definition": "Without light"
+      }
+    ]
+  }
+]

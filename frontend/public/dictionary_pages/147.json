@@ -1,0 +1,445 @@
+[
+  {
+    "headword": "swst",
+    "copticWord": "ϣⲱϣⲧ",
+    "englishTransliteration": "shōsht",
+    "gloss": "Key. swsf v. (1)sws - To despise. swf, sof=, (Q) s/f: (609b)",
+    "definition": "vi. To",
+    "crossReference": {
+      "target": "sost",
+      "gloss": "Key. swsf v. (1)sws - To despise. swf, sof=, (Q) s/f: (609b)"
+    },
+    "senses": [
+      {
+        "label": "rempswf",
+        "partOfSpeech": "m",
+        "gloss": "Eremite. be desert, laid waste, destroyed",
+        "definition": "---: m. Devastation, destruction; jinswf: m. Desolation;"
+      },
+      {
+        "label": "sw]",
+        "gloss": "To cut. ss/ou, s/ou: (609a)",
+        "definition": "m. Coriander. ss/n: (568b); m. Tree; iah ss/n: m. Grove;"
+      }
+    ]
+  },
+  {
+    "headword": "swsf",
+    "copticWord": "ϣⲱϣϥ",
+    "englishTransliteration": "shōshf",
+    "variants": [
+      {
+        "word": "sesf",
+        "copticWord": "ϣⲉϣϥ",
+        "englishTransliteration": "sheshf"
+      },
+      {
+        "word": "sosf=",
+        "copticWord": "ϣⲟϣϥ",
+        "englishTransliteration": "shoshf"
+      },
+      {
+        "word": "(Q) sosf",
+        "copticWord": "(Ϧ) ϣⲟϣϥ",
+        "englishTransliteration": "(Kh) shoshf"
+      }
+    ],
+    "gloss": "vi. To be despised, humbled",
+    "definition": "---: m. Shame, contempt, scorn."
+  },
+  {
+    "headword": "(2) sws",
+    "copticWord": "ϣⲱϣ",
+    "englishTransliteration": "shōsh",
+    "variants": [
+      {
+        "word": "ses",
+        "copticWord": "ϣⲉϣ",
+        "englishTransliteration": "shesh"
+      },
+      {
+        "word": "sas",
+        "copticWord": "ϣⲁϣ",
+        "englishTransliteration": "shash"
+      },
+      {
+        "word": "sas=",
+        "copticWord": "ϣⲁϣ",
+        "englishTransliteration": "shash"
+      },
+      {
+        "word": "sos=",
+        "copticWord": "ϣⲟϣ",
+        "englishTransliteration": "shosh"
+      },
+      {
+        "word": "(Q) s/s",
+        "copticWord": "(Ϧ) ϣⲏϣ",
+        "englishTransliteration": "(Kh) shish"
+      }
+    ],
+    "reference": "605b",
+    "gloss": "vi. To scatter, spread esp. of oders",
+    "definition": "--- ebol: vi. To scatter abroad; --- ebol e-: vi. To extend to; --- --- hi: vi. To extend from; --- --- qen: To extend forth from"
+  },
+  {
+    "headword": "sws",
+    "copticWord": "ϣⲱϣ",
+    "englishTransliteration": "shōsh",
+    "partOfSpeech": "m",
+    "gloss": "Fork or rake separating grain from chaff",
+    "definition": "Fork or rake separating grain from chaff"
+  },
+  {
+    "headword": "ma nss/n",
+    "copticWord": "ⲙⲁ ⲛϣϣⲏⲛ",
+    "englishTransliteration": "ma nshshin",
+    "partOfSpeech": "m",
+    "gloss": "Grove. ssot, sswt, pl",
+    "definition": "Grove. ssot, sswt, pl"
+  },
+  {
+    "headword": "so]",
+    "copticWord": "ϣⲟϯ",
+    "englishTransliteration": "shoti",
+    "reference": "590a",
+    "partOfSpeech": "m",
+    "gloss": "Pillow, cushion, bag",
+    "definition": "Pillow, cushion, bag"
+  },
+  {
+    "headword": "sswt",
+    "copticWord": "ϣϣⲱⲧ",
+    "englishTransliteration": "shshōt",
+    "gloss": "Pillow",
+    "definition": "Pillow",
+    "crossReference": {
+      "target": "ssot",
+      "gloss": "Pillow"
+    }
+  },
+  {
+    "headword": "sswou",
+    "copticWord": "ϣϣⲱⲟⲩ",
+    "englishTransliteration": "shshōou",
+    "reference": "609a",
+    "partOfSpeech": "n",
+    "gloss": "Desire",
+    "definition": "Desire"
+  },
+  {
+    "headword": "[isswou",
+    "copticWord": "ϭⲓϣϣⲱⲟⲩ",
+    "englishTransliteration": "chishshōou",
+    "gloss": "vt. To yearn for, conceive",
+    "definition": "---: m. Desire, longing;"
+  },
+  {
+    "headword": "(3) sws",
+    "copticWord": "ϣⲱϣ",
+    "englishTransliteration": "shōsh",
+    "variants": [
+      {
+        "word": "ses",
+        "copticWord": "ϣⲉϣ",
+        "englishTransliteration": "shesh"
+      },
+      {
+        "word": "sas=",
+        "copticWord": "ϣⲁϣ",
+        "englishTransliteration": "shash"
+      },
+      {
+        "word": "sos=",
+        "copticWord": "ϣⲟϣ",
+        "englishTransliteration": "shosh"
+      },
+      {
+        "word": "(Q) s/s",
+        "copticWord": "(Ϧ) ϣⲏϣ",
+        "englishTransliteration": "(Kh) shish"
+      }
+    ],
+    "reference": "606a",
+    "gloss": "vt. To make equal, level, straight",
+    "definition": "vt. To make equal, level, straight",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "Equality, sameness",
+        "definition": "--- ebol: m. equality, level."
+      }
+    ]
+  },
+  {
+    "headword": "ref[isswou",
+    "copticWord": "ⲣⲉϥϭⲓϣϣⲱⲟⲩ",
+    "englishTransliteration": "refchishshōou",
+    "partOfSpeech": "m",
+    "gloss": "One who desires",
+    "definition": "One who desires"
+  },
+  {
+    "headword": "(1) sfw",
+    "copticWord": "ϣϥⲱ",
+    "englishTransliteration": "shfō",
+    "variants": [
+      {
+        "word": "sbw",
+        "copticWord": "ϣⲃⲱ",
+        "englishTransliteration": "shvō"
+      }
+    ],
+    "reference": "610b",
+    "partOfSpeech": "f",
+    "gloss": "Tale, fable",
+    "definition": "Tale, fable"
+  },
+  {
+    "headword": "(2) sfw",
+    "copticWord": "ϣϥⲱ",
+    "englishTransliteration": "shfō",
+    "variants": [
+      {
+        "word": "sbw",
+        "copticWord": "ϣⲃⲱ",
+        "englishTransliteration": "shvō"
+      }
+    ],
+    "reference": "611a",
+    "partOfSpeech": "f",
+    "gloss": "Measure of length, schoenus parasang",
+    "definition": "Measure of length, schoenus parasang"
+  },
+  {
+    "headword": "(4) sws",
+    "copticWord": "ϣⲱϣ",
+    "englishTransliteration": "shōsh",
+    "variants": [
+      {
+        "word": "ses",
+        "copticWord": "ϣⲉϣ",
+        "englishTransliteration": "shesh"
+      },
+      {
+        "word": "(Q) s/s",
+        "copticWord": "(Ϧ) ϣⲏϣ",
+        "englishTransliteration": "(Kh) shish"
+      }
+    ],
+    "reference": "607a",
+    "gloss": "vi. To twist rope & c",
+    "definition": "vi. To twist rope & c"
+  },
+  {
+    "headword": "sasf",
+    "copticWord": "ϣⲁϣϥ",
+    "englishTransliteration": "shashf",
+    "partOfSpeech": "m",
+    "gloss": "Weaver",
+    "definition": "Weaver"
+  },
+  {
+    "headword": "(3) sfw",
+    "copticWord": "ϣϥⲱ",
+    "englishTransliteration": "shfō",
+    "reference": "611a",
+    "partOfSpeech": "f",
+    "gloss": "Tomb",
+    "definition": "Tomb"
+  },
+  {
+    "headword": "sqa]",
+    "copticWord": "ϣϧⲁϯ",
+    "englishTransliteration": "shkhati",
+    "gloss": "Pus. sqelt, [qelt, sqa]: (612a)",
+    "definition": "m.",
+    "crossReference": {
+      "target": "sqelt",
+      "gloss": "Pus. sqelt, [qelt, sqa]: (612a)"
+    }
+  },
+  {
+    "headword": "What is excessive",
+    "copticWord": "Ⲱϩⲁⲧ ⲓϣ ⲉⲝⲥⲉϣϣⲓⲫⲉ",
+    "englishTransliteration": "Ōhat ish eksseshshife",
+    "variants": [
+      {
+        "word": "exudes",
+        "copticWord": "ⲉⲝⲩⲇⲉϣ",
+        "englishTransliteration": "eksydesh"
+      },
+      {
+        "word": "humor",
+        "copticWord": "ϩⲩⲙⲟⲣ",
+        "englishTransliteration": "hymor"
+      },
+      {
+        "word": "pus. shij",
+        "copticWord": "ⲡⲩϣ. ϣϩⲓϫ",
+        "englishTransliteration": "pysh. shheeg"
+      }
+    ],
+    "reference": "612b",
+    "gloss": "(rare) m. Dust",
+    "definition": "(rare) m. Dust"
+  },
+  {
+    "headword": "sjap",
+    "copticWord": "ϣϫⲁⲡ",
+    "englishTransliteration": "shgap",
+    "gloss": "Slap",
+    "definition": "Slap",
+    "crossReference": {
+      "target": "co[ni",
+      "gloss": "Slap"
+    }
+  },
+  {
+    "headword": "swsen",
+    "copticWord": "ϣⲱϣⲉⲛ",
+    "englishTransliteration": "shōshen",
+    "reference": "608a",
+    "partOfSpeech": "n",
+    "gloss": "Lily. swst, sast=, sest=",
+    "definition": "Lily. swst, sast=, sest=",
+    "senses": [
+      {
+        "label": "e",
+        "partOfSpeech": "vb",
+        "gloss": "To be hindered from",
+        "definition": "To be hindered from"
+      },
+      {
+        "gloss": "vt. To stop, impede",
+        "definition": "vt. To stop, impede"
+      },
+      {
+        "label": "e",
+        "gloss": "vt. To hinder from",
+        "definition": "--: n. Impediment."
+      }
+    ]
+  },
+  {
+    "headword": "(Q) sost",
+    "copticWord": "(Ϧ) ϣⲟϣⲧ",
+    "englishTransliteration": "(Kh) shosht",
+    "variants": [
+      {
+        "word": "sast",
+        "copticWord": "ϣⲁϣⲧ",
+        "englishTransliteration": "shasht"
+      }
+    ],
+    "reference": "377b",
+    "gloss": "vi. To stop, be impeded, hindered",
+    "definition": "vi. To stop, be impeded, hindered"
+  },
+  {
+    "headword": "sj/ou",
+    "copticWord": "ϣϫⲏⲟⲩ",
+    "englishTransliteration": "shjiou",
+    "reference": "615a",
+    "gloss": "m",
+    "definition": "m"
+  },
+  {
+    "headword": "sj/i",
+    "copticWord": "ϣϫⲏⲓ",
+    "englishTransliteration": "shjii",
+    "reference": "615a",
+    "partOfSpeech": "n",
+    "gloss": "Common tale, gossip",
+    "definition": "Common tale, gossip"
+  },
+  {
+    "headword": "er",
+    "copticWord": "ⲉⲣ",
+    "englishTransliteration": "er",
+    "variants": [
+      {
+        "word": "oi nsj/i",
+        "copticWord": "ⲟⲓ ⲛϣϫⲏⲓ",
+        "englishTransliteration": "oi nshjii"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To be talked of",
+    "definition": "To be talked of"
+  },
+  {
+    "headword": "sjwt",
+    "copticWord": "ϣϫⲱⲧ",
+    "englishTransliteration": "shjōt",
+    "gloss": "Cord",
+    "definition": "Cord",
+    "crossReference": {
+      "target": "co[ni",
+      "gloss": "Cord"
+    }
+  },
+  {
+    "headword": "s[/n",
+    "copticWord": "ϣϭⲏⲛ",
+    "englishTransliteration": "shchin",
+    "reference": "615b",
+    "partOfSpeech": "m",
+    "gloss": "Garlic",
+    "definition": "Garlic"
+  },
+  {
+    "headword": "s[/r",
+    "copticWord": "ϣϭⲏⲣ",
+    "englishTransliteration": "shchir",
+    "reference": "388b",
+    "gloss": "vi. To sail on a river or sea",
+    "definition": "--- e-: vi. To sail to, toward; --- qen: vi. To sail in, upon;"
+  },
+  {
+    "headword": "s[n/n",
+    "copticWord": "ϣϭⲛⲏⲛ",
+    "englishTransliteration": "shchnin",
+    "variants": [
+      {
+        "word": "[n/n",
+        "copticWord": "ϭⲛⲏⲛ",
+        "englishTransliteration": "chnin"
+      }
+    ],
+    "reference": "618b",
+    "gloss": "vi. To strive, contend",
+    "definition": "vi. To strive, contend",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "Strife, rivalry",
+        "definition": "Strife, rivalry"
+      },
+      {
+        "label": "refs[n/n",
+        "partOfSpeech": "m",
+        "gloss": "Quarreller",
+        "definition": "Quarreller"
+      }
+    ]
+  },
+  {
+    "headword": "s[or",
+    "copticWord": "ϣϭⲟⲣ",
+    "englishTransliteration": "shchor",
+    "reference": "619a",
+    "partOfSpeech": "vb",
+    "gloss": "To rent, hire",
+    "definition": "To rent, hire"
+  },
+  {
+    "headword": "s[our",
+    "copticWord": "ϣϭⲟⲩⲣ",
+    "englishTransliteration": "shchour",
+    "reference": "121b",
+    "partOfSpeech": "m",
+    "gloss": "Finger ring",
+    "definition": "Finger ring"
+  }
+]

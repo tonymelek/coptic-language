@@ -1,0 +1,586 @@
+[
+  {
+    "headword": "v",
+    "copticWord": "ⲫ",
+    "englishTransliteration": "f",
+    "reference": "514a",
+    "gloss": "The 21st letter",
+    "definition": "The 21st letter",
+    "senses": [
+      {
+        "label": "v",
+        "gloss": "As a numeral = 500",
+        "definition": "As a numeral = 500"
+      }
+    ]
+  },
+  {
+    "headword": "vai",
+    "copticWord": "ⲫⲁⲓ",
+    "englishTransliteration": "fai",
+    "reference": "259a",
+    "gloss": "Demons. Pron. This one",
+    "definition": "Demons. Pron. This one"
+  },
+  {
+    "headword": "vahou",
+    "copticWord": "ⲫⲁϩⲟⲩ",
+    "englishTransliteration": "fahou",
+    "reference": "284b",
+    "partOfSpeech": "m",
+    "gloss": "Buttocks, hinder part, back",
+    "definition": "Buttocks, hinder part, back",
+    "senses": [
+      {
+        "partOfSpeech": "adj",
+        "gloss": "Hinder, past",
+        "definition": "Hinder, past"
+      },
+      {
+        "label": "evahou",
+        "gloss": "prep. To back, backward",
+        "definition": "prep. To back, backward"
+      },
+      {
+        "label": "cavahou",
+        "gloss": "prep. Behind, after",
+        "definition": "ncavahou: prep. Behind, from behind; hivahou: prep. Behind, after, before; erhivahou: vb. To be behind, follow after."
+      }
+    ]
+  },
+  {
+    "headword": "vamenwy",
+    "copticWord": "ⲫⲁⲙⲉⲛⲱⲑ",
+    "englishTransliteration": "famenōth",
+    "reference": "269a",
+    "gloss": "Name of the 7th month of the Coptic Calendar, \"Baramhat\"",
+    "definition": "Name of the 7th month of the Coptic Calendar, \"Baramhat\""
+  },
+  {
+    "headword": "vape",
+    "copticWord": "ⲫⲁⲡⲉ",
+    "englishTransliteration": "fape",
+    "reference": "266b",
+    "gloss": "vi. To knead (clay)",
+    "definition": "vi. To knead (clay)"
+  },
+  {
+    "headword": "vapilac",
+    "copticWord": "ⲫⲁⲡⲓⲗⲁⲥ",
+    "englishTransliteration": "fapilas",
+    "gloss": "A weavers's tool",
+    "definition": "A weavers's tool",
+    "crossReference": {
+      "target": "lac",
+      "gloss": "A weavers's tool"
+    }
+  },
+  {
+    "headword": "vaji",
+    "copticWord": "ⲫⲁϫⲓ",
+    "englishTransliteration": "faji",
+    "gloss": "Fragment. ve, pl",
+    "definition": "Fragment. ve, pl",
+    "crossReference": {
+      "target": "(1)vwji",
+      "gloss": "Fragment. ve, pl"
+    }
+  },
+  {
+    "headword": "v/oui",
+    "copticWord": "ⲫⲏⲟⲩⲓ",
+    "englishTransliteration": "fioui",
+    "reference": "259a",
+    "partOfSpeech": "f",
+    "gloss": "Heaven, sky",
+    "definition": "Heaven, sky"
+  },
+  {
+    "headword": "al mve",
+    "copticWord": "ⲁⲗ ⲙⲫⲉ",
+    "englishTransliteration": "al mfe",
+    "partOfSpeech": "m",
+    "gloss": "Hail stone",
+    "definition": "Hail stone"
+  },
+  {
+    "headword": "remmve",
+    "copticWord": "ⲣⲉⲙⲙⲫⲉ",
+    "englishTransliteration": "remmfe",
+    "partOfSpeech": "m",
+    "gloss": "Man of heaven",
+    "definition": "Man of heaven"
+  },
+  {
+    "headword": "variceoc",
+    "copticWord": "ⲫⲁⲣⲓⲥⲉⲟⲥ",
+    "englishTransliteration": "fariseos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Pharisee",
+    "definition": "Pharisee"
+  },
+  {
+    "headword": "varper-(p.c.)",
+    "copticWord": "ⲫⲁⲣⲡⲉⲣ-(ⲡ.ⲥ.)",
+    "englishTransliteration": "farper-(p.s.)",
+    "gloss": "Opened",
+    "definition": "Opened",
+    "crossReference": {
+      "target": "vorper",
+      "gloss": "Opened"
+    }
+  },
+  {
+    "headword": "vei",
+    "copticWord": "ⲫⲉⲓ",
+    "englishTransliteration": "fi",
+    "variants": [
+      {
+        "word": "v/i",
+        "copticWord": "ⲫⲏⲓ",
+        "englishTransliteration": "fii"
+      }
+    ],
+    "reference": "260a",
+    "partOfSpeech": "n",
+    "gloss": "leap",
+    "definition": "w/vb to take a leap; leaper, flea."
+  },
+  {
+    "headword": "vel",
+    "copticWord": "ⲫⲉⲗ",
+    "englishTransliteration": "fel",
+    "reference": "514a",
+    "partOfSpeech": "m",
+    "gloss": "Bean",
+    "definition": "Bean"
+  },
+  {
+    "headword": "varver-(p.c.)",
+    "copticWord": "ⲫⲁⲣⲫⲉⲣ-(ⲡ.ⲥ.)",
+    "englishTransliteration": "farfer-(p.s.)",
+    "gloss": "Opened. vacvec: (515b)",
+    "definition": "pl. Wiles.",
+    "crossReference": {
+      "target": "vorper",
+      "gloss": "Opened. vacvec: (515b)"
+    }
+  },
+  {
+    "headword": "velji",
+    "copticWord": "ⲫⲉⲗϫⲓ",
+    "englishTransliteration": "felji",
+    "reference": "262b",
+    "partOfSpeech": "m",
+    "gloss": "Split, torn cloth, rag",
+    "definition": "Split, torn cloth, rag"
+  },
+  {
+    "headword": "vat",
+    "copticWord": "ⲫⲁⲧ",
+    "englishTransliteration": "fat",
+    "reference": "273b",
+    "partOfSpeech": "f",
+    "gloss": "Knees (pl)",
+    "definition": "foot; leg, shin, thigh;",
+    "senses": [
+      {
+        "label": "fte vat",
+        "gloss": "Quadruped",
+        "definition": "Quadruped"
+      },
+      {
+        "label": "rat vat",
+        "gloss": "Long-footed",
+        "definition": "hare;"
+      },
+      {
+        "label": "se nvat",
+        "gloss": "Blow, stamping, kick with",
+        "definition": "Blow, stamping, kick with"
+      },
+      {
+        "gloss": "foot",
+        "definition": "foot"
+      },
+      {
+        "label": "kwlj vat",
+        "gloss": "Bend knee",
+        "definition": "Bend knee"
+      }
+    ]
+  },
+  {
+    "headword": "--- nhboc",
+    "copticWord": "--- ⲛϩⲃⲟⲥ",
+    "englishTransliteration": "--- nhvos",
+    "partOfSpeech": "m",
+    "gloss": "Ragged garment",
+    "definition": "---: adj. Worn, old"
+  },
+  {
+    "headword": "ervelji",
+    "copticWord": "ⲉⲣⲫⲉⲗϫⲓ",
+    "englishTransliteration": "erfelji",
+    "partOfSpeech": "vb",
+    "gloss": "To become or be ragged or old",
+    "definition": "To become or be ragged or old"
+  },
+  {
+    "headword": "ven",
+    "copticWord": "ⲫⲉⲛ",
+    "englishTransliteration": "fen",
+    "gloss": "To flow",
+    "definition": "To flow",
+    "crossReference": {
+      "target": "vwn",
+      "gloss": "To flow"
+    }
+  },
+  {
+    "headword": "venk",
+    "copticWord": "ⲫⲉⲛⲕ",
+    "englishTransliteration": "fenk",
+    "gloss": "To draw water",
+    "definition": "To draw water",
+    "crossReference": {
+      "target": "vwnk",
+      "gloss": "To draw water"
+    }
+  },
+  {
+    "headword": "venvwn",
+    "copticWord": "ⲫⲉⲛⲫⲱⲛ",
+    "englishTransliteration": "fenfōn",
+    "gloss": "To overflow",
+    "definition": "To overflow",
+    "crossReference": {
+      "target": "vonpen",
+      "gloss": "To overflow"
+    }
+  },
+  {
+    "headword": "vatci",
+    "copticWord": "ⲫⲁⲧⲥⲓ",
+    "englishTransliteration": "fatsi",
+    "variants": [
+      {
+        "word": "patci",
+        "copticWord": "ⲡⲁⲧⲥⲓ",
+        "englishTransliteration": "patsi"
+      }
+    ],
+    "reference": "276b",
+    "partOfSpeech": "f",
+    "gloss": "Thing divided, split off, plank",
+    "definition": "Thing divided, split off, plank"
+  },
+  {
+    "headword": "venh",
+    "copticWord": "ⲫⲉⲛϩ",
+    "englishTransliteration": "fenh",
+    "gloss": "To turn",
+    "definition": "To turn",
+    "crossReference": {
+      "target": "vwnh",
+      "gloss": "To turn"
+    }
+  },
+  {
+    "headword": "venj",
+    "copticWord": "ⲫⲉⲛϫ",
+    "englishTransliteration": "fenj",
+    "gloss": "To overthrow",
+    "definition": "To overthrow",
+    "crossReference": {
+      "target": "vwnj",
+      "gloss": "To overthrow"
+    }
+  },
+  {
+    "headword": "vas",
+    "copticWord": "ⲫⲁϣ",
+    "englishTransliteration": "fash",
+    "reference": "277a",
+    "partOfSpeech": "m",
+    "gloss": "Trap, snare",
+    "definition": "Trap, snare"
+  },
+  {
+    "headword": "ref",
+    "copticWord": "ⲣⲉϥ",
+    "englishTransliteration": "ref",
+    "variants": [
+      {
+        "word": "avas",
+        "copticWord": "ⲁⲫⲁϣ",
+        "englishTransliteration": "afash"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "Trap setter",
+    "definition": "Trap setter"
+  },
+  {
+    "headword": "ver",
+    "copticWord": "ⲫⲉⲣ",
+    "englishTransliteration": "fer",
+    "gloss": "To come forth",
+    "definition": "To come forth",
+    "crossReference": {
+      "target": "viri",
+      "gloss": "To come forth"
+    }
+  },
+  {
+    "headword": "vas=",
+    "copticWord": "ⲫⲁϣ",
+    "englishTransliteration": "fash",
+    "gloss": "To divide",
+    "definition": "To divide",
+    "crossReference": {
+      "target": "vws",
+      "gloss": "To divide"
+    }
+  },
+  {
+    "headword": "vasi",
+    "copticWord": "ⲫⲁϣⲓ",
+    "englishTransliteration": "fashi",
+    "gloss": "Division",
+    "definition": "Division",
+    "crossReference": {
+      "target": "vws",
+      "gloss": "Division"
+    }
+  },
+  {
+    "headword": "veriwou(Q)",
+    "copticWord": "ⲫⲉⲣⲓⲱⲟⲩ(Ϧ)",
+    "englishTransliteration": "feriōou(Kh)",
+    "gloss": "To be put forth. verk- v. (1)vwrk - To be plucked out. vervwr= v. vorper - To open",
+    "definition": "To be put forth. verk- v. (1)vwrk - To be plucked out. vervwr= v. vorper - To open",
+    "crossReference": {
+      "target": "viri",
+      "gloss": "To be put forth. verk- v. (1)vwrk - To be plucked out. vervwr= v. vorper - To open"
+    }
+  },
+  {
+    "headword": "vasm=",
+    "copticWord": "ⲫⲁϣⲙ",
+    "englishTransliteration": "fashm",
+    "gloss": "Meaning unknown",
+    "definition": "Meaning unknown",
+    "crossReference": {
+      "target": "(vwsem)",
+      "gloss": "Meaning unknown"
+    }
+  },
+  {
+    "headword": "vasni",
+    "copticWord": "ⲫⲁϣⲛⲓ",
+    "englishTransliteration": "fashni",
+    "gloss": "Service",
+    "definition": "Service",
+    "crossReference": {
+      "target": "vwsen",
+      "gloss": "Service"
+    }
+  },
+  {
+    "headword": "vervwr(Q)",
+    "copticWord": "ⲫⲉⲣⲫⲱⲣ(Ϧ)",
+    "englishTransliteration": "ferfōr(Kh)",
+    "gloss": "To be open",
+    "definition": "To be open",
+    "crossReference": {
+      "target": "vorper",
+      "gloss": "To be open"
+    }
+  },
+  {
+    "headword": "vers",
+    "copticWord": "ⲫⲉⲣϣ",
+    "englishTransliteration": "fersh",
+    "gloss": "To spread",
+    "definition": "To spread",
+    "crossReference": {
+      "target": "vwrs",
+      "gloss": "To spread"
+    }
+  },
+  {
+    "headword": "vaq",
+    "copticWord": "ⲫⲁϧ",
+    "englishTransliteration": "fakh",
+    "gloss": "To tear",
+    "definition": "To tear",
+    "crossReference": {
+      "target": "vwq",
+      "gloss": "To tear"
+    }
+  },
+  {
+    "headword": "vetvwt=",
+    "copticWord": "ⲫⲉⲧⲫⲱⲧ",
+    "englishTransliteration": "fetfōt",
+    "gloss": "To fall away",
+    "definition": "To fall away",
+    "crossReference": {
+      "target": "votvet",
+      "gloss": "To fall away"
+    }
+  },
+  {
+    "headword": "vaq=",
+    "copticWord": "ⲫⲁϧ",
+    "englishTransliteration": "fakh",
+    "gloss": "To tear",
+    "definition": "To tear",
+    "crossReference": {
+      "target": "vwq",
+      "gloss": "To tear"
+    }
+  },
+  {
+    "headword": "vaqer(Q)",
+    "copticWord": "ⲫⲁϧⲉⲣ(Ϧ)",
+    "englishTransliteration": "fakher(Kh)",
+    "gloss": "To be charmed",
+    "definition": "To be charmed",
+    "crossReference": {
+      "target": "vwqer",
+      "gloss": "To be charmed"
+    }
+  },
+  {
+    "headword": "vetvwt(Q)",
+    "copticWord": "ⲫⲉⲧⲫⲱⲧ(Ϧ)",
+    "englishTransliteration": "fetfōt(Kh)",
+    "gloss": "To be fallen away",
+    "definition": "To be fallen away",
+    "crossReference": {
+      "target": "votvet",
+      "gloss": "To be fallen away"
+    }
+  },
+  {
+    "headword": "vaqri",
+    "copticWord": "ⲫⲁϧⲣⲓ",
+    "englishTransliteration": "fakhri",
+    "gloss": "Drug",
+    "definition": "Drug",
+    "crossReference": {
+      "target": "vwqer",
+      "gloss": "Drug"
+    }
+  },
+  {
+    "headword": "ves",
+    "copticWord": "ⲫⲉϣ",
+    "englishTransliteration": "fesh",
+    "gloss": "To divide",
+    "definition": "To divide",
+    "crossReference": {
+      "target": "vws",
+      "gloss": "To divide"
+    }
+  },
+  {
+    "headword": "vaqt",
+    "copticWord": "ⲫⲁϧⲧ",
+    "englishTransliteration": "fakht",
+    "gloss": "To bend",
+    "definition": "To bend",
+    "crossReference": {
+      "target": "vwqt",
+      "gloss": "To bend"
+    }
+  },
+  {
+    "headword": "vaqt=",
+    "copticWord": "ⲫⲁϧⲧ",
+    "englishTransliteration": "fakht",
+    "gloss": "To bend",
+    "definition": "To bend",
+    "crossReference": {
+      "target": "vwqt",
+      "gloss": "To bend"
+    }
+  },
+  {
+    "headword": "vaqt(Q)",
+    "copticWord": "ⲫⲁϧⲧ(Ϧ)",
+    "englishTransliteration": "fakht(Kh)",
+    "gloss": "To be bent",
+    "definition": "To be bent",
+    "crossReference": {
+      "target": "vwqt",
+      "gloss": "To be bent"
+    }
+  },
+  {
+    "headword": "veq",
+    "copticWord": "ⲫⲉϧ",
+    "englishTransliteration": "fekh",
+    "reference": "515b",
+    "partOfSpeech": "m",
+    "gloss": "Melon",
+    "definition": "Melon"
+  },
+  {
+    "headword": "veh",
+    "copticWord": "ⲫⲉϩ",
+    "englishTransliteration": "feh",
+    "gloss": "To reach",
+    "definition": "To reach",
+    "crossReference": {
+      "target": "voh",
+      "gloss": "To reach"
+    }
+  },
+  {
+    "headword": "veh(Q)",
+    "copticWord": "ⲫⲉϩ(Ϧ)",
+    "englishTransliteration": "feh(Kh)",
+    "gloss": "To be attained",
+    "definition": "To be attained",
+    "crossReference": {
+      "target": "voh",
+      "gloss": "To be attained"
+    }
+  },
+  {
+    "headword": "v/",
+    "copticWord": "ⲫⲏ",
+    "englishTransliteration": "fi",
+    "variants": [
+      {
+        "word": "f y/",
+        "copticWord": "ϥ ⲑⲏ",
+        "englishTransliteration": "f thi"
+      },
+      {
+        "word": "pl n/",
+        "copticWord": "ⲡⲗ ⲛⲏ",
+        "englishTransliteration": "pl ni"
+      }
+    ],
+    "reference": "260b",
+    "gloss": "demonstrative pron",
+    "definition": "That, pl. those"
+  },
+  {
+    "headword": "v/i",
+    "copticWord": "ⲫⲏⲓ",
+    "englishTransliteration": "fii",
+    "gloss": "Leap",
+    "definition": "Leap",
+    "crossReference": {
+      "target": "vei",
+      "gloss": "Leap"
+    }
+  }
+]

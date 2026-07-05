@@ -1,0 +1,561 @@
+[
+  {
+    "headword": "ebol qen",
+    "copticWord": "ⲉⲃⲟⲗ ϧⲉⲛ",
+    "englishTransliteration": "evol khen",
+    "gloss": "vi. To change from",
+    "definition": "---: m. Change;"
+  },
+  {
+    "headword": "metsvi/]",
+    "copticWord": "ⲙⲉⲧϣⲫⲓⲏϯ",
+    "englishTransliteration": "metshfiiti",
+    "partOfSpeech": "f",
+    "gloss": "Modesty",
+    "definition": "Modesty"
+  },
+  {
+    "headword": "svit",
+    "copticWord": "ϣⲫⲓⲧ",
+    "englishTransliteration": "shfit",
+    "gloss": "vi. To be ashamed",
+    "definition": "---: m. Shame. siri, f. sairi: (585b); adj. Small"
+  },
+  {
+    "headword": "qelsiri",
+    "copticWord": "ϧⲉⲗϣⲓⲣⲓ",
+    "englishTransliteration": "khelshiri",
+    "partOfSpeech": "adj",
+    "gloss": "little, young",
+    "definition": "little, young"
+  },
+  {
+    "headword": "m. servant",
+    "copticWord": "ⲙ. ϣⲉⲣⲫⲁⲛⲧ",
+    "englishTransliteration": "m. sherfant",
+    "variants": [
+      {
+        "word": "youth. sit= v. si - To measure. [isipi",
+        "copticWord": "ⲑⲟⲩⲧϩ. ϣⲓⲧ ⲫ̅. ϣⲓ - Ⲧⲟ ⲙⲉⲁϣⲩⲣⲉ. ϭⲓϣⲓⲡⲓ",
+        "englishTransliteration": "thouth. shit f̅. shi - To meashyre. chishipi"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To take shame, be ashamed",
+    "definition": "To take shame, be ashamed"
+  },
+  {
+    "headword": "svi/]",
+    "copticWord": "ϣⲫⲓⲏϯ",
+    "englishTransliteration": "shfiiti",
+    "partOfSpeech": "m",
+    "gloss": "Modest person",
+    "definition": "Modest person"
+  },
+  {
+    "headword": "atsib]",
+    "copticWord": "ⲁⲧϣⲓⲃϯ",
+    "englishTransliteration": "atsheebti",
+    "partOfSpeech": "adj",
+    "gloss": "Unchangeable",
+    "definition": "Unchangeable"
+  },
+  {
+    "headword": "refsib]",
+    "copticWord": "ⲣⲉϥϣⲓⲃϯ",
+    "englishTransliteration": "refsheebti",
+    "partOfSpeech": "m",
+    "gloss": "One who changes",
+    "definition": "One who changes"
+  },
+  {
+    "headword": "jinsib]",
+    "copticWord": "ϫⲓⲛϣⲓⲃϯ",
+    "englishTransliteration": "jinsheebti",
+    "partOfSpeech": "m",
+    "gloss": "Changeableness, difference",
+    "definition": "Changeableness, difference"
+  },
+  {
+    "headword": "si/",
+    "copticWord": "ϣⲓⲏ",
+    "englishTransliteration": "shii",
+    "gloss": "Length",
+    "definition": "Length",
+    "crossReference": {
+      "target": "siai",
+      "gloss": "Length"
+    }
+  },
+  {
+    "headword": "(1) sitc",
+    "copticWord": "ϣⲓⲧⲥ",
+    "englishTransliteration": "shits",
+    "reference": "598b",
+    "partOfSpeech": "m",
+    "gloss": "Agnus castus (plant)",
+    "definition": "Agnus castus (plant)"
+  },
+  {
+    "headword": "(2) sitc",
+    "copticWord": "ϣⲓⲧⲥ",
+    "englishTransliteration": "shits",
+    "variants": [
+      {
+        "word": "[itc",
+        "note": "often",
+        "copticWord": "ϭⲓⲧⲥ",
+        "englishTransliteration": "chits"
+      }
+    ],
+    "reference": "598b",
+    "gloss": "pl. Land tortoise",
+    "definition": "pl. Land tortoise"
+  },
+  {
+    "headword": "sik",
+    "copticWord": "ϣⲓⲕ",
+    "englishTransliteration": "shik",
+    "gloss": "Depth",
+    "definition": "Depth",
+    "crossReference": {
+      "target": "siki",
+      "gloss": "Depth"
+    }
+  },
+  {
+    "headword": "siw",
+    "copticWord": "ϣⲓⲱ",
+    "englishTransliteration": "shiō",
+    "reference": "549b",
+    "partOfSpeech": "f",
+    "gloss": "Pot",
+    "definition": "Pot"
+  },
+  {
+    "headword": "sisem",
+    "copticWord": "ϣⲓϣⲉⲙ",
+    "englishTransliteration": "shishem",
+    "reference": "608a",
+    "gloss": "nn. Phantom, shadow",
+    "definition": "nn. Phantom, shadow"
+  },
+  {
+    "headword": "(1) si]",
+    "copticWord": "ϣⲓϯ",
+    "englishTransliteration": "shiti",
+    "variants": [
+      {
+        "word": "swt",
+        "copticWord": "ϣⲱⲧ",
+        "englishTransliteration": "shōt"
+      },
+      {
+        "word": "sat",
+        "copticWord": "ϣⲁⲧ",
+        "englishTransliteration": "shat"
+      },
+      {
+        "word": "set",
+        "copticWord": "ϣⲉⲧ",
+        "englishTransliteration": "shet"
+      },
+      {
+        "word": "sat=",
+        "copticWord": "ϣⲁⲧ",
+        "englishTransliteration": "shat"
+      },
+      {
+        "word": "set=",
+        "copticWord": "ϣⲉⲧ",
+        "englishTransliteration": "shet"
+      },
+      {
+        "word": "p.c. sat",
+        "copticWord": "ⲡ.ⲥ. ϣⲁⲧ",
+        "englishTransliteration": "p.s. shat"
+      }
+    ],
+    "reference": "594a",
+    "senses": [
+      {
+        "label": "vi",
+        "gloss": "To demand, extort",
+        "definition": "e-: vi. To demand mulct of; qa-: vi. To demand for, concerning; satmeynai: vi. To ask charity; refsi]: m. Demander, exactor."
+      }
+    ]
+  },
+  {
+    "headword": "siki",
+    "copticWord": "ϣⲓⲕⲓ",
+    "englishTransliteration": "shiki",
+    "reference": "555b",
+    "gloss": "(rare) vi. To dig",
+    "definition": "(rare) vi. To dig"
+  },
+  {
+    "headword": "simi",
+    "copticWord": "ϣⲓⲙⲓ",
+    "englishTransliteration": "shimi",
+    "reference": "564a",
+    "gloss": "(rare) f. Row, course",
+    "definition": "(rare) f. Row, course"
+  },
+  {
+    "headword": "sini",
+    "copticWord": "ϣⲓⲛⲓ",
+    "englishTransliteration": "shini",
+    "variants": [
+      {
+        "word": "sen",
+        "copticWord": "ϣⲉⲛ",
+        "englishTransliteration": "shen"
+      },
+      {
+        "word": "sen=",
+        "copticWord": "ϣⲉⲛ",
+        "englishTransliteration": "shen"
+      }
+    ],
+    "reference": "569a",
+    "gloss": "vi. To seek,",
+    "definition": "vi. To seek,"
+  },
+  {
+    "headword": "e",
+    "copticWord": "ⲉ",
+    "englishTransliteration": "e",
+    "gloss": "vi. To visit",
+    "definition": "vi. To visit"
+  },
+  {
+    "headword": "eybe",
+    "copticWord": "ⲉⲑⲃⲉ",
+    "englishTransliteration": "ethve",
+    "gloss": "vi. To ask concerning",
+    "definition": "vi. To ask concerning"
+  },
+  {
+    "headword": "nca",
+    "copticWord": "ⲛⲥⲁ",
+    "englishTransliteration": "nsa",
+    "gloss": "vi. To inquire for, seek after",
+    "definition": "vi. To inquire for, seek after"
+  },
+  {
+    "headword": "nten",
+    "copticWord": "ⲛⲧⲉⲛ",
+    "englishTransliteration": "nten",
+    "gloss": "vi. To ask of, from",
+    "definition": "vi. To ask of, from"
+  },
+  {
+    "headword": "qen",
+    "copticWord": "ϧⲉⲛ",
+    "englishTransliteration": "khen",
+    "gloss": "vi. To seek in, among",
+    "definition": "vi. To seek in, among",
+    "senses": [
+      {
+        "label": "sen",
+        "partOfSpeech": "m",
+        "gloss": "Inquiry",
+        "definition": "Inquiry"
+      }
+    ]
+  },
+  {
+    "headword": "(2) si]",
+    "copticWord": "ϣⲓϯ",
+    "englishTransliteration": "shiti",
+    "variants": [
+      {
+        "word": "sat",
+        "copticWord": "ϣⲁⲧ",
+        "englishTransliteration": "shat"
+      },
+      {
+        "word": "sat=",
+        "copticWord": "ϣⲁⲧ",
+        "englishTransliteration": "shat"
+      },
+      {
+        "word": "(Q) sat",
+        "copticWord": "(Ϧ) ϣⲁⲧ",
+        "englishTransliteration": "(Kh) shat"
+      }
+    ],
+    "reference": "594b",
+    "gloss": "vi. To leap, gush, vomit",
+    "definition": "---: m. Vomit."
+  },
+  {
+    "headword": "sennoufi",
+    "copticWord": "ϣⲉⲛⲛⲟⲩϥⲓ",
+    "englishTransliteration": "shennoufi",
+    "partOfSpeech": "m",
+    "gloss": "Good news",
+    "definition": "Good news"
+  },
+  {
+    "headword": "hisennoufi",
+    "copticWord": "ϩⲓϣⲉⲛⲛⲟⲩϥⲓ",
+    "englishTransliteration": "hishennoufi",
+    "partOfSpeech": "vb",
+    "gloss": "To tell good news",
+    "definition": "To tell good news"
+  },
+  {
+    "headword": "refsini",
+    "copticWord": "ⲣⲉϥϣⲓⲛⲓ",
+    "englishTransliteration": "refshini",
+    "partOfSpeech": "m",
+    "gloss": "Inquirer, wizard",
+    "definition": "Inquirer, wizard"
+  },
+  {
+    "headword": "skak",
+    "copticWord": "ϣⲕⲁⲕ",
+    "englishTransliteration": "shkak",
+    "reference": "556a",
+    "partOfSpeech": "m",
+    "gloss": "Cry, shout",
+    "definition": "Cry, shout"
+  },
+  {
+    "headword": "[i",
+    "copticWord": "ϭⲓ",
+    "englishTransliteration": "chi",
+    "gloss": "mpsini: vb. To get, bring news",
+    "definition": "visit;"
+  },
+  {
+    "headword": "skap",
+    "copticWord": "ϣⲕⲁⲡ",
+    "englishTransliteration": "shkap",
+    "reference": "619a"
+  },
+  {
+    "headword": "nn. cry",
+    "copticWord": "ⲛⲛ. ⲥⲣⲑ",
+    "englishTransliteration": "nn. srth",
+    "variants": [
+      {
+        "word": "sound (w/ vb. ws). skelkil",
+        "copticWord": "ϣⲟⲩⲛⲇ (ⲱⲏ ⲫⲃ. ⲱϣ). ϣⲕⲉⲗⲕⲓⲗ",
+        "englishTransliteration": "shound (ōi fv. ōsh). shkelkil"
+      }
+    ],
+    "reference": "556b",
+    "partOfSpeech": "m",
+    "gloss": "Curl, bell",
+    "definition": "Curl, bell"
+  },
+  {
+    "headword": "jimi mpsini",
+    "copticWord": "ϫⲓⲙⲓ ⲙⲡϣⲓⲛⲓ",
+    "englishTransliteration": "jimi mpshini",
+    "variants": [
+      {
+        "word": "jempsini",
+        "copticWord": "ϫⲉⲙⲡϣⲓⲛⲓ",
+        "englishTransliteration": "jempshini"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To visit",
+    "definition": "To visit"
+  },
+  {
+    "headword": "skw]",
+    "copticWord": "ϣⲕⲱϯ",
+    "englishTransliteration": "shkōti",
+    "reference": "557a",
+    "gloss": "pl. among weaver's implements",
+    "definition": "pl. among weaver's implements"
+  },
+  {
+    "headword": "slam",
+    "copticWord": "ϣⲗⲁⲙ",
+    "englishTransliteration": "shlam",
+    "gloss": "To kindle",
+    "definition": "To kindle",
+    "crossReference": {
+      "target": "[lam",
+      "gloss": "To kindle"
+    }
+  },
+  {
+    "headword": "slemlem",
+    "copticWord": "ϣⲗⲉⲙⲗⲉⲙ",
+    "englishTransliteration": "shlemlem",
+    "variants": [
+      {
+        "word": "slemlom=",
+        "copticWord": "ϣⲗⲉⲙⲗⲟⲙ",
+        "englishTransliteration": "shlemlom"
+      }
+    ],
+    "reference": "560a",
+    "gloss": "vi. To breed",
+    "definition": "vi. To breed"
+  },
+  {
+    "headword": "atjempsini",
+    "copticWord": "ⲁⲧϫⲉⲙⲡϣⲓⲛⲓ",
+    "englishTransliteration": "atjempshini",
+    "partOfSpeech": "adj",
+    "gloss": "unvisited, unrelieved",
+    "definition": "unvisited, unrelieved"
+  },
+  {
+    "headword": "faisini",
+    "copticWord": "ϥⲁⲓϣⲓⲛⲓ",
+    "englishTransliteration": "faishini",
+    "partOfSpeech": "m",
+    "gloss": "News-bearer, messenger",
+    "definition": "News-bearer, messenger"
+  },
+  {
+    "headword": "jinsini",
+    "copticWord": "ϫⲓⲛϣⲓⲛⲓ",
+    "englishTransliteration": "jinshini",
+    "partOfSpeech": "m",
+    "gloss": "Inquiry",
+    "definition": "Inquiry"
+  },
+  {
+    "headword": "sipi",
+    "copticWord": "ϣⲓⲡⲓ",
+    "englishTransliteration": "shipi",
+    "reference": "576b",
+    "gloss": "vi. To be ashamed",
+    "definition": "vt. to shame; make ashamed;",
+    "senses": [
+      {
+        "label": "n",
+        "gloss": "vi. To be ashamed of, at",
+        "definition": "--- qath/: vi. To be ashamed"
+      },
+      {
+        "gloss": "before, revere",
+        "definition": "before, revere"
+      }
+    ]
+  },
+  {
+    "headword": "slemlom=",
+    "copticWord": "ϣⲗⲉⲙⲗⲟⲙ",
+    "englishTransliteration": "shlemlom",
+    "gloss": "To breed",
+    "definition": "To breed",
+    "crossReference": {
+      "target": "slemlem",
+      "gloss": "To breed"
+    }
+  },
+  {
+    "headword": "sl/imi",
+    "copticWord": "ϣⲗⲏⲓⲙⲓ",
+    "englishTransliteration": "shliimi",
+    "variants": [
+      {
+        "word": "[l/imi",
+        "copticWord": "ϭⲗⲏⲓⲙⲓ",
+        "englishTransliteration": "chliimi"
+      }
+    ],
+    "reference": "560a",
+    "partOfSpeech": "m",
+    "gloss": "Cress, nasturtium",
+    "definition": "Cress, nasturtium"
+  },
+  {
+    "headword": "slit",
+    "copticWord": "ϣⲗⲓⲧ",
+    "englishTransliteration": "shlit",
+    "gloss": "Spike",
+    "definition": "Spike",
+    "crossReference": {
+      "target": "slox",
+      "gloss": "Spike"
+    }
+  },
+  {
+    "headword": "slij",
+    "copticWord": "ϣⲗⲓϫ",
+    "englishTransliteration": "shleeg",
+    "gloss": "Spike",
+    "definition": "Spike",
+    "crossReference": {
+      "target": "slox",
+      "gloss": "Spike"
+    }
+  },
+  {
+    "headword": "sloksi",
+    "copticWord": "ϣⲗⲟⲕϣⲓ",
+    "englishTransliteration": "shlokshi",
+    "gloss": "Spike",
+    "definition": "Spike",
+    "crossReference": {
+      "target": "slox",
+      "gloss": "Spike"
+    }
+  },
+  {
+    "headword": "slox",
+    "copticWord": "ϣⲗⲟⲝ",
+    "englishTransliteration": "shloks",
+    "variants": [
+      {
+        "word": "sloksi",
+        "copticWord": "ϣⲗⲟⲕϣⲓ",
+        "englishTransliteration": "shlokshi"
+      }
+    ],
+    "reference": "563a",
+    "partOfSpeech": "m",
+    "gloss": "Sharpened thing, spike",
+    "definition": "Sharpened thing, spike"
+  },
+  {
+    "headword": "atsipi",
+    "copticWord": "ⲁⲧϣⲓⲡⲓ",
+    "englishTransliteration": "atshipi",
+    "gloss": "adj",
+    "definition": "unashamed"
+  },
+  {
+    "headword": "metatsipi",
+    "copticWord": "ⲙⲉⲧⲁⲧϣⲓⲡⲓ",
+    "englishTransliteration": "metatshipi",
+    "partOfSpeech": "f",
+    "gloss": "shamelessness",
+    "definition": "shamelessness"
+  },
+  {
+    "headword": "]sipi",
+    "copticWord": "ϯϣⲓⲡⲓ",
+    "englishTransliteration": "tishipi",
+    "partOfSpeech": "vb",
+    "gloss": "To give, put to shame",
+    "definition": "To give, put to shame"
+  },
+  {
+    "headword": "slof",
+    "copticWord": "ϣⲗⲟϥ",
+    "englishTransliteration": "shlof",
+    "variants": [
+      {
+        "word": "[lof",
+        "copticWord": "ϭⲗⲟϥ",
+        "englishTransliteration": "chlof"
+      }
+    ],
+    "reference": "561b",
+    "partOfSpeech": "m",
+    "gloss": "Shame, disgrace",
+    "definition": "Shame, disgrace"
+  }
+]

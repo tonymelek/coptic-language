@@ -1,0 +1,632 @@
+[
+  {
+    "headword": "b",
+    "copticWord": "ⲃ",
+    "englishTransliteration": "v",
+    "reference": "27a",
+    "gloss": "2nd letter of the Coptic Alphabet",
+    "definition": "b, f. b]: the numeral '2'."
+  },
+  {
+    "headword": "bar/out",
+    "copticWord": "ⲃⲁⲣⲏⲟⲩⲧ",
+    "englishTransliteration": "variout",
+    "gloss": "He-goat",
+    "definition": "He-goat",
+    "crossReference": {
+      "target": "bar/it",
+      "gloss": "He-goat"
+    }
+  },
+  {
+    "headword": "baroc",
+    "copticWord": "ⲃⲁⲣⲟⲥ",
+    "englishTransliteration": "varos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "A weight, burden, load",
+    "definition": "adj. heavines."
+  },
+  {
+    "headword": "barot",
+    "copticWord": "ⲃⲁⲣⲟⲧ",
+    "englishTransliteration": "varot",
+    "gloss": "Brass",
+    "definition": "Brass",
+    "crossReference": {
+      "target": "barwt",
+      "gloss": "Brass"
+    }
+  },
+  {
+    "headword": "ba",
+    "copticWord": "ⲃⲁ",
+    "englishTransliteration": "va",
+    "reference": "28a",
+    "gloss": "used in names of metals, e.g. barwt 'brass'",
+    "definition": "used in names of metals, e.g. barwt 'brass'"
+  },
+  {
+    "headword": "baroh",
+    "copticWord": "ⲃⲁⲣⲟϩ",
+    "englishTransliteration": "varoh",
+    "reference": "44b",
+    "partOfSpeech": "m",
+    "gloss": "Fodderer",
+    "definition": "Fodderer"
+  },
+  {
+    "headword": "baal",
+    "copticWord": "ⲃⲁⲁⲗ",
+    "englishTransliteration": "vaal",
+    "gloss": "(Heb)",
+    "definition": "m. Baal, an idol of the Assyrians and the Phoenicians."
+  },
+  {
+    "headword": "babulon",
+    "copticWord": "ⲃⲁⲃⲩⲗⲟⲛ",
+    "englishTransliteration": "vavylon",
+    "gloss": "Babylon",
+    "definition": "Babylon",
+    "crossReference": {
+      "target": "babulwn",
+      "gloss": "Babylon"
+    }
+  },
+  {
+    "headword": "barwt",
+    "copticWord": "ⲃⲁⲣⲱⲧ",
+    "englishTransliteration": "varōt",
+    "variants": [
+      {
+        "word": "-ot",
+        "copticWord": "-ⲟⲧ",
+        "englishTransliteration": "-ot"
+      }
+    ],
+    "reference": "43b",
+    "partOfSpeech": "m",
+    "gloss": "Brass, bronze",
+    "definition": "Brass, bronze"
+  },
+  {
+    "headword": "homt barot",
+    "copticWord": "ϩⲟⲙⲧ ⲃⲁⲣⲟⲧ",
+    "englishTransliteration": "homt varot",
+    "partOfSpeech": "m",
+    "gloss": "A composite metal",
+    "definition": "A composite metal"
+  },
+  {
+    "headword": "barsin",
+    "copticWord": "ⲃⲁⲣϣⲓⲛ",
+    "englishTransliteration": "varshin",
+    "reference": "44a",
+    "partOfSpeech": "n",
+    "gloss": "Caulker, caulker's material, or act caulking",
+    "definition": "Caulker, caulker's material, or act caulking"
+  },
+  {
+    "headword": "babulwn",
+    "copticWord": "ⲃⲁⲃⲩⲗⲱⲛ",
+    "englishTransliteration": "vavylōn",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Babylon",
+    "definition": "Babylon"
+  },
+  {
+    "headword": "babulwn n",
+    "copticWord": "ⲃⲁⲃⲩⲗⲱⲛ ⲛ",
+    "englishTransliteration": "vavylōn n",
+    "variants": [
+      {
+        "word": "/mi",
+        "copticWord": "ⲏⲙⲓ",
+        "englishTransliteration": "imi"
+      }
+    ],
+    "partOfSpeech": "f",
+    "gloss": "Babylon Egypt, lies opposite Giza city east of the Nile",
+    "definition": "Babylon Egypt, lies opposite Giza city east of the Nile"
+  },
+  {
+    "headword": "bac=",
+    "copticWord": "ⲃⲁⲥ",
+    "englishTransliteration": "vas",
+    "gloss": "To saw",
+    "definition": "To saw",
+    "crossReference": {
+      "target": "ouici",
+      "gloss": "To saw"
+    }
+  },
+  {
+    "headword": "baempi",
+    "copticWord": "ⲃⲁⲉⲙⲡⲓ",
+    "englishTransliteration": "vaempi",
+    "reference": "39a",
+    "partOfSpeech": "n",
+    "gloss": "Goat",
+    "definition": "Goat"
+  },
+  {
+    "headword": "manibaempi",
+    "copticWord": "ⲙⲁⲛⲓⲃⲁⲉⲙⲡⲓ",
+    "englishTransliteration": "maneebaempi",
+    "partOfSpeech": "n",
+    "gloss": "Goatherd",
+    "definition": "Goatherd"
+  },
+  {
+    "headword": "bacanizin",
+    "copticWord": "ⲃⲁⲥⲁⲛⲓⲍⲓⲛ",
+    "englishTransliteration": "vasanizin",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "(w/ er-) v. To examin closely, torture, rake",
+    "definition": "(w/ er-) v. To examin closely, torture, rake"
+  },
+  {
+    "headword": "baymoc",
+    "copticWord": "ⲃⲁⲑⲙⲟⲥ",
+    "englishTransliteration": "vathmos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Step, threshold, rung of a ladder",
+    "definition": "step or degree of dignity."
+  },
+  {
+    "headword": "bacanoc",
+    "copticWord": "ⲃⲁⲥⲁⲛⲟⲥ",
+    "englishTransliteration": "vasanos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Torture, agony, tor-ment",
+    "definition": "Torture, agony, tor-ment"
+  },
+  {
+    "headword": "(1) bai",
+    "copticWord": "ⲃⲁⲓ",
+    "englishTransliteration": "vai",
+    "reference": "27b",
+    "partOfSpeech": "m",
+    "gloss": "Branch of date-palm",
+    "definition": "Branch of date-palm"
+  },
+  {
+    "headword": "bacileuc",
+    "copticWord": "ⲃⲁⲥⲓⲗⲉⲩⲥ",
+    "englishTransliteration": "vasilevs",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "King",
+    "definition": "King"
+  },
+  {
+    "headword": "(2) bai",
+    "copticWord": "ⲃⲁⲓ",
+    "englishTransliteration": "vai",
+    "reference": "28a",
+    "partOfSpeech": "m",
+    "gloss": "Night raven",
+    "definition": "screech-owl."
+  },
+  {
+    "headword": "bacilik/",
+    "copticWord": "ⲃⲁⲥⲓⲗⲓⲕⲏ",
+    "englishTransliteration": "vasiliki",
+    "gloss": "Royal",
+    "definition": "Royal",
+    "crossReference": {
+      "target": "bacilikoc",
+      "gloss": "Royal"
+    }
+  },
+  {
+    "headword": "bairi",
+    "copticWord": "ⲃⲁⲓⲣⲓ",
+    "englishTransliteration": "vairi",
+    "gloss": "Basket",
+    "definition": "Basket",
+    "crossReference": {
+      "target": "bir",
+      "gloss": "Basket"
+    }
+  },
+  {
+    "headword": "bacilikon",
+    "copticWord": "ⲃⲁⲥⲓⲗⲓⲕⲟⲛ",
+    "englishTransliteration": "vasilikon",
+    "gloss": "Royal",
+    "definition": "Royal",
+    "crossReference": {
+      "target": "bacilikoc",
+      "gloss": "Royal"
+    }
+  },
+  {
+    "headword": "bak=",
+    "copticWord": "ⲃⲁⲕ",
+    "englishTransliteration": "vak",
+    "gloss": "To go",
+    "definition": "To go",
+    "crossReference": {
+      "target": "(1)bwk",
+      "gloss": "To go"
+    }
+  },
+  {
+    "headword": "baki",
+    "copticWord": "ⲃⲁⲕⲓ",
+    "englishTransliteration": "vaki",
+    "reference": "30b",
+    "partOfSpeech": "f",
+    "gloss": "City, town",
+    "definition": "City, town",
+    "senses": [
+      {
+        "label": "va ]baki",
+        "partOfSpeech": "m",
+        "gloss": "Citizen",
+        "definition": "Citizen"
+      },
+      {
+        "label": "erremnbaki",
+        "gloss": "v. To be citizen",
+        "definition": "v. To be citizen"
+      }
+    ]
+  },
+  {
+    "headword": "bacilikoc",
+    "copticWord": "ⲃⲁⲥⲓⲗⲓⲕⲟⲥ",
+    "englishTransliteration": "vasilikos",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      },
+      {
+        "type": "f.",
+        "word": "-/",
+        "copticWord": "-ⲏ",
+        "englishTransliteration": "-i"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Royal, kingly, belonging to a king",
+    "definition": "m. basilica."
+  },
+  {
+    "headword": "bacilic",
+    "copticWord": "ⲃⲁⲥⲓⲗⲓⲥ",
+    "englishTransliteration": "vasilis",
+    "variants": [
+      {
+        "word": "-icca",
+        "copticWord": "-ⲓⲥⲥⲁ",
+        "englishTransliteration": "-issa"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Queen, empress",
+    "definition": "Queen, empress"
+  },
+  {
+    "headword": "bacilickoc",
+    "copticWord": "ⲃⲁⲥⲓⲗⲓⲥⲕⲟⲥ",
+    "englishTransliteration": "vasiliskos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Princelet, chieftain",
+    "definition": "Egyptian cobra"
+  },
+  {
+    "headword": "bacilicca",
+    "copticWord": "ⲃⲁⲥⲓⲗⲓⲥⲥⲁ",
+    "englishTransliteration": "vasilissa",
+    "gloss": "Queen",
+    "definition": "Queen",
+    "crossReference": {
+      "target": "bacilic",
+      "gloss": "Queen"
+    }
+  },
+  {
+    "headword": "bakt/ra",
+    "copticWord": "ⲃⲁⲕⲧⲏⲣⲁ",
+    "englishTransliteration": "vaktira",
+    "gloss": "Cane. bakt/ria, -ra: (Gk)",
+    "definition": "f. Staff, cane. baksar v. sar - Tanner.",
+    "crossReference": {
+      "target": "bakt/ria",
+      "gloss": "Cane. bakt/ria, -ra: (Gk)"
+    }
+  },
+  {
+    "headword": "bal",
+    "copticWord": "ⲃⲁⲗ",
+    "englishTransliteration": "val",
+    "reference": "31b",
+    "partOfSpeech": "m",
+    "gloss": "Eye",
+    "definition": "Eye",
+    "senses": [
+      {
+        "label": "balbwn",
+        "partOfSpeech": "m",
+        "gloss": "Evil eye",
+        "definition": "Evil eye"
+      },
+      {
+        "label": "hi noubal",
+        "gloss": "v. Cast a glance (from window)",
+        "definition": "v. Cast a glance (from window)"
+      }
+    ]
+  },
+  {
+    "headword": "bacic",
+    "copticWord": "ⲃⲁⲥⲓⲥ",
+    "englishTransliteration": "vasis",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Step, base, pedestal, foundation, basement",
+    "definition": "Step, base, pedestal, foundation, basement"
+  },
+  {
+    "headword": "bacn/t",
+    "copticWord": "ⲃⲁⲥⲛⲏⲧ",
+    "englishTransliteration": "vasnit",
+    "gloss": "Smith",
+    "definition": "Smith",
+    "crossReference": {
+      "target": "becn/t",
+      "gloss": "Smith"
+    }
+  },
+  {
+    "headword": "bact",
+    "copticWord": "ⲃⲁⲥⲧ",
+    "englishTransliteration": "vast",
+    "gloss": "To be dry",
+    "definition": "To be dry",
+    "crossReference": {
+      "target": "bwct",
+      "gloss": "To be dry"
+    }
+  },
+  {
+    "headword": "bacour",
+    "copticWord": "ⲃⲁⲥⲟⲩⲣ",
+    "englishTransliteration": "vasour",
+    "reference": "44b",
+    "partOfSpeech": "m",
+    "gloss": "Antimony",
+    "definition": "Antimony"
+  },
+  {
+    "headword": "balanoc",
+    "copticWord": "ⲃⲁⲗⲁⲛⲟⲥ",
+    "englishTransliteration": "valanos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Acorn",
+    "definition": "Acorn"
+  },
+  {
+    "headword": "(1) batoc",
+    "copticWord": "ⲃⲁⲧⲟⲥ",
+    "englishTransliteration": "vatos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Bramble, small tree, bush",
+    "definition": "Bramble, small tree, bush"
+  },
+  {
+    "headword": "balkou",
+    "copticWord": "ⲃⲁⲗⲕⲟⲩ",
+    "englishTransliteration": "valkou",
+    "reference": "38a",
+    "partOfSpeech": "f",
+    "gloss": "Bottle (for water)",
+    "definition": "Bottle (for water)"
+  },
+  {
+    "headword": "balmbah",
+    "copticWord": "ⲃⲁⲗⲙⲃⲁϩ",
+    "englishTransliteration": "valmvah",
+    "gloss": "Bald",
+    "definition": "Bald",
+    "crossReference": {
+      "target": "balmbeh",
+      "gloss": "Bald"
+    }
+  },
+  {
+    "headword": "(2) batoc",
+    "copticWord": "ⲃⲁⲧⲟⲥ",
+    "englishTransliteration": "vatos",
+    "gloss": "(Heb)",
+    "definition": "m. A Hebrew liquid measure."
+  },
+  {
+    "headword": "balmbeh",
+    "copticWord": "ⲃⲁⲗⲙⲃⲉϩ",
+    "englishTransliteration": "valmveh",
+    "variants": [
+      {
+        "word": "-bah",
+        "copticWord": "-ⲃⲁϩ",
+        "englishTransliteration": "-vah"
+      },
+      {
+        "word": "aloubeh",
+        "copticWord": "ⲁⲗⲟⲩⲃⲉϩ",
+        "englishTransliteration": "alouveh"
+      }
+    ],
+    "reference": "813a",
+    "partOfSpeech": "m",
+    "gloss": "Bald-headed person",
+    "definition": "Bald-headed person"
+  },
+  {
+    "headword": "(3) batoc",
+    "copticWord": "ⲃⲁⲧⲟⲥ",
+    "englishTransliteration": "vatos",
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Accessible",
+    "definition": "Accessible"
+  },
+  {
+    "headword": "balcamon",
+    "copticWord": "ⲃⲁⲗⲥⲁⲙⲟⲛ",
+    "englishTransliteration": "valsamon",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Balsam tree",
+    "definition": "Balsam tree"
+  },
+  {
+    "headword": "bas",
+    "copticWord": "ⲃⲁϣ",
+    "englishTransliteration": "vash",
+    "gloss": "To strip",
+    "definition": "To strip",
+    "crossReference": {
+      "target": "bws",
+      "gloss": "To strip"
+    }
+  },
+  {
+    "headword": "balh/t",
+    "copticWord": "ⲃⲁⲗϩⲏⲧ",
+    "englishTransliteration": "valhit",
+    "gloss": "Simple-minded",
+    "definition": "Simple-minded",
+    "crossReference": {
+      "target": "h/t",
+      "gloss": "Simple-minded"
+    }
+  },
+  {
+    "headword": "bara/it",
+    "copticWord": "ⲃⲁⲣⲁⲏⲓⲧ",
+    "englishTransliteration": "varaiit",
+    "gloss": "He-goat",
+    "definition": "He-goat",
+    "crossReference": {
+      "target": "bar/it",
+      "gloss": "He-goat"
+    }
+  },
+  {
+    "headword": "barbaroc",
+    "copticWord": "ⲃⲁⲣⲃⲁⲣⲟⲥ",
+    "englishTransliteration": "varvaros",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Babarian, i.e. non-greek, foreign",
+    "definition": "brutal, rude."
+  },
+  {
+    "headword": "bar/it (var. bara/it",
+    "copticWord": "ⲃⲁⲣⲏⲓⲧ (ⲫⲁⲣ. ⲃⲁⲣⲁⲏⲓⲧ",
+    "englishTransliteration": "variit (far. varaiit",
+    "variants": [
+      {
+        "word": "bar/out)",
+        "copticWord": "ⲃⲁⲣⲏⲟⲩⲧ)",
+        "englishTransliteration": "variout)"
+      }
+    ],
+    "reference": "43b",
+    "partOfSpeech": "m",
+    "gloss": "He-goat",
+    "definition": "He-goat"
+  },
+  {
+    "headword": "bas=",
+    "copticWord": "ⲃⲁϣ",
+    "englishTransliteration": "vash",
+    "gloss": "To strip",
+    "definition": "To strip",
+    "crossReference": {
+      "target": "bws",
+      "gloss": "To strip"
+    }
+  },
+  {
+    "headword": "basi",
+    "copticWord": "ⲃⲁϣⲓ",
+    "englishTransliteration": "vashi",
+    "reference": "47a",
+    "gloss": "m",
+    "definition": "m"
+  },
+  {
+    "headword": "Corps",
+    "copticWord": "Ⲥⲟⲣⲡϣ",
+    "englishTransliteration": "Sorpsh",
+    "variants": [
+      {
+        "word": "mummy",
+        "copticWord": "ⲙⲩⲙⲙⲑ",
+        "englishTransliteration": "mymmth"
+      },
+      {
+        "word": "a dead body basor",
+        "copticWord": "ⲁ ⲇⲉⲁⲇ ⲃⲟⲇⲑ ⲃⲁϣⲟⲣ",
+        "englishTransliteration": "a dead vodth vashor"
+      }
+    ],
+    "reference": "47b",
+    "partOfSpeech": "f",
+    "gloss": "Fox",
+    "definition": "Fox"
+  },
+  {
+    "headword": "basour",
+    "copticWord": "ⲃⲁϣⲟⲩⲣ",
+    "englishTransliteration": "vashour",
+    "reference": "47b",
+    "partOfSpeech": "f",
+    "gloss": "Saw",
+    "definition": "Saw"
+  },
+  {
+    "headword": "ro mbasour",
+    "copticWord": "ⲣⲟ ⲙⲃⲁϣⲟⲩⲣ",
+    "englishTransliteration": "ro mvashour",
+    "partOfSpeech": "n",
+    "gloss": "Saw-edged",
+    "definition": "Saw-edged"
+  }
+]

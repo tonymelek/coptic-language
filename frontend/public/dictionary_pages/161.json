@@ -1,0 +1,488 @@
+[
+  {
+    "headword": "hwlj",
+    "copticWord": "ϩⲱⲗϫ",
+    "englishTransliteration": "hōlj",
+    "variants": [
+      {
+        "word": "(Q) holji",
+        "copticWord": "(Ϧ) ϩⲟⲗϫⲓ",
+        "englishTransliteration": "(Kh) holji"
+      }
+    ],
+    "reference": "672b",
+    "gloss": "vi. To embrace",
+    "definition": "vi. To embrace"
+  },
+  {
+    "headword": "hwmi",
+    "copticWord": "ϩⲱⲙⲓ",
+    "englishTransliteration": "hōmi",
+    "variants": [
+      {
+        "word": "hem",
+        "copticWord": "ϩⲉⲙ",
+        "englishTransliteration": "hem"
+      },
+      {
+        "word": "hom=",
+        "copticWord": "ϩⲟⲙ",
+        "englishTransliteration": "hom"
+      },
+      {
+        "word": "(Q) homi",
+        "copticWord": "(Ϧ) ϩⲟⲙⲓ",
+        "englishTransliteration": "(Kh) homi"
+      }
+    ],
+    "reference": "674b",
+    "gloss": "vi. To tread, trample, beat",
+    "definition": "vi. To tread, trample, beat",
+    "senses": [
+      {
+        "label": "n",
+        "gloss": "vi. To tread with",
+        "definition": "vi. To tread with"
+      },
+      {
+        "label": "qen",
+        "gloss": "vi. To tread with",
+        "definition": "--: m. Treading, trampline; athwm: adj. Untrodden; manhwb: m. Place of treading; refhwm: m. Treader ( of wine press)."
+      }
+    ]
+  },
+  {
+    "headword": "refhwbc",
+    "copticWord": "ⲣⲉϥϩⲱⲃⲥ",
+    "englishTransliteration": "refhōvs",
+    "partOfSpeech": "m",
+    "gloss": "Coverer, protector",
+    "definition": "Coverer, protector"
+  },
+  {
+    "headword": "jinhwbc",
+    "copticWord": "ϫⲓⲛϩⲱⲃⲥ",
+    "englishTransliteration": "jinhōvs",
+    "partOfSpeech": "m",
+    "gloss": "Act of covering",
+    "definition": "hboc, hbwc"
+  },
+  {
+    "headword": "athbwc",
+    "copticWord": "ⲁⲧϩⲃⲱⲥ",
+    "englishTransliteration": "athvōs",
+    "partOfSpeech": "adj",
+    "gloss": "Without clothing",
+    "definition": "Without clothing"
+  },
+  {
+    "headword": "[ihboc",
+    "copticWord": "ϭⲓϩⲃⲟⲥ",
+    "englishTransliteration": "chihvos",
+    "variants": [
+      {
+        "word": "-hbwc",
+        "copticWord": "-ϩⲃⲱⲥ",
+        "englishTransliteration": "-hvōs"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "Clothing",
+    "definition": "Clothing"
+  },
+  {
+    "headword": "hebcw",
+    "copticWord": "ϩⲉⲃⲥⲱ",
+    "englishTransliteration": "hevsō",
+    "partOfSpeech": "f",
+    "gloss": "Garment",
+    "definition": "Garment"
+  },
+  {
+    "headword": "hwimi",
+    "copticWord": "ϩⲱⲓⲙⲓ",
+    "englishTransliteration": "hōimi",
+    "reference": "674a",
+    "partOfSpeech": "m",
+    "gloss": "Wave",
+    "definition": "Wave"
+  },
+  {
+    "headword": "(1) hwn",
+    "copticWord": "ϩⲱⲛ",
+    "englishTransliteration": "hōn",
+    "reference": "688a",
+    "gloss": "vi. To bid, command",
+    "definition": "---: m. Command."
+  },
+  {
+    "headword": "erhwimi",
+    "copticWord": "ⲉⲣϩⲱⲓⲙⲓ",
+    "englishTransliteration": "erhōimi",
+    "variants": [
+      {
+        "word": "oi nhwimi",
+        "copticWord": "ⲟⲓ ⲛϩⲱⲓⲙⲓ",
+        "englishTransliteration": "oi nhōimi"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To be covered with waves, be agitated",
+    "definition": "To be covered with waves, be agitated"
+  },
+  {
+    "headword": "fihwimi",
+    "copticWord": "ϥⲓϩⲱⲓⲙⲓ",
+    "englishTransliteration": "fihōimi",
+    "partOfSpeech": "vb",
+    "gloss": "To throw up waves",
+    "definition": "To throw up waves"
+  },
+  {
+    "headword": "(2) hwn",
+    "copticWord": "ϩⲱⲛ",
+    "englishTransliteration": "hōn",
+    "reference": "688a",
+    "partOfSpeech": "n",
+    "gloss": "from vb. go aground in shallows",
+    "definition": "from vb. go aground in shallows"
+  },
+  {
+    "headword": "hwiri",
+    "copticWord": "ϩⲱⲓⲣⲓ",
+    "englishTransliteration": "hōiri",
+    "reference": "697b"
+  },
+  {
+    "headword": "f. Dung (human or animal. hwi]",
+    "copticWord": "ϥ. Ⲇⲩⲛⲅ (ϩⲩⲙⲁⲛ ⲟⲣ ⲁⲛⲓⲙⲁⲗ. ϩⲱⲓϯ",
+    "englishTransliteration": "f. Dyng (hyman or animal. hōiti",
+    "reference": "720b",
+    "partOfSpeech": "f",
+    "gloss": "Hyena",
+    "definition": "Hyena"
+  },
+  {
+    "headword": "hwnt",
+    "copticWord": "ϩⲱⲛⲧ",
+    "englishTransliteration": "hōnt",
+    "gloss": "To approach",
+    "definition": "To approach",
+    "crossReference": {
+      "target": "qwnt",
+      "gloss": "To approach"
+    }
+  },
+  {
+    "headword": "(1) hwp",
+    "copticWord": "ϩⲱⲡ",
+    "englishTransliteration": "hōp",
+    "variants": [
+      {
+        "word": "hep",
+        "copticWord": "ϩⲉⲡ",
+        "englishTransliteration": "hep"
+      },
+      {
+        "word": "hop=",
+        "copticWord": "ϩⲟⲡ",
+        "englishTransliteration": "hop"
+      },
+      {
+        "word": "(Q) h/p",
+        "copticWord": "(Ϧ) ϩⲏⲡ",
+        "englishTransliteration": "(Kh) hip"
+      }
+    ],
+    "reference": "695a",
+    "gloss": "vi. To be hidden. hide",
+    "definition": "vi. To be hidden. hide",
+    "senses": [
+      {
+        "label": "e",
+        "gloss": "vi. To be hidden from",
+        "definition": "ma nhwp: m. Place of hiding; h/pi: f. Crypt, underground chamber."
+      }
+    ]
+  },
+  {
+    "headword": "pet",
+    "copticWord": "ⲡⲉⲧ",
+    "englishTransliteration": "pet",
+    "variants": [
+      {
+        "word": "neth/p",
+        "copticWord": "ⲛⲉⲧϩⲏⲡ",
+        "englishTransliteration": "nethip"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "What is hidden, hidden thing",
+    "definition": "What is hidden, hidden thing"
+  },
+  {
+    "headword": "hwki",
+    "copticWord": "ϩⲱⲕⲓ",
+    "englishTransliteration": "hōki",
+    "variants": [
+      {
+        "word": "qwki",
+        "copticWord": "ϧⲱⲕⲓ",
+        "englishTransliteration": "khōki"
+      },
+      {
+        "word": "qwk",
+        "copticWord": "ϧⲱⲕ",
+        "englishTransliteration": "khōk"
+      },
+      {
+        "word": "qek",
+        "copticWord": "ϧⲉⲕ",
+        "englishTransliteration": "khek"
+      },
+      {
+        "word": "qok=",
+        "copticWord": "ϧⲟⲕ",
+        "englishTransliteration": "khok"
+      },
+      {
+        "word": "(Q) q/k",
+        "copticWord": "(Ϧ) ϧⲏⲕ",
+        "englishTransliteration": "(Kh) khik"
+      }
+    ],
+    "reference": "662b",
+    "partOfSpeech": "vb",
+    "gloss": "To scrape, scratch",
+    "definition": "To scrape, scratch"
+  },
+  {
+    "headword": "hokc",
+    "copticWord": "ϩⲟⲕⲥ",
+    "englishTransliteration": "hoks",
+    "partOfSpeech": "m",
+    "gloss": "Scraper",
+    "definition": "Scraper"
+  },
+  {
+    "headword": "qwk",
+    "copticWord": "ϧⲱⲕ",
+    "englishTransliteration": "khōk",
+    "partOfSpeech": "m",
+    "gloss": "Fleece",
+    "definition": "Fleece"
+  },
+  {
+    "headword": "(1) hwl",
+    "copticWord": "ϩⲱⲗ",
+    "englishTransliteration": "hōl",
+    "variants": [
+      {
+        "word": "(Q) h/l",
+        "copticWord": "(Ϧ) ϩⲏⲗ",
+        "englishTransliteration": "(Kh) hil"
+      }
+    ],
+    "reference": "665b",
+    "gloss": "vi. To fly, go",
+    "definition": "--- ejen: vi. To fly upon, over; --- ebol: vi. To fly forth, go forth; --- ha: vb. To fly forth from; --- qen: vb. To fly forth from;",
+    "senses": [
+      {
+        "label": "mwit nhwl",
+        "partOfSpeech": "m",
+        "gloss": "Approach",
+        "definition": "jinhwl: m. Flight;"
+      },
+      {
+        "label": "halai",
+        "gloss": "vi. To fly ( of birds or insects)",
+        "definition": "halwouli: m. Flight of bird."
+      }
+    ]
+  },
+  {
+    "headword": "(2) hwp",
+    "copticWord": "ϩⲱⲡ",
+    "englishTransliteration": "hōp",
+    "variants": [
+      {
+        "word": "hwb",
+        "copticWord": "ϩⲱⲃ",
+        "englishTransliteration": "hōv"
+      }
+    ],
+    "reference": "696a"
+  },
+  {
+    "headword": "n. Horn. hwpc v. hwbc - To cover. hwr",
+    "copticWord": "ⲛ. Ϩⲟⲣⲛ. ϩⲱⲡⲥ ⲫ. ϩⲱⲃⲥ - Ⲧⲟ ⲥⲟⲫⲉⲣ. ϩⲱⲣ",
+    "englishTransliteration": "n. Horn. hōps f. hōvs - To sofer. hōr",
+    "reference": "697b",
+    "gloss": "vt. To squeeze out (milk), milk",
+    "definition": "vt. To squeeze out (milk), milk"
+  },
+  {
+    "headword": "hwrb",
+    "copticWord": "ϩⲱⲣⲃ",
+    "englishTransliteration": "hōrv",
+    "reference": "702a",
+    "gloss": "vi. To be broken",
+    "definition": "vi. To be broken"
+  },
+  {
+    "headword": "(1) hwrp",
+    "copticWord": "ϩⲱⲣⲡ",
+    "englishTransliteration": "hōrp",
+    "variants": [
+      {
+        "word": "(Q) horp",
+        "copticWord": "(Ϧ) ϩⲟⲣⲡ",
+        "englishTransliteration": "(Kh) horp"
+      }
+    ],
+    "reference": "703a",
+    "gloss": "vi. To sleep, doze",
+    "definition": "vi. To sleep, doze"
+  },
+  {
+    "headword": "(2) hwrp",
+    "copticWord": "ϩⲱⲣⲡ",
+    "englishTransliteration": "hōrp",
+    "variants": [
+      {
+        "word": "horp=",
+        "copticWord": "ϩⲟⲣⲡ",
+        "englishTransliteration": "horp"
+      },
+      {
+        "word": "(Q) horp",
+        "copticWord": "(Ϧ) ϩⲟⲣⲡ",
+        "englishTransliteration": "(Kh) horp"
+      }
+    ],
+    "reference": "703b",
+    "gloss": "vi. to be wet, drenched",
+    "definition": "vt. To wet drench;",
+    "senses": [
+      {
+        "label": "n",
+        "gloss": "vi. To be drenched with, in",
+        "definition": "vt. To drench with."
+      }
+    ]
+  },
+  {
+    "headword": "(2) hwl",
+    "copticWord": "ϩⲱⲗ",
+    "englishTransliteration": "hōl",
+    "variants": [
+      {
+        "word": "qwl",
+        "copticWord": "ϧⲱⲗ",
+        "englishTransliteration": "khōl"
+      }
+    ],
+    "reference": "666b",
+    "senses": [
+      {
+        "label": "To seize",
+        "partOfSpeech": "m",
+        "gloss": "Rapine, spoil.",
+        "definition": "refhwlem: m. Seizer, ravener, thief."
+      }
+    ]
+  },
+  {
+    "headword": "vi. To be hoarse. hwlem",
+    "copticWord": "ⲫⲓ. Ⲧⲟ ⲃⲉ ϩⲟⲁⲣϣⲉ. ϩⲱⲗⲉⲙ",
+    "englishTransliteration": "fi. To ve hoarshe. hōlem",
+    "variants": [
+      {
+        "word": "helem",
+        "copticWord": "ϩⲉⲗⲉⲙ",
+        "englishTransliteration": "helem"
+      },
+      {
+        "word": "holm=",
+        "copticWord": "ϩⲟⲗⲙ",
+        "englishTransliteration": "holm"
+      }
+    ],
+    "reference": "670a",
+    "gloss": "vi",
+    "definition": "vi"
+  },
+  {
+    "headword": "(hwrt)",
+    "copticWord": "(ϩⲱⲣⲧ)",
+    "englishTransliteration": "(hōrt)",
+    "variants": [
+      {
+        "word": "hort=",
+        "copticWord": "ϩⲟⲣⲧ",
+        "englishTransliteration": "hort"
+      }
+    ],
+    "reference": "704b",
+    "gloss": "vt. To seize, wrest",
+    "definition": "vt. To seize, wrest"
+  },
+  {
+    "headword": "(hwrs)",
+    "copticWord": "(ϩⲱⲣϣ)",
+    "englishTransliteration": "(hōrsh)",
+    "variants": [
+      {
+        "word": "hers",
+        "copticWord": "ϩⲉⲣϣ",
+        "englishTransliteration": "hersh"
+      }
+    ],
+    "reference": "706a",
+    "gloss": "To run (ship) aground",
+    "definition": "To run (ship) aground"
+  },
+  {
+    "headword": "(1) hwc",
+    "copticWord": "ϩⲱⲥ",
+    "englishTransliteration": "hōs",
+    "reference": "709b",
+    "gloss": "vi. To sing, make music",
+    "definition": "--- e-: vi. To sing to;",
+    "senses": [
+      {
+        "label": "qen",
+        "gloss": "vi. To sing in",
+        "definition": "vi. To sing in"
+      },
+      {
+        "label": "qajen",
+        "gloss": "vi. To sing before",
+        "definition": "vi. To sing before"
+      }
+    ]
+  },
+  {
+    "headword": "hwlk",
+    "copticWord": "ϩⲱⲗⲕ",
+    "englishTransliteration": "hōlk",
+    "variants": [
+      {
+        "word": "(Q) holk",
+        "copticWord": "(Ϧ) ϩⲟⲗⲕ",
+        "englishTransliteration": "(Kh) holk"
+      }
+    ],
+    "reference": "668b",
+    "gloss": "vt. To twist, roll, braid",
+    "definition": "--- nca: vb. To twist (with emphasis);"
+  },
+  {
+    "headword": "metholk",
+    "copticWord": "ⲙⲉⲧϩⲟⲗⲕ",
+    "englishTransliteration": "metholk",
+    "partOfSpeech": "f",
+    "gloss": "Twisting ( of cord &c). hwlf: (672a)",
+    "definition": "adv. Hastily."
+  }
+]

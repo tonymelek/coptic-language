@@ -1,0 +1,457 @@
+[
+  {
+    "headword": "erckeptin",
+    "copticWord": "ⲉⲣⲥⲕⲉⲡⲧⲓⲛ",
+    "englishTransliteration": "erskeptin",
+    "partOfSpeech": "vb",
+    "gloss": "To examine, consider. ckerakir v. ckerker - Slope. ckerker, ckerker=, ckerkwr (Q): (329a)",
+    "definition": "To examine, consider. ckerakir v. ckerker - Slope. ckerker, ckerker=, ckerkwr (Q): (329a)",
+    "senses": [
+      {
+        "label": "vi",
+        "gloss": "qarat=: vb. To roll below",
+        "definition": "qen-: vi. To roll in; ebol qen-: vb. To roll from; hijen-: vb. To roll upon; ckerakir: n. Steep place, slope. To roll, be rolled; ejen-: vi. To roll, loll upon; vt. to roll upon;"
+      }
+    ]
+  },
+  {
+    "headword": "ebol qen",
+    "copticWord": "ⲉⲃⲟⲗ ϧⲉⲛ",
+    "englishTransliteration": "evol khen",
+    "partOfSpeech": "vb",
+    "gloss": "To cast out from",
+    "definition": "To cast out from"
+  },
+  {
+    "headword": "ebol hijen",
+    "copticWord": "ⲉⲃⲟⲗ ϩⲓϫⲉⲛ",
+    "englishTransliteration": "evol heegen",
+    "partOfSpeech": "vb",
+    "gloss": "To cast out upon",
+    "definition": "To cast out upon"
+  },
+  {
+    "headword": "epec/t",
+    "copticWord": "ⲉⲡⲉⲥⲏⲧ",
+    "englishTransliteration": "epesit",
+    "partOfSpeech": "vb",
+    "gloss": "To throw down",
+    "definition": "To throw down"
+  },
+  {
+    "headword": "epswi",
+    "copticWord": "ⲉⲡϣⲱⲓ",
+    "englishTransliteration": "epshōi",
+    "partOfSpeech": "vb",
+    "gloss": "To cast, bring up",
+    "definition": "To cast, bring up"
+  },
+  {
+    "headword": "eqoun",
+    "copticWord": "ⲉϧⲟⲩⲛ",
+    "englishTransliteration": "ekhoun",
+    "partOfSpeech": "vb",
+    "gloss": "To cast in",
+    "definition": "To cast in"
+  },
+  {
+    "headword": "eqr/i",
+    "copticWord": "ⲉϧⲣⲏⲓ",
+    "englishTransliteration": "ekhrii",
+    "partOfSpeech": "vb",
+    "gloss": "To cast down",
+    "definition": "To cast down"
+  },
+  {
+    "headword": "ehr/i",
+    "copticWord": "ⲉϩⲣⲏⲓ",
+    "englishTransliteration": "ehrii",
+    "partOfSpeech": "vb",
+    "gloss": "To throw up",
+    "definition": "To throw up",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "Thing thrown, seed",
+        "definition": "Thing thrown, seed"
+      },
+      {
+        "label": "jinci]",
+        "partOfSpeech": "m",
+        "gloss": "Sowing",
+        "definition": "Sowing"
+      },
+      {
+        "label": "cetebr/j",
+        "gloss": "nn. Lightning",
+        "definition": "ca]: mf. Arrow dart."
+      },
+      {
+        "label": "ckandalon",
+        "gloss": "Scandal",
+        "definition": "Scandal"
+      },
+      {
+        "label": "ckandaloc",
+        "reference": "Gk",
+        "partOfSpeech": "m",
+        "gloss": "Trap, snare",
+        "definition": "stumbling-block, offence, scandal; erckandalizin, -zecye: vb. To cause to stumble, give offence or scandal; to take offence.",
+        "isGreek": true
+      },
+      {
+        "label": "ckav/",
+        "reference": "Gk",
+        "partOfSpeech": "f",
+        "gloss": "Boat, small vessel",
+        "definition": "Boat, small vessel",
+        "isGreek": true
+      }
+    ]
+  },
+  {
+    "headword": "ckerker=",
+    "copticWord": "ⲥⲕⲉⲣⲕⲉⲣ",
+    "englishTransliteration": "skerker",
+    "gloss": "To roll",
+    "definition": "To roll",
+    "crossReference": {
+      "target": "ckerker",
+      "gloss": "To roll"
+    }
+  },
+  {
+    "headword": "ckeuoc",
+    "copticWord": "ⲥⲕⲉⲩⲟⲥ",
+    "englishTransliteration": "skevos",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "A vessel or impement of any kind, utensils (pl)",
+    "definition": "A vessel or impement of any kind, utensils (pl)"
+  },
+  {
+    "headword": "ck/ma",
+    "copticWord": "ⲥⲕⲏⲙⲁ",
+    "englishTransliteration": "skima",
+    "gloss": "Schema",
+    "definition": "Schema",
+    "crossReference": {
+      "target": "c,/ma",
+      "gloss": "Schema"
+    }
+  },
+  {
+    "headword": "ck/n/",
+    "copticWord": "ⲥⲕⲏⲛⲏ",
+    "englishTransliteration": "skini",
+    "variants": [
+      {
+        "word": "ckun/",
+        "copticWord": "ⲥⲕⲩⲛⲏ",
+        "englishTransliteration": "skyni"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Tent, booth, tabernacle, tented cover",
+    "definition": "dome."
+  },
+  {
+    "headword": "ckordion",
+    "copticWord": "ⲥⲕⲟⲣⲇⲓⲟⲛ",
+    "englishTransliteration": "skordion",
+    "reference": "Gk?",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Part of the deacon garments, Zinnar",
+    "definition": "Part of the deacon garments, Zinnar"
+  },
+  {
+    "headword": "ckorker",
+    "copticWord": "ⲥⲕⲟⲣⲕⲉⲣ",
+    "englishTransliteration": "skorker",
+    "reference": "330a",
+    "partOfSpeech": "m",
+    "gloss": "Beer",
+    "definition": "Beer"
+  },
+  {
+    "headword": "ckuy/c",
+    "copticWord": "ⲥⲕⲩⲑⲏⲥ",
+    "englishTransliteration": "skythis",
+    "variants": [
+      {
+        "word": "ckuyoc",
+        "copticWord": "ⲥⲕⲩⲑⲟⲥ",
+        "englishTransliteration": "skythos"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Rude, rough",
+    "definition": "Rude, rough"
+  },
+  {
+    "headword": "ckuli",
+    "copticWord": "ⲥⲕⲩⲗⲓ",
+    "englishTransliteration": "skyli",
+    "reference": "Gk?",
+    "isGreek": true,
+    "gloss": "Unknown",
+    "definition": "Unknown"
+  },
+  {
+    "headword": "ckuyoc",
+    "copticWord": "ⲥⲕⲩⲑⲟⲥ",
+    "englishTransliteration": "skythos",
+    "gloss": "Rude",
+    "definition": "Rude",
+    "crossReference": {
+      "target": "ckuy/c",
+      "gloss": "Rude"
+    }
+  },
+  {
+    "headword": "ckun/",
+    "copticWord": "ⲥⲕⲩⲛⲏ",
+    "englishTransliteration": "skyni",
+    "gloss": "Tent",
+    "definition": "Tent",
+    "crossReference": {
+      "target": "ck/n/",
+      "gloss": "Tent"
+    }
+  },
+  {
+    "headword": "ckut/c",
+    "copticWord": "ⲥⲕⲩⲧⲏⲥ",
+    "englishTransliteration": "skytis",
+    "gloss": "Skin",
+    "definition": "Skin",
+    "crossReference": {
+      "target": "ckutoc",
+      "gloss": "Skin"
+    }
+  },
+  {
+    "headword": "ckavi",
+    "copticWord": "ⲥⲕⲁⲫⲓ",
+    "englishTransliteration": "skafi",
+    "gloss": "Boat",
+    "definition": "Boat",
+    "crossReference": {
+      "target": "ckav/",
+      "gloss": "Boat"
+    }
+  },
+  {
+    "headword": "ckutoc",
+    "copticWord": "ⲥⲕⲩⲧⲟⲥ",
+    "englishTransliteration": "skytos",
+    "variants": [
+      {
+        "word": "-/c",
+        "copticWord": "-ⲏⲥ",
+        "englishTransliteration": "-is"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Skin, hide, leather,",
+    "definition": "Skin, hide, leather,"
+  },
+  {
+    "headword": "ckavic",
+    "copticWord": "ⲥⲕⲁⲫⲓⲥ",
+    "englishTransliteration": "skafis",
+    "gloss": "Boat",
+    "definition": "Boat",
+    "crossReference": {
+      "target": "ckav/",
+      "gloss": "Boat"
+    }
+  },
+  {
+    "headword": "cken",
+    "copticWord": "ⲥⲕⲉⲛ",
+    "englishTransliteration": "sken",
+    "variants": [
+      {
+        "word": "ckent=",
+        "copticWord": "ⲥⲕⲉⲛⲧ",
+        "englishTransliteration": "skent"
+      }
+    ],
+    "reference": "329a",
+    "partOfSpeech": "n",
+    "gloss": "Side",
+    "definition": "Side"
+  },
+  {
+    "headword": "ecken",
+    "copticWord": "ⲉⲥⲕⲉⲛ",
+    "englishTransliteration": "esken",
+    "gloss": "prep. Beside",
+    "definition": "prep. Beside"
+  },
+  {
+    "headword": "ckenho",
+    "copticWord": "ⲥⲕⲉⲛϩⲟ",
+    "englishTransliteration": "skenho",
+    "gloss": "Good appearance",
+    "definition": "Good appearance"
+  },
+  {
+    "headword": "ckent=",
+    "copticWord": "ⲥⲕⲉⲛⲧ",
+    "englishTransliteration": "skent",
+    "gloss": "Side",
+    "definition": "Side",
+    "crossReference": {
+      "target": "cken",
+      "gloss": "Side"
+    }
+  },
+  {
+    "headword": "clatlet",
+    "copticWord": "ⲥⲗⲁⲧⲗⲉⲧ",
+    "englishTransliteration": "slatlet",
+    "reference": "333a",
+    "partOfSpeech": "m",
+    "gloss": "Slip, stumbling",
+    "definition": "Slip, stumbling"
+  },
+  {
+    "headword": "clajlej",
+    "copticWord": "ⲥⲗⲁϫⲗⲉϫ",
+    "englishTransliteration": "slajlej",
+    "variants": [
+      {
+        "word": "clejlwj",
+        "note": "Q",
+        "copticWord": "ⲥⲗⲉϫⲗⲱϫ",
+        "englishTransliteration": "slejlōj"
+      }
+    ],
+    "reference": "333b",
+    "gloss": "vi. To be, make smooth",
+    "definition": "---: n. Smoothness."
+  },
+  {
+    "headword": "ckepacma",
+    "copticWord": "ⲥⲕⲉⲡⲁⲥⲙⲁ",
+    "englishTransliteration": "skepasma",
+    "variants": [
+      {
+        "word": "-coc",
+        "copticWord": "-ⲥⲟⲥ",
+        "englishTransliteration": "-sos"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "A covering for the body, raiment, veil",
+    "definition": "A covering for the body, raiment, veil",
+    "senses": [
+      {
+        "label": "erckepazin",
+        "partOfSpeech": "vb",
+        "gloss": "To cover, protect",
+        "definition": "To cover, protect"
+      }
+    ]
+  },
+  {
+    "headword": "cla]",
+    "copticWord": "ⲥⲗⲁϯ",
+    "englishTransliteration": "slati",
+    "reference": "332b",
+    "gloss": "vi. To stumble, slip",
+    "definition": "--- epec/t: vb. To slip down; --- eqr/i: vb. To slip down"
+  },
+  {
+    "headword": "refcla]",
+    "copticWord": "ⲣⲉϥⲥⲗⲁϯ",
+    "englishTransliteration": "refslati",
+    "partOfSpeech": "m",
+    "gloss": "One that stumbles",
+    "definition": "One that stumbles"
+  },
+  {
+    "headword": "atcla]",
+    "copticWord": "ⲁⲧⲥⲗⲁϯ",
+    "englishTransliteration": "atslati",
+    "partOfSpeech": "adj",
+    "gloss": "Not stumbling",
+    "definition": "---: m. Stumbling, falling."
+  },
+  {
+    "headword": "ckepacoc",
+    "copticWord": "ⲥⲕⲉⲡⲁⲥⲟⲥ",
+    "englishTransliteration": "skepasos",
+    "gloss": "veil. ckep/: (Gk)",
+    "definition": "f. Protector, veil, covering, tent.",
+    "crossReference": {
+      "target": "ckepacma",
+      "gloss": "veil. ckep/: (Gk)"
+    }
+  },
+  {
+    "headword": "ckeptocun/",
+    "copticWord": "ⲥⲕⲉⲡⲧⲟⲥⲩⲛⲏ",
+    "englishTransliteration": "skeptosyni",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Contemplation, reflection, consideration",
+    "definition": "Contemplation, reflection, consideration"
+  },
+  {
+    "headword": "cl/",
+    "copticWord": "ⲥⲗⲏ",
+    "englishTransliteration": "sli",
+    "reference": "330a",
+    "partOfSpeech": "f",
+    "gloss": "Coffin",
+    "definition": "Coffin"
+  },
+  {
+    "headword": "clifi",
+    "copticWord": "ⲥⲗⲓϥⲓ",
+    "englishTransliteration": "slifi",
+    "reference": "333b",
+    "partOfSpeech": "f",
+    "gloss": "Lung",
+    "definition": "Lung"
+  },
+  {
+    "headword": "clij",
+    "copticWord": "ⲥⲗⲓϫ",
+    "englishTransliteration": "sleeg",
+    "reference": "333b",
+    "partOfSpeech": "n",
+    "gloss": "State of being on edge of teeth",
+    "definition": "State of being on edge of teeth"
+  },
+  {
+    "headword": "cloplep",
+    "copticWord": "ⲥⲗⲟⲡⲗⲉⲡ",
+    "englishTransliteration": "sloplep",
+    "variants": [
+      {
+        "word": "cleplwp",
+        "note": "Q",
+        "copticWord": "ⲥⲗⲉⲡⲗⲱⲡ",
+        "englishTransliteration": "sleplōp"
+      }
+    ],
+    "reference": "331b",
+    "gloss": "vt. To tear asunder",
+    "definition": "vt. To tear asunder"
+  }
+]

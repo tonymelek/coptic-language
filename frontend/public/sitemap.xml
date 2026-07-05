@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>/</loc></url>
+  <url><loc>/about.html</loc></url>
+  <url><loc>/story.html</loc></url>
+  <url><loc>/contact.html</loc></url>
+  <url><loc>/support.html</loc></url>
+  <url><loc>/app/</loc></url>
+  <url><loc>/app/dictionary</loc></url>
+  <url><loc>/app/unicode</loc></url>
+  <url><loc>/app/pronounce</loc></url>
+</urlset>

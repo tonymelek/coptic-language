@@ -1,0 +1,387 @@
+[
+  {
+    "headword": "[ihmot",
+    "copticWord": "ϭⲓϩⲙⲟⲧ",
+    "englishTransliteration": "chihmot",
+    "partOfSpeech": "vb",
+    "gloss": "To obtain grace, favor",
+    "definition": "--- oube: vb. To obtain favor against, over;"
+  },
+  {
+    "headword": "meth/ki",
+    "copticWord": "ⲙⲉⲧϩⲏⲕⲓ",
+    "englishTransliteration": "methiki",
+    "partOfSpeech": "m",
+    "gloss": "Hunger, famine",
+    "definition": "Hunger, famine",
+    "senses": [
+      {
+        "label": "erh/ki",
+        "partOfSpeech": "vb",
+        "gloss": "To become, be poor",
+        "definition": "To become, be poor"
+      },
+      {
+        "label": "hl/ji",
+        "gloss": "Sweetness",
+        "definition": "Sweetness"
+      },
+      {
+        "label": "hli",
+        "reference": "667b",
+        "partOfSpeech": "n",
+        "gloss": "used as pron. (positive) anyone, anything, something",
+        "definition": "(negative) nothing; (w/Copt. neg.) no one, nothing; adv. at all."
+      }
+    ]
+  },
+  {
+    "headword": "h/ki",
+    "copticWord": "ϩⲏⲕⲓ",
+    "englishTransliteration": "hiki",
+    "partOfSpeech": "adj",
+    "gloss": "Poor, n. poor person",
+    "definition": "Poor, n. poor person"
+  },
+  {
+    "headword": "jemhmot",
+    "copticWord": "ϫⲉⲙϩⲙⲟⲧ",
+    "englishTransliteration": "jemhmot",
+    "partOfSpeech": "vb",
+    "gloss": "To find favor",
+    "definition": "To find favor"
+  },
+  {
+    "headword": "hmoj (Q)",
+    "copticWord": "ϩⲙⲟϫ (Ϧ)",
+    "englishTransliteration": "hmoj (Kh)",
+    "reference": "682b",
+    "gloss": "vi. To become, be sour",
+    "definition": "vi. To become, be sour"
+  },
+  {
+    "headword": "hemj",
+    "copticWord": "ϩⲉⲙϫ",
+    "englishTransliteration": "hemj",
+    "partOfSpeech": "m",
+    "gloss": "Vinegar",
+    "definition": "Vinegar"
+  },
+  {
+    "headword": "hmou",
+    "copticWord": "ϩⲙⲟⲩ",
+    "englishTransliteration": "hmou",
+    "reference": "676b",
+    "partOfSpeech": "m",
+    "gloss": "Salt",
+    "definition": "Salt",
+    "senses": [
+      {
+        "label": "athmou",
+        "partOfSpeech": "adj",
+        "gloss": "Unsalted",
+        "definition": "Unsalted"
+      },
+      {
+        "label": "haami",
+        "partOfSpeech": "m",
+        "gloss": "Salt land",
+        "definition": "Salt land"
+      }
+    ]
+  },
+  {
+    "headword": "athli",
+    "copticWord": "ⲁⲧϩⲗⲓ",
+    "englishTransliteration": "athli",
+    "partOfSpeech": "adj",
+    "gloss": "Without any",
+    "definition": "Without any"
+  },
+  {
+    "headword": "hliji",
+    "copticWord": "ϩⲗⲓϫⲓ",
+    "englishTransliteration": "hleegi",
+    "reference": "672b"
+  },
+  {
+    "headword": "m. Diarrhea. hlol",
+    "copticWord": "ⲙ. Ⲇⲓⲁⲣⲣϩⲉⲁ. ϩⲗⲟⲗ",
+    "englishTransliteration": "m. Diarrhea. hlol",
+    "variants": [
+      {
+        "word": "ehlol",
+        "copticWord": "ⲉϩⲗⲟⲗ",
+        "englishTransliteration": "ehlol"
+      }
+    ],
+    "reference": "668b",
+    "partOfSpeech": "m",
+    "gloss": "Darkness",
+    "definition": "Darkness"
+  },
+  {
+    "headword": "hmwt",
+    "copticWord": "ϩⲙⲱⲧ",
+    "englishTransliteration": "hmōt",
+    "gloss": "Grace. hnau: (693a)",
+    "definition": "m. Flowering branch of palm. hnim v. hinim - To sleep.",
+    "crossReference": {
+      "target": "hmot",
+      "gloss": "Grace. hnau: (693a)"
+    }
+  },
+  {
+    "headword": "erhlol",
+    "copticWord": "ⲉⲣϩⲗⲟⲗ",
+    "englishTransliteration": "erhlol",
+    "variants": [
+      {
+        "word": "oi nhlol",
+        "copticWord": "ⲟⲓ ⲛϩⲗⲟⲗ",
+        "englishTransliteration": "oi nhlol"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To become, be darkned",
+    "definition": "To become, be darkned"
+  },
+  {
+    "headword": "ho",
+    "copticWord": "ϩⲟ",
+    "englishTransliteration": "ho",
+    "variants": [
+      {
+        "word": "hra=",
+        "copticWord": "ϩⲣⲁ",
+        "englishTransliteration": "hra"
+      },
+      {
+        "word": "hre=",
+        "copticWord": "ϩⲣⲉ",
+        "englishTransliteration": "hre"
+      }
+    ],
+    "reference": "646b",
+    "partOfSpeech": "m",
+    "gloss": "Face",
+    "definition": "Face",
+    "senses": [
+      {
+        "label": "]ho",
+        "partOfSpeech": "vb",
+        "gloss": "To put, direct",
+        "definition": "To put, direct"
+      },
+      {
+        "label": "swp ho",
+        "partOfSpeech": "vb",
+        "gloss": "To receive, accept",
+        "definition": "To receive, accept"
+      },
+      {
+        "label": "fi ho",
+        "partOfSpeech": "vb",
+        "gloss": "To raise",
+        "definition": "To raise"
+      },
+      {
+        "label": "hi pho",
+        "partOfSpeech": "vb",
+        "gloss": "To overlook, disregard",
+        "definition": "To overlook, disregard"
+      },
+      {
+        "label": "[i",
+        "gloss": "ho, [i pho, [i mpho: vb. To take face, respect person, pay heed",
+        "definition": "ho, [i pho, [i mpho: vb. To take face, respect person, pay heed"
+      },
+      {
+        "label": "ref[i ho",
+        "partOfSpeech": "m",
+        "gloss": "The one who shows favor",
+        "definition": "The one who shows favor"
+      },
+      {
+        "label": "[i",
+        "gloss": "hra=, [i nhra=: vb. To disport, amuse, occupy self, converse",
+        "definition": "hra=, [i nhra=: vb. To disport, amuse, occupy self, converse"
+      },
+      {
+        "label": "[i",
+        "gloss": "hraf, [i nhraf: m. Distraction",
+        "definition": "at[ihraf: adj. Without"
+      },
+      {
+        "label": "distraction; ]ho",
+        "partOfSpeech": "vb",
+        "gloss": "To give face, beseech, encourage",
+        "definition": "To give face, beseech, encourage"
+      },
+      {
+        "label": "ejen",
+        "partOfSpeech": "vb",
+        "gloss": "To beseech on behalf of",
+        "definition": "To beseech on behalf of"
+      },
+      {
+        "label": "jemho",
+        "partOfSpeech": "vb",
+        "gloss": "To find face, be sufficient",
+        "definition": "ehren-, ehra=: prep. Toward face of, to, among;"
+      },
+      {
+        "label": "eqoun e",
+        "gloss": "prep. In toward, before",
+        "definition": "nahren-, nahra=: prep. In the presence of, before."
+      }
+    ]
+  },
+  {
+    "headword": "hanho",
+    "copticWord": "ϩⲁⲛϩⲟ",
+    "englishTransliteration": "hanho",
+    "gloss": "from face, away from",
+    "definition": "from face, away from"
+  },
+  {
+    "headword": "hloli",
+    "copticWord": "ϩⲗⲟⲗⲓ",
+    "englishTransliteration": "hloli",
+    "reference": "669a",
+    "gloss": "vt. To nurse, carry (child)",
+    "definition": "vt. To nurse, carry (child)"
+  },
+  {
+    "headword": "hloj",
+    "copticWord": "ϩⲗⲟϫ",
+    "englishTransliteration": "hloj",
+    "variants": [
+      {
+        "word": "(Q) holj",
+        "copticWord": "(Ϧ) ϩⲟⲗϫ",
+        "englishTransliteration": "(Kh) holj"
+      }
+    ],
+    "reference": "673a",
+    "gloss": "vi. To be sweet, take delight",
+    "definition": "vi. To be sweet, take delight",
+    "senses": [
+      {
+        "label": "e",
+        "gloss": "vi. To be sweet beyond, above",
+        "definition": "--: m. Sweetness; ]holj: vb. To make sweet, pleasant; helje, pl. helj/u: mf. Sweetness; hl/ji: f. Sweetness."
+      }
+    ]
+  },
+  {
+    "headword": "hloulwou",
+    "copticWord": "ϩⲗⲟⲩⲗⲱⲟⲩ",
+    "englishTransliteration": "hloulōou",
+    "variants": [
+      {
+        "word": "loulwou",
+        "copticWord": "ⲗⲟⲩⲗⲱⲟⲩ",
+        "englishTransliteration": "loulōou"
+      }
+    ],
+    "reference": "672a",
+    "gloss": "Q. To be high, exalted",
+    "definition": "Q. To be high, exalted"
+  },
+  {
+    "headword": "hlwili",
+    "copticWord": "ϩⲗⲱⲓⲗⲓ",
+    "englishTransliteration": "hlōili",
+    "gloss": "To float",
+    "definition": "To float",
+    "crossReference": {
+      "target": "lwili",
+      "gloss": "To float"
+    }
+  },
+  {
+    "headword": "hme",
+    "copticWord": "ϩⲙⲉ",
+    "englishTransliteration": "hme",
+    "reference": "667a",
+    "partOfSpeech": "adj",
+    "gloss": "n. Forty",
+    "definition": "n. Forty"
+  },
+  {
+    "headword": "hm/",
+    "copticWord": "ϩⲙⲏ",
+    "englishTransliteration": "hmi",
+    "variants": [
+      {
+        "word": "h/m/",
+        "copticWord": "ϩⲏⲙⲏ",
+        "englishTransliteration": "himi"
+      },
+      {
+        "word": "hum/",
+        "copticWord": "ϩⲩⲙⲏ",
+        "englishTransliteration": "hymi"
+      }
+    ],
+    "reference": "667b",
+    "partOfSpeech": "mf"
+  },
+  {
+    "headword": "Pelican. hmot",
+    "copticWord": "Ⲡⲉⲗⲓⲥⲁⲛ. ϩⲙⲟⲧ",
+    "englishTransliteration": "Pelisan. hmot",
+    "variants": [
+      {
+        "word": "ehmot",
+        "copticWord": "ⲉϩⲙⲟⲧ",
+        "englishTransliteration": "ehmot"
+      },
+      {
+        "word": "hmwt",
+        "copticWord": "ϩⲙⲱⲧ",
+        "englishTransliteration": "hmōt"
+      }
+    ],
+    "reference": "681a",
+    "partOfSpeech": "m",
+    "senses": [
+      {
+        "label": "Grace",
+        "partOfSpeech": "adj",
+        "gloss": "Graceless, thankless",
+        "definition": "Graceless, thankless"
+      },
+      {
+        "label": "erhmot",
+        "partOfSpeech": "vb",
+        "gloss": "To give grace, favor",
+        "definition": "To give grace, favor"
+      },
+      {
+        "label": "]hmot",
+        "partOfSpeech": "vb",
+        "gloss": "To give grace, benefit, be kind",
+        "definition": "To give grace, benefit, be kind"
+      },
+      {
+        "label": "] nhmot",
+        "partOfSpeech": "vb",
+        "gloss": "To give as a favor, gift",
+        "definition": "sephmot: To give thanks; nten: vb. To give thanks to; --- ejen: To give thanks for; atsephmot: adj. Thankless; refsephmot: m. Grateful person; jinsephmot: m. Thanksgiving;"
+      }
+    ]
+  },
+  {
+    "headword": "hobc=",
+    "copticWord": "ϩⲟⲃⲥ",
+    "englishTransliteration": "hovs",
+    "gloss": "To cover. hobc (Q) v. hwbc - To be covered",
+    "definition": "To cover. hobc (Q) v. hwbc - To be covered",
+    "crossReference": {
+      "target": "hwbc",
+      "gloss": "To cover. hobc (Q) v. hwbc - To be covered"
+    }
+  }
+]

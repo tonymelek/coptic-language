@@ -1,0 +1,582 @@
+[
+  {
+    "headword": "tepe",
+    "copticWord": "ⲧⲉⲡⲉ",
+    "englishTransliteration": "tepe",
+    "gloss": "Strip",
+    "definition": "Strip",
+    "crossReference": {
+      "target": "(2)tebi",
+      "gloss": "Strip"
+    }
+  },
+  {
+    "headword": "temmo",
+    "copticWord": "ⲧⲉⲙⲙⲟ",
+    "englishTransliteration": "temmo",
+    "variants": [
+      {
+        "word": "temo",
+        "copticWord": "ⲧⲉⲙⲟ",
+        "englishTransliteration": "temo"
+      },
+      {
+        "word": "temmo=",
+        "copticWord": "ⲧⲉⲙⲙⲟ",
+        "englishTransliteration": "temmo"
+      }
+    ],
+    "reference": "416a",
+    "gloss": "vt. To feed, nourish",
+    "definition": "vt. To feed, nourish"
+  },
+  {
+    "headword": "tepi",
+    "copticWord": "ⲧⲉⲡⲓ",
+    "englishTransliteration": "tepi",
+    "gloss": "Strip",
+    "definition": "Strip",
+    "crossReference": {
+      "target": "(2)tebi",
+      "gloss": "Strip"
+    }
+  },
+  {
+    "headword": "--- qen",
+    "copticWord": "--- ϧⲉⲛ",
+    "englishTransliteration": "--- khen",
+    "partOfSpeech": "vb",
+    "gloss": "To feed with",
+    "definition": "To feed with"
+  },
+  {
+    "headword": "tertwr",
+    "copticWord": "ⲧⲉⲣⲧⲱⲣ",
+    "englishTransliteration": "tertōr",
+    "gloss": "To thrust in",
+    "definition": "To thrust in",
+    "crossReference": {
+      "target": "torter",
+      "gloss": "To thrust in"
+    }
+  },
+  {
+    "headword": "tehni",
+    "copticWord": "ⲧⲉϩⲛⲓ",
+    "englishTransliteration": "tehni",
+    "reference": "460b",
+    "partOfSpeech": "f",
+    "gloss": "Forehead",
+    "definition": "Forehead"
+  },
+  {
+    "headword": "temmo=",
+    "copticWord": "ⲧⲉⲙⲙⲟ",
+    "englishTransliteration": "temmo",
+    "gloss": "To feed",
+    "definition": "To feed",
+    "crossReference": {
+      "target": "temmo",
+      "gloss": "To feed"
+    }
+  },
+  {
+    "headword": "t/",
+    "copticWord": "ⲧⲏ",
+    "englishTransliteration": "ti",
+    "reference": "392a",
+    "partOfSpeech": "adv",
+    "gloss": "There",
+    "definition": "There"
+  },
+  {
+    "headword": "t/b",
+    "copticWord": "ⲧⲏⲃ",
+    "englishTransliteration": "teeb",
+    "reference": "397b",
+    "partOfSpeech": "m",
+    "gloss": "Finger, toe",
+    "definition": "Finger, toe",
+    "senses": [
+      {
+        "label": "se nt/b",
+        "partOfSpeech": "m",
+        "gloss": "Blow of finger, fingermark",
+        "definition": "Blow of finger, fingermark"
+      }
+    ]
+  },
+  {
+    "headword": "temmho",
+    "copticWord": "ⲧⲉⲙⲙϩⲟ",
+    "englishTransliteration": "temmho",
+    "gloss": "To set on fire",
+    "definition": "To set on fire",
+    "crossReference": {
+      "target": "temho",
+      "gloss": "To set on fire"
+    }
+  },
+  {
+    "headword": "temo",
+    "copticWord": "ⲧⲉⲙⲟ",
+    "englishTransliteration": "temo",
+    "gloss": "To feed",
+    "definition": "To feed",
+    "crossReference": {
+      "target": "temmo",
+      "gloss": "To feed"
+    }
+  },
+  {
+    "headword": "t/i=",
+    "copticWord": "ⲧⲏⲓ",
+    "englishTransliteration": "tii",
+    "gloss": "To give",
+    "definition": "To give",
+    "crossReference": {
+      "target": "]",
+      "gloss": "To give"
+    }
+  },
+  {
+    "headword": "t/it=",
+    "copticWord": "ⲧⲏⲓⲧ",
+    "englishTransliteration": "tiit",
+    "gloss": "To give",
+    "definition": "To give",
+    "crossReference": {
+      "target": "]",
+      "gloss": "To give"
+    }
+  },
+  {
+    "headword": "t/p",
+    "copticWord": "ⲧⲏⲡ",
+    "englishTransliteration": "tip",
+    "gloss": "(Q) v. (1)twb - To be sealed",
+    "definition": "(Q) v. (1)twb - To be sealed"
+  },
+  {
+    "headword": "temho",
+    "copticWord": "ⲧⲉⲙϩⲟ",
+    "englishTransliteration": "temho",
+    "variants": [
+      {
+        "word": "temmho",
+        "copticWord": "ⲧⲉⲙⲙϩⲟ",
+        "englishTransliteration": "temmho"
+      },
+      {
+        "word": "themmo",
+        "copticWord": "ⲧϩⲉⲙⲙⲟ",
+        "englishTransliteration": "themmo"
+      },
+      {
+        "word": "temmo",
+        "copticWord": "ⲧⲉⲙⲙⲟ",
+        "englishTransliteration": "temmo"
+      },
+      {
+        "word": "tmo",
+        "copticWord": "ⲧⲙⲟ",
+        "englishTransliteration": "tmo"
+      },
+      {
+        "word": "tmhe",
+        "copticWord": "ⲧⲙϩⲉ",
+        "englishTransliteration": "tmhe"
+      },
+      {
+        "word": "temmo=",
+        "copticWord": "ⲧⲉⲙⲙⲟ",
+        "englishTransliteration": "temmo"
+      }
+    ],
+    "reference": "417a",
+    "gloss": "vt. To set on fire, kindle",
+    "definition": "blaze, burn; ---: m. Burning, heat"
+  },
+  {
+    "headword": "ten",
+    "copticWord": "ⲧⲉⲛ",
+    "englishTransliteration": "ten",
+    "gloss": "Suffix for 2nd pers. pl",
+    "definition": "Suffix for 2nd pers. pl",
+    "crossReference": {
+      "target": "twri",
+      "gloss": "Suffix for 2nd pers. pl"
+    }
+  },
+  {
+    "headword": "t/r=",
+    "copticWord": "ⲧⲏⲣ",
+    "englishTransliteration": "tir",
+    "reference": "424a",
+    "partOfSpeech": "adj",
+    "gloss": "(with suff.) All, whole, every",
+    "definition": "(with suff.) All, whole, every"
+  },
+  {
+    "headword": "pt/rf",
+    "copticWord": "ⲡⲧⲏⲣϥ",
+    "englishTransliteration": "ptirf",
+    "gloss": "The whole, all (creation)",
+    "definition": "The whole, all (creation)"
+  },
+  {
+    "headword": "ept/rf",
+    "copticWord": "ⲉⲡⲧⲏⲣϥ",
+    "englishTransliteration": "eptirf",
+    "partOfSpeech": "adv",
+    "gloss": "Wholly, at all",
+    "definition": "Wholly, at all"
+  },
+  {
+    "headword": "piept/rf",
+    "copticWord": "ⲡⲓⲉⲡⲧⲏⲣϥ",
+    "englishTransliteration": "pieptirf",
+    "partOfSpeech": "m",
+    "gloss": "The whole",
+    "definition": "The whole"
+  },
+  {
+    "headword": "tili",
+    "copticWord": "ⲧⲓⲗⲓ",
+    "englishTransliteration": "tili",
+    "variants": [
+      {
+        "word": "teli",
+        "copticWord": "ⲧⲉⲗⲓ",
+        "englishTransliteration": "teli"
+      }
+    ],
+    "reference": "409b",
+    "gloss": "Fenugreek",
+    "definition": "Fenugreek"
+  },
+  {
+    "headword": "timi",
+    "copticWord": "ⲧⲓⲙⲓ",
+    "englishTransliteration": "timi",
+    "gloss": "Village",
+    "definition": "Village",
+    "crossReference": {
+      "target": "]mi",
+      "gloss": "Village"
+    }
+  },
+  {
+    "headword": "tiou",
+    "copticWord": "ⲧⲓⲟⲩ",
+    "englishTransliteration": "tiou",
+    "reference": "440b",
+    "gloss": "nn. Five",
+    "definition": "nn. Five"
+  },
+  {
+    "headword": "tenywn",
+    "copticWord": "ⲧⲉⲛⲑⲱⲛ",
+    "englishTransliteration": "tenthōn",
+    "gloss": "To be like",
+    "definition": "To be like",
+    "crossReference": {
+      "target": "yonten",
+      "gloss": "To be like"
+    }
+  },
+  {
+    "headword": "tenywn=",
+    "copticWord": "ⲧⲉⲛⲑⲱⲛ",
+    "englishTransliteration": "tenthōn",
+    "gloss": "To be like",
+    "definition": "To be like",
+    "crossReference": {
+      "target": "yonten",
+      "gloss": "To be like"
+    }
+  },
+  {
+    "headword": "tiqi",
+    "copticWord": "ⲧⲓϧⲓ",
+    "englishTransliteration": "tikhi",
+    "reference": "453b",
+    "partOfSpeech": "m",
+    "gloss": "Crane",
+    "definition": "Crane"
+  },
+  {
+    "headword": "tkac",
+    "copticWord": "ⲧⲕⲁⲥ",
+    "englishTransliteration": "tkas",
+    "variants": [
+      {
+        "word": "kac",
+        "copticWord": "ⲕⲁⲥ",
+        "englishTransliteration": "kas"
+      }
+    ],
+    "reference": "407a",
+    "partOfSpeech": "m",
+    "gloss": "Pain",
+    "definition": "Pain"
+  },
+  {
+    "headword": "tkbo",
+    "copticWord": "ⲧⲕⲃⲟ",
+    "englishTransliteration": "tkvo",
+    "gloss": "To make cool",
+    "definition": "To make cool",
+    "crossReference": {
+      "target": ",bob",
+      "gloss": "To make cool"
+    }
+  },
+  {
+    "headword": "tmo",
+    "copticWord": "ⲧⲙⲟ",
+    "englishTransliteration": "tmo",
+    "gloss": "To set on fire",
+    "definition": "To set on fire",
+    "crossReference": {
+      "target": "temho",
+      "gloss": "To set on fire"
+    }
+  },
+  {
+    "headword": "tenno",
+    "copticWord": "ⲧⲉⲛⲛⲟ",
+    "englishTransliteration": "tenno",
+    "variants": [
+      {
+        "word": "tenno=",
+        "copticWord": "ⲧⲉⲛⲛⲟ",
+        "englishTransliteration": "tenno"
+      },
+      {
+        "word": "temmo=",
+        "copticWord": "ⲧⲉⲙⲙⲟ",
+        "englishTransliteration": "temmo"
+      },
+      {
+        "word": "tenn/out",
+        "note": "Q",
+        "copticWord": "ⲧⲉⲛⲛⲏⲟⲩⲧ",
+        "englishTransliteration": "tenniout"
+      }
+    ],
+    "reference": "419a",
+    "gloss": "vt. To pound, tread down",
+    "definition": "vi. To be beaten, trodden; (Q) Trodden, contrite;"
+  },
+  {
+    "headword": "tmhe",
+    "copticWord": "ⲧⲙϩⲉ",
+    "englishTransliteration": "tmhe",
+    "gloss": "To set on fire",
+    "definition": "To set on fire",
+    "crossReference": {
+      "target": "temho",
+      "gloss": "To set on fire"
+    }
+  },
+  {
+    "headword": "tenno=",
+    "copticWord": "ⲧⲉⲛⲛⲟ",
+    "englishTransliteration": "tenno",
+    "gloss": "To pound",
+    "definition": "To pound",
+    "crossReference": {
+      "target": "tenno",
+      "gloss": "To pound"
+    }
+  },
+  {
+    "headword": "tensi",
+    "copticWord": "ⲧⲉⲛϣⲓ",
+    "englishTransliteration": "tenshi",
+    "gloss": "blow",
+    "definition": "blow",
+    "crossReference": {
+      "target": "twns",
+      "gloss": "blow"
+    }
+  },
+  {
+    "headword": "tenh",
+    "copticWord": "ⲧⲉⲛϩ",
+    "englishTransliteration": "tenh",
+    "reference": "421a",
+    "partOfSpeech": "m",
+    "gloss": "Wing",
+    "definition": "Wing"
+  },
+  {
+    "headword": "ertenh",
+    "copticWord": "ⲉⲣⲧⲉⲛϩ",
+    "englishTransliteration": "ertenh",
+    "partOfSpeech": "vb",
+    "gloss": "To grow wings, be winged",
+    "definition": "To grow wings, be winged"
+  },
+  {
+    "headword": "r/t ntenh",
+    "copticWord": "ⲣⲏⲧ ⲛⲧⲉⲛϩ",
+    "englishTransliteration": "rit ntenh",
+    "partOfSpeech": "vb",
+    "gloss": "To grow wings",
+    "definition": "To grow wings"
+  },
+  {
+    "headword": "[itenh",
+    "copticWord": "ϭⲓⲧⲉⲛϩ",
+    "englishTransliteration": "chitenh",
+    "partOfSpeech": "vb",
+    "gloss": "To take wings",
+    "definition": "To take wings"
+  },
+  {
+    "headword": "tenhet",
+    "copticWord": "ⲧⲉⲛϩⲉⲧ",
+    "englishTransliteration": "tenhet",
+    "gloss": "To trust",
+    "definition": "To trust",
+    "crossReference": {
+      "target": "tenhout",
+      "gloss": "To trust"
+    }
+  },
+  {
+    "headword": "tob",
+    "copticWord": "ⲧⲟⲃ",
+    "englishTransliteration": "tov",
+    "reference": "422a",
+    "partOfSpeech": "m",
+    "gloss": "edge, end, border of gar- seal. repay",
+    "definition": "edge, end, border of gar- seal. repay"
+  },
+  {
+    "headword": "tobc",
+    "copticWord": "ⲧⲟⲃⲥ",
+    "englishTransliteration": "tovs",
+    "gloss": "Seal's impress",
+    "definition": "Seal's impress",
+    "crossReference": {
+      "target": "(1)twb",
+      "gloss": "Seal's impress"
+    }
+  },
+  {
+    "headword": "tobf",
+    "copticWord": "ⲧⲟⲃϥ",
+    "englishTransliteration": "tovf",
+    "gloss": "Seal's impress",
+    "definition": "Seal's impress",
+    "crossReference": {
+      "target": "(1)twb",
+      "gloss": "Seal's impress"
+    }
+  },
+  {
+    "headword": "tobh=",
+    "copticWord": "ⲧⲟⲃϩ",
+    "englishTransliteration": "tovh",
+    "gloss": "To pray",
+    "definition": "To pray",
+    "crossReference": {
+      "target": "twbh",
+      "gloss": "To pray"
+    }
+  },
+  {
+    "headword": "toi",
+    "copticWord": "ⲧⲟⲓ",
+    "englishTransliteration": "toi",
+    "variants": [
+      {
+        "word": "twi",
+        "copticWord": "ⲧⲱⲓ",
+        "englishTransliteration": "tōi"
+      }
+    ],
+    "reference": "396a",
+    "partOfSpeech": "f",
+    "gloss": "Part, share",
+    "definition": "Part, share"
+  },
+  {
+    "headword": "tenhout",
+    "copticWord": "ⲧⲉⲛϩⲟⲩⲧ",
+    "englishTransliteration": "tenhout",
+    "variants": [
+      {
+        "word": "tenhet",
+        "copticWord": "ⲧⲉⲛϩⲉⲧ",
+        "englishTransliteration": "tenhet"
+      },
+      {
+        "word": "tenhout",
+        "copticWord": "ⲧⲉⲛϩⲟⲩⲧ",
+        "englishTransliteration": "tenhout"
+      },
+      {
+        "word": "ten-hout=",
+        "copticWord": "ⲧⲉⲛ-ϩⲟⲩⲧ",
+        "englishTransliteration": "ten-hout"
+      },
+      {
+        "word": "tenh/out",
+        "note": "Q",
+        "copticWord": "ⲧⲉⲛϩⲏⲟⲩⲧ",
+        "englishTransliteration": "tenhiout"
+      }
+    ],
+    "reference": "421b",
+    "gloss": "vt. To trust, believe",
+    "definition": "vt. To trust, believe"
+  },
+  {
+    "headword": "[itoi",
+    "copticWord": "ϭⲓⲧⲟⲓ",
+    "englishTransliteration": "chitoi",
+    "partOfSpeech": "vb",
+    "gloss": "To receive share, be partaker",
+    "definition": "To receive share, be partaker"
+  },
+  {
+    "headword": "maitoi nhouo",
+    "copticWord": "ⲙⲁⲓⲧⲟⲓ ⲛϩⲟⲩⲟ",
+    "englishTransliteration": "maitoi nhouo",
+    "gloss": "Loving a greater share",
+    "definition": "covetous."
+  },
+  {
+    "headword": "tom",
+    "copticWord": "ⲧⲟⲙ",
+    "englishTransliteration": "tom",
+    "gloss": "To join",
+    "definition": "To join",
+    "crossReference": {
+      "target": "twmi",
+      "gloss": "To join"
+    }
+  },
+  {
+    "headword": "--- e",
+    "copticWord": "--- ⲉ",
+    "englishTransliteration": "--- e",
+    "gloss": "vt. to entrust with",
+    "definition": "--- nem-: vb. To trust to, confide in"
+  },
+  {
+    "headword": "tenhout=",
+    "copticWord": "ⲧⲉⲛϩⲟⲩⲧ",
+    "englishTransliteration": "tenhout",
+    "gloss": "To trust",
+    "definition": "To trust",
+    "crossReference": {
+      "target": "tenhout",
+      "gloss": "To trust"
+    }
+  }
+]

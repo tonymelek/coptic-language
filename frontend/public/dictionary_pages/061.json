@@ -1,0 +1,473 @@
+[
+  {
+    "headword": "mestwl",
+    "copticWord": "ⲙⲉϣⲧⲱⲗ",
+    "englishTransliteration": "meshtōl",
+    "gloss": "Tower. mesvwni, metsvwni: (213b)",
+    "definition": "mf. ulcer, eruption. messo] v. messwt - Fields. messwt (menswt), pl. messo], menso] & sg as pl.: (207b)",
+    "crossReference": {
+      "target": "me[twl",
+      "gloss": "Tower. mesvwni, metsvwni: (213b)"
+    }
+  },
+  {
+    "headword": "m. Plain",
+    "copticWord": "ⲙ. Ⲡⲗⲁⲓⲛ",
+    "englishTransliteration": "m. Plain",
+    "variants": [
+      {
+        "word": "field. ermesswt",
+        "copticWord": "ϥⲓⲉⲗⲇ. ⲉⲣⲙⲉϣϣⲱⲧ",
+        "englishTransliteration": "field. ermeshshōt"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To be like a plain. me,ir v. (1)msir - Amshir. mes- v. misi - To fight. mesyibc: (207a)",
+    "definition": "m. Hinge (of door). mest- v. moust - To examine."
+  },
+  {
+    "headword": "mectw=",
+    "copticWord": "ⲙⲉⲥⲧⲱ",
+    "englishTransliteration": "mestō",
+    "gloss": "To hate",
+    "definition": "To hate",
+    "crossReference": {
+      "target": "moc]",
+      "gloss": "To hate"
+    }
+  },
+  {
+    "headword": "met",
+    "copticWord": "ⲙⲉⲧ",
+    "englishTransliteration": "met",
+    "variants": [
+      {
+        "word": "mey",
+        "copticWord": "ⲙⲉⲑ",
+        "englishTransliteration": "meth"
+      }
+    ],
+    "reference": "176a",
+    "partOfSpeech": "prfx",
+    "gloss": "forming abstract nouns",
+    "definition": "forming abstract nouns"
+  },
+  {
+    "headword": "metaiw",
+    "copticWord": "ⲙⲉⲧⲁⲓⲱ",
+    "englishTransliteration": "metaiō",
+    "gloss": "Safflower",
+    "definition": "Safflower",
+    "crossReference": {
+      "target": "meyaio",
+      "gloss": "Safflower"
+    }
+  },
+  {
+    "headword": "metania",
+    "copticWord": "ⲙⲉⲧⲁⲛⲓⲁ",
+    "englishTransliteration": "metania",
+    "gloss": "Repentance",
+    "definition": "Repentance",
+    "crossReference": {
+      "target": "metanoia",
+      "gloss": "Repentance"
+    }
+  },
+  {
+    "headword": "metanoia",
+    "copticWord": "ⲙⲉⲧⲁⲛⲟⲓⲁ",
+    "englishTransliteration": "metanoia",
+    "variants": [
+      {
+        "word": "-nia",
+        "copticWord": "-ⲛⲓⲁ",
+        "englishTransliteration": "-nia"
+      },
+      {
+        "word": "matania",
+        "copticWord": "ⲙⲁⲧⲁⲛⲓⲁ",
+        "englishTransliteration": "matania"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true
+  },
+  {
+    "headword": "ermetanoin",
+    "copticWord": "ⲉⲣⲙⲉⲧⲁⲛⲟⲓⲛ",
+    "englishTransliteration": "ermetanoin",
+    "variants": [
+      {
+        "word": "-nin",
+        "copticWord": "-ⲛⲓⲛ",
+        "englishTransliteration": "-nin"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "to repent, regret, to be sorry",
+    "definition": "to repent, regret, to be sorry"
+  },
+  {
+    "headword": "mehi",
+    "copticWord": "ⲙⲉϩⲓ",
+    "englishTransliteration": "mehi",
+    "reference": "211a",
+    "partOfSpeech": "m",
+    "gloss": "Feather, lancet",
+    "definition": "Feather, lancet"
+  },
+  {
+    "headword": "mehmouhi",
+    "copticWord": "ⲙⲉϩⲙⲟⲩϩⲓ",
+    "englishTransliteration": "mehmouhi",
+    "reference": "211b",
+    "partOfSpeech": "f",
+    "gloss": "Purslane",
+    "definition": "Purslane"
+  },
+  {
+    "headword": "me[twl",
+    "copticWord": "ⲙⲉϭⲧⲱⲗ",
+    "englishTransliteration": "mechtōl",
+    "reference": "214b",
+    "partOfSpeech": "m",
+    "gloss": "Tower",
+    "definition": "Tower"
+  },
+  {
+    "headword": "metcobi",
+    "copticWord": "ⲙⲉⲧⲥⲟⲃⲓ",
+    "englishTransliteration": "metsovi",
+    "gloss": "Large needle",
+    "definition": "Large needle",
+    "crossReference": {
+      "target": "emcobi",
+      "gloss": "Large needle"
+    }
+  },
+  {
+    "headword": "metvwni",
+    "copticWord": "ⲙⲉⲧⲫⲱⲛⲓ",
+    "englishTransliteration": "metfōni",
+    "gloss": "Ulcer",
+    "definition": "Ulcer",
+    "crossReference": {
+      "target": "mesvwni",
+      "gloss": "Ulcer"
+    }
+  },
+  {
+    "headword": "meui",
+    "copticWord": "ⲙⲉⲩⲓ",
+    "englishTransliteration": "mevi",
+    "reference": "199a",
+    "gloss": "vi. Tto think",
+    "definition": "vi. Tto think"
+  },
+  {
+    "headword": "je",
+    "copticWord": "ϫⲉ",
+    "englishTransliteration": "je",
+    "partOfSpeech": "vb",
+    "gloss": "To think that",
+    "definition": "To think that"
+  },
+  {
+    "headword": "n",
+    "copticWord": "ⲛ",
+    "englishTransliteration": "n",
+    "partOfSpeech": "vb",
+    "gloss": "To meditate (doing), be about to do",
+    "definition": "To meditate (doing), be about to do"
+  },
+  {
+    "headword": "(1)m/",
+    "copticWord": "ⲙⲏ",
+    "englishTransliteration": "mi",
+    "variants": [
+      {
+        "word": "mi",
+        "copticWord": "ⲙⲓ",
+        "englishTransliteration": "mi"
+      }
+    ],
+    "reference": "158a",
+    "partOfSpeech": "f",
+    "gloss": "Urine",
+    "definition": "Urine"
+  },
+  {
+    "headword": "m/ mmwou",
+    "copticWord": "ⲙⲏ ⲙⲙⲱⲟⲩ",
+    "englishTransliteration": "mi mmōou",
+    "partOfSpeech": "m",
+    "gloss": "Urine",
+    "definition": "Urine"
+  },
+  {
+    "headword": "erm/",
+    "copticWord": "ⲉⲣⲙⲏ",
+    "englishTransliteration": "ermi",
+    "partOfSpeech": "vb",
+    "gloss": "To evacuate dung",
+    "definition": "To evacuate dung"
+  },
+  {
+    "headword": "ma nerm/",
+    "copticWord": "ⲙⲁ ⲛⲉⲣⲙⲏ",
+    "englishTransliteration": "ma nermi",
+    "partOfSpeech": "m",
+    "gloss": "Anus",
+    "definition": "Anus"
+  },
+  {
+    "headword": "eqoun e",
+    "copticWord": "ⲉϧⲟⲩⲛ ⲉ",
+    "englishTransliteration": "ekhoun e",
+    "partOfSpeech": "vb",
+    "gloss": "To think, design against",
+    "definition": "To think, design against"
+  },
+  {
+    "headword": "ebol",
+    "copticWord": "ⲉⲃⲟⲗ",
+    "englishTransliteration": "evol",
+    "partOfSpeech": "vb",
+    "gloss": "To think upon, consider",
+    "definition": "To think upon, consider",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "Thought, mind",
+        "definition": "Thought, mind"
+      }
+    ]
+  },
+  {
+    "headword": "nh/t",
+    "copticWord": "ⲛϩⲏⲧ",
+    "englishTransliteration": "nhit",
+    "partOfSpeech": "m",
+    "gloss": "Thought, mind",
+    "definition": "Thought, mind"
+  },
+  {
+    "headword": "metatmeui",
+    "copticWord": "ⲙⲉⲧⲁⲧⲙⲉⲩⲓ",
+    "englishTransliteration": "metatmevi",
+    "partOfSpeech": "adj",
+    "gloss": "Absence of thought",
+    "definition": "Absence of thought"
+  },
+  {
+    "headword": "]meui",
+    "copticWord": "ϯⲙⲉⲩⲓ",
+    "englishTransliteration": "timevi",
+    "partOfSpeech": "vb",
+    "gloss": "To cause thought",
+    "definition": "suggest, remind;"
+  },
+  {
+    "headword": "jinmeui",
+    "copticWord": "ϫⲓⲛⲙⲉⲩⲓ",
+    "englishTransliteration": "jinmevi",
+    "partOfSpeech": "m",
+    "gloss": "Thinking, esteem",
+    "definition": "Thinking, esteem"
+  },
+  {
+    "headword": "ervmeui",
+    "copticWord": "ⲉⲣⲫⲙⲉⲩⲓ",
+    "englishTransliteration": "erfmevi",
+    "partOfSpeech": "vb",
+    "gloss": "To have mind of, remember",
+    "definition": "To have mind of, remember",
+    "senses": [
+      {
+        "label": "je",
+        "partOfSpeech": "vb",
+        "gloss": "To remember that",
+        "definition": "---: m. Remembrance; ]ervmeui: vb. To remind;"
+      }
+    ]
+  },
+  {
+    "headword": "[i",
+    "copticWord": "ϭⲓ",
+    "englishTransliteration": "chi",
+    "gloss": "ouervmeui: vb. To get remembrance, be remembered",
+    "definition": "se nervmeui: m. Remembrance; refervmeui: m. One who remem-"
+  },
+  {
+    "headword": "metrefervmeui",
+    "copticWord": "ⲙⲉⲧⲣⲉϥⲉⲣⲫⲙⲉⲩⲓ",
+    "englishTransliteration": "metreferfmevi",
+    "partOfSpeech": "f",
+    "gloss": "Remembrance",
+    "definition": "Remembrance"
+  },
+  {
+    "headword": "jinervmeui",
+    "copticWord": "ϫⲓⲛⲉⲣⲫⲙⲉⲩⲓ",
+    "englishTransliteration": "jinerfmevi",
+    "partOfSpeech": "mf",
+    "gloss": "Remembrance",
+    "definition": "Remembrance"
+  },
+  {
+    "headword": "(2)m/",
+    "copticWord": "ⲙⲏ",
+    "englishTransliteration": "mi",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "interrog. Do?, did?",
+    "definition": "whether"
+  },
+  {
+    "headword": "m/i",
+    "copticWord": "ⲙⲏⲓ",
+    "englishTransliteration": "mii",
+    "gloss": "To love",
+    "definition": "To love",
+    "crossReference": {
+      "target": "mei",
+      "gloss": "To love"
+    }
+  },
+  {
+    "headword": "meym/i",
+    "copticWord": "ⲙⲉⲑⲙⲏⲓ",
+    "englishTransliteration": "methmii",
+    "partOfSpeech": "f",
+    "gloss": "Truth, righteousness",
+    "definition": "Truth, righteousness"
+  },
+  {
+    "headword": "refje meym/i",
+    "copticWord": "ⲣⲉϥϫⲉ ⲙⲉⲑⲙⲏⲓ",
+    "englishTransliteration": "refje methmii",
+    "partOfSpeech": "m",
+    "gloss": "Truth-teller",
+    "definition": "Truth-teller"
+  },
+  {
+    "headword": "ym/i",
+    "copticWord": "ⲑⲙⲏⲓ",
+    "englishTransliteration": "thmii",
+    "partOfSpeech": "m",
+    "gloss": "True, righteous person or thing",
+    "definition": "True, righteous person or thing"
+  },
+  {
+    "headword": "tavm/i",
+    "copticWord": "ⲧⲁⲫⲙⲏⲓ",
+    "englishTransliteration": "tafmii",
+    "partOfSpeech": "m",
+    "gloss": "Truth",
+    "definition": "adj. true; adv. truely, indeed"
+  },
+  {
+    "headword": "m/ini",
+    "copticWord": "ⲙⲏⲓⲛⲓ",
+    "englishTransliteration": "miini",
+    "reference": "170b",
+    "partOfSpeech": "m",
+    "gloss": "Sign, mark",
+    "definition": "signal; wonder"
+  },
+  {
+    "headword": "atm/ini",
+    "copticWord": "ⲁⲧⲙⲏⲓⲛⲓ",
+    "englishTransliteration": "atmiini",
+    "partOfSpeech": "adj",
+    "gloss": "Without mark",
+    "definition": "Without mark"
+  },
+  {
+    "headword": "erm/ini",
+    "copticWord": "ⲉⲣⲙⲏⲓⲛⲓ",
+    "englishTransliteration": "ermiini",
+    "partOfSpeech": "vb",
+    "gloss": "To be marked, remarkable",
+    "definition": "]m/ini: vb. To give sign, signify"
+  },
+  {
+    "headword": "[im/ini",
+    "copticWord": "ϭⲓⲙⲏⲓⲛⲓ",
+    "englishTransliteration": "chimiini",
+    "partOfSpeech": "vb",
+    "gloss": "To take sign, augury",
+    "definition": "To take sign, augury"
+  },
+  {
+    "headword": "ref[im/ini",
+    "copticWord": "ⲣⲉϥϭⲓⲙⲏⲓⲛⲓ",
+    "englishTransliteration": "refchimiini",
+    "partOfSpeech": "m",
+    "gloss": "Augur, diviner",
+    "definition": "Augur, diviner"
+  },
+  {
+    "headword": "m/iri",
+    "copticWord": "ⲙⲏⲓⲣⲓ",
+    "englishTransliteration": "miiri",
+    "gloss": "Bundle",
+    "definition": "Bundle",
+    "crossReference": {
+      "target": "mour",
+      "gloss": "Bundle"
+    }
+  },
+  {
+    "headword": "m/n",
+    "copticWord": "ⲙⲏⲛ",
+    "englishTransliteration": "min",
+    "gloss": "- Indeed",
+    "definition": "- Indeed",
+    "crossReference": {
+      "target": "men",
+      "gloss": "- Indeed"
+    }
+  },
+  {
+    "headword": "m/ni",
+    "copticWord": "ⲙⲏⲛⲓ",
+    "englishTransliteration": "mini",
+    "reference": "172a",
+    "partOfSpeech": "adv",
+    "gloss": "Daily, everyday",
+    "definition": "Daily, everyday"
+  },
+  {
+    "headword": "m/lon",
+    "copticWord": "ⲙⲏⲗⲟⲛ",
+    "englishTransliteration": "milon",
+    "gloss": "Bitumen",
+    "definition": "Bitumen",
+    "crossReference": {
+      "target": "miolwn",
+      "gloss": "Bitumen"
+    }
+  },
+  {
+    "headword": "m/pote",
+    "copticWord": "ⲙⲏⲡⲟⲧⲉ",
+    "englishTransliteration": "mipote",
+    "reference": "Gk",
+    "partOfSpeech": "adv",
+    "isGreek": true,
+    "gloss": "Never, on no account, perhaps",
+    "definition": "conj. lest ever"
+  },
+  {
+    "headword": "m/pwc",
+    "copticWord": "ⲙⲏⲡⲱⲥ",
+    "englishTransliteration": "mipōs",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "conj. So that, lest",
+    "definition": "perhaps."
+  }
+]

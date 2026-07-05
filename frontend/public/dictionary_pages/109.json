@@ -1,0 +1,551 @@
+[
+  {
+    "headword": "tatho",
+    "copticWord": "ⲧⲁⲧϩⲟ",
+    "englishTransliteration": "tatho",
+    "variants": [
+      {
+        "word": "(Q) tath/out",
+        "copticWord": "(Ϧ) ⲧⲁⲧϩⲏⲟⲩⲧ",
+        "englishTransliteration": "(Kh) tathiout"
+      }
+    ],
+    "reference": "439b",
+    "gloss": "vi. To impede, restrain",
+    "definition": "---: m. Restraint."
+  },
+  {
+    "headword": "tase",
+    "copticWord": "ⲧⲁϣⲉ",
+    "englishTransliteration": "tashe",
+    "gloss": "To increase",
+    "definition": "To increase",
+    "crossReference": {
+      "target": "taso",
+      "gloss": "To increase"
+    }
+  },
+  {
+    "headword": "tajro",
+    "copticWord": "ⲧⲁϫⲣⲟ",
+    "englishTransliteration": "tajro",
+    "variants": [
+      {
+        "word": "tajre",
+        "copticWord": "ⲧⲁϫⲣⲉ",
+        "englishTransliteration": "tajre"
+      },
+      {
+        "word": "tajro=",
+        "copticWord": "ⲧⲁϫⲣⲟ",
+        "englishTransliteration": "tajro"
+      },
+      {
+        "word": "tajr/out",
+        "note": "Q",
+        "copticWord": "ⲧⲁϫⲣⲏⲟⲩⲧ",
+        "englishTransliteration": "tajriout"
+      }
+    ],
+    "reference": "462b",
+    "gloss": "vt. To make strong, firm, fast",
+    "definition": "vt. To make strong, firm, fast"
+  },
+  {
+    "headword": "vi. To be strengthened",
+    "copticWord": "ⲫⲓ. Ⲧⲟ ⲃⲉ ϣⲧⲣⲉⲛⲅⲧϩⲉⲛⲉⲇ",
+    "englishTransliteration": "fi. To ve shtrengthened",
+    "variants": [
+      {
+        "word": "decided. --- e",
+        "copticWord": "ⲇⲉⲥⲓⲇⲉⲇ. --- ⲉ",
+        "englishTransliteration": "desided. --- e"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To set firmly on, toward",
+    "definition": "--- ejen-: vb. To set, be set, rely upon;"
+  },
+  {
+    "headword": "taso",
+    "copticWord": "ⲧⲁϣⲟ",
+    "englishTransliteration": "tasho",
+    "variants": [
+      {
+        "word": "tanso",
+        "copticWord": "ⲧⲁⲛϣⲟ",
+        "englishTransliteration": "tansho"
+      },
+      {
+        "word": "tase",
+        "copticWord": "ⲧⲁϣⲉ",
+        "englishTransliteration": "tashe"
+      },
+      {
+        "word": "tanse",
+        "copticWord": "ⲧⲁⲛϣⲉ",
+        "englishTransliteration": "tanshe"
+      },
+      {
+        "word": "taso=",
+        "copticWord": "ⲧⲁϣⲟ",
+        "englishTransliteration": "tasho"
+      },
+      {
+        "word": "tanso=",
+        "copticWord": "ⲧⲁⲛϣⲟ",
+        "englishTransliteration": "tansho"
+      }
+    ],
+    "reference": "452b",
+    "gloss": "vt. To increase",
+    "definition": "vt. To increase"
+  },
+  {
+    "headword": "taso=",
+    "copticWord": "ⲧⲁϣⲟ",
+    "englishTransliteration": "tasho",
+    "gloss": "To increase",
+    "definition": "To increase",
+    "crossReference": {
+      "target": "taso",
+      "gloss": "To increase"
+    }
+  },
+  {
+    "headword": "tahe",
+    "copticWord": "ⲧⲁϩⲉ",
+    "englishTransliteration": "tahe",
+    "gloss": "To set up",
+    "definition": "To set up",
+    "crossReference": {
+      "target": "taho",
+      "gloss": "To set up"
+    }
+  },
+  {
+    "headword": "tah/out",
+    "copticWord": "ⲧⲁϩⲏⲟⲩⲧ",
+    "englishTransliteration": "tahiout",
+    "gloss": "To be attained",
+    "definition": "To be attained",
+    "crossReference": {
+      "target": "taho",
+      "gloss": "To be attained"
+    }
+  },
+  {
+    "headword": "tahno",
+    "copticWord": "ⲧⲁϩⲛⲟ",
+    "englishTransliteration": "tahno",
+    "reference": "460a",
+    "gloss": "vt. To hinder",
+    "definition": "vi. To be hindered;"
+  },
+  {
+    "headword": "n",
+    "copticWord": "ⲛ",
+    "englishTransliteration": "n",
+    "partOfSpeech": "vb",
+    "gloss": "To confirm to",
+    "definition": "--- qen-: vb. To make firm in, with; ---: m. Firmness, strength, solidity"
+  },
+  {
+    "headword": "qen outajro",
+    "copticWord": "ϧⲉⲛ ⲟⲩⲧⲁϫⲣⲟ",
+    "englishTransliteration": "khen outajro",
+    "partOfSpeech": "adv",
+    "gloss": "Firmly, certainly",
+    "definition": "Firmly, certainly"
+  },
+  {
+    "headword": "attajro",
+    "copticWord": "ⲁⲧⲧⲁϫⲣⲟ",
+    "englishTransliteration": "attajro",
+    "partOfSpeech": "adj",
+    "gloss": "Unstable, infirm",
+    "definition": "Unstable, infirm"
+  },
+  {
+    "headword": "ma ntajro",
+    "copticWord": "ⲙⲁ ⲛⲧⲁϫⲣⲟ",
+    "englishTransliteration": "ma ntajro",
+    "partOfSpeech": "m",
+    "gloss": "Firm place",
+    "definition": "]tajro: vb. To give strength, confirm"
+  },
+  {
+    "headword": "jintajro",
+    "copticWord": "ϫⲓⲛⲧⲁϫⲣⲟ",
+    "englishTransliteration": "jintajro",
+    "partOfSpeech": "m",
+    "gloss": "Confirmation",
+    "definition": "Confirmation"
+  },
+  {
+    "headword": "e",
+    "copticWord": "ⲉ",
+    "englishTransliteration": "e",
+    "partOfSpeech": "vb",
+    "gloss": "To hinder from",
+    "definition": "--- ebol ha-: vb. To hinder from; --- evahou: vb. To set back, repel;"
+  },
+  {
+    "headword": "tajro=",
+    "copticWord": "ⲧⲁϫⲣⲟ",
+    "englishTransliteration": "tajro",
+    "gloss": "To make strong",
+    "definition": "To make strong",
+    "crossReference": {
+      "target": "tajro",
+      "gloss": "To make strong"
+    }
+  },
+  {
+    "headword": "teb",
+    "copticWord": "ⲧⲉⲃ",
+    "englishTransliteration": "tev",
+    "gloss": "To seal",
+    "definition": "To seal",
+    "crossReference": {
+      "target": "(1)twb",
+      "gloss": "To seal"
+    }
+  },
+  {
+    "headword": "(n) + at[ne",
+    "copticWord": "(ⲛ) + ⲁⲧϭⲛⲉ",
+    "englishTransliteration": "(n) + atchne",
+    "partOfSpeech": "adj",
+    "gloss": "Without hinderance",
+    "definition": "Without hinderance"
+  },
+  {
+    "headword": "(1) tebi",
+    "copticWord": "ⲧⲉⲃⲓ",
+    "englishTransliteration": "tevi",
+    "reference": "397a",
+    "partOfSpeech": "mf",
+    "gloss": "Obole (coin)",
+    "definition": "Obole (coin)"
+  },
+  {
+    "headword": "attahno",
+    "copticWord": "ⲁⲧⲧⲁϩⲛⲟ",
+    "englishTransliteration": "attahno",
+    "partOfSpeech": "adj",
+    "gloss": "Unhindered",
+    "definition": "Unhindered"
+  },
+  {
+    "headword": "jintahno",
+    "copticWord": "ϫⲓⲛⲧⲁϩⲛⲟ",
+    "englishTransliteration": "jintahno",
+    "partOfSpeech": "m",
+    "gloss": "Hinderance, obstruction",
+    "definition": "Hinderance, obstruction"
+  },
+  {
+    "headword": "taho",
+    "copticWord": "ⲧⲁϩⲟ",
+    "englishTransliteration": "taho",
+    "variants": [
+      {
+        "word": "tahe",
+        "copticWord": "ⲧⲁϩⲉ",
+        "englishTransliteration": "tahe"
+      },
+      {
+        "word": "taho=",
+        "copticWord": "ⲧⲁϩⲟ",
+        "englishTransliteration": "taho"
+      },
+      {
+        "word": "tah/out",
+        "note": "Q",
+        "copticWord": "ⲧⲁϩⲏⲟⲩⲧ",
+        "englishTransliteration": "tahiout"
+      }
+    ],
+    "reference": "455a",
+    "gloss": "vt. To make to stand, set up",
+    "definition": "meet; catch, arrest; vi. To attain, be able; --- e-: vb. To assign to, decide for;"
+  },
+  {
+    "headword": "ejen",
+    "copticWord": "ⲉϫⲉⲛ",
+    "englishTransliteration": "ejen",
+    "partOfSpeech": "vb",
+    "gloss": "To set up on",
+    "definition": "To set up on"
+  },
+  {
+    "headword": "(2)tebi",
+    "copticWord": "ⲧⲉⲃⲓ",
+    "englishTransliteration": "tevi",
+    "variants": [
+      {
+        "word": "tepi",
+        "copticWord": "ⲧⲉⲡⲓ",
+        "englishTransliteration": "tepi"
+      },
+      {
+        "word": "tepe",
+        "copticWord": "ⲧⲉⲡⲉ",
+        "englishTransliteration": "tepe"
+      }
+    ],
+    "reference": "397a",
+    "partOfSpeech": "m",
+    "gloss": "Strip, bandage of linen. tebn/, pl",
+    "definition": "Strip, bandage of linen. tebn/, pl"
+  },
+  {
+    "headword": "tebnwoui",
+    "copticWord": "ⲧⲉⲃⲛⲱⲟⲩⲓ",
+    "englishTransliteration": "tevnōoui",
+    "reference": "400b",
+    "partOfSpeech": "m",
+    "gloss": "Beast, domestic animal",
+    "definition": "Beast, domestic animal"
+  },
+  {
+    "headword": "ma ntebnwoui",
+    "copticWord": "ⲙⲁ ⲛⲧⲉⲃⲛⲱⲟⲩⲓ",
+    "englishTransliteration": "ma ntevnōoui",
+    "partOfSpeech": "m",
+    "gloss": "Cattle-herd",
+    "definition": "Cattle-herd"
+  },
+  {
+    "headword": "refcans tebnwoui",
+    "copticWord": "ⲣⲉϥⲥⲁⲛϣ ⲧⲉⲃⲛⲱⲟⲩⲓ",
+    "englishTransliteration": "refsansh tevnōoui",
+    "partOfSpeech": "m",
+    "gloss": "Cattle breeder",
+    "definition": "Cattle breeder"
+  },
+  {
+    "headword": "tebc",
+    "copticWord": "ⲧⲉⲃⲥ",
+    "englishTransliteration": "tevs",
+    "gloss": "Seal's impress",
+    "definition": "Seal's impress",
+    "crossReference": {
+      "target": "(1)twb",
+      "gloss": "Seal's impress"
+    }
+  },
+  {
+    "headword": "tebt",
+    "copticWord": "ⲧⲉⲃⲧ",
+    "englishTransliteration": "tevt",
+    "reference": "401b",
+    "partOfSpeech": "m",
+    "gloss": "Fish",
+    "definition": "Fish"
+  },
+  {
+    "headword": "reftahe tebi",
+    "copticWord": "ⲣⲉϥⲧⲁϩⲉ ⲧⲉⲃⲓ",
+    "englishTransliteration": "reftahe tevi",
+    "partOfSpeech": "m",
+    "gloss": "Fish-monger",
+    "definition": "Fish-monger"
+  },
+  {
+    "headword": "tekc",
+    "copticWord": "ⲧⲉⲕⲥ",
+    "englishTransliteration": "teks",
+    "gloss": "To pierce",
+    "definition": "To pierce",
+    "crossReference": {
+      "target": "ywkc",
+      "gloss": "To pierce"
+    }
+  },
+  {
+    "headword": "teli",
+    "copticWord": "ⲧⲉⲗⲓ",
+    "englishTransliteration": "teli",
+    "gloss": "Fenugreek",
+    "definition": "Fenugreek",
+    "crossReference": {
+      "target": "tili",
+      "gloss": "Fenugreek"
+    }
+  },
+  {
+    "headword": "teltel",
+    "copticWord": "ⲧⲉⲗⲧⲉⲗ",
+    "englishTransliteration": "teltel",
+    "reference": "411a",
+    "gloss": "vi. To drip, let drop",
+    "definition": "---: m. Dripping"
+  },
+  {
+    "headword": "tel]li",
+    "copticWord": "ⲧⲉⲗϯⲗⲓ",
+    "englishTransliteration": "teltili",
+    "variants": [
+      {
+        "word": "-tili",
+        "copticWord": "-ⲧⲓⲗⲓ",
+        "englishTransliteration": "-tili"
+      }
+    ],
+    "gloss": "fm. Drop",
+    "definition": "fm. Drop"
+  },
+  {
+    "headword": "teltili",
+    "copticWord": "ⲧⲉⲗⲧⲓⲗⲓ",
+    "englishTransliteration": "teltili",
+    "gloss": "Drop",
+    "definition": "Drop",
+    "crossReference": {
+      "target": "teltel",
+      "gloss": "Drop"
+    }
+  },
+  {
+    "headword": "tel]ili",
+    "copticWord": "ⲧⲉⲗϯⲓⲗⲓ",
+    "englishTransliteration": "teltiili",
+    "gloss": "Drop",
+    "definition": "Drop",
+    "crossReference": {
+      "target": "teltel",
+      "gloss": "Drop"
+    }
+  },
+  {
+    "headword": "attaho=",
+    "copticWord": "ⲁⲧⲧⲁϩⲟ",
+    "englishTransliteration": "attaho",
+    "gloss": "adj",
+    "definition": "adj"
+  },
+  {
+    "headword": "Unattainable",
+    "copticWord": "Ⲩⲛⲁⲧⲧⲁⲓⲛⲁⲃⲗⲉ",
+    "englishTransliteration": "Ynattainavle",
+    "variants": [
+      {
+        "word": "incomprehensible metattaho=",
+        "copticWord": "ⲓⲛⲥⲟⲙⲡⲣⲉϩⲉⲛϣⲓⲃⲗⲉ ⲙⲉⲧⲁⲧⲧⲁϩⲟ",
+        "englishTransliteration": "insomprehensheeble metattaho"
+      }
+    ],
+    "partOfSpeech": "f",
+    "gloss": "Incomprehensibility",
+    "definition": "Incomprehensibility"
+  },
+  {
+    "headword": "reftahe",
+    "copticWord": "ⲣⲉϥⲧⲁϩⲉ",
+    "englishTransliteration": "reftahe",
+    "partOfSpeech": "m",
+    "gloss": "Catcher",
+    "definition": "Catcher"
+  },
+  {
+    "headword": "taho erat=",
+    "copticWord": "ⲧⲁϩⲟ ⲉⲣⲁⲧ",
+    "englishTransliteration": "taho erat",
+    "partOfSpeech": "vb",
+    "gloss": "To set on foot, make to stand, establish",
+    "definition": "To set on foot, make to stand, establish"
+  },
+  {
+    "headword": "jintaho erat=",
+    "copticWord": "ϫⲓⲛⲧⲁϩⲟ ⲉⲣⲁⲧ",
+    "englishTransliteration": "jintaho erat",
+    "partOfSpeech": "m",
+    "gloss": "Establishtaho - To attain",
+    "definition": "Establishtaho - To attain"
+  },
+  {
+    "headword": "taht",
+    "copticWord": "ⲧⲁϩⲧ",
+    "englishTransliteration": "taht",
+    "variants": [
+      {
+        "word": "tath",
+        "copticWord": "ⲧⲁⲧϩ",
+        "englishTransliteration": "tath"
+      }
+    ],
+    "reference": "462a",
+    "gloss": "m",
+    "definition": "m"
+  },
+  {
+    "headword": "Lead oi ntaht",
+    "copticWord": "Ⲗⲉⲁⲇ ⲟⲓ ⲛⲧⲁϩⲧ",
+    "englishTransliteration": "Lead oi ntaht",
+    "partOfSpeech": "vb",
+    "gloss": "Being leaded",
+    "definition": "Being leaded"
+  },
+  {
+    "headword": "taj",
+    "copticWord": "ⲧⲁϫ",
+    "englishTransliteration": "taj",
+    "reference": "464a",
+    "partOfSpeech": "m",
+    "gloss": "Lump, piece, cake",
+    "definition": "Lump, piece, cake"
+  },
+  {
+    "headword": "tajre",
+    "copticWord": "ⲧⲁϫⲣⲉ",
+    "englishTransliteration": "tajre",
+    "gloss": "To make strong",
+    "definition": "To make strong",
+    "crossReference": {
+      "target": "tajro",
+      "gloss": "To make strong"
+    }
+  },
+  {
+    "headword": "tajr/out",
+    "copticWord": "ⲧⲁϫⲣⲏⲟⲩⲧ",
+    "englishTransliteration": "tajriout",
+    "gloss": "To be made strong",
+    "definition": "To be made strong",
+    "crossReference": {
+      "target": "tajro",
+      "gloss": "To be made strong"
+    }
+  },
+  {
+    "headword": "telfi",
+    "copticWord": "ⲧⲉⲗϥⲓ",
+    "englishTransliteration": "telfi",
+    "reference": "411b",
+    "partOfSpeech": "f",
+    "gloss": "Kind of lizards",
+    "definition": "Kind of lizards"
+  },
+  {
+    "headword": "tem",
+    "copticWord": "ⲧⲉⲙ",
+    "englishTransliteration": "tem",
+    "gloss": "To join",
+    "definition": "To join",
+    "crossReference": {
+      "target": "twmi",
+      "gloss": "To join"
+    }
+  },
+  {
+    "headword": "temyam",
+    "copticWord": "ⲧⲉⲙⲑⲁⲙ",
+    "englishTransliteration": "temtham",
+    "reference": "416a",
+    "partOfSpeech": "n",
+    "gloss": "Mule",
+    "definition": "Mule"
+  }
+]

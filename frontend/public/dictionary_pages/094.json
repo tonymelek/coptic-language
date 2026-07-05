@@ -1,0 +1,377 @@
+[
+  {
+    "headword": "atcebi",
+    "copticWord": "ⲁⲧⲥⲉⲃⲓ",
+    "englishTransliteration": "atsevi",
+    "partOfSpeech": "adj",
+    "gloss": "Uncircumcised",
+    "definition": "Uncircumcised"
+  },
+  {
+    "headword": "metatcebi",
+    "copticWord": "ⲙⲉⲧⲁⲧⲥⲉⲃⲓ",
+    "englishTransliteration": "metatsevi",
+    "partOfSpeech": "f",
+    "gloss": "Uncircumcisedness",
+    "definition": "Uncircumcisedness"
+  },
+  {
+    "headword": "oi natcebi",
+    "copticWord": "ⲟⲓ ⲛⲁⲧⲥⲉⲃⲓ",
+    "englishTransliteration": "oi natsevi",
+    "partOfSpeech": "vb",
+    "gloss": "To be uncircumcised",
+    "definition": "To be uncircumcised"
+  },
+  {
+    "headword": "coub/t",
+    "copticWord": "ⲥⲟⲩⲃⲏⲧ",
+    "englishTransliteration": "souvit",
+    "variants": [
+      {
+        "word": "coub/out",
+        "copticWord": "ⲥⲟⲩⲃⲏⲟⲩⲧ",
+        "englishTransliteration": "souviout"
+      }
+    ],
+    "partOfSpeech": "adj",
+    "gloss": "Well-looking, decent, peculiar",
+    "definition": "Well-looking, decent, peculiar"
+  },
+  {
+    "headword": "cemn/out (Q)",
+    "copticWord": "ⲥⲉⲙⲛⲏⲟⲩⲧ (Ϧ)",
+    "englishTransliteration": "semniout (Kh)",
+    "reference": "337a",
+    "gloss": "vi. To be established",
+    "definition": "set right, in order. vt. To establish, construct, set right; draw up deed; (rare) set up, construct (Bldg. &c);"
+  },
+  {
+    "headword": "e",
+    "copticWord": "ⲉ",
+    "englishTransliteration": "e",
+    "gloss": "vt. To set up for, against",
+    "definition": "fabricate, transorm;"
+  },
+  {
+    "headword": "ejen",
+    "copticWord": "ⲉϫⲉⲛ",
+    "englishTransliteration": "ejen",
+    "gloss": "vi. To set, fix upon",
+    "definition": "vi. To set, fix upon"
+  },
+  {
+    "headword": "nem",
+    "copticWord": "ⲛⲉⲙ",
+    "englishTransliteration": "nem",
+    "gloss": "vi. To settle with",
+    "definition": "vi. To settle with"
+  },
+  {
+    "headword": "cebi",
+    "copticWord": "ⲥⲉⲃⲓ",
+    "englishTransliteration": "sevi",
+    "gloss": "Reed. cebte- v. cob] - To prepare. cebtwt= v. cob] - To prepare. cebtwt (Q) v. cob] - Ready. ceybaiou v. cybaih - Tools. ceir/noc, cir/noc: (Gk)",
+    "definition": "f. Siren (a Greek mythological creature).",
+    "crossReference": {
+      "target": "c/bi",
+      "gloss": "Reed. cebte- v. cob] - To prepare. cebtwt= v. cob] - To prepare. cebtwt (Q) v. cob] - Ready. ceybaiou v. cybaih - Tools. ceir/noc, cir/noc: (Gk)"
+    }
+  },
+  {
+    "headword": "oute",
+    "copticWord": "ⲟⲩⲧⲉ",
+    "englishTransliteration": "oute",
+    "partOfSpeech": "vb",
+    "gloss": "To set up between",
+    "definition": "--- qen-: vb.To be established in;"
+  },
+  {
+    "headword": "ceiwouni",
+    "copticWord": "ⲥⲉⲓⲱⲟⲩⲛⲓ",
+    "englishTransliteration": "siōouni",
+    "gloss": "Bath. cek- v. cwk - To flow. cekeh: (330a)",
+    "definition": "Bath. cek- v. cwk - To flow. cekeh: (330a)",
+    "crossReference": {
+      "target": "ciwouni",
+      "gloss": "Bath. cek- v. cwk - To flow. cekeh: (330a)"
+    }
+  },
+  {
+    "headword": "vt. To clear out (a house). cekloc",
+    "copticWord": "ⲫⲧ. Ⲧⲟ ⲥⲗⲉⲁⲣ ⲟⲩⲧ (ⲁ ϩⲟⲩϣⲉ). ⲥⲉⲕⲗⲟⲥ",
+    "englishTransliteration": "ft. To slear out (a houshe). seklos",
+    "reference": "Gk?",
+    "isGreek": true
+  },
+  {
+    "headword": "m. A vessel. cekcek- v. cokcek - To pull. cekcik",
+    "copticWord": "ⲙ. Ⲁ ⲫⲉϣϣⲉⲗ. ⲥⲉⲕⲥⲉⲕ- ⲫ. ⲥⲟⲕⲥⲉⲕ - Ⲧⲟ ⲡⲩⲗⲗ. ⲥⲉⲕⲥⲓⲕ",
+    "englishTransliteration": "m. A feshshel. seksek- f. soksek - To pyll. seksik",
+    "reference": "330a",
+    "gloss": "nn. Sunny place, room. celcel- v. (2)colcel - To comfort. celcil v. (1)colcel - Orderly. celcil v. (2)colcel - Consolation. celcwl= v. (1)colcel - To adorn. celcwl (Q) v. (1)colcel - To be adorned",
+    "definition": "nn. Sunny place, room. celcel- v. (2)colcel - To comfort. celcil v. (1)colcel - Orderly. celcil v. (2)colcel - Consolation. celcwl= v. (1)colcel - To adorn. celcwl (Q) v. (1)colcel - To be adorned"
+  },
+  {
+    "headword": "qen oucemni",
+    "copticWord": "ϧⲉⲛ ⲟⲩⲥⲉⲙⲛⲓ",
+    "englishTransliteration": "khen ousemni",
+    "partOfSpeech": "adv",
+    "gloss": "Calmly",
+    "definition": "Calmly"
+  },
+  {
+    "headword": "atcemni",
+    "copticWord": "ⲁⲧⲥⲉⲙⲛⲓ",
+    "englishTransliteration": "atsemni",
+    "partOfSpeech": "adj",
+    "gloss": "Unstable",
+    "definition": "Unstable"
+  },
+  {
+    "headword": "mancemni",
+    "copticWord": "ⲙⲁⲛⲥⲉⲙⲛⲓ",
+    "englishTransliteration": "mansemni",
+    "partOfSpeech": "m",
+    "gloss": "Standing-place",
+    "definition": "Standing-place"
+  },
+  {
+    "headword": "refcemni",
+    "copticWord": "ⲣⲉϥⲥⲉⲙⲛⲓ",
+    "englishTransliteration": "refsemni",
+    "partOfSpeech": "m",
+    "gloss": "One who sets up, prepares",
+    "definition": "One who sets up, prepares"
+  },
+  {
+    "headword": "jincemni",
+    "copticWord": "ϫⲓⲛⲥⲉⲙⲛⲓ",
+    "englishTransliteration": "jinsemni",
+    "partOfSpeech": "m",
+    "gloss": "Setting up, depositing",
+    "definition": "Setting up, depositing"
+  },
+  {
+    "headword": "cen",
+    "copticWord": "ⲥⲉⲛ",
+    "englishTransliteration": "sen",
+    "gloss": "To pass by",
+    "definition": "To pass by",
+    "crossReference": {
+      "target": "cini",
+      "gloss": "To pass by"
+    }
+  },
+  {
+    "headword": "cen=",
+    "copticWord": "ⲥⲉⲛ",
+    "englishTransliteration": "sen",
+    "gloss": "To pass by",
+    "definition": "To pass by",
+    "crossReference": {
+      "target": "cini",
+      "gloss": "To pass by"
+    }
+  },
+  {
+    "headword": "cenk",
+    "copticWord": "ⲥⲉⲛⲕ",
+    "englishTransliteration": "senk",
+    "gloss": "To suck",
+    "definition": "To suck",
+    "crossReference": {
+      "target": "cwnk",
+      "gloss": "To suck"
+    }
+  },
+  {
+    "headword": "cencen",
+    "copticWord": "ⲥⲉⲛⲥⲉⲛ",
+    "englishTransliteration": "sensen",
+    "reference": "345a",
+    "gloss": "vi. To resound",
+    "definition": "vi. To resound"
+  },
+  {
+    "headword": "cent",
+    "copticWord": "ⲥⲉⲛⲧ",
+    "englishTransliteration": "sent",
+    "gloss": "To create",
+    "definition": "To create",
+    "crossReference": {
+      "target": "cwnt",
+      "gloss": "To create"
+    }
+  },
+  {
+    "headword": "cenh",
+    "copticWord": "ⲥⲉⲛϩ",
+    "englishTransliteration": "senh",
+    "gloss": "To bind",
+    "definition": "To bind",
+    "crossReference": {
+      "target": "cwnh",
+      "gloss": "To bind"
+    }
+  },
+  {
+    "headword": "celcwl=",
+    "copticWord": "ⲥⲉⲗⲥⲱⲗ",
+    "englishTransliteration": "selsōl",
+    "gloss": "To comfort. celoupin: (331b)",
+    "definition": "To comfort. celoupin: (331b)",
+    "crossReference": {
+      "target": "(2)colcel",
+      "gloss": "To comfort. celoupin: (331b)"
+    }
+  },
+  {
+    "headword": "n. little finger celho",
+    "copticWord": "ⲛ. ⲗⲓⲧⲧⲗⲉ ϥⲓⲛⲅⲉⲣ ⲥⲉⲗϩⲟ",
+    "englishTransliteration": "n. little finger selho",
+    "variants": [
+      {
+        "word": "calho",
+        "copticWord": "ⲥⲁⲗϩⲟ",
+        "englishTransliteration": "salho"
+      }
+    ],
+    "reference": "333b",
+    "partOfSpeech": "n",
+    "gloss": "Warm water. celj- v. cwlj - To smear",
+    "definition": "Warm water. celj- v. cwlj - To smear"
+  },
+  {
+    "headword": "cemi",
+    "copticWord": "ⲥⲉⲙⲓ",
+    "englishTransliteration": "semi",
+    "reference": "336b",
+    "gloss": "vi. To appeal, make application",
+    "definition": "vi. To appeal, make application",
+    "senses": [
+      {
+        "label": "e",
+        "partOfSpeech": "vb",
+        "gloss": "To appeal against, accuse",
+        "definition": "To appeal against, accuse"
+      },
+      {
+        "label": "qa",
+        "partOfSpeech": "vb",
+        "gloss": "To appeal concerning, for",
+        "definition": "To appeal concerning, for"
+      },
+      {
+        "label": "ejen",
+        "gloss": "Same meaning",
+        "definition": "Same meaning"
+      },
+      {
+        "label": "eybe",
+        "gloss": "Same meaning",
+        "definition": "Same meaning"
+      },
+      {
+        "label": "oube",
+        "partOfSpeech": "vb",
+        "gloss": "To appeal against",
+        "definition": "---: m. Petition, accusation;"
+      },
+      {
+        "label": "refcemi",
+        "partOfSpeech": "m",
+        "gloss": "Advocate, accuser",
+        "definition": "Advocate, accuser"
+      }
+    ]
+  },
+  {
+    "headword": "cen]",
+    "copticWord": "ⲥⲉⲛϯ",
+    "englishTransliteration": "senti",
+    "gloss": "Foundation",
+    "definition": "Foundation",
+    "crossReference": {
+      "target": "cwnt",
+      "gloss": "Foundation"
+    }
+  },
+  {
+    "headword": "cep",
+    "copticWord": "ⲥⲉⲡ",
+    "englishTransliteration": "sep",
+    "gloss": "To soak",
+    "definition": "To soak",
+    "crossReference": {
+      "target": "cwp",
+      "gloss": "To soak"
+    }
+  },
+  {
+    "headword": "cepi",
+    "copticWord": "ⲥⲉⲡⲓ",
+    "englishTransliteration": "sepi",
+    "reference": "351a",
+    "gloss": "vi. To remain over, be remainder",
+    "definition": "vi. To remain over, be remainder"
+  },
+  {
+    "headword": "c/pi",
+    "copticWord": "ⲥⲏⲡⲓ",
+    "englishTransliteration": "sipi",
+    "partOfSpeech": "mf",
+    "gloss": "Remainder",
+    "definition": "Remainder"
+  },
+  {
+    "headword": "cepcep",
+    "copticWord": "ⲥⲉⲡⲥⲉⲡ",
+    "englishTransliteration": "sepsep",
+    "gloss": "To entreat",
+    "definition": "To entreat",
+    "crossReference": {
+      "target": "cobceb",
+      "gloss": "To entreat"
+    }
+  },
+  {
+    "headword": "ceptembrioc",
+    "copticWord": "ⲥⲉⲡⲧⲉⲙⲃⲣⲓⲟⲥ",
+    "englishTransliteration": "septemvrios",
+    "gloss": "(L)",
+    "definition": "m. Month \"September\"."
+  },
+  {
+    "headword": "cer",
+    "copticWord": "ⲥⲉⲣ",
+    "englishTransliteration": "ser",
+    "gloss": "To scatter",
+    "definition": "To scatter",
+    "crossReference": {
+      "target": "cwr",
+      "gloss": "To scatter"
+    }
+  },
+  {
+    "headword": "cemidalion",
+    "copticWord": "ⲥⲉⲙⲓⲇⲁⲗⲓⲟⲛ",
+    "englishTransliteration": "semidalion",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "The finest wheaten flour, flour",
+    "definition": "The finest wheaten flour, flour"
+  },
+  {
+    "headword": "cemne",
+    "copticWord": "ⲥⲉⲙⲛⲉ",
+    "englishTransliteration": "semne",
+    "gloss": "To establish",
+    "definition": "To establish",
+    "crossReference": {
+      "target": "cemni",
+      "gloss": "To establish"
+    }
+  }
+]

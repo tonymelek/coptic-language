@@ -1,0 +1,414 @@
+[
+  {
+    "headword": "lu",
+    "copticWord": "ⲗⲩ",
+    "englishTransliteration": "ly",
+    "variants": [
+      {
+        "word": "nia",
+        "copticWord": "ⲛⲓⲁ",
+        "englishTransliteration": "nia"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Lampstand, candlestick, menorah",
+    "definition": "Lampstand, candlestick, menorah"
+  },
+  {
+    "headword": "lu'anon",
+    "copticWord": "ⲗⲩⲯⲁⲛⲟⲛ",
+    "englishTransliteration": "lypsanon",
+    "gloss": "Relics of the saints",
+    "definition": "Relics of the saints",
+    "crossReference": {
+      "target": "lei'anon",
+      "gloss": "Relics of the saints"
+    }
+  },
+  {
+    "headword": "vi. To be moist",
+    "copticWord": "ⲫⲓ. Ⲧⲟ ⲃⲉ ⲙⲟⲓϣⲧ",
+    "englishTransliteration": "fi. To ve moisht",
+    "variants": [
+      {
+        "word": "sodden. lwm v. lom - Morsel. lwk",
+        "copticWord": "ϣⲟⲇⲇⲉⲛ. ⲗⲱⲙ ⲫ. ⲗⲟⲙ - Ⲙⲟⲣϣⲉⲗ. ⲗⲱⲕ",
+        "englishTransliteration": "shodden. lōm f. lom - Morshel. lōk"
+      },
+      {
+        "word": "(Q) l/k",
+        "copticWord": "(Ϧ) ⲗⲏⲕ",
+        "englishTransliteration": "(Kh) lik"
+      }
+    ],
+    "reference": "138b",
+    "gloss": "vi. To be soft, frosh",
+    "definition": "---: m. Fresh grain"
+  },
+  {
+    "headword": "metl/k",
+    "copticWord": "ⲙⲉⲧⲗⲏⲕ",
+    "englishTransliteration": "metlik",
+    "partOfSpeech": "f",
+    "gloss": "Softness, freshness",
+    "definition": "Softness, freshness"
+  },
+  {
+    "headword": "leklwk (Q)",
+    "copticWord": "ⲗⲉⲕⲗⲱⲕ (Ϧ)",
+    "englishTransliteration": "leklōk (Kh)",
+    "gloss": "vi. To become soft",
+    "definition": "vi. To become soft"
+  },
+  {
+    "headword": "(1) lwbs",
+    "copticWord": "ⲗⲱⲃϣ",
+    "englishTransliteration": "lōvsh",
+    "variants": [
+      {
+        "word": "lobs=",
+        "copticWord": "ⲗⲟⲃϣ",
+        "englishTransliteration": "lovsh"
+      },
+      {
+        "word": "lobs",
+        "note": "Q",
+        "copticWord": "ⲗⲟⲃϣ",
+        "englishTransliteration": "lovsh"
+      },
+      {
+        "word": "lops",
+        "note": "Q",
+        "copticWord": "ⲗⲟⲡϣ",
+        "englishTransliteration": "lopsh"
+      }
+    ],
+    "reference": "137b",
+    "gloss": "vi. To be hot, glow",
+    "definition": "vt. (rare) To burn, heat",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "Glow",
+        "definition": "lebs, leps: m. Heating material, fuel, twigs, brushwood."
+      }
+    ]
+  },
+  {
+    "headword": "lobs n",
+    "copticWord": "ⲗⲟⲃϣ ⲛ",
+    "englishTransliteration": "lovsh n",
+    "variants": [
+      {
+        "word": "rwm",
+        "copticWord": "ⲣⲱⲙ",
+        "englishTransliteration": "rōm"
+      }
+    ],
+    "partOfSpeech": "adj",
+    "gloss": "Glowing with fire, red hot",
+    "definition": "Glowing with fire, red hot"
+  },
+  {
+    "headword": "lwm",
+    "copticWord": "ⲗⲱⲙ",
+    "englishTransliteration": "lōm",
+    "variants": [
+      {
+        "word": "lam",
+        "note": "Q",
+        "copticWord": "ⲗⲁⲙ",
+        "englishTransliteration": "lam"
+      }
+    ],
+    "reference": "142b",
+    "gloss": "vi. To wither, fade",
+    "definition": "qual. to be filthy",
+    "senses": [
+      {
+        "label": "lwm",
+        "partOfSpeech": "m",
+        "gloss": "Filth, witheredness",
+        "definition": "Filth, witheredness"
+      }
+    ]
+  },
+  {
+    "headword": "atlwm",
+    "copticWord": "ⲁⲧⲗⲱⲙ",
+    "englishTransliteration": "atlōm",
+    "partOfSpeech": "adj",
+    "gloss": "Unfading",
+    "definition": "Unfading"
+  },
+  {
+    "headword": "lwmi",
+    "copticWord": "ⲗⲱⲙⲓ",
+    "englishTransliteration": "lōmi",
+    "gloss": "Morsel",
+    "definition": "Morsel",
+    "crossReference": {
+      "target": "lom",
+      "gloss": "Morsel"
+    }
+  },
+  {
+    "headword": "(2) lwbs",
+    "copticWord": "ⲗⲱⲃϣ",
+    "englishTransliteration": "lōvsh",
+    "reference": "138a",
+    "partOfSpeech": "m",
+    "gloss": "Crown, coping, battlement (of roof)",
+    "definition": "crown, consummation, interpretation."
+  },
+  {
+    "headword": "(1) lwili",
+    "copticWord": "ⲗⲱⲓⲗⲓ",
+    "englishTransliteration": "lōili",
+    "variants": [
+      {
+        "word": "hlwili",
+        "note": "once",
+        "copticWord": "ϩⲗⲱⲓⲗⲓ",
+        "englishTransliteration": "hlōili"
+      }
+    ],
+    "reference": "669a",
+    "gloss": "vi. To be borne, float",
+    "definition": "vi. To be borne, float"
+  },
+  {
+    "headword": "reflwili",
+    "copticWord": "ⲣⲉϥⲗⲱⲓⲗⲓ",
+    "englishTransliteration": "reflōili",
+    "partOfSpeech": "m",
+    "gloss": "Swimmer",
+    "definition": "Swimmer"
+  },
+  {
+    "headword": "lwron",
+    "copticWord": "ⲗⲱⲣⲟⲛ",
+    "englishTransliteration": "lōron",
+    "variants": [
+      {
+        "word": "-oc",
+        "copticWord": "-ⲟⲥ",
+        "englishTransliteration": "-os"
+      }
+    ],
+    "gloss": "(Lat)",
+    "definition": "m. Sour wine"
+  },
+  {
+    "headword": "lwc",
+    "copticWord": "ⲗⲱⲥ",
+    "englishTransliteration": "lōs",
+    "variants": [
+      {
+        "word": "lac=",
+        "copticWord": "ⲗⲁⲥ",
+        "englishTransliteration": "las"
+      },
+      {
+        "word": "lac",
+        "note": "Q",
+        "copticWord": "ⲗⲁⲥ",
+        "englishTransliteration": "las"
+      }
+    ],
+    "reference": "145a",
+    "gloss": "vi. To be bruised, crushed",
+    "definition": "tr. to bruise, crush"
+  },
+  {
+    "headword": "lwou",
+    "copticWord": "ⲗⲱⲟⲩ",
+    "englishTransliteration": "lōou",
+    "variants": [
+      {
+        "word": "lau",
+        "copticWord": "ⲗⲁⲩ",
+        "englishTransliteration": "lav"
+      }
+    ],
+    "reference": "147b",
+    "partOfSpeech": "m",
+    "gloss": "Curl of hair, ring, link in chain",
+    "definition": "fringe; bunch, cluster of dates"
+  },
+  {
+    "headword": "oi nlwou",
+    "copticWord": "ⲟⲓ ⲛⲗⲱⲟⲩ",
+    "englishTransliteration": "oi nlōou",
+    "partOfSpeech": "vb",
+    "gloss": "To be fringed",
+    "definition": "To be fringed"
+  },
+  {
+    "headword": "lwsj",
+    "copticWord": "ⲗⲱϣϫ",
+    "englishTransliteration": "lōshj",
+    "variants": [
+      {
+        "word": "lesj",
+        "copticWord": "ⲗⲉϣϫ",
+        "englishTransliteration": "leshj"
+      }
+    ],
+    "reference": "148a",
+    "gloss": "vi. To be troublesome, oppressive",
+    "definition": "tr. to molest, oppress."
+  },
+  {
+    "headword": "(2) lwili",
+    "copticWord": "ⲗⲱⲓⲗⲓ",
+    "englishTransliteration": "lōili",
+    "reference": "669a",
+    "partOfSpeech": "f",
+    "gloss": "Tail, buttocks",
+    "definition": "Tail, buttocks"
+  },
+  {
+    "headword": "lwf",
+    "copticWord": "ⲗⲱϥ",
+    "englishTransliteration": "lōf",
+    "variants": [
+      {
+        "word": "lof",
+        "note": "Q",
+        "copticWord": "ⲗⲟϥ",
+        "englishTransliteration": "lof"
+      }
+    ],
+    "reference": "148b",
+    "gloss": "vi. To be insipid",
+    "definition": "vi. To be insipid"
+  },
+  {
+    "headword": "lwimi",
+    "copticWord": "ⲗⲱⲓⲙⲓ",
+    "englishTransliteration": "lōimi",
+    "gloss": "Morsel",
+    "definition": "Morsel",
+    "crossReference": {
+      "target": "lom",
+      "gloss": "Morsel"
+    }
+  },
+  {
+    "headword": "lwqem",
+    "copticWord": "ⲗⲱϧⲉⲙ",
+    "englishTransliteration": "lōkhem",
+    "variants": [
+      {
+        "word": "laqem",
+        "note": "Q",
+        "copticWord": "ⲗⲁϧⲉⲙ",
+        "englishTransliteration": "lakhem"
+      }
+    ],
+    "reference": "149b",
+    "gloss": "vi. To be boiling, boiled",
+    "definition": "vi. To be boiling, boiled",
+    "senses": [
+      {
+        "gloss": "(w/ vas) m. Half boiled",
+        "definition": "(w/ vas) m. Half boiled"
+      }
+    ]
+  },
+  {
+    "headword": "lwihi",
+    "copticWord": "ⲗⲱⲓϩⲓ",
+    "englishTransliteration": "lōihi",
+    "reference": "149a",
+    "senses": [
+      {
+        "label": "atlwiji",
+        "partOfSpeech": "adj",
+        "gloss": "Without cause",
+        "definition": "]lwiji: vb. To give cause, excuse; jem lwiji: vb. To find occasion, excuse."
+      }
+    ]
+  },
+  {
+    "headword": "m. Mud",
+    "copticWord": "ⲙ. Ⲙⲩⲇ",
+    "englishTransliteration": "m. Myd",
+    "variants": [
+      {
+        "word": "filth. lwiji",
+        "copticWord": "ϥⲓⲗⲧϩ. ⲗⲱⲓϫⲓ",
+        "englishTransliteration": "filth. lōeegi"
+      }
+    ],
+    "reference": "151b",
+    "partOfSpeech": "f",
+    "gloss": "Cause, excuse",
+    "definition": "Cause, excuse"
+  },
+  {
+    "headword": "lwj",
+    "copticWord": "ⲗⲱϫ",
+    "englishTransliteration": "lōj",
+    "variants": [
+      {
+        "word": "lej",
+        "copticWord": "ⲗⲉϫ",
+        "englishTransliteration": "lej"
+      },
+      {
+        "word": "loj=",
+        "copticWord": "ⲗⲟϫ",
+        "englishTransliteration": "loj"
+      }
+    ],
+    "reference": "150a",
+    "gloss": "vt. To stick, cleave to",
+    "definition": "lick."
+  },
+  {
+    "headword": "lwji",
+    "copticWord": "ⲗⲱϫⲓ",
+    "englishTransliteration": "lōji",
+    "variants": [
+      {
+        "word": "loj=",
+        "copticWord": "ⲗⲟϫ",
+        "englishTransliteration": "loj"
+      }
+    ],
+    "reference": "151b",
+    "gloss": "vi. To cease",
+    "definition": "recover from sickness."
+  },
+  {
+    "headword": "lwjh",
+    "copticWord": "ⲗⲱϫϩ",
+    "englishTransliteration": "lōjh",
+    "variants": [
+      {
+        "word": "lejh",
+        "copticWord": "ⲗⲉϫϩ",
+        "englishTransliteration": "lejh"
+      },
+      {
+        "word": "lojh=",
+        "copticWord": "ⲗⲟϫϩ",
+        "englishTransliteration": "lojh"
+      }
+    ],
+    "reference": "151a",
+    "gloss": "vt. To crush",
+    "definition": "lick;",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "Anguish, oppresion",
+        "definition": "Anguish, oppresion"
+      }
+    ]
+  }
+]

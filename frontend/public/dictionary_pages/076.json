@@ -1,0 +1,462 @@
+[
+  {
+    "headword": "nohem",
+    "copticWord": "ⲛⲟϩⲉⲙ",
+    "englishTransliteration": "nohem",
+    "variants": [
+      {
+        "word": "nohem",
+        "copticWord": "ⲛⲟϩⲉⲙ",
+        "englishTransliteration": "nohem"
+      },
+      {
+        "word": "nahem",
+        "copticWord": "ⲛⲁϩⲉⲙ",
+        "englishTransliteration": "nahem"
+      },
+      {
+        "word": "nahm=",
+        "copticWord": "ⲛⲁϩⲙ",
+        "englishTransliteration": "nahm"
+      },
+      {
+        "word": "(Q) nohem",
+        "copticWord": "(Ϧ) ⲛⲟϩⲉⲙ",
+        "englishTransliteration": "(Kh) nohem"
+      }
+    ],
+    "reference": "243b",
+    "gloss": "vi. To be saved, safe",
+    "definition": "vt. Save, preserve;",
+    "senses": [
+      {
+        "label": "e",
+        "gloss": "vi. To be saved, escape from",
+        "definition": "escape safely to;"
+      },
+      {
+        "label": "ebol",
+        "gloss": "vt. Implying completion",
+        "definition": "---: m. Safety;"
+      },
+      {
+        "label": "jinnohem",
+        "partOfSpeech": "m",
+        "gloss": "Salvation, safety. refnohem: m. Savior",
+        "definition": "Salvation, safety. refnohem: m. Savior"
+      }
+    ]
+  },
+  {
+    "headword": "ernofri",
+    "copticWord": "ⲉⲣⲛⲟϥⲣⲓ",
+    "englishTransliteration": "ernofri",
+    "partOfSpeech": "vb",
+    "gloss": "To be profitable",
+    "definition": "To be profitable"
+  },
+  {
+    "headword": "e",
+    "copticWord": "ⲉ",
+    "englishTransliteration": "e",
+    "partOfSpeech": "vb",
+    "gloss": "To be profitable to do so & so",
+    "definition": "To be profitable to do so & so",
+    "senses": [
+      {
+        "label": "n-(dat)",
+        "partOfSpeech": "vb",
+        "gloss": "To be profitable",
+        "definition": "To be profitable"
+      }
+    ]
+  },
+  {
+    "headword": "metnofri",
+    "copticWord": "ⲙⲉⲧⲛⲟϥⲣⲓ",
+    "englishTransliteration": "metnofri",
+    "partOfSpeech": "f",
+    "gloss": "Good things",
+    "definition": "Good things"
+  },
+  {
+    "headword": "metatnofri",
+    "copticWord": "ⲙⲉⲧⲁⲧⲛⲟϥⲣⲓ",
+    "englishTransliteration": "metatnofri",
+    "partOfSpeech": "adj",
+    "gloss": "Unprofitableness",
+    "definition": "Unprofitableness"
+  },
+  {
+    "headword": "noj=",
+    "copticWord": "ⲛⲟϫ",
+    "englishTransliteration": "noj",
+    "gloss": "To throw. nojnej: (252b)",
+    "definition": "vt. To reprouach, mock. nta= v. (1)nte- - Belonging to.",
+    "crossReference": {
+      "target": "(2)nouj",
+      "gloss": "To throw. nojnej: (252b)"
+    }
+  },
+  {
+    "headword": "noufi",
+    "copticWord": "ⲛⲟⲩϥⲓ",
+    "englishTransliteration": "noufi",
+    "partOfSpeech": "adj",
+    "gloss": "Good",
+    "definition": "Good"
+  },
+  {
+    "headword": "(1) nte",
+    "copticWord": "ⲛⲧⲉ",
+    "englishTransliteration": "nte",
+    "variants": [
+      {
+        "word": "nta=",
+        "copticWord": "ⲛⲧⲁ",
+        "englishTransliteration": "nta"
+      }
+    ],
+    "reference": "230a",
+    "gloss": "part of genitive, for greater precision than n-",
+    "definition": "where preceding word had indef. art.; between two proper names; after foregoing gen. or after attribute; after strong article"
+  },
+  {
+    "headword": "nta=",
+    "copticWord": "ⲛⲧⲁ",
+    "englishTransliteration": "nta",
+    "gloss": "Indicating possession or ownership",
+    "definition": "of + pronoun;"
+  },
+  {
+    "headword": "nofri",
+    "copticWord": "ⲛⲟϥⲣⲓ",
+    "englishTransliteration": "nofri",
+    "gloss": "Good. noft= v. noutf - To loosen",
+    "definition": "Good. noft= v. noutf - To loosen",
+    "crossReference": {
+      "target": "nofer",
+      "gloss": "Good. noft= v. noutf - To loosen"
+    }
+  },
+  {
+    "headword": "(1) noh",
+    "copticWord": "ⲛⲟϩ",
+    "englishTransliteration": "noh",
+    "reference": "241a",
+    "gloss": "pl. Eyelids",
+    "definition": "pl. Eyelids"
+  },
+  {
+    "headword": "(2) noh",
+    "copticWord": "ⲛⲟϩ",
+    "englishTransliteration": "noh",
+    "reference": "241a",
+    "partOfSpeech": "m",
+    "gloss": "Rope, cord",
+    "definition": "Rope, cord"
+  },
+  {
+    "headword": "sesnoh",
+    "copticWord": "ϣⲉϣⲛⲟϩ",
+    "englishTransliteration": "sheshnoh",
+    "partOfSpeech": "n",
+    "gloss": "Twist rope",
+    "definition": "Twist rope"
+  },
+  {
+    "headword": "nohi",
+    "copticWord": "ⲛⲟϩⲓ",
+    "englishTransliteration": "nohi",
+    "partOfSpeech": "m",
+    "gloss": "Rope-maker",
+    "definition": "Rope-maker"
+  },
+  {
+    "headword": "noh",
+    "copticWord": "ⲛⲟϩ",
+    "englishTransliteration": "noh",
+    "gloss": "To shake. noh nrws v. rws - Measuring cord",
+    "definition": "To shake. noh nrws v. rws - Measuring cord",
+    "crossReference": {
+      "target": "nouh",
+      "gloss": "To shake. noh nrws v. rws - Measuring cord"
+    }
+  },
+  {
+    "headword": "ouonta=",
+    "copticWord": "ⲟⲩⲟⲛⲧⲁ",
+    "englishTransliteration": "ouonta",
+    "partOfSpeech": "vb",
+    "gloss": "There is, have",
+    "definition": "There is, have"
+  },
+  {
+    "headword": "mmonta=",
+    "copticWord": "ⲙⲙⲟⲛⲧⲁ",
+    "englishTransliteration": "mmonta",
+    "partOfSpeech": "vb",
+    "gloss": "There is not, not have",
+    "definition": "There is not, not have"
+  },
+  {
+    "headword": "etenta=",
+    "copticWord": "ⲉⲧⲉⲛⲧⲁ",
+    "englishTransliteration": "etenta",
+    "variants": [
+      {
+        "word": "petenta=",
+        "copticWord": "ⲡⲉⲧⲉⲛⲧⲁ",
+        "englishTransliteration": "petenta"
+      },
+      {
+        "word": "v/ ete-nta=",
+        "copticWord": "ⲫⲏ ⲉⲧⲉ-ⲛⲧⲁ",
+        "englishTransliteration": "fi ete-nta"
+      }
+    ],
+    "gloss": "That which is mine, his & c",
+    "definition": "That which is mine, his & c"
+  },
+  {
+    "headword": "noheb",
+    "copticWord": "ⲛⲟϩⲉⲃ",
+    "englishTransliteration": "nohev",
+    "variants": [
+      {
+        "word": "nwheb",
+        "copticWord": "ⲛⲱϩⲉⲃ",
+        "englishTransliteration": "nōhev"
+      },
+      {
+        "word": "nehp",
+        "copticWord": "ⲛⲉϩⲡ",
+        "englishTransliteration": "nehp"
+      }
+    ],
+    "reference": "243a",
+    "gloss": "vt. To make ready (wagon by) yoking beasts",
+    "definition": "yoke (beasts);",
+    "senses": [
+      {
+        "label": "eqoun e",
+        "partOfSpeech": "vb",
+        "gloss": "To yoke to, join to",
+        "definition": "To yoke to, join to"
+      },
+      {
+        "label": "nahbef",
+        "partOfSpeech": "m",
+        "gloss": "Yoke",
+        "definition": "cross beam in loom; nahbi nahboui: f. Shoulder, back; neck;"
+      },
+      {
+        "label": "sinnahbi",
+        "partOfSpeech": "n",
+        "gloss": "Shoulder measure",
+        "definition": "height of shoulder;"
+      },
+      {
+        "label": "nastnahbi",
+        "partOfSpeech": "adj",
+        "gloss": "Stiff-necked",
+        "definition": "metnastnahbi: f. Obstinacy;"
+      },
+      {
+        "label": "jarebnahbi",
+        "partOfSpeech": "adj",
+        "gloss": "Bare-necked",
+        "definition": "[acinahbi: adj. High-necked; conceited;"
+      },
+      {
+        "label": "wli ntnahbi",
+        "partOfSpeech": "vb",
+        "gloss": "To take off neck",
+        "definition": "behead."
+      }
+    ]
+  },
+  {
+    "headword": "(2)nte",
+    "copticWord": "ⲛⲧⲉ",
+    "englishTransliteration": "nte",
+    "variants": [
+      {
+        "word": "te",
+        "copticWord": "ⲧⲉ",
+        "englishTransliteration": "te"
+      }
+    ],
+    "reference": "229b",
+    "gloss": "prfx of conjunctive",
+    "definition": "prfx of conjunctive"
+  },
+  {
+    "headword": "nt/j",
+    "copticWord": "ⲛⲧⲏϫ",
+    "englishTransliteration": "ntij",
+    "gloss": "Herb",
+    "definition": "Herb",
+    "crossReference": {
+      "target": "ent/j",
+      "gloss": "Herb"
+    }
+  },
+  {
+    "headword": "nuktikorax",
+    "copticWord": "ⲛⲩⲕⲧⲓⲕⲟⲣⲁⲝ",
+    "englishTransliteration": "nyktikoraks",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Long-eared owl",
+    "definition": "Long-eared owl"
+  },
+  {
+    "headword": "numvioc",
+    "copticWord": "ⲛⲩⲙⲫⲓⲟⲥ",
+    "englishTransliteration": "nymfios",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Bridegroom",
+    "definition": "fiancee"
+  },
+  {
+    "headword": "n",
+    "copticWord": "ⲛ",
+    "englishTransliteration": "n",
+    "variants": [
+      {
+        "word": "ai",
+        "copticWord": "ⲁⲓ",
+        "englishTransliteration": "ai"
+      },
+      {
+        "word": "en",
+        "copticWord": "ⲉⲛ",
+        "englishTransliteration": "en"
+      },
+      {
+        "word": "ai",
+        "copticWord": "ⲁⲓ",
+        "englishTransliteration": "ai"
+      }
+    ],
+    "reference": "223a",
+    "partOfSpeech": "m",
+    "gloss": "Thing in general",
+    "definition": "thing to eat, food; property, belongings; --- niben: Everything (mostly inanimate)"
+  },
+  {
+    "headword": "nwik",
+    "copticWord": "ⲛⲱⲓⲕ",
+    "englishTransliteration": "nōik",
+    "reference": "222b",
+    "partOfSpeech": "m",
+    "gloss": "Adulterer",
+    "definition": "Adulterer"
+  },
+  {
+    "headword": "ernwik",
+    "copticWord": "ⲉⲣⲛⲱⲓⲕ",
+    "englishTransliteration": "ernōik",
+    "partOfSpeech": "vb",
+    "gloss": "To commit adultery",
+    "definition": "To commit adultery"
+  },
+  {
+    "headword": "refernwik",
+    "copticWord": "ⲣⲉϥⲉⲣⲛⲱⲓⲕ",
+    "englishTransliteration": "refernōik",
+    "partOfSpeech": "m",
+    "gloss": "Committer of adultery",
+    "definition": "Committer of adultery"
+  },
+  {
+    "headword": "metnwik",
+    "copticWord": "ⲙⲉⲧⲛⲱⲓⲕ",
+    "englishTransliteration": "metnōik",
+    "partOfSpeech": "f",
+    "gloss": "Adultery",
+    "definition": "Adultery"
+  },
+  {
+    "headword": "nwini",
+    "copticWord": "ⲛⲱⲓⲛⲓ",
+    "englishTransliteration": "nōini",
+    "gloss": "To shake",
+    "definition": "To shake",
+    "crossReference": {
+      "target": "noini",
+      "gloss": "To shake"
+    }
+  },
+  {
+    "headword": "nwit",
+    "copticWord": "ⲛⲱⲓⲧ",
+    "englishTransliteration": "nōit",
+    "gloss": "Meal",
+    "definition": "Meal",
+    "crossReference": {
+      "target": "nout",
+      "gloss": "Meal"
+    }
+  },
+  {
+    "headword": "nwis",
+    "copticWord": "ⲛⲱⲓϣ",
+    "englishTransliteration": "nōish",
+    "reference": "236a",
+    "partOfSpeech": "m",
+    "gloss": "Spleen",
+    "definition": "Spleen"
+  },
+  {
+    "headword": "nwou]",
+    "copticWord": "ⲛⲱⲟⲩϯ",
+    "englishTransliteration": "nōouti",
+    "reference": "235b",
+    "partOfSpeech": "n",
+    "gloss": "Swaddling bands",
+    "definition": "Swaddling bands"
+  },
+  {
+    "headword": "nwheb",
+    "copticWord": "ⲛⲱϩⲉⲃ",
+    "englishTransliteration": "nōhev",
+    "gloss": "To yoke",
+    "definition": "To yoke",
+    "crossReference": {
+      "target": "noheb",
+      "gloss": "To yoke"
+    }
+  },
+  {
+    "headword": "nswp",
+    "copticWord": "ⲛϣⲱⲡ",
+    "englishTransliteration": "nshōp",
+    "gloss": "Moment. nsot, ensot, (Q) nast, p.c",
+    "definition": "Moment. nsot, ensot, (Q) nast, p.c",
+    "crossReference": {
+      "target": "swp",
+      "gloss": "Moment. nsot, ensot, (Q) nast, p.c"
+    }
+  },
+  {
+    "headword": "nast",
+    "copticWord": "ⲛⲁϣⲧ",
+    "englishTransliteration": "nasht",
+    "reference": "237a",
+    "gloss": "vi. To be hard, strong, difficult",
+    "definition": "vi. To be hard, strong, difficult"
+  },
+  {
+    "headword": "nasth/t",
+    "copticWord": "ⲛⲁϣⲧϩⲏⲧ",
+    "englishTransliteration": "nashthit",
+    "partOfSpeech": "adj",
+    "gloss": "Strong, hard of heart",
+    "definition": "Strong, hard of heart"
+  }
+]

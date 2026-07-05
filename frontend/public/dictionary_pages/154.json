@@ -1,0 +1,405 @@
+[
+  {
+    "headword": "h",
+    "copticWord": "ϩ",
+    "englishTransliteration": "h",
+    "reference": "631a",
+    "gloss": "28th letter of the Coptic Alphabet",
+    "definition": "28th letter of the Coptic Alphabet"
+  },
+  {
+    "headword": "hap",
+    "copticWord": "ϩⲁⲡ",
+    "englishTransliteration": "hap",
+    "reference": "693b",
+    "partOfSpeech": "m",
+    "gloss": "Judgement, inquest",
+    "definition": "Judgement, inquest",
+    "senses": [
+      {
+        "label": "]hap",
+        "partOfSpeech": "vb",
+        "gloss": "To give judgement, judge",
+        "definition": "at]hap: adj. Not judging; man]hap: m. Judge; ma n]hap: m. Judge-chamber,"
+      },
+      {
+        "label": "court; hioui ephap",
+        "partOfSpeech": "vb",
+        "gloss": "To cast to law, condemn",
+        "definition": "To cast to law, condemn"
+      },
+      {
+        "label": "[ihap",
+        "partOfSpeech": "vb",
+        "gloss": "Receive judgement, go to law",
+        "definition": "Receive judgement, go to law"
+      }
+    ]
+  },
+  {
+    "headword": "erhap",
+    "copticWord": "ⲉⲣϩⲁⲡ",
+    "englishTransliteration": "erhap",
+    "partOfSpeech": "vb",
+    "gloss": "To give judgement, go to law",
+    "definition": "To give judgement, go to law"
+  },
+  {
+    "headword": "ha",
+    "copticWord": "ϩⲁ",
+    "englishTransliteration": "ha",
+    "variants": [
+      {
+        "word": "haro=",
+        "copticWord": "ϩⲁⲣⲟ",
+        "englishTransliteration": "haro"
+      }
+    ],
+    "reference": "634a",
+    "gloss": "Prep. To, toward",
+    "definition": "Prep. To, toward"
+  },
+  {
+    "headword": "ebol ha",
+    "copticWord": "ⲉⲃⲟⲗ ϩⲁ",
+    "englishTransliteration": "evol ha",
+    "gloss": "From",
+    "definition": "From"
+  },
+  {
+    "headword": "eqoun ha",
+    "copticWord": "ⲉϧⲟⲩⲛ ϩⲁ",
+    "englishTransliteration": "ekhoun ha",
+    "gloss": "Into, unto",
+    "definition": "Into, unto"
+  },
+  {
+    "headword": "hay/r",
+    "copticWord": "ϩⲁⲑⲏⲣ",
+    "englishTransliteration": "hathir",
+    "gloss": "Hammer",
+    "definition": "Hammer",
+    "crossReference": {
+      "target": "ay/r",
+      "gloss": "Hammer"
+    }
+  },
+  {
+    "headword": "hai",
+    "copticWord": "ϩⲁⲓ",
+    "englishTransliteration": "hai",
+    "reference": "636b",
+    "partOfSpeech": "m",
+    "gloss": "Husband",
+    "definition": "Husband",
+    "senses": [
+      {
+        "label": "athai",
+        "partOfSpeech": "adj",
+        "gloss": "Not being husband, hus-bandless",
+        "definition": "Not being husband, hus-bandless"
+      },
+      {
+        "label": "erhai",
+        "partOfSpeech": "vb",
+        "gloss": "To be husband",
+        "definition": "qahai: Under, having husband; hemci nem hai: vb. To dwell with husband;"
+      },
+      {
+        "label": "[i",
+        "gloss": "hai: vb. To take husband",
+        "definition": "hai: vb. To take husband"
+      }
+    ]
+  },
+  {
+    "headword": "haperw]",
+    "copticWord": "ϩⲁⲡⲉⲣⲱϯ",
+    "englishTransliteration": "haperōti",
+    "gloss": "Sucking. hapi: (696a)",
+    "definition": "n. The god \"Apis\".",
+    "crossReference": {
+      "target": "erw]",
+      "gloss": "Sucking. hapi: (696a)"
+    }
+  },
+  {
+    "headword": "haraj",
+    "copticWord": "ϩⲁⲣⲁϫ",
+    "englishTransliteration": "haraj",
+    "variants": [
+      {
+        "word": "hajar",
+        "copticWord": "ϩⲁϫⲁⲣ",
+        "englishTransliteration": "hagar"
+      }
+    ],
+    "reference": "708b",
+    "gloss": "pl. Branches. haro= v. ha - To",
+    "definition": "pl. Branches. haro= v. ha - To"
+  },
+  {
+    "headword": "hat",
+    "copticWord": "ϩⲁⲧ",
+    "englishTransliteration": "hat",
+    "reference": "713b",
+    "partOfSpeech": "m",
+    "gloss": "Silver, silver coin, money",
+    "definition": "Silver, silver coin, money",
+    "senses": [
+      {
+        "label": "(f)",
+        "definition": "athat at[ne hat: adj. Without money, without payment; maihat: m. Money-loving; mankhat: m. Silversmith; ]hat: vb. Give, pay silver (money)."
+      }
+    ]
+  },
+  {
+    "headword": "hal",
+    "copticWord": "ϩⲁⲗ",
+    "englishTransliteration": "hal",
+    "reference": "664b",
+    "partOfSpeech": "n",
+    "gloss": "w/vb. er- To deceive halai v. hwl - To fly",
+    "definition": "w/vb. er- To deceive halai v. hwl - To fly"
+  },
+  {
+    "headword": "halak",
+    "copticWord": "ϩⲁⲗⲁⲕ",
+    "englishTransliteration": "halak",
+    "variants": [
+      {
+        "word": "alak",
+        "copticWord": "ⲁⲗⲁⲕ",
+        "englishTransliteration": "alak"
+      }
+    ],
+    "reference": "668a",
+    "partOfSpeech": "f",
+    "gloss": "Ring, doorknocker",
+    "definition": "Ring, doorknocker"
+  },
+  {
+    "headword": "hajar",
+    "copticWord": "ϩⲁϫⲁⲣ",
+    "englishTransliteration": "hagar",
+    "gloss": "Branches",
+    "definition": "Branches",
+    "crossReference": {
+      "target": "haraj",
+      "gloss": "Branches"
+    }
+  },
+  {
+    "headword": "halakmi",
+    "copticWord": "ϩⲁⲗⲁⲕⲙⲓ",
+    "englishTransliteration": "halakmi",
+    "gloss": "Blear-eyed person",
+    "definition": "Blear-eyed person",
+    "crossReference": {
+      "target": "hilakmi",
+      "gloss": "Blear-eyed person"
+    }
+  },
+  {
+    "headword": "haji",
+    "copticWord": "ϩⲁϫⲓ",
+    "englishTransliteration": "haji",
+    "reference": "744a",
+    "partOfSpeech": "m",
+    "gloss": "Snare",
+    "definition": "Snare"
+  },
+  {
+    "headword": "hala]",
+    "copticWord": "ϩⲁⲗⲁϯ",
+    "englishTransliteration": "halati",
+    "gloss": "Birds",
+    "definition": "Birds",
+    "crossReference": {
+      "target": "hal/t",
+      "gloss": "Birds"
+    }
+  },
+  {
+    "headword": "hb/oui",
+    "copticWord": "ϩⲃⲏⲟⲩⲓ",
+    "englishTransliteration": "hvioui",
+    "gloss": "Things",
+    "definition": "Things",
+    "crossReference": {
+      "target": "(2)hwb",
+      "gloss": "Things"
+    }
+  },
+  {
+    "headword": "hal/",
+    "copticWord": "ϩⲁⲗⲏ",
+    "englishTransliteration": "hali",
+    "reference": "667a",
+    "partOfSpeech": "m",
+    "gloss": "Miserly person",
+    "definition": "Miserly person"
+  },
+  {
+    "headword": "hboc",
+    "copticWord": "ϩⲃⲟⲥ",
+    "englishTransliteration": "hvos",
+    "gloss": "Garment",
+    "definition": "Garment",
+    "crossReference": {
+      "target": "hwbc",
+      "gloss": "Garment"
+    }
+  },
+  {
+    "headword": "hal/t",
+    "copticWord": "ϩⲁⲗⲏⲧ",
+    "englishTransliteration": "halit",
+    "variants": [
+      {
+        "type": "pl.",
+        "word": "hala]",
+        "copticWord": "ϩⲁⲗⲁϯ",
+        "englishTransliteration": "halati"
+      }
+    ],
+    "reference": "671b",
+    "partOfSpeech": "m",
+    "gloss": "Flying creature, bird",
+    "definition": "Flying creature, bird"
+  },
+  {
+    "headword": "hboui",
+    "copticWord": "ϩⲃⲟⲩⲓ",
+    "englishTransliteration": "hvoui",
+    "gloss": "Ibis",
+    "definition": "Ibis",
+    "crossReference": {
+      "target": "hifoui",
+      "gloss": "Ibis"
+    }
+  },
+  {
+    "headword": "halkou",
+    "copticWord": "ϩⲁⲗⲕⲟⲩ",
+    "englishTransliteration": "halkou",
+    "reference": "668b",
+    "gloss": "fm. Sickle",
+    "definition": "fm. Sickle"
+  },
+  {
+    "headword": "hallouc",
+    "copticWord": "ϩⲁⲗⲗⲟⲩⲥ",
+    "englishTransliteration": "hallous",
+    "reference": "671b",
+    "partOfSpeech": "m",
+    "gloss": "Spider's web",
+    "definition": "Spider's web"
+  },
+  {
+    "headword": "hbwc",
+    "copticWord": "ϩⲃⲱⲥ",
+    "englishTransliteration": "hvōs",
+    "gloss": "Garment",
+    "definition": "Garment",
+    "crossReference": {
+      "target": "hwbc",
+      "gloss": "Garment"
+    }
+  },
+  {
+    "headword": "(1) he",
+    "copticWord": "ϩⲉ",
+    "englishTransliteration": "he",
+    "reference": "640a",
+    "gloss": "interj. Ho!",
+    "definition": "interj. Ho!"
+  },
+  {
+    "headword": "(2) he",
+    "copticWord": "ϩⲉ",
+    "englishTransliteration": "he",
+    "reference": "640a",
+    "partOfSpeech": "n",
+    "gloss": "Hinder part, back",
+    "definition": "Hinder part, back"
+  },
+  {
+    "headword": "he",
+    "copticWord": "ϩⲉ",
+    "englishTransliteration": "he",
+    "gloss": "Season",
+    "definition": "Season",
+    "crossReference": {
+      "target": "(2)h/",
+      "gloss": "Season"
+    }
+  },
+  {
+    "headword": "halmi",
+    "copticWord": "ϩⲁⲗⲙⲓ",
+    "englishTransliteration": "halmi",
+    "reference": "670b",
+    "partOfSpeech": "m",
+    "gloss": "Dung, slime. halwm = alwm - Cheese. halwouli v. hwl - Flight of birds. ham-, am-: (673b)",
+    "definition": "m. Craftsman, smith."
+  },
+  {
+    "headword": "heb",
+    "copticWord": "ϩⲉⲃ",
+    "englishTransliteration": "hev",
+    "gloss": "Thing",
+    "definition": "Thing",
+    "crossReference": {
+      "target": "(2)hwb",
+      "gloss": "Thing"
+    }
+  },
+  {
+    "headword": "(1) hebi",
+    "copticWord": "ϩⲉⲃⲓ",
+    "englishTransliteration": "hevi",
+    "reference": "655b",
+    "gloss": "vi. To be low, short",
+    "definition": "vi. To be low, short"
+  },
+  {
+    "headword": "(2) hebi",
+    "copticWord": "ϩⲉⲃⲓ",
+    "englishTransliteration": "hevi",
+    "reference": "656b",
+    "partOfSpeech": "m",
+    "gloss": "Plough",
+    "definition": "Plough"
+  },
+  {
+    "headword": "moulwl nhebi",
+    "copticWord": "ⲙⲟⲩⲗⲱⲗ ⲛϩⲉⲃⲓ",
+    "englishTransliteration": "moulōl nhevi",
+    "partOfSpeech": "m",
+    "gloss": "Yoke of plough-ing beasts",
+    "definition": "Yoke of plough-ing beasts"
+  },
+  {
+    "headword": "hamkal",
+    "copticWord": "ϩⲁⲙⲕⲁⲗ",
+    "englishTransliteration": "hamkal",
+    "gloss": "Bolt-smith. hamnoub v. noub - Goldsmith. han-: (685a)",
+    "definition": "Pl. Art. Some. (pl. of ou-). hanarouhi v. rouhi - Evening. hanho v. ho - Away from.",
+    "crossReference": {
+      "target": "kal",
+      "gloss": "Bolt-smith. hamnoub v. noub - Goldsmith. han-: (685a)"
+    }
+  },
+  {
+    "headword": "hebc=",
+    "copticWord": "ϩⲉⲃⲥ",
+    "englishTransliteration": "hevs",
+    "gloss": "To cover",
+    "definition": "To cover",
+    "crossReference": {
+      "target": "hwbc",
+      "gloss": "To cover"
+    }
+  }
+]

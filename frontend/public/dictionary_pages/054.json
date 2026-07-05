@@ -1,0 +1,589 @@
+[
+  {
+    "headword": "(2) laji",
+    "copticWord": "ⲗⲁϫⲓ",
+    "englishTransliteration": "laji",
+    "reference": "151a",
+    "partOfSpeech": "n",
+    "gloss": "Impudent, persistent person",
+    "definition": "Impudent, persistent person"
+  },
+  {
+    "headword": "(w/ er-)",
+    "copticWord": "(ⲱⲏ ⲉⲣ-)",
+    "englishTransliteration": "(ōi er-)",
+    "partOfSpeech": "vb",
+    "gloss": "To importune metlaji: f. Impudence, persistence",
+    "definition": "To importune metlaji: f. Impudence, persistence"
+  },
+  {
+    "headword": "lepton",
+    "copticWord": "ⲗⲉⲡⲧⲟⲛ",
+    "englishTransliteration": "lepton",
+    "variants": [
+      {
+        "word": "-oc",
+        "copticWord": "-ⲟⲥ",
+        "englishTransliteration": "-os"
+      }
+    ],
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "A greek coin of small denomination",
+    "definition": "A greek coin of small denomination"
+  },
+  {
+    "headword": "fragment",
+    "copticWord": "ϥⲣⲁⲅⲙⲉⲛⲧ",
+    "englishTransliteration": "fragment",
+    "variants": [
+      {
+        "word": "morsel. lepasi",
+        "copticWord": "ⲙⲟⲣϣⲉⲗ. ⲗⲉⲡⲁϣⲓ",
+        "englishTransliteration": "morshel. lepashi"
+      }
+    ],
+    "reference": "144b",
+    "gloss": "pl. Trunks of trees",
+    "definition": "pl. Trunks of trees"
+  },
+  {
+    "headword": "leps",
+    "copticWord": "ⲗⲉⲡϣ",
+    "englishTransliteration": "lepsh",
+    "gloss": "Fuel",
+    "definition": "Fuel",
+    "crossReference": {
+      "target": "(1)lwbs",
+      "gloss": "Fuel"
+    }
+  },
+  {
+    "headword": "lajlej",
+    "copticWord": "ⲗⲁϫⲗⲉϫ",
+    "englishTransliteration": "lajlej",
+    "reference": "152b",
+    "partOfSpeech": "m",
+    "gloss": "Girder, joint, frame",
+    "definition": "Girder, joint, frame"
+  },
+  {
+    "headword": "la[ou",
+    "copticWord": "ⲗⲁϭⲟⲩ",
+    "englishTransliteration": "lachou",
+    "reference": "151b",
+    "gloss": "pl. Among implements of torture",
+    "definition": "pl. Among implements of torture"
+  },
+  {
+    "headword": "leban",
+    "copticWord": "ⲗⲉⲃⲁⲛ",
+    "englishTransliteration": "levan",
+    "variants": [
+      {
+        "word": "labw",
+        "copticWord": "ⲗⲁⲃⲱ",
+        "englishTransliteration": "lavō"
+      }
+    ],
+    "reference": "137b",
+    "partOfSpeech": "m",
+    "gloss": "Ship's hauling cable",
+    "definition": "Ship's hauling cable"
+  },
+  {
+    "headword": "leuitikoc",
+    "copticWord": "ⲗⲉⲩⲓⲧⲓⲕⲟⲥ",
+    "englishTransliteration": "levitikos",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "gloss": "The book of Leviticus",
+    "definition": "levitical"
+  },
+  {
+    "headword": "lesj",
+    "copticWord": "ⲗⲉϣϫ",
+    "englishTransliteration": "leshj",
+    "gloss": "To molest",
+    "definition": "To molest",
+    "crossReference": {
+      "target": "lwsj",
+      "gloss": "To molest"
+    }
+  },
+  {
+    "headword": "leflifi",
+    "copticWord": "ⲗⲉϥⲗⲓϥⲓ",
+    "englishTransliteration": "leflifi",
+    "gloss": "Fragment",
+    "definition": "Fragment",
+    "crossReference": {
+      "target": "loflef",
+      "gloss": "Fragment"
+    }
+  },
+  {
+    "headword": "leflwf=",
+    "copticWord": "ⲗⲉϥⲗⲱϥ",
+    "englishTransliteration": "leflōf",
+    "gloss": "To mortify",
+    "definition": "To mortify",
+    "crossReference": {
+      "target": "loflef",
+      "gloss": "To mortify"
+    }
+  },
+  {
+    "headword": "lehlem",
+    "copticWord": "ⲗⲉϩⲗⲉⲙ",
+    "englishTransliteration": "lehlem",
+    "gloss": "Flea",
+    "definition": "Flea",
+    "crossReference": {
+      "target": "lehl/m",
+      "gloss": "Flea"
+    }
+  },
+  {
+    "headword": "leb/c",
+    "copticWord": "ⲗⲉⲃⲏⲥ",
+    "englishTransliteration": "levis",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Kettle, cauldron, basin",
+    "definition": "an instrument of torture."
+  },
+  {
+    "headword": "lehl/m",
+    "copticWord": "ⲗⲉϩⲗⲏⲙ",
+    "englishTransliteration": "lehlim",
+    "variants": [
+      {
+        "word": "lel/m",
+        "copticWord": "ⲗⲉⲗⲏⲙ",
+        "englishTransliteration": "lelim"
+      },
+      {
+        "word": "lehlem",
+        "copticWord": "ⲗⲉϩⲗⲉⲙ",
+        "englishTransliteration": "lehlem"
+      }
+    ],
+    "reference": "670b",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "lebt",
+    "copticWord": "ⲗⲉⲃⲧ",
+    "englishTransliteration": "levt",
+    "gloss": "Turnip",
+    "definition": "Turnip",
+    "crossReference": {
+      "target": "lapt",
+      "gloss": "Turnip"
+    }
+  },
+  {
+    "headword": "lebs",
+    "copticWord": "ⲗⲉⲃϣ",
+    "englishTransliteration": "levsh",
+    "gloss": "Fuel",
+    "definition": "Fuel",
+    "crossReference": {
+      "target": "(1)lwbs",
+      "gloss": "Fuel"
+    }
+  },
+  {
+    "headword": "leggerion",
+    "copticWord": "ⲗⲉⲅⲅⲉⲣⲓⲟⲛ",
+    "englishTransliteration": "lengerion",
+    "variants": [
+      {
+        "word": "laggouriom",
+        "copticWord": "ⲗⲁⲅⲅⲟⲩⲣⲓⲟⲙ",
+        "englishTransliteration": "langouriom"
+      }
+    ],
+    "gloss": "(Lat)",
+    "definition": "(Lat)"
+  },
+  {
+    "headword": "legewn",
+    "copticWord": "ⲗⲉⲅⲉⲱⲛ",
+    "englishTransliteration": "legeōn",
+    "gloss": "(Lat)",
+    "definition": "f. Legion, band of soldiers."
+  },
+  {
+    "headword": "leitourgia",
+    "copticWord": "ⲗⲉⲓⲧⲟⲩⲣⲅⲓⲁ",
+    "englishTransliteration": "litourgia",
+    "variants": [
+      {
+        "word": "litourgia",
+        "copticWord": "ⲗⲓⲧⲟⲩⲣⲅⲓⲁ",
+        "englishTransliteration": "litourgia"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Liturgy, public service, service, worship, ministry",
+    "definition": "Liturgy, public service, service, worship, ministry"
+  },
+  {
+    "headword": "litourgoc",
+    "copticWord": "ⲗⲓⲧⲟⲩⲣⲅⲟⲥ",
+    "englishTransliteration": "litourgos",
+    "partOfSpeech": "m",
+    "gloss": "One who performs a liturgy, public servant, minister",
+    "definition": "One who performs a liturgy, public servant, minister"
+  },
+  {
+    "headword": "lei'anon",
+    "copticWord": "ⲗⲉⲓⲯⲁⲛⲟⲛ",
+    "englishTransliteration": "lipsanon",
+    "variants": [
+      {
+        "word": "lu'anon",
+        "copticWord": "ⲗⲩⲯⲁⲛⲟⲛ",
+        "englishTransliteration": "lypsanon"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Relics of saints or martyrs, remains of the dead",
+    "definition": "Relics of saints or martyrs, remains of the dead"
+  },
+  {
+    "headword": "leifi",
+    "copticWord": "ⲗⲉⲓϥⲓ",
+    "englishTransliteration": "lifi",
+    "reference": "148b",
+    "partOfSpeech": "m",
+    "gloss": "A fish cyprinus niloticus",
+    "definition": "A fish cyprinus niloticus"
+  },
+  {
+    "headword": "lekan/",
+    "copticWord": "ⲗⲉⲕⲁⲛⲏ",
+    "englishTransliteration": "lekani",
+    "gloss": "Basin",
+    "definition": "Basin",
+    "crossReference": {
+      "target": "lakan/",
+      "gloss": "Basin"
+    }
+  },
+  {
+    "headword": "lej",
+    "copticWord": "ⲗⲉϫ",
+    "englishTransliteration": "lej",
+    "gloss": "To stick",
+    "definition": "To stick",
+    "crossReference": {
+      "target": "lwj",
+      "gloss": "To stick"
+    }
+  },
+  {
+    "headword": "lejh",
+    "copticWord": "ⲗⲉϫϩ",
+    "englishTransliteration": "lejh",
+    "gloss": "To crush",
+    "definition": "To crush",
+    "crossReference": {
+      "target": "lwjh",
+      "gloss": "To crush"
+    }
+  },
+  {
+    "headword": "l/l",
+    "copticWord": "ⲗⲏⲗ",
+    "englishTransliteration": "lil",
+    "reference": "140b",
+    "partOfSpeech": "m",
+    "gloss": "Necklace",
+    "definition": "Necklace"
+  },
+  {
+    "headword": "l/loui (always w/ es",
+    "copticWord": "ⲗⲏⲗⲟⲩⲓ (ⲁⲗⲱⲁⲑϣ ⲱⲏ ⲉϣ",
+    "englishTransliteration": "liloui (alōathsh ōi esh",
+    "variants": [
+      {
+        "word": "s-)",
+        "copticWord": "ϣ-)",
+        "englishTransliteration": "sh-)"
+      }
+    ],
+    "reference": "141b",
+    "partOfSpeech": "m",
+    "gloss": "Shout",
+    "definition": "Shout"
+  },
+  {
+    "headword": "es",
+    "copticWord": "ⲉϣ",
+    "englishTransliteration": "esh",
+    "variants": [
+      {
+        "word": "sl/loui",
+        "copticWord": "ϣⲗⲏⲗⲟⲩⲓ",
+        "englishTransliteration": "shliloui"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To shout aloud",
+    "definition": "To shout aloud"
+  },
+  {
+    "headword": "l/pon",
+    "copticWord": "ⲗⲏⲡⲟⲛ",
+    "englishTransliteration": "lipon",
+    "gloss": "Then",
+    "definition": "Then",
+    "crossReference": {
+      "target": "loipon",
+      "gloss": "Then"
+    }
+  },
+  {
+    "headword": "l/c",
+    "copticWord": "ⲗⲏⲥ",
+    "englishTransliteration": "lis",
+    "reference": "145a",
+    "partOfSpeech": "m",
+    "gloss": "Jaw",
+    "definition": "Jaw"
+  },
+  {
+    "headword": "l/ou",
+    "copticWord": "ⲗⲏⲟⲩ",
+    "englishTransliteration": "liou",
+    "reference": "147a",
+    "partOfSpeech": "m",
+    "gloss": "A word relating to war",
+    "definition": "A word relating to war"
+  },
+  {
+    "headword": "libanoc",
+    "copticWord": "ⲗⲓⲃⲁⲛⲟⲥ",
+    "englishTransliteration": "leebanos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Frankincense-tree, frankincense",
+    "definition": "Lebanon. libi, (Q) lobi, p.c"
+  },
+  {
+    "headword": "lab",
+    "copticWord": "ⲗⲁⲃ",
+    "englishTransliteration": "lav",
+    "variants": [
+      {
+        "word": "la",
+        "copticWord": "ⲗⲁ",
+        "englishTransliteration": "la"
+      }
+    ],
+    "reference": "136b"
+  },
+  {
+    "headword": "vi",
+    "copticWord": "ⲫⲓ",
+    "englishTransliteration": "fi",
+    "gloss": "To be made",
+    "definition": "To be made"
+  },
+  {
+    "headword": "lele",
+    "copticWord": "ⲗⲉⲗⲉ",
+    "englishTransliteration": "lele",
+    "reference": "141a",
+    "gloss": "vi. To wander about",
+    "definition": "--- ebol: vb. To wander forth, about"
+  },
+  {
+    "headword": "metreflele ebol",
+    "copticWord": "ⲙⲉⲧⲣⲉϥⲗⲉⲗⲉ ⲉⲃⲟⲗ",
+    "englishTransliteration": "metreflele evol",
+    "partOfSpeech": "f",
+    "gloss": "Wandering about",
+    "definition": "Wandering about"
+  },
+  {
+    "headword": "eqoun e",
+    "copticWord": "ⲉϧⲟⲩⲛ ⲉ",
+    "englishTransliteration": "ekhoun e",
+    "partOfSpeech": "vb",
+    "gloss": "To mad toward, concering",
+    "definition": "To mad toward, concering"
+  },
+  {
+    "headword": "ejen",
+    "copticWord": "ⲉϫⲉⲛ",
+    "englishTransliteration": "ejen",
+    "partOfSpeech": "vb",
+    "gloss": "To be mad after",
+    "definition": "To be mad after"
+  },
+  {
+    "headword": "lele,/mi",
+    "copticWord": "ⲗⲉⲗⲉⲭⲏⲙⲓ",
+    "englishTransliteration": "lelekhimi",
+    "gloss": "Bruise",
+    "definition": "Bruise",
+    "crossReference": {
+      "target": "aloli",
+      "gloss": "Bruise"
+    }
+  },
+  {
+    "headword": "nem",
+    "copticWord": "ⲛⲉⲙ",
+    "englishTransliteration": "nem",
+    "partOfSpeech": "vb",
+    "gloss": "To be mad after",
+    "definition": "To be mad after"
+  },
+  {
+    "headword": "lel/m",
+    "copticWord": "ⲗⲉⲗⲏⲙ",
+    "englishTransliteration": "lelim",
+    "gloss": "Flea",
+    "definition": "Flea",
+    "crossReference": {
+      "target": "lehl/m",
+      "gloss": "Flea"
+    }
+  },
+  {
+    "headword": "nca",
+    "copticWord": "ⲛⲥⲁ",
+    "englishTransliteration": "nsa",
+    "partOfSpeech": "vb",
+    "gloss": "To be made after",
+    "definition": "To be made after"
+  },
+  {
+    "headword": "qen",
+    "copticWord": "ϧⲉⲛ",
+    "englishTransliteration": "khen",
+    "partOfSpeech": "vb",
+    "gloss": "To be mad through, made mad by",
+    "definition": "To be mad through, made mad by"
+  },
+  {
+    "headword": "lenji",
+    "copticWord": "ⲗⲉⲛϫⲓ",
+    "englishTransliteration": "lenji",
+    "reference": "144a",
+    "partOfSpeech": "m",
+    "gloss": "Coat of mail, cuirass",
+    "definition": "Coat of mail, cuirass"
+  },
+  {
+    "headword": "lexikon",
+    "copticWord": "ⲗⲉⲝⲓⲕⲟⲛ",
+    "englishTransliteration": "leksikon",
+    "variants": [
+      {
+        "word": "-oc",
+        "copticWord": "-ⲟⲥ",
+        "englishTransliteration": "-os"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Dictionary, lexicon",
+    "definition": "lit. wordy."
+  },
+  {
+    "headword": "lexikoc",
+    "copticWord": "ⲗⲉⲝⲓⲕⲟⲥ",
+    "englishTransliteration": "leksikos",
+    "gloss": "Lexicon",
+    "definition": "Lexicon",
+    "crossReference": {
+      "target": "lexikon",
+      "gloss": "Lexicon"
+    }
+  },
+  {
+    "headword": "leoc",
+    "copticWord": "ⲗⲉⲟⲥ",
+    "englishTransliteration": "leos",
+    "reference": "143b",
+    "partOfSpeech": "n",
+    "gloss": "Earring, bracelet",
+    "definition": "Earring, bracelet"
+  },
+  {
+    "headword": "reflibi",
+    "copticWord": "ⲣⲉϥⲗⲓⲃⲓ",
+    "englishTransliteration": "refleebi",
+    "partOfSpeech": "m",
+    "gloss": "Madman",
+    "definition": "Madman"
+  },
+  {
+    "headword": "lamaqt",
+    "copticWord": "ⲗⲁⲙⲁϧⲧ",
+    "englishTransliteration": "lamakht",
+    "partOfSpeech": "adj",
+    "gloss": "Belly-mad, gluttonous",
+    "definition": "Belly-mad, gluttonous"
+  },
+  {
+    "headword": "metlamaqt",
+    "copticWord": "ⲙⲉⲧⲗⲁⲙⲁϧⲧ",
+    "englishTransliteration": "metlamakht",
+    "partOfSpeech": "f",
+    "gloss": "Gluttony",
+    "definition": "Gluttony"
+  },
+  {
+    "headword": "lama",
+    "copticWord": "ⲗⲁⲙⲁ",
+    "englishTransliteration": "lama",
+    "variants": [
+      {
+        "word": "it/c",
+        "copticWord": "ⲓⲧⲏⲥ",
+        "englishTransliteration": "itis"
+      }
+    ],
+    "partOfSpeech": "adj",
+    "gloss": "Glutton",
+    "definition": "Glutton"
+  },
+  {
+    "headword": "lafchimi",
+    "copticWord": "ⲗⲁϥⲥϩⲓⲙⲓ",
+    "englishTransliteration": "lafshimi",
+    "partOfSpeech": "adj",
+    "gloss": "Woman-mad, greedy person",
+    "definition": "Woman-mad, greedy person"
+  },
+  {
+    "headword": "metlafchimi",
+    "copticWord": "ⲙⲉⲧⲗⲁϥⲥϩⲓⲙⲓ",
+    "englishTransliteration": "metlafshimi",
+    "partOfSpeech": "f",
+    "gloss": "Greed, hunger",
+    "definition": "Greed, hunger"
+  }
+]

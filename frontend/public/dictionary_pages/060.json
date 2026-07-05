@@ -1,0 +1,641 @@
+[
+  {
+    "headword": "]metmeyre",
+    "copticWord": "ϯⲙⲉⲧⲙⲉⲑⲣⲉ",
+    "englishTransliteration": "timetmethre",
+    "partOfSpeech": "vb",
+    "gloss": "To bear witness",
+    "definition": "To bear witness"
+  },
+  {
+    "headword": "meyreu",
+    "copticWord": "ⲙⲉⲑⲣⲉⲩ",
+    "englishTransliteration": "methrev",
+    "gloss": "Witnesses",
+    "definition": "Witnesses",
+    "crossReference": {
+      "target": "meyre",
+      "gloss": "Witnesses"
+    }
+  },
+  {
+    "headword": "menn/t=",
+    "copticWord": "ⲙⲉⲛⲛⲏⲧ",
+    "englishTransliteration": "mennit",
+    "gloss": "To pasture",
+    "definition": "To pasture",
+    "crossReference": {
+      "target": "amoni",
+      "gloss": "To pasture"
+    }
+  },
+  {
+    "headword": "menra]",
+    "copticWord": "ⲙⲉⲛⲣⲁϯ",
+    "englishTransliteration": "menrati",
+    "gloss": "Beloved ones",
+    "definition": "Beloved ones",
+    "crossReference": {
+      "target": "mei",
+      "gloss": "Beloved ones"
+    }
+  },
+  {
+    "headword": "menre",
+    "copticWord": "ⲙⲉⲛⲣⲉ",
+    "englishTransliteration": "menre",
+    "gloss": "To love",
+    "definition": "To love",
+    "crossReference": {
+      "target": "mei",
+      "gloss": "To love"
+    }
+  },
+  {
+    "headword": "menrit",
+    "copticWord": "ⲙⲉⲛⲣⲓⲧ",
+    "englishTransliteration": "menrit",
+    "gloss": "Beloved",
+    "definition": "Beloved",
+    "crossReference": {
+      "target": "mei",
+      "gloss": "Beloved"
+    }
+  },
+  {
+    "headword": "menrit=",
+    "copticWord": "ⲙⲉⲛⲣⲓⲧ",
+    "englishTransliteration": "menrit",
+    "gloss": "To love",
+    "definition": "To love",
+    "crossReference": {
+      "target": "mei",
+      "gloss": "To love"
+    }
+  },
+  {
+    "headword": "ment",
+    "copticWord": "ⲙⲉⲛⲧ",
+    "englishTransliteration": "ment",
+    "reference": "176a",
+    "partOfSpeech": "m",
+    "gloss": "A measure of grain, less than ertob",
+    "definition": "A measure of grain, less than ertob"
+  },
+  {
+    "headword": "mentoi",
+    "copticWord": "ⲙⲉⲛⲧⲟⲓ",
+    "englishTransliteration": "mentoi",
+    "gloss": "Yet",
+    "definition": "Yet",
+    "crossReference": {
+      "target": "men",
+      "gloss": "Yet"
+    }
+  },
+  {
+    "headword": "soumenrit",
+    "copticWord": "ϣⲟⲩⲙⲉⲛⲣⲓⲧ",
+    "englishTransliteration": "shoumenrit",
+    "partOfSpeech": "adj",
+    "gloss": "Worthy of love",
+    "definition": "Worthy of love"
+  },
+  {
+    "headword": "mai",
+    "copticWord": "ⲙⲁⲓ",
+    "englishTransliteration": "mai",
+    "gloss": "p.c. Loving",
+    "definition": "p.c. Loving"
+  },
+  {
+    "headword": "metmai",
+    "copticWord": "ⲙⲉⲧⲙⲁⲓ",
+    "englishTransliteration": "metmai",
+    "partOfSpeech": "n",
+    "gloss": "Love of",
+    "definition": "Love of"
+  },
+  {
+    "headword": "ermai",
+    "copticWord": "ⲉⲣⲙⲁⲓ",
+    "englishTransliteration": "ermai",
+    "partOfSpeech": "vb",
+    "gloss": "To be lover of",
+    "definition": "To be lover of"
+  },
+  {
+    "headword": "refmei",
+    "copticWord": "ⲣⲉϥⲙⲉⲓ",
+    "englishTransliteration": "refmi",
+    "partOfSpeech": "m",
+    "gloss": "Loving, benevolent",
+    "definition": "Loving, benevolent"
+  },
+  {
+    "headword": "mei",
+    "copticWord": "ⲙⲉⲓ",
+    "englishTransliteration": "mi",
+    "partOfSpeech": "m",
+    "gloss": "Love",
+    "definition": "Love"
+  },
+  {
+    "headword": "mentoige",
+    "copticWord": "ⲙⲉⲛⲧⲟⲓⲅⲉ",
+    "englishTransliteration": "mentoige",
+    "gloss": "Yet",
+    "definition": "Yet",
+    "crossReference": {
+      "target": "men",
+      "gloss": "Yet"
+    }
+  },
+  {
+    "headword": "mentoike",
+    "copticWord": "ⲙⲉⲛⲧⲟⲓⲕⲉ",
+    "englishTransliteration": "mentoike",
+    "gloss": "Yet",
+    "definition": "Yet",
+    "crossReference": {
+      "target": "men",
+      "gloss": "Yet"
+    }
+  },
+  {
+    "headword": "menswt",
+    "copticWord": "ⲙⲉⲛϣⲱⲧ",
+    "englishTransliteration": "menshōt",
+    "gloss": "Plain",
+    "definition": "Plain",
+    "crossReference": {
+      "target": "messwt",
+      "gloss": "Plain"
+    }
+  },
+  {
+    "headword": "]mei",
+    "copticWord": "ϯⲙⲉⲓ",
+    "englishTransliteration": "timi",
+    "partOfSpeech": "vb",
+    "gloss": "To make love",
+    "definition": "menrit, pl"
+  },
+  {
+    "headword": "mekmek",
+    "copticWord": "ⲙⲉⲕⲙⲉⲕ",
+    "englishTransliteration": "mekmek",
+    "gloss": "To think",
+    "definition": "To think",
+    "crossReference": {
+      "target": "mokmek",
+      "gloss": "To think"
+    }
+  },
+  {
+    "headword": "menso]",
+    "copticWord": "ⲙⲉⲛϣⲟϯ",
+    "englishTransliteration": "menshoti",
+    "gloss": "Plains",
+    "definition": "Plains",
+    "crossReference": {
+      "target": "messwt",
+      "gloss": "Plains"
+    }
+  },
+  {
+    "headword": "menhe",
+    "copticWord": "ⲙⲉⲛϩⲉ",
+    "englishTransliteration": "menhe",
+    "gloss": "After",
+    "definition": "After",
+    "crossReference": {
+      "target": "menh/",
+      "gloss": "After"
+    }
+  },
+  {
+    "headword": "menh/",
+    "copticWord": "ⲙⲉⲛϩⲏ",
+    "englishTransliteration": "menhi",
+    "variants": [
+      {
+        "word": "-he",
+        "copticWord": "-ϩⲉ",
+        "englishTransliteration": "-he"
+      },
+      {
+        "word": "-h/=",
+        "copticWord": "-ϩⲏ",
+        "englishTransliteration": "-hi"
+      }
+    ],
+    "reference": "177b",
+    "gloss": "(w/ ca-) prep",
+    "definition": "(w/ ca-) prep"
+  },
+  {
+    "headword": "mekmouk=",
+    "copticWord": "ⲙⲉⲕⲙⲟⲩⲕ",
+    "englishTransliteration": "mekmouk",
+    "gloss": "To think",
+    "definition": "To think",
+    "crossReference": {
+      "target": "mokmek",
+      "gloss": "To think"
+    }
+  },
+  {
+    "headword": "menh/=",
+    "copticWord": "ⲙⲉⲛϩⲏ",
+    "englishTransliteration": "menhi",
+    "gloss": "After",
+    "definition": "After",
+    "crossReference": {
+      "target": "menh/",
+      "gloss": "After"
+    }
+  },
+  {
+    "headword": "mer",
+    "copticWord": "ⲙⲉⲣ",
+    "englishTransliteration": "mer",
+    "gloss": "To bind",
+    "definition": "To bind",
+    "crossReference": {
+      "target": "mour",
+      "gloss": "To bind"
+    }
+  },
+  {
+    "headword": "mela",
+    "copticWord": "ⲙⲉⲗⲁ",
+    "englishTransliteration": "mela",
+    "variants": [
+      {
+        "word": "melac",
+        "copticWord": "ⲙⲉⲗⲁⲥ",
+        "englishTransliteration": "melas"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Dark, black",
+    "definition": "m. black ink"
+  },
+  {
+    "headword": "manmela",
+    "copticWord": "ⲙⲁⲛⲙⲉⲗⲁ",
+    "englishTransliteration": "manmela",
+    "partOfSpeech": "m",
+    "gloss": "Ink vessel",
+    "definition": "Ink vessel"
+  },
+  {
+    "headword": "melet/",
+    "copticWord": "ⲙⲉⲗⲉⲧⲏ",
+    "englishTransliteration": "meleti",
+    "variants": [
+      {
+        "word": "-/c",
+        "copticWord": "-ⲏⲥ",
+        "englishTransliteration": "-is"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Practice, exercise, lecture, branch or object of study, care, habit",
+    "definition": "Practice, exercise, lecture, branch or object of study, care, habit"
+  },
+  {
+    "headword": "ermeletan",
+    "copticWord": "ⲉⲣⲙⲉⲗⲉⲧⲁⲛ",
+    "englishTransliteration": "ermeletan",
+    "variants": [
+      {
+        "word": "ermelitan",
+        "copticWord": "ⲉⲣⲙⲉⲗⲓⲧⲁⲛ",
+        "englishTransliteration": "ermelitan"
+      },
+      {
+        "word": "erme-letin",
+        "copticWord": "ⲉⲣⲙⲉ-ⲗⲉⲧⲓⲛ",
+        "englishTransliteration": "erme-letin"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "to study, read, learn",
+    "definition": "to study, read, learn"
+  },
+  {
+    "headword": "mel/ma",
+    "copticWord": "ⲙⲉⲗⲏⲙⲁ",
+    "englishTransliteration": "melima",
+    "reference": "Gk?",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Object of care, beloved object, care",
+    "definition": "Object of care, beloved object, care"
+  },
+  {
+    "headword": "ermelin",
+    "copticWord": "ⲉⲣⲙⲉⲗⲓⲛ",
+    "englishTransliteration": "ermelin",
+    "partOfSpeech": "vb",
+    "gloss": "To care, to be concerned with",
+    "definition": "To care, to be concerned with"
+  },
+  {
+    "headword": "meliaricion",
+    "copticWord": "ⲙⲉⲗⲓⲁⲣⲓⲥⲓⲟⲛ",
+    "englishTransliteration": "meliarision",
+    "reference": "Gk",
+    "isGreek": true
+  },
+  {
+    "headword": "meran",
+    "copticWord": "ⲙⲉⲣⲁⲛ",
+    "englishTransliteration": "meran",
+    "variants": [
+      {
+        "word": "m/ran",
+        "copticWord": "ⲙⲏⲣⲁⲛ",
+        "englishTransliteration": "miran"
+      }
+    ],
+    "reference": "183a",
+    "partOfSpeech": "m",
+    "gloss": "Trough",
+    "definition": "tank"
+  },
+  {
+    "headword": "mareh",
+    "copticWord": "ⲙⲁⲣⲉϩ",
+    "englishTransliteration": "mareh",
+    "reference": "184a",
+    "partOfSpeech": "m",
+    "gloss": "Spear, javelin",
+    "definition": "Spear, javelin"
+  },
+  {
+    "headword": "semereh",
+    "copticWord": "ϣⲉⲙⲉⲣⲉϩ",
+    "englishTransliteration": "shemereh",
+    "partOfSpeech": "vb",
+    "gloss": "To blow with spear",
+    "definition": "To blow with spear"
+  },
+  {
+    "headword": "meri",
+    "copticWord": "ⲙⲉⲣⲓ",
+    "englishTransliteration": "meri",
+    "reference": "182b",
+    "partOfSpeech": "n",
+    "gloss": "Midday, day",
+    "definition": "Midday, day"
+  },
+  {
+    "headword": "meric",
+    "copticWord": "ⲙⲉⲣⲓⲥ",
+    "englishTransliteration": "meris",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Portion",
+    "definition": "fate; lot; division, class"
+  },
+  {
+    "headword": "meroc",
+    "copticWord": "ⲙⲉⲣⲟⲥ",
+    "englishTransliteration": "meros",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Share, portion, lot",
+    "definition": "Share, portion, lot"
+  },
+  {
+    "headword": "merre",
+    "copticWord": "ⲙⲉⲣⲣⲉ",
+    "englishTransliteration": "merre",
+    "reference": "183a",
+    "partOfSpeech": "m",
+    "gloss": "Red of hair",
+    "definition": "Red of hair"
+  },
+  {
+    "headword": "merwf",
+    "copticWord": "ⲙⲉⲣⲱϥ",
+    "englishTransliteration": "merōf",
+    "reference": "184a",
+    "partOfSpeech": "n",
+    "gloss": "prob. A quantity",
+    "definition": "prob. A quantity"
+  },
+  {
+    "headword": "merqaq",
+    "copticWord": "ⲙⲉⲣϧⲁϧ",
+    "englishTransliteration": "merkhakh",
+    "gloss": "Necktie",
+    "definition": "Necktie",
+    "crossReference": {
+      "target": "mour",
+      "gloss": "Necktie"
+    }
+  },
+  {
+    "headword": "mec",
+    "copticWord": "ⲙⲉⲥ",
+    "englishTransliteration": "mes",
+    "gloss": "To bring forth",
+    "definition": "To bring forth",
+    "crossReference": {
+      "target": "mici",
+      "gloss": "To bring forth"
+    }
+  },
+  {
+    "headword": "meciteia",
+    "copticWord": "ⲙⲉⲥⲓⲧⲉⲓⲁ",
+    "englishTransliteration": "mesitia",
+    "variants": [
+      {
+        "word": "-tia",
+        "copticWord": "-ⲧⲓⲁ",
+        "englishTransliteration": "-tia"
+      }
+    ],
+    "partOfSpeech": "f",
+    "gloss": "Mediation, arbitration, negotiation",
+    "definition": "Mediation, arbitration, negotiation"
+  },
+  {
+    "headword": "mecit/c",
+    "copticWord": "ⲙⲉⲥⲓⲧⲏⲥ",
+    "englishTransliteration": "mesitis",
+    "partOfSpeech": "m",
+    "gloss": "Mediator, umpire, arbitrator",
+    "definition": "Mediator, umpire, arbitrator"
+  },
+  {
+    "headword": "mecitia",
+    "copticWord": "ⲙⲉⲥⲓⲧⲓⲁ",
+    "englishTransliteration": "mesitia",
+    "gloss": "Mediation",
+    "definition": "Mediation",
+    "crossReference": {
+      "target": "meciteia",
+      "gloss": "Mediation"
+    }
+  },
+  {
+    "headword": "melicye",
+    "copticWord": "ⲙⲉⲗⲓⲥⲑⲉ",
+    "englishTransliteration": "melisthe",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "(w/ er-) vb. To dismember, brea",
+    "definition": "(w/ er-) vb. To dismember, brea"
+  },
+  {
+    "headword": "meloc",
+    "copticWord": "ⲙⲉⲗⲟⲥ",
+    "englishTransliteration": "melos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Limb, member, corpse",
+    "definition": "Limb, member, corpse"
+  },
+  {
+    "headword": "melwt",
+    "copticWord": "ⲙⲉⲗⲱⲧ",
+    "englishTransliteration": "melōt",
+    "reference": "165a",
+    "partOfSpeech": "f",
+    "gloss": "Ceiling, canopy",
+    "definition": "melh v. moulh - Salt."
+  },
+  {
+    "headword": "men",
+    "copticWord": "ⲙⲉⲛ",
+    "englishTransliteration": "men",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "part",
+    "definition": "part"
+  },
+  {
+    "headword": "Indeed men de",
+    "copticWord": "Ⲓⲛⲇⲉⲉⲇ ⲙⲉⲛ ⲇⲉ",
+    "englishTransliteration": "Indeed men de",
+    "gloss": "On the other hand, on the one hand",
+    "definition": "On the other hand, on the one hand"
+  },
+  {
+    "headword": "menenca",
+    "copticWord": "ⲙⲉⲛⲉⲛⲥⲁ",
+    "englishTransliteration": "menensa",
+    "gloss": "- After",
+    "definition": "meneu amoni - Pastures",
+    "crossReference": {
+      "target": "ca",
+      "gloss": "- After"
+    }
+  },
+  {
+    "headword": "menk",
+    "copticWord": "ⲙⲉⲛⲕ",
+    "englishTransliteration": "menk",
+    "gloss": "To make",
+    "definition": "To make",
+    "crossReference": {
+      "target": "(1)mounk",
+      "gloss": "To make"
+    }
+  },
+  {
+    "headword": "meciw]",
+    "copticWord": "ⲙⲉⲥⲓⲱϯ",
+    "englishTransliteration": "mesiōti",
+    "gloss": "Womb",
+    "definition": "Womb",
+    "crossReference": {
+      "target": "mici",
+      "gloss": "Womb"
+    }
+  },
+  {
+    "headword": "mecor/",
+    "copticWord": "ⲙⲉⲥⲟⲣⲏ",
+    "englishTransliteration": "mesori",
+    "variants": [
+      {
+        "word": "-wr/",
+        "copticWord": "-ⲱⲣⲏ",
+        "englishTransliteration": "-ōri"
+      },
+      {
+        "word": "-our/",
+        "copticWord": "-ⲟⲩⲣⲏ",
+        "englishTransliteration": "-ouri"
+      }
+    ],
+    "reference": "186b",
+    "partOfSpeech": "n",
+    "gloss": "name of the 12th month of the Coptic calendar 'Mesori'",
+    "definition": "name of the 12th month of the Coptic calendar 'Mesori'"
+  },
+  {
+    "headword": "mecour/",
+    "copticWord": "ⲙⲉⲥⲟⲩⲣⲏ",
+    "englishTransliteration": "mesouri",
+    "gloss": "Mesori",
+    "definition": "Mesori",
+    "crossReference": {
+      "target": "mecor/",
+      "gloss": "Mesori"
+    }
+  },
+  {
+    "headword": "mecwr/",
+    "copticWord": "ⲙⲉⲥⲱⲣⲏ",
+    "englishTransliteration": "mesōri",
+    "gloss": "Mesori",
+    "definition": "Mesori",
+    "crossReference": {
+      "target": "mecor/",
+      "gloss": "Mesori"
+    }
+  },
+  {
+    "headword": "mecte",
+    "copticWord": "ⲙⲉⲥⲧⲉ",
+    "englishTransliteration": "meste",
+    "gloss": "To hate",
+    "definition": "To hate",
+    "crossReference": {
+      "target": "moc]",
+      "gloss": "To hate"
+    }
+  },
+  {
+    "headword": "mectenh",
+    "copticWord": "ⲙⲉⲥⲧⲉⲛϩ",
+    "englishTransliteration": "mestenh",
+    "reference": "187b",
+    "partOfSpeech": "f",
+    "gloss": "Breast",
+    "definition": "Breast"
+  },
+  {
+    "headword": "mectenh/t",
+    "copticWord": "ⲙⲉⲥⲧⲉⲛϩⲏⲧ",
+    "englishTransliteration": "mestenhit",
+    "partOfSpeech": "f",
+    "gloss": "Girdle",
+    "definition": "Girdle"
+  }
+]

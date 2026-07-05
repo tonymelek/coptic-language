@@ -1,0 +1,410 @@
+[
+  {
+    "headword": "ouwnh",
+    "copticWord": "ⲟⲩⲱⲛϩ",
+    "englishTransliteration": "ouōnh",
+    "variants": [
+      {
+        "word": "ouonh=",
+        "copticWord": "ⲟⲩⲟⲛϩ",
+        "englishTransliteration": "ouonh"
+      },
+      {
+        "word": "(Q) ouonh",
+        "copticWord": "(Ϧ) ⲟⲩⲟⲛϩ",
+        "englishTransliteration": "(Kh) ouonh"
+      }
+    ],
+    "reference": "486a",
+    "gloss": "vi",
+    "definition": "vi",
+    "senses": [
+      {
+        "gloss": "To reveal, be revealed, appear",
+        "definition": "vt. To show, make clear;"
+      },
+      {
+        "partOfSpeech": "m",
+        "gloss": "Revelation, declaration",
+        "definition": "Revelation, declaration"
+      },
+      {
+        "label": "ayouwnh",
+        "partOfSpeech": "adj",
+        "gloss": "Unshown",
+        "definition": "Unshown"
+      },
+      {
+        "label": "erayouwnh",
+        "partOfSpeech": "vb",
+        "gloss": "To be invisible",
+        "definition": "jinouwnh: m. Appearance;"
+      },
+      {
+        "label": "e",
+        "gloss": "vi. To appear to",
+        "definition": "vt. To show to;"
+      },
+      {
+        "label": "ejen",
+        "gloss": "vi. To appear for, on behalf to",
+        "definition": "vi. To appear for, on behalf to"
+      },
+      {
+        "label": "hijen",
+        "gloss": "vi. To appear upon",
+        "definition": "vi. To appear upon"
+      },
+      {
+        "label": "n",
+        "gloss": "vi. To appear to",
+        "definition": "vi. To appear to"
+      },
+      {
+        "label": "nahren",
+        "gloss": "vi. To appear in the presense of",
+        "definition": "vi. To appear in the presense of"
+      },
+      {
+        "label": "ebol",
+        "gloss": "vi. To show forth, appear",
+        "definition": "vi. To show forth, appear"
+      },
+      {
+        "label": "vt. To show forth",
+        "partOfSpeech": "vb",
+        "gloss": "To show to, display to",
+        "definition": "---: m. Showing forth, declaration;"
+      },
+      {
+        "label": "ayouwnh ebol",
+        "partOfSpeech": "adj",
+        "gloss": "Unshown, invisible",
+        "definition": "Unshown, invisible"
+      },
+      {
+        "label": "erayouwnh ebol",
+        "partOfSpeech": "vb",
+        "gloss": "To be invisible, inconspicuous",
+        "definition": "jinouwnh ebol: m. Display."
+      }
+    ]
+  },
+  {
+    "headword": "ouwrp",
+    "copticWord": "ⲟⲩⲱⲣⲡ",
+    "englishTransliteration": "ouōrp",
+    "variants": [
+      {
+        "word": "ouwrep",
+        "copticWord": "ⲟⲩⲱⲣⲉⲡ",
+        "englishTransliteration": "ouōrep"
+      },
+      {
+        "word": "bwrp",
+        "copticWord": "ⲃⲱⲣⲡ",
+        "englishTransliteration": "vōrp"
+      },
+      {
+        "word": "ouorop",
+        "copticWord": "ⲟⲩⲟⲣⲟⲡ",
+        "englishTransliteration": "ouorop"
+      },
+      {
+        "word": "ouerp",
+        "copticWord": "ⲟⲩⲉⲣⲡ",
+        "englishTransliteration": "ouerp"
+      },
+      {
+        "word": "ouorp=",
+        "copticWord": "ⲟⲩⲟⲣⲡ",
+        "englishTransliteration": "ouorp"
+      }
+    ],
+    "reference": "489a",
+    "gloss": "vi. To send",
+    "definition": "--- e-: vi. To send to;",
+    "senses": [
+      {
+        "label": "erat= n",
+        "gloss": "vi. To send to",
+        "definition": "vi. To send to"
+      },
+      {
+        "label": "ejen",
+        "gloss": "vi. To send upon",
+        "definition": "vi. To send upon"
+      },
+      {
+        "label": "nca",
+        "gloss": "vi. To send after",
+        "definition": "vi. To send after"
+      },
+      {
+        "label": "sa",
+        "gloss": "vi. To send to",
+        "definition": "vi. To send to"
+      },
+      {
+        "label": "qajen",
+        "gloss": "vi. To send toward, to",
+        "definition": "vi. To send toward, to"
+      },
+      {
+        "label": "ha",
+        "gloss": "vi. To send to",
+        "definition": "vi. To send to"
+      },
+      {
+        "label": "hijen",
+        "gloss": "vi. To send down upon",
+        "definition": "vi. To send down upon"
+      },
+      {
+        "label": "ebol ha",
+        "gloss": "vi. To send from",
+        "definition": "vi. To send from"
+      },
+      {
+        "label": "ebol",
+        "gloss": "vi. To send forth",
+        "definition": "vi. To send forth"
+      },
+      {
+        "label": "epec/t",
+        "partOfSpeech": "vb",
+        "gloss": "To send down",
+        "definition": "To send down"
+      },
+      {
+        "label": "epswi",
+        "gloss": "vi. To send up",
+        "definition": "vi. To send up"
+      },
+      {
+        "label": "jinouwrp",
+        "partOfSpeech": "m",
+        "gloss": "Sending. eqoun: vi. To send in",
+        "definition": "remnbwrp: m. Man-sent, messenger, refouwrp: m. Man-sent, messenger."
+      }
+    ]
+  },
+  {
+    "headword": "(1) ouwt",
+    "copticWord": "ⲟⲩⲱⲧ",
+    "englishTransliteration": "ouōt",
+    "reference": "493a",
+    "gloss": "vi. To be raw, fresh, green",
+    "definition": "be, make soft",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "Greenness, herbs, pallor",
+        "definition": "Greenness, herbs, pallor"
+      }
+    ]
+  },
+  {
+    "headword": "ouo]",
+    "copticWord": "ⲟⲩⲟϯ",
+    "englishTransliteration": "ouoti",
+    "variants": [
+      {
+        "word": "bo]",
+        "copticWord": "ⲃⲟϯ",
+        "englishTransliteration": "voti"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "Greens, herbs",
+    "definition": "Greens, herbs"
+  },
+  {
+    "headword": "ouotouet",
+    "copticWord": "ⲟⲩⲟⲧⲟⲩⲉⲧ",
+    "englishTransliteration": "ouotouet",
+    "variants": [
+      {
+        "word": "botbet",
+        "note": "n",
+        "copticWord": "ⲃⲟⲧⲃⲉⲧ",
+        "englishTransliteration": "votvet"
+      },
+      {
+        "word": "(Q) ouet-ouwt",
+        "note": "n",
+        "copticWord": "(Ϧ) ⲟⲩⲉⲧ-ⲟⲩⲱⲧ",
+        "englishTransliteration": "(Kh) ouet-ouōt"
+      }
+    ],
+    "gloss": "vi. To become, be green, pallid",
+    "definition": "vi. To become, be green, pallid"
+  },
+  {
+    "headword": "(2) ouwt",
+    "copticWord": "ⲟⲩⲱⲧ",
+    "englishTransliteration": "ouōt",
+    "reference": "494a",
+    "partOfSpeech": "adj",
+    "gloss": "Single, alone, one & same",
+    "definition": "Single, alone, one & same"
+  },
+  {
+    "headword": "ouai nouwt",
+    "copticWord": "ⲟⲩⲁⲓ ⲛⲟⲩⲱⲧ",
+    "englishTransliteration": "ouai nouōt",
+    "gloss": "Single one, each one",
+    "definition": "Single one, each one",
+    "senses": [
+      {
+        "label": "e",
+        "gloss": "vi. To change to, into",
+        "definition": "surpass; --- qen: vi. To change from;"
+      },
+      {
+        "label": "ebol",
+        "gloss": "vi. To cross over",
+        "definition": "vt. To transport; e-: vt. To remove to; --- mmau: vt. To remove thence;"
+      },
+      {
+        "label": "ebol ha",
+        "gloss": "vt. To remove from",
+        "definition": "vt. To remove from"
+      },
+      {
+        "label": "jinouwteb ebol",
+        "partOfSpeech": "m",
+        "gloss": "Migration, death",
+        "definition": "Migration, death"
+      },
+      {
+        "label": "cabol",
+        "partOfSpeech": "vb",
+        "gloss": "To overstep",
+        "definition": "To overstep"
+      },
+      {
+        "label": "epswi",
+        "partOfSpeech": "vb",
+        "gloss": "To pass upward",
+        "definition": "To pass upward"
+      },
+      {
+        "label": "eqoun",
+        "gloss": "vi. To pass within",
+        "definition": "e-: vi. To pass, intrude into;"
+      },
+      {
+        "partOfSpeech": "m",
+        "gloss": "Passing over, death",
+        "definition": "Passing over, death"
+      },
+      {
+        "label": "ayouwteb",
+        "partOfSpeech": "adj",
+        "gloss": "Immutable",
+        "definition": "Immutable"
+      },
+      {
+        "label": "B",
+        "gloss": "vi. To transfer, pour",
+        "definition": "ebol: vi. To pour out."
+      },
+      {
+        "label": "ouayni",
+        "partOfSpeech": "f",
+        "gloss": "Pierced place, hole",
+        "definition": "Pierced place, hole"
+      }
+    ]
+  },
+  {
+    "headword": "ouwteb",
+    "copticWord": "ⲟⲩⲱⲧⲉⲃ",
+    "englishTransliteration": "ouōtev",
+    "variants": [
+      {
+        "word": "oueteb",
+        "copticWord": "ⲟⲩⲉⲧⲉⲃ",
+        "englishTransliteration": "ouetev"
+      },
+      {
+        "word": "ouateb",
+        "copticWord": "ⲟⲩⲁⲧⲉⲃ",
+        "englishTransliteration": "ouatev"
+      },
+      {
+        "word": "ouotb=",
+        "copticWord": "ⲟⲩⲟⲧⲃ",
+        "englishTransliteration": "ouotv"
+      },
+      {
+        "word": "ouoyb=",
+        "copticWord": "ⲟⲩⲟⲑⲃ",
+        "englishTransliteration": "ouothv"
+      },
+      {
+        "word": "ouotp=",
+        "copticWord": "ⲟⲩⲟⲧⲡ",
+        "englishTransliteration": "ouotp"
+      },
+      {
+        "word": "(Q) ouoteb",
+        "copticWord": "(Ϧ) ⲟⲩⲟⲧⲉⲃ",
+        "englishTransliteration": "(Kh) ouotev"
+      }
+    ],
+    "reference": "496a",
+    "gloss": "A. vi. To change (place), be changed",
+    "definition": "vt. To pass through, remove;"
+  },
+  {
+    "headword": "ouwrep",
+    "copticWord": "ⲟⲩⲱⲣⲉⲡ",
+    "englishTransliteration": "ouōrep",
+    "gloss": "To send",
+    "definition": "To send",
+    "crossReference": {
+      "target": "ouwrp",
+      "gloss": "To send"
+    }
+  },
+  {
+    "headword": "ouwten",
+    "copticWord": "ⲟⲩⲱⲧⲉⲛ",
+    "englishTransliteration": "ouōten",
+    "variants": [
+      {
+        "word": "ouotn=",
+        "copticWord": "ⲟⲩⲟⲧⲛ",
+        "englishTransliteration": "ouotn"
+      },
+      {
+        "word": "ouoyn=",
+        "copticWord": "ⲟⲩⲟⲑⲛ",
+        "englishTransliteration": "ouothn"
+      },
+      {
+        "word": "(Q) ouoten",
+        "copticWord": "(Ϧ) ⲟⲩⲟⲧⲉⲛ",
+        "englishTransliteration": "(Kh) ouoten"
+      }
+    ],
+    "reference": "497b",
+    "gloss": "vt. To pour",
+    "definition": "---: m. Libation;",
+    "senses": [
+      {
+        "label": "jinouwten",
+        "partOfSpeech": "m",
+        "gloss": "Act of pouring libation",
+        "definition": "Act of pouring libation"
+      },
+      {
+        "label": "B",
+        "gloss": "ebol: vi. To pour forth",
+        "definition": "vi. To be pierced; ---: m. A pierced place, hole."
+      }
+    ]
+  }
+]

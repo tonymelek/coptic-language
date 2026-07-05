@@ -1,0 +1,656 @@
+[
+  {
+    "headword": "(1)cat",
+    "copticWord": "ⲥⲁⲧ",
+    "englishTransliteration": "sat",
+    "variants": [
+      {
+        "word": "cet",
+        "copticWord": "ⲥⲉⲧ",
+        "englishTransliteration": "set"
+      },
+      {
+        "word": "c/t",
+        "copticWord": "ⲥⲏⲧ",
+        "englishTransliteration": "sit"
+      }
+    ],
+    "reference": "358b",
+    "partOfSpeech": "m",
+    "gloss": "Tail",
+    "definition": "Tail"
+  },
+  {
+    "headword": "cbok nc/t",
+    "copticWord": "ⲥⲃⲟⲕ ⲛⲥⲏⲧ",
+    "englishTransliteration": "svok nsit",
+    "partOfSpeech": "m",
+    "gloss": "Dock-tailed",
+    "definition": "Dock-tailed"
+  },
+  {
+    "headword": "c/t",
+    "copticWord": "ⲥⲏⲧ",
+    "englishTransliteration": "sit",
+    "partOfSpeech": "m",
+    "gloss": "Penis",
+    "definition": "Penis"
+  },
+  {
+    "headword": "calouki",
+    "copticWord": "ⲥⲁⲗⲟⲩⲕⲓ",
+    "englishTransliteration": "salouki",
+    "reference": "330b",
+    "gloss": "pl. Fish 'Petrocephalus'",
+    "definition": "pl. Fish 'Petrocephalus'"
+  },
+  {
+    "headword": "calho",
+    "copticWord": "ⲥⲁⲗϩⲟ",
+    "englishTransliteration": "salho",
+    "gloss": "Warm water",
+    "definition": "Warm water",
+    "crossReference": {
+      "target": "celho",
+      "gloss": "Warm water"
+    }
+  },
+  {
+    "headword": "cambehi",
+    "copticWord": "ⲥⲁⲙⲃⲉϩⲓ",
+    "englishTransliteration": "samvehi",
+    "reference": "330b",
+    "partOfSpeech": "f",
+    "gloss": "Testicles",
+    "definition": "Testicles"
+  },
+  {
+    "headword": "canabaj/ini",
+    "copticWord": "ⲥⲁⲛⲁⲃⲁϫⲏⲓⲛⲓ",
+    "englishTransliteration": "sanavajiini",
+    "gloss": "Glass seller",
+    "definition": "Glass seller",
+    "crossReference": {
+      "target": "abaj/ini",
+      "gloss": "Glass seller"
+    }
+  },
+  {
+    "headword": "candalion",
+    "copticWord": "ⲥⲁⲛⲇⲁⲗⲓⲟⲛ",
+    "englishTransliteration": "sandalion",
+    "variants": [
+      {
+        "word": "-lon",
+        "copticWord": "-ⲗⲟⲛ",
+        "englishTransliteration": "-lon"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Sandals",
+    "definition": "Sandals"
+  },
+  {
+    "headword": "(2)cat",
+    "copticWord": "ⲥⲁⲧ",
+    "englishTransliteration": "sat",
+    "gloss": "(rare) (359a)",
+    "definition": "m. Dung, excrement"
+  },
+  {
+    "headword": "cat",
+    "copticWord": "ⲥⲁⲧ",
+    "englishTransliteration": "sat",
+    "gloss": "To sow",
+    "definition": "To sow",
+    "crossReference": {
+      "target": "(2)ci]",
+      "gloss": "To sow"
+    }
+  },
+  {
+    "headword": "canic",
+    "copticWord": "ⲥⲁⲛⲓⲥ",
+    "englishTransliteration": "sanis",
+    "gloss": "()",
+    "definition": "w/[i; vb. To doubt."
+  },
+  {
+    "headword": "cat=",
+    "copticWord": "ⲥⲁⲧ",
+    "englishTransliteration": "sat",
+    "gloss": "To sow",
+    "definition": "To sow",
+    "crossReference": {
+      "target": "(2)ci]",
+      "gloss": "To sow"
+    }
+  },
+  {
+    "headword": "catanac",
+    "copticWord": "ⲥⲁⲧⲁⲛⲁⲥ",
+    "englishTransliteration": "satanas",
+    "variants": [
+      {
+        "word": "cadanac",
+        "copticWord": "ⲥⲁⲇⲁⲛⲁⲥ",
+        "englishTransliteration": "sadanas"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Satan, the devil, adversary, opponent",
+    "definition": "Satan, the devil, adversary, opponent"
+  },
+  {
+    "headword": "capec/t",
+    "copticWord": "ⲥⲁⲡⲉⲥⲏⲧ",
+    "englishTransliteration": "sapesit",
+    "gloss": "Downwards. capca v. ca - Apart",
+    "definition": "Downwards. capca v. ca - Apart",
+    "crossReference": {
+      "target": "ec/t",
+      "gloss": "Downwards. capca v. ca - Apart"
+    }
+  },
+  {
+    "headword": "capveiroc",
+    "copticWord": "ⲥⲁⲡⲫⲉⲓⲣⲟⲥ",
+    "englishTransliteration": "sapfiros",
+    "variants": [
+      {
+        "word": "-viroc",
+        "copticWord": "-ⲫⲓⲣⲟⲥ",
+        "englishTransliteration": "-firos"
+      }
+    ],
+    "gloss": "(Heb)",
+    "definition": "f. Sapphire ( a precious stone."
+  },
+  {
+    "headword": "cato",
+    "copticWord": "ⲥⲁⲧⲟ",
+    "englishTransliteration": "sato",
+    "gloss": "Fan",
+    "definition": "Fan",
+    "crossReference": {
+      "target": "catw",
+      "gloss": "Fan"
+    }
+  },
+  {
+    "headword": "capviroc",
+    "copticWord": "ⲥⲁⲡⲫⲓⲣⲟⲥ",
+    "englishTransliteration": "sapfiros",
+    "gloss": "Sapphire",
+    "definition": "Sapphire",
+    "crossReference": {
+      "target": "capveiroc",
+      "gloss": "Sapphire"
+    }
+  },
+  {
+    "headword": "catw",
+    "copticWord": "ⲥⲁⲧⲱ",
+    "englishTransliteration": "satō",
+    "variants": [
+      {
+        "word": "cato",
+        "copticWord": "ⲥⲁⲧⲟ",
+        "englishTransliteration": "sato"
+      }
+    ],
+    "reference": "360a",
+    "gloss": "Fan",
+    "definition": "Fan"
+  },
+  {
+    "headword": "caouca",
+    "copticWord": "ⲥⲁⲟⲩⲥⲁ",
+    "englishTransliteration": "saousa",
+    "gloss": "Apart",
+    "definition": "Apart",
+    "crossReference": {
+      "target": "(1)ca",
+      "gloss": "Apart"
+    }
+  },
+  {
+    "headword": "ca",
+    "copticWord": "ⲥⲁ",
+    "englishTransliteration": "sa",
+    "variants": [
+      {
+        "word": "ol",
+        "copticWord": "ⲟⲗ",
+        "englishTransliteration": "ol"
+      }
+    ],
+    "reference": "374b",
+    "partOfSpeech": "m",
+    "gloss": "Muzzle",
+    "definition": "Muzzle"
+  },
+  {
+    "headword": "caf",
+    "copticWord": "ⲥⲁϥ",
+    "englishTransliteration": "saf",
+    "reference": "378b",
+    "partOfSpeech": "m",
+    "gloss": "Yesterday",
+    "definition": "Yesterday"
+  },
+  {
+    "headword": "caragenoc",
+    "copticWord": "ⲥⲁⲣⲁⲅⲉⲛⲟⲥ",
+    "englishTransliteration": "saragenos",
+    "reference": "Gk?",
+    "isGreek": true,
+    "gloss": "n",
+    "definition": "n"
+  },
+  {
+    "headword": "carakw]",
+    "copticWord": "ⲥⲁⲣⲁⲕⲱϯ",
+    "englishTransliteration": "sarakōti",
+    "reference": "354b",
+    "gloss": "pl. Wanderers, vagrants",
+    "definition": "pl. Wanderers, vagrants"
+  },
+  {
+    "headword": "carajwf",
+    "copticWord": "ⲥⲁⲣⲁϫⲱϥ",
+    "englishTransliteration": "sarajōf",
+    "variants": [
+      {
+        "word": "qara[woutc",
+        "copticWord": "ϧⲁⲣⲁϭⲱⲟⲩⲧⲥ",
+        "englishTransliteration": "kharachōouts"
+      }
+    ],
+    "reference": "358a",
+    "partOfSpeech": "f",
+    "gloss": "Hare",
+    "definition": "Hare"
+  },
+  {
+    "headword": "cargan/",
+    "copticWord": "ⲥⲁⲣⲅⲁⲛⲏ",
+    "englishTransliteration": "sargani",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Plait, braid, basket",
+    "definition": "Plait, braid, basket"
+  },
+  {
+    "headword": "caq",
+    "copticWord": "ⲥⲁϧ",
+    "englishTransliteration": "sakh",
+    "gloss": "Teacher",
+    "definition": "Teacher",
+    "crossReference": {
+      "target": "cqai",
+      "gloss": "Teacher"
+    }
+  },
+  {
+    "headword": "caq=",
+    "copticWord": "ⲥⲁϧ",
+    "englishTransliteration": "sakh",
+    "gloss": "To weave",
+    "definition": "To weave",
+    "crossReference": {
+      "target": "cwqi",
+      "gloss": "To weave"
+    }
+  },
+  {
+    "headword": "caqem (Q)",
+    "copticWord": "ⲥⲁϧⲉⲙ (Ϧ)",
+    "englishTransliteration": "sakhem (Kh)",
+    "reference": "377a",
+    "gloss": "vi. To be faint, undone, disheartened",
+    "definition": "vi. To be faint, undone, disheartened"
+  },
+  {
+    "headword": "cargani",
+    "copticWord": "ⲥⲁⲣⲅⲁⲛⲓ",
+    "englishTransliteration": "sargani",
+    "gloss": "Braid",
+    "definition": "Braid",
+    "crossReference": {
+      "target": "cargan/",
+      "gloss": "Braid"
+    }
+  },
+  {
+    "headword": "carda",
+    "copticWord": "ⲥⲁⲣⲇⲁ",
+    "englishTransliteration": "sarda",
+    "variants": [
+      {
+        "word": "-dwn",
+        "copticWord": "-ⲇⲱⲛ",
+        "englishTransliteration": "-dōn"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "A kind of fish, pilchard or sardine",
+    "definition": "A kind of fish, pilchard or sardine"
+  },
+  {
+    "headword": "cardinoc",
+    "copticWord": "ⲥⲁⲣⲇⲓⲛⲟⲥ",
+    "englishTransliteration": "sardinos",
+    "variants": [
+      {
+        "word": "-dioc",
+        "copticWord": "-ⲇⲓⲟⲥ",
+        "englishTransliteration": "-dios"
+      },
+      {
+        "word": "-dion",
+        "copticWord": "-ⲇⲓⲟⲛ",
+        "englishTransliteration": "-dion"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Sar-dian stone (a precious stone)",
+    "definition": "Sar-dian stone (a precious stone)"
+  },
+  {
+    "headword": "cardion",
+    "copticWord": "ⲥⲁⲣⲇⲓⲟⲛ",
+    "englishTransliteration": "sardion",
+    "gloss": "Sardian Stone",
+    "definition": "Sardian Stone",
+    "crossReference": {
+      "target": "cardinoc",
+      "gloss": "Sardian Stone"
+    }
+  },
+  {
+    "headword": "cardioc",
+    "copticWord": "ⲥⲁⲣⲇⲓⲟⲥ",
+    "englishTransliteration": "sardios",
+    "gloss": "Sardian Stone",
+    "definition": "Sardian Stone",
+    "crossReference": {
+      "target": "cardinoc",
+      "gloss": "Sardian Stone"
+    }
+  },
+  {
+    "headword": "cardonix",
+    "copticWord": "ⲥⲁⲣⲇⲟⲛⲓⲝ",
+    "englishTransliteration": "sardoniks",
+    "gloss": "Sardonyx",
+    "definition": "Sardonyx",
+    "crossReference": {
+      "target": "cardonux",
+      "gloss": "Sardonyx"
+    }
+  },
+  {
+    "headword": "--- qa",
+    "copticWord": "--- ϧⲁ",
+    "englishTransliteration": "--- kha",
+    "partOfSpeech": "vb",
+    "gloss": "To faint on the account of",
+    "definition": "To faint on the account of"
+  },
+  {
+    "headword": "caqm=",
+    "copticWord": "ⲥⲁϧⲙ",
+    "englishTransliteration": "sakhm",
+    "gloss": "To sink",
+    "definition": "To sink",
+    "crossReference": {
+      "target": "cwqem",
+      "gloss": "To sink"
+    }
+  },
+  {
+    "headword": "caqot",
+    "copticWord": "ⲥⲁϧⲟⲧ",
+    "englishTransliteration": "sakhot",
+    "gloss": "Treasury",
+    "definition": "Treasury",
+    "crossReference": {
+      "target": "caqwt",
+      "gloss": "Treasury"
+    }
+  },
+  {
+    "headword": "caqwt",
+    "copticWord": "ⲥⲁϧⲱⲧ",
+    "englishTransliteration": "sakhōt",
+    "variants": [
+      {
+        "word": "caqot",
+        "copticWord": "ⲥⲁϧⲟⲧ",
+        "englishTransliteration": "sakhot"
+      }
+    ],
+    "reference": "379b",
+    "gloss": "pl. Treasury",
+    "definition": "pl. Treasury"
+  },
+  {
+    "headword": "cah",
+    "copticWord": "ⲥⲁϩ",
+    "englishTransliteration": "sah",
+    "reference": "379b",
+    "partOfSpeech": "m",
+    "gloss": "Awl, borer",
+    "definition": "Awl, borer"
+  },
+  {
+    "headword": "cahn/t=",
+    "copticWord": "ⲥⲁϩⲛⲏⲧ",
+    "englishTransliteration": "sahnit",
+    "gloss": "To provide",
+    "definition": "To provide",
+    "crossReference": {
+      "target": "cahni",
+      "gloss": "To provide"
+    }
+  },
+  {
+    "headword": "cahni",
+    "copticWord": "ⲥⲁϩⲛⲓ",
+    "englishTransliteration": "sahni",
+    "variants": [
+      {
+        "word": "cehne",
+        "copticWord": "ⲥⲉϩⲛⲉ",
+        "englishTransliteration": "sehne"
+      },
+      {
+        "word": "cahn/t=",
+        "copticWord": "ⲥⲁϩⲛⲏⲧ",
+        "englishTransliteration": "sahnit"
+      },
+      {
+        "word": "cenh/out",
+        "note": "Q",
+        "copticWord": "ⲥⲉⲛϩⲏⲟⲩⲧ",
+        "englishTransliteration": "senhiout"
+      }
+    ],
+    "reference": "385b",
+    "gloss": "vi. To provide, supply",
+    "definition": "vi. To provide, supply"
+  },
+  {
+    "headword": "cardonux",
+    "copticWord": "ⲥⲁⲣⲇⲟⲛⲩⲝ",
+    "englishTransliteration": "sardonyks",
+    "variants": [
+      {
+        "word": "-nix",
+        "copticWord": "-ⲛⲓⲝ",
+        "englishTransliteration": "-niks"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Sardonyx (a precious stone)",
+    "definition": "Sardonyx (a precious stone)"
+  },
+  {
+    "headword": "cardwn",
+    "copticWord": "ⲥⲁⲣⲇⲱⲛ",
+    "englishTransliteration": "sardōn",
+    "gloss": "Sardine",
+    "definition": "Sardine",
+    "crossReference": {
+      "target": "carda",
+      "gloss": "Sardine"
+    }
+  },
+  {
+    "headword": "carkikoc",
+    "copticWord": "ⲥⲁⲣⲕⲓⲕⲟⲥ",
+    "englishTransliteration": "sarkikos",
+    "gloss": "Carnal",
+    "definition": "Carnal",
+    "crossReference": {
+      "target": "carx",
+      "gloss": "Carnal"
+    }
+  },
+  {
+    "headword": "--- nca",
+    "copticWord": "--- ⲛⲥⲁ",
+    "englishTransliteration": "--- nsa",
+    "partOfSpeech": "vb",
+    "gloss": "To provide for",
+    "definition": "To provide for"
+  },
+  {
+    "headword": "carx",
+    "copticWord": "ⲥⲁⲣⲝ",
+    "englishTransliteration": "sarks",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Flesh, body",
+    "definition": "meat; flesh (an object of lust);",
+    "senses": [
+      {
+        "label": "carkikoc",
+        "partOfSpeech": "adj",
+        "gloss": "Fleshy, lusty, carnal",
+        "definition": "katacarx: According to the flesh (relatives)."
+      }
+    ]
+  },
+  {
+    "headword": "refcahni",
+    "copticWord": "ⲣⲉϥⲥⲁϩⲛⲓ",
+    "englishTransliteration": "refsahni",
+    "partOfSpeech": "m",
+    "gloss": "Manager, orderer",
+    "definition": "Manager, orderer"
+  },
+  {
+    "headword": "ouahcahni",
+    "copticWord": "ⲟⲩⲁϩⲥⲁϩⲛⲓ",
+    "englishTransliteration": "ouahsahni",
+    "partOfSpeech": "vb",
+    "gloss": "To lay a command, bid",
+    "definition": "To lay a command, bid"
+  },
+  {
+    "headword": "carouki",
+    "copticWord": "ⲥⲁⲣⲟⲩⲕⲓ",
+    "englishTransliteration": "sarouki",
+    "reference": "354b",
+    "partOfSpeech": "m",
+    "gloss": "One bald on temples",
+    "definition": "One bald on temples"
+  },
+  {
+    "headword": "carh",
+    "copticWord": "ⲥⲁⲣϩ",
+    "englishTransliteration": "sarh",
+    "gloss": "To sweep",
+    "definition": "To sweep",
+    "crossReference": {
+      "target": "cwrh",
+      "gloss": "To sweep"
+    }
+  },
+  {
+    "headword": "carjani",
+    "copticWord": "ⲥⲁⲣϫⲁⲛⲓ",
+    "englishTransliteration": "sargani",
+    "gloss": "Braid",
+    "definition": "Braid",
+    "crossReference": {
+      "target": "cargan/",
+      "gloss": "Braid"
+    }
+  },
+  {
+    "headword": "cacel (Q)",
+    "copticWord": "ⲥⲁⲥⲉⲗ (Ϧ)",
+    "englishTransliteration": "sasel (Kh)",
+    "reference": "258b",
+    "partOfSpeech": "vb",
+    "gloss": "Demented",
+    "definition": "Demented"
+  },
+  {
+    "headword": "refouahcahni",
+    "copticWord": "ⲣⲉϥⲟⲩⲁϩⲥⲁϩⲛⲓ",
+    "englishTransliteration": "refouahsahni",
+    "partOfSpeech": "m",
+    "gloss": "Commander",
+    "definition": "Commander"
+  },
+  {
+    "headword": "cahof",
+    "copticWord": "ⲥⲁϩⲟϥ",
+    "englishTransliteration": "sahof",
+    "reference": "387b",
+    "gloss": "vi. (Q) having harelip",
+    "definition": "vi. (Q) having harelip"
+  },
+  {
+    "headword": "cahc",
+    "copticWord": "ⲥⲁϩⲥ",
+    "englishTransliteration": "sahs",
+    "variants": [
+      {
+        "word": "cahc=",
+        "copticWord": "ⲥⲁϩⲥ",
+        "englishTransliteration": "sahs"
+      }
+    ],
+    "reference": "386b",
+    "gloss": "vt. To rub down, pound",
+    "definition": "vt. To rub down, pound"
+  },
+  {
+    "headword": "cahc=",
+    "copticWord": "ⲥⲁϩⲥ",
+    "englishTransliteration": "sahs",
+    "gloss": "To rub down",
+    "definition": "To rub down",
+    "crossReference": {
+      "target": "cahc",
+      "gloss": "To rub down"
+    }
+  }
+]

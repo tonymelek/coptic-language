@@ -1,0 +1,503 @@
+[
+  {
+    "headword": "pronia",
+    "copticWord": "ⲡⲣⲟⲛⲓⲁ",
+    "englishTransliteration": "pronia",
+    "gloss": "Providence. prokopt/: (Gk)",
+    "definition": "f. Advancement, prosperity, improvement, promotion",
+    "crossReference": {
+      "target": "pronoia",
+      "gloss": "Providence. prokopt/: (Gk)"
+    }
+  },
+  {
+    "headword": "success. erprokoptein",
+    "copticWord": "ϣⲩⲥⲥⲉϣϣ. ⲉⲣⲡⲣⲟⲕⲟⲡⲧⲉⲓⲛ",
+    "englishTransliteration": "shysseshsh. erprokoptin",
+    "variants": [
+      {
+        "word": "-tin",
+        "copticWord": "-ⲧⲓⲛ",
+        "englishTransliteration": "-tin"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To prosper, advance, improve",
+    "definition": "To prosper, advance, improve"
+  },
+  {
+    "headword": "pragmateut/c",
+    "copticWord": "ⲡⲣⲁⲅⲙⲁⲧⲉⲩⲧⲏⲥ",
+    "englishTransliteration": "pragmatevtis",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Business representative",
+    "definition": "agent."
+  },
+  {
+    "headword": "pronoia",
+    "copticWord": "ⲡⲣⲟⲛⲟⲓⲁ",
+    "englishTransliteration": "pronoia",
+    "variants": [
+      {
+        "word": "-nia",
+        "copticWord": "-ⲛⲓⲁ",
+        "englishTransliteration": "-nia"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Foreknowledge, providence",
+    "definition": "Foreknowledge, providence"
+  },
+  {
+    "headword": "prooimion",
+    "copticWord": "ⲡⲣⲟⲟⲓⲙⲓⲟⲛ",
+    "englishTransliteration": "prooimion",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Preamble, preface",
+    "definition": "Preamble, preface"
+  },
+  {
+    "headword": "praitwrion",
+    "copticWord": "ⲡⲣⲁⲓⲧⲱⲣⲓⲟⲛ",
+    "englishTransliteration": "praitōrion",
+    "variants": [
+      {
+        "word": "pretwrion",
+        "copticWord": "ⲡⲣⲉⲧⲱⲣⲓⲟⲛ",
+        "englishTransliteration": "pretōrion"
+      }
+    ],
+    "gloss": "(L)",
+    "definition": "m. Official residence of a governor; imperial household."
+  },
+  {
+    "headword": "praktwr",
+    "copticWord": "ⲡⲣⲁⲕⲧⲱⲣ",
+    "englishTransliteration": "praktōr",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Ececuter, governor",
+    "definition": "Ececuter, governor"
+  },
+  {
+    "headword": "proceu",
+    "copticWord": "ⲡⲣⲟⲥⲉⲩ",
+    "englishTransliteration": "prosev",
+    "variants": [
+      {
+        "word": "/",
+        "copticWord": "ⲏ",
+        "englishTransliteration": "i"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Prayer",
+    "definition": "Prayer"
+  },
+  {
+    "headword": "erprocu",
+    "copticWord": "ⲉⲣⲡⲣⲟⲥⲩ",
+    "englishTransliteration": "erprosy",
+    "variants": [
+      {
+        "word": "ecye",
+        "copticWord": "ⲉⲥⲑⲉ",
+        "englishTransliteration": "esthe"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To pray, plead",
+    "definition": "To pray, plead"
+  },
+  {
+    "headword": "praxic",
+    "copticWord": "ⲡⲣⲁⲝⲓⲥ",
+    "englishTransliteration": "praksis",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Business, transaction",
+    "definition": "doing; act; practice."
+  },
+  {
+    "headword": "proc/lutoc",
+    "copticWord": "ⲡⲣⲟⲥⲏⲗⲩⲧⲟⲥ",
+    "englishTransliteration": "prosilytos",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "gloss": "Stranger, sojourner",
+    "definition": "proselyte."
+  },
+  {
+    "headword": "prepei",
+    "copticWord": "ⲡⲣⲉⲡⲉⲓ",
+    "englishTransliteration": "prepi",
+    "gloss": "To be proper",
+    "definition": "To be proper",
+    "crossReference": {
+      "target": "prepi",
+      "gloss": "To be proper"
+    }
+  },
+  {
+    "headword": "prockun/cic",
+    "copticWord": "ⲡⲣⲟⲥⲕⲩⲛⲏⲥⲓⲥ",
+    "englishTransliteration": "proskynisis",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Adoration, obeisance, worship",
+    "definition": "Adoration, obeisance, worship"
+  },
+  {
+    "headword": "erprepei",
+    "copticWord": "ⲉⲣⲡⲣⲉⲡⲉⲓ",
+    "englishTransliteration": "erprepi",
+    "variants": [
+      {
+        "word": "-pi",
+        "copticWord": "-ⲡⲓ",
+        "englishTransliteration": "-pi"
+      },
+      {
+        "word": "-pin",
+        "copticWord": "-ⲡⲓⲛ",
+        "englishTransliteration": "-pin"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "gloss": "To be fitting, proper",
+    "definition": "To be fitting, proper"
+  },
+  {
+    "headword": "prepoc",
+    "copticWord": "ⲡⲣⲉⲡⲟⲥ",
+    "englishTransliteration": "prepos",
+    "partOfSpeech": "adj",
+    "gloss": "Fitting, appropriate, proper",
+    "definition": "Fitting, appropriate, proper"
+  },
+  {
+    "headword": "procopon",
+    "copticWord": "ⲡⲣⲟⲥⲟⲡⲟⲛ",
+    "englishTransliteration": "prosopon",
+    "variants": [
+      {
+        "word": "procwpon",
+        "copticWord": "ⲡⲣⲟⲥⲱⲡⲟⲛ",
+        "englishTransliteration": "prosōpon"
+      }
+    ],
+    "reference": "Gk?",
+    "isGreek": true
+  },
+  {
+    "headword": "m. face. procouma",
+    "copticWord": "ⲙ. ϥⲁⲥⲉ. ⲡⲣⲟⲥⲟⲩⲙⲁ",
+    "englishTransliteration": "m. fase. prosouma",
+    "gloss": "(Gk-Co)",
+    "definition": "(Gk-Co)"
+  },
+  {
+    "headword": "adv. Of the place. procouc/ou",
+    "copticWord": "ⲁⲇⲫ. Ⲟϥ ⲧϩⲉ ⲡⲗⲁⲥⲉ. ⲡⲣⲟⲥⲟⲩⲥⲏⲟⲩ",
+    "englishTransliteration": "adf. Of the plase. prosousiou",
+    "gloss": "(Gk-Co)",
+    "definition": "adv. Temporal."
+  },
+  {
+    "headword": "precbeia",
+    "copticWord": "ⲡⲣⲉⲥⲃⲉⲓⲁ",
+    "englishTransliteration": "presvia",
+    "gloss": "Intercession",
+    "definition": "Intercession",
+    "crossReference": {
+      "target": "precbia",
+      "gloss": "Intercession"
+    }
+  },
+  {
+    "headword": "proctagma",
+    "copticWord": "ⲡⲣⲟⲥⲧⲁⲅⲙⲁ",
+    "englishTransliteration": "prostagma",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Ordinance, com-mand",
+    "definition": "Ordinance, com-mand"
+  },
+  {
+    "headword": "precb/t/rion",
+    "copticWord": "ⲡⲣⲉⲥⲃⲏⲧⲏⲣⲓⲟⲛ",
+    "englishTransliteration": "presvitirion",
+    "gloss": "Pres-bytery",
+    "definition": "Pres-bytery",
+    "crossReference": {
+      "target": "precbuteroc",
+      "gloss": "Pres-bytery"
+    }
+  },
+  {
+    "headword": "proctat/c",
+    "copticWord": "ⲡⲣⲟⲥⲧⲁⲧⲏⲥ",
+    "englishTransliteration": "prostatis",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Patron, guardian, intercessor",
+    "definition": "Patron, guardian, intercessor"
+  },
+  {
+    "headword": "procverin",
+    "copticWord": "ⲡⲣⲟⲥⲫⲉⲣⲓⲛ",
+    "englishTransliteration": "prosferin",
+    "gloss": "To offer procvora: (Gk)",
+    "definition": "f. Offering;",
+    "crossReference": {
+      "target": "procvora",
+      "gloss": "To offer procvora: (Gk)"
+    },
+    "senses": [
+      {
+        "label": "erprocverin",
+        "partOfSpeech": "vb",
+        "gloss": "To present an offering, present, offer",
+        "definition": "To present an offering, present, offer"
+      }
+    ]
+  },
+  {
+    "headword": "precbia",
+    "copticWord": "ⲡⲣⲉⲥⲃⲓⲁ",
+    "englishTransliteration": "presvia",
+    "variants": [
+      {
+        "word": "precbeia",
+        "copticWord": "ⲡⲣⲉⲥⲃⲉⲓⲁ",
+        "englishTransliteration": "presvia"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Seniority",
+    "definition": "dignity; intercession; mediation"
+  },
+  {
+    "headword": "erprecbeuin",
+    "copticWord": "ⲉⲣⲡⲣⲉⲥⲃⲉⲩⲓⲛ",
+    "englishTransliteration": "erpresvevin",
+    "partOfSpeech": "vb",
+    "gloss": "To intercess, mediate",
+    "definition": "To intercess, mediate"
+  },
+  {
+    "headword": "protom/",
+    "copticWord": "ⲡⲣⲟⲧⲟⲙⲏ",
+    "englishTransliteration": "protomi",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Bust",
+    "definition": "Bust"
+  },
+  {
+    "headword": "precbic",
+    "copticWord": "ⲡⲣⲉⲥⲃⲓⲥ",
+    "englishTransliteration": "presvis",
+    "partOfSpeech": "f",
+    "gloss": "Eldress",
+    "definition": "elderly woman. precbic v. precbia - Ederly woman."
+  },
+  {
+    "headword": "proton",
+    "copticWord": "ⲡⲣⲟⲧⲟⲛ",
+    "englishTransliteration": "proton",
+    "variants": [
+      {
+        "word": "prwton",
+        "copticWord": "ⲡⲣⲱⲧⲟⲛ",
+        "englishTransliteration": "prōton"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "gloss": "Beginning, first",
+    "definition": "Beginning, first"
+  },
+  {
+    "headword": "prwton",
+    "copticWord": "ⲡⲣⲱⲧⲟⲛ",
+    "englishTransliteration": "prōton",
+    "gloss": "First",
+    "definition": "First",
+    "crossReference": {
+      "target": "proton",
+      "gloss": "First"
+    }
+  },
+  {
+    "headword": "precbuteroc",
+    "copticWord": "ⲡⲣⲉⲥⲃⲩⲧⲉⲣⲟⲥ",
+    "englishTransliteration": "presvyteros",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Priest",
+    "definition": "presbyter; elder"
+  },
+  {
+    "headword": "precbuterion",
+    "copticWord": "ⲡⲣⲉⲥⲃⲩⲧⲉⲣⲓⲟⲛ",
+    "englishTransliteration": "presvyterion",
+    "partOfSpeech": "m",
+    "gloss": "Council of elders, presbytery",
+    "definition": "Council of elders, presbytery"
+  },
+  {
+    "headword": "pretwrion",
+    "copticWord": "ⲡⲣⲉⲧⲱⲣⲓⲟⲛ",
+    "englishTransliteration": "pretōrion",
+    "gloss": "Imperial household",
+    "definition": "Imperial household",
+    "crossReference": {
+      "target": "praitwrion",
+      "gloss": "Imperial household"
+    }
+  },
+  {
+    "headword": "prov/teia",
+    "copticWord": "ⲡⲣⲟⲫⲏⲧⲉⲓⲁ",
+    "englishTransliteration": "profitia",
+    "variants": [
+      {
+        "word": "-tia",
+        "copticWord": "-ⲧⲓⲁ",
+        "englishTransliteration": "-tia"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Gift of prophecy",
+    "definition": "prophecy; office of a prophet",
+    "senses": [
+      {
+        "label": "'eudoprov/t/c",
+        "partOfSpeech": "m",
+        "gloss": "False, lying prophet",
+        "definition": "False, lying prophet"
+      },
+      {
+        "label": "erprov/teuin",
+        "partOfSpeech": "vb",
+        "gloss": "To interpret, pro-phecise",
+        "definition": "To interpret, pro-phecise"
+      }
+    ]
+  },
+  {
+    "headword": "prov/t/c",
+    "copticWord": "ⲡⲣⲟⲫⲏⲧⲏⲥ",
+    "englishTransliteration": "profitis",
+    "partOfSpeech": "m",
+    "gloss": "Prophet, interpretor",
+    "definition": "teacher;"
+  },
+  {
+    "headword": "prinon",
+    "copticWord": "ⲡⲣⲓⲛⲟⲛ",
+    "englishTransliteration": "prinon",
+    "gloss": "Holm-oak",
+    "definition": "Holm-oak",
+    "crossReference": {
+      "target": "prinoc",
+      "gloss": "Holm-oak"
+    }
+  },
+  {
+    "headword": "prinoc",
+    "copticWord": "ⲡⲣⲓⲛⲟⲥ",
+    "englishTransliteration": "prinos",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Holm-oak, kermes-oak",
+    "definition": "Holm-oak, kermes-oak"
+  },
+  {
+    "headword": "probl/ma",
+    "copticWord": "ⲡⲣⲟⲃⲗⲏⲙⲁ",
+    "englishTransliteration": "provlima",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Obstacle",
+    "definition": "barrier; task; problem."
+  },
+  {
+    "headword": "prodot/c",
+    "copticWord": "ⲡⲣⲟⲇⲟⲧⲏⲥ",
+    "englishTransliteration": "prodotis",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Betrayer, traitor",
+    "definition": "Betrayer, traitor"
+  },
+  {
+    "headword": "prodromoc",
+    "copticWord": "ⲡⲣⲟⲇⲣⲟⲙⲟⲥ",
+    "englishTransliteration": "prodromos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Precursor",
+    "definition": "Precursor"
+  },
+  {
+    "headword": "proyecic",
+    "copticWord": "ⲡⲣⲟⲑⲉⲥⲓⲥ",
+    "englishTransliteration": "prothesis",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Offering",
+    "definition": "Offering"
+  },
+  {
+    "headword": "prov/tikoc",
+    "copticWord": "ⲡⲣⲟⲫⲏⲧⲓⲕⲟⲥ",
+    "englishTransliteration": "profitikos",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      }
+    ],
+    "partOfSpeech": "adj",
+    "gloss": "Prophetic. prov/t/c v. prov/teia - Prophet. prov/tia v. prov/teia - Prophecy. prov/tikoc v. prov/teia - Prophetic. proharecic: (Gk?)",
+    "definition": "m. Motive, desire, intention."
+  }
+]

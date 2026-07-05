@@ -1,0 +1,580 @@
+[
+  {
+    "headword": "crah (Q) v. cwrh - To be swept. cremrwm=",
+    "copticWord": "ⲥⲣⲁϩ (Ϧ) ⲫ. ⲥⲱⲣϩ - Ⲧⲟ ⲃⲉ ϣⲱⲉⲡⲧ. ⲥⲣⲉⲙⲣⲱⲙ",
+    "englishTransliteration": "srah (Kh) f. sōrh - To ve shōept. sremrōm",
+    "variants": [
+      {
+        "word": "cremrwm",
+        "note": "Q",
+        "copticWord": "ⲥⲣⲉⲙⲣⲱⲙ",
+        "englishTransliteration": "sremrōm"
+      }
+    ],
+    "reference": "356a",
+    "gloss": "vi. To be obscured, dazed, stupefied",
+    "definition": "--- qen: vi. To wander, sway."
+  },
+  {
+    "headword": "hictauroc",
+    "copticWord": "ϩⲓⲥⲧⲁⲩⲣⲟⲥ",
+    "englishTransliteration": "histavros",
+    "partOfSpeech": "m",
+    "gloss": "The making of the sign of the cross",
+    "definition": "The making of the sign of the cross",
+    "senses": [
+      {
+        "label": "n",
+        "partOfSpeech": "vb",
+        "gloss": "To plough with, by means of",
+        "definition": "To plough with, by means of"
+      }
+    ]
+  },
+  {
+    "headword": "ctaurovoroc",
+    "copticWord": "ⲥⲧⲁⲩⲣⲟⲫⲟⲣⲟⲥ",
+    "englishTransliteration": "stavroforos",
+    "partOfSpeech": "m",
+    "gloss": "Bearing a cross. ctaurovoroc v. ctauroc - Bearing a cross. cterewma: (Gk)",
+    "definition": "Bearing a cross. ctaurovoroc v. ctauroc - Bearing a cross. cterewma: (Gk)"
+  },
+  {
+    "headword": "m. Firmament",
+    "copticWord": "ⲙ. Ϥⲓⲣⲙⲁⲙⲉⲛⲧ",
+    "englishTransliteration": "m. Firmament",
+    "variants": [
+      {
+        "word": "i.e. sky or heaven. ctevanoc",
+        "copticWord": "ⲓ.ⲉ. ϣⲕⲑ ⲟⲣ ϩⲉⲁⲫⲉⲛ. ⲥⲧⲉⲫⲁⲛⲟⲥ",
+        "englishTransliteration": "i.e. shkth or heafen. stefanos"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Crown, chaplet, corona",
+    "definition": "Crown, chaplet, corona"
+  },
+  {
+    "headword": "monetary gift",
+    "copticWord": "ⲙⲟⲛⲉⲧⲁⲣⲑ ⲅⲓϥⲧ",
+    "englishTransliteration": "monetarth gift",
+    "variants": [
+      {
+        "word": "donation. ctigm/",
+        "copticWord": "ⲇⲟⲛⲁⲧⲓⲟⲛ. ⲥⲧⲓⲅⲙⲏ",
+        "englishTransliteration": "donation. stigmi"
+      }
+    ],
+    "reference": "Gk",
+    "isGreek": true
+  },
+  {
+    "headword": "f. Moment",
+    "copticWord": "ϥ. Ⲙⲟⲙⲉⲛⲧ",
+    "englishTransliteration": "f. Moment",
+    "variants": [
+      {
+        "word": "of very small time duration. cti",
+        "copticWord": "ⲟϥ ⲫⲉⲣⲑ ϣⲙⲁⲗⲗ ⲧⲓⲙⲉ ⲇⲩⲣⲁⲧⲓⲟⲛ. ⲥⲧⲓ",
+        "englishTransliteration": "of ferth shmall time dyration. sti"
+      },
+      {
+        "word": "arion",
+        "copticWord": "ⲁⲣⲓⲟⲛ",
+        "englishTransliteration": "arion"
+      },
+      {
+        "word": "c]",
+        "copticWord": "ⲥϯ",
+        "englishTransliteration": "sti"
+      },
+      {
+        "word": "arion",
+        "copticWord": "ⲁⲣⲓⲟⲛ",
+        "englishTransliteration": "arion"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Thin tunic, shirt, an ecclesiastical vestiment cti,e v. ctoi,e - Unknown. ctoi,e cti,e: (Gk)",
+    "definition": "Thin tunic, shirt, an ecclesiastical vestiment cti,e v. ctoi,e - Unknown. ctoi,e cti,e: (Gk)"
+  },
+  {
+    "headword": "Unknown. cti",
+    "copticWord": "Ⲩⲛⲕⲛⲟⲱⲛ. ⲥⲧⲓ",
+    "englishTransliteration": "Ynknoōn. sti",
+    "variants": [
+      {
+        "word": "ion v. ctoi",
+        "copticWord": "ⲓⲟⲛ ⲫ. ⲥⲧⲟⲓ",
+        "englishTransliteration": "ion f. stoi"
+      },
+      {
+        "word": "eion - Element ctoi",
+        "copticWord": "ⲉⲓⲟⲛ - Ⲉⲗⲉⲙⲉⲛⲧ ⲥⲧⲟⲓ",
+        "englishTransliteration": "ion - Element stoi"
+      },
+      {
+        "word": "eion",
+        "copticWord": "ⲉⲓⲟⲛ",
+        "englishTransliteration": "ion"
+      },
+      {
+        "word": "cti",
+        "copticWord": "ⲥⲧⲓ",
+        "englishTransliteration": "sti"
+      },
+      {
+        "word": "eion",
+        "copticWord": "ⲉⲓⲟⲛ",
+        "englishTransliteration": "ion"
+      }
+    ],
+    "reference": "Gk",
+    "isGreek": true
+  },
+  {
+    "headword": "m. Element",
+    "copticWord": "ⲙ. Ⲉⲗⲉⲙⲉⲛⲧ",
+    "englishTransliteration": "m. Element",
+    "variants": [
+      {
+        "word": "component part",
+        "copticWord": "ⲥⲟⲙⲡⲟⲛⲉⲛⲧ ⲡⲁⲣⲧ",
+        "englishTransliteration": "somponent part"
+      },
+      {
+        "word": "principle ctu",
+        "copticWord": "ⲡⲣⲓⲛⲥⲓⲡⲗⲉ ⲥⲧⲩ",
+        "englishTransliteration": "prinsiple sty"
+      },
+      {
+        "word": "emi v",
+        "copticWord": "ⲉⲙⲓ ⲫ",
+        "englishTransliteration": "emi f"
+      },
+      {
+        "word": "mom - Black cumin. ctwt",
+        "copticWord": "ⲙⲟⲙ - Ⲃⲗⲁⲥⲕ ⲥⲩⲙⲓⲛ. ⲥⲧⲱⲧ",
+        "englishTransliteration": "mom - Vlask symin. stōt"
+      }
+    ],
+    "reference": "366b"
+  },
+  {
+    "headword": "m. Trembling. cunant/ma",
+    "copticWord": "ⲙ. Ⲧⲣⲉⲙⲃⲗⲓⲛⲅ. ⲥⲩⲛⲁⲛⲧⲏⲙⲁ",
+    "englishTransliteration": "m. Tremvling. synantima",
+    "reference": "Gk",
+    "isGreek": true
+  },
+  {
+    "headword": "m. Chance happening",
+    "copticWord": "ⲙ. Ⲥϩⲁⲛⲥⲉ ϩⲁⲡⲡⲉⲛⲓⲛⲅ",
+    "englishTransliteration": "m. Shanse happening",
+    "variants": [
+      {
+        "word": "encounter with. cv/i]",
+        "copticWord": "ⲉⲛⲥⲟⲩⲛⲧⲉⲣ ⲱⲓⲧϩ. ⲥⲫⲏⲓϯ",
+        "englishTransliteration": "ensounter ōith. sfiiti"
+      }
+    ],
+    "reference": "384b"
+  },
+  {
+    "headword": "m. Foam of waves or mouth. cvir",
+    "copticWord": "ⲙ. Ϥⲟⲁⲙ ⲟϥ ⲱⲁⲫⲉϣ ⲟⲣ ⲙⲟⲩⲧϩ. ⲥⲫⲓⲣ",
+    "englishTransliteration": "m. Foam of ōafesh or mouth. sfir",
+    "variants": [
+      {
+        "type": "pl.",
+        "word": "cvirwoui & sg as pl",
+        "copticWord": "ⲥⲫⲓⲣⲱⲟⲩⲓ & ϣⲅ ⲁϣ ⲡⲗ",
+        "englishTransliteration": "sfirōoui & shg ash pl"
+      }
+    ],
+    "reference": "351b",
+    "partOfSpeech": "m",
+    "gloss": "Rip",
+    "definition": "Rip"
+  },
+  {
+    "headword": "side. cvirwoui v. cvir - Rips. cvotou",
+    "copticWord": "ϣⲓⲇⲉ. ⲥⲫⲓⲣⲱⲟⲩⲓ ⲫ. ⲥⲫⲓⲣ - Ⲣⲓⲡϣ. ⲥⲫⲟⲧⲟⲩ",
+    "englishTransliteration": "shide. sfirōoui f. sfir - Ripsh. sfotou",
+    "reference": "353a"
+  },
+  {
+    "headword": "m. Lips",
+    "copticWord": "ⲙ. Ⲗⲓⲡϣ",
+    "englishTransliteration": "m. Lipsh",
+    "variants": [
+      {
+        "word": "edge",
+        "copticWord": "ⲉⲇⲅⲉ",
+        "englishTransliteration": "edge"
+      },
+      {
+        "word": "shore. cvrans",
+        "copticWord": "ϣϩⲟⲣⲉ. ⲥⲫⲣⲁⲛϣ",
+        "englishTransliteration": "shhore. sfransh"
+      }
+    ],
+    "reference": "374a"
+  },
+  {
+    "headword": "n. Soothsayer. c",
+    "copticWord": "ⲛ. Ϣⲟⲟⲧϩϣⲁⲑⲉⲣ. ⲥ",
+    "englishTransliteration": "n. Shoothshather. s",
+    "variants": [
+      {
+        "word": "ai",
+        "copticWord": "ⲁⲓ",
+        "englishTransliteration": "ai"
+      },
+      {
+        "word": "c",
+        "copticWord": "ⲥ",
+        "englishTransliteration": "s"
+      },
+      {
+        "word": "/t=",
+        "copticWord": "ⲏⲧ",
+        "englishTransliteration": "it"
+      }
+    ],
+    "reference": "328b",
+    "gloss": "vi. To plough",
+    "definition": "vi. To plough"
+  },
+  {
+    "headword": "ctauroc",
+    "copticWord": "ⲥⲧⲁⲩⲣⲟⲥ",
+    "englishTransliteration": "stavros",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Cross",
+    "definition": "Cross"
+  },
+  {
+    "headword": "erctaurwnin",
+    "copticWord": "ⲉⲣⲥⲧⲁⲩⲣⲱⲛⲓⲛ",
+    "englishTransliteration": "erstavrōnin",
+    "variants": [
+      {
+        "word": "-ronin",
+        "copticWord": "-ⲣⲟⲛⲓⲛ",
+        "englishTransliteration": "-ronin"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To crucify",
+    "definition": "To crucify"
+  },
+  {
+    "headword": "cremrwm=",
+    "copticWord": "ⲥⲣⲉⲙⲣⲱⲙ",
+    "englishTransliteration": "sremrōm",
+    "gloss": "To enforce",
+    "definition": "To enforce",
+    "crossReference": {
+      "target": "cromrem",
+      "gloss": "To enforce"
+    }
+  },
+  {
+    "headword": "crit",
+    "copticWord": "ⲥⲣⲓⲧ",
+    "englishTransliteration": "srit",
+    "reference": "356b",
+    "gloss": "vi. To glean",
+    "definition": "vi. To glean"
+  },
+  {
+    "headword": "cromrem",
+    "copticWord": "ⲥⲣⲟⲙⲣⲉⲙ",
+    "englishTransliteration": "sromrem",
+    "variants": [
+      {
+        "word": "cremrwm=",
+        "copticWord": "ⲥⲣⲉⲙⲣⲱⲙ",
+        "englishTransliteration": "sremrōm"
+      }
+    ],
+    "reference": "356a",
+    "gloss": "vt. To enforce, admonish",
+    "definition": "vt. To enforce, admonish"
+  },
+  {
+    "headword": "croft (Q)",
+    "copticWord": "ⲥⲣⲟϥⲧ (Ϧ)",
+    "englishTransliteration": "sroft (Kh)",
+    "variants": [
+      {
+        "word": "crwft",
+        "note": "Q",
+        "copticWord": "ⲥⲣⲱϥⲧ",
+        "englishTransliteration": "srōft"
+      }
+    ],
+    "reference": "357a",
+    "gloss": "vi. To be at leisure, unoccupied",
+    "definition": "vi. To be at leisure, unoccupied",
+    "senses": [
+      {
+        "label": "e",
+        "partOfSpeech": "vb",
+        "gloss": "To have leisure for, be occupied with",
+        "definition": "To have leisure for, be occupied with"
+      },
+      {
+        "label": "crwft",
+        "partOfSpeech": "m",
+        "gloss": "Leisure, perseverance",
+        "definition": "metatcroft: f. Lack of leisure;"
+      },
+      {
+        "label": "refcroft",
+        "partOfSpeech": "m",
+        "gloss": "Idler",
+        "definition": "jincroft: m. Leisure."
+      }
+    ]
+  },
+  {
+    "headword": "crwm",
+    "copticWord": "ⲥⲣⲱⲙ",
+    "englishTransliteration": "srōm",
+    "gloss": "Unconsciousness",
+    "definition": "Unconsciousness",
+    "crossReference": {
+      "target": "cwrem",
+      "gloss": "Unconsciousness"
+    }
+  },
+  {
+    "headword": "crwft",
+    "copticWord": "ⲥⲣⲱϥⲧ",
+    "englishTransliteration": "srōft",
+    "gloss": "Perseverance",
+    "definition": "Perseverance",
+    "crossReference": {
+      "target": "croft",
+      "gloss": "Perseverance"
+    }
+  },
+  {
+    "headword": "ctabla",
+    "copticWord": "ⲥⲧⲁⲃⲗⲁ",
+    "englishTransliteration": "stavla",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "(Lat)",
+    "definition": "m. Stable, posting station."
+  },
+  {
+    "headword": "ctajoul",
+    "copticWord": "ⲥⲧⲁϫⲟⲩⲗ",
+    "englishTransliteration": "stajoul",
+    "reference": "367a",
+    "partOfSpeech": "m",
+    "gloss": "Spider",
+    "definition": "Spider"
+  },
+  {
+    "headword": "ctadion",
+    "copticWord": "ⲥⲧⲁⲇⲓⲟⲛ",
+    "englishTransliteration": "stadion",
+    "variants": [
+      {
+        "word": "-oc",
+        "copticWord": "-ⲟⲥ",
+        "englishTransliteration": "-os"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Stadia, stade (a length measurement = 60'-6-3/4\")",
+    "definition": "Stadia, stade (a length measurement = 60'-6-3/4\")"
+  },
+  {
+    "headword": "ctadioc",
+    "copticWord": "ⲥⲧⲁⲇⲓⲟⲥ",
+    "englishTransliteration": "stadios",
+    "gloss": "Stade",
+    "definition": "Stade",
+    "crossReference": {
+      "target": "ctadion",
+      "gloss": "Stade"
+    }
+  },
+  {
+    "headword": "ctay/te",
+    "copticWord": "ⲥⲧⲁⲑⲏⲧⲉ",
+    "englishTransliteration": "stathite",
+    "gloss": "To stand up",
+    "definition": "To stand up",
+    "crossReference": {
+      "target": "ctatik/",
+      "gloss": "To stand up"
+    }
+  },
+  {
+    "headword": "ctayik/",
+    "copticWord": "ⲥⲧⲁⲑⲓⲕⲏ",
+    "englishTransliteration": "stathiki",
+    "gloss": "Static",
+    "definition": "Static",
+    "crossReference": {
+      "target": "ctatik/",
+      "gloss": "Static"
+    }
+  },
+  {
+    "headword": "ctakt/",
+    "copticWord": "ⲥⲧⲁⲕⲧⲏ",
+    "englishTransliteration": "stakti",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Oil of myrrh",
+    "definition": "Oil of myrrh"
+  },
+  {
+    "headword": "ctaktoc",
+    "copticWord": "ⲥⲧⲁⲕⲧⲟⲥ",
+    "englishTransliteration": "staktos",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Oil that runs without pressing",
+    "definition": "Oil that runs without pressing"
+  },
+  {
+    "headword": "ctamnoc",
+    "copticWord": "ⲥⲧⲁⲙⲛⲟⲥ",
+    "englishTransliteration": "stamnos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Earthen jar, bottle `for wine'",
+    "definition": "a measure."
+  },
+  {
+    "headword": "ctacia",
+    "copticWord": "ⲥⲧⲁⲥⲓⲁ",
+    "englishTransliteration": "stasia",
+    "reference": "Gk?",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Calendar, almanac",
+    "definition": "Calendar, almanac"
+  },
+  {
+    "headword": "ctaciact/c",
+    "copticWord": "ⲥⲧⲁⲥⲓⲁⲥⲧⲏⲥ",
+    "englishTransliteration": "stasiastis",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "One who stirs up sedition, rebel, fanatic",
+    "definition": "One who stirs up sedition, rebel, fanatic"
+  },
+  {
+    "headword": "refc",
+    "copticWord": "ⲣⲉϥⲥ",
+    "englishTransliteration": "refs",
+    "variants": [
+      {
+        "word": "ai",
+        "copticWord": "ⲁⲓ",
+        "englishTransliteration": "ai"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "Ploughman, one who ploughs",
+    "definition": "Ploughman, one who ploughs"
+  },
+  {
+    "headword": "c,/t=",
+    "copticWord": "ⲥⲭⲏⲧ",
+    "englishTransliteration": "skhit",
+    "gloss": "To plough",
+    "definition": "To plough",
+    "crossReference": {
+      "target": "c,ai",
+      "gloss": "To plough"
+    }
+  },
+  {
+    "headword": "c",
+    "copticWord": "ⲥ",
+    "englishTransliteration": "s",
+    "variants": [
+      {
+        "word": "im",
+        "copticWord": "ⲓⲙ",
+        "englishTransliteration": "im"
+      }
+    ],
+    "reference": "328b",
+    "partOfSpeech": "m",
+    "gloss": "Discolored or gray hair",
+    "definition": "Discolored or gray hair"
+  },
+  {
+    "headword": "cau",
+    "copticWord": "ⲥⲁⲩ",
+    "englishTransliteration": "sav",
+    "reference": "318a",
+    "partOfSpeech": "vb",
+    "gloss": "To drink",
+    "definition": "To drink"
+  },
+  {
+    "headword": "metcau",
+    "copticWord": "ⲙⲉⲧⲥⲁⲩ",
+    "englishTransliteration": "metsav",
+    "partOfSpeech": "f",
+    "gloss": "Drinking",
+    "definition": "Drinking"
+  },
+  {
+    "headword": "ctatik/",
+    "copticWord": "ⲥⲧⲁⲧⲓⲕⲏ",
+    "englishTransliteration": "statiki",
+    "variants": [
+      {
+        "word": "-yik/",
+        "copticWord": "-ⲑⲓⲕⲏ",
+        "englishTransliteration": "-thiki"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Causing to stand, static",
+    "definition": "appointment, enthronement"
+  },
+  {
+    "headword": "ma ncw",
+    "copticWord": "ⲙⲁ ⲛⲥⲱ",
+    "englishTransliteration": "ma nsō",
+    "partOfSpeech": "m",
+    "gloss": "Drinking place, bout",
+    "definition": "Drinking place, bout"
+  },
+  {
+    "headword": "refcw",
+    "copticWord": "ⲣⲉϥⲥⲱ",
+    "englishTransliteration": "refsō",
+    "partOfSpeech": "m",
+    "gloss": "Drinker",
+    "definition": "Drinker"
+  }
+]

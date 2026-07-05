@@ -1,0 +1,543 @@
+[
+  {
+    "headword": "exwrictia",
+    "copticWord": "ⲉⲝⲱⲣⲓⲥⲧⲓⲁ",
+    "englishTransliteration": "eksōristia",
+    "gloss": "Neglect. eoube- v. oube - Against. exwriazein: (Gk)",
+    "definition": "(w/ er-) vb. To leave out of thought, neglect",
+    "crossReference": {
+      "target": "exwriazein",
+      "gloss": "Neglect. eoube- v. oube - Against. exwriazein: (Gk)"
+    }
+  },
+  {
+    "headword": "ep",
+    "copticWord": "ⲉⲡ",
+    "englishTransliteration": "ep",
+    "gloss": "To count",
+    "definition": "To count",
+    "crossReference": {
+      "target": "wp",
+      "gloss": "To count"
+    }
+  },
+  {
+    "headword": "eneh",
+    "copticWord": "ⲉⲛⲉϩ",
+    "englishTransliteration": "eneh",
+    "reference": "57a",
+    "partOfSpeech": "m",
+    "gloss": "Eternity, age (period of time)",
+    "definition": "adj. eternal; adv. forever, eternally, ever"
+  },
+  {
+    "headword": "enkoki",
+    "copticWord": "ⲉⲛⲕⲟⲕⲓ",
+    "englishTransliteration": "enkoki",
+    "gloss": "Ring finger",
+    "definition": "Ring finger",
+    "crossReference": {
+      "target": "ankoki",
+      "gloss": "Ring finger"
+    }
+  },
+  {
+    "headword": "enkot",
+    "copticWord": "ⲉⲛⲕⲟⲧ",
+    "englishTransliteration": "enkot",
+    "gloss": "Sleep",
+    "definition": "Sleep",
+    "crossReference": {
+      "target": "nkot",
+      "gloss": "Sleep"
+    }
+  },
+  {
+    "headword": "ennigma",
+    "copticWord": "ⲉⲛⲛⲓⲅⲙⲁ",
+    "englishTransliteration": "ennigma",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "m",
+    "definition": "m"
+  },
+  {
+    "headword": "Riddle",
+    "copticWord": "Ⲣⲓⲇⲇⲗⲉ",
+    "englishTransliteration": "Riddle",
+    "variants": [
+      {
+        "word": "enigma(?) eno",
+        "copticWord": "ⲉⲛⲓⲅⲙⲁ(Ⲏ) ⲉⲛⲟ",
+        "englishTransliteration": "enigma(I) eno"
+      },
+      {
+        "word": "oc",
+        "copticWord": "ⲟⲥ",
+        "englishTransliteration": "os"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "gloss": "To be liable to, subject to, guilty, liable to the penalty of",
+    "definition": "To be liable to, subject to, guilty, liable to the penalty of"
+  },
+  {
+    "headword": "ent/j",
+    "copticWord": "ⲉⲛⲧⲏϫ",
+    "englishTransliteration": "entij",
+    "variants": [
+      {
+        "word": "nt/j",
+        "copticWord": "ⲛⲧⲏϫ",
+        "englishTransliteration": "ntij"
+      }
+    ],
+    "reference": "233a",
+    "partOfSpeech": "m",
+    "gloss": "Plant, weed, specifically 'darnel'",
+    "definition": "Plant, weed, specifically 'darnel'"
+  },
+  {
+    "headword": "entol/",
+    "copticWord": "ⲉⲛⲧⲟⲗⲏ",
+    "englishTransliteration": "entoli",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Commandment, command, order, ordinance, injunction",
+    "definition": "]entol/: vb. To order, command, announce a decision"
+  },
+  {
+    "headword": "enouk",
+    "copticWord": "ⲉⲛⲟⲩⲕ",
+    "englishTransliteration": "enouk",
+    "reference": "56b",
+    "partOfSpeech": "n",
+    "gloss": "A plant",
+    "definition": "A plant"
+  },
+  {
+    "headword": "enouoi",
+    "copticWord": "ⲉⲛⲟⲩⲟⲓ",
+    "englishTransliteration": "enouoi",
+    "gloss": "Rush course",
+    "definition": "Rush course",
+    "crossReference": {
+      "target": "(1)ouoi",
+      "gloss": "Rush course"
+    }
+  },
+  {
+    "headword": "en,ai",
+    "copticWord": "ⲉⲛⲭⲁⲓ",
+    "englishTransliteration": "enkhai",
+    "gloss": "Thing",
+    "definition": "Thing",
+    "crossReference": {
+      "target": "n,ai",
+      "gloss": "Thing"
+    }
+  },
+  {
+    "headword": "ensasi",
+    "copticWord": "ⲉⲛϣⲁϣⲓ",
+    "englishTransliteration": "enshashi",
+    "partOfSpeech": "vb",
+    "gloss": "To be like gall, bitter",
+    "definition": "To be like gall, bitter"
+  },
+  {
+    "headword": "epaggelia",
+    "copticWord": "ⲉⲡⲁⲅⲅⲉⲗⲓⲁ",
+    "englishTransliteration": "epangelia",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Command, summons, announcement, notice, offer, promise",
+    "definition": "Command, summons, announcement, notice, offer, promise"
+  },
+  {
+    "headword": "epantropoc",
+    "copticWord": "ⲉⲡⲁⲛⲧⲣⲟⲡⲟⲥ",
+    "englishTransliteration": "epantropos",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Unknown",
+    "definition": "Unknown"
+  },
+  {
+    "headword": "epar,ia",
+    "copticWord": "ⲉⲡⲁⲣⲭⲓⲁ",
+    "englishTransliteration": "eparkhia",
+    "gloss": "Government",
+    "definition": "Government",
+    "crossReference": {
+      "target": "epar,oc",
+      "gloss": "Government"
+    }
+  },
+  {
+    "headword": "epar",
+    "copticWord": "ⲉⲡⲁⲣ",
+    "englishTransliteration": "epar",
+    "variants": [
+      {
+        "word": "oc",
+        "copticWord": "ⲟⲥ",
+        "englishTransliteration": "os"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Commander, governor, prefect",
+    "definition": "Commander, governor, prefect"
+  },
+  {
+    "headword": "epeid/",
+    "copticWord": "ⲉⲡⲉⲓⲇⲏ",
+    "englishTransliteration": "epidi",
+    "gloss": "After",
+    "definition": "After",
+    "crossReference": {
+      "target": "epid/",
+      "gloss": "After"
+    }
+  },
+  {
+    "headword": "epec/t",
+    "copticWord": "ⲉⲡⲉⲥⲏⲧ",
+    "englishTransliteration": "epesit",
+    "gloss": "Downward",
+    "definition": "Downward",
+    "crossReference": {
+      "target": "ec/t",
+      "gloss": "Downward"
+    }
+  },
+  {
+    "headword": "ep/p",
+    "copticWord": "ⲉⲡⲏⲡ",
+    "englishTransliteration": "epip",
+    "partOfSpeech": "n",
+    "gloss": "The 11th month of the coptic year 'Abib'",
+    "definition": "The 11th month of the coptic year 'Abib'"
+  },
+  {
+    "headword": "epiboul/",
+    "copticWord": "ⲉⲡⲓⲃⲟⲩⲗⲏ",
+    "englishTransliteration": "epeebouli",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Plan formed against another, plot, scheme by treachery",
+    "definition": "Plan formed against another, plot, scheme by treachery"
+  },
+  {
+    "headword": "epigrav/",
+    "copticWord": "ⲉⲡⲓⲅⲣⲁⲫⲏ",
+    "englishTransliteration": "epigrafi",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Inscription, title of a work, name, ascription of a deed",
+    "definition": "Inscription, title of a work, name, ascription of a deed"
+  },
+  {
+    "headword": "erensasi",
+    "copticWord": "ⲉⲣⲉⲛϣⲁϣⲓ",
+    "englishTransliteration": "erenshashi",
+    "partOfSpeech": "vb",
+    "gloss": "To be bitter",
+    "definition": "To be bitter"
+  },
+  {
+    "headword": "epide",
+    "copticWord": "ⲉⲡⲓⲇⲉ",
+    "englishTransliteration": "epide",
+    "gloss": "After",
+    "definition": "After",
+    "crossReference": {
+      "target": "epid/",
+      "gloss": "After"
+    }
+  },
+  {
+    "headword": "ensot",
+    "copticWord": "ⲉⲛϣⲟⲧ",
+    "englishTransliteration": "enshot",
+    "gloss": "To be strong",
+    "definition": "To be strong",
+    "crossReference": {
+      "target": "nsot",
+      "gloss": "To be strong"
+    }
+  },
+  {
+    "headword": "enhour",
+    "copticWord": "ⲉⲛϩⲟⲩⲣ",
+    "englishTransliteration": "enhour",
+    "gloss": "To tremble",
+    "definition": "To tremble",
+    "crossReference": {
+      "target": "nhour",
+      "gloss": "To tremble"
+    }
+  },
+  {
+    "headword": "exagin",
+    "copticWord": "ⲉⲝⲁⲅⲓⲛ",
+    "englishTransliteration": "eksagin",
+    "variants": [
+      {
+        "word": "-goin",
+        "copticWord": "-ⲅⲟⲓⲛ",
+        "englishTransliteration": "-goin"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Weight measure",
+    "definition": "Weight measure"
+  },
+  {
+    "headword": "exagoin",
+    "copticWord": "ⲉⲝⲁⲅⲟⲓⲛ",
+    "englishTransliteration": "eksagoin",
+    "gloss": "Weight measure",
+    "definition": "Weight measure",
+    "crossReference": {
+      "target": "exagin",
+      "gloss": "Weight measure"
+    }
+  },
+  {
+    "headword": "exapina",
+    "copticWord": "ⲉⲝⲁⲡⲓⲛⲁ",
+    "englishTransliteration": "eksapina",
+    "reference": "Gk",
+    "partOfSpeech": "adv",
+    "isGreek": true,
+    "gloss": "Sudden",
+    "definition": "Sudden"
+  },
+  {
+    "headword": "exdraou",
+    "copticWord": "ⲉⲝⲇⲣⲁⲟⲩ",
+    "englishTransliteration": "eksdraou",
+    "variants": [
+      {
+        "word": "exraou",
+        "copticWord": "ⲉⲝⲣⲁⲟⲩ",
+        "englishTransliteration": "eksraou"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Hall, parlor, belvedere, saloon, bench",
+    "definition": "Hall, parlor, belvedere, saloon, bench"
+  },
+  {
+    "headword": "execti",
+    "copticWord": "ⲉⲝⲉⲥⲧⲓ",
+    "englishTransliteration": "eksesti",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "(w/ er-) vb. To be allowed, be possible",
+    "definition": "(w/ er-) vb. To be allowed, be possible"
+  },
+  {
+    "headword": "oukexecti",
+    "copticWord": "ⲟⲩⲕⲉⲝⲉⲥⲧⲓ",
+    "englishTransliteration": "oukeksesti",
+    "partOfSpeech": "n",
+    "gloss": "Unlawful, prohibited",
+    "definition": "Unlawful, prohibited"
+  },
+  {
+    "headword": "exodoc",
+    "copticWord": "ⲉⲝⲟⲇⲟⲥ",
+    "englishTransliteration": "eksodos",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "gloss": "The Biblical Book of Exodus",
+    "definition": "The Biblical Book of Exodus"
+  },
+  {
+    "headword": "exoricmenoc",
+    "copticWord": "ⲉⲝⲟⲣⲓⲥⲙⲉⲛⲟⲥ",
+    "englishTransliteration": "eksorismenos",
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Banished",
+    "definition": "Banished"
+  },
+  {
+    "headword": "exoucia",
+    "copticWord": "ⲉⲝⲟⲩⲥⲓⲁ",
+    "englishTransliteration": "eksousia",
+    "variants": [
+      {
+        "word": "-ac",
+        "copticWord": "-ⲁⲥ",
+        "englishTransliteration": "-as"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Power, authority, freedom, license",
+    "definition": "Power, authority, freedom, license"
+  },
+  {
+    "headword": "exouciac",
+    "copticWord": "ⲉⲝⲟⲩⲥⲓⲁⲥ",
+    "englishTransliteration": "eksousias",
+    "gloss": "Power",
+    "definition": "Power",
+    "crossReference": {
+      "target": "exoucia",
+      "gloss": "Power"
+    }
+  },
+  {
+    "headword": "exraou",
+    "copticWord": "ⲉⲝⲣⲁⲟⲩ",
+    "englishTransliteration": "eksraou",
+    "gloss": "Hall",
+    "definition": "Hall",
+    "crossReference": {
+      "target": "exdraou",
+      "gloss": "Hall"
+    }
+  },
+  {
+    "headword": "epid/",
+    "copticWord": "ⲉⲡⲓⲇⲏ",
+    "englishTransliteration": "epidi",
+    "variants": [
+      {
+        "word": "epeid/",
+        "copticWord": "ⲉⲡⲉⲓⲇⲏ",
+        "englishTransliteration": "epidi"
+      },
+      {
+        "word": "epide",
+        "copticWord": "ⲉⲡⲓⲇⲉ",
+        "englishTransliteration": "epide"
+      }
+    ],
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "conj. After, that, since, when",
+    "definition": "whereas"
+  },
+  {
+    "headword": "epiyumia",
+    "copticWord": "ⲉⲡⲓⲑⲩⲙⲓⲁ",
+    "englishTransliteration": "epithymia",
+    "variants": [
+      {
+        "word": "yumia",
+        "copticWord": "ⲑⲩⲙⲓⲁ",
+        "englishTransliteration": "thymia"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Desire, yearning, sextual desire, lust, longing after",
+    "definition": "Desire, yearning, sextual desire, lust, longing after"
+  },
+  {
+    "headword": "souerepiyumia",
+    "copticWord": "ϣⲟⲩⲉⲣⲉⲡⲓⲑⲩⲙⲓⲁ",
+    "englishTransliteration": "shouerepithymia",
+    "partOfSpeech": "adj",
+    "gloss": "Delicious desirable",
+    "definition": "Delicious desirable"
+  },
+  {
+    "headword": "erepiyumin",
+    "copticWord": "ⲉⲣⲉⲡⲓⲑⲩⲙⲓⲛ",
+    "englishTransliteration": "erepithymin",
+    "partOfSpeech": "vb",
+    "gloss": "To desire, yearn, lust",
+    "definition": "To desire, yearn, lust"
+  },
+  {
+    "headword": "epikalicye",
+    "copticWord": "ⲉⲡⲓⲕⲁⲗⲓⲥⲑⲉ",
+    "englishTransliteration": "epikalisthe",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "(w/ er-) vb. To summon, invoke, pray for, invite, call in, appeal to, challenge",
+    "definition": "(w/ er-) vb. To summon, invoke, pray for, invite, call in, appeal to, challenge"
+  },
+  {
+    "headword": "epik/c",
+    "copticWord": "ⲉⲡⲓⲕⲏⲥ",
+    "englishTransliteration": "epikis",
+    "reference": "Gk?",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Humble, meek",
+    "definition": "Humble, meek"
+  },
+  {
+    "headword": "epickopoc",
+    "copticWord": "ⲉⲡⲓⲥⲕⲟⲡⲟⲥ",
+    "englishTransliteration": "episkopos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Bishop, overseer, guardian, supervisor, inspector",
+    "definition": "Bishop, overseer, guardian, supervisor, inspector"
+  },
+  {
+    "headword": "epict/m/",
+    "copticWord": "ⲉⲡⲓⲥⲧⲏⲙⲏ",
+    "englishTransliteration": "epistimi",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Understanding, skill, knowledge, science",
+    "definition": "Understanding, skill, knowledge, science"
+  },
+  {
+    "headword": "epictol/",
+    "copticWord": "ⲉⲡⲓⲥⲧⲟⲗⲏ",
+    "englishTransliteration": "epistoli",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Message, order, com-mision",
+    "definition": "letter, epistle"
+  },
+  {
+    "headword": "epitima",
+    "copticWord": "ⲉⲡⲓⲧⲓⲙⲁ",
+    "englishTransliteration": "epitima",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Rebuke, censure, criticism, castigation",
+    "definition": "Rebuke, censure, criticism, castigation"
+  },
+  {
+    "headword": "epitropoc",
+    "copticWord": "ⲉⲡⲓⲧⲣⲟⲡⲟⲥ",
+    "englishTransliteration": "epitropos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Steward, trustee, administrator, viceroy, executor, guardian, protector",
+    "definition": "Steward, trustee, administrator, viceroy, executor, guardian, protector"
+  }
+]

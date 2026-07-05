@@ -1,0 +1,319 @@
+[
+  {
+    "headword": "q",
+    "copticWord": "ϧ",
+    "englishTransliteration": "kh",
+    "reference": "629a",
+    "gloss": "The 27th letter of the alphabet",
+    "definition": "The 27th letter of the alphabet",
+    "senses": [
+      {
+        "label": "(1)",
+        "gloss": "qa, ha, sa, ,e: (629a)",
+        "definition": "Particle of apposition before prnoun or article."
+      },
+      {
+        "label": "(2)",
+        "gloss": "qa: (629b)",
+        "definition": "m. Heel, mark of heel."
+      },
+      {
+        "label": "(3)",
+        "gloss": "qa-, qaro=: (632a)",
+        "definition": "prep. under, in, at; for, in respect of, on behalf of; for (of price); against; ebol qa: Away from; eqoun qa: In beneath; qariqaro=: refl. pron. Of myself & c, alone, apart."
+      },
+      {
+        "label": "qae",
+        "reference": "635a",
+        "partOfSpeech": "m",
+        "gloss": "Last thing, end",
+        "definition": "adj. last; epqae: At the end; caqae: at the last; saqae: Till, at the last; atqae: adj. Without end; erqae: vb. To be last, be in want; --- e-: vb. To be in want of, lose; aterqae: adj. Without want; meterqae: f. Want."
+      },
+      {
+        "label": "qaeu",
+        "gloss": "Ends",
+        "definition": "Ends"
+      },
+      {
+        "label": "qa/",
+        "gloss": "End",
+        "definition": "End"
+      },
+      {
+        "label": "(1)",
+        "gloss": "qai: (630a)",
+        "definition": "nn. Nitre."
+      },
+      {
+        "label": "(2)",
+        "gloss": "qai: (630a)",
+        "definition": "m. Breath of nose"
+      },
+      {
+        "label": "(3)",
+        "gloss": "qai: (630a)",
+        "definition": "m. Ship's pole, boat, hook."
+      },
+      {
+        "label": "(4)",
+        "gloss": "qai: (635a)",
+        "definition": "m. Winnowing fan."
+      },
+      {
+        "label": "qaie",
+        "gloss": "Last",
+        "definition": "Last"
+      },
+      {
+        "label": "qai/",
+        "gloss": "Last",
+        "definition": "Last"
+      },
+      {
+        "label": "qaior",
+        "gloss": "Canal bank",
+        "definition": "Canal bank"
+      },
+      {
+        "label": "qairi",
+        "reference": "631a",
+        "partOfSpeech": "m",
+        "gloss": "Serpent. qamne: (566b)",
+        "definition": "adj. Eighty. qamnifi v. nifi - Difficult breathing. qara-: (696b); nn. as distributive prep. qara- v. qrwou - Voice. qarabai v. qrwou - Thunder. qarat= v. rat= - Beneath."
+      },
+      {
+        "label": "qariqaro",
+        "gloss": "Apart. qara[woutc v. carajwf - Hare. qaren- v. (1)ro - Beneath",
+        "definition": "Apart. qara[woutc v. carajwf - Hare. qaren- v. (1)ro - Beneath"
+      },
+      {
+        "label": "qaro=",
+        "gloss": "Under",
+        "definition": "Under"
+      },
+      {
+        "label": "qarw=",
+        "gloss": "Beneath",
+        "definition": "Beneath"
+      },
+      {
+        "label": "qac=",
+        "gloss": "To toil",
+        "definition": "To toil"
+      },
+      {
+        "label": "qat",
+        "gloss": "To rub",
+        "definition": "To rub"
+      },
+      {
+        "label": "qat=",
+        "gloss": "To rub",
+        "definition": "To rub"
+      },
+      {
+        "label": "qateb",
+        "gloss": "To kill. qateb- p.c. v. qwteb - Killer. qaten v. twri - Beside",
+        "definition": "To kill. qateb- p.c. v. qwteb - Killer. qaten v. twri - Beside"
+      },
+      {
+        "label": "qatot=",
+        "gloss": "Beside. qaq: (631b)",
+        "definition": "m. Neck."
+      },
+      {
+        "label": "qaq=",
+        "gloss": "To scrape",
+        "definition": "To scrape"
+      },
+      {
+        "label": "qaqou",
+        "gloss": "Itching",
+        "definition": "Itching"
+      }
+    ]
+  },
+  {
+    "headword": "qa]",
+    "copticWord": "ϧⲁϯ",
+    "englishTransliteration": "khati",
+    "reference": "719a",
+    "gloss": "vi. To flow",
+    "definition": "vt. To let flow, pour;"
+  },
+  {
+    "headword": "(1) qe",
+    "copticWord": "ϧⲉ",
+    "englishTransliteration": "khe",
+    "reference": "630a",
+    "partOfSpeech": "m",
+    "gloss": "Woof",
+    "definition": "Woof"
+  },
+  {
+    "headword": "(2) qe",
+    "copticWord": "ϧⲉ",
+    "englishTransliteration": "khe",
+    "reference": "638b",
+    "partOfSpeech": "f",
+    "gloss": "Manner",
+    "definition": "Manner"
+  },
+  {
+    "headword": "(3) qe",
+    "copticWord": "ϧⲉ",
+    "englishTransliteration": "khe",
+    "reference": "643a",
+    "partOfSpeech": "f",
+    "gloss": "Story of house",
+    "definition": "Story of house"
+  },
+  {
+    "headword": "qek",
+    "copticWord": "ϧⲉⲕ",
+    "englishTransliteration": "khek",
+    "gloss": "To gird",
+    "definition": "To gird",
+    "crossReference": {
+      "target": "qwk",
+      "gloss": "To gird"
+    }
+  },
+  {
+    "headword": "qelbi",
+    "copticWord": "ϧⲉⲗⲃⲓ",
+    "englishTransliteration": "khelvi",
+    "variants": [
+      {
+        "word": "qelpi",
+        "copticWord": "ϧⲉⲗⲡⲓ",
+        "englishTransliteration": "khelpi"
+      }
+    ],
+    "reference": "671a",
+    "partOfSpeech": "f",
+    "gloss": "Navel",
+    "definition": "Navel"
+  },
+  {
+    "headword": "qelebs",
+    "copticWord": "ϧⲉⲗⲉⲃϣ",
+    "englishTransliteration": "khelevsh",
+    "gloss": "Breast plate",
+    "definition": "Breast plate",
+    "crossReference": {
+      "target": "qelibs",
+      "gloss": "Breast plate"
+    }
+  },
+  {
+    "headword": "qelibs",
+    "copticWord": "ϧⲉⲗⲓⲃϣ",
+    "englishTransliteration": "kheleebsh",
+    "variants": [
+      {
+        "word": "qelebs",
+        "copticWord": "ϧⲉⲗⲉⲃϣ",
+        "englishTransliteration": "khelevsh"
+      }
+    ],
+    "reference": "668a",
+    "partOfSpeech": "f",
+    "gloss": "Breast plate",
+    "definition": "Breast plate"
+  },
+  {
+    "headword": "qellibs",
+    "copticWord": "ϧⲉⲗⲗⲓⲃϣ",
+    "englishTransliteration": "khelleebsh",
+    "gloss": "Breast Plate qello, f. qellw, pl. qelloi",
+    "definition": "Breast Plate qello, f. qellw, pl. qelloi",
+    "crossReference": {
+      "target": "qelibs",
+      "gloss": "Breast Plate qello, f. qellw, pl. qelloi"
+    },
+    "senses": [
+      {
+        "label": "(669b)",
+        "definition": "m. Old person, monk; metqello: f. Old age;"
+      }
+    ]
+  },
+  {
+    "headword": "erqello",
+    "copticWord": "ⲉⲣϧⲉⲗⲗⲟ",
+    "englishTransliteration": "erkhello",
+    "partOfSpeech": "vb",
+    "gloss": "To become, be old. qelloi v. qello - Old men. qellot, qelot: (630a)",
+    "definition": "f. Ravine,"
+  },
+  {
+    "headword": "Valley",
+    "copticWord": "Ⲫⲁⲗⲗⲉⲑ",
+    "englishTransliteration": "Falleth",
+    "variants": [
+      {
+        "word": "Wadi (incl. water & rocks). qellw v. qello - Old woman. qelmehi",
+        "copticWord": "Ⲱⲁⲇⲓ (ⲓⲛⲥⲗ. ⲱⲁⲧⲉⲣ & ⲣⲟⲥⲕϣ). ϧⲉⲗⲗⲱ ⲫ. ϧⲉⲗⲗⲟ - Ⲟⲗⲇ ⲱⲟⲙⲁⲛ. ϧⲉⲗⲙⲉϩⲓ",
+        "englishTransliteration": "Ōadi (insl. ōater & rosksh). khellō f. khello - Old ōoman. khelmehi"
+      }
+    ],
+    "reference": "671a",
+    "partOfSpeech": "f",
+    "gloss": "Boat",
+    "definition": "Boat"
+  },
+  {
+    "headword": "qelot",
+    "copticWord": "ϧⲉⲗⲟⲧ",
+    "englishTransliteration": "khelot",
+    "gloss": "Valley",
+    "definition": "Valley",
+    "crossReference": {
+      "target": "qellot",
+      "gloss": "Valley"
+    }
+  },
+  {
+    "headword": "qelpi",
+    "copticWord": "ϧⲉⲗⲡⲓ",
+    "englishTransliteration": "khelpi",
+    "gloss": "Navel",
+    "definition": "Navel",
+    "crossReference": {
+      "target": "qelbi",
+      "gloss": "Navel"
+    }
+  },
+  {
+    "headword": "qelsiri",
+    "copticWord": "ϧⲉⲗϣⲓⲣⲓ",
+    "englishTransliteration": "khelshiri",
+    "gloss": "Youth",
+    "definition": "Youth",
+    "crossReference": {
+      "target": "siri",
+      "gloss": "Youth"
+    }
+  },
+  {
+    "headword": "qelqelt",
+    "copticWord": "ϧⲉⲗϧⲉⲗⲧ",
+    "englishTransliteration": "khelkhelt",
+    "reference": "672b",
+    "partOfSpeech": "f",
+    "gloss": "Death rattle",
+    "definition": "Death rattle"
+  },
+  {
+    "headword": "qelqol=",
+    "copticWord": "ϧⲉⲗϧⲟⲗ",
+    "englishTransliteration": "khelkhol",
+    "gloss": "To slay",
+    "definition": "To slay",
+    "crossReference": {
+      "target": "qolqel",
+      "gloss": "To slay"
+    }
+  }
+]

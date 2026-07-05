@@ -1,0 +1,493 @@
+[
+  {
+    "headword": "hipec/t",
+    "copticWord": "ϩⲓⲡⲉⲥⲏⲧ",
+    "englishTransliteration": "hipesit",
+    "gloss": "On, to the ground",
+    "definition": "On, to the ground"
+  },
+  {
+    "headword": "ecyanecye",
+    "copticWord": "ⲉⲥⲑⲁⲛⲉⲥⲑⲉ",
+    "englishTransliteration": "esthanesthe",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "(w/ er-) vb. To feel, sense",
+    "definition": "(w/ er-) vb. To feel, sense"
+  },
+  {
+    "headword": "eukairia",
+    "copticWord": "ⲉⲩⲕⲁⲓⲣⲓⲁ",
+    "englishTransliteration": "evkairia",
+    "variants": [
+      {
+        "word": "eukeria",
+        "copticWord": "ⲉⲩⲕⲉⲣⲓⲁ",
+        "englishTransliteration": "evkeria"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Good season, opportunity, leisure, convenient situation, wealth, prosperity. eukairoc, eukeroc: (Gk)",
+    "definition": "adj. Well-timed, seasonable, convenient (place), rich, wealthy. eukeria v. eukairia - Wealth. eukeroc v. eukairoc - Wealthy. eoul v. eioul - Hart. eulabwc: (Gk)"
+  },
+  {
+    "headword": "adv. Discretion",
+    "copticWord": "ⲁⲇⲫ. Ⲇⲓϣⲥⲣⲉⲧⲓⲟⲛ",
+    "englishTransliteration": "adf. Dishsretion",
+    "variants": [
+      {
+        "word": "caution",
+        "copticWord": "ⲥⲁⲩⲧⲓⲟⲛ",
+        "englishTransliteration": "savtion"
+      },
+      {
+        "word": "reverence",
+        "copticWord": "ⲣⲉⲫⲉⲣⲉⲛⲥⲉ",
+        "englishTransliteration": "referense"
+      },
+      {
+        "word": "piety. eulog/toc",
+        "copticWord": "ⲡⲓⲉⲧⲑ. ⲉⲩⲗⲟⲅⲏⲧⲟⲥ",
+        "englishTransliteration": "pietth. evlogitos"
+      }
+    ],
+    "reference": "Gk",
+    "isGreek": true
+  },
+  {
+    "headword": "adj. Blessed. eulogia",
+    "copticWord": "ⲁⲇϫ. Ⲃⲗⲉϣϣⲉⲇ. ⲉⲩⲗⲟⲅⲓⲁ",
+    "englishTransliteration": "adj. Vleshshed. evlogia",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Act of blessing, gift, good or fine language, the blessed bread distributed among the people after communion",
+    "definition": "Act of blessing, gift, good or fine language, the blessed bread distributed among the people after communion"
+  },
+  {
+    "headword": "eulogicon",
+    "copticWord": "ⲉⲩⲗⲟⲅⲓⲥⲟⲛ",
+    "englishTransliteration": "evlogison",
+    "partOfSpeech": "adj",
+    "gloss": "Blessed. euyenia: (Gk)",
+    "definition": "f. Prosperity, plenty, abundance."
+  },
+  {
+    "headword": "ecie",
+    "copticWord": "ⲉⲥⲓⲉ",
+    "englishTransliteration": "esie",
+    "reference": "710a",
+    "partOfSpeech": "m",
+    "gloss": "Drowned (lit. praised per-son)",
+    "definition": "(w/ preceding vb.) To be drowned, shipwrecked"
+  },
+  {
+    "headword": "metecie",
+    "copticWord": "ⲙⲉⲧⲉⲥⲓⲉ",
+    "englishTransliteration": "metesie",
+    "partOfSpeech": "f",
+    "gloss": "Drowning",
+    "definition": "Drowning"
+  },
+  {
+    "headword": "ecken",
+    "copticWord": "ⲉⲥⲕⲉⲛ",
+    "englishTransliteration": "esken",
+    "gloss": "Beside",
+    "definition": "Beside",
+    "crossReference": {
+      "target": "cken",
+      "gloss": "Beside"
+    }
+  },
+  {
+    "headword": "ecki",
+    "copticWord": "ⲉⲥⲕⲓ",
+    "englishTransliteration": "eski",
+    "gloss": "Delay",
+    "definition": "Delay",
+    "crossReference": {
+      "target": "wck",
+      "gloss": "Delay"
+    }
+  },
+  {
+    "headword": "ecwou",
+    "copticWord": "ⲉⲥⲱⲟⲩ",
+    "englishTransliteration": "esōou",
+    "reference": "61a",
+    "partOfSpeech": "m",
+    "gloss": "(mostly as pl.) Sheep",
+    "definition": "(mostly as pl.) Sheep"
+  },
+  {
+    "headword": "manecwou",
+    "copticWord": "ⲙⲁⲛⲉⲥⲱⲟⲩ",
+    "englishTransliteration": "manesōou",
+    "partOfSpeech": "m",
+    "gloss": "Shepherd",
+    "definition": "Shepherd"
+  },
+  {
+    "headword": "et",
+    "copticWord": "ⲉⲧ",
+    "englishTransliteration": "et",
+    "variants": [
+      {
+        "word": "ey",
+        "copticWord": "ⲉⲑ",
+        "englishTransliteration": "eth"
+      },
+      {
+        "word": "ete",
+        "copticWord": "ⲉⲧⲉ",
+        "englishTransliteration": "ete"
+      }
+    ],
+    "reference": "61a",
+    "gloss": "relative prfx. 'Who, which is'",
+    "definition": "relative prfx. 'Who, which is'"
+  },
+  {
+    "headword": "etesi",
+    "copticWord": "ⲉⲧⲉϣⲓ",
+    "englishTransliteration": "eteshi",
+    "gloss": "Crane",
+    "definition": "Crane",
+    "crossReference": {
+      "target": "(1)et/si",
+      "gloss": "Crane"
+    }
+  },
+  {
+    "headword": "et/ma",
+    "copticWord": "ⲉⲧⲏⲙⲁ",
+    "englishTransliteration": "etima",
+    "gloss": "Request",
+    "definition": "Request",
+    "crossReference": {
+      "target": "ait/ma",
+      "gloss": "Request"
+    }
+  },
+  {
+    "headword": "(1) et/si",
+    "copticWord": "ⲉⲧⲏϣⲓ",
+    "englishTransliteration": "etishi",
+    "reference": "61b",
+    "partOfSpeech": "f",
+    "gloss": "Rust, mildew",
+    "definition": "Rust, mildew"
+  },
+  {
+    "headword": "(2)et/si",
+    "copticWord": "ⲉⲧⲏϣⲓ",
+    "englishTransliteration": "etishi",
+    "variants": [
+      {
+        "word": "etesi",
+        "copticWord": "ⲉⲧⲉϣⲓ",
+        "englishTransliteration": "eteshi"
+      }
+    ],
+    "reference": "61b",
+    "partOfSpeech": "m",
+    "gloss": "Crane",
+    "definition": "Crane"
+  },
+  {
+    "headword": "euni",
+    "copticWord": "ⲉⲩⲛⲓ",
+    "englishTransliteration": "evni",
+    "reference": "62b",
+    "partOfSpeech": "f",
+    "gloss": "Nether millstone, mill",
+    "definition": "Nether millstone, mill"
+  },
+  {
+    "headword": "eti",
+    "copticWord": "ⲉⲧⲓ",
+    "englishTransliteration": "eti",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "conj. After, after which, and",
+    "definition": "during, as."
+  },
+  {
+    "headword": "euxenoc",
+    "copticWord": "ⲉⲩⲝⲉⲛⲟⲥ",
+    "englishTransliteration": "evksenos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Kind to strangers, hospitable, guest-chamber, in",
+    "definition": "Kind to strangers, hospitable, guest-chamber, in"
+  },
+  {
+    "headword": "etia",
+    "copticWord": "ⲉⲧⲓⲁ",
+    "englishTransliteration": "etia",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "f",
+    "definition": "f"
+  },
+  {
+    "headword": "Blame",
+    "copticWord": "Ⲃⲗⲁⲙⲉ",
+    "englishTransliteration": "Vlame",
+    "variants": [
+      {
+        "word": "charge",
+        "copticWord": "ⲥϩⲁⲣⲅⲉ",
+        "englishTransliteration": "sharge"
+      },
+      {
+        "word": "fault etioc",
+        "copticWord": "ϥⲁⲩⲗⲧ ⲉⲧⲓⲟⲥ",
+        "englishTransliteration": "favlt etios"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Guilty, culprit",
+    "definition": "Guilty, culprit"
+  },
+  {
+    "headword": "etvw",
+    "copticWord": "ⲉⲧⲫⲱ",
+    "englishTransliteration": "etfō",
+    "gloss": "Burden",
+    "definition": "Burden",
+    "crossReference": {
+      "target": "wbt",
+      "gloss": "Burden"
+    }
+  },
+  {
+    "headword": "etvwoui",
+    "copticWord": "ⲉⲧⲫⲱⲟⲩⲓ",
+    "englishTransliteration": "etfōoui",
+    "gloss": "Burdens",
+    "definition": "Burdens",
+    "crossReference": {
+      "target": "wbt",
+      "gloss": "Burdens"
+    }
+  },
+  {
+    "headword": "euaggelia",
+    "copticWord": "ⲉⲩⲁⲅⲅⲉⲗⲓⲁ",
+    "englishTransliteration": "evangelia",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Good tidings, the Gospel",
+    "definition": "Good tidings, the Gospel"
+  },
+  {
+    "headword": "euaggelikoc",
+    "copticWord": "ⲉⲩⲁⲅⲅⲉⲗⲓⲕⲟⲥ",
+    "englishTransliteration": "evangelikos",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "According to the Gospel",
+    "definition": "According to the Gospel"
+  },
+  {
+    "headword": "oubioc euaggelikoc",
+    "copticWord": "ⲟⲩⲃⲓⲟⲥ ⲉⲩⲁⲅⲅⲉⲗⲓⲕⲟⲥ",
+    "englishTransliteration": "ouvios evangelikos",
+    "partOfSpeech": "n",
+    "gloss": "A Gospel-like life",
+    "definition": "A Gospel-like life"
+  },
+  {
+    "headword": "euc",
+    "copticWord": "ⲉⲩⲥ",
+    "englishTransliteration": "evs",
+    "variants": [
+      {
+        "word": "/mwn",
+        "copticWord": "ⲏⲙⲱⲛ",
+        "englishTransliteration": "imōn"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Elegent in figure, graceful, decent",
+    "definition": "Elegent in figure, graceful, decent"
+  },
+  {
+    "headword": "euv/mia",
+    "copticWord": "ⲉⲩⲫⲏⲙⲓⲁ",
+    "englishTransliteration": "evfimia",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Use of words of good omen, auspiciousness, praise panegyric",
+    "definition": "Use of words of good omen, auspiciousness, praise panegyric"
+  },
+  {
+    "headword": "euvrat/c",
+    "copticWord": "ⲉⲩⲫⲣⲁⲧⲏⲥ",
+    "englishTransliteration": "evfratis",
+    "gloss": "(heb)",
+    "definition": "n. The river Euphrates"
+  },
+  {
+    "headword": "eu",
+    "copticWord": "ⲉⲩ",
+    "englishTransliteration": "ev",
+    "variants": [
+      {
+        "word": "arictia",
+        "copticWord": "ⲁⲣⲓⲥⲧⲓⲁ",
+        "englishTransliteration": "aristia"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Thankfulness, gratitude, giving of thanks, Eucharist",
+    "definition": "Thankfulness, gratitude, giving of thanks, Eucharist"
+  },
+  {
+    "headword": "proceu",
+    "copticWord": "ⲡⲣⲟⲥⲉⲩ",
+    "englishTransliteration": "prosev",
+    "variants": [
+      {
+        "word": "/",
+        "copticWord": "ⲏ",
+        "englishTransliteration": "i"
+      }
+    ],
+    "partOfSpeech": "f",
+    "gloss": "Prayer",
+    "definition": "Prayer"
+  },
+  {
+    "headword": "euaggelion",
+    "copticWord": "ⲉⲩⲁⲅⲅⲉⲗⲓⲟⲛ",
+    "englishTransliteration": "evangelion",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Good tidings, good news, the Gospel",
+    "definition": "Good tidings, good news, the Gospel"
+  },
+  {
+    "headword": "euaggelicmoc",
+    "copticWord": "ⲉⲩⲁⲅⲅⲉⲗⲓⲥⲙⲟⲥ",
+    "englishTransliteration": "evangelismos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Feast of the Annunciation, preaching the Gospel, the preaching of Good tidings",
+    "definition": "Feast of the Annunciation, preaching the Gospel, the preaching of Good tidings"
+  },
+  {
+    "headword": "euaggelict/c",
+    "copticWord": "ⲉⲩⲁⲅⲅⲉⲗⲓⲥⲧⲏⲥ",
+    "englishTransliteration": "evangelistis",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Bringer of good tidings, evangelist, preacher of the Gospel",
+    "definition": "Bringer of good tidings, evangelist, preacher of the Gospel"
+  },
+  {
+    "headword": "eugen/c",
+    "copticWord": "ⲉⲩⲅⲉⲛⲏⲥ",
+    "englishTransliteration": "evgenis",
+    "partOfSpeech": "n",
+    "gloss": "Well born, mark of nobility, noble minded, generous, noble",
+    "definition": "Well born, mark of nobility, noble minded, generous, noble"
+  },
+  {
+    "headword": "]eu",
+    "copticWord": "ϯⲉⲩ",
+    "englishTransliteration": "tiev",
+    "variants": [
+      {
+        "word": "/ nkuriak/",
+        "copticWord": "ⲏ ⲛⲕⲩⲣⲓⲁⲕⲏ",
+        "englishTransliteration": "i nkyriaki"
+      }
+    ],
+    "gloss": "The Lord's prayer",
+    "definition": "The Lord's prayer"
+  },
+  {
+    "headword": "evl/ou",
+    "copticWord": "ⲉⲫⲗⲏⲟⲩ",
+    "englishTransliteration": "efliou",
+    "variants": [
+      {
+        "word": "vl/ou",
+        "copticWord": "ⲫⲗⲏⲟⲩ",
+        "englishTransliteration": "fliou"
+      }
+    ],
+    "reference": "63a",
+    "partOfSpeech": "n",
+    "gloss": "sg. and pl. Vanity, emptiness",
+    "definition": "adj. vain, empty; adj. vainly, in vain"
+  },
+  {
+    "headword": "metevl/ou",
+    "copticWord": "ⲙⲉⲧⲉⲫⲗⲏⲟⲩ",
+    "englishTransliteration": "metefliou",
+    "partOfSpeech": "f",
+    "gloss": "Vanity, emptiness",
+    "definition": "Vanity, emptiness"
+  },
+  {
+    "headword": "erevl/ou",
+    "copticWord": "ⲉⲣⲉⲫⲗⲏⲟⲩ",
+    "englishTransliteration": "erefliou",
+    "partOfSpeech": "vb",
+    "gloss": "To acts vainly, be vain, be empty",
+    "definition": "To acts vainly, be vain, be empty"
+  },
+  {
+    "headword": "evrai",
+    "copticWord": "ⲉⲫⲣⲁⲓ",
+    "englishTransliteration": "efrai",
+    "gloss": "Seed",
+    "definition": "Seed",
+    "crossReference": {
+      "target": "mbrai",
+      "gloss": "Seed"
+    }
+  },
+  {
+    "headword": "eudoxazin",
+    "copticWord": "ⲉⲩⲇⲟⲝⲁⲍⲓⲛ",
+    "englishTransliteration": "evdoksazin",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "(w/ er-) vb. To be honored, glorified",
+    "definition": "(w/ er-) vb. To be honored, glorified"
+  },
+  {
+    "headword": "evvaya",
+    "copticWord": "ⲉⲫⲫⲁⲑⲁ",
+    "englishTransliteration": "effatha",
+    "gloss": "(Heb)",
+    "definition": "vi. To open, be open."
+  }
+]

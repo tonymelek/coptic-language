@@ -1,0 +1,557 @@
+[
+  {
+    "headword": "(2) mahi",
+    "copticWord": "ⲙⲁϩⲓ",
+    "englishTransliteration": "mahi",
+    "reference": "211a",
+    "partOfSpeech": "m",
+    "gloss": "Flax",
+    "definition": "Flax"
+  },
+  {
+    "headword": "ref]mahi",
+    "copticWord": "ⲣⲉϥϯⲙⲁϩⲓ",
+    "englishTransliteration": "reftimahi",
+    "partOfSpeech": "m",
+    "gloss": "Flax-seller",
+    "definition": "Flax-seller"
+  },
+  {
+    "headword": "mahro",
+    "copticWord": "ⲙⲁϩⲣⲟ",
+    "englishTransliteration": "mahro",
+    "reference": "211b"
+  },
+  {
+    "headword": "m. Manure. mahcol",
+    "copticWord": "ⲙ. Ⲙⲁⲛⲩⲣⲉ. ⲙⲁϩⲥⲟⲗ",
+    "englishTransliteration": "m. Manyre. mahsol",
+    "variants": [
+      {
+        "word": "-cwl",
+        "copticWord": "-ⲥⲱⲗ",
+        "englishTransliteration": "-sōl"
+      }
+    ],
+    "reference": "187b",
+    "partOfSpeech": "m",
+    "gloss": "File (tool). mahcwl v. mahcol - File",
+    "definition": "File (tool). mahcwl v. mahcol - File"
+  },
+  {
+    "headword": "mmau",
+    "copticWord": "ⲙⲙⲁⲩ",
+    "englishTransliteration": "mmav",
+    "partOfSpeech": "adv",
+    "gloss": "There, therein",
+    "definition": "There, therein"
+  },
+  {
+    "headword": "ebol mmau",
+    "copticWord": "ⲉⲃⲟⲗ ⲙⲙⲁⲩ",
+    "englishTransliteration": "evol mmav",
+    "partOfSpeech": "adv",
+    "gloss": "Thence",
+    "definition": "Thence"
+  },
+  {
+    "headword": "etemmau",
+    "copticWord": "ⲉⲧⲉⲙⲙⲁⲩ",
+    "englishTransliteration": "etemmav",
+    "gloss": "Who, which is there",
+    "definition": "demonst. that"
+  },
+  {
+    "headword": "remmmau",
+    "copticWord": "ⲣⲉⲙⲙⲙⲁⲩ",
+    "englishTransliteration": "remmmav",
+    "partOfSpeech": "m",
+    "gloss": "lit. Man who is there, native",
+    "definition": "lit. Man who is there, native"
+  },
+  {
+    "headword": "mahtot=",
+    "copticWord": "ⲙⲁϩⲧⲟⲧ",
+    "englishTransliteration": "mahtot",
+    "gloss": "To lay hold on",
+    "definition": "To lay hold on",
+    "crossReference": {
+      "target": "moh",
+      "gloss": "To lay hold on"
+    }
+  },
+  {
+    "headword": "emau",
+    "copticWord": "ⲉⲙⲁⲩ",
+    "englishTransliteration": "emav",
+    "partOfSpeech": "adv",
+    "gloss": "Thither",
+    "definition": "Thither"
+  },
+  {
+    "headword": "maji",
+    "copticWord": "ⲙⲁϫⲓ",
+    "englishTransliteration": "maji",
+    "variants": [
+      {
+        "word": "masi",
+        "copticWord": "ⲙⲁϣⲓ",
+        "englishTransliteration": "mashi"
+      }
+    ],
+    "reference": "213a",
+    "partOfSpeech": "m",
+    "gloss": "Axe, pick",
+    "definition": "Axe, pick"
+  },
+  {
+    "headword": "(2) mau",
+    "copticWord": "ⲙⲁⲩ",
+    "englishTransliteration": "mav",
+    "reference": "197a",
+    "partOfSpeech": "f",
+    "gloss": "Mother",
+    "definition": "Mother"
+  },
+  {
+    "headword": "senmau",
+    "copticWord": "ϣⲉⲛⲙⲁⲩ",
+    "englishTransliteration": "shenmav",
+    "partOfSpeech": "m",
+    "gloss": "Mother's child",
+    "definition": "Mother's child"
+  },
+  {
+    "headword": "mau mmoni",
+    "copticWord": "ⲙⲁⲩ ⲙⲙⲟⲛⲓ",
+    "englishTransliteration": "mav mmoni",
+    "partOfSpeech": "f",
+    "gloss": "Nursing mother, nurse",
+    "definition": "Nursing mother, nurse"
+  },
+  {
+    "headword": "atmau",
+    "copticWord": "ⲁⲧⲙⲁⲩ",
+    "englishTransliteration": "atmav",
+    "partOfSpeech": "adj",
+    "gloss": "Without mother",
+    "definition": "---: f. Caul, after birth;"
+  },
+  {
+    "headword": "ma]",
+    "copticWord": "ⲙⲁϯ",
+    "englishTransliteration": "mati",
+    "reference": "189a",
+    "gloss": "vi. To be successful, hit the",
+    "definition": "vi. To be successful, hit the",
+    "senses": [
+      {
+        "label": "mark; ]ma]",
+        "gloss": "vt. To reach, obtain, enjoy",
+        "definition": "intr. attain, consent, agree;"
+      },
+      {
+        "partOfSpeech": "m",
+        "gloss": "Assent, good pleasure",
+        "definition": "Assent, good pleasure"
+      },
+      {
+        "label": "ref]ma]",
+        "partOfSpeech": "m",
+        "gloss": "Obedient person",
+        "definition": "at]ma]: adj. Not agreeing; metat]ma]: f. Unacceptableness."
+      }
+    ]
+  },
+  {
+    "headword": "maurec",
+    "copticWord": "ⲙⲁⲩⲣⲉⲥ",
+    "englishTransliteration": "mavres",
+    "variants": [
+      {
+        "word": "-r/c",
+        "copticWord": "-ⲣⲏⲥ",
+        "englishTransliteration": "-ris"
+      },
+      {
+        "word": "maric",
+        "copticWord": "ⲙⲁⲣⲓⲥ",
+        "englishTransliteration": "maris"
+      }
+    ],
+    "reference": "183a",
+    "partOfSpeech": "f",
+    "gloss": "Jug, jar",
+    "definition": "Jug, jar"
+  },
+  {
+    "headword": "maur/c",
+    "copticWord": "ⲙⲁⲩⲣⲏⲥ",
+    "englishTransliteration": "mavris",
+    "gloss": "Jug",
+    "definition": "Jug",
+    "crossReference": {
+      "target": "maurec",
+      "gloss": "Jug"
+    }
+  },
+  {
+    "headword": "ma",
+    "copticWord": "ⲙⲁ",
+    "englishTransliteration": "ma",
+    "variants": [
+      {
+        "word": "era",
+        "copticWord": "ⲉⲣⲁ",
+        "englishTransliteration": "era"
+      }
+    ],
+    "partOfSpeech": "f",
+    "gloss": "Sword",
+    "definition": "Sword"
+  },
+  {
+    "headword": "mas",
+    "copticWord": "ⲙⲁϣ",
+    "englishTransliteration": "mash",
+    "gloss": "To fight",
+    "definition": "To fight",
+    "crossReference": {
+      "target": "misi",
+      "gloss": "To fight"
+    }
+  },
+  {
+    "headword": "mas=",
+    "copticWord": "ⲙⲁϣ",
+    "englishTransliteration": "mash",
+    "gloss": "To fight",
+    "definition": "To fight",
+    "crossReference": {
+      "target": "misi",
+      "gloss": "To fight"
+    }
+  },
+  {
+    "headword": "mbai",
+    "copticWord": "ⲙⲃⲁⲓ",
+    "englishTransliteration": "mvai",
+    "reference": "177b"
+  },
+  {
+    "headword": "m. Spindle. mbon",
+    "copticWord": "ⲙ. Ϣⲡⲓⲛⲇⲗⲉ. ⲙⲃⲟⲛ",
+    "englishTransliteration": "m. Shpindle. mvon",
+    "variants": [
+      {
+        "word": "embon",
+        "copticWord": "ⲉⲙⲃⲟⲛ",
+        "englishTransliteration": "emvon"
+      }
+    ],
+    "reference": "161a",
+    "gloss": "vi. To be wrath",
+    "definition": "vi. To be wrath"
+  },
+  {
+    "headword": "refmbon",
+    "copticWord": "ⲣⲉϥⲙⲃⲟⲛ",
+    "englishTransliteration": "refmvon",
+    "partOfSpeech": "m",
+    "gloss": "Wrathful person",
+    "definition": "---: m. Wrath; ]mbon: vb. To make angry"
+  },
+  {
+    "headword": "ref]mbon",
+    "copticWord": "ⲣⲉϥϯⲙⲃⲟⲛ",
+    "englishTransliteration": "reftimvon",
+    "partOfSpeech": "m",
+    "gloss": "Causer of wrath",
+    "definition": "Causer of wrath"
+  },
+  {
+    "headword": "mase",
+    "copticWord": "ⲙⲁϣⲉ",
+    "englishTransliteration": "mashe",
+    "gloss": "Go!",
+    "definition": "Go!",
+    "crossReference": {
+      "target": "se",
+      "gloss": "Go!"
+    }
+  },
+  {
+    "headword": "masert",
+    "copticWord": "ⲙⲁϣⲉⲣⲧ",
+    "englishTransliteration": "mashert",
+    "reference": "206a",
+    "partOfSpeech": "mf",
+    "gloss": "Cable (of palm fibre). masyam v. swtem - Shut. masasywou] = masyw] - Comb. masyw]: (207b)",
+    "definition": "f. Comb; comb of foot, metatarsus."
+  },
+  {
+    "headword": "mbrai",
+    "copticWord": "ⲙⲃⲣⲁⲓ",
+    "englishTransliteration": "mvrai",
+    "variants": [
+      {
+        "word": "brai",
+        "copticWord": "ⲃⲣⲁⲓ",
+        "englishTransliteration": "vrai"
+      },
+      {
+        "word": "evrai",
+        "copticWord": "ⲉⲫⲣⲁⲓ",
+        "englishTransliteration": "efrai"
+      },
+      {
+        "word": "emrai",
+        "copticWord": "ⲉⲙⲣⲁⲓ",
+        "englishTransliteration": "emrai"
+      }
+    ],
+    "reference": "53a",
+    "partOfSpeech": "m",
+    "gloss": "Seed (of cereal or other plants)",
+    "definition": "Seed (of cereal or other plants)"
+  },
+  {
+    "headword": "mbrehi",
+    "copticWord": "ⲙⲃⲣⲉϩⲓ",
+    "englishTransliteration": "mvrehi",
+    "variants": [
+      {
+        "word": "embrehi",
+        "copticWord": "ⲉⲙⲃⲣⲉϩⲓ",
+        "englishTransliteration": "emvrehi"
+      },
+      {
+        "word": "brehi",
+        "copticWord": "ⲃⲣⲉϩⲓ",
+        "englishTransliteration": "vrehi"
+      },
+      {
+        "word": "ebrehi",
+        "copticWord": "ⲉⲃⲣⲉϩⲓ",
+        "englishTransliteration": "evrehi"
+      }
+    ],
+    "reference": "161a",
+    "partOfSpeech": "mf",
+    "gloss": "Cart",
+    "definition": "Cart"
+  },
+  {
+    "headword": "masi",
+    "copticWord": "ⲙⲁϣⲓ",
+    "englishTransliteration": "mashi",
+    "reference": "201a",
+    "partOfSpeech": "f",
+    "gloss": "balance, scale",
+    "definition": "balance, scale"
+  },
+  {
+    "headword": "pimas nte pikap",
+    "copticWord": "ⲡⲓⲙⲁϣ ⲛⲧⲉ ⲡⲓⲕⲁⲡ",
+    "englishTransliteration": "pimash nte pikap",
+    "partOfSpeech": "m",
+    "gloss": "Plumb line",
+    "definition": "Plumb line"
+  },
+  {
+    "headword": "me",
+    "copticWord": "ⲙⲉ",
+    "englishTransliteration": "me",
+    "gloss": "To take",
+    "definition": "To take",
+    "crossReference": {
+      "target": "mo",
+      "gloss": "To take"
+    }
+  },
+  {
+    "headword": "ca nmasi",
+    "copticWord": "ⲥⲁ ⲛⲙⲁϣⲓ",
+    "englishTransliteration": "sa nmashi",
+    "partOfSpeech": "m",
+    "gloss": "Balance maker, seller. masi v. maji - Axe",
+    "definition": "Balance maker, seller. masi v. maji - Axe"
+  },
+  {
+    "headword": "masi (Q) v. misi - To be fought. mast- v. moust - To examine. masw (often mmasw)",
+    "copticWord": "ⲙⲁϣⲓ (Ϧ) ⲫ. ⲙⲓϣⲓ - Ⲧⲟ ⲃⲉ ϥⲟⲩⲅϩⲧ. ⲙⲁϣⲧ- ⲫ. ⲙⲟⲩϣⲧ - Ⲧⲟ ⲉⲝⲁⲙⲓⲛⲉ. ⲙⲁϣⲱ (ⲟϥⲧⲉⲛ ⲙⲙⲁϣⲱ)",
+    "englishTransliteration": "mashi (Kh) f. mishi - To ve fought. masht- f. mousht - To eksamine. mashō (often mmashō)",
+    "reference": "201b",
+    "partOfSpeech": "adv",
+    "senses": [
+      {
+        "gloss": "Greatly, very",
+        "definition": "Greatly, very"
+      }
+    ]
+  },
+  {
+    "headword": "masj",
+    "copticWord": "ⲙⲁϣϫ",
+    "englishTransliteration": "mashj",
+    "reference": "212b",
+    "partOfSpeech": "m",
+    "gloss": "Ear",
+    "definition": "handle of a basket; ,amasj: vb. To give ear, listen."
+  },
+  {
+    "headword": "mey",
+    "copticWord": "ⲙⲉⲑ",
+    "englishTransliteration": "meth",
+    "partOfSpeech": "prfx",
+    "gloss": "Forming abstracts",
+    "definition": "Forming abstracts",
+    "crossReference": {
+      "target": "met",
+      "gloss": "Forming abstracts"
+    }
+  },
+  {
+    "headword": "meyaio",
+    "copticWord": "ⲙⲉⲑⲁⲓⲟ",
+    "englishTransliteration": "methaio",
+    "variants": [
+      {
+        "word": "metaiw",
+        "copticWord": "ⲙⲉⲧⲁⲓⲱ",
+        "englishTransliteration": "metaiō"
+      }
+    ],
+    "reference": "161b",
+    "partOfSpeech": "n",
+    "gloss": "Carthamus, safflower",
+    "definition": "Carthamus, safflower"
+  },
+  {
+    "headword": "meym/i",
+    "copticWord": "ⲙⲉⲑⲙⲏⲓ",
+    "englishTransliteration": "methmii",
+    "gloss": "Truth. meyre, pl",
+    "definition": "Truth. meyre, pl",
+    "crossReference": {
+      "target": "m/i",
+      "gloss": "Truth. meyre, pl"
+    }
+  },
+  {
+    "headword": "meyreu",
+    "copticWord": "ⲙⲉⲑⲣⲉⲩ",
+    "englishTransliteration": "methrev",
+    "reference": "177a",
+    "partOfSpeech": "m",
+    "gloss": "Witness, testimony",
+    "definition": "Witness, testimony"
+  },
+  {
+    "headword": "metmeyre",
+    "copticWord": "ⲙⲉⲧⲙⲉⲑⲣⲉ",
+    "englishTransliteration": "metmethre",
+    "partOfSpeech": "f",
+    "gloss": "Testimony",
+    "definition": "Testimony"
+  },
+  {
+    "headword": "ermeyre",
+    "copticWord": "ⲉⲣⲙⲉⲑⲣⲉ",
+    "englishTransliteration": "ermethre",
+    "partOfSpeech": "vb",
+    "gloss": "To testify, bear witness",
+    "definition": "--- n-: vb. To testify of, concerning; --- n- (dat-): vb. To testify to;"
+  },
+  {
+    "headword": "maqt",
+    "copticWord": "ⲙⲁϧⲧ",
+    "englishTransliteration": "makht",
+    "reference": "211b",
+    "partOfSpeech": "m",
+    "gloss": "Bowels, intestines",
+    "definition": "Bowels, intestines",
+    "senses": [
+      {
+        "label": "sanmaqt",
+        "gloss": "pl. Dysentery",
+        "definition": "pl. Dysentery"
+      },
+      {
+        "label": "sanymaqt",
+        "partOfSpeech": "m",
+        "gloss": "Compassionate person",
+        "definition": "metsanymaqt: m. Compassion."
+      }
+    ]
+  },
+  {
+    "headword": "atmaqt",
+    "copticWord": "ⲁⲧⲙⲁϧⲧ",
+    "englishTransliteration": "atmakht",
+    "partOfSpeech": "adj",
+    "gloss": "Without bowels (of compassion)",
+    "definition": "Without bowels (of compassion)"
+  },
+  {
+    "headword": "e",
+    "copticWord": "ⲉ",
+    "englishTransliteration": "e",
+    "partOfSpeech": "vb",
+    "gloss": "To testify against, in respect of, for",
+    "definition": "To testify against, in respect of, for",
+    "senses": [
+      {
+        "label": "qa",
+        "partOfSpeech": "vb",
+        "gloss": "To testify on behalf of",
+        "definition": "To testify on behalf of"
+      },
+      {
+        "label": "eybe",
+        "partOfSpeech": "vb",
+        "gloss": "To testify concerning",
+        "definition": "To testify concerning"
+      },
+      {
+        "label": "ejen",
+        "partOfSpeech": "vb",
+        "gloss": "To testify concerning",
+        "definition": "To testify concerning"
+      },
+      {
+        "label": "nem",
+        "partOfSpeech": "vb",
+        "gloss": "To testify to, for",
+        "definition": "To testify to, for"
+      }
+    ]
+  },
+  {
+    "headword": "maqoul",
+    "copticWord": "ⲙⲁϧⲟⲩⲗ",
+    "englishTransliteration": "makhoul",
+    "reference": "208a"
+  },
+  {
+    "headword": "m. Chisel",
+    "copticWord": "ⲙ. Ⲥϩⲓϣⲉⲗ",
+    "englishTransliteration": "m. Shishel",
+    "variants": [
+      {
+        "word": "pick",
+        "copticWord": "ⲡⲓⲥⲕ",
+        "englishTransliteration": "pisk"
+      },
+      {
+        "word": "anvil. mah= v. (2)moh - To fill. (1)mahi",
+        "copticWord": "ⲁⲛⲫⲓⲗ. ⲙⲁϩ ⲫ̅. (2)ⲙⲟϩ - Ⲧⲟ ϥⲓⲗⲗ. (1)ⲙⲁϩⲓ",
+        "englishTransliteration": "anfil. mah f̅. (2)moh - To fill. (1)mahi"
+      }
+    ],
+    "reference": "210b",
+    "partOfSpeech": "m",
+    "gloss": "Ell, cubit (forearm)",
+    "definition": "Ell, cubit (forearm)"
+  }
+]

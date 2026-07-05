@@ -1,0 +1,415 @@
+[
+  {
+    "headword": "g",
+    "copticWord": "ⲅ",
+    "englishTransliteration": "g",
+    "gloss": "3rd letter of the Coptic alphabet",
+    "definition": "g: the numeral 'three'."
+  },
+  {
+    "headword": "genn/cic",
+    "copticWord": "ⲅⲉⲛⲛⲏⲥⲓⲥ",
+    "englishTransliteration": "gennisis",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Birth, engendering, producing",
+    "definition": "Birth, engendering, producing"
+  },
+  {
+    "headword": "genn/t/c",
+    "copticWord": "ⲅⲉⲛⲛⲏⲧⲏⲥ",
+    "englishTransliteration": "gennitis",
+    "variants": [
+      {
+        "type": "f.",
+        "word": "-tria",
+        "copticWord": "-ⲧⲣⲓⲁ",
+        "englishTransliteration": "-tria"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Begetter, parent, producer",
+    "definition": "Begetter, parent, producer"
+  },
+  {
+    "headword": "gabaya",
+    "copticWord": "ⲅⲁⲃⲁⲑⲁ",
+    "englishTransliteration": "gavatha",
+    "variants": [
+      {
+        "word": "gabay/",
+        "copticWord": "ⲅⲁⲃⲁⲑⲏ",
+        "englishTransliteration": "gavathi"
+      },
+      {
+        "word": "gabbaya",
+        "copticWord": "ⲅⲁⲃⲃⲁⲑⲁ",
+        "englishTransliteration": "gavatha"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Gabbatha, an elevated place or tribunal",
+    "definition": "Gabbatha, an elevated place or tribunal"
+  },
+  {
+    "headword": "genn/tria",
+    "copticWord": "ⲅⲉⲛⲛⲏⲧⲣⲓⲁ",
+    "englishTransliteration": "gennitria",
+    "gloss": "Parent",
+    "definition": "Parent",
+    "crossReference": {
+      "target": "genn/t/c",
+      "gloss": "Parent"
+    }
+  },
+  {
+    "headword": "gabay/",
+    "copticWord": "ⲅⲁⲃⲁⲑⲏ",
+    "englishTransliteration": "gavathi",
+    "gloss": "Gabbatha. gabbaya v. gabaya - Gabbatha",
+    "definition": "Gabbatha. gabbaya v. gabaya - Gabbatha",
+    "crossReference": {
+      "target": "gabaya",
+      "gloss": "Gabbatha. gabbaya v. gabaya - Gabbatha"
+    }
+  },
+  {
+    "headword": "genoc",
+    "copticWord": "ⲅⲉⲛⲟⲥ",
+    "englishTransliteration": "genos",
+    "variants": [
+      {
+        "word": "geneoc",
+        "copticWord": "ⲅⲉⲛⲉⲟⲥ",
+        "englishTransliteration": "geneos"
+      },
+      {
+        "word": "genouc",
+        "copticWord": "ⲅⲉⲛⲟⲩⲥ",
+        "englishTransliteration": "genous"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Race, stock, kin, offspring, descendant, family, clan, house",
+    "definition": "Race, stock, kin, offspring, descendant, family, clan, house"
+  },
+  {
+    "headword": "gaza",
+    "copticWord": "ⲅⲁⲍⲁ",
+    "englishTransliteration": "gaza",
+    "gloss": "(Persian)",
+    "definition": "f. Treasure, large sum of money."
+  },
+  {
+    "headword": "genouc",
+    "copticWord": "ⲅⲉⲛⲟⲩⲥ",
+    "englishTransliteration": "genous",
+    "gloss": "Race",
+    "definition": "Race",
+    "crossReference": {
+      "target": "genoc",
+      "gloss": "Race"
+    }
+  },
+  {
+    "headword": "gazovulakion",
+    "copticWord": "ⲅⲁⲍⲟⲫⲩⲗⲁⲕⲓⲟⲛ",
+    "englishTransliteration": "gazofylakion",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Treasury",
+    "definition": "Treasury"
+  },
+  {
+    "headword": "gewgravia",
+    "copticWord": "ⲅⲉⲱⲅⲣⲁⲫⲓⲁ",
+    "englishTransliteration": "geōgrafia",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Geography",
+    "definition": "Geography"
+  },
+  {
+    "headword": "gala",
+    "copticWord": "ⲅⲁⲗⲁ",
+    "englishTransliteration": "gala",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Milk",
+    "definition": "Milk"
+  },
+  {
+    "headword": "gewgravikoc",
+    "copticWord": "ⲅⲉⲱⲅⲣⲁⲫⲓⲕⲟⲥ",
+    "englishTransliteration": "geōgrafikos",
+    "reference": "Gk",
+    "partOfSpeech": "mf",
+    "isGreek": true,
+    "gloss": "Geographical",
+    "definition": "Geographical"
+  },
+  {
+    "headword": "gal/n/",
+    "copticWord": "ⲅⲁⲗⲏⲛⲏ",
+    "englishTransliteration": "galini",
+    "variants": [
+      {
+        "word": "-/c",
+        "copticWord": "-ⲏⲥ",
+        "englishTransliteration": "-is"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Calm, gentle",
+    "definition": "Calm, gentle"
+  },
+  {
+    "headword": "g/",
+    "copticWord": "ⲅⲏ",
+    "englishTransliteration": "gi",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Earth, land, soil",
+    "definition": "Earth, land, soil"
+  },
+  {
+    "headword": "gal/n/c",
+    "copticWord": "ⲅⲁⲗⲏⲛⲏⲥ",
+    "englishTransliteration": "galinis",
+    "gloss": "Calm",
+    "definition": "Calm",
+    "crossReference": {
+      "target": "gal/n/",
+      "gloss": "Calm"
+    }
+  },
+  {
+    "headword": "gnovoc",
+    "copticWord": "ⲅⲛⲟⲫⲟⲥ",
+    "englishTransliteration": "gnofos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Darkness",
+    "definition": "Darkness"
+  },
+  {
+    "headword": "galileoc",
+    "copticWord": "ⲅⲁⲗⲓⲗⲉⲟⲥ",
+    "englishTransliteration": "galileos",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Galilean",
+    "definition": "Galilean"
+  },
+  {
+    "headword": "gamoc",
+    "copticWord": "ⲅⲁⲙⲟⲥ",
+    "englishTransliteration": "gamos",
+    "variants": [
+      {
+        "word": "gamocun/",
+        "copticWord": "ⲅⲁⲙⲟⲥⲩⲛⲏ",
+        "englishTransliteration": "gamosyni"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Wedding, marriage, wedlock",
+    "definition": "Wedding, marriage, wedlock"
+  },
+  {
+    "headword": "gnwm/",
+    "copticWord": "ⲅⲛⲱⲙⲏ",
+    "englishTransliteration": "gnōmi",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Means of knowing, intelligence, thought, judgement, opinion, intention, verdict",
+    "definition": "Means of knowing, intelligence, thought, judgement, opinion, intention, verdict"
+  },
+  {
+    "headword": "gamocun/",
+    "copticWord": "ⲅⲁⲙⲟⲥⲩⲛⲏ",
+    "englishTransliteration": "gamosyni",
+    "gloss": "Wedding",
+    "definition": "Wedding",
+    "crossReference": {
+      "target": "gamoc",
+      "gloss": "Wedding"
+    }
+  },
+  {
+    "headword": "gnwcic",
+    "copticWord": "ⲅⲛⲱⲥⲓⲥ",
+    "englishTransliteration": "gnōsis",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Knowledge",
+    "definition": "Knowledge"
+  },
+  {
+    "headword": "gar",
+    "copticWord": "ⲅⲁⲣ",
+    "englishTransliteration": "gar",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "conj. For, because",
+    "definition": "conj. For, because"
+  },
+  {
+    "headword": "geenna",
+    "copticWord": "ⲅⲉⲉⲛⲛⲁ",
+    "englishTransliteration": "geenna",
+    "gloss": "(Heb)",
+    "definition": "f. Gehenna, hades."
+  },
+  {
+    "headword": "(1) genea",
+    "copticWord": "ⲅⲉⲛⲉⲁ",
+    "englishTransliteration": "genea",
+    "reference": "Gk?",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "New, recent",
+    "definition": "New, recent"
+  },
+  {
+    "headword": "gnwct/c",
+    "copticWord": "ⲅⲛⲱⲥⲧⲏⲥ",
+    "englishTransliteration": "gnōstis",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "The rank of reader in the Coptic Church",
+    "definition": "one who knows, expert witness."
+  },
+  {
+    "headword": "(2) genea",
+    "copticWord": "ⲅⲉⲛⲉⲁ",
+    "englishTransliteration": "genea",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Race, family, generation, offspring, birth-place, age",
+    "definition": "Race, family, generation, offspring, birth-place, age"
+  },
+  {
+    "headword": "goggul/",
+    "copticWord": "ⲅⲟⲅⲅⲩⲗⲏ",
+    "englishTransliteration": "gongyli",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Eastern cress",
+    "definition": "Eastern cress"
+  },
+  {
+    "headword": "geneoc",
+    "copticWord": "ⲅⲉⲛⲉⲟⲥ",
+    "englishTransliteration": "geneos",
+    "gloss": "Generation",
+    "definition": "Generation",
+    "crossReference": {
+      "target": "(2)genoc",
+      "gloss": "Generation"
+    }
+  },
+  {
+    "headword": "grammateuc",
+    "copticWord": "ⲅⲣⲁⲙⲙⲁⲧⲉⲩⲥ",
+    "englishTransliteration": "grammatevs",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": ": m. Secretary, regis-trar, clerk",
+    "definition": ": m. Secretary, regis-trar, clerk"
+  },
+  {
+    "headword": "grammatik/",
+    "copticWord": "ⲅⲣⲁⲙⲙⲁⲧⲓⲕⲏ",
+    "englishTransliteration": "grammatiki",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Grammar",
+    "definition": "Grammar"
+  },
+  {
+    "headword": "genecic",
+    "copticWord": "ⲅⲉⲛⲉⲥⲓⲥ",
+    "englishTransliteration": "genesis",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Origin, source, nativity, generation",
+    "definition": "the biblical book of Genesis. gennaioc v. genneoc - Noble."
+  },
+  {
+    "headword": "grav/",
+    "copticWord": "ⲅⲣⲁⲫⲏ",
+    "englishTransliteration": "grafi",
+    "variants": [
+      {
+        "word": "krav/",
+        "copticWord": "ⲕⲣⲁⲫⲏ",
+        "englishTransliteration": "krafi"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "The Holy 'Scripture', book, writing",
+    "definition": "The Holy 'Scripture', book, writing"
+  },
+  {
+    "headword": "genneoc",
+    "copticWord": "ⲅⲉⲛⲛⲉⲟⲥ",
+    "englishTransliteration": "genneos",
+    "variants": [
+      {
+        "word": "-naioc",
+        "copticWord": "-ⲛⲁⲓⲟⲥ",
+        "englishTransliteration": "-naios"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Noble, excel-lent",
+    "definition": "Noble, excel-lent"
+  },
+  {
+    "headword": "gumnacia",
+    "copticWord": "ⲅⲩⲙⲛⲁⲥⲓⲁ",
+    "englishTransliteration": "gymnasia",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Exercise, training, maneuvers",
+    "definition": "gymnastics."
+  },
+  {
+    "headword": "genn/ma",
+    "copticWord": "ⲅⲉⲛⲛⲏⲙⲁ",
+    "englishTransliteration": "gennima",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "That which is produced or born, child, product, fruit",
+    "definition": "That which is produced or born, child, product, fruit"
+  }
+]

@@ -1,0 +1,649 @@
+[
+  {
+    "headword": "kolj=",
+    "copticWord": "ⲕⲟⲗϫ",
+    "englishTransliteration": "kolj",
+    "gloss": "To bend",
+    "definition": "To bend",
+    "crossReference": {
+      "target": "kwlj",
+      "gloss": "To bend"
+    }
+  },
+  {
+    "headword": "kom/",
+    "copticWord": "ⲕⲟⲙⲏ",
+    "englishTransliteration": "komi",
+    "variants": [
+      {
+        "word": "komi",
+        "copticWord": "ⲕⲟⲙⲓ",
+        "englishTransliteration": "komi"
+      }
+    ],
+    "reference": "110b",
+    "partOfSpeech": "m",
+    "gloss": "Gum",
+    "definition": "Gum"
+  },
+  {
+    "headword": "kom/c",
+    "copticWord": "ⲕⲟⲙⲏⲥ",
+    "englishTransliteration": "komis",
+    "gloss": "(Lat)",
+    "definition": "m. Governor, prince, count"
+  },
+  {
+    "headword": "komi",
+    "copticWord": "ⲕⲟⲙⲓ",
+    "englishTransliteration": "komi",
+    "gloss": "Gum",
+    "definition": "Gum",
+    "crossReference": {
+      "target": "kom/",
+      "gloss": "Gum"
+    }
+  },
+  {
+    "headword": "komopolic",
+    "copticWord": "ⲕⲟⲙⲟⲡⲟⲗⲓⲥ",
+    "englishTransliteration": "komopolis",
+    "reference": "Gk?",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "gloss": "Suburb, village, town",
+    "definition": "Suburb, village, town"
+  },
+  {
+    "headword": "klwili",
+    "copticWord": "ⲕⲗⲱⲓⲗⲓ",
+    "englishTransliteration": "klōili",
+    "reference": "104a",
+    "partOfSpeech": "f",
+    "gloss": "Caul, secundina",
+    "definition": "Caul, secundina"
+  },
+  {
+    "headword": "knikiji",
+    "copticWord": "ⲕⲛⲓⲕⲓϫⲓ",
+    "englishTransliteration": "knikeegi",
+    "reference": "111b",
+    "partOfSpeech": "f",
+    "gloss": "A vessel or measure for liquids",
+    "definition": "A vessel or measure for liquids"
+  },
+  {
+    "headword": "kob=",
+    "copticWord": "ⲕⲟⲃ",
+    "englishTransliteration": "kov",
+    "gloss": "To fold",
+    "definition": "To fold",
+    "crossReference": {
+      "target": "kwp",
+      "gloss": "To fold"
+    }
+  },
+  {
+    "headword": "kobh",
+    "copticWord": "ⲕⲟⲃϩ",
+    "englishTransliteration": "kovh",
+    "reference": "100a",
+    "partOfSpeech": "n",
+    "gloss": "Sinew, cord",
+    "definition": "Sinew, cord"
+  },
+  {
+    "headword": "koi",
+    "copticWord": "ⲕⲟⲓ",
+    "englishTransliteration": "koi",
+    "reference": "92b",
+    "partOfSpeech": "f",
+    "gloss": "Field",
+    "definition": "Field"
+  },
+  {
+    "headword": "ma nkoi",
+    "copticWord": "ⲙⲁ ⲛⲕⲟⲓ",
+    "englishTransliteration": "ma nkoi",
+    "partOfSpeech": "m",
+    "gloss": "Plain",
+    "definition": "Plain"
+  },
+  {
+    "headword": "remnkoi",
+    "copticWord": "ⲣⲉⲙⲛⲕⲟⲓ",
+    "englishTransliteration": "remnkoi",
+    "partOfSpeech": "m",
+    "gloss": "Husbandman, farmer",
+    "definition": "koidwn v. koitwn - Bed-chamber."
+  },
+  {
+    "headword": "koim/t/rion",
+    "copticWord": "ⲕⲟⲓⲙⲏⲧⲏⲣⲓⲟⲛ",
+    "englishTransliteration": "koimitirion",
+    "variants": [
+      {
+        "word": "kim",
+        "copticWord": "ⲕⲓⲙ",
+        "englishTransliteration": "kim"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Sleeping room",
+    "definition": "bedroom, burial place."
+  },
+  {
+    "headword": "koinia",
+    "copticWord": "ⲕⲟⲓⲛⲓⲁ",
+    "englishTransliteration": "koinia",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Dust, sand, ashes, quick-lime, plaster, stucco",
+    "definition": "Dust, sand, ashes, quick-lime, plaster, stucco"
+  },
+  {
+    "headword": "kon",
+    "copticWord": "ⲕⲟⲛ",
+    "englishTransliteration": "kon",
+    "gloss": "Relative suffix",
+    "definition": "Relative suffix",
+    "crossReference": {
+      "target": "(2)k/",
+      "gloss": "Relative suffix"
+    }
+  },
+  {
+    "headword": "koniza",
+    "copticWord": "ⲕⲟⲛⲓⲍⲁ",
+    "englishTransliteration": "koniza",
+    "variants": [
+      {
+        "word": "konuza",
+        "copticWord": "ⲕⲟⲛⲩⲍⲁ",
+        "englishTransliteration": "konyza"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "A kind of medi-cine, fleabane, inula viscosa",
+    "definition": "A kind of medi-cine, fleabane, inula viscosa"
+  },
+  {
+    "headword": "konuza",
+    "copticWord": "ⲕⲟⲛⲩⲍⲁ",
+    "englishTransliteration": "konyza",
+    "gloss": "Fleabane",
+    "definition": "Fleabane",
+    "crossReference": {
+      "target": "koniza",
+      "gloss": "Fleabane"
+    }
+  },
+  {
+    "headword": "koinwnia",
+    "copticWord": "ⲕⲟⲓⲛⲱⲛⲓⲁ",
+    "englishTransliteration": "koinōnia",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Communion, association, partnership",
+    "definition": "Communion, association, partnership"
+  },
+  {
+    "headword": "koinoc",
+    "copticWord": "ⲕⲟⲓⲛⲟⲥ",
+    "englishTransliteration": "koinos",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      }
+    ],
+    "partOfSpeech": "adj",
+    "gloss": "Common, general, ordinary",
+    "definition": "Common, general, ordinary"
+  },
+  {
+    "headword": "koitwn",
+    "copticWord": "ⲕⲟⲓⲧⲱⲛ",
+    "englishTransliteration": "koitōn",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      },
+      {
+        "word": "kitwn",
+        "copticWord": "ⲕⲓⲧⲱⲛ",
+        "englishTransliteration": "kitōn"
+      },
+      {
+        "word": "koidwn",
+        "copticWord": "ⲕⲟⲓⲇⲱⲛ",
+        "englishTransliteration": "koidōn"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Bed-chamber",
+    "definition": "Bed-chamber"
+  },
+  {
+    "headword": "koihi",
+    "copticWord": "ⲕⲟⲓϩⲓ",
+    "englishTransliteration": "koihi",
+    "gloss": "Sheath",
+    "definition": "Sheath",
+    "crossReference": {
+      "target": "kwih",
+      "gloss": "Sheath"
+    }
+  },
+  {
+    "headword": "kopria",
+    "copticWord": "ⲕⲟⲡⲣⲓⲁ",
+    "englishTransliteration": "kopria",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Dunghill, rubbish heap, refuse, manure",
+    "definition": "Dunghill, rubbish heap, refuse, manure"
+  },
+  {
+    "headword": "koprit/c",
+    "copticWord": "ⲕⲟⲡⲣⲓⲧⲏⲥ",
+    "englishTransliteration": "kopritis",
+    "variants": [
+      {
+        "word": "-/n",
+        "copticWord": "-ⲏⲛ",
+        "englishTransliteration": "-in"
+      }
+    ],
+    "reference": "Gk?",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "gloss": "Trash-carrier",
+    "definition": "Trash-carrier"
+  },
+  {
+    "headword": "kopcin",
+    "copticWord": "ⲕⲟⲡⲥⲓⲛ",
+    "englishTransliteration": "kopsin",
+    "reference": "Gk?",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Gypsium",
+    "definition": "Gypsium"
+  },
+  {
+    "headword": "korban",
+    "copticWord": "ⲕⲟⲣⲃⲁⲛ",
+    "englishTransliteration": "korvan",
+    "gloss": "(Heb)",
+    "definition": "m. Gift, votive offering for the service of God"
+  },
+  {
+    "headword": "korbi",
+    "copticWord": "ⲕⲟⲣⲃⲓ",
+    "englishTransliteration": "korvi",
+    "gloss": "Sickle",
+    "definition": "Sickle",
+    "crossReference": {
+      "target": ",robi",
+      "gloss": "Sickle"
+    }
+  },
+  {
+    "headword": "kori",
+    "copticWord": "ⲕⲟⲣⲓ",
+    "englishTransliteration": "kori",
+    "reference": "115b",
+    "partOfSpeech": "n",
+    "gloss": "Skylight, trap-door",
+    "definition": "Skylight, trap-door"
+  },
+  {
+    "headword": "koriandron",
+    "copticWord": "ⲕⲟⲣⲓⲁⲛⲇⲣⲟⲛ",
+    "englishTransliteration": "koriandron",
+    "variants": [
+      {
+        "word": "koliantron",
+        "copticWord": "ⲕⲟⲗⲓⲁⲛⲧⲣⲟⲛ",
+        "englishTransliteration": "koliantron"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "gloss": "Coriander, coriandrum sativum (plant or seed)",
+    "definition": "Coriander, coriandrum sativum (plant or seed)"
+  },
+  {
+    "headword": "kok=",
+    "copticWord": "ⲕⲟⲕ",
+    "englishTransliteration": "kok",
+    "gloss": "To peel",
+    "definition": "To peel",
+    "crossReference": {
+      "target": "kwk",
+      "gloss": "To peel"
+    }
+  },
+  {
+    "headword": "kol=",
+    "copticWord": "ⲕⲟⲗ",
+    "englishTransliteration": "kol",
+    "gloss": "To return",
+    "definition": "To return",
+    "crossReference": {
+      "target": "jwl",
+      "gloss": "To return"
+    }
+  },
+  {
+    "headword": "kolazin",
+    "copticWord": "ⲕⲟⲗⲁⲍⲓⲛ",
+    "englishTransliteration": "kolazin",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "(w/ er-) vb. To check, chastise, punish",
+    "definition": "(w/ er-) vb. To check, chastise, punish"
+  },
+  {
+    "headword": "kolakeia",
+    "copticWord": "ⲕⲟⲗⲁⲕⲉⲓⲁ",
+    "englishTransliteration": "kolakia",
+    "variants": [
+      {
+        "word": "-kia",
+        "copticWord": "-ⲕⲓⲁ",
+        "englishTransliteration": "-kia"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Flattery, fawning",
+    "definition": "Flattery, fawning"
+  },
+  {
+    "headword": "kolakia",
+    "copticWord": "ⲕⲟⲗⲁⲕⲓⲁ",
+    "englishTransliteration": "kolakia",
+    "gloss": "Flattery",
+    "definition": "Flattery",
+    "crossReference": {
+      "target": "kolakeia",
+      "gloss": "Flattery"
+    }
+  },
+  {
+    "headword": "korkc",
+    "copticWord": "ⲕⲟⲣⲕⲥ",
+    "englishTransliteration": "korks",
+    "reference": "115b",
+    "partOfSpeech": "n",
+    "gloss": "An iron instrument",
+    "definition": "An iron instrument"
+  },
+  {
+    "headword": "koliantron",
+    "copticWord": "ⲕⲟⲗⲓⲁⲛⲧⲣⲟⲛ",
+    "englishTransliteration": "koliantron",
+    "gloss": "Coriander",
+    "definition": "Coriander",
+    "crossReference": {
+      "target": "koriandron",
+      "gloss": "Coriander"
+    }
+  },
+  {
+    "headword": "kolkel",
+    "copticWord": "ⲕⲟⲗⲕⲉⲗ",
+    "englishTransliteration": "kolkel",
+    "reference": "103a",
+    "partOfSpeech": "n",
+    "gloss": "Clay, mud",
+    "definition": "Clay, mud"
+  },
+  {
+    "headword": "kollarion",
+    "copticWord": "ⲕⲟⲗⲗⲁⲣⲓⲟⲛ",
+    "englishTransliteration": "kollarion",
+    "gloss": "(lat)",
+    "definition": "m. Ring, collar."
+  },
+  {
+    "headword": "koroc",
+    "copticWord": "ⲕⲟⲣⲟⲥ",
+    "englishTransliteration": "koros",
+    "gloss": "(Heb)",
+    "definition": "m. Kor (a dry measure)"
+  },
+  {
+    "headword": "korten",
+    "copticWord": "ⲕⲟⲣⲧⲉⲛ",
+    "englishTransliteration": "korten",
+    "variants": [
+      {
+        "word": "orten",
+        "copticWord": "ⲟⲣⲧⲉⲛ",
+        "englishTransliteration": "orten"
+      }
+    ],
+    "reference": "117b",
+    "partOfSpeech": "m",
+    "gloss": "house-leek",
+    "definition": "house-leek"
+  },
+  {
+    "headword": "korou",
+    "copticWord": "ⲕⲟⲣⲟⲩ",
+    "englishTransliteration": "korou",
+    "reference": "115b",
+    "partOfSpeech": "m",
+    "gloss": "A coin (probably less than a carat)",
+    "definition": "A coin (probably less than a carat)"
+  },
+  {
+    "headword": "korf=",
+    "copticWord": "ⲕⲟⲣϥ",
+    "englishTransliteration": "korf",
+    "gloss": "To cancel",
+    "definition": "To cancel",
+    "crossReference": {
+      "target": "kwrf",
+      "gloss": "To cancel"
+    }
+  },
+  {
+    "headword": "korj=",
+    "copticWord": "ⲕⲟⲣϫ",
+    "englishTransliteration": "korj",
+    "gloss": "To cut down",
+    "definition": "To cut down",
+    "crossReference": {
+      "target": "kwrj",
+      "gloss": "To cut down"
+    }
+  },
+  {
+    "headword": "koc",
+    "copticWord": "ⲕⲟⲥ",
+    "englishTransliteration": "kos",
+    "gloss": "Relative suffix",
+    "definition": "Relative suffix",
+    "crossReference": {
+      "target": "(2)k/",
+      "gloss": "Relative suffix"
+    }
+  },
+  {
+    "headword": "koc=",
+    "copticWord": "ⲕⲟⲥ",
+    "englishTransliteration": "kos",
+    "gloss": "To bury",
+    "definition": "To bury",
+    "crossReference": {
+      "target": "kwc",
+      "gloss": "To bury"
+    }
+  },
+  {
+    "headword": "kolovwnia",
+    "copticWord": "ⲕⲟⲗⲟⲫⲱⲛⲓⲁ",
+    "englishTransliteration": "kolofōnia",
+    "variants": [
+      {
+        "word": "klamv",
+        "copticWord": "ⲕⲗⲁⲙⲫ",
+        "englishTransliteration": "klamf"
+      },
+      {
+        "word": "kalabonia",
+        "copticWord": "ⲕⲁⲗⲁⲃⲟⲛⲓⲁ",
+        "englishTransliteration": "kalavonia"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Colophonian gum, resin",
+    "definition": "Colophonian gum, resin"
+  },
+  {
+    "headword": "kolp=",
+    "copticWord": "ⲕⲟⲗⲡ",
+    "englishTransliteration": "kolp",
+    "gloss": "To steal",
+    "definition": "To steal",
+    "crossReference": {
+      "target": "kwlp",
+      "gloss": "To steal"
+    }
+  },
+  {
+    "headword": "kolpoc",
+    "copticWord": "ⲕⲟⲗⲡⲟⲥ",
+    "englishTransliteration": "kolpos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Bosom",
+    "definition": "bay, gulf"
+  },
+  {
+    "headword": "kolpc",
+    "copticWord": "ⲕⲟⲗⲡⲥ",
+    "englishTransliteration": "kolps",
+    "gloss": "Theft",
+    "definition": "Theft",
+    "crossReference": {
+      "target": "kwlp",
+      "gloss": "Theft"
+    }
+  },
+  {
+    "headword": "koltaq",
+    "copticWord": "ⲕⲟⲗⲧⲁϧ",
+    "englishTransliteration": "koltakh",
+    "reference": "106a",
+    "partOfSpeech": "m",
+    "gloss": "Colocasia, water plant",
+    "definition": "Colocasia, water plant"
+  },
+  {
+    "headword": "kolumb/yra",
+    "copticWord": "ⲕⲟⲗⲩⲙⲃⲏⲑⲣⲁ",
+    "englishTransliteration": "kolymvithra",
+    "variants": [
+      {
+        "word": "kwl",
+        "copticWord": "ⲕⲱⲗ",
+        "englishTransliteration": "kōl"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Place of diving, swimming pool, reservoir, cistern, baptismal font",
+    "definition": "Place of diving, swimming pool, reservoir, cistern, baptismal font"
+  },
+  {
+    "headword": "kolhot",
+    "copticWord": "ⲕⲟⲗϩⲟⲧ",
+    "englishTransliteration": "kolhot",
+    "gloss": "A fish",
+    "definition": "A fish",
+    "crossReference": {
+      "target": "koulhot",
+      "gloss": "A fish"
+    }
+  },
+  {
+    "headword": "kockec ebol",
+    "copticWord": "ⲕⲟⲥⲕⲉⲥ ⲉⲃⲟⲗ",
+    "englishTransliteration": "koskes evol",
+    "variants": [
+      {
+        "word": "keckwc=",
+        "copticWord": "ⲕⲉⲥⲕⲱⲥ",
+        "englishTransliteration": "keskōs"
+      }
+    ],
+    "reference": "121b",
+    "gloss": "vt. To stretch out, extend",
+    "definition": "vt. To stretch out, extend"
+  },
+  {
+    "headword": "kocm/cic",
+    "copticWord": "ⲕⲟⲥⲙⲏⲥⲓⲥ",
+    "englishTransliteration": "kosmisis",
+    "gloss": "Arrangement",
+    "definition": "Arrangement",
+    "crossReference": {
+      "target": "kocmoc",
+      "gloss": "Arrangement"
+    }
+  },
+  {
+    "headword": "kocmokratwr",
+    "copticWord": "ⲕⲟⲥⲙⲟⲕⲣⲁⲧⲱⲣ",
+    "englishTransliteration": "kosmokratōr",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Lord of the world, ruler of the planet",
+    "definition": "Lord of the world, ruler of the planet"
+  },
+  {
+    "headword": "kocmoc",
+    "copticWord": "ⲕⲟⲥⲙⲟⲥ",
+    "englishTransliteration": "kosmos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "World, government, universe, order",
+    "definition": "ornament, decoration;"
+  },
+  {
+    "headword": "kolht",
+    "copticWord": "ⲕⲟⲗϩⲧ",
+    "englishTransliteration": "kolht",
+    "gloss": "A fish",
+    "definition": "A fish",
+    "crossReference": {
+      "target": "koulhot",
+      "gloss": "A fish"
+    }
+  }
+]

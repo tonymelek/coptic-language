@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@theme {
+  --color-burgundy-50: #fdf2f4;
+  --color-burgundy-100: #fbe5e9;
+  --color-burgundy-700: #722f37;
+  --color-burgundy-800: #5a242a;
+  --color-burgundy-900: #4a1521;
+  --color-gold: #d4af37;
+  --color-gold-hover: #f0c842;
+  --color-liturgical-gold: #d4af37;
+  /* Tailwind v4: --font-<name> → font-<name> utility */
+  --font-coptic: "CopticFont", sans-serif;
+  --font-arabic: -apple-system, BlinkMacSystemFont, "Geeza Pro", "Arabic Typesetting", "ArabicFont", Arial, sans-serif;
+}
+
+@font-face {
+  font-family: "CopticFont";
+  src: url("./assets/fonts/coptic.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "ArabicFont";
+  src: url("./assets/fonts/arabic.woff") format("woff");
+  font-display: swap;
+}
+
+body {
+  @apply antialiased bg-slate-50 text-slate-900;
+}

@@ -1,0 +1,619 @@
+[
+  {
+    "headword": "aligwn",
+    "copticWord": "ⲁⲗⲓⲅⲱⲛ",
+    "englishTransliteration": "aligōn",
+    "reference": "Gk?",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "A kind of candy or sweets",
+    "definition": "A kind of candy or sweets"
+  },
+  {
+    "headword": "aloli",
+    "copticWord": "ⲁⲗⲟⲗⲓ",
+    "englishTransliteration": "aloli",
+    "variants": [
+      {
+        "word": "al",
+        "copticWord": "ⲁⲗ",
+        "englishTransliteration": "al"
+      },
+      {
+        "word": "el",
+        "copticWord": "ⲉⲗ",
+        "englishTransliteration": "el"
+      },
+      {
+        "word": "leli",
+        "copticWord": "ⲗⲉⲗⲓ",
+        "englishTransliteration": "leli"
+      }
+    ],
+    "reference": "54b",
+    "partOfSpeech": "m",
+    "gloss": "& sg as pl. Grape, vine",
+    "definition": "& sg as pl. Grape, vine",
+    "senses": [
+      {
+        "label": "alswou",
+        "partOfSpeech": "m",
+        "gloss": "Raisen",
+        "definition": "Raisen"
+      },
+      {
+        "label": "bw naloli",
+        "partOfSpeech": "f",
+        "gloss": "Vine",
+        "definition": "Vine"
+      },
+      {
+        "label": "lele",
+        "partOfSpeech": "m",
+        "gloss": "Bruise",
+        "definition": "Bruise"
+      },
+      {
+        "label": "ma naloli",
+        "partOfSpeech": "m",
+        "gloss": "Vineyard",
+        "definition": "Vineyard"
+      }
+    ]
+  },
+  {
+    "headword": "alil",
+    "copticWord": "ⲁⲗⲓⲗ",
+    "englishTransliteration": "alil",
+    "variants": [
+      {
+        "word": "alili",
+        "copticWord": "ⲁⲗⲓⲗⲓ",
+        "englishTransliteration": "alili"
+      }
+    ],
+    "reference": "6a",
+    "partOfSpeech": "m",
+    "gloss": "Field mouse",
+    "definition": "Field mouse"
+  },
+  {
+    "headword": "alili",
+    "copticWord": "ⲁⲗⲓⲗⲓ",
+    "englishTransliteration": "alili",
+    "gloss": "Field mouse",
+    "definition": "Field mouse",
+    "crossReference": {
+      "target": "alil",
+      "gloss": "Field mouse"
+    }
+  },
+  {
+    "headword": "aliyinon",
+    "copticWord": "ⲁⲗⲓⲑⲓⲛⲟⲛ",
+    "englishTransliteration": "alithinon",
+    "gloss": "True",
+    "definition": "True",
+    "crossReference": {
+      "target": "al/yinoc",
+      "gloss": "True"
+    }
+  },
+  {
+    "headword": "alit=",
+    "copticWord": "ⲁⲗⲓⲧ",
+    "englishTransliteration": "alit",
+    "gloss": "Hold",
+    "definition": "Hold",
+    "crossReference": {
+      "target": "wli",
+      "gloss": "Hold"
+    }
+  },
+  {
+    "headword": "alioui",
+    "copticWord": "ⲁⲗⲓⲟⲩⲓ",
+    "englishTransliteration": "alioui",
+    "gloss": "Hold",
+    "definition": "Hold",
+    "crossReference": {
+      "target": "wli",
+      "gloss": "Hold"
+    }
+  },
+  {
+    "headword": "aloj",
+    "copticWord": "ⲁⲗⲟϫ",
+    "englishTransliteration": "aloj",
+    "variants": [
+      {
+        "type": "pl.",
+        "word": "alwj",
+        "copticWord": "ⲁⲗⲱϫ",
+        "englishTransliteration": "alōj"
+      }
+    ],
+    "reference": "7a",
+    "partOfSpeech": "m",
+    "gloss": "Arms (pl)",
+    "definition": "knees (pl); shoulder (pl); thigh."
+  },
+  {
+    "headword": "aliji",
+    "copticWord": "ⲁⲗⲓϫⲓ",
+    "englishTransliteration": "aleegi",
+    "reference": "6b",
+    "partOfSpeech": "m",
+    "gloss": "Fuller's earth",
+    "definition": "Fuller's earth"
+  },
+  {
+    "headword": "alou",
+    "copticWord": "ⲁⲗⲟⲩ",
+    "englishTransliteration": "alou",
+    "variants": [
+      {
+        "type": "pl.",
+        "word": "alwoui",
+        "copticWord": "ⲁⲗⲱⲟⲩⲓ",
+        "englishTransliteration": "alōoui"
+      }
+    ],
+    "reference": "5a",
+    "partOfSpeech": "mf",
+    "gloss": "Youth, boy, girl, maiden, servant",
+    "definition": "Youth, boy, girl, maiden, servant",
+    "senses": [
+      {
+        "label": "metalou",
+        "partOfSpeech": "f",
+        "gloss": "Time of youth, youthfulness",
+        "definition": "metrefqatebalou: m. Child-slaying;"
+      },
+      {
+        "label": "eralou",
+        "partOfSpeech": "vb",
+        "gloss": "To be young",
+        "definition": "To be young"
+      }
+    ]
+  },
+  {
+    "headword": "alke",
+    "copticWord": "ⲁⲗⲕⲉ",
+    "englishTransliteration": "alke",
+    "variants": [
+      {
+        "word": "alk/",
+        "copticWord": "ⲁⲗⲕⲏ",
+        "englishTransliteration": "alki"
+      }
+    ],
+    "reference": "5b",
+    "partOfSpeech": "m",
+    "gloss": "Last day of the month",
+    "definition": "Last day of the month"
+  },
+  {
+    "headword": "alk/",
+    "copticWord": "ⲁⲗⲕⲏ",
+    "englishTransliteration": "alki",
+    "gloss": "A pottery vessel",
+    "definition": "A pottery vessel",
+    "crossReference": {
+      "target": "akl/",
+      "gloss": "A pottery vessel"
+    }
+  },
+  {
+    "headword": "alkoproc",
+    "copticWord": "ⲁⲗⲕⲟⲡⲣⲟⲥ",
+    "englishTransliteration": "alkopros",
+    "reference": "Gk?",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "A brittle metal used in making red ink",
+    "definition": "A brittle metal used in making red ink"
+  },
+  {
+    "headword": "alkou",
+    "copticWord": "ⲁⲗⲕⲟⲩ",
+    "englishTransliteration": "alkou",
+    "reference": "5b",
+    "partOfSpeech": "f",
+    "gloss": "Flask",
+    "definition": "Flask"
+  },
+  {
+    "headword": "aloubeh",
+    "copticWord": "ⲁⲗⲟⲩⲃⲉϩ",
+    "englishTransliteration": "alouveh",
+    "reference": "3b",
+    "partOfSpeech": "n",
+    "gloss": "A white shining spot",
+    "definition": "A white shining spot"
+  },
+  {
+    "headword": "alla",
+    "copticWord": "ⲁⲗⲗⲁ",
+    "englishTransliteration": "alla",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "conj. But",
+    "definition": "conj. But",
+    "senses": [
+      {
+        "label": "allakai",
+        "gloss": "But also",
+        "definition": "But also"
+      }
+    ]
+  },
+  {
+    "headword": "allenoc",
+    "copticWord": "ⲁⲗⲗⲉⲛⲟⲥ",
+    "englishTransliteration": "allenos",
+    "reference": "Gk?",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "A certain kind of trees",
+    "definition": "A certain kind of trees"
+  },
+  {
+    "headword": "alva",
+    "copticWord": "ⲁⲗⲫⲁ",
+    "englishTransliteration": "alfa",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "1st letter of the alphabet",
+    "definition": "1st letter of the alphabet"
+  },
+  {
+    "headword": "alvab/toc",
+    "copticWord": "ⲁⲗⲫⲁⲃⲏⲧⲟⲥ",
+    "englishTransliteration": "alfavitos",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "The alphabet",
+    "definition": "The alphabet"
+  },
+  {
+    "headword": "alvab/tarion",
+    "copticWord": "ⲁⲗⲫⲁⲃⲏⲧⲁⲣⲓⲟⲛ",
+    "englishTransliteration": "alfavitarion",
+    "partOfSpeech": "m",
+    "gloss": "Pronunciation book, elementary reading book",
+    "definition": "Pronunciation book, elementary reading book"
+  },
+  {
+    "headword": "all/goria",
+    "copticWord": "ⲁⲗⲗⲏⲅⲟⲣⲓⲁ",
+    "englishTransliteration": "alligoria",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Allegory",
+    "definition": "Allegory"
+  },
+  {
+    "headword": "all/louia",
+    "copticWord": "ⲁⲗⲗⲏⲗⲟⲩⲓⲁ",
+    "englishTransliteration": "allilouia",
+    "gloss": "(heb)",
+    "definition": "Hallelujah, praise God."
+  },
+  {
+    "headword": "alvab/ton",
+    "copticWord": "ⲁⲗⲫⲁⲃⲏⲧⲟⲛ",
+    "englishTransliteration": "alfaviton",
+    "gloss": "Alphabet",
+    "definition": "Alphabet",
+    "crossReference": {
+      "target": "alva",
+      "gloss": "Alphabet"
+    }
+  },
+  {
+    "headword": "allogen/c",
+    "copticWord": "ⲁⲗⲗⲟⲅⲉⲛⲏⲥ",
+    "englishTransliteration": "allogenis",
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Stranger, of another race",
+    "definition": "Stranger, of another race"
+  },
+  {
+    "headword": "(1) allo/",
+    "copticWord": "ⲁⲗⲗⲟⲏ",
+    "englishTransliteration": "alloi",
+    "reference": "6a",
+    "partOfSpeech": "m",
+    "gloss": "Salamandar",
+    "definition": "an eastern bird."
+  },
+  {
+    "headword": "alwm",
+    "copticWord": "ⲁⲗⲱⲙ",
+    "englishTransliteration": "alōm",
+    "reference": "670a",
+    "partOfSpeech": "m",
+    "gloss": "Cheese",
+    "definition": "Cheese"
+  },
+  {
+    "headword": "alwou",
+    "copticWord": "ⲁⲗⲱⲟⲩ",
+    "englishTransliteration": "alōou",
+    "variants": [
+      {
+        "word": "-oui",
+        "copticWord": "-ⲟⲩⲓ",
+        "englishTransliteration": "-oui"
+      }
+    ],
+    "reference": "6b",
+    "gloss": "pl. Bunch (of grapes)",
+    "definition": "pl. Bunch (of grapes)"
+  },
+  {
+    "headword": "(2) allo/",
+    "copticWord": "ⲁⲗⲗⲟⲏ",
+    "englishTransliteration": "alloi",
+    "reference": "Gk?",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "A plant",
+    "definition": "A plant"
+  },
+  {
+    "headword": "alwoui",
+    "copticWord": "ⲁⲗⲱⲟⲩⲓ",
+    "englishTransliteration": "alōoui",
+    "gloss": "Youth",
+    "definition": "Youth",
+    "crossReference": {
+      "target": "alou",
+      "gloss": "Youth"
+    }
+  },
+  {
+    "headword": "alloki",
+    "copticWord": "ⲁⲗⲗⲟⲕⲓ",
+    "englishTransliteration": "alloki",
+    "gloss": "Banana",
+    "definition": "Banana",
+    "crossReference": {
+      "target": "allwki",
+      "gloss": "Banana"
+    }
+  },
+  {
+    "headword": "allou",
+    "copticWord": "ⲁⲗⲗⲟⲩ",
+    "englishTransliteration": "allou",
+    "reference": "5a",
+    "partOfSpeech": "f",
+    "gloss": "Eye's pupil",
+    "definition": "Eye's pupil"
+  },
+  {
+    "headword": "alwj",
+    "copticWord": "ⲁⲗⲱϫ",
+    "englishTransliteration": "alōj",
+    "gloss": "Arms",
+    "definition": "Arms",
+    "crossReference": {
+      "target": "aloj",
+      "gloss": "Arms"
+    }
+  },
+  {
+    "headword": "allotrion",
+    "copticWord": "ⲁⲗⲗⲟⲧⲣⲓⲟⲛ",
+    "englishTransliteration": "allotrion",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Unknown",
+    "definition": "Unknown"
+  },
+  {
+    "headword": "alswou",
+    "copticWord": "ⲁⲗϣⲱⲟⲩ",
+    "englishTransliteration": "alshōou",
+    "gloss": "Raisin",
+    "definition": "Raisin",
+    "crossReference": {
+      "target": "aloli",
+      "gloss": "Raisin"
+    }
+  },
+  {
+    "headword": "alaji",
+    "copticWord": "ⲁⲗⲁϫⲓ",
+    "englishTransliteration": "alaji",
+    "reference": "6b",
+    "gloss": "pl. Whales",
+    "definition": "pl. Whales"
+  },
+  {
+    "headword": "allovuloc",
+    "copticWord": "ⲁⲗⲗⲟⲫⲩⲗⲟⲥ",
+    "englishTransliteration": "allofylos",
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Of another tribe, foreign, strange",
+    "definition": "of a different kind."
+  },
+  {
+    "headword": "amaiou",
+    "copticWord": "ⲁⲙⲁⲓⲟⲩ",
+    "englishTransliteration": "amaiou",
+    "gloss": "Seas",
+    "definition": "Seas",
+    "crossReference": {
+      "target": "iom",
+      "gloss": "Seas"
+    }
+  },
+  {
+    "headword": "allwk/",
+    "copticWord": "ⲁⲗⲗⲱⲕⲏ",
+    "englishTransliteration": "allōki",
+    "gloss": "Banana",
+    "definition": "Banana",
+    "crossReference": {
+      "target": "allwki",
+      "gloss": "Banana"
+    }
+  },
+  {
+    "headword": "am",
+    "copticWord": "ⲁⲙ",
+    "englishTransliteration": "am",
+    "gloss": "- Craftsman",
+    "definition": "- Craftsman",
+    "crossReference": {
+      "target": "ham",
+      "gloss": "- Craftsman"
+    }
+  },
+  {
+    "headword": "allwki",
+    "copticWord": "ⲁⲗⲗⲱⲕⲓ",
+    "englishTransliteration": "allōki",
+    "variants": [
+      {
+        "word": "-wk/",
+        "copticWord": "-ⲱⲕⲏ",
+        "englishTransliteration": "-ōki"
+      },
+      {
+        "word": "-oki",
+        "copticWord": "-ⲟⲕⲓ",
+        "englishTransliteration": "-oki"
+      }
+    ],
+    "reference": "6a",
+    "partOfSpeech": "m",
+    "gloss": "Banana",
+    "definition": "Banana"
+  },
+  {
+    "headword": "amal/j",
+    "copticWord": "ⲁⲙⲁⲗⲏϫ",
+    "englishTransliteration": "amalij",
+    "reference": "7b",
+    "gloss": "vi. Embrace",
+    "definition": "vi. Embrace",
+    "senses": [
+      {
+        "label": "jineramal/j",
+        "partOfSpeech": "m",
+        "gloss": "Act of embracing",
+        "definition": "Act of embracing"
+      }
+    ]
+  },
+  {
+    "headword": "alogon",
+    "copticWord": "ⲁⲗⲟⲅⲟⲛ",
+    "englishTransliteration": "alogon",
+    "gloss": "Irrational",
+    "definition": "Irrational",
+    "crossReference": {
+      "target": "alogoc",
+      "gloss": "Irrational"
+    }
+  },
+  {
+    "headword": "alogoc",
+    "copticWord": "ⲁⲗⲟⲅⲟⲥ",
+    "englishTransliteration": "alogos",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Speechless, unutterable, irrational, absurd",
+    "definition": "Speechless, unutterable, irrational, absurd"
+  },
+  {
+    "headword": "amahi",
+    "copticWord": "ⲁⲙⲁϩⲓ",
+    "englishTransliteration": "amahi",
+    "reference": "9a",
+    "gloss": "vi. To prevail, rule, be in possession, lay hold on, restrain",
+    "definition": "vt. To grasp, embrace, possess, restrict, detain;",
+    "senses": [
+      {
+        "label": "ejen",
+        "partOfSpeech": "vb",
+        "gloss": "To rule have power over",
+        "definition": "To rule have power over"
+      },
+      {
+        "label": "nem",
+        "partOfSpeech": "vb",
+        "gloss": "To hold with, support",
+        "definition": "To hold with, support"
+      },
+      {
+        "label": "hijen",
+        "partOfSpeech": "vb",
+        "gloss": "To hold back, detain",
+        "definition": "To hold back, detain"
+      }
+    ]
+  },
+  {
+    "headword": "alo/",
+    "copticWord": "ⲁⲗⲟⲏ",
+    "englishTransliteration": "aloi",
+    "variants": [
+      {
+        "word": "-/c",
+        "copticWord": "-ⲏⲥ",
+        "englishTransliteration": "-is"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "The aloe",
+    "definition": "The aloe"
+  },
+  {
+    "headword": "alo/c",
+    "copticWord": "ⲁⲗⲟⲏⲥ",
+    "englishTransliteration": "alois",
+    "gloss": "Aloe",
+    "definition": "Aloe",
+    "crossReference": {
+      "target": "alo/",
+      "gloss": "Aloe"
+    }
+  },
+  {
+    "headword": "alok",
+    "copticWord": "ⲁⲗⲟⲕ",
+    "englishTransliteration": "alok",
+    "reference": "5b",
+    "partOfSpeech": "m",
+    "gloss": "Corner, angle",
+    "definition": "Corner, angle"
+  }
+]

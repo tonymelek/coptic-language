@@ -1,0 +1,325 @@
+[
+  {
+    "headword": "o",
+    "copticWord": "ⲟ",
+    "englishTransliteration": "o",
+    "reference": "253a",
+    "gloss": "The 15th letter of the Coptic Alphabet",
+    "definition": "The 15th letter of the Coptic Alphabet",
+    "senses": [
+      {
+        "label": "o",
+        "gloss": "The numeral 'seventy'",
+        "definition": "The numeral 'seventy'"
+      }
+    ]
+  },
+  {
+    "headword": "(1) o",
+    "copticWord": "ⲟ",
+    "englishTransliteration": "o",
+    "variants": [
+      {
+        "word": "w",
+        "copticWord": "ⲱ",
+        "englishTransliteration": "ō"
+      }
+    ],
+    "reference": "253a",
+    "partOfSpeech": "adj",
+    "gloss": "Great",
+    "definition": "Great",
+    "senses": [
+      {
+        "label": "(2)",
+        "gloss": "o: def. art. m. in Greek words only. obi (Q) v. ibi - To be thirsty. obs= v. wbs - To forget. obs (Q) v. wbs - To be forgotten. oeis v. wis - Cry",
+        "definition": "o: def. art. m. in Greek words only. obi (Q) v. ibi - To be thirsty. obs= v. wbs - To forget. obs (Q) v. wbs - To be forgotten. oeis v. wis - Cry"
+      },
+      {
+        "label": "oyen",
+        "reference": "Gk",
+        "partOfSpeech": "adv",
+        "gloss": "Whence, where, whither. oi (Q) v. aiai - Great",
+        "definition": "Whence, where, whither. oi (Q) v. aiai - Great",
+        "isGreek": true
+      },
+      {
+        "gloss": "oi (Q) v. iri - To be doing",
+        "definition": "oi (Q) v. iri - To be doing"
+      },
+      {
+        "label": "oikonomia",
+        "reference": "Gk",
+        "partOfSpeech": "f",
+        "gloss": "Management of a household or family, husbandry, thrift, regulation",
+        "definition": "economy; oikonomoc: m. one who manages a household; manager, administrator, economist; eroikonomin: vb. To manage, administrate, economize, regulate.",
+        "isGreek": true
+      },
+      {
+        "label": "oikonomoc",
+        "gloss": "Manager. oikoumen/, oikomen/: (Gk)",
+        "definition": "f. Inhabited region, the world."
+      },
+      {
+        "label": "oikoumenikoc",
+        "partOfSpeech": "adj",
+        "gloss": "Ecumenical, open to the whole world",
+        "definition": "Ecumenical, open to the whole world"
+      },
+      {
+        "label": "oili",
+        "gloss": "Ram",
+        "definition": "Ram"
+      },
+      {
+        "gloss": "okem (Q) v. wkem - To be dark",
+        "definition": "okem (Q) v. wkem - To be dark"
+      },
+      {
+        "label": "oktwbrioc",
+        "reference": "Gk",
+        "partOfSpeech": "n",
+        "gloss": "The month 'October'. ol= v. wli - To hold",
+        "definition": "The month 'October'. ol= v. wli - To hold",
+        "isGreek": true
+      },
+      {
+        "label": "ol",
+        "gloss": "To be contained",
+        "definition": "To be contained"
+      },
+      {
+        "label": "olk=",
+        "gloss": "To become bent",
+        "definition": "To become bent"
+      },
+      {
+        "gloss": "olk (Q) v. wlk - To become bent",
+        "definition": "olk (Q) v. wlk - To become bent"
+      },
+      {
+        "label": "oloc/rikoc",
+        "reference": "Gk",
+        "partOfSpeech": "n",
+        "gloss": "Silk, of silk",
+        "definition": "Silk, of silk",
+        "isGreek": true
+      },
+      {
+        "label": "olocirikon",
+        "gloss": "Silk. omi: (254b)",
+        "definition": "mf. Clay, mud;"
+      },
+      {
+        "label": "oi nomi",
+        "partOfSpeech": "vb",
+        "gloss": "To become clay, mud",
+        "definition": "ouamomi: f. Earth-eater; jajomi: pl. Metal agricultural tool. omk= v. wmk - To swallow."
+      },
+      {
+        "label": "omolog/t/c",
+        "gloss": "Confessor. omologia, -goia, homologia: f. Agreement, vow, confession",
+        "definition": "omolog/t/c, -git/c, homolog/t/c: m. Sponsor, confessor; eromologin, eromologoin,"
+      },
+      {
+        "label": "erhomologoin",
+        "partOfSpeech": "vb",
+        "gloss": "To confess. omologit/c v. omologia - Confessor. omologoia v. omologia - Confession. omoiwc v. omoc - Like",
+        "definition": "To confess. omologit/c v. omologia - Confessor. omologoia v. omologia - Confession. omoiwc v. omoc - Like"
+      },
+      {
+        "label": "omoc",
+        "reference": "Gk",
+        "gloss": "Like, resembling",
+        "definition": "the same; equal; likewise, similar.",
+        "isGreek": true
+      },
+      {
+        "label": "omc",
+        "gloss": "To dip",
+        "definition": "To dip"
+      },
+      {
+        "label": "omc=",
+        "gloss": "To dip",
+        "definition": "To dip"
+      }
+    ]
+  },
+  {
+    "headword": "on",
+    "copticWord": "ⲟⲛ",
+    "englishTransliteration": "on",
+    "reference": "255b",
+    "partOfSpeech": "adv",
+    "gloss": "Again, also, still",
+    "definition": "further; yet"
+  },
+  {
+    "headword": "onoma",
+    "copticWord": "ⲟⲛⲟⲙⲁ",
+    "englishTransliteration": "onoma",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Name, title",
+    "definition": "Name, title"
+  },
+  {
+    "headword": "onomati",
+    "copticWord": "ⲟⲛⲟⲙⲁⲧⲓ",
+    "englishTransliteration": "onomati",
+    "gloss": "In the name",
+    "definition": "In the name"
+  },
+  {
+    "headword": "onux",
+    "copticWord": "ⲟⲛⲩⲝ",
+    "englishTransliteration": "onyks",
+    "gloss": "Onyx",
+    "definition": "Onyx",
+    "crossReference": {
+      "target": "onu,ion",
+      "gloss": "Onyx"
+    }
+  },
+  {
+    "headword": "onu",
+    "copticWord": "ⲟⲛⲩ",
+    "englishTransliteration": "ony",
+    "variants": [
+      {
+        "word": "ion",
+        "copticWord": "ⲓⲟⲛ",
+        "englishTransliteration": "ion"
+      },
+      {
+        "word": "onux",
+        "copticWord": "ⲟⲛⲩⲝ",
+        "englishTransliteration": "onyks"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "A kind of onyx (a white precious stone)",
+    "definition": "claw; pig's trotters"
+  },
+  {
+    "headword": "ons (Q)",
+    "copticWord": "ⲟⲛϣ (Ϧ)",
+    "englishTransliteration": "onsh (Kh)",
+    "reference": "525a",
+    "gloss": "vi. To be astonished, dazed",
+    "definition": "vi. To be astonished, dazed"
+  },
+  {
+    "headword": "--- ebol",
+    "copticWord": "--- ⲉⲃⲟⲗ",
+    "englishTransliteration": "--- evol",
+    "partOfSpeech": "vb",
+    "gloss": "To gape, muse, be in trance",
+    "definition": "To gape, muse, be in trance"
+  },
+  {
+    "headword": "onq=",
+    "copticWord": "ⲟⲛϧ",
+    "englishTransliteration": "onkh",
+    "gloss": "To live",
+    "definition": "To live",
+    "crossReference": {
+      "target": "wnq",
+      "gloss": "To live"
+    }
+  },
+  {
+    "headword": "onh",
+    "copticWord": "ⲟⲛϩ",
+    "englishTransliteration": "onh",
+    "reference": "13a",
+    "partOfSpeech": "m",
+    "gloss": "Yard, court",
+    "definition": "Yard, court"
+  },
+  {
+    "headword": "op=",
+    "copticWord": "ⲟⲡ",
+    "englishTransliteration": "op",
+    "gloss": "To count",
+    "definition": "To count",
+    "crossReference": {
+      "target": "wp",
+      "gloss": "To count"
+    }
+  },
+  {
+    "headword": "opion",
+    "copticWord": "ⲟⲡⲓⲟⲛ",
+    "englishTransliteration": "opion",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Opium, poppy-juice",
+    "definition": "Opium, poppy-juice"
+  },
+  {
+    "headword": "opt",
+    "copticWord": "ⲟⲡⲧ",
+    "englishTransliteration": "opt",
+    "gloss": "To be laden",
+    "definition": "To be laden",
+    "crossReference": {
+      "target": "wbt",
+      "gloss": "To be laden"
+    }
+  },
+  {
+    "headword": "optacia",
+    "copticWord": "ⲟⲡⲧⲁⲥⲓⲁ",
+    "englishTransliteration": "optasia",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Vision, appearance",
+    "definition": "Vision, appearance"
+  },
+  {
+    "headword": "ops=",
+    "copticWord": "ⲟⲡϣ",
+    "englishTransliteration": "opsh",
+    "gloss": "To forget",
+    "definition": "To forget",
+    "crossReference": {
+      "target": "wbs",
+      "gloss": "To forget"
+    }
+  },
+  {
+    "headword": "oracic",
+    "copticWord": "ⲟⲣⲁⲥⲓⲥ",
+    "englishTransliteration": "orasis",
+    "variants": [
+      {
+        "word": "horacic",
+        "copticWord": "ϩⲟⲣⲁⲥⲓⲥ",
+        "englishTransliteration": "horasis"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Seeing, the act of sight",
+    "definition": "vision; appearance"
+  },
+  {
+    "headword": "orb=",
+    "copticWord": "ⲟⲣⲃ",
+    "englishTransliteration": "orv",
+    "gloss": "To detest",
+    "definition": "To detest",
+    "crossReference": {
+      "target": "wreb",
+      "gloss": "To detest"
+    }
+  }
+]

@@ -1,0 +1,453 @@
+[
+  {
+    "headword": "e",
+    "copticWord": "ⲉ",
+    "englishTransliteration": "e",
+    "gloss": "The 5th letter of the Coptic Alphabet called ei, eie",
+    "definition": "The 5th letter of the Coptic Alphabet called ei, eie",
+    "senses": [
+      {
+        "label": "e",
+        "gloss": "The numeral 'five'",
+        "definition": "The numeral 'five'"
+      }
+    ]
+  },
+  {
+    "headword": "(1) e",
+    "copticWord": "ⲉ",
+    "englishTransliteration": "e",
+    "variants": [
+      {
+        "word": "ero=",
+        "copticWord": "ⲉⲣⲟ",
+        "englishTransliteration": "ero"
+      },
+      {
+        "word": "(2nd pl. erw=)",
+        "copticWord": "(2ⲛⲇ ⲡⲗ. ⲉⲣⲱ)",
+        "englishTransliteration": "(2nd pl. erō)"
+      }
+    ],
+    "reference": "50a",
+    "senses": [
+      {
+        "label": "(2)",
+        "gloss": "e-: (52a)",
+        "definition": "vbal prfx. used before nominal subject 'ere-'; characterizes the circumstantial, or precedes other auxiliaries either in subordinate or coordinate clause."
+      },
+      {
+        "label": "eat",
+        "reference": "61a",
+        "partOfSpeech": "m",
+        "gloss": "End, farthest part",
+        "definition": "End, farthest part"
+      },
+      {
+        "label": "ebdomac",
+        "reference": "Gk",
+        "partOfSpeech": "f",
+        "gloss": "A period of seven days, week, the numbr seven",
+        "definition": "A period of seven days, week, the numbr seven",
+        "isGreek": true
+      },
+      {
+        "label": "eben",
+        "gloss": "Enchanter",
+        "definition": "Enchanter"
+      },
+      {
+        "label": "ebi",
+        "reference": "52b",
+        "partOfSpeech": "n",
+        "gloss": "Darkness",
+        "definition": "Darkness"
+      },
+      {
+        "label": "ebiaik",
+        "gloss": "Servants",
+        "definition": "Servants"
+      },
+      {
+        "label": "ebi/n",
+        "reference": "53a",
+        "partOfSpeech": "mf",
+        "gloss": "A poor, wretched person",
+        "definition": "adj. miserable, wretched; metebi/n: f. Misery."
+      },
+      {
+        "label": "ebiw",
+        "reference": "52b",
+        "partOfSpeech": "m",
+        "gloss": "Honey",
+        "definition": "Honey"
+      },
+      {
+        "label": "eblal/",
+        "reference": "Gk",
+        "partOfSpeech": "f",
+        "gloss": "Damage, loss, injury, harm",
+        "definition": "Damage, loss, injury, harm",
+        "isGreek": true
+      },
+      {
+        "label": "ebo",
+        "reference": "178a",
+        "partOfSpeech": "m",
+        "gloss": "Dumb person",
+        "definition": "metebo: f. Dumbness; erebo: vb. To become, be dumb."
+      },
+      {
+        "label": "ebol",
+        "gloss": "Out",
+        "definition": "Out"
+      },
+      {
+        "label": "ebrehi",
+        "gloss": "Cart",
+        "definition": "Cart"
+      },
+      {
+        "label": "ebr/j (mostly cetebr/j m.)",
+        "reference": "53b",
+        "partOfSpeech": "f",
+        "gloss": "Lightening",
+        "definition": "Lightening"
+      },
+      {
+        "label": "ebwou",
+        "gloss": "Dumb person",
+        "definition": "Dumb person"
+      },
+      {
+        "label": "ebsi",
+        "gloss": "Sleep",
+        "definition": "Sleep"
+      },
+      {
+        "label": "eggravon",
+        "gloss": "Contract",
+        "definition": "Contract"
+      }
+    ]
+  },
+  {
+    "headword": "prep. I. dat",
+    "copticWord": "ⲡⲣⲉⲡ. Ⲓ. ⲇⲁⲧ",
+    "englishTransliteration": "prep. I. dat",
+    "gloss": "to, for, according to, as regards",
+    "definition": "to, for, according to, as regards"
+  },
+  {
+    "headword": "purpose",
+    "copticWord": "ⲡⲩⲣⲡⲟϣⲉ",
+    "englishTransliteration": "pyrposhe",
+    "gloss": "for, in order to",
+    "definition": "about, because of; from, by means of"
+  },
+  {
+    "headword": "direction",
+    "copticWord": "ⲇⲓⲣⲉⲥⲧⲓⲟⲛ",
+    "englishTransliteration": "direstion",
+    "gloss": "towards, to",
+    "definition": "against"
+  },
+  {
+    "headword": "comparison",
+    "copticWord": "ⲥⲟⲙⲡⲁⲣⲓϣⲟⲛ",
+    "englishTransliteration": "somparishon",
+    "gloss": "than",
+    "definition": "in adverbial expressions. II. indicating direct object with many verbs of sensual perception, mental action, and with other vi's. III. coordinating a second vb."
+  },
+  {
+    "headword": "eggravoc",
+    "copticWord": "ⲉⲅⲅⲣⲁⲫⲟⲥ",
+    "englishTransliteration": "engrafos",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Written document, contract",
+    "definition": "Written document, contract"
+  },
+  {
+    "headword": "egkrateia",
+    "copticWord": "ⲉⲅⲕⲣⲁⲧⲉⲓⲁ",
+    "englishTransliteration": "egkratia",
+    "variants": [
+      {
+        "word": "-tia",
+        "copticWord": "-ⲧⲓⲁ",
+        "englishTransliteration": "-tia"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Self-control, mastery over, control over",
+    "definition": "i.e. chastity, asceticism, economy"
+  },
+  {
+    "headword": "egkrat/c",
+    "copticWord": "ⲉⲅⲕⲣⲁⲧⲏⲥ",
+    "englishTransliteration": "egkratis",
+    "partOfSpeech": "adj",
+    "gloss": "Hold fast, self-controlled, strong",
+    "definition": "i.e. ascete (n)"
+  },
+  {
+    "headword": "egkratia",
+    "copticWord": "ⲉⲅⲕⲣⲁⲧⲓⲁ",
+    "englishTransliteration": "egkratia",
+    "gloss": "Self-control",
+    "definition": "Self-control",
+    "crossReference": {
+      "target": "egkrateia",
+      "gloss": "Self-control"
+    }
+  },
+  {
+    "headword": "egkwmion",
+    "copticWord": "ⲉⲅⲕⲱⲙⲓⲟⲛ",
+    "englishTransliteration": "egkōmion",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Encomium, eulogy, panegyric, laudatory ode, praise",
+    "definition": "Encomium, eulogy, panegyric, laudatory ode, praise"
+  },
+  {
+    "headword": "ey",
+    "copticWord": "ⲉⲑ",
+    "englishTransliteration": "eth",
+    "gloss": "- Relative prefix",
+    "definition": "- Relative prefix",
+    "crossReference": {
+      "target": "et",
+      "gloss": "- Relative prefix"
+    }
+  },
+  {
+    "headword": "eyaus",
+    "copticWord": "ⲉⲑⲁⲩϣ",
+    "englishTransliteration": "ethavsh",
+    "gloss": "Ethiopians",
+    "definition": "Ethiopians",
+    "crossReference": {
+      "target": "eyws",
+      "gloss": "Ethiopians"
+    }
+  },
+  {
+    "headword": "eybe",
+    "copticWord": "ⲉⲑⲃⲉ",
+    "englishTransliteration": "ethve",
+    "variants": [
+      {
+        "word": "eyb/t=",
+        "copticWord": "ⲉⲑⲃⲏⲧ",
+        "englishTransliteration": "ethvit"
+      }
+    ],
+    "reference": "61a",
+    "gloss": "prep. Because of, concerning",
+    "definition": "prep. Because of, concerning"
+  },
+  {
+    "headword": "eybeje",
+    "copticWord": "ⲉⲑⲃⲉϫⲉ",
+    "englishTransliteration": "ethveje",
+    "gloss": "conj. Because",
+    "definition": "conj. Because"
+  },
+  {
+    "headword": "eybevai",
+    "copticWord": "ⲉⲑⲃⲉⲫⲁⲓ",
+    "englishTransliteration": "ethvefai",
+    "gloss": "conj. Wherefore",
+    "definition": "conj. Wherefore"
+  },
+  {
+    "headword": "eybeou",
+    "copticWord": "ⲉⲑⲃⲉⲟⲩ",
+    "englishTransliteration": "ethveou",
+    "gloss": "Why?",
+    "definition": "Why?",
+    "crossReference": {
+      "target": "ou",
+      "gloss": "Why?"
+    }
+  },
+  {
+    "headword": "eynikoc",
+    "copticWord": "ⲉⲑⲛⲓⲕⲟⲥ",
+    "englishTransliteration": "ethnikos",
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Foreign, gentile",
+    "definition": "m. heathen, idol-woshipper, tax collector"
+  },
+  {
+    "headword": "eynoc",
+    "copticWord": "ⲉⲑⲛⲟⲥ",
+    "englishTransliteration": "ethnos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Nation, people, caste, tribe",
+    "definition": "Nation, people, caste, tribe"
+  },
+  {
+    "headword": "eymosi",
+    "copticWord": "ⲉⲑⲙⲟϣⲓ",
+    "englishTransliteration": "ethmoshi",
+    "gloss": "Ethiopian (f). eyws, f. eyosi, pl",
+    "definition": "Ethiopian (f). eyws, f. eyosi, pl",
+    "crossReference": {
+      "target": "eyws",
+      "gloss": "Ethiopian (f). eyws, f. eyosi, pl"
+    }
+  },
+  {
+    "headword": "eiebt",
+    "copticWord": "ⲉⲓⲉⲃⲧ",
+    "englishTransliteration": "ievt",
+    "gloss": "East",
+    "definition": "East",
+    "crossReference": {
+      "target": "iebt",
+      "gloss": "East"
+    }
+  },
+  {
+    "headword": "eioul",
+    "copticWord": "ⲉⲓⲟⲩⲗ",
+    "englishTransliteration": "ioul",
+    "variants": [
+      {
+        "word": "eoul",
+        "copticWord": "ⲉⲟⲩⲗ",
+        "englishTransliteration": "eoul"
+      }
+    ],
+    "reference": "77a",
+    "partOfSpeech": "mf",
+    "gloss": "Hart, hind",
+    "definition": "Hart, hind"
+  },
+  {
+    "headword": "eije",
+    "copticWord": "ⲉⲓϫⲉ",
+    "englishTransliteration": "eeege",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "prep. Then, for, if",
+    "definition": "prep. Then, for, if"
+  },
+  {
+    "headword": "ekatontar",
+    "copticWord": "ⲉⲕⲁⲧⲟⲛⲧⲁⲣ",
+    "englishTransliteration": "ekatontar",
+    "variants": [
+      {
+        "word": "oc",
+        "copticWord": "ⲟⲥ",
+        "englishTransliteration": "os"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "A centurion",
+    "definition": "A centurion"
+  },
+  {
+    "headword": "ekkl/cia",
+    "copticWord": "ⲉⲕⲕⲗⲏⲥⲓⲁ",
+    "englishTransliteration": "ekklisia",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Church, assembly duly summoned, an assembly",
+    "definition": "Church, assembly duly summoned, an assembly"
+  },
+  {
+    "headword": "ekloli",
+    "copticWord": "ⲉⲕⲗⲟⲗⲓ",
+    "englishTransliteration": "ekloli",
+    "gloss": "Pitcher",
+    "definition": "Pitcher",
+    "crossReference": {
+      "target": "kelwl",
+      "gloss": "Pitcher"
+    }
+  },
+  {
+    "headword": "ekmalwcia",
+    "copticWord": "ⲉⲕⲙⲁⲗⲱⲥⲓⲁ",
+    "englishTransliteration": "ekmalōsia",
+    "gloss": "Captivity",
+    "definition": "Captivity",
+    "crossReference": {
+      "target": "e,malwcia",
+      "gloss": "Captivity"
+    }
+  },
+  {
+    "headword": "eko]",
+    "copticWord": "ⲉⲕⲟϯ",
+    "englishTransliteration": "ekoti",
+    "gloss": "Builders",
+    "definition": "Builders",
+    "crossReference": {
+      "target": "kwt",
+      "gloss": "Builders"
+    }
+  },
+  {
+    "headword": "ekwt",
+    "copticWord": "ⲉⲕⲱⲧ",
+    "englishTransliteration": "ekōt",
+    "gloss": "Builder",
+    "definition": "Builder",
+    "crossReference": {
+      "target": "kwt",
+      "gloss": "Builder"
+    }
+  },
+  {
+    "headword": "el",
+    "copticWord": "ⲉⲗ",
+    "englishTransliteration": "el",
+    "gloss": "To hold",
+    "definition": "To hold",
+    "crossReference": {
+      "target": "wli",
+      "gloss": "To hold"
+    }
+  },
+  {
+    "headword": "ela",
+    "copticWord": "ⲉⲗⲁ",
+    "englishTransliteration": "ela",
+    "variants": [
+      {
+        "word": "ictoc",
+        "copticWord": "ⲓⲥⲧⲟⲥ",
+        "englishTransliteration": "istos"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Smallest, least",
+    "definition": "m. poor, wretched, of low status."
+  }
+]

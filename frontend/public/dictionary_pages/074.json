@@ -1,0 +1,441 @@
+[
+  {
+    "headword": "paranomoc",
+    "copticWord": "ⲡⲁⲣⲁⲛⲟⲙⲟⲥ",
+    "englishTransliteration": "paranomos",
+    "partOfSpeech": "m",
+    "gloss": "One against the law",
+    "definition": "criminal;"
+  },
+  {
+    "headword": "noui",
+    "copticWord": "ⲛⲟⲩⲓ",
+    "englishTransliteration": "noui",
+    "variants": [
+      {
+        "word": "(Q) n/ou",
+        "copticWord": "(Ϧ) ⲛⲏⲟⲩ",
+        "englishTransliteration": "(Kh) niou"
+      }
+    ],
+    "reference": "219a",
+    "gloss": "vi. To go, be going to, about to go",
+    "definition": "qual. be (in act of) coming, about to come;",
+    "senses": [
+      {
+        "label": "e",
+        "partOfSpeech": "vb",
+        "gloss": "(2nd tense) To increase in doing",
+        "definition": "qual. be coming, be on the road to;"
+      },
+      {
+        "label": "ejen",
+        "partOfSpeech": "vb",
+        "gloss": "To come upon, to",
+        "definition": "To come upon, to"
+      },
+      {
+        "label": "ehr/i ejen",
+        "partOfSpeech": "vb",
+        "gloss": "To come upon, to",
+        "definition": "To come upon, to"
+      },
+      {
+        "label": "nem",
+        "partOfSpeech": "vb",
+        "gloss": "To come with, bring",
+        "definition": "To come with, bring"
+      },
+      {
+        "label": "nca",
+        "partOfSpeech": "vb",
+        "gloss": "to come after, for",
+        "definition": "to come after, for"
+      },
+      {
+        "label": "menenca",
+        "partOfSpeech": "vb",
+        "gloss": "To come after, follow",
+        "definition": "To come after, follow"
+      },
+      {
+        "label": "sa",
+        "partOfSpeech": "vb",
+        "gloss": "To come to, reach",
+        "definition": "To come to, reach"
+      },
+      {
+        "label": "ha",
+        "partOfSpeech": "vb",
+        "gloss": "To come to, reach",
+        "definition": "To come to, reach"
+      },
+      {
+        "label": "hijen",
+        "partOfSpeech": "vb",
+        "gloss": "To come upon, over",
+        "definition": "To come upon, over"
+      },
+      {
+        "label": "ebol",
+        "partOfSpeech": "vb",
+        "gloss": "to come forth",
+        "definition": "to come forth"
+      },
+      {
+        "label": "ebol e",
+        "partOfSpeech": "vb",
+        "gloss": "To come forth to, against, sue",
+        "definition": "To come forth to, against, sue"
+      },
+      {
+        "label": "ebol n-(mmo=)",
+        "partOfSpeech": "vb",
+        "gloss": "To come forth from",
+        "definition": "To come forth from"
+      },
+      {
+        "label": "ebol ca",
+        "partOfSpeech": "vb",
+        "gloss": "To come forth from beside, from",
+        "definition": "To come forth from beside, from"
+      },
+      {
+        "label": "ebol qajen",
+        "partOfSpeech": "vb",
+        "gloss": "To come forth from",
+        "definition": "To come forth from"
+      },
+      {
+        "label": "ebol qen",
+        "partOfSpeech": "vb",
+        "gloss": "To come forth from",
+        "definition": "To come forth from"
+      },
+      {
+        "label": "ebol hiten",
+        "partOfSpeech": "vb",
+        "gloss": "To come forth through, from",
+        "definition": "To come forth through, from"
+      },
+      {
+        "label": "epec/t",
+        "partOfSpeech": "vb",
+        "gloss": "To come down",
+        "definition": "To come down"
+      },
+      {
+        "label": "epswi",
+        "partOfSpeech": "vb",
+        "gloss": "To come up",
+        "definition": "To come up"
+      },
+      {
+        "label": "eqoun",
+        "partOfSpeech": "vb",
+        "gloss": "To come in, enter",
+        "definition": "To come in, enter"
+      },
+      {
+        "label": "ehr/i",
+        "partOfSpeech": "vb",
+        "gloss": "To come up",
+        "definition": "--- eqr/i: vb. to come down;"
+      }
+    ]
+  },
+  {
+    "headword": "erparanomoc",
+    "copticWord": "ⲉⲣⲡⲁⲣⲁⲛⲟⲙⲟⲥ",
+    "englishTransliteration": "erparanomos",
+    "variants": [
+      {
+        "word": "-min",
+        "copticWord": "-ⲙⲓⲛ",
+        "englishTransliteration": "-min"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To break the law",
+    "definition": "To break the law"
+  },
+  {
+    "headword": "anomoc",
+    "copticWord": "ⲁⲛⲟⲙⲟⲥ",
+    "englishTransliteration": "anomos",
+    "variants": [
+      {
+        "word": "atnomoc",
+        "copticWord": "ⲁⲧⲛⲟⲙⲟⲥ",
+        "englishTransliteration": "atnomos"
+      }
+    ],
+    "partOfSpeech": "adj",
+    "gloss": "Without law, lawless",
+    "definition": "Without law, lawless"
+  },
+  {
+    "headword": "nomimon",
+    "copticWord": "ⲛⲟⲙⲓⲙⲟⲛ",
+    "englishTransliteration": "nomimon",
+    "partOfSpeech": "adj",
+    "gloss": "Comfortable to law or custom, customary, legitimate",
+    "definition": "Comfortable to law or custom, customary, legitimate"
+  },
+  {
+    "headword": "nom]",
+    "copticWord": "ⲛⲟⲙϯ",
+    "englishTransliteration": "nomti",
+    "reference": "226a",
+    "partOfSpeech": "f",
+    "gloss": "Strength, power",
+    "definition": "encouragement, comfort;"
+  },
+  {
+    "headword": "atnom]",
+    "copticWord": "ⲁⲧⲛⲟⲙϯ",
+    "englishTransliteration": "atnomti",
+    "partOfSpeech": "adj",
+    "gloss": "Without strength",
+    "definition": "Without strength"
+  },
+  {
+    "headword": "]nom]",
+    "copticWord": "ϯⲛⲟⲙϯ",
+    "englishTransliteration": "tinomti",
+    "partOfSpeech": "vb",
+    "gloss": "To fortify, comfort",
+    "definition": "To fortify, comfort"
+  },
+  {
+    "headword": "ref]nom]",
+    "copticWord": "ⲣⲉϥϯⲛⲟⲙϯ",
+    "englishTransliteration": "reftinomti",
+    "partOfSpeech": "n",
+    "gloss": "Comforter",
+    "definition": "Comforter"
+  },
+  {
+    "headword": "metref]nom]",
+    "copticWord": "ⲙⲉⲧⲣⲉϥϯⲛⲟⲙϯ",
+    "englishTransliteration": "metreftinomti",
+    "partOfSpeech": "f",
+    "gloss": "Comfort, encouragement",
+    "definition": "Comfort, encouragement"
+  },
+  {
+    "headword": "jemnom]",
+    "copticWord": "ϫⲉⲙⲛⲟⲙϯ",
+    "englishTransliteration": "jemnomti",
+    "partOfSpeech": "vb",
+    "gloss": "To find strength, comfort",
+    "definition": "To find strength, comfort"
+  },
+  {
+    "headword": "noni",
+    "copticWord": "ⲛⲟⲛⲓ",
+    "englishTransliteration": "noni",
+    "reference": "227b",
+    "gloss": "vi. To fall down",
+    "definition": "vi. To fall down"
+  },
+  {
+    "headword": "not=",
+    "copticWord": "ⲛⲟⲧ",
+    "englishTransliteration": "not",
+    "gloss": "To grind",
+    "definition": "To grind",
+    "crossReference": {
+      "target": "nout",
+      "gloss": "To grind"
+    }
+  },
+  {
+    "headword": "notarioc",
+    "copticWord": "ⲛⲟⲧⲁⲣⲓⲟⲥ",
+    "englishTransliteration": "notarios",
+    "gloss": "(L)",
+    "definition": "m. Scribe, notary, registrar."
+  },
+  {
+    "headword": "notem (Q)",
+    "copticWord": "ⲛⲟⲧⲉⲙ (Ϧ)",
+    "englishTransliteration": "notem (Kh)",
+    "reference": "231b",
+    "gloss": "vi. To be sweet,",
+    "definition": "vi. To be sweet,",
+    "senses": [
+      {
+        "label": "pleasant; noutem",
+        "partOfSpeech": "adj",
+        "gloss": "Sweet",
+        "definition": "jwit nnoutem: Sweet olive."
+      }
+    ]
+  },
+  {
+    "headword": "nouker",
+    "copticWord": "ⲛⲟⲩⲕⲉⲣ",
+    "englishTransliteration": "nouker",
+    "reference": "224a",
+    "gloss": "vt. To prick, incise of unripe sycamore-figs",
+    "definition": "vt. To prick, incise of unripe sycamore-figs",
+    "senses": [
+      {
+        "partOfSpeech": "n",
+        "gloss": "Incision of this fruit",
+        "definition": "Incision of this fruit"
+      }
+    ]
+  },
+  {
+    "headword": "noun",
+    "copticWord": "ⲛⲟⲩⲛ",
+    "englishTransliteration": "noun",
+    "reference": "226b",
+    "partOfSpeech": "m",
+    "gloss": "Abyss of hell, depth of earth or sea",
+    "definition": "Abyss of hell, depth of earth or sea"
+  },
+  {
+    "headword": "nou=",
+    "copticWord": "ⲛⲟⲩ",
+    "englishTransliteration": "nou",
+    "gloss": "Belonging to noub: (221b)",
+    "definition": "m. Gold; money, coin",
+    "crossReference": {
+      "target": "vw=",
+      "gloss": "Belonging to noub: (221b)"
+    }
+  },
+  {
+    "headword": "hamnoub",
+    "copticWord": "ϩⲁⲙⲛⲟⲩⲃ",
+    "englishTransliteration": "hamnouv",
+    "partOfSpeech": "m",
+    "gloss": "Goldsmith",
+    "definition": "Goldsmith"
+  },
+  {
+    "headword": "nouni",
+    "copticWord": "ⲛⲟⲩⲛⲓ",
+    "englishTransliteration": "nouni",
+    "reference": "227b",
+    "partOfSpeech": "f",
+    "gloss": "Root",
+    "definition": "Root"
+  },
+  {
+    "headword": "retnouni",
+    "copticWord": "ⲣⲉⲧⲛⲟⲩⲛⲓ",
+    "englishTransliteration": "retnouni",
+    "partOfSpeech": "vb",
+    "gloss": "To put forth root",
+    "definition": "To put forth root"
+  },
+  {
+    "headword": "noubt",
+    "copticWord": "ⲛⲟⲩⲃⲧ",
+    "englishTransliteration": "nouvt",
+    "variants": [
+      {
+        "word": "noutb",
+        "copticWord": "ⲛⲟⲩⲧⲃ",
+        "englishTransliteration": "noutv"
+      },
+      {
+        "word": "noutp",
+        "copticWord": "ⲛⲟⲩⲧⲡ",
+        "englishTransliteration": "noutp"
+      }
+    ],
+    "reference": "222b",
+    "gloss": "vt. To weave",
+    "definition": "vt. To weave"
+  },
+  {
+    "headword": "neb]",
+    "copticWord": "ⲛⲉⲃϯ",
+    "englishTransliteration": "nevti",
+    "partOfSpeech": "f",
+    "gloss": "Plait, tress",
+    "definition": "Plait, tress"
+  },
+  {
+    "headword": "[e nouni",
+    "copticWord": "ϭⲉ ⲛⲟⲩⲛⲓ",
+    "englishTransliteration": "che nouni",
+    "partOfSpeech": "vb",
+    "gloss": "To take root",
+    "definition": "To take root"
+  },
+  {
+    "headword": "[ep",
+    "copticWord": "ϭⲉⲡ",
+    "englishTransliteration": "chep",
+    "variants": [
+      {
+        "word": "sepnouni",
+        "copticWord": "ϣⲉⲡⲛⲟⲩⲛⲓ",
+        "englishTransliteration": "shepnouni"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To take root",
+    "definition": "---: m. Radish."
+  },
+  {
+    "headword": "nouri",
+    "copticWord": "ⲛⲟⲩⲣⲓ",
+    "englishTransliteration": "nouri",
+    "reference": "228b",
+    "gloss": "fm. vuture",
+    "definition": "griffon."
+  },
+  {
+    "headword": "nouc",
+    "copticWord": "ⲛⲟⲩⲥ",
+    "englishTransliteration": "nous",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Mind, sense, wit",
+    "definition": "reason, intellect; thought;",
+    "senses": [
+      {
+        "label": "no/ron",
+        "partOfSpeech": "adj",
+        "gloss": "Sensible, reasonable",
+        "definition": "Sensible, reasonable"
+      }
+    ]
+  },
+  {
+    "headword": "nout",
+    "copticWord": "ⲛⲟⲩⲧ",
+    "englishTransliteration": "nout",
+    "variants": [
+      {
+        "word": "not=",
+        "copticWord": "ⲛⲟⲧ",
+        "englishTransliteration": "not"
+      }
+    ],
+    "reference": "229a",
+    "gloss": "vt. To grind, pound corn &c",
+    "definition": "vt. To grind, pound corn &c",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "Grinding, mill",
+        "definition": "Grinding, mill"
+      },
+      {
+        "label": "ma nnout",
+        "partOfSpeech": "m",
+        "gloss": "Milling place, mill",
+        "definition": "refnout: m. Grinder;"
+      }
+    ]
+  }
+]

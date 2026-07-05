@@ -1,0 +1,591 @@
+[
+  {
+    "headword": "youo]",
+    "copticWord": "ⲑⲟⲩⲟϯ",
+    "englishTransliteration": "thouoti",
+    "gloss": "Idol",
+    "definition": "Idol",
+    "crossReference": {
+      "target": "(2)ywout",
+      "gloss": "Idol"
+    }
+  },
+  {
+    "headword": "youraji",
+    "copticWord": "ⲑⲟⲩⲣⲁϫⲓ",
+    "englishTransliteration": "thouraji",
+    "reference": "69a",
+    "partOfSpeech": "m",
+    "gloss": "Part of a monastic costume",
+    "definition": "Part of a monastic costume"
+  },
+  {
+    "headword": "youc",
+    "copticWord": "ⲑⲟⲩⲥ",
+    "englishTransliteration": "thous",
+    "reference": "69b",
+    "partOfSpeech": "m",
+    "gloss": "Point of beard",
+    "definition": "Point of beard"
+  },
+  {
+    "headword": "ywleb",
+    "copticWord": "ⲑⲱⲗⲉⲃ",
+    "englishTransliteration": "thōlev",
+    "variants": [
+      {
+        "word": "yolm=",
+        "copticWord": "ⲑⲟⲗⲙ",
+        "englishTransliteration": "tholm"
+      },
+      {
+        "word": "yolb=",
+        "copticWord": "ⲑⲟⲗⲃ",
+        "englishTransliteration": "tholv"
+      },
+      {
+        "word": "yoleb",
+        "note": "Q",
+        "copticWord": "ⲑⲟⲗⲉⲃ",
+        "englishTransliteration": "tholev"
+      }
+    ],
+    "reference": "410b",
+    "gloss": "vi. To be defiled, be smirched",
+    "definition": "vt. to defile, pollute; ---: m. Stain, pollution"
+  },
+  {
+    "headword": "atywleb",
+    "copticWord": "ⲁⲧⲑⲱⲗⲉⲃ",
+    "englishTransliteration": "atthōlev",
+    "partOfSpeech": "adj",
+    "gloss": "Stainless, unpolluted",
+    "definition": "Stainless, unpolluted"
+  },
+  {
+    "headword": "yucia",
+    "copticWord": "ⲑⲩⲥⲓⲁ",
+    "englishTransliteration": "thysia",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Burnt-offering, sacrifice",
+    "definition": "Burnt-offering, sacrifice"
+  },
+  {
+    "headword": "yuciact/rion",
+    "copticWord": "ⲑⲩⲥⲓⲁⲥⲧⲏⲣⲓⲟⲛ",
+    "englishTransliteration": "thysiastirion",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Altar",
+    "definition": "Altar"
+  },
+  {
+    "headword": "ywlc",
+    "copticWord": "ⲑⲱⲗⲥ",
+    "englishTransliteration": "thōls",
+    "variants": [
+      {
+        "word": "yolc",
+        "note": "Q",
+        "copticWord": "ⲑⲟⲗⲥ",
+        "englishTransliteration": "thols"
+      }
+    ],
+    "reference": "411a",
+    "gloss": "vi. To be fixed, sunk",
+    "definition": "vi. To be fixed, sunk"
+  },
+  {
+    "headword": "e",
+    "copticWord": "ⲉ",
+    "englishTransliteration": "e",
+    "partOfSpeech": "vb",
+    "gloss": "To be fixed in. ywm, yem-, yom=, y/m (Q), p.c. yam-",
+    "definition": "To be fixed in. ywm, yem-, yom=, y/m (Q), p.c. yam-",
+    "senses": [
+      {
+        "gloss": ": (412b)",
+        "definition": "vb. To shut mouth, door, or eyes;"
+      },
+      {
+        "label": "h/t",
+        "partOfSpeech": "vb",
+        "gloss": "To shut the heart",
+        "definition": "--: m. Shutting, hardening of heart; ---: m. That which shuts, fence, barrier."
+      }
+    ]
+  },
+  {
+    "headword": "youw=",
+    "copticWord": "ⲑⲟⲩⲱ",
+    "englishTransliteration": "thouō",
+    "reference": "444b",
+    "partOfSpeech": "n",
+    "gloss": "Bosom",
+    "definition": "Bosom"
+  },
+  {
+    "headword": "qayouen",
+    "copticWord": "ϧⲁⲑⲟⲩⲉⲛ",
+    "englishTransliteration": "khathouen",
+    "variants": [
+      {
+        "word": "qayouw=",
+        "copticWord": "ϧⲁⲑⲟⲩⲱ",
+        "englishTransliteration": "khathouō"
+      }
+    ],
+    "gloss": "prep. Beside, at, with",
+    "definition": "prep. Beside, at, with"
+  },
+  {
+    "headword": "hiyouw=",
+    "copticWord": "ϩⲓⲑⲟⲩⲱ",
+    "englishTransliteration": "hithouō",
+    "gloss": "prep. Beside, next",
+    "definition": "prep. Beside, next"
+  },
+  {
+    "headword": "youwt",
+    "copticWord": "ⲑⲟⲩⲱⲧ",
+    "englishTransliteration": "thouōt",
+    "variants": [
+      {
+        "type": "f.",
+        "word": "youo]",
+        "copticWord": "ⲑⲟⲩⲟϯ",
+        "englishTransliteration": "thouoti"
+      }
+    ],
+    "reference": "447a",
+    "partOfSpeech": "m",
+    "gloss": "Idol, pillar, shrine",
+    "definition": "Idol, pillar, shrine"
+  },
+  {
+    "headword": "youwt=",
+    "copticWord": "ⲑⲟⲩⲱⲧ",
+    "englishTransliteration": "thouōt",
+    "gloss": "To gather",
+    "definition": "To gather",
+    "crossReference": {
+      "target": "ywou]",
+      "gloss": "To gather"
+    }
+  },
+  {
+    "headword": "yw=",
+    "copticWord": "ⲑⲱ",
+    "englishTransliteration": "thō",
+    "gloss": "Belongs to (f)",
+    "definition": "Belongs to (f)",
+    "crossReference": {
+      "target": "vw=",
+      "gloss": "Belongs to (f)"
+    }
+  },
+  {
+    "headword": "ywbi",
+    "copticWord": "ⲑⲱⲃⲓ",
+    "englishTransliteration": "thōvi",
+    "reference": "68a",
+    "partOfSpeech": "n",
+    "gloss": "meaning unkown",
+    "definition": "meaning unkown"
+  },
+  {
+    "headword": "ywmc",
+    "copticWord": "ⲑⲱⲙⲥ",
+    "englishTransliteration": "thōms",
+    "variants": [
+      {
+        "word": "yomc",
+        "copticWord": "ⲑⲟⲙⲥ",
+        "englishTransliteration": "thoms"
+      },
+      {
+        "word": "yemc",
+        "copticWord": "ⲑⲉⲙⲥ",
+        "englishTransliteration": "thems"
+      },
+      {
+        "word": "yomc=",
+        "copticWord": "ⲑⲟⲙⲥ",
+        "englishTransliteration": "thoms"
+      },
+      {
+        "word": "yomc",
+        "note": "Q",
+        "copticWord": "ⲑⲟⲙⲥ",
+        "englishTransliteration": "thoms"
+      }
+    ],
+    "reference": "416a",
+    "gloss": "vt. To bury",
+    "definition": "vt. To bury"
+  },
+  {
+    "headword": "ma nywmc",
+    "copticWord": "ⲙⲁ ⲛⲑⲱⲙⲥ",
+    "englishTransliteration": "ma nthōms",
+    "partOfSpeech": "m",
+    "gloss": "A burial place",
+    "definition": "A burial place"
+  },
+  {
+    "headword": "ywbs",
+    "copticWord": "ⲑⲱⲃϣ",
+    "englishTransliteration": "thōvsh",
+    "variants": [
+      {
+        "word": "ywsp",
+        "copticWord": "ⲑⲱϣⲡ",
+        "englishTransliteration": "thōshp"
+      }
+    ],
+    "reference": "68a",
+    "gloss": "vi. To be astonished, stare with astonishment",
+    "definition": "vi. To be astonished, stare with astonishment",
+    "senses": [
+      {
+        "label": "ebol",
+        "partOfSpeech": "vb",
+        "gloss": "Same as ywbs",
+        "definition": "Same as ywbs"
+      }
+    ]
+  },
+  {
+    "headword": "ywn",
+    "copticWord": "ⲑⲱⲛ",
+    "englishTransliteration": "thōn",
+    "reference": "417b",
+    "gloss": "interrog. adv. Where?, whence?, how?",
+    "definition": "interrog. adv. Where?, whence?, how?"
+  },
+  {
+    "headword": "eywn",
+    "copticWord": "ⲉⲑⲱⲛ",
+    "englishTransliteration": "ethōn",
+    "gloss": "Whither?",
+    "definition": "Whither?"
+  },
+  {
+    "headword": "nywn",
+    "copticWord": "ⲛⲑⲱⲛ",
+    "englishTransliteration": "nthōn",
+    "gloss": "Where?",
+    "definition": "Where?"
+  },
+  {
+    "headword": "ebol ywn",
+    "copticWord": "ⲉⲃⲟⲗ ⲑⲱⲛ",
+    "englishTransliteration": "evol thōn",
+    "gloss": "Whence?",
+    "definition": "Whence?"
+  },
+  {
+    "headword": "vaywn",
+    "copticWord": "ⲫⲁⲑⲱⲛ",
+    "englishTransliteration": "fathōn",
+    "gloss": "One from whence?",
+    "definition": "One from whence?"
+  },
+  {
+    "headword": "ywk",
+    "copticWord": "ⲑⲱⲕ",
+    "englishTransliteration": "thōk",
+    "gloss": "Knife",
+    "definition": "Knife",
+    "crossReference": {
+      "target": "yok",
+      "gloss": "Knife"
+    }
+  },
+  {
+    "headword": "(1) ywk",
+    "copticWord": "ⲑⲱⲕ",
+    "englishTransliteration": "thōk",
+    "variants": [
+      {
+        "word": "yok",
+        "copticWord": "ⲑⲟⲕ",
+        "englishTransliteration": "thok"
+      }
+    ],
+    "reference": "69b",
+    "partOfSpeech": "m",
+    "gloss": "Mast of ship",
+    "definition": "Mast of ship"
+  },
+  {
+    "headword": "(2) ywk",
+    "copticWord": "ⲑⲱⲕ",
+    "englishTransliteration": "thōk",
+    "variants": [
+      {
+        "word": "toji",
+        "copticWord": "ⲧⲟϫⲓ",
+        "englishTransliteration": "toji"
+      }
+    ],
+    "reference": "404a",
+    "gloss": "(a) vi. To kindle (fire), stoke, heat (oven)",
+    "definition": "(a) vi. To kindle (fire), stoke, heat (oven)",
+    "senses": [
+      {
+        "label": "ejw=",
+        "gloss": "vi. To kindle fire at, above",
+        "definition": "vi. To kindle fire at, above"
+      },
+      {
+        "label": "qa",
+        "gloss": "vi. To kindle below",
+        "definition": "vi. To kindle below"
+      },
+      {
+        "label": "vt. To stoke",
+        "partOfSpeech": "m",
+        "gloss": "Fuel",
+        "definition": "Fuel"
+      }
+    ]
+  },
+  {
+    "headword": "ywri",
+    "copticWord": "ⲑⲱⲣⲓ",
+    "englishTransliteration": "thōri",
+    "reference": "424b",
+    "gloss": "n . Willow",
+    "definition": "n . Willow"
+  },
+  {
+    "headword": "ywrp",
+    "copticWord": "ⲑⲱⲣⲡ",
+    "englishTransliteration": "thōrp",
+    "variants": [
+      {
+        "word": "yerp",
+        "copticWord": "ⲑⲉⲣⲡ",
+        "englishTransliteration": "therp"
+      }
+    ],
+    "reference": "431a",
+    "gloss": "vi. To sew, stich",
+    "definition": "vi. To sew, stich"
+  },
+  {
+    "headword": "atywrp",
+    "copticWord": "ⲁⲧⲑⲱⲣⲡ",
+    "englishTransliteration": "atthōrp",
+    "partOfSpeech": "adj",
+    "gloss": "Unsewn",
+    "definition": "Unsewn"
+  },
+  {
+    "headword": "ma nywk",
+    "copticWord": "ⲙⲁ ⲛⲑⲱⲕ",
+    "englishTransliteration": "ma nthōk",
+    "partOfSpeech": "m",
+    "gloss": "Stoke-hole (of bath)",
+    "definition": "Stoke-hole (of bath)"
+  },
+  {
+    "headword": "refywk",
+    "copticWord": "ⲣⲉϥⲑⲱⲕ",
+    "englishTransliteration": "refthōk",
+    "partOfSpeech": "m",
+    "gloss": "Stocker",
+    "definition": "Stocker"
+  },
+  {
+    "headword": "ma nywrp",
+    "copticWord": "ⲙⲁ ⲛⲑⲱⲣⲡ",
+    "englishTransliteration": "ma nthōrp",
+    "partOfSpeech": "m",
+    "gloss": "Darning needle",
+    "definition": "Darning needle"
+  },
+  {
+    "headword": "refywrp",
+    "copticWord": "ⲣⲉϥⲑⲱⲣⲡ",
+    "englishTransliteration": "refthōrp",
+    "partOfSpeech": "m",
+    "gloss": "Sewer, tailor",
+    "definition": "Sewer, tailor"
+  },
+  {
+    "headword": "yrapc",
+    "copticWord": "ⲑⲣⲁⲡⲥ",
+    "englishTransliteration": "thraps",
+    "variants": [
+      {
+        "word": "trapc",
+        "copticWord": "ⲧⲣⲁⲡⲥ",
+        "englishTransliteration": "traps"
+      }
+    ],
+    "partOfSpeech": "f",
+    "gloss": "Awl, spike",
+    "definition": "Awl, spike"
+  },
+  {
+    "headword": "ywrs",
+    "copticWord": "ⲑⲱⲣϣ",
+    "englishTransliteration": "thōrsh",
+    "variants": [
+      {
+        "word": "tors",
+        "note": "Q",
+        "copticWord": "ⲧⲟⲣϣ",
+        "englishTransliteration": "torsh"
+      }
+    ],
+    "reference": "432a",
+    "gloss": "vi. To be red, make blush",
+    "definition": "vi. To be red, make blush"
+  },
+  {
+    "headword": "(b)",
+    "copticWord": "(ⲃ)",
+    "englishTransliteration": "(v)",
+    "gloss": "vt. and vi. To bake",
+    "definition": "vt. and vi. To bake"
+  },
+  {
+    "headword": "yrosres",
+    "copticWord": "ⲑⲣⲟϣⲣⲉϣ",
+    "englishTransliteration": "throshresh",
+    "variants": [
+      {
+        "word": "yresrws",
+        "note": "Q",
+        "copticWord": "ⲑⲣⲉϣⲣⲱϣ",
+        "englishTransliteration": "threshrōsh"
+      }
+    ],
+    "gloss": "vi. Same as above",
+    "definition": "vi. Same as above"
+  },
+  {
+    "headword": "yik",
+    "copticWord": "ⲑⲓⲕ",
+    "englishTransliteration": "thik",
+    "partOfSpeech": "m",
+    "gloss": "Spark",
+    "definition": "Spark"
+  },
+  {
+    "headword": "ywkem",
+    "copticWord": "ⲑⲱⲕⲉⲙ",
+    "englishTransliteration": "thōkem",
+    "variants": [
+      {
+        "word": "yekem",
+        "copticWord": "ⲑⲉⲕⲉⲙ",
+        "englishTransliteration": "thekem"
+      },
+      {
+        "word": "yokem",
+        "note": "Q",
+        "copticWord": "ⲑⲟⲕⲉⲙ",
+        "englishTransliteration": "thokem"
+      }
+    ],
+    "reference": "406a",
+    "gloss": "vi",
+    "definition": "vi"
+  },
+  {
+    "headword": "nca",
+    "copticWord": "ⲛⲥⲁ",
+    "englishTransliteration": "nsa",
+    "partOfSpeech": "vb",
+    "gloss": "To pluck at",
+    "definition": "To pluck at"
+  },
+  {
+    "headword": "ywt",
+    "copticWord": "ⲑⲱⲧ",
+    "englishTransliteration": "thōt",
+    "variants": [
+      {
+        "word": "yet",
+        "copticWord": "ⲑⲉⲧ",
+        "englishTransliteration": "thet"
+      },
+      {
+        "word": "tat",
+        "copticWord": "ⲧⲁⲧ",
+        "englishTransliteration": "tat"
+      },
+      {
+        "word": "y/t",
+        "note": "Q",
+        "copticWord": "ⲑⲏⲧ",
+        "englishTransliteration": "thit"
+      },
+      {
+        "word": "p.c. yat",
+        "copticWord": "ⲡ.ⲥ. ⲑⲁⲧ",
+        "englishTransliteration": "p.s. that"
+      }
+    ],
+    "reference": "437b",
+    "gloss": "vi. To be joined, persuaded, agreeable",
+    "definition": "vi. To be joined, persuaded, agreeable",
+    "senses": [
+      {
+        "label": "ejen",
+        "partOfSpeech": "vb",
+        "gloss": "To agree upon",
+        "definition": "To agree upon"
+      },
+      {
+        "label": "nem",
+        "partOfSpeech": "vb",
+        "gloss": "To agree with",
+        "definition": "To agree with"
+      },
+      {
+        "gloss": "vt. To conjoin, mingle",
+        "definition": "vt. To conjoin, mingle"
+      },
+      {
+        "partOfSpeech": "m",
+        "gloss": "Agreement, mingling",
+        "definition": "--- h/t: vb. To content heart, persuade, satisfy;"
+      }
+    ]
+  },
+  {
+    "headword": "ebol qen",
+    "copticWord": "ⲉⲃⲟⲗ ϧⲉⲛ",
+    "englishTransliteration": "evol khen",
+    "partOfSpeech": "vb",
+    "gloss": "To draw forth, root out, from",
+    "definition": "To draw forth, root out, from"
+  },
+  {
+    "headword": "ebol",
+    "copticWord": "ⲉⲃⲟⲗ",
+    "englishTransliteration": "evol",
+    "partOfSpeech": "vb",
+    "gloss": "To draw forth",
+    "definition": "To draw forth"
+  },
+  {
+    "headword": "ywkc",
+    "copticWord": "ⲑⲱⲕⲥ",
+    "englishTransliteration": "thōks",
+    "gloss": "To pierce",
+    "definition": "To pierce",
+    "crossReference": {
+      "target": "youx",
+      "gloss": "To pierce"
+    }
+  }
+]

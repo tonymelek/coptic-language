@@ -1,0 +1,578 @@
+[
+  {
+    "headword": "slwous",
+    "copticWord": "ϣⲗⲱⲟⲩϣ",
+    "englishTransliteration": "shlōoush",
+    "gloss": "Paralysed person",
+    "definition": "Paralysed person",
+    "crossReference": {
+      "target": "[lwous",
+      "gloss": "Paralysed person"
+    }
+  },
+  {
+    "headword": "sl/l",
+    "copticWord": "ϣⲗⲏⲗ",
+    "englishTransliteration": "shlil",
+    "reference": "559a",
+    "gloss": "vi. To pray",
+    "definition": "vi. To pray"
+  },
+  {
+    "headword": "(554b)",
+    "copticWord": "(554ⲃ)",
+    "englishTransliteration": "(554v)",
+    "definition": "vt. To sharpen, incite."
+  },
+  {
+    "headword": "e",
+    "copticWord": "ⲉ",
+    "englishTransliteration": "e",
+    "gloss": "vi. To pray to, for",
+    "definition": "vi. To pray to, for"
+  },
+  {
+    "headword": "ejen",
+    "copticWord": "ⲉϫⲉⲛ",
+    "englishTransliteration": "ejen",
+    "gloss": "vi. To pray over, for",
+    "definition": "vi. To pray over, for"
+  },
+  {
+    "headword": "sobsep",
+    "copticWord": "ϣⲟⲃϣⲉⲡ",
+    "englishTransliteration": "shovshep",
+    "gloss": "To sharpen",
+    "definition": "To sharpen",
+    "crossReference": {
+      "target": "sobseb",
+      "gloss": "To sharpen"
+    }
+  },
+  {
+    "headword": "sa",
+    "copticWord": "ϣⲁ",
+    "englishTransliteration": "sha",
+    "gloss": "vi. To pray to",
+    "definition": "vi. To pray to"
+  },
+  {
+    "headword": "soyref",
+    "copticWord": "ϣⲟⲑⲣⲉϥ",
+    "englishTransliteration": "shothref",
+    "gloss": "Falcon",
+    "definition": "Falcon",
+    "crossReference": {
+      "target": "sotref",
+      "gloss": "Falcon"
+    }
+  },
+  {
+    "headword": "qa",
+    "copticWord": "ϧⲁ",
+    "englishTransliteration": "kha",
+    "gloss": "vi. To pray about, for",
+    "definition": "vi. To pray about, for"
+  },
+  {
+    "headword": "sok",
+    "copticWord": "ϣⲟⲕ",
+    "englishTransliteration": "shok",
+    "gloss": "To dig",
+    "definition": "To dig",
+    "crossReference": {
+      "target": "swk",
+      "gloss": "To dig"
+    }
+  },
+  {
+    "headword": "epswi ha",
+    "copticWord": "ⲉⲡϣⲱⲓ ϩⲁ",
+    "englishTransliteration": "epshōi ha",
+    "gloss": "vi. To pray up to",
+    "definition": "vi. To pray up to"
+  },
+  {
+    "headword": "sok=",
+    "copticWord": "ϣⲟⲕ",
+    "englishTransliteration": "shok",
+    "gloss": "To dig",
+    "definition": "To dig",
+    "crossReference": {
+      "target": "swk",
+      "gloss": "To dig"
+    }
+  },
+  {
+    "headword": "hijen",
+    "copticWord": "ϩⲓϫⲉⲛ",
+    "englishTransliteration": "heegen",
+    "gloss": "vi. To pray over",
+    "definition": "vi. To pray over",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "Prayer",
+        "definition": "Prayer"
+      },
+      {
+        "label": "atsl/l",
+        "partOfSpeech": "adj",
+        "gloss": "Without prayer",
+        "definition": "Without prayer"
+      },
+      {
+        "label": "slol",
+        "reference": "559b",
+        "partOfSpeech": "m",
+        "gloss": "Folk, people, nation",
+        "definition": "Folk, people, nation"
+      }
+    ]
+  },
+  {
+    "headword": "soki",
+    "copticWord": "ϣⲟⲕⲓ",
+    "englishTransliteration": "shoki",
+    "gloss": "To dig",
+    "definition": "To dig",
+    "crossReference": {
+      "target": "swk",
+      "gloss": "To dig"
+    }
+  },
+  {
+    "headword": "(1) soksek",
+    "copticWord": "ϣⲟⲕϣⲉⲕ",
+    "englishTransliteration": "shokshek",
+    "variants": [
+      {
+        "word": "(Q) sekswk",
+        "copticWord": "(Ϧ) ϣⲉⲕϣⲱⲕ",
+        "englishTransliteration": "(Kh) shekshōk"
+      }
+    ],
+    "reference": "557a",
+    "gloss": "vt. To dig, pick, hollow",
+    "definition": "vt. To dig, pick, hollow"
+  },
+  {
+    "headword": "(2) soksek",
+    "copticWord": "ϣⲟⲕϣⲉⲕ",
+    "englishTransliteration": "shokshek",
+    "reference": "557a"
+  },
+  {
+    "headword": "vi. To hiss. sokh",
+    "copticWord": "ⲫⲓ. Ⲧⲟ ϩⲓϣϣ. ϣⲟⲕϩ",
+    "englishTransliteration": "fi. To hishsh. shokh",
+    "variants": [
+      {
+        "word": "swkh",
+        "note": "rare",
+        "copticWord": "ϣⲱⲕϩ",
+        "englishTransliteration": "shōkh"
+      },
+      {
+        "word": "sokh=",
+        "copticWord": "ϣⲟⲕϩ",
+        "englishTransliteration": "shokh"
+      }
+    ],
+    "reference": "557a"
+  },
+  {
+    "headword": "slwl",
+    "copticWord": "ϣⲗⲱⲗ",
+    "englishTransliteration": "shlōl",
+    "gloss": "Folks",
+    "definition": "Folks",
+    "crossReference": {
+      "target": "slol",
+      "gloss": "Folks"
+    }
+  },
+  {
+    "headword": "sokh=",
+    "copticWord": "ϣⲟⲕϩ",
+    "englishTransliteration": "shokh",
+    "gloss": "To smite",
+    "definition": "To smite",
+    "crossReference": {
+      "target": "sokh",
+      "gloss": "To smite"
+    }
+  },
+  {
+    "headword": "(1) sol",
+    "copticWord": "ϣⲟⲗ",
+    "englishTransliteration": "shol",
+    "variants": [
+      {
+        "word": "sal",
+        "copticWord": "ϣⲁⲗ",
+        "englishTransliteration": "shal"
+      }
+    ],
+    "reference": "557b",
+    "partOfSpeech": "m",
+    "gloss": "Molar tooth, tusk",
+    "definition": "Molar tooth, tusk"
+  },
+  {
+    "headword": "slwmb/j",
+    "copticWord": "ϣⲗⲱⲙⲃⲏϫ",
+    "englishTransliteration": "shlōmvij",
+    "reference": "48b",
+    "partOfSpeech": "m",
+    "gloss": "? cf b/j slwt v. [lwt - Kidney",
+    "definition": "? cf b/j slwt v. [lwt - Kidney"
+  },
+  {
+    "headword": "slwj",
+    "copticWord": "ϣⲗⲱϫ",
+    "englishTransliteration": "shlōj",
+    "gloss": "Gourd",
+    "definition": "Gourd",
+    "crossReference": {
+      "target": "(2)[loj",
+      "gloss": "Gourd"
+    }
+  },
+  {
+    "headword": "sma",
+    "copticWord": "ϣⲙⲁ",
+    "englishTransliteration": "shma",
+    "variants": [
+      {
+        "word": "sam",
+        "copticWord": "ϣⲁⲙ",
+        "englishTransliteration": "sham"
+      },
+      {
+        "word": "sem",
+        "copticWord": "ϣⲉⲙ",
+        "englishTransliteration": "shem"
+      },
+      {
+        "word": "(Q) som",
+        "copticWord": "(Ϧ) ϣⲟⲙ",
+        "englishTransliteration": "(Kh) shom"
+      }
+    ],
+    "reference": "565a"
+  },
+  {
+    "headword": "vi",
+    "copticWord": "ⲫⲓ",
+    "englishTransliteration": "fi",
+    "gloss": "To be light, fine, subtle",
+    "definition": "To be light, fine, subtle"
+  },
+  {
+    "headword": "(2)sol",
+    "copticWord": "ϣⲟⲗ",
+    "englishTransliteration": "shol",
+    "reference": "557b",
+    "partOfSpeech": "m",
+    "gloss": "Bundle",
+    "definition": "Bundle"
+  },
+  {
+    "headword": "sol=",
+    "copticWord": "ϣⲟⲗ",
+    "englishTransliteration": "shol",
+    "gloss": "To despoil",
+    "definition": "To despoil",
+    "crossReference": {
+      "target": "(1)swl",
+      "gloss": "To despoil"
+    }
+  },
+  {
+    "headword": "solbi",
+    "copticWord": "ϣⲟⲗⲃⲓ",
+    "englishTransliteration": "sholvi",
+    "gloss": "Wool garment",
+    "definition": "Wool garment",
+    "crossReference": {
+      "target": "[olbi",
+      "gloss": "Wool garment"
+    }
+  },
+  {
+    "headword": "solk",
+    "copticWord": "ϣⲟⲗⲕ",
+    "englishTransliteration": "sholk",
+    "gloss": "To weave",
+    "definition": "To weave",
+    "crossReference": {
+      "target": "swlk",
+      "gloss": "To weave"
+    }
+  },
+  {
+    "headword": "solk=",
+    "copticWord": "ϣⲟⲗⲕ",
+    "englishTransliteration": "sholk",
+    "gloss": "To weave",
+    "definition": "To weave",
+    "crossReference": {
+      "target": "swlk",
+      "gloss": "To weave"
+    }
+  },
+  {
+    "headword": "solmec",
+    "copticWord": "ϣⲟⲗⲙⲉⲥ",
+    "englishTransliteration": "sholmes",
+    "variants": [
+      {
+        "word": "[olmec",
+        "copticWord": "ϭⲟⲗⲙⲉⲥ",
+        "englishTransliteration": "cholmes"
+      }
+    ],
+    "reference": "560a",
+    "partOfSpeech": "f",
+    "gloss": "Gnat",
+    "definition": "Gnat"
+  },
+  {
+    "headword": "solh=",
+    "copticWord": "ϣⲟⲗϩ",
+    "englishTransliteration": "sholh",
+    "gloss": "To make mark",
+    "definition": "To make mark",
+    "crossReference": {
+      "target": "swlh",
+      "gloss": "To make mark"
+    }
+  },
+  {
+    "headword": "smwou",
+    "copticWord": "ϣⲙⲱⲟⲩ",
+    "englishTransliteration": "shmōou",
+    "reference": "564a",
+    "partOfSpeech": "m",
+    "gloss": "Father-in-law, mother-in-law",
+    "definition": "Father-in-law, mother-in-law"
+  },
+  {
+    "headword": "ersom",
+    "copticWord": "ⲉⲣϣⲟⲙ",
+    "englishTransliteration": "ershom",
+    "partOfSpeech": "vb",
+    "gloss": "To be father-in-law",
+    "definition": "To be father-in-law"
+  },
+  {
+    "headword": "som",
+    "copticWord": "ϣⲟⲙ",
+    "englishTransliteration": "shom",
+    "partOfSpeech": "adj",
+    "gloss": "Light, fine",
+    "definition": "Light, fine"
+  },
+  {
+    "headword": "sme",
+    "copticWord": "ϣⲙⲉ",
+    "englishTransliteration": "shme",
+    "gloss": "Peg. sm/n, f",
+    "definition": "Peg. sm/n, f",
+    "crossReference": {
+      "target": "smou",
+      "gloss": "Peg. sm/n, f"
+    }
+  },
+  {
+    "headword": "sm/ni",
+    "copticWord": "ϣⲙⲏⲛⲓ",
+    "englishTransliteration": "shmini",
+    "reference": "566b",
+    "partOfSpeech": "adj",
+    "gloss": "Eight",
+    "definition": "Eight"
+  },
+  {
+    "headword": "qamne",
+    "copticWord": "ϧⲁⲙⲛⲉ",
+    "englishTransliteration": "khamne",
+    "gloss": "Eighty",
+    "definition": "Eighty"
+  },
+  {
+    "headword": "smou",
+    "copticWord": "ϣⲙⲟⲩ",
+    "englishTransliteration": "shmou",
+    "variants": [
+      {
+        "word": "smoui",
+        "copticWord": "ϣⲙⲟⲩⲓ",
+        "englishTransliteration": "shmoui"
+      },
+      {
+        "word": "sme",
+        "copticWord": "ϣⲙⲉ",
+        "englishTransliteration": "shme"
+      }
+    ],
+    "reference": "565a",
+    "partOfSpeech": "f",
+    "gloss": "Peg, stake",
+    "definition": "Peg, stake"
+  },
+  {
+    "headword": "smoui",
+    "copticWord": "ϣⲙⲟⲩⲓ",
+    "englishTransliteration": "shmoui",
+    "gloss": "Peg",
+    "definition": "Peg",
+    "crossReference": {
+      "target": "smou",
+      "gloss": "Peg"
+    }
+  },
+  {
+    "headword": "snau",
+    "copticWord": "ϣⲛⲁⲩ",
+    "englishTransliteration": "shnav",
+    "reference": "573b",
+    "gloss": "Market. sne, sn/, pl",
+    "definition": "Market. sne, sn/, pl"
+  },
+  {
+    "headword": "sn/ou",
+    "copticWord": "ϣⲛⲏⲟⲩ",
+    "englishTransliteration": "shniou",
+    "reference": "571b",
+    "gloss": "Net",
+    "definition": "Net"
+  },
+  {
+    "headword": "sn/",
+    "copticWord": "ϣⲛⲏ",
+    "englishTransliteration": "shni",
+    "reference": "572a",
+    "partOfSpeech": "f",
+    "gloss": "Garden",
+    "definition": "Garden"
+  },
+  {
+    "headword": "snof",
+    "copticWord": "ϣⲛⲟϥ",
+    "englishTransliteration": "shnof",
+    "gloss": "Basket",
+    "definition": "Basket",
+    "crossReference": {
+      "target": "[nof",
+      "gloss": "Basket"
+    }
+  },
+  {
+    "headword": "snouf",
+    "copticWord": "ϣⲛⲟⲩϥ",
+    "englishTransliteration": "shnouf",
+    "gloss": "Basket",
+    "definition": "Basket",
+    "crossReference": {
+      "target": "[nof",
+      "gloss": "Basket"
+    }
+  },
+  {
+    "headword": "so",
+    "copticWord": "ϣⲟ",
+    "englishTransliteration": "sho",
+    "reference": "549b",
+    "partOfSpeech": "adj",
+    "gloss": "Thousand",
+    "definition": "Thousand"
+  },
+  {
+    "headword": "sob=",
+    "copticWord": "ϣⲟⲃ",
+    "englishTransliteration": "shov",
+    "gloss": "To shave",
+    "definition": "To shave",
+    "crossReference": {
+      "target": "(1)swp",
+      "gloss": "To shave"
+    }
+  },
+  {
+    "headword": "sobi",
+    "copticWord": "ϣⲟⲃⲓ",
+    "englishTransliteration": "shovi",
+    "gloss": "Hypocrite",
+    "definition": "Hypocrite",
+    "crossReference": {
+      "target": "sebi",
+      "gloss": "Hypocrite"
+    }
+  },
+  {
+    "headword": "sobt=",
+    "copticWord": "ϣⲟⲃⲧ",
+    "englishTransliteration": "shovt",
+    "gloss": "To change",
+    "definition": "To change",
+    "crossReference": {
+      "target": "swbt",
+      "gloss": "To change"
+    }
+  },
+  {
+    "headword": "som(adj)",
+    "copticWord": "ϣⲟⲙ(ⲁⲇϫ)",
+    "englishTransliteration": "shom(adj)",
+    "gloss": "Light. somt, f",
+    "definition": "Light. somt, f",
+    "crossReference": {
+      "target": "sma",
+      "gloss": "Light. somt, f"
+    }
+  },
+  {
+    "headword": "som]",
+    "copticWord": "ϣⲟⲙϯ",
+    "englishTransliteration": "shomti",
+    "reference": "566b",
+    "partOfSpeech": "adj",
+    "gloss": "Three",
+    "definition": "Three"
+  },
+  {
+    "headword": "son]",
+    "copticWord": "ϣⲟⲛϯ",
+    "englishTransliteration": "shonti",
+    "reference": "573a",
+    "partOfSpeech": "f",
+    "gloss": "Thorn tree",
+    "definition": "Thorn tree"
+  },
+  {
+    "headword": "sop",
+    "copticWord": "ϣⲟⲡ",
+    "englishTransliteration": "shop",
+    "variants": [
+      {
+        "word": "swp",
+        "copticWord": "ϣⲱⲡ",
+        "englishTransliteration": "shōp"
+      }
+    ],
+    "reference": "574b",
+    "partOfSpeech": "m",
+    "gloss": "4-finger breadth, plam",
+    "definition": "4-finger breadth, plam"
+  },
+  {
+    "headword": "swp",
+    "copticWord": "ϣⲱⲡ",
+    "englishTransliteration": "shōp",
+    "partOfSpeech": "m",
+    "gloss": "A group of 4",
+    "definition": "A group of 4"
+  }
+]

@@ -1,0 +1,655 @@
+[
+  {
+    "headword": "evwt",
+    "copticWord": "ⲉⲫⲱⲧ",
+    "englishTransliteration": "efōt",
+    "variants": [
+      {
+        "word": "avwt",
+        "copticWord": "ⲁⲫⲱⲧ",
+        "englishTransliteration": "afōt"
+      }
+    ],
+    "reference": "63a",
+    "gloss": "m or f.. A type of crocodile",
+    "definition": "m or f.. A type of crocodile"
+  },
+  {
+    "headword": "ehyori",
+    "copticWord": "ⲉϩⲑⲟⲣⲓ",
+    "englishTransliteration": "ehthori",
+    "gloss": "Mare. ehywr v. hyo - Horses. ehe, pl. eheu, ehwou, eheou: (64a)",
+    "definition": "f. Ox, cow.",
+    "crossReference": {
+      "target": "hyo",
+      "gloss": "Mare. ehywr v. hyo - Horses. ehe, pl. eheu, ehwou, eheou: (64a)"
+    }
+  },
+  {
+    "headword": "ehi",
+    "copticWord": "ⲉϩⲓ",
+    "englishTransliteration": "ehi",
+    "gloss": "On",
+    "definition": "On",
+    "crossReference": {
+      "target": "hi",
+      "gloss": "On"
+    }
+  },
+  {
+    "headword": "e,malwcia",
+    "copticWord": "ⲉⲭⲙⲁⲗⲱⲥⲓⲁ",
+    "englishTransliteration": "ekhmalōsia",
+    "gloss": "Captivity",
+    "definition": "Captivity",
+    "crossReference": {
+      "target": "e,malwtoc",
+      "gloss": "Captivity"
+    }
+  },
+  {
+    "headword": "e",
+    "copticWord": "ⲉ",
+    "englishTransliteration": "e",
+    "variants": [
+      {
+        "word": "malwtoc",
+        "copticWord": "ⲙⲁⲗⲱⲧⲟⲥ",
+        "englishTransliteration": "malōtos"
+      },
+      {
+        "word": "ai",
+        "copticWord": "ⲁⲓ",
+        "englishTransliteration": "ai"
+      },
+      {
+        "word": "malwtoc",
+        "copticWord": "ⲙⲁⲗⲱⲧⲟⲥ",
+        "englishTransliteration": "malōtos"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Taken by the spear, captive, prisoner",
+    "definition": "Taken by the spear, captive, prisoner"
+  },
+  {
+    "headword": "ehko",
+    "copticWord": "ⲉϩⲕⲟ",
+    "englishTransliteration": "ehko",
+    "gloss": "To be hungry",
+    "definition": "To be hungry",
+    "crossReference": {
+      "target": "hko",
+      "gloss": "To be hungry"
+    }
+  },
+  {
+    "headword": "ehli",
+    "copticWord": "ⲉϩⲗⲓ",
+    "englishTransliteration": "ehli",
+    "gloss": "Anything",
+    "definition": "Anything",
+    "crossReference": {
+      "target": "hli",
+      "gloss": "Anything"
+    }
+  },
+  {
+    "headword": "ehlol",
+    "copticWord": "ⲉϩⲗⲟⲗ",
+    "englishTransliteration": "ehlol",
+    "gloss": "Darkness",
+    "definition": "Darkness",
+    "crossReference": {
+      "target": "hlol",
+      "gloss": "Darkness"
+    }
+  },
+  {
+    "headword": "ehmot",
+    "copticWord": "ⲉϩⲙⲟⲧ",
+    "englishTransliteration": "ehmot",
+    "gloss": "Grace",
+    "definition": "Grace",
+    "crossReference": {
+      "target": "hmot",
+      "gloss": "Grace"
+    }
+  },
+  {
+    "headword": "ehna=",
+    "copticWord": "ⲉϩⲛⲁ",
+    "englishTransliteration": "ehna",
+    "gloss": "- Desire",
+    "definition": "- Desire",
+    "crossReference": {
+      "target": "ehne",
+      "gloss": "- Desire"
+    }
+  },
+  {
+    "headword": "ehne",
+    "copticWord": "ⲉϩⲛⲉ",
+    "englishTransliteration": "ehne",
+    "variants": [
+      {
+        "word": "ehna=",
+        "copticWord": "ⲉϩⲛⲁ",
+        "englishTransliteration": "ehna"
+      }
+    ],
+    "reference": "690a",
+    "partOfSpeech": "n",
+    "gloss": "Will, desire",
+    "definition": "Will, desire"
+  },
+  {
+    "headword": "ehoou",
+    "copticWord": "ⲉϩⲟⲟⲩ",
+    "englishTransliteration": "ehoou",
+    "reference": "730a",
+    "partOfSpeech": "m",
+    "gloss": "Day",
+    "definition": "Day"
+  },
+  {
+    "headword": "ew",
+    "copticWord": "ⲉⲱ",
+    "englishTransliteration": "eō",
+    "variants": [
+      {
+        "word": "iw",
+        "copticWord": "ⲓⲱ",
+        "englishTransliteration": "iō"
+      },
+      {
+        "word": "ia",
+        "copticWord": "ⲓⲁ",
+        "englishTransliteration": "ia"
+      },
+      {
+        "type": "pl.",
+        "word": "eeu",
+        "copticWord": "ⲉⲉⲩ",
+        "englishTransliteration": "eev"
+      },
+      {
+        "word": "eheu & g as pl",
+        "copticWord": "ⲉϩⲉⲩ & ⲅ ⲁϣ ⲡⲗ",
+        "englishTransliteration": "ehev & g ash pl"
+      }
+    ],
+    "reference": "75b",
+    "partOfSpeech": "mf",
+    "gloss": "Ass, donkey",
+    "definition": "Ass, donkey",
+    "senses": [
+      {
+        "label": "ia ntoou",
+        "partOfSpeech": "n",
+        "gloss": "Desert, wild ass",
+        "definition": "Desert, wild ass"
+      },
+      {
+        "label": "ew nchimi",
+        "partOfSpeech": "n",
+        "gloss": "She-ass",
+        "definition": "She-ass"
+      }
+    ]
+  },
+  {
+    "headword": "ewn",
+    "copticWord": "ⲉⲱⲛ",
+    "englishTransliteration": "eōn",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Eon, age",
+    "definition": "Eon, age"
+  },
+  {
+    "headword": "ewnion",
+    "copticWord": "ⲉⲱⲛⲓⲟⲛ",
+    "englishTransliteration": "eōnion",
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Lasting, eternal",
+    "definition": "Lasting, eternal"
+  },
+  {
+    "headword": "mpiehoou",
+    "copticWord": "ⲙⲡⲓⲉϩⲟⲟⲩ",
+    "englishTransliteration": "mpiehoou",
+    "gloss": "On, in the day, by day",
+    "definition": "On, in the day, by day"
+  },
+  {
+    "headword": "qajen piehoou",
+    "copticWord": "ϧⲁϫⲉⲛ ⲡⲓⲉϩⲟⲟⲩ",
+    "englishTransliteration": "khajen piehoou",
+    "gloss": "Before now",
+    "definition": "Before now"
+  },
+  {
+    "headword": "qen piehoou",
+    "copticWord": "ϧⲉⲛ ⲡⲓⲉϩⲟⲟⲩ",
+    "englishTransliteration": "khen piehoou",
+    "gloss": "In day",
+    "definition": "In day"
+  },
+  {
+    "headword": "erpiehoou",
+    "copticWord": "ⲉⲣⲡⲓⲉϩⲟⲟⲩ",
+    "englishTransliteration": "erpiehoou",
+    "partOfSpeech": "vb",
+    "gloss": "To spend day",
+    "definition": "To spend day"
+  },
+  {
+    "headword": "voou",
+    "copticWord": "ⲫⲟⲟⲩ",
+    "englishTransliteration": "foou",
+    "gloss": "The day, today",
+    "definition": "The day, today"
+  },
+  {
+    "headword": "mvoou",
+    "copticWord": "ⲙⲫⲟⲟⲩ",
+    "englishTransliteration": "mfoou",
+    "gloss": "Today",
+    "definition": "Today"
+  },
+  {
+    "headword": "es",
+    "copticWord": "ⲉϣ",
+    "englishTransliteration": "esh",
+    "gloss": "To hang",
+    "definition": "To hang",
+    "crossReference": {
+      "target": "isi",
+      "gloss": "To hang"
+    }
+  },
+  {
+    "headword": "esau",
+    "copticWord": "ⲉϣⲁⲩ",
+    "englishTransliteration": "eshav",
+    "gloss": "Swines",
+    "definition": "Swines",
+    "crossReference": {
+      "target": "esw",
+      "gloss": "Swines"
+    }
+  },
+  {
+    "headword": "esl/loui",
+    "copticWord": "ⲉϣⲗⲏⲗⲟⲩⲓ",
+    "englishTransliteration": "eshliloui",
+    "gloss": "To shout aloud",
+    "definition": "To shout aloud",
+    "crossReference": {
+      "target": "l/loui",
+      "gloss": "To shout aloud"
+    }
+  },
+  {
+    "headword": "eso",
+    "copticWord": "ⲉϣⲟ",
+    "englishTransliteration": "esho",
+    "variants": [
+      {
+        "word": "so",
+        "copticWord": "ϣⲟ",
+        "englishTransliteration": "sho"
+      }
+    ],
+    "reference": "63b",
+    "partOfSpeech": "m",
+    "gloss": "Bran",
+    "definition": "Bran"
+  },
+  {
+    "headword": "eso]",
+    "copticWord": "ⲉϣⲟϯ",
+    "englishTransliteration": "eshoti",
+    "gloss": "Merchants",
+    "definition": "Merchants",
+    "crossReference": {
+      "target": "swt",
+      "gloss": "Merchants"
+    }
+  },
+  {
+    "headword": "este",
+    "copticWord": "ⲉϣⲧⲉ",
+    "englishTransliteration": "eshte",
+    "gloss": "To lay down",
+    "definition": "To lay down",
+    "crossReference": {
+      "target": "sto",
+      "gloss": "To lay down"
+    }
+  },
+  {
+    "headword": "esou",
+    "copticWord": "ⲉϣⲟⲩ",
+    "englishTransliteration": "eshou",
+    "variants": [
+      {
+        "word": "e[ou",
+        "copticWord": "ⲉϭⲟⲩ",
+        "englishTransliteration": "echou"
+      }
+    ],
+    "reference": "65a",
+    "partOfSpeech": "f",
+    "gloss": "Tongs, pincers",
+    "definition": "Tongs, pincers"
+  },
+  {
+    "headword": "esw",
+    "copticWord": "ⲉϣⲱ",
+    "englishTransliteration": "eshō",
+    "variants": [
+      {
+        "word": "esau",
+        "copticWord": "ⲉϣⲁⲩ",
+        "englishTransliteration": "eshav"
+      },
+      {
+        "type": "pl.",
+        "word": "esau",
+        "copticWord": "ⲉϣⲁⲩ",
+        "englishTransliteration": "eshav"
+      }
+    ],
+    "reference": "63a",
+    "partOfSpeech": "f",
+    "gloss": "Sow, swine",
+    "definition": "Sow, swine"
+  },
+  {
+    "headword": "eswp",
+    "copticWord": "ⲉϣⲱⲡ",
+    "englishTransliteration": "eshōp",
+    "gloss": "When",
+    "definition": "When",
+    "crossReference": {
+      "target": "swpi",
+      "gloss": "When"
+    }
+  },
+  {
+    "headword": "eswt",
+    "copticWord": "ⲉϣⲱⲧ",
+    "englishTransliteration": "eshōt",
+    "gloss": "Merchant",
+    "definition": "Merchant",
+    "crossReference": {
+      "target": "swt",
+      "gloss": "Merchant"
+    }
+  },
+  {
+    "headword": "ef",
+    "copticWord": "ⲉϥ",
+    "englishTransliteration": "ef",
+    "gloss": "To press",
+    "definition": "To press",
+    "crossReference": {
+      "target": "wfi",
+      "gloss": "To press"
+    }
+  },
+  {
+    "headword": "efracou",
+    "copticWord": "ⲉϥⲣⲁⲥⲟⲩ",
+    "englishTransliteration": "efrasou",
+    "reference": "64a",
+    "partOfSpeech": "m",
+    "gloss": "A plant -- abrotonum, artemisia",
+    "definition": "A plant -- abrotonum, artemisia"
+  },
+  {
+    "headword": "efji",
+    "copticWord": "ⲉϥϫⲓ",
+    "englishTransliteration": "efji",
+    "gloss": "Wrinkle",
+    "definition": "Wrinkle",
+    "crossReference": {
+      "target": "biji",
+      "gloss": "Wrinkle"
+    }
+  },
+  {
+    "headword": "eqr/i",
+    "copticWord": "ⲉϧⲣⲏⲓ",
+    "englishTransliteration": "ekhrii",
+    "gloss": "Downward",
+    "definition": "Downward",
+    "crossReference": {
+      "target": "qr/i",
+      "gloss": "Downward"
+    }
+  },
+  {
+    "headword": "eqoun",
+    "copticWord": "ⲉϧⲟⲩⲛ",
+    "englishTransliteration": "ekhoun",
+    "gloss": "Inward",
+    "definition": "Inward",
+    "crossReference": {
+      "target": "qoun",
+      "gloss": "Inward"
+    }
+  },
+  {
+    "headword": "ehb/oui",
+    "copticWord": "ⲉϩⲃⲏⲟⲩⲓ",
+    "englishTransliteration": "ehvioui",
+    "gloss": "Matters",
+    "definition": "Matters",
+    "crossReference": {
+      "target": "hwb",
+      "gloss": "Matters"
+    }
+  },
+  {
+    "headword": "ehbwc",
+    "copticWord": "ⲉϩⲃⲱⲥ",
+    "englishTransliteration": "ehvōs",
+    "gloss": "Garments",
+    "definition": "Garments",
+    "crossReference": {
+      "target": "hwbc",
+      "gloss": "Garments"
+    }
+  },
+  {
+    "headword": "voou mpiehoou",
+    "copticWord": "ⲫⲟⲟⲩ ⲙⲡⲓⲉϩⲟⲟⲩ",
+    "englishTransliteration": "foou mpiehoou",
+    "gloss": "This day",
+    "definition": "This day"
+  },
+  {
+    "headword": "ehra=",
+    "copticWord": "ⲉϩⲣⲁ",
+    "englishTransliteration": "ehra",
+    "gloss": "Toward face of",
+    "definition": "Toward face of",
+    "crossReference": {
+      "target": "ho",
+      "gloss": "Toward face of"
+    }
+  },
+  {
+    "headword": "ehren",
+    "copticWord": "ⲉϩⲣⲉⲛ",
+    "englishTransliteration": "ehren",
+    "gloss": "Toward face of",
+    "definition": "Toward face of",
+    "crossReference": {
+      "target": "ho",
+      "gloss": "Toward face of"
+    }
+  },
+  {
+    "headword": "ehr/i",
+    "copticWord": "ⲉϩⲣⲏⲓ",
+    "englishTransliteration": "ehrii",
+    "gloss": "Upward",
+    "definition": "Upward",
+    "crossReference": {
+      "target": "hr/i",
+      "gloss": "Upward"
+    }
+  },
+  {
+    "headword": "ehr/ri",
+    "copticWord": "ⲉϩⲣⲏⲣⲓ",
+    "englishTransliteration": "ehriri",
+    "gloss": "Flower",
+    "definition": "Flower",
+    "crossReference": {
+      "target": "hr/ri",
+      "gloss": "Flower"
+    }
+  },
+  {
+    "headword": "ehr/si",
+    "copticWord": "ⲉϩⲣⲏϣⲓ",
+    "englishTransliteration": "ehrishi",
+    "gloss": "Weight",
+    "definition": "Weight",
+    "crossReference": {
+      "target": "(1)hros",
+      "gloss": "Weight"
+    }
+  },
+  {
+    "headword": "ehros",
+    "copticWord": "ⲉϩⲣⲟϣ",
+    "englishTransliteration": "ehrosh",
+    "gloss": "To be heavy",
+    "definition": "To be heavy",
+    "crossReference": {
+      "target": "(1)hros",
+      "gloss": "To be heavy"
+    }
+  },
+  {
+    "headword": "ehrw",
+    "copticWord": "ⲉϩⲣⲱ",
+    "englishTransliteration": "ehrō",
+    "gloss": "Oven",
+    "definition": "Oven",
+    "crossReference": {
+      "target": "hrw",
+      "gloss": "Oven"
+    }
+  },
+  {
+    "headword": "ehrwt",
+    "copticWord": "ⲉϩⲣⲱⲧ",
+    "englishTransliteration": "ehrōt",
+    "gloss": "Wine-press",
+    "definition": "Wine-press",
+    "crossReference": {
+      "target": "hrwt",
+      "gloss": "Wine-press"
+    }
+  },
+  {
+    "headword": "ehwou",
+    "copticWord": "ⲉϩⲱⲟⲩ",
+    "englishTransliteration": "ehōou",
+    "gloss": "Oxen",
+    "definition": "Oxen",
+    "crossReference": {
+      "target": "ehe",
+      "gloss": "Oxen"
+    }
+  },
+  {
+    "headword": "ejen-ej/ou",
+    "copticWord": "ⲉϫⲉⲛ-ⲉϫⲏⲟⲩ",
+    "englishTransliteration": "ejen-ejiou",
+    "gloss": "Ships",
+    "definition": "Ships",
+    "crossReference": {
+      "target": "joi",
+      "gloss": "Ships"
+    }
+  },
+  {
+    "headword": "ejloj",
+    "copticWord": "ⲉϫⲗⲟϫ",
+    "englishTransliteration": "ejloj",
+    "gloss": "Gourd",
+    "definition": "Gourd",
+    "crossReference": {
+      "target": "(2)[loj",
+      "gloss": "Gourd"
+    }
+  },
+  {
+    "headword": "ejou",
+    "copticWord": "ⲉϫⲟⲩ",
+    "englishTransliteration": "ejou",
+    "gloss": "Viper",
+    "definition": "Viper",
+    "crossReference": {
+      "target": "(1)ajw",
+      "gloss": "Viper"
+    }
+  },
+  {
+    "headword": "ejw",
+    "copticWord": "ⲉϫⲱ",
+    "englishTransliteration": "ejō",
+    "gloss": "Viper",
+    "definition": "Viper",
+    "crossReference": {
+      "target": "(1)ajw",
+      "gloss": "Viper"
+    }
+  },
+  {
+    "headword": "ejwrh",
+    "copticWord": "ⲉϫⲱⲣϩ",
+    "englishTransliteration": "ejōrh",
+    "gloss": "Night",
+    "definition": "Night",
+    "crossReference": {
+      "target": "jwrh",
+      "gloss": "Night"
+    }
+  },
+  {
+    "headword": "e[loj",
+    "copticWord": "ⲉϭⲗⲟϫ",
+    "englishTransliteration": "echloj",
+    "gloss": "Gourd",
+    "definition": "Gourd",
+    "crossReference": {
+      "target": "(2)[loj",
+      "gloss": "Gourd"
+    }
+  },
+  {
+    "headword": "e[ou",
+    "copticWord": "ⲉϭⲟⲩ",
+    "englishTransliteration": "echou",
+    "gloss": "Pincers",
+    "definition": "Pincers",
+    "crossReference": {
+      "target": "esou",
+      "gloss": "Pincers"
+    }
+  }
+]

@@ -1,0 +1,419 @@
+[
+  {
+    "headword": "w",
+    "copticWord": "ⲱ",
+    "englishTransliteration": "ō",
+    "variants": [
+      {
+        "word": "a",
+        "copticWord": "ⲁ",
+        "englishTransliteration": "a"
+      },
+      {
+        "word": "a=",
+        "copticWord": "ⲁ",
+        "englishTransliteration": "a"
+      },
+      {
+        "word": "(Q)",
+        "copticWord": "(Ϧ)",
+        "englishTransliteration": "(Kh)"
+      },
+      {
+        "word": "/",
+        "copticWord": "ⲏ",
+        "englishTransliteration": "i"
+      }
+    ],
+    "reference": "94b",
+    "gloss": "vt",
+    "definition": "vt",
+    "senses": [
+      {
+        "label": "To place",
+        "partOfSpeech": "m",
+        "gloss": "Place for putting",
+        "definition": "jin,w: m. Placing, laying down; ---: m. Loosening, slackness; --- e-: vt. To rely upon; --- ejen: vt. To put, lay upon;"
+      },
+      {
+        "label": "nca",
+        "gloss": "vt. To put, leave behind, renounce",
+        "definition": "--: m. leaving behind;"
+      },
+      {
+        "label": "nten",
+        "gloss": "vt. To put, keep in hand, have entrust to, esteem",
+        "definition": "vt. To put, keep in hand, have entrust to, esteem"
+      },
+      {
+        "label": "qa",
+        "gloss": "vt. To place under, on behalf of, renounce for",
+        "definition": "(Q) To be under; --- qaren: vt. To place before;"
+      },
+      {
+        "label": "qarat",
+        "gloss": "vt. To place at feet of, before",
+        "definition": "vt. To place at feet of, before"
+      },
+      {
+        "label": "qaten",
+        "gloss": "vt. To place before, commit to",
+        "definition": "(Q) To be beside, with; --- hijen: vt. To place, let loose upon; (Q) To be set over, be upon; --- ebol: vt. To release, loosen, dismiss, remit, forgive; vi. To become loose, dissolved, be at ease; --:m. Freedom, remission, forgiveness; at,w ebol: adj. Without"
+      },
+      {
+        "label": "forgiveness; ref",
+        "partOfSpeech": "m",
+        "gloss": "Forgiver",
+        "definition": "metref,w ebol: f."
+      },
+      {
+        "label": "Forgiveness; jin",
+        "gloss": "mf Forgiveness",
+        "definition": "mf Forgiveness"
+      },
+      {
+        "label": "epec/t",
+        "gloss": "vt. To put, let down",
+        "definition": "vt. To put, let down"
+      },
+      {
+        "label": "evahou",
+        "gloss": "vt. To leave behind, over",
+        "definition": "vt. To leave behind, over"
+      },
+      {
+        "label": "eqoun",
+        "gloss": "vt. To put in, admit",
+        "definition": "vt. To put in, admit"
+      },
+      {
+        "label": "eqr/i",
+        "gloss": "vt. To put, lay down, aside",
+        "definition": "(Q) To be laid down, exist; jin,w eqoun: m. Laying down, what is laid down, nature, fashion;"
+      },
+      {
+        "label": "cabol",
+        "gloss": "vt. To put outside, exclude",
+        "definition": "vt. To put outside, exclude"
+      }
+    ]
+  },
+  {
+    "headword": "er",
+    "copticWord": "ⲉⲣ",
+    "englishTransliteration": "er",
+    "variants": [
+      {
+        "word": "rof",
+        "copticWord": "ⲣⲟϥ",
+        "englishTransliteration": "rof"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To be guileful ca,rof: m. Maker of guile, deceiver",
+    "definition": "To be guileful ca,rof: m. Maker of guile, deceiver"
+  },
+  {
+    "headword": "[i",
+    "copticWord": "ϭⲓ",
+    "englishTransliteration": "chi",
+    "variants": [
+      {
+        "word": "rof",
+        "copticWord": "ⲣⲟϥ",
+        "englishTransliteration": "rof"
+      },
+      {
+        "word": "n",
+        "copticWord": "ⲛ",
+        "englishTransliteration": "n"
+      },
+      {
+        "word": "rof",
+        "copticWord": "ⲣⲟϥ",
+        "englishTransliteration": "rof"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To use guile, lie in wait",
+    "definition": "To use guile, lie in wait"
+  },
+  {
+    "headword": "[au",
+    "copticWord": "ϭⲁⲩ",
+    "englishTransliteration": "chav",
+    "variants": [
+      {
+        "word": "rof",
+        "copticWord": "ⲣⲟϥ",
+        "englishTransliteration": "rof"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "Deceiver",
+    "definition": "Deceiver"
+  },
+  {
+    "headword": "jin",
+    "copticWord": "ϫⲓⲛ",
+    "englishTransliteration": "jin",
+    "variants": [
+      {
+        "word": "rof",
+        "copticWord": "ⲣⲟϥ",
+        "englishTransliteration": "rof"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "Snares",
+    "definition": "Snares"
+  },
+  {
+    "headword": "ros",
+    "copticWord": "ⲣⲟϣ",
+    "englishTransliteration": "rosh",
+    "variants": [
+      {
+        "word": "rws",
+        "copticWord": "ⲣⲱϣ",
+        "englishTransliteration": "rōsh"
+      }
+    ],
+    "reference": "517a",
+    "partOfSpeech": "m",
+    "gloss": "Slap",
+    "definition": "Slap"
+  },
+  {
+    "headword": "rour",
+    "copticWord": "ⲣⲟⲩⲣ",
+    "englishTransliteration": "rour",
+    "reference": "117a",
+    "partOfSpeech": "m",
+    "gloss": "Frog",
+    "definition": "Frog"
+  },
+  {
+    "headword": "rwm",
+    "copticWord": "ⲣⲱⲙ",
+    "englishTransliteration": "rōm",
+    "reference": "115a",
+    "partOfSpeech": "m",
+    "gloss": "Fire",
+    "definition": "Fire",
+    "senses": [
+      {
+        "label": "er",
+        "partOfSpeech": "vb",
+        "gloss": "To be on fire, burn",
+        "definition": "],rwm: vb. To put fire (to); set alight; hi,rwm: vb. To put fire (to); set alight; --- ebol: vb. To throw out fire,"
+      }
+    ]
+  },
+  {
+    "headword": ",rwoun",
+    "copticWord": "ⲭⲣⲱⲟⲩⲛ",
+    "englishTransliteration": "khrōoun",
+    "gloss": "a kind of tree",
+    "definition": "a kind of tree",
+    "crossReference": {
+      "target": ",rwouni",
+      "gloss": "a kind of tree"
+    }
+  },
+  {
+    "headword": "rwouni",
+    "copticWord": "ⲣⲱⲟⲩⲛⲓ",
+    "englishTransliteration": "rōouni",
+    "variants": [
+      {
+        "word": "rwoun",
+        "copticWord": "ⲣⲱⲟⲩⲛ",
+        "englishTransliteration": "rōoun"
+      }
+    ],
+    "reference": "517a",
+    "partOfSpeech": "f",
+    "gloss": "Tree zizyphus, nabk",
+    "definition": "Tree zizyphus, nabk"
+  },
+  {
+    "headword": "rws",
+    "copticWord": "ⲣⲱϣ",
+    "englishTransliteration": "rōsh",
+    "reference": "517a",
+    "partOfSpeech": "m",
+    "gloss": "Wrinkle",
+    "definition": "Wrinkle"
+  },
+  {
+    "headword": ",rws",
+    "copticWord": "ⲭⲣⲱϣ",
+    "englishTransliteration": "khrōsh",
+    "gloss": "Slap",
+    "definition": "Slap",
+    "crossReference": {
+      "target": ",ros",
+      "gloss": "Slap"
+    }
+  },
+  {
+    "headword": "ouain",
+    "copticWord": "ⲟⲩⲁⲓⲛ",
+    "englishTransliteration": "ouain",
+    "reference": "517b",
+    "partOfSpeech": "n",
+    "gloss": "Marble",
+    "definition": "Marble"
+  },
+  {
+    "headword": ",ouper",
+    "copticWord": "ⲭⲟⲩⲡⲉⲣ",
+    "englishTransliteration": "khouper",
+    "gloss": "A kind of plant",
+    "definition": "A kind of plant",
+    "crossReference": {
+      "target": "kouper",
+      "gloss": "A kind of plant"
+    }
+  },
+  {
+    "headword": ",ouwm",
+    "copticWord": "ⲭⲟⲩⲱⲙ",
+    "englishTransliteration": "khouōm",
+    "gloss": "Food",
+    "definition": "Food",
+    "crossReference": {
+      "target": "ouwm",
+      "gloss": "Food"
+    }
+  },
+  {
+    "headword": ",wk",
+    "copticWord": "ⲭⲱⲕ",
+    "englishTransliteration": "khōk",
+    "gloss": "To peel",
+    "definition": "To peel",
+    "crossReference": {
+      "target": "kwk",
+      "gloss": "To peel"
+    }
+  },
+  {
+    "headword": "(1) wlem",
+    "copticWord": "ⲱⲗⲉⲙ",
+    "englishTransliteration": "ōlem",
+    "variants": [
+      {
+        "word": "(Q)",
+        "copticWord": "(Ϧ)",
+        "englishTransliteration": "(Kh)"
+      },
+      {
+        "word": "olem",
+        "copticWord": "ⲟⲗⲉⲙ",
+        "englishTransliteration": "olem"
+      }
+    ],
+    "reference": "104b",
+    "gloss": "vi. To hasten",
+    "definition": "---: m. Haste"
+  },
+  {
+    "headword": "ref",
+    "copticWord": "ⲣⲉϥ",
+    "englishTransliteration": "ref",
+    "variants": [
+      {
+        "word": "wlem",
+        "copticWord": "ⲱⲗⲉⲙ",
+        "englishTransliteration": "ōlem"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "Hasty man",
+    "definition": "Hasty man"
+  },
+  {
+    "headword": "n",
+    "copticWord": "ⲛ",
+    "englishTransliteration": "n",
+    "variants": [
+      {
+        "word": "wlem",
+        "copticWord": "ⲱⲗⲉⲙ",
+        "englishTransliteration": "ōlem"
+      }
+    ],
+    "partOfSpeech": "adv",
+    "gloss": "In haste, quickly, soon",
+    "definition": "In haste, quickly, soon"
+  },
+  {
+    "headword": "(2) wlem",
+    "copticWord": "ⲱⲗⲉⲙ",
+    "englishTransliteration": "ōlem",
+    "reference": "104b",
+    "partOfSpeech": "m",
+    "gloss": "Corner of eye",
+    "definition": "Corner of eye"
+  },
+  {
+    "headword": "(1) wnc",
+    "copticWord": "ⲱⲛⲥ",
+    "englishTransliteration": "ōns",
+    "reference": "112a",
+    "gloss": "vt. To pierce, slay",
+    "definition": "vt. To pierce, slay"
+  },
+  {
+    "headword": "(2) wnc",
+    "copticWord": "ⲱⲛⲥ",
+    "englishTransliteration": "ōns",
+    "variants": [
+      {
+        "word": "(Q)",
+        "copticWord": "(Ϧ)",
+        "englishTransliteration": "(Kh)"
+      },
+      {
+        "word": "onc",
+        "copticWord": "ⲟⲛⲥ",
+        "englishTransliteration": "ons"
+      }
+    ],
+    "reference": "112b",
+    "gloss": "vi. To stink, be putrid",
+    "definition": "vt. to make to stinke, defile; ---: m. Stink."
+  },
+  {
+    "headword": "wp",
+    "copticWord": "ⲱⲡ",
+    "englishTransliteration": "ōp",
+    "variants": [
+      {
+        "word": "ep",
+        "copticWord": "ⲉⲡ",
+        "englishTransliteration": "ep"
+      },
+      {
+        "word": "op=",
+        "copticWord": "ⲟⲡ",
+        "englishTransliteration": "op"
+      },
+      {
+        "word": "(Q)",
+        "copticWord": "(Ϧ)",
+        "englishTransliteration": "(Kh)"
+      },
+      {
+        "word": "/p",
+        "copticWord": "ⲏⲡ",
+        "englishTransliteration": "ip"
+      }
+    ],
+    "reference": "113b",
+    "gloss": "vi. To hide, be hidden",
+    "definition": "vt. To hide; ---: m. Hiding, concealment man,wp: m. Hiding place;"
+  }
+]

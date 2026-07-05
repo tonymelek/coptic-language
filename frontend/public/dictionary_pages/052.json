@@ -1,0 +1,192 @@
+[
+  {
+    "headword": "kws",
+    "copticWord": "ⲕⲱϣ",
+    "englishTransliteration": "kōsh",
+    "variants": [
+      {
+        "word": "kas",
+        "copticWord": "ⲕⲁϣ",
+        "englishTransliteration": "kash"
+      },
+      {
+        "word": "kas=",
+        "copticWord": "ⲕⲁϣ",
+        "englishTransliteration": "kash"
+      }
+    ],
+    "reference": "130b",
+    "gloss": "vi. To break, be broken",
+    "definition": "--- nca-: vb. To strike upon; ---: vt. To break, split;",
+    "senses": [
+      {
+        "partOfSpeech": "n",
+        "gloss": "A breaking",
+        "definition": "A breaking"
+      },
+      {
+        "label": "kwh",
+        "reference": "133a",
+        "gloss": "vt. To make level, smooth, tame",
+        "definition": "Qual. to be familiar, accustomed;"
+      },
+      {
+        "label": "kahc",
+        "partOfSpeech": "f",
+        "gloss": "Custom",
+        "definition": "Custom"
+      },
+      {
+        "label": "erkahc",
+        "partOfSpeech": "vb",
+        "gloss": "To become custom",
+        "definition": "kahkh, ,eh,oht (Q): vt. To hew out, smooth;"
+      },
+      {
+        "label": "kahke",
+        "gloss": "vi. To be healed",
+        "definition": "vi. To be healed"
+      },
+      {
+        "label": "nem",
+        "partOfSpeech": "vb",
+        "gloss": "To go round with, turn hither and thither",
+        "definition": "inquire of, dispute with; nca-: vb. To go round seeking, seek; jinkw] nca-: vb. To search after; nten: vb. To seek, beg from; cabol n-: vb. To turn about, circumvent; ebol: vi. To wander out, round, return; to turn away; eqoun: vi. To turn, bend inwards; ehr/i: vi. To turn, go round; kw], ket-, kot=: (124a); vi. To turn, go around; to go about seeking, seek; e-: vb. To surround, seek, visit; --: vt. To turn (often of faces), surround; ejen-: vb. To turn upon, go round, among; mmo=: vb. To turn self, return, repeat;"
+      }
+    ]
+  },
+  {
+    "headword": "metkwt",
+    "copticWord": "ⲙⲉⲧⲕⲱⲧ",
+    "englishTransliteration": "metkōt",
+    "partOfSpeech": "m",
+    "gloss": "Building",
+    "definition": "Building"
+  },
+  {
+    "headword": "]kwt",
+    "copticWord": "ϯⲕⲱⲧ",
+    "englishTransliteration": "tikōt",
+    "partOfSpeech": "vb",
+    "gloss": "To edify",
+    "definition": "To edify"
+  },
+  {
+    "headword": "[ikwt",
+    "copticWord": "ϭⲓⲕⲱⲧ",
+    "englishTransliteration": "chikōt",
+    "partOfSpeech": "vb",
+    "gloss": "To receive edification",
+    "definition": "To receive edification"
+  },
+  {
+    "headword": "jinkwt",
+    "copticWord": "ϫⲓⲛⲕⲱⲧ",
+    "englishTransliteration": "jinkōt",
+    "partOfSpeech": "m",
+    "gloss": "Building (process or act)",
+    "definition": "Building (process or act)"
+  },
+  {
+    "headword": "ekwt",
+    "copticWord": "ⲉⲕⲱⲧ",
+    "englishTransliteration": "ekōt",
+    "variants": [
+      {
+        "type": "pl.",
+        "word": "eko]",
+        "copticWord": "ⲉⲕⲟϯ",
+        "englishTransliteration": "ekoti"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "Builder, mason",
+    "definition": "Builder, mason"
+  },
+  {
+    "headword": "rounding; seeking",
+    "copticWord": "ⲣⲟⲩⲛⲇⲓⲛⲅⲑ ϣⲉⲉⲕⲓⲛⲅ",
+    "englishTransliteration": "roundingth sheeking",
+    "variants": [
+      {
+        "word": "inquiry; jinkw]",
+        "copticWord": "ⲓⲛϧⲩⲓⲣⲑⲑ ϫⲓⲛⲕⲱϯ",
+        "englishTransliteration": "inkhyirthth jinkōti"
+      }
+    ],
+    "partOfSpeech": "mf",
+    "gloss": "Turning round, cycle, inquiry",
+    "definition": "Turning round, cycle, inquiry"
+  },
+  {
+    "headword": "kot",
+    "copticWord": "ⲕⲟⲧ",
+    "englishTransliteration": "kot",
+    "partOfSpeech": "m",
+    "gloss": "Cicular motion, turn, visit",
+    "definition": "Cicular motion, turn, visit"
+  },
+  {
+    "headword": "hikot",
+    "copticWord": "ϩⲓⲕⲟⲧ",
+    "englishTransliteration": "hikot",
+    "variants": [
+      {
+        "word": "oukot",
+        "copticWord": "ⲟⲩⲕⲟⲧ",
+        "englishTransliteration": "oukot"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To throw a turn, make a move, pay a visit, encompass, encamp",
+    "definition": "To throw a turn, make a move, pay a visit, encompass, encamp",
+    "senses": [
+      {
+        "label": "hikot ebol",
+        "partOfSpeech": "vb",
+        "gloss": "To pay a visit",
+        "definition": "jinhikot: m. Visit;"
+      }
+    ]
+  },
+  {
+    "headword": "kotc",
+    "copticWord": "ⲕⲟⲧⲥ",
+    "englishTransliteration": "kots",
+    "partOfSpeech": "f",
+    "gloss": "Going round, turning, circuit",
+    "definition": "twist, knot; crookedness, guile;"
+  },
+  {
+    "headword": "erkw]",
+    "copticWord": "ⲉⲣⲕⲱϯ",
+    "englishTransliteration": "erkōti",
+    "partOfSpeech": "vb",
+    "gloss": "To make a turn, plan, circumvent",
+    "definition": "To make a turn, plan, circumvent"
+  },
+  {
+    "headword": "cankw]",
+    "copticWord": "ⲥⲁⲛⲕⲱϯ",
+    "englishTransliteration": "sankōti",
+    "partOfSpeech": "n",
+    "gloss": "Man of turns, guileful person",
+    "definition": "Man of turns, guileful person"
+  },
+  {
+    "headword": "metcankw]",
+    "copticWord": "ⲙⲉⲧⲥⲁⲛⲕⲱϯ",
+    "englishTransliteration": "metsankōti",
+    "partOfSpeech": "f",
+    "gloss": "Crookedness, dishonesty",
+    "definition": "Crookedness, dishonesty"
+  },
+  {
+    "headword": "kotci",
+    "copticWord": "ⲕⲟⲧⲥⲓ",
+    "englishTransliteration": "kotsi",
+    "partOfSpeech": "f",
+    "gloss": "Circuit",
+    "definition": "Circuit"
+  }
+]

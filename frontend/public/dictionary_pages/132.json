@@ -1,0 +1,442 @@
+[
+  {
+    "headword": "(1) ali",
+    "copticWord": "ⲁⲗⲓ",
+    "englishTransliteration": "ali",
+    "variants": [
+      {
+        "word": "alit=",
+        "copticWord": "ⲁⲗⲓⲧ",
+        "englishTransliteration": "alit"
+      },
+      {
+        "word": "alioui",
+        "copticWord": "ⲁⲗⲓⲟⲩⲓ",
+        "englishTransliteration": "alioui"
+      }
+    ],
+    "reference": "254b",
+    "gloss": "vi. To hold, contain, enclose",
+    "definition": "vt. (mostly) To take, lay hold of, gather;",
+    "senses": [
+      {
+        "label": "e",
+        "gloss": "vt. To bring to",
+        "definition": "vt. To bring to"
+      },
+      {
+        "label": "ejen",
+        "gloss": "vt. To bring upon",
+        "definition": "vt. To bring upon"
+      },
+      {
+        "label": "n",
+        "gloss": "vt. To bring to",
+        "definition": "vt. To bring to"
+      },
+      {
+        "label": "nten",
+        "gloss": "vt. To bring from",
+        "definition": "vt. To bring from"
+      },
+      {
+        "label": "sa",
+        "gloss": "vt. To bring to",
+        "definition": "vt. To bring to"
+      },
+      {
+        "label": "qa",
+        "gloss": "vi. To hold beneath, support",
+        "definition": "vi. To hold beneath, support"
+      },
+      {
+        "label": "qaten",
+        "gloss": "vt. To hold to, beside",
+        "definition": "vt. To hold to, beside"
+      },
+      {
+        "label": "ha",
+        "gloss": "vt. To hold to",
+        "definition": "vt. To hold to"
+      },
+      {
+        "label": "hi",
+        "gloss": "vt. To hold un to",
+        "definition": "vt. To hold un to"
+      },
+      {
+        "label": "qen",
+        "gloss": "vt. To hold with, in by",
+        "definition": "vt. To hold with, in by"
+      },
+      {
+        "label": "hijen",
+        "gloss": "vt. To hold upon",
+        "definition": "vt. To hold upon"
+      },
+      {
+        "label": "ebol",
+        "gloss": "vt. To take away",
+        "definition": "e-: vt. To take out to; n-: vt. To take away from;"
+      },
+      {
+        "label": "ha",
+        "gloss": "vt. To take away from off",
+        "definition": "hi: vt. To take away from off; --- qen: vt. To take away from; --- hijen: vt. To take away from"
+      }
+    ]
+  },
+  {
+    "headword": "w",
+    "copticWord": "ⲱ",
+    "englishTransliteration": "ō",
+    "reference": "517a",
+    "gloss": "The 23rd letter of the alphabet. w: As a numeral = 700",
+    "definition": "The 23rd letter of the alphabet. w: As a numeral = 700"
+  },
+  {
+    "headword": "wb",
+    "copticWord": "ⲱⲃ",
+    "englishTransliteration": "ōv",
+    "reference": "535b",
+    "partOfSpeech": "m",
+    "gloss": "Lettuce",
+    "definition": "Lettuce"
+  },
+  {
+    "headword": "wben",
+    "copticWord": "ⲱⲃⲉⲛ",
+    "englishTransliteration": "ōven",
+    "reference": "254a",
+    "partOfSpeech": "m",
+    "gloss": "Alum",
+    "definition": "Alum"
+  },
+  {
+    "headword": "n",
+    "copticWord": "ⲛ",
+    "englishTransliteration": "n",
+    "gloss": "vi. To be laden with",
+    "definition": "vi. To be laden with"
+  },
+  {
+    "headword": "qa",
+    "copticWord": "ϧⲁ",
+    "englishTransliteration": "kha",
+    "gloss": "vi. To be burdened under",
+    "definition": "vi. To be burdened under"
+  },
+  {
+    "headword": "etvw",
+    "copticWord": "ⲉⲧⲫⲱ",
+    "englishTransliteration": "etfō",
+    "variants": [
+      {
+        "word": "hetvw",
+        "copticWord": "ϩⲉⲧⲫⲱ",
+        "englishTransliteration": "hetfō"
+      },
+      {
+        "word": "pl etvwoui",
+        "copticWord": "ⲡⲗ ⲉⲧⲫⲱⲟⲩⲓ",
+        "englishTransliteration": "pl etfōoui"
+      }
+    ],
+    "partOfSpeech": "f",
+    "gloss": "Burden",
+    "definition": "Burden"
+  },
+  {
+    "headword": "wbs",
+    "copticWord": "ⲱⲃϣ",
+    "englishTransliteration": "ōvsh",
+    "variants": [
+      {
+        "word": "obs=",
+        "copticWord": "ⲟⲃϣ",
+        "englishTransliteration": "ovsh"
+      },
+      {
+        "word": "ops=",
+        "copticWord": "ⲟⲡϣ",
+        "englishTransliteration": "opsh"
+      },
+      {
+        "word": "(Q) obs",
+        "copticWord": "(Ϧ) ⲟⲃϣ",
+        "englishTransliteration": "(Kh) ovsh"
+      }
+    ],
+    "reference": "518b",
+    "partOfSpeech": "vb",
+    "gloss": "To forget, be forgotten",
+    "definition": "To forget, be forgotten",
+    "senses": [
+      {
+        "label": "ebol",
+        "partOfSpeech": "vb",
+        "gloss": "To be neglectful",
+        "definition": "erpwbs, erp=wbs: vb. To be forgetful, forgotten;"
+      }
+    ]
+  },
+  {
+    "headword": "referpwbs",
+    "copticWord": "ⲣⲉϥⲉⲣⲡⲱⲃϣ",
+    "englishTransliteration": "referpōvsh",
+    "partOfSpeech": "m",
+    "gloss": "Forgetter",
+    "definition": "Forgetter"
+  },
+  {
+    "headword": "ebsi",
+    "copticWord": "ⲉⲃϣⲓ",
+    "englishTransliteration": "evshi",
+    "variants": [
+      {
+        "word": "epsi",
+        "copticWord": "ⲉⲡϣⲓ",
+        "englishTransliteration": "epshi"
+      }
+    ],
+    "partOfSpeech": "f",
+    "gloss": "Forgetfulness, carelessness, sleep",
+    "definition": "Forgetfulness, carelessness, sleep"
+  },
+  {
+    "headword": "erebsi",
+    "copticWord": "ⲉⲣⲉⲃϣⲓ",
+    "englishTransliteration": "erevshi",
+    "partOfSpeech": "vb",
+    "gloss": "To be forgetful",
+    "definition": "To be forgetful"
+  },
+  {
+    "headword": "]ebsi",
+    "copticWord": "ϯⲉⲃϣⲓ",
+    "englishTransliteration": "tievshi",
+    "partOfSpeech": "vb",
+    "gloss": "To make forgetful",
+    "definition": "To make forgetful"
+  },
+  {
+    "headword": "[iebsi",
+    "copticWord": "ϭⲓⲉⲃϣⲓ",
+    "englishTransliteration": "chievshi",
+    "partOfSpeech": "vb",
+    "gloss": "To be forgetful",
+    "definition": "To be forgetful"
+  },
+  {
+    "headword": "wik",
+    "copticWord": "ⲱⲓⲕ",
+    "englishTransliteration": "ōik",
+    "reference": "254a",
+    "partOfSpeech": "m",
+    "gloss": "Bread, loaf",
+    "definition": "Bread, loaf"
+  },
+  {
+    "headword": "canwik",
+    "copticWord": "ⲥⲁⲛⲱⲓⲕ",
+    "englishTransliteration": "sanōik",
+    "partOfSpeech": "m",
+    "gloss": "Bread-seller",
+    "definition": "Bread-seller"
+  },
+  {
+    "headword": "off; --- epswi",
+    "copticWord": "ⲟϥϥⲑ --- ⲉⲡϣⲱⲓ",
+    "englishTransliteration": "offth --- epshōi",
+    "gloss": "vt. To take upward",
+    "definition": "vt. To take upward"
+  },
+  {
+    "headword": "eqoun",
+    "copticWord": "ⲉϧⲟⲩⲛ",
+    "englishTransliteration": "ekhoun",
+    "gloss": "vt. To bring in, enclose",
+    "definition": "vt. To bring in, enclose",
+    "senses": [
+      {
+        "label": "e",
+        "gloss": "vt. To bring in to",
+        "definition": "--- qaten: vt. To bring in to, up"
+      }
+    ]
+  },
+  {
+    "headword": "wili",
+    "copticWord": "ⲱⲓⲗⲓ",
+    "englishTransliteration": "ōili",
+    "variants": [
+      {
+        "word": "oili",
+        "copticWord": "ⲟⲓⲗⲓ",
+        "englishTransliteration": "oili"
+      }
+    ],
+    "reference": "254b",
+    "gloss": "Ram",
+    "definition": "Ram"
+  },
+  {
+    "headword": "wimi",
+    "copticWord": "ⲱⲓⲙⲓ",
+    "englishTransliteration": "ōimi",
+    "reference": "255b",
+    "partOfSpeech": "f",
+    "gloss": "Hook",
+    "definition": "Hook"
+  },
+  {
+    "headword": "wipi",
+    "copticWord": "ⲱⲓⲡⲓ",
+    "englishTransliteration": "ōipi",
+    "reference": "256a",
+    "partOfSpeech": "f",
+    "gloss": "Ephah (a measure of grain)",
+    "definition": "Ephah (a measure of grain)"
+  },
+  {
+    "headword": "wis",
+    "copticWord": "ⲱⲓϣ",
+    "englishTransliteration": "ōish",
+    "variants": [
+      {
+        "word": "oeis",
+        "copticWord": "ⲟⲉⲓϣ",
+        "englishTransliteration": "oish"
+      }
+    ],
+    "reference": "257b",
+    "partOfSpeech": "n",
+    "gloss": "Cry",
+    "definition": "Cry"
+  },
+  {
+    "headword": "hiwis",
+    "copticWord": "ϩⲓⲱⲓϣ",
+    "englishTransliteration": "hiōish",
+    "partOfSpeech": "vb",
+    "gloss": "To throw a cry, proclaim, preach",
+    "definition": "To throw a cry, proclaim, preach"
+  },
+  {
+    "headword": "to; --- eqr/i",
+    "copticWord": "ⲧⲟⲑ --- ⲉϧⲣⲏⲓ",
+    "englishTransliteration": "toth --- ekhrii",
+    "gloss": "vt. To bring down",
+    "definition": "--- mmau: vt. To take thence, away"
+  },
+  {
+    "headword": "refwli",
+    "copticWord": "ⲣⲉϥⲱⲗⲓ",
+    "englishTransliteration": "refōli",
+    "partOfSpeech": "m",
+    "gloss": "Gatherer",
+    "definition": "Gatherer"
+  },
+  {
+    "headword": "jinwli",
+    "copticWord": "ϫⲓⲛⲱⲗⲓ",
+    "englishTransliteration": "jinōli",
+    "partOfSpeech": "m",
+    "gloss": "Gathering",
+    "definition": "Gathering"
+  },
+  {
+    "headword": "(2) wli",
+    "copticWord": "ⲱⲗⲓ",
+    "englishTransliteration": "ōli",
+    "reference": "522a",
+    "partOfSpeech": "n",
+    "gloss": "Striking, blow",
+    "definition": "Striking, blow"
+  },
+  {
+    "headword": "wlk",
+    "copticWord": "ⲱⲗⲕ",
+    "englishTransliteration": "ōlk",
+    "variants": [
+      {
+        "word": "olk=",
+        "copticWord": "ⲟⲗⲕ",
+        "englishTransliteration": "olk"
+      },
+      {
+        "word": "(Q) olk",
+        "copticWord": "(Ϧ) ⲟⲗⲕ",
+        "englishTransliteration": "(Kh) olk"
+      }
+    ],
+    "reference": "522a",
+    "gloss": "vi. To become, be bent",
+    "definition": "vi. To become, be bent",
+    "senses": [
+      {
+        "label": "e",
+        "gloss": "vi. To bend toward",
+        "definition": "vi. To bend toward"
+      },
+      {
+        "label": "elksai",
+        "gloss": "vi. To turn up nose, sneer",
+        "definition": "vi. To turn up nose, sneer"
+      },
+      {
+        "label": "elkc",
+        "partOfSpeech": "f",
+        "gloss": "bend, corner",
+        "definition": "bend, corner"
+      }
+    ]
+  },
+  {
+    "headword": "refhiwis",
+    "copticWord": "ⲣⲉϥϩⲓⲱⲓϣ",
+    "englishTransliteration": "refhiōish",
+    "partOfSpeech": "m",
+    "gloss": "Preacher",
+    "definition": "Preacher"
+  },
+  {
+    "headword": "jinhiwis",
+    "copticWord": "ϫⲓⲛϩⲓⲱⲓϣ",
+    "englishTransliteration": "jinhiōish",
+    "partOfSpeech": "m",
+    "gloss": "Annunciation",
+    "definition": "Annunciation"
+  },
+  {
+    "headword": "wk",
+    "copticWord": "ⲱⲕ",
+    "englishTransliteration": "ōk",
+    "reference": "519b",
+    "gloss": "vi. To go in, sink",
+    "definition": "vi. To go in, sink"
+  },
+  {
+    "headword": "wkem",
+    "copticWord": "ⲱⲕⲉⲙ",
+    "englishTransliteration": "ōkem",
+    "variants": [
+      {
+        "word": "(Q) okem",
+        "copticWord": "(Ϧ) ⲟⲕⲉⲙ",
+        "englishTransliteration": "(Kh) okem"
+      }
+    ],
+    "reference": "519b",
+    "gloss": "vi. To be dark, gloomy, changed",
+    "definition": "vt. To darken, alter; --- eqoun e-: vb. To be gloomy toward; ---: m. Gloom, sadness"
+  },
+  {
+    "headword": "atwkem",
+    "copticWord": "ⲁⲧⲱⲕⲉⲙ",
+    "englishTransliteration": "atōkem",
+    "partOfSpeech": "adj",
+    "gloss": "Without gloom",
+    "definition": "Without gloom"
+  }
+]

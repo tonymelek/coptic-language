@@ -1,0 +1,505 @@
+[
+  {
+    "headword": "apoun",
+    "copticWord": "ⲁⲡⲟⲩⲛ",
+    "englishTransliteration": "apoun",
+    "gloss": "Lame",
+    "definition": "Lame",
+    "crossReference": {
+      "target": "(2)apouc",
+      "gloss": "Lame"
+    }
+  },
+  {
+    "headword": "(1) apouc",
+    "copticWord": "ⲁⲡⲟⲩⲥ",
+    "englishTransliteration": "apous",
+    "reference": "14b",
+    "partOfSpeech": "m",
+    "gloss": "Bald (from ringworm)",
+    "definition": "Bald (from ringworm)"
+  },
+  {
+    "headword": "(2) ariymoc",
+    "copticWord": "ⲁⲣⲓⲑⲙⲟⲥ",
+    "englishTransliteration": "arithmos",
+    "variants": [
+      {
+        "word": "-ou",
+        "copticWord": "-ⲟⲩ",
+        "englishTransliteration": "-ou"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Number, arithmetic",
+    "definition": "Number, arithmetic"
+  },
+  {
+    "headword": "Numbers (biblical book). ariymou v. ariymoc - Number. ariki",
+    "copticWord": "Ⲛⲩⲙⲃⲉⲣϣ (ⲃⲓⲃⲗⲓⲥⲁⲗ ⲃⲟⲟⲕ). ⲁⲣⲓⲑⲙⲟⲩ ⲫ. ⲁⲣⲓⲑⲙⲟⲥ - Ⲛⲩⲙⲃⲉⲣ. ⲁⲣⲓⲕⲓ",
+    "englishTransliteration": "Nymversh (veeblisal vook). arithmou f. arithmos - Nymver. ariki",
+    "reference": "15a",
+    "partOfSpeech": "m",
+    "gloss": "Blame, fault",
+    "definition": "Blame, fault"
+  },
+  {
+    "headword": "atariki",
+    "copticWord": "ⲁⲧⲁⲣⲓⲕⲓ",
+    "englishTransliteration": "atariki",
+    "partOfSpeech": "adj",
+    "gloss": "Blameless",
+    "definition": "Blameless"
+  },
+  {
+    "headword": "jemariki",
+    "copticWord": "ϫⲉⲙⲁⲣⲓⲕⲓ",
+    "englishTransliteration": "jemariki",
+    "partOfSpeech": "vb",
+    "gloss": "To blame, find fault",
+    "definition": "---: m. Fault-finding. arim, ararim: (15b)"
+  },
+  {
+    "headword": "n. An edible plant \"saltwort\". ar/ou",
+    "copticWord": "ⲛ. Ⲁⲛ ⲉⲇⲓⲃⲗⲉ ⲡⲗⲁⲛⲧ ⲮϣⲁⲗⲧⲱⲟⲣⲧⲮ. ⲁⲣⲏⲟⲩ",
+    "englishTransliteration": "n. An edeeble plant PsshaltōortPs. ariou",
+    "variants": [
+      {
+        "word": "er/ou",
+        "copticWord": "ⲉⲣⲏⲟⲩ",
+        "englishTransliteration": "eriou"
+      }
+    ],
+    "reference": "59a",
+    "gloss": "nn mf. mostly w/ poss. prfx agreeing in gender and mostly in number w/ the subject of the clause",
+    "definition": "fellow, companion; each other, together, mutually."
+  },
+  {
+    "headword": "(2) apouc",
+    "copticWord": "ⲁⲡⲟⲩⲥ",
+    "englishTransliteration": "apous",
+    "variants": [
+      {
+        "word": "-oun",
+        "copticWord": "-ⲟⲩⲛ",
+        "englishTransliteration": "-oun"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Lame, without foot or feet",
+    "definition": "Lame, without foot or feet"
+  },
+  {
+    "headword": "apovacic",
+    "copticWord": "ⲁⲡⲟⲫⲁⲥⲓⲥ",
+    "englishTransliteration": "apofasis",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Sentence, decision, assertion, judgement",
+    "definition": "Sentence, decision, assertion, judgement"
+  },
+  {
+    "headword": "apuroc",
+    "copticWord": "ⲁⲡⲩⲣⲟⲥ",
+    "englishTransliteration": "apyros",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Without fire, cold, cheerless, brand-new, unsmelted",
+    "definition": "Without fire, cold, cheerless, brand-new, unsmelted"
+  },
+  {
+    "headword": "(1) ara",
+    "copticWord": "ⲁⲣⲁ",
+    "englishTransliteration": "ara",
+    "reference": "14b",
+    "partOfSpeech": "m",
+    "gloss": "Door-ring",
+    "definition": "Door-ring"
+  },
+  {
+    "headword": "(2) ara",
+    "copticWord": "ⲁⲣⲁ",
+    "englishTransliteration": "ara",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "prep. Since, thence",
+    "definition": "prep. Since, thence"
+  },
+  {
+    "headword": "ariopagoc",
+    "copticWord": "ⲁⲣⲓⲟⲡⲁⲅⲟⲥ",
+    "englishTransliteration": "ariopagos",
+    "gloss": "Arios pagos",
+    "definition": "Arios pagos",
+    "crossReference": {
+      "target": "areioc pagoc",
+      "gloss": "Arios pagos"
+    }
+  },
+  {
+    "headword": "arabia",
+    "copticWord": "ⲁⲣⲁⲃⲓⲁ",
+    "englishTransliteration": "aravia",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Arabia",
+    "definition": "Arabia"
+  },
+  {
+    "headword": "arabikoc",
+    "copticWord": "ⲁⲣⲁⲃⲓⲕⲟⲥ",
+    "englishTransliteration": "aravikos",
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Arabic",
+    "definition": "Arabic"
+  },
+  {
+    "headword": "arabioc",
+    "copticWord": "ⲁⲣⲁⲃⲓⲟⲥ",
+    "englishTransliteration": "aravios",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Arabian",
+    "definition": "Arabian"
+  },
+  {
+    "headword": "arictolo",
+    "copticWord": "ⲁⲣⲓⲥⲧⲟⲗⲟ",
+    "englishTransliteration": "aristolo",
+    "variants": [
+      {
+        "word": "ia",
+        "copticWord": "ⲓⲁ",
+        "englishTransliteration": "ia"
+      },
+      {
+        "word": "-ac",
+        "copticWord": "-ⲁⲥ",
+        "englishTransliteration": "-as"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "A herb used in healing of gaut, it is said that originally it was invented to ease the birth process",
+    "definition": "A herb used in healing of gaut, it is said that originally it was invented to ease the birth process"
+  },
+  {
+    "headword": "arab/c",
+    "copticWord": "ⲁⲣⲁⲃⲏⲥ",
+    "englishTransliteration": "aravis",
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Arabic",
+    "definition": "Arabic"
+  },
+  {
+    "headword": "acpi nremarab/c",
+    "copticWord": "ⲁⲥⲡⲓ ⲛⲣⲉⲙⲁⲣⲁⲃⲏⲥ",
+    "englishTransliteration": "aspi nremaravis",
+    "partOfSpeech": "f",
+    "gloss": "The Arabic language",
+    "definition": "The Arabic language"
+  },
+  {
+    "headword": "arictolo,iac",
+    "copticWord": "ⲁⲣⲓⲥⲧⲟⲗⲟⲭⲓⲁⲥ",
+    "englishTransliteration": "aristolokhias",
+    "gloss": "A kind of herb",
+    "definition": "A kind of herb",
+    "crossReference": {
+      "target": "arictolo,ia",
+      "gloss": "A kind of herb"
+    }
+  },
+  {
+    "headword": "ararim",
+    "copticWord": "ⲁⲣⲁⲣⲓⲙ",
+    "englishTransliteration": "ararim",
+    "gloss": "Saltwort",
+    "definition": "Saltwort",
+    "crossReference": {
+      "target": "arim",
+      "gloss": "Saltwort"
+    }
+  },
+  {
+    "headword": "arbot",
+    "copticWord": "ⲁⲣⲃⲟⲧ",
+    "englishTransliteration": "arvot",
+    "gloss": "Staff",
+    "definition": "Staff",
+    "crossReference": {
+      "target": "arbwt",
+      "gloss": "Staff"
+    }
+  },
+  {
+    "headword": "aricton",
+    "copticWord": "ⲁⲣⲓⲥⲧⲟⲛ",
+    "englishTransliteration": "ariston",
+    "variants": [
+      {
+        "word": "-ou",
+        "copticWord": "-ⲟⲩ",
+        "englishTransliteration": "-ou"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Morning meal, breakfast, luncheon",
+    "definition": "banquet."
+  },
+  {
+    "headword": "arbwt",
+    "copticWord": "ⲁⲣⲃⲱⲧ",
+    "englishTransliteration": "arvōt",
+    "variants": [
+      {
+        "word": "-ot",
+        "copticWord": "-ⲟⲧ",
+        "englishTransliteration": "-ot"
+      }
+    ],
+    "reference": "702a",
+    "partOfSpeech": "m",
+    "gloss": "Wand, staff",
+    "definition": "Wand, staff"
+  },
+  {
+    "headword": "arictou",
+    "copticWord": "ⲁⲣⲓⲥⲧⲟⲩ",
+    "englishTransliteration": "aristou",
+    "gloss": "Breakfast",
+    "definition": "Breakfast",
+    "crossReference": {
+      "target": "aricton",
+      "gloss": "Breakfast"
+    }
+  },
+  {
+    "headword": "arioui",
+    "copticWord": "ⲁⲣⲓⲟⲩⲓ",
+    "englishTransliteration": "arioui",
+    "gloss": "Do",
+    "definition": "Do",
+    "crossReference": {
+      "target": "iri",
+      "gloss": "Do"
+    }
+  },
+  {
+    "headword": "areioc pagoc",
+    "copticWord": "ⲁⲣⲉⲓⲟⲥ ⲡⲁⲅⲟⲥ",
+    "englishTransliteration": "arios pagos",
+    "variants": [
+      {
+        "word": "arioc pagoc",
+        "copticWord": "ⲁⲣⲓⲟⲥ ⲡⲁⲅⲟⲥ",
+        "englishTransliteration": "arios pagos"
+      }
+    ],
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "The hill of ares at Athens",
+    "definition": "Arios Pagos."
+  },
+  {
+    "headword": "aret/",
+    "copticWord": "ⲁⲣⲉⲧⲏ",
+    "englishTransliteration": "areti",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Goodness, virtue, valor, excellence",
+    "definition": "Goodness, virtue, valor, excellence"
+  },
+  {
+    "headword": "arkan/",
+    "copticWord": "ⲁⲣⲕⲁⲛⲏ",
+    "englishTransliteration": "arkani",
+    "variants": [
+      {
+        "word": "arkl/",
+        "copticWord": "ⲁⲣⲕⲗⲏ",
+        "englishTransliteration": "arkli"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "The bar to which the threads of the warp are fastened",
+    "definition": "The bar to which the threads of the warp are fastened"
+  },
+  {
+    "headword": "arkl/",
+    "copticWord": "ⲁⲣⲕⲗⲏ",
+    "englishTransliteration": "arkli",
+    "gloss": "A kind of bar",
+    "definition": "A kind of bar",
+    "crossReference": {
+      "target": "arkan/",
+      "gloss": "A kind of bar"
+    }
+  },
+  {
+    "headword": "aro",
+    "copticWord": "ⲁⲣⲟ",
+    "englishTransliteration": "aro",
+    "reference": "15a",
+    "partOfSpeech": "n",
+    "gloss": "Cyperus (tree, or wood)",
+    "definition": "Cyperus (tree, or wood)"
+  },
+  {
+    "headword": "aresan",
+    "copticWord": "ⲁⲣⲉϣⲁⲛ",
+    "englishTransliteration": "areshan",
+    "reference": "59a",
+    "gloss": "Conditional vbal prfx formed from 2nd present + san, sa",
+    "definition": "if."
+  },
+  {
+    "headword": "artemonoc",
+    "copticWord": "ⲁⲣⲧⲉⲙⲟⲛⲟⲥ",
+    "englishTransliteration": "artemonos",
+    "gloss": "Pulley",
+    "definition": "Pulley",
+    "crossReference": {
+      "target": "artemwn",
+      "gloss": "Pulley"
+    }
+  },
+  {
+    "headword": "areh",
+    "copticWord": "ⲁⲣⲉϩ",
+    "englishTransliteration": "areh",
+    "reference": "707b",
+    "gloss": "vi. To guard, keep",
+    "definition": "vi. To guard, keep",
+    "senses": [
+      {
+        "label": "e",
+        "gloss": "vb + d.o.",
+        "definition": "--: m. watch, guard; ma nareh: m. Watching-place; refareh: m. Watcher, guard; metrefareh: f. Watchfulness; jinareh: m. Act of watching, guarding."
+      }
+    ]
+  },
+  {
+    "headword": "artemwn",
+    "copticWord": "ⲁⲣⲧⲉⲙⲱⲛ",
+    "englishTransliteration": "artemōn",
+    "variants": [
+      {
+        "word": "-monoc",
+        "copticWord": "-ⲙⲟⲛⲟⲥ",
+        "englishTransliteration": "-monos"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "The foresail of a ship, the pricipal pulley (in a system)",
+    "definition": "The foresail of a ship, the pricipal pulley (in a system)"
+  },
+  {
+    "headword": "ar,aioc",
+    "copticWord": "ⲁⲣⲭⲁⲓⲟⲥ",
+    "englishTransliteration": "arkhaios",
+    "gloss": "Ancient",
+    "definition": "Ancient",
+    "crossReference": {
+      "target": "ar,eoc",
+      "gloss": "Ancient"
+    }
+  },
+  {
+    "headword": "ar",
+    "copticWord": "ⲁⲣ",
+    "englishTransliteration": "ar",
+    "variants": [
+      {
+        "word": "ei",
+        "copticWord": "ⲉⲓ",
+        "englishTransliteration": "i"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Beginning",
+    "definition": "Beginning"
+  },
+  {
+    "headword": "ar/b",
+    "copticWord": "ⲁⲣⲏⲃ",
+    "englishTransliteration": "areeb",
+    "variants": [
+      {
+        "word": "er/b",
+        "copticWord": "ⲉⲣⲏⲃ",
+        "englishTransliteration": "ereeb"
+      },
+      {
+        "word": "r/b",
+        "copticWord": "ⲣⲏⲃ",
+        "englishTransliteration": "reeb"
+      }
+    ],
+    "reference": "15a",
+    "partOfSpeech": "m",
+    "gloss": "Pledge, deposit (of money)",
+    "definition": "Pledge, deposit (of money)"
+  },
+  {
+    "headword": "(1) ar/ou",
+    "copticWord": "ⲁⲣⲏⲟⲩ",
+    "englishTransliteration": "ariou",
+    "reference": "15b",
+    "partOfSpeech": "adv",
+    "gloss": "Perhaps, if",
+    "definition": "eb/l ar/ou adv. Except."
+  },
+  {
+    "headword": "metar",
+    "copticWord": "ⲙⲉⲧⲁⲣ",
+    "englishTransliteration": "metar",
+    "variants": [
+      {
+        "word": "/",
+        "copticWord": "ⲏ",
+        "englishTransliteration": "i"
+      }
+    ],
+    "partOfSpeech": "f",
+    "gloss": "Leadership, authority, government",
+    "definition": "Leadership, authority, government"
+  },
+  {
+    "headword": "erar",
+    "copticWord": "ⲉⲣⲁⲣ",
+    "englishTransliteration": "erar",
+    "variants": [
+      {
+        "word": "ecye",
+        "copticWord": "ⲉⲥⲑⲉ",
+        "englishTransliteration": "esthe"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To begin, start to work",
+    "definition": "To begin, start to work"
+  }
+]

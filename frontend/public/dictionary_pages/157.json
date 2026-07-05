@@ -1,0 +1,468 @@
+[
+  {
+    "headword": "(2) hi",
+    "copticWord": "ϩⲓ",
+    "englishTransliteration": "hi",
+    "variants": [
+      {
+        "word": "ehi",
+        "copticWord": "ⲉϩⲓ",
+        "englishTransliteration": "ehi"
+      },
+      {
+        "word": "nhi",
+        "copticWord": "ⲛϩⲓ",
+        "englishTransliteration": "nhi"
+      },
+      {
+        "word": "hiwt=",
+        "copticWord": "ϩⲓⲱⲧ",
+        "englishTransliteration": "hiōt"
+      }
+    ],
+    "reference": "643b",
+    "gloss": "Prep. On, at, in",
+    "definition": "concering; with; from; out of; under, in time of, in presence of; at time of; and, or;",
+    "senses": [
+      {
+        "label": "hinai",
+        "gloss": "Thus",
+        "definition": "Thus"
+      },
+      {
+        "label": "ebol hi",
+        "gloss": "From off, from",
+        "definition": "From off, from"
+      },
+      {
+        "label": "epec/t hi",
+        "gloss": "Down from off",
+        "definition": "Down from off"
+      },
+      {
+        "label": "ehr/i hi",
+        "gloss": "Down from",
+        "definition": "Down from"
+      },
+      {
+        "label": "nqr/i hi",
+        "gloss": "Upon, in",
+        "definition": "Upon, in"
+      }
+    ]
+  },
+  {
+    "headword": "athinim",
+    "copticWord": "ⲁⲧϩⲓⲛⲓⲙ",
+    "englishTransliteration": "athinim",
+    "partOfSpeech": "adj",
+    "gloss": "Sleepless, without sleep. hiomi v. chimi - Women. hioi: (646b)",
+    "definition": "vi. To discuss, dispute;",
+    "senses": [
+      {
+        "partOfSpeech": "n",
+        "gloss": "Discussion (leading to) confirmation",
+        "definition": "refhioi: m. Ambitious person."
+      }
+    ]
+  },
+  {
+    "headword": "hip",
+    "copticWord": "ϩⲓⲡ",
+    "englishTransliteration": "hip",
+    "gloss": "Ibis. hici: (713a)",
+    "definition": "vt. To spin (weaving).",
+    "crossReference": {
+      "target": "hifoui",
+      "gloss": "Ibis. hici: (713a)"
+    }
+  },
+  {
+    "headword": "hit",
+    "copticWord": "ϩⲓⲧ",
+    "englishTransliteration": "hit",
+    "reference": "718a",
+    "partOfSpeech": "m",
+    "gloss": "Pit",
+    "definition": "Pit"
+  },
+  {
+    "headword": "hit=",
+    "copticWord": "ϩⲓⲧ",
+    "englishTransliteration": "hit",
+    "gloss": "To strike",
+    "definition": "To strike",
+    "crossReference": {
+      "target": "hioui",
+      "gloss": "To strike"
+    }
+  },
+  {
+    "headword": "hiten",
+    "copticWord": "ϩⲓⲧⲉⲛ",
+    "englishTransliteration": "hiten",
+    "gloss": "Through",
+    "definition": "Through",
+    "crossReference": {
+      "target": "twri",
+      "gloss": "Through"
+    }
+  },
+  {
+    "headword": "hitot=",
+    "copticWord": "ϩⲓⲧⲟⲧ",
+    "englishTransliteration": "hitot",
+    "gloss": "Through. hitot= v. hioui - To lay hand",
+    "definition": "Through. hitot= v. hioui - To lay hand",
+    "crossReference": {
+      "target": "twri",
+      "gloss": "Through. hitot= v. hioui - To lay hand"
+    }
+  },
+  {
+    "headword": "hi",
+    "copticWord": "ϩⲓ",
+    "englishTransliteration": "hi",
+    "gloss": "To strike",
+    "definition": "To strike",
+    "crossReference": {
+      "target": "hioui",
+      "gloss": "To strike"
+    }
+  },
+  {
+    "headword": "hioui hi- hit= hwoui hooui",
+    "copticWord": "ϩⲓⲟⲩⲓ ϩⲓ- ϩⲓⲧ ϩ̅ⲱⲟⲩⲓ ϩⲟⲟⲩⲓ",
+    "englishTransliteration": "hioui hi- hit h̅ōoui hooui",
+    "reference": "732b",
+    "gloss": "v. To be struck, whetted",
+    "definition": "vt. To strike, cast, lay;",
+    "senses": [
+      {
+        "label": "ejen",
+        "partOfSpeech": "vb",
+        "gloss": "To strike upon",
+        "definition": "To strike upon"
+      },
+      {
+        "label": "nca",
+        "partOfSpeech": "vb",
+        "gloss": "To strike after, upon",
+        "definition": "for emphasis;"
+      },
+      {
+        "label": "qa",
+        "partOfSpeech": "vb",
+        "gloss": "to strike beneath",
+        "definition": "to strike beneath"
+      },
+      {
+        "label": "qen",
+        "partOfSpeech": "vb",
+        "gloss": "To strike in, on",
+        "definition": "To strike in, on"
+      },
+      {
+        "label": "haten",
+        "partOfSpeech": "vb",
+        "gloss": "To strike beneath",
+        "definition": "To strike beneath"
+      },
+      {
+        "label": "hijen",
+        "partOfSpeech": "vb",
+        "gloss": "To strike upon",
+        "definition": "To strike upon"
+      },
+      {
+        "label": "ebol",
+        "partOfSpeech": "vb",
+        "gloss": "To cast out, put forth",
+        "definition": "To cast out, put forth"
+      },
+      {
+        "label": "eqr/i",
+        "partOfSpeech": "vb",
+        "gloss": "To cast down metathitf: f. Undauntness",
+        "definition": "refhioui: m. Smiter, thrower;"
+      },
+      {
+        "label": "jinhioui",
+        "partOfSpeech": "m",
+        "gloss": "Act of smiting, casting",
+        "definition": "hitot=: vb. To lay hand, undertake, begin, attempt;"
+      },
+      {
+        "label": "e",
+        "partOfSpeech": "vb",
+        "gloss": "To lay hand upon",
+        "definition": "hiar,/: vb. To make beginning; hikl/roc: vb. To cast lots; hictauroc: vb. To cast (sign of) cross."
+      }
+    ]
+  },
+  {
+    "headword": "hi alla v. la - To slander. hiar",
+    "copticWord": "ϩⲓ ⲁⲗⲗⲁ ⲫ. ⲗⲁ - Ⲧⲟ ϣⲗⲁⲛⲇⲉⲣ. ϩⲓⲁⲣ",
+    "englishTransliteration": "hi alla f. la - To shlander. hiar",
+    "variants": [
+      {
+        "word": "/ v. hioui - To make begining. hie",
+        "copticWord": "ⲏ ⲫ. ϩⲓⲟⲩⲓ - Ⲧⲟ ⲙⲁⲕⲉ ⲃⲉⲅⲓⲛⲓⲛⲅ. ϩⲓⲉ",
+        "englishTransliteration": "i f. hioui - To make vegining. hie"
+      },
+      {
+        "word": "hi/",
+        "copticWord": "ϩⲓⲏ",
+        "englishTransliteration": "hii"
+      },
+      {
+        "type": "pl.",
+        "word": "hi/ou",
+        "copticWord": "ϩⲓⲏⲟⲩ",
+        "englishTransliteration": "hiiou"
+      }
+    ],
+    "reference": "645b",
+    "gloss": "Rudder",
+    "definition": "Rudder"
+  },
+  {
+    "headword": "athi/",
+    "copticWord": "ⲁⲧϩⲓⲏ",
+    "englishTransliteration": "athii",
+    "partOfSpeech": "adj",
+    "gloss": "Rudderless",
+    "definition": "Rudderless"
+  },
+  {
+    "headword": "hi/",
+    "copticWord": "ϩⲓⲏ",
+    "englishTransliteration": "hii",
+    "gloss": "Rudder",
+    "definition": "Rudder",
+    "crossReference": {
+      "target": "hie",
+      "gloss": "Rudder"
+    }
+  },
+  {
+    "headword": "hi/b",
+    "copticWord": "ϩⲓⲏⲃ",
+    "englishTransliteration": "hieeb",
+    "variants": [
+      {
+        "type": "f.",
+        "word": "hiebi",
+        "copticWord": "ϩⲓⲉⲃⲓ",
+        "englishTransliteration": "hievi"
+      }
+    ],
+    "reference": "652b",
+    "partOfSpeech": "m",
+    "gloss": "Lamb",
+    "definition": "Lamb"
+  },
+  {
+    "headword": "hi/ou",
+    "copticWord": "ϩⲓⲏⲟⲩ",
+    "englishTransliteration": "hiiou",
+    "gloss": "Rudders",
+    "definition": "Rudders",
+    "crossReference": {
+      "target": "hie",
+      "gloss": "Rudders"
+    }
+  },
+  {
+    "headword": "hiy/",
+    "copticWord": "ϩⲓⲑⲏ",
+    "englishTransliteration": "hithi",
+    "gloss": "To",
+    "definition": "To",
+    "crossReference": {
+      "target": "(1)h/",
+      "gloss": "To"
+    }
+  },
+  {
+    "headword": "hik",
+    "copticWord": "ϩⲓⲕ",
+    "englishTransliteration": "hik",
+    "reference": "661a",
+    "partOfSpeech": "m",
+    "gloss": "Magic",
+    "definition": "Magic",
+    "senses": [
+      {
+        "label": "erhik",
+        "partOfSpeech": "vb",
+        "gloss": "To bewitch, enchant",
+        "definition": "referhik: m. Wizard, enchanter."
+      }
+    ]
+  },
+  {
+    "headword": "hilakmi",
+    "copticWord": "ϩⲓⲗⲁⲕⲙⲓ",
+    "englishTransliteration": "hilakmi",
+    "variants": [
+      {
+        "word": "hulakmi",
+        "copticWord": "ϩⲩⲗⲁⲕⲙⲓ",
+        "englishTransliteration": "hylakmi"
+      },
+      {
+        "word": "halakmi",
+        "copticWord": "ϩⲁⲗⲁⲕⲙⲓ",
+        "englishTransliteration": "halakmi"
+      }
+    ],
+    "reference": "668b",
+    "senses": [
+      {
+        "label": "senhin",
+        "partOfSpeech": "m",
+        "gloss": "Divination, lit. inquiring of cup",
+        "definition": "refsenhin: m. Diviner; ersenhin: vb. To be diviner."
+      }
+    ]
+  },
+  {
+    "headword": "m. Blear-eyed person. him/ v. (1)h/mi - Fare. hin",
+    "copticWord": "ⲙ. Ⲃⲗⲉⲁⲣ-ⲉⲑⲉⲇ ⲡⲉⲣϣⲟⲛ. ϩⲓⲙⲏ ⲫ. (1)ϩⲏⲙⲓ - Ϥⲁⲣⲉ. ϩⲓⲛ",
+    "englishTransliteration": "m. Vlear-ethed pershon. himi f. (1)himi - Fare. hin",
+    "reference": "685a",
+    "partOfSpeech": "m",
+    "gloss": "Vessel, cup",
+    "definition": "liquid measure;"
+  },
+  {
+    "headword": "hiouma",
+    "copticWord": "ϩⲓⲟⲩⲙⲁ",
+    "englishTransliteration": "hiouma",
+    "gloss": "In one place",
+    "definition": "In one place",
+    "crossReference": {
+      "target": "ma",
+      "gloss": "In one place"
+    }
+  },
+  {
+    "headword": "hivouei",
+    "copticWord": "ϩⲓⲫⲟⲩⲉⲓ",
+    "englishTransliteration": "hifoui",
+    "gloss": "At a distance",
+    "definition": "At a distance",
+    "crossReference": {
+      "target": "ouei",
+      "gloss": "At a distance"
+    }
+  },
+  {
+    "headword": "(1)hini",
+    "copticWord": "ϩⲓⲛⲓ",
+    "englishTransliteration": "hini",
+    "reference": "689a",
+    "gloss": "vi. To move (by rowing)",
+    "definition": "vi. To move (by rowing)"
+  },
+  {
+    "headword": "(2)hini",
+    "copticWord": "ϩⲓⲛⲓ",
+    "englishTransliteration": "hini",
+    "variants": [
+      {
+        "word": "hen",
+        "copticWord": "ϩⲉⲛ",
+        "englishTransliteration": "hen"
+      },
+      {
+        "word": "hen=",
+        "copticWord": "ϩⲉⲛ",
+        "englishTransliteration": "hen"
+      }
+    ],
+    "reference": "689a",
+    "partOfSpeech": "vb",
+    "gloss": "refl",
+    "definition": "refl"
+  },
+  {
+    "headword": "hiwis",
+    "copticWord": "ϩⲓⲱⲓϣ",
+    "englishTransliteration": "hiōish",
+    "gloss": "To proclaim",
+    "definition": "To proclaim",
+    "crossReference": {
+      "target": "wis",
+      "gloss": "To proclaim"
+    }
+  },
+  {
+    "headword": "hiwout (Q) v. hei - To have fallen. hifoui",
+    "copticWord": "ϩⲓⲱⲟⲩⲧ (Ϧ) ⲫ. ϩⲉⲓ - Ⲧⲟ ϩⲁⲫⲉ ϥⲁⲗⲗⲉⲛ. ϩⲓϥⲟⲩⲓ",
+    "englishTransliteration": "hiōout (Kh) f. hi - To hafe fallen. hifoui",
+    "variants": [
+      {
+        "word": "hboui",
+        "copticWord": "ϩⲃⲟⲩⲓ",
+        "englishTransliteration": "hvoui"
+      },
+      {
+        "word": "hip",
+        "copticWord": "ϩⲓⲡ",
+        "englishTransliteration": "hip"
+      }
+    ],
+    "reference": "655b",
+    "partOfSpeech": "m",
+    "gloss": "Ibis. hiheli v. heli - To terrify",
+    "definition": "Ibis. hiheli v. heli - To terrify"
+  },
+  {
+    "headword": "hinim hnim",
+    "copticWord": "ϩⲓⲛⲓⲙ ϩⲛⲓⲙ",
+    "englishTransliteration": "hinim hnim",
+    "reference": "691a",
+    "gloss": "vi. To sleep, doze",
+    "definition": "---: m. Sleep;"
+  },
+  {
+    "headword": "hiho]",
+    "copticWord": "ϩⲓϩⲟϯ",
+    "englishTransliteration": "hihoti",
+    "gloss": "To cast fear. hi] v. qi] - To rub",
+    "definition": "To cast fear. hi] v. qi] - To rub",
+    "crossReference": {
+      "target": "(1)ho]",
+      "gloss": "To cast fear. hi] v. qi] - To rub"
+    }
+  },
+  {
+    "headword": "hko",
+    "copticWord": "ϩⲕⲟ",
+    "englishTransliteration": "hko",
+    "variants": [
+      {
+        "word": "ehko",
+        "copticWord": "ⲉϩⲕⲟ",
+        "englishTransliteration": "ehko"
+      },
+      {
+        "word": "(Q) hoker",
+        "copticWord": "(Ϧ) ϩⲟⲕⲉⲣ",
+        "englishTransliteration": "(Kh) hoker"
+      }
+    ],
+    "reference": "663b",
+    "gloss": "vi. To be hungry",
+    "definition": "vi. To be hungry",
+    "senses": [
+      {
+        "label": "n",
+        "gloss": "vi. To hunger for",
+        "definition": "vi. To hunger for"
+      }
+    ]
+  }
+]

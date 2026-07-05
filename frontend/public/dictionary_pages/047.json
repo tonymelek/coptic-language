@@ -1,0 +1,665 @@
+[
+  {
+    "headword": "kenoc",
+    "copticWord": "ⲕⲉⲛⲟⲥ",
+    "englishTransliteration": "kenos",
+    "gloss": "New",
+    "definition": "New",
+    "crossReference": {
+      "target": "kainoc",
+      "gloss": "New"
+    }
+  },
+  {
+    "headword": "kente",
+    "copticWord": "ⲕⲉⲛⲧⲉ",
+    "englishTransliteration": "kente",
+    "reference": "112b",
+    "partOfSpeech": "m",
+    "gloss": "Fig",
+    "definition": "Fig"
+  },
+  {
+    "headword": "bw nkente",
+    "copticWord": "ⲃⲱ ⲛⲕⲉⲛⲧⲉ",
+    "englishTransliteration": "vō nkente",
+    "partOfSpeech": "f",
+    "gloss": "Fig tree",
+    "definition": "Fig tree"
+  },
+  {
+    "headword": "iah nkente",
+    "copticWord": "ⲓⲁϩ ⲛⲕⲉⲛⲧⲉ",
+    "englishTransliteration": "iah nkente",
+    "partOfSpeech": "m",
+    "gloss": "Fig garden",
+    "definition": "Fig garden"
+  },
+  {
+    "headword": "ker",
+    "copticWord": "ⲕⲉⲣ",
+    "englishTransliteration": "ker",
+    "reference": "114b",
+    "partOfSpeech": "m",
+    "gloss": "Haunch, thigh",
+    "definition": "Haunch, thigh"
+  },
+  {
+    "headword": "kera",
+    "copticWord": "ⲕⲉⲣⲁ",
+    "englishTransliteration": "kera",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Coulter",
+    "definition": "Coulter"
+  },
+  {
+    "headword": "kerameuc",
+    "copticWord": "ⲕⲉⲣⲁⲙⲉⲩⲥ",
+    "englishTransliteration": "keramevs",
+    "variants": [
+      {
+        "word": "keramewc",
+        "copticWord": "ⲕⲉⲣⲁⲙⲉⲱⲥ",
+        "englishTransliteration": "kerameōs"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Potter, maker of pottery",
+    "definition": "Potter, maker of pottery"
+  },
+  {
+    "headword": "keramewc",
+    "copticWord": "ⲕⲉⲣⲁⲙⲉⲱⲥ",
+    "englishTransliteration": "kerameōs",
+    "gloss": "Potter",
+    "definition": "Potter",
+    "crossReference": {
+      "target": "kerameuc",
+      "gloss": "Potter"
+    }
+  },
+  {
+    "headword": "kel",
+    "copticWord": "ⲕⲉⲗ",
+    "englishTransliteration": "kel",
+    "gloss": "Knee",
+    "definition": "Knee",
+    "crossReference": {
+      "target": "kal",
+      "gloss": "Knee"
+    }
+  },
+  {
+    "headword": "kelebin",
+    "copticWord": "ⲕⲉⲗⲉⲃⲓⲛ",
+    "englishTransliteration": "kelevin",
+    "reference": "102b",
+    "partOfSpeech": "m",
+    "gloss": "Axe, pickaxe",
+    "definition": "Axe, pickaxe"
+  },
+  {
+    "headword": "keleli",
+    "copticWord": "ⲕⲉⲗⲉⲗⲓ",
+    "englishTransliteration": "keleli",
+    "reference": "103b",
+    "partOfSpeech": "f",
+    "gloss": "Snorous wooden board struck to assemble congregation",
+    "definition": "Snorous wooden board struck to assemble congregation"
+  },
+  {
+    "headword": "keleue",
+    "copticWord": "ⲕⲉⲗⲉⲩⲉ",
+    "englishTransliteration": "keleve",
+    "gloss": "To urge",
+    "definition": "To urge",
+    "crossReference": {
+      "target": "keleuin",
+      "gloss": "To urge"
+    }
+  },
+  {
+    "headword": "keleuin",
+    "copticWord": "ⲕⲉⲗⲉⲩⲓⲛ",
+    "englishTransliteration": "kelevin",
+    "variants": [
+      {
+        "word": "keleue",
+        "copticWord": "ⲕⲉⲗⲉⲩⲉ",
+        "englishTransliteration": "keleve"
+      }
+    ],
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "(w/ er-). To urge, drive on, exhort, bid, order, request",
+    "definition": "(w/ er-). To urge, drive on, exhort, bid, order, request"
+  },
+  {
+    "headword": "keli",
+    "copticWord": "ⲕⲉⲗⲓ",
+    "englishTransliteration": "keli",
+    "gloss": "Knee",
+    "definition": "Knee",
+    "crossReference": {
+      "target": "kal",
+      "gloss": "Knee"
+    }
+  },
+  {
+    "headword": "kelka",
+    "copticWord": "ⲕⲉⲗⲕⲁ",
+    "englishTransliteration": "kelka",
+    "reference": "102b",
+    "partOfSpeech": "m",
+    "gloss": "Lump, pustule, blister",
+    "definition": "Lump, pustule, blister"
+  },
+  {
+    "headword": "kelloj",
+    "copticWord": "ⲕⲉⲗⲗⲟϫ",
+    "englishTransliteration": "kelloj",
+    "reference": "104b",
+    "gloss": "pl. Puppy, whelp",
+    "definition": "buffalo"
+  },
+  {
+    "headword": "kelol",
+    "copticWord": "ⲕⲉⲗⲟⲗ",
+    "englishTransliteration": "kelol",
+    "gloss": "Jar",
+    "definition": "Jar",
+    "crossReference": {
+      "target": "(1)kelwl",
+      "gloss": "Jar"
+    }
+  },
+  {
+    "headword": "keloli",
+    "copticWord": "ⲕⲉⲗⲟⲗⲓ",
+    "englishTransliteration": "keloli",
+    "gloss": "Jar",
+    "definition": "Jar",
+    "crossReference": {
+      "target": "(1)kelwl",
+      "gloss": "Jar"
+    }
+  },
+  {
+    "headword": "kelp",
+    "copticWord": "ⲕⲉⲗⲡ",
+    "englishTransliteration": "kelp",
+    "gloss": "To steal",
+    "definition": "To steal",
+    "crossReference": {
+      "target": "kwlp",
+      "gloss": "To steal"
+    }
+  },
+  {
+    "headword": "kelou",
+    "copticWord": "ⲕⲉⲗⲟⲩ",
+    "englishTransliteration": "kelou",
+    "reference": "102b",
+    "gloss": "vt. To loosen, slacken",
+    "definition": "vt. To loosen, slacken"
+  },
+  {
+    "headword": "kelouonjf",
+    "copticWord": "ⲕⲉⲗⲟⲩⲟⲛϫϥ",
+    "englishTransliteration": "kelouonjf",
+    "gloss": "Jaw-bone",
+    "definition": "Jaw-bone",
+    "crossReference": {
+      "target": "kal",
+      "gloss": "Jaw-bone"
+    }
+  },
+  {
+    "headword": "kelvaj",
+    "copticWord": "ⲕⲉⲗⲫⲁϫ",
+    "englishTransliteration": "kelfaj",
+    "reference": "106a",
+    "partOfSpeech": "n",
+    "gloss": "Truffle",
+    "definition": "Truffle"
+  },
+  {
+    "headword": "(1) kelwl",
+    "copticWord": "ⲕⲉⲗⲱⲗ",
+    "englishTransliteration": "kelōl",
+    "variants": [
+      {
+        "word": "koulwl",
+        "copticWord": "ⲕⲟⲩⲗⲱⲗ",
+        "englishTransliteration": "koulōl"
+      },
+      {
+        "word": "kelol",
+        "copticWord": "ⲕⲉⲗⲟⲗ",
+        "englishTransliteration": "kelol"
+      },
+      {
+        "type": "f.",
+        "word": "keloli",
+        "copticWord": "ⲕⲉⲗⲟⲗⲓ",
+        "englishTransliteration": "keloli"
+      },
+      {
+        "word": "ekloli",
+        "copticWord": "ⲉⲕⲗⲟⲗⲓ",
+        "englishTransliteration": "ekloli"
+      }
+    ],
+    "reference": "104a",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "lol",
+    "copticWord": "ⲗⲟⲗ",
+    "englishTransliteration": "lol",
+    "partOfSpeech": "m",
+    "gloss": "Same meaning",
+    "definition": "Same meaning"
+  },
+  {
+    "headword": "(2)kelwl",
+    "copticWord": "ⲕⲉⲗⲱⲗ",
+    "englishTransliteration": "kelōl",
+    "reference": "104a",
+    "gloss": "pl. Curling hair",
+    "definition": "pl. Curling hair"
+  },
+  {
+    "headword": "kelfi",
+    "copticWord": "ⲕⲉⲗϥⲓ",
+    "englishTransliteration": "kelfi",
+    "reference": "106a",
+    "gloss": "pl. Eyelids",
+    "definition": "pl. Eyelids"
+  },
+  {
+    "headword": "kelj",
+    "copticWord": "ⲕⲉⲗϫ",
+    "englishTransliteration": "kelj",
+    "gloss": "To blend",
+    "definition": "To blend",
+    "crossReference": {
+      "target": "kwlj",
+      "gloss": "To blend"
+    }
+  },
+  {
+    "headword": "kemkem",
+    "copticWord": "ⲕⲉⲙⲕⲉⲙ",
+    "englishTransliteration": "kemkem",
+    "reference": "109a",
+    "gloss": "vi. To strike, beat a musical instrument",
+    "definition": "make a repeated sound."
+  },
+  {
+    "headword": "kerax",
+    "copticWord": "ⲕⲉⲣⲁⲝ",
+    "englishTransliteration": "keraks",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Axe, hoe",
+    "definition": "Axe, hoe"
+  },
+  {
+    "headword": "kerat",
+    "copticWord": "ⲕⲉⲣⲁⲧ",
+    "englishTransliteration": "kerat",
+    "variants": [
+      {
+        "word": "keratce",
+        "copticWord": "ⲕⲉⲣⲁⲧⲥⲉ",
+        "englishTransliteration": "keratse"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Carat",
+    "definition": "Carat"
+  },
+  {
+    "headword": "keraunoc",
+    "copticWord": "ⲕⲉⲣⲁⲩⲛⲟⲥ",
+    "englishTransliteration": "keravnos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Thunderbolt, thunder and lightning",
+    "definition": "Thunderbolt, thunder and lightning"
+  },
+  {
+    "headword": "hikeraunoc",
+    "copticWord": "ϩⲓⲕⲉⲣⲁⲩⲛⲟⲥ",
+    "englishTransliteration": "hikeravnos",
+    "partOfSpeech": "vb",
+    "gloss": "To thunder, make lightning",
+    "definition": "To thunder, make lightning"
+  },
+  {
+    "headword": "kerix",
+    "copticWord": "ⲕⲉⲣⲓⲝ",
+    "englishTransliteration": "keriks",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Public messenger, envoy, herald, auctioneer",
+    "definition": "Public messenger, envoy, herald, auctioneer"
+  },
+  {
+    "headword": "kerma",
+    "copticWord": "ⲕⲉⲣⲙⲁ",
+    "englishTransliteration": "kerma",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "fragment, coin",
+    "definition": "fragment, coin"
+  },
+  {
+    "headword": "faikerma",
+    "copticWord": "ϥⲁⲓⲕⲉⲣⲙⲁ",
+    "englishTransliteration": "faikerma",
+    "variants": [
+      {
+        "word": "referkerma",
+        "copticWord": "ⲣⲉϥⲉⲣⲕⲉⲣⲙⲁ",
+        "englishTransliteration": "referkerma"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "Trea-surer",
+    "definition": "Trea-surer"
+  },
+  {
+    "headword": "erkerma",
+    "copticWord": "ⲉⲣⲕⲉⲣⲙⲁ",
+    "englishTransliteration": "erkerma",
+    "gloss": "vb",
+    "definition": "vb"
+  },
+  {
+    "headword": "To spend",
+    "copticWord": "Ⲧⲟ ϣⲡⲉⲛⲇ",
+    "englishTransliteration": "To shpend",
+    "variants": [
+      {
+        "word": "change kermi",
+        "copticWord": "ⲥϩⲁⲛⲅⲉ ⲕⲉⲣⲙⲓ",
+        "englishTransliteration": "shange kermi"
+      }
+    ],
+    "reference": "117a",
+    "partOfSpeech": "mf",
+    "gloss": "Ash, soot, dust",
+    "definition": "Ash, soot, dust"
+  },
+  {
+    "headword": "erkermi",
+    "copticWord": "ⲉⲣⲕⲉⲣⲙⲓ",
+    "englishTransliteration": "erkermi",
+    "partOfSpeech": "vb",
+    "gloss": "To become ashes, dust",
+    "definition": "To become ashes, dust"
+  },
+  {
+    "headword": "kerc",
+    "copticWord": "ⲕⲉⲣⲥ",
+    "englishTransliteration": "kers",
+    "variants": [
+      {
+        "word": "erc",
+        "copticWord": "ⲉⲣⲥ",
+        "englishTransliteration": "ers"
+      }
+    ],
+    "reference": "117b",
+    "partOfSpeech": "m",
+    "gloss": "A fish 'synidintis schal'",
+    "definition": "A fish 'synidintis schal'"
+  },
+  {
+    "headword": "kerf",
+    "copticWord": "ⲕⲉⲣϥ",
+    "englishTransliteration": "kerf",
+    "gloss": "To destroy",
+    "definition": "To destroy",
+    "crossReference": {
+      "target": "kwrf",
+      "gloss": "To destroy"
+    }
+  },
+  {
+    "headword": "kerhe",
+    "copticWord": "ⲕⲉⲣϩⲉ",
+    "englishTransliteration": "kerhe",
+    "reference": "119a",
+    "partOfSpeech": "m",
+    "gloss": "Bald person",
+    "definition": "Bald person"
+  },
+  {
+    "headword": "metkerhe",
+    "copticWord": "ⲙⲉⲧⲕⲉⲣϩⲉ",
+    "englishTransliteration": "metkerhe",
+    "partOfSpeech": "f",
+    "gloss": "Baldness",
+    "definition": "Baldness"
+  },
+  {
+    "headword": "kerj",
+    "copticWord": "ⲕⲉⲣϫ",
+    "englishTransliteration": "kerj",
+    "gloss": "To break off",
+    "definition": "To break off",
+    "crossReference": {
+      "target": "kwrj",
+      "gloss": "To break off"
+    }
+  },
+  {
+    "headword": "kerjkac",
+    "copticWord": "ⲕⲉⲣϫⲕⲁⲥ",
+    "englishTransliteration": "kerjkas",
+    "gloss": "Broken bone",
+    "definition": "Broken bone",
+    "crossReference": {
+      "target": "kwrj",
+      "gloss": "Broken bone"
+    }
+  },
+  {
+    "headword": "kec",
+    "copticWord": "ⲕⲉⲥ",
+    "englishTransliteration": "kes",
+    "gloss": "To prepare",
+    "definition": "To prepare",
+    "crossReference": {
+      "target": "kwc",
+      "gloss": "To prepare"
+    }
+  },
+  {
+    "headword": "keckwc",
+    "copticWord": "ⲕⲉⲥⲕⲱⲥ",
+    "englishTransliteration": "keskōs",
+    "gloss": "To extend",
+    "definition": "To extend",
+    "crossReference": {
+      "target": "kockec ebol",
+      "gloss": "To extend"
+    }
+  },
+  {
+    "headword": "kectwnarioc",
+    "copticWord": "ⲕⲉⲥⲧⲱⲛⲁⲣⲓⲟⲥ",
+    "englishTransliteration": "kestōnarios",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Tormentor, tor-turer",
+    "definition": "Tormentor, tor-turer"
+  },
+  {
+    "headword": "refkemkem",
+    "copticWord": "ⲣⲉϥⲕⲉⲙⲕⲉⲙ",
+    "englishTransliteration": "refkemkem",
+    "variants": [
+      {
+        "word": "referkemkem",
+        "copticWord": "ⲣⲉϥⲉⲣⲕⲉⲙⲕⲉⲙ",
+        "englishTransliteration": "referkemkem"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "Drummer, player of cymbals",
+    "definition": "Drummer, player of cymbals"
+  },
+  {
+    "headword": "kemto",
+    "copticWord": "ⲕⲉⲙⲧⲟ",
+    "englishTransliteration": "kemto",
+    "gloss": "Earthquake. Bosom, genital parts",
+    "definition": "Earthquake. Bosom, genital parts",
+    "crossReference": {
+      "target": "kim",
+      "gloss": "Earthquake. Bosom, genital parts"
+    }
+  },
+  {
+    "headword": "keneviten",
+    "copticWord": "ⲕⲉⲛⲉⲫⲓⲧⲉⲛ",
+    "englishTransliteration": "kenefiten",
+    "reference": "113a",
+    "partOfSpeech": "n",
+    "gloss": "A kind of a loaf or cake",
+    "definition": "A kind of a loaf or cake"
+  },
+  {
+    "headword": "kenevit/c",
+    "copticWord": "ⲕⲉⲛⲉⲫⲓⲧⲏⲥ",
+    "englishTransliteration": "kenefitis",
+    "partOfSpeech": "n",
+    "gloss": "Baker",
+    "definition": "Baker"
+  },
+  {
+    "headword": "ket",
+    "copticWord": "ⲕⲉⲧ",
+    "englishTransliteration": "ket",
+    "gloss": "To build",
+    "definition": "To build",
+    "crossReference": {
+      "target": "kwt",
+      "gloss": "To build"
+    }
+  },
+  {
+    "headword": "keti",
+    "copticWord": "ⲕⲉⲧⲓ",
+    "englishTransliteration": "keti",
+    "gloss": "And indeed",
+    "definition": "And indeed",
+    "crossReference": {
+      "target": "kaitoi",
+      "gloss": "And indeed"
+    }
+  },
+  {
+    "headword": "ken/",
+    "copticWord": "ⲕⲉⲛⲏ",
+    "englishTransliteration": "keni",
+    "gloss": "New",
+    "definition": "New",
+    "crossReference": {
+      "target": "kainoc",
+      "gloss": "New"
+    }
+  },
+  {
+    "headword": "keni",
+    "copticWord": "ⲕⲉⲛⲓ",
+    "englishTransliteration": "keni",
+    "variants": [
+      {
+        "word": "keniwout",
+        "note": "Q",
+        "copticWord": "ⲕⲉⲛⲓⲱⲟⲩⲧ",
+        "englishTransliteration": "keniōout"
+      }
+    ],
+    "reference": "111b",
+    "gloss": "vi. To be fat, sweet",
+    "definition": "vi. To be fat, sweet"
+  },
+  {
+    "headword": "ketige",
+    "copticWord": "ⲕⲉⲧⲓⲅⲉ",
+    "englishTransliteration": "ketige",
+    "gloss": "And indeed",
+    "definition": "And indeed",
+    "crossReference": {
+      "target": "kaitoi",
+      "gloss": "And indeed"
+    }
+  },
+  {
+    "headword": "ketoi",
+    "copticWord": "ⲕⲉⲧⲟⲓ",
+    "englishTransliteration": "ketoi",
+    "gloss": "And indeed",
+    "definition": "And indeed",
+    "crossReference": {
+      "target": "kaitoi",
+      "gloss": "And indeed"
+    }
+  },
+  {
+    "headword": "ketri",
+    "copticWord": "ⲕⲉⲧⲣⲓ",
+    "englishTransliteration": "ketri",
+    "gloss": "Fruit of syrian ceder",
+    "definition": "Fruit of syrian ceder",
+    "crossReference": {
+      "target": "kedric",
+      "gloss": "Fruit of syrian ceder"
+    }
+  },
+  {
+    "headword": "keouou",
+    "copticWord": "ⲕⲉⲟⲩⲟⲩ",
+    "englishTransliteration": "keouou",
+    "reference": "129b",
+    "partOfSpeech": "n",
+    "gloss": "Crude war",
+    "definition": "Crude war"
+  },
+  {
+    "headword": "]keni",
+    "copticWord": "ϯⲕⲉⲛⲓ",
+    "englishTransliteration": "tikeni",
+    "partOfSpeech": "vb",
+    "gloss": "To make fat, salve, anoint",
+    "definition": "To make fat, salve, anoint"
+  },
+  {
+    "headword": "kevalaion",
+    "copticWord": "ⲕⲉⲫⲁⲗⲁⲓⲟⲛ",
+    "englishTransliteration": "kefalaion",
+    "gloss": "Chapter",
+    "definition": "Chapter",
+    "crossReference": {
+      "target": "kevaleon",
+      "gloss": "Chapter"
+    }
+  }
+]

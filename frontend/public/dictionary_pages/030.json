@@ -1,0 +1,469 @@
+[
+  {
+    "headword": "ertob",
+    "copticWord": "ⲉⲣⲧⲟⲃ",
+    "englishTransliteration": "ertov",
+    "variants": [
+      {
+        "word": "ertop",
+        "copticWord": "ⲉⲣⲧⲟⲡ",
+        "englishTransliteration": "ertop"
+      },
+      {
+        "word": "ertwb",
+        "copticWord": "ⲉⲣⲧⲱⲃ",
+        "englishTransliteration": "ertōv"
+      }
+    ],
+    "reference": "305a"
+  },
+  {
+    "headword": "m. Measure of grain ... etc. ertop v. ertob - Measure of grain. ertw",
+    "copticWord": "ⲙ. Ⲙⲉⲁϣⲩⲣⲉ ⲟϥ ⲅⲣⲁⲓⲛ ... ⲉⲧⲥ. ⲉⲣⲧⲟⲡ ⲫ. ⲉⲣⲧⲟⲃ - Ⲙⲉⲁϣⲩⲣⲉ ⲟϥ ⲅⲣⲁⲓⲛ. ⲉⲣⲧⲱ",
+    "englishTransliteration": "m. Meashyre of grain ... ets. ertop f. ertov - Meashyre of grain. ertō",
+    "reference": "305b",
+    "partOfSpeech": "f",
+    "gloss": "Span, lit. great hand. ertwb v. ertob - Measure of grain. ervei, pl. erv/oui and sg as pl.: (298b)",
+    "definition": "m. temple, sanctuary. ervma v. ma - To succeed. ervmeui v. meui - To remember. ervorin v. vorin - To wear. ercwou v. ercw - Tolds."
+  },
+  {
+    "headword": "er,arizecye",
+    "copticWord": "ⲉⲣⲭⲁⲣⲓⲍⲉⲥⲑⲉ",
+    "englishTransliteration": "erkharizesthe",
+    "gloss": "To grant",
+    "definition": "To grant",
+    "crossReference": {
+      "target": ",arizecye",
+      "gloss": "To grant"
+    }
+  },
+  {
+    "headword": "er,eretizin",
+    "copticWord": "ⲉⲣⲭⲉⲣⲉⲧⲓⲍⲓⲛ",
+    "englishTransliteration": "erkheretizin",
+    "gloss": "To greet",
+    "definition": "To greet",
+    "crossReference": {
+      "target": ",eretizin",
+      "gloss": "To greet"
+    }
+  },
+  {
+    "headword": "er,ria",
+    "copticWord": "ⲉⲣⲭⲣⲓⲁ",
+    "englishTransliteration": "erkhria",
+    "gloss": "To need",
+    "definition": "To need",
+    "crossReference": {
+      "target": ",ria",
+      "gloss": "To need"
+    }
+  },
+  {
+    "headword": "er,racye",
+    "copticWord": "ⲉⲣⲭⲣⲁⲥⲑⲉ",
+    "englishTransliteration": "erkhrasthe",
+    "gloss": "To employ",
+    "definition": "To employ",
+    "crossReference": {
+      "target": ",racye",
+      "gloss": "To employ"
+    }
+  },
+  {
+    "headword": "erpicteuin",
+    "copticWord": "ⲉⲣⲡⲓⲥⲧⲉⲩⲓⲛ",
+    "englishTransliteration": "erpistevin",
+    "gloss": "To believe. erpicteuomen v. pictic - To believe. erplanin v. plan/ - To go astray. erpmsis v. msis - To requit. erpoliteuecye v. polemoc - To fight. erpoleuin v. polemoc - To fight. erporneuin v. porneia - To fornicate. erprepei v. prepi - To be fitting. erprepi v. prepi - To be fitting. erprepin v. prepi - To be fitting. erprecbeuin v. precbia - To intercess. erprokoptein v. prokopt/ - To prosper. erprokoptin v. prokopt/ - To prosper. erproceu,ecye v. proceu,/ - To pray. erprocverin v. procvora - To present an offering",
+    "definition": "To believe. erpicteuomen v. pictic - To believe. erplanin v. plan/ - To go astray. erpmsis v. msis - To requit. erpoliteuecye v. polemoc - To fight. erpoleuin v. polemoc - To fight. erporneuin v. porneia - To fornicate. erprepei v. prepi - To be fitting. erprepi v. prepi - To be fitting. erprepin v. prepi - To be fitting. erprecbeuin v. precbia - To intercess. erprokoptein v. prokopt/ - To prosper. erprokoptin v. prokopt/ - To prosper. erproceu,ecye v. proceu,/ - To pray. erprocverin v. procvora - To present an offering",
+    "crossReference": {
+      "target": "pictic",
+      "gloss": "To believe. erpicteuomen v. pictic - To believe. erplanin v. plan/ - To go astray. erpmsis v. msis - To requit. erpoliteuecye v. polemoc - To fight. erpoleuin v. polemoc - To fight. erporneuin v. porneia - To fornicate. erprepei v. prepi - To be fitting. erprepi v. prepi - To be fitting. erprepin v. prepi - To be fitting. erprecbeuin v. precbia - To intercess. erprokoptein v. prokopt/ - To prosper. erprokoptin v. prokopt/ - To prosper. erproceu,ecye v. proceu,/ - To pray. erprocverin v. procvora - To present an offering"
+    }
+  },
+  {
+    "headword": "er'alin",
+    "copticWord": "ⲉⲣⲯⲁⲗⲓⲛ",
+    "englishTransliteration": "erpsalin",
+    "gloss": "To sing praises erw]: (58b)",
+    "definition": "m. (often),f. Milk;",
+    "crossReference": {
+      "target": "'alin",
+      "gloss": "To sing praises erw]: (58b)"
+    }
+  },
+  {
+    "headword": "erprov/teuin",
+    "copticWord": "ⲉⲣⲡⲣⲟⲫⲏⲧⲉⲩⲓⲛ",
+    "englishTransliteration": "erprofitevin",
+    "gloss": "To pro-phesy",
+    "definition": "To pro-phesy",
+    "crossReference": {
+      "target": "prov/teia",
+      "gloss": "To pro-phesy"
+    }
+  },
+  {
+    "headword": "erracoui",
+    "copticWord": "ⲉⲣⲣⲁⲥⲟⲩⲓ",
+    "englishTransliteration": "errasoui",
+    "gloss": "To dream erremraus v. raus - To become Gentle",
+    "definition": "To dream erremraus v. raus - To become Gentle",
+    "crossReference": {
+      "target": "racoui",
+      "gloss": "To dream erremraus v. raus - To become Gentle"
+    }
+  },
+  {
+    "headword": "erremhe",
+    "copticWord": "ⲉⲣⲣⲉⲙϩⲉ",
+    "englishTransliteration": "erremhe",
+    "gloss": "To become free",
+    "definition": "To become free",
+    "crossReference": {
+      "target": "remhe",
+      "gloss": "To become free"
+    }
+  },
+  {
+    "headword": "errefmisi",
+    "copticWord": "ⲉⲣⲣⲉϥⲙⲓϣⲓ",
+    "englishTransliteration": "errefmishi",
+    "gloss": "To be hostile",
+    "definition": "To be hostile",
+    "crossReference": {
+      "target": "misi",
+      "gloss": "To be hostile"
+    }
+  },
+  {
+    "headword": "]erw]",
+    "copticWord": "ϯⲉⲣⲱϯ",
+    "englishTransliteration": "tierōti",
+    "partOfSpeech": "vb",
+    "gloss": "To give milk, suckle",
+    "definition": "To give milk, suckle"
+  },
+  {
+    "headword": "[ierw]",
+    "copticWord": "ϭⲓⲉⲣⲱϯ",
+    "englishTransliteration": "chierōti",
+    "partOfSpeech": "vb",
+    "gloss": "To get milk, suck",
+    "definition": "To get milk, suck"
+  },
+  {
+    "headword": "ouemerw]",
+    "copticWord": "ⲟⲩⲉⲙⲉⲣⲱϯ",
+    "englishTransliteration": "ouemerōti",
+    "partOfSpeech": "vb",
+    "gloss": "To feed on milk",
+    "definition": "To feed on milk"
+  },
+  {
+    "headword": "ers/t",
+    "copticWord": "ⲉⲣϣⲏⲧ",
+    "englishTransliteration": "ershit",
+    "gloss": "To multiply",
+    "definition": "To multiply",
+    "crossReference": {
+      "target": "ars/t",
+      "gloss": "To multiply"
+    }
+  },
+  {
+    "headword": "ersis",
+    "copticWord": "ⲉⲣϣⲓϣ",
+    "englishTransliteration": "ershish",
+    "reference": "59b",
+    "partOfSpeech": "m",
+    "gloss": "Chick-pea",
+    "definition": "Chick-pea"
+  },
+  {
+    "headword": "ersisi",
+    "copticWord": "ⲉⲣϣⲓϣⲓ",
+    "englishTransliteration": "ershishi",
+    "reference": "59b",
+    "gloss": "vt & vi. (rare) To have power, authority",
+    "definition": "vt & vi. (rare) To have power, authority"
+  },
+  {
+    "headword": "errefmwout",
+    "copticWord": "ⲉⲣⲣⲉϥⲙⲱⲟⲩⲧ",
+    "englishTransliteration": "errefmōout",
+    "gloss": "To become dead",
+    "definition": "To become dead",
+    "crossReference": {
+      "target": "mou",
+      "gloss": "To become dead"
+    }
+  },
+  {
+    "headword": "errefnau",
+    "copticWord": "ⲉⲣⲣⲉϥⲛⲁⲩ",
+    "englishTransliteration": "errefnav",
+    "gloss": "To become spectator",
+    "definition": "To become spectator",
+    "crossReference": {
+      "target": "nau",
+      "gloss": "To become spectator"
+    }
+  },
+  {
+    "headword": "errompi",
+    "copticWord": "ⲉⲣⲣⲟⲙⲡⲓ",
+    "englishTransliteration": "errompi",
+    "gloss": "To reach year of age",
+    "definition": "To reach year of age",
+    "crossReference": {
+      "target": "rompi",
+      "gloss": "To reach year of age"
+    }
+  },
+  {
+    "headword": "qaersisi",
+    "copticWord": "ϧⲁⲉⲣϣⲓϣⲓ",
+    "englishTransliteration": "khaershishi",
+    "gloss": "under authority",
+    "definition": "under authority"
+  },
+  {
+    "headword": "[iersisi",
+    "copticWord": "ϭⲓⲉⲣϣⲓϣⲓ",
+    "englishTransliteration": "chiershishi",
+    "partOfSpeech": "vb",
+    "gloss": "To receive authority",
+    "definition": "To receive authority"
+  },
+  {
+    "headword": "errwmi",
+    "copticWord": "ⲉⲣⲣⲱⲙⲓ",
+    "englishTransliteration": "errōmi",
+    "gloss": "To become man",
+    "definition": "To become man",
+    "crossReference": {
+      "target": "rwmi",
+      "gloss": "To become man"
+    }
+  },
+  {
+    "headword": "ercebecye",
+    "copticWord": "ⲉⲣⲥⲉⲃⲉⲥⲑⲉ",
+    "englishTransliteration": "ersevesthe",
+    "gloss": "To worship",
+    "definition": "To worship",
+    "crossReference": {
+      "target": "ceb/c",
+      "gloss": "To worship"
+    }
+  },
+  {
+    "headword": "ercalpizin",
+    "copticWord": "ⲉⲣⲥⲁⲗⲡⲓⲍⲓⲛ",
+    "englishTransliteration": "ersalpizin",
+    "gloss": "v. calpigx- To blow the trumpet",
+    "definition": "v. calpigx- To blow the trumpet"
+  },
+  {
+    "headword": "erceb/cye",
+    "copticWord": "ⲉⲣⲥⲉⲃⲏⲥⲑⲉ",
+    "englishTransliteration": "ersevisthe",
+    "gloss": "To worship",
+    "definition": "To worship",
+    "crossReference": {
+      "target": "ceb/c",
+      "gloss": "To worship"
+    }
+  },
+  {
+    "headword": "erckandalizecye",
+    "copticWord": "ⲉⲣⲥⲕⲁⲛⲇⲁⲗⲓⲍⲉⲥⲑⲉ",
+    "englishTransliteration": "erskandalizesthe",
+    "gloss": "To cause to stumble",
+    "definition": "To cause to stumble",
+    "crossReference": {
+      "target": "ckandaloc",
+      "gloss": "To cause to stumble"
+    }
+  },
+  {
+    "headword": "erckandalizin",
+    "copticWord": "ⲉⲣⲥⲕⲁⲛⲇⲁⲗⲓⲍⲓⲛ",
+    "englishTransliteration": "erskandalizin",
+    "gloss": "To cause to stumble",
+    "definition": "To cause to stumble",
+    "crossReference": {
+      "target": "ckandaloc",
+      "gloss": "To cause to stumble"
+    }
+  },
+  {
+    "headword": "erckepazin",
+    "copticWord": "ⲉⲣⲥⲕⲉⲡⲁⲍⲓⲛ",
+    "englishTransliteration": "erskepazin",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "gloss": "To cover, shelter, protect",
+    "definition": "To cover, shelter, protect"
+  },
+  {
+    "headword": "ercun",
+    "copticWord": "ⲉⲣⲥⲩⲛ",
+    "englishTransliteration": "ersyn",
+    "variants": [
+      {
+        "word": "wrin",
+        "copticWord": "ⲱⲣⲓⲛ",
+        "englishTransliteration": "ōrin"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "gloss": "To forgive",
+    "definition": "To forgive"
+  },
+  {
+    "headword": "ercw",
+    "copticWord": "ⲉⲣⲥⲱ",
+    "englishTransliteration": "ersō",
+    "variants": [
+      {
+        "type": "pl.",
+        "word": "ercwou",
+        "copticWord": "ⲉⲣⲥⲱⲟⲩ",
+        "englishTransliteration": "ersōou"
+      }
+    ],
+    "reference": "302a",
+    "partOfSpeech": "f",
+    "gloss": "Told for cattle or sheep",
+    "definition": "Told for cattle or sheep"
+  },
+  {
+    "headword": "]ersisi",
+    "copticWord": "ϯⲉⲣϣⲓϣⲓ",
+    "englishTransliteration": "tiershishi",
+    "partOfSpeech": "vb",
+    "gloss": "To give authority",
+    "definition": "To give authority"
+  },
+  {
+    "headword": "ersrwic",
+    "copticWord": "ⲉⲣϣⲣⲱⲓⲥ",
+    "englishTransliteration": "ershrōis",
+    "gloss": "To keep vigil",
+    "definition": "To keep vigil",
+    "crossReference": {
+      "target": "rwic",
+      "gloss": "To keep vigil"
+    }
+  },
+  {
+    "headword": "erswn",
+    "copticWord": "ⲉⲣϣⲱⲛ",
+    "englishTransliteration": "ershōn",
+    "reference": "310a",
+    "partOfSpeech": "m",
+    "gloss": "Cloak, covering",
+    "definition": "Cloak, covering"
+  },
+  {
+    "headword": "erf",
+    "copticWord": "ⲉⲣϥ",
+    "englishTransliteration": "erf",
+    "gloss": "To be apart",
+    "definition": "To be apart",
+    "crossReference": {
+      "target": "wrf",
+      "gloss": "To be apart"
+    }
+  },
+  {
+    "headword": "erqot",
+    "copticWord": "ⲉⲣϧⲟⲧ",
+    "englishTransliteration": "erkhot",
+    "gloss": "Wound",
+    "definition": "Wound",
+    "crossReference": {
+      "target": "rwqt",
+      "gloss": "Wound"
+    }
+  },
+  {
+    "headword": "erqwt",
+    "copticWord": "ⲉⲣϧⲱⲧ",
+    "englishTransliteration": "erkhōt",
+    "gloss": "Wounds",
+    "definition": "Wounds",
+    "crossReference": {
+      "target": "rwqt",
+      "gloss": "Wounds"
+    }
+  },
+  {
+    "headword": "erj",
+    "copticWord": "ⲉⲣϫ",
+    "englishTransliteration": "erj",
+    "reference": "59b",
+    "partOfSpeech": "mf",
+    "gloss": "Small bird, chicken",
+    "definition": "Small bird, chicken"
+  },
+  {
+    "headword": "erjw",
+    "copticWord": "ⲉⲣϫⲱ",
+    "englishTransliteration": "erjō",
+    "partOfSpeech": "f",
+    "gloss": "larger bird, chicken",
+    "definition": "larger bird, chicken"
+  },
+  {
+    "headword": "er[aumwit",
+    "copticWord": "ⲉⲣϭⲁⲩⲙⲱⲓⲧ",
+    "englishTransliteration": "erchavmōit",
+    "gloss": "To be leader",
+    "definition": "To be leader",
+    "crossReference": {
+      "target": "mwit",
+      "gloss": "To be leader"
+    }
+  },
+  {
+    "headword": "er[imwou",
+    "copticWord": "ⲉⲣϭⲓⲙⲱⲟⲩ",
+    "englishTransliteration": "erchimōou",
+    "gloss": "Urine",
+    "definition": "Urine",
+    "crossReference": {
+      "target": "mwou",
+      "gloss": "Urine"
+    }
+  },
+  {
+    "headword": "ec/t",
+    "copticWord": "ⲉⲥⲏⲧ",
+    "englishTransliteration": "esit",
+    "reference": "60a",
+    "partOfSpeech": "m",
+    "gloss": "Bottom, lowest part",
+    "definition": "Bottom, lowest part"
+  },
+  {
+    "headword": "epec/t",
+    "copticWord": "ⲉⲡⲉⲥⲏⲧ",
+    "englishTransliteration": "epesit",
+    "partOfSpeech": "adv",
+    "gloss": "To the ground, downward",
+    "definition": "To the ground, downward"
+  },
+  {
+    "headword": "capec/t",
+    "copticWord": "ⲥⲁⲡⲉⲥⲏⲧ",
+    "englishTransliteration": "sapesit",
+    "gloss": "(on) lower side, below",
+    "definition": "(on) lower side, below"
+  }
+]

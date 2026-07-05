@@ -1,0 +1,352 @@
+[
+  {
+    "headword": "qelqwl",
+    "copticWord": "ϧⲉⲗϧⲱⲗ",
+    "englishTransliteration": "khelkhōl",
+    "gloss": "To slay. qelqwl= v. qolqel - To slay. qelqwl (Q) v. qolqel - To be slain. qemi v. qmom - Heat",
+    "definition": "To slay. qelqwl= v. qolqel - To slay. qelqwl (Q) v. qolqel - To be slain. qemi v. qmom - Heat",
+    "crossReference": {
+      "target": "qolqel",
+      "gloss": "To slay. qelqwl= v. qolqel - To slay. qelqwl (Q) v. qolqel - To be slain. qemi v. qmom - Heat"
+    }
+  },
+  {
+    "headword": "(1) qemc",
+    "copticWord": "ϧⲉⲙⲥ",
+    "englishTransliteration": "khems",
+    "reference": "630b",
+    "partOfSpeech": "m",
+    "gloss": "A title",
+    "definition": "A title"
+  },
+  {
+    "headword": "(2) qemc",
+    "copticWord": "ϧⲉⲙⲥ",
+    "englishTransliteration": "khems",
+    "reference": "679a",
+    "partOfSpeech": "m",
+    "gloss": "Ear of corn (Wheat). qemqwm= v. qomqem - To crush",
+    "definition": "Ear of corn (Wheat). qemqwm= v. qomqem - To crush"
+  },
+  {
+    "headword": "q/k",
+    "copticWord": "ϧⲏⲕ",
+    "englishTransliteration": "khik",
+    "gloss": "q/t, ,/t: (717b)",
+    "definition": "m. North; --- e-: m. Northward; caq/t n-: m. Northern side. q/t=: (642b); f. Belly, womb. q/q (Q) v. (2)qwq - To be scraped. qyai; (Q) qot, qoy: (722b); vi. To become, be fat; qy/: f. Thickness. (Q) v. hwki - To be scraped."
+  },
+  {
+    "headword": "qy/",
+    "copticWord": "ϧⲑⲏ",
+    "englishTransliteration": "khthi",
+    "gloss": "Thickness",
+    "definition": "Thickness",
+    "crossReference": {
+      "target": "qyai",
+      "gloss": "Thickness"
+    }
+  },
+  {
+    "headword": "(1) qir",
+    "copticWord": "ϧⲓⲣ",
+    "englishTransliteration": "khir",
+    "reference": "696b",
+    "partOfSpeech": "m",
+    "gloss": "Road, street, quarter",
+    "definition": "Road, street, quarter"
+  },
+  {
+    "headword": "(2) qir",
+    "copticWord": "ϧⲓⲣ",
+    "englishTransliteration": "khir",
+    "reference": "697a",
+    "partOfSpeech": "m",
+    "gloss": "Stripe, line",
+    "definition": "Stripe, line"
+  },
+  {
+    "headword": "qen",
+    "copticWord": "ϧⲉⲛ",
+    "englishTransliteration": "khen",
+    "variants": [
+      {
+        "word": "nq/t=",
+        "copticWord": "ⲛϧⲏⲧ",
+        "englishTransliteration": "nkhit"
+      }
+    ],
+    "reference": "683a",
+    "gloss": "prep. (of place) in, at, on",
+    "definition": "(of time) in, at, on; by, with",
+    "senses": [
+      {
+        "label": "eqoun",
+        "partOfSpeech": "adv",
+        "gloss": "Into, toward, at, within",
+        "definition": "eqr/i qen: down in, into; nqr/i, nhr/i qen: in; qenpjinyre-: when."
+      }
+    ]
+  },
+  {
+    "headword": "ebol qen",
+    "copticWord": "ⲉⲃⲟⲗ ϧⲉⲛ",
+    "englishTransliteration": "evol khen",
+    "gloss": "From in, from",
+    "definition": "From in, from"
+  },
+  {
+    "headword": "qici",
+    "copticWord": "ϧⲓⲥⲓ",
+    "englishTransliteration": "khisi",
+    "variants": [
+      {
+        "word": "qac=",
+        "copticWord": "ϧⲁⲥ",
+        "englishTransliteration": "khas"
+      },
+      {
+        "word": "(Q) qoci",
+        "copticWord": "(Ϧ) ϧⲟⲥⲓ",
+        "englishTransliteration": "(Kh) khosi"
+      }
+    ],
+    "reference": "710b",
+    "gloss": "vi. To toil, be troubled, difficult",
+    "definition": "be wearied, suffering;",
+    "senses": [
+      {
+        "label": "maiqacf",
+        "partOfSpeech": "adj",
+        "gloss": "Labor-loving",
+        "definition": "Labor-loving"
+      },
+      {
+        "label": "eqoun e",
+        "partOfSpeech": "vb",
+        "gloss": "To toil against",
+        "definition": "--- eybe: vb. To toil because of;"
+      },
+      {
+        "label": "nem",
+        "partOfSpeech": "vb",
+        "gloss": "To toil with",
+        "definition": "To toil with"
+      },
+      {
+        "label": "qa",
+        "partOfSpeech": "vb",
+        "gloss": "To toil from, by reason of",
+        "definition": "To toil from, by reason of"
+      },
+      {
+        "label": "ha",
+        "partOfSpeech": "vb",
+        "gloss": "To toil for",
+        "definition": "To toil for"
+      },
+      {
+        "label": "qen",
+        "partOfSpeech": "vb",
+        "gloss": "To toil in, with",
+        "definition": "To toil in, with"
+      },
+      {
+        "label": "nh/t",
+        "partOfSpeech": "vb",
+        "gloss": "To be troubled in mind, disheartened",
+        "definition": "--: m. Labor, product of labor;"
+      },
+      {
+        "label": "atqici",
+        "partOfSpeech": "adj",
+        "gloss": "Unwearied",
+        "definition": "Unwearied"
+      },
+      {
+        "label": "metmaiqici",
+        "partOfSpeech": "f",
+        "gloss": "Love of toil",
+        "definition": "]qici: vb. To give trouble;"
+      },
+      {
+        "label": "sepqici",
+        "partOfSpeech": "vb",
+        "gloss": "To take trouble, labor, suffer",
+        "definition": "To take trouble, labor, suffer"
+      },
+      {
+        "partOfSpeech": "m",
+        "gloss": "Labor, product of labor",
+        "definition": "atsepqici: adj. Without suffering, sympathy; refsepqici: m. One who labors, suffers;"
+      }
+    ]
+  },
+  {
+    "headword": "qeni",
+    "copticWord": "ϧⲉⲛⲓ",
+    "englishTransliteration": "kheni",
+    "reference": "630b",
+    "gloss": "vi. To quarrel. qent v. qwnt - To come near. qent (Q) v. qwnt - To be approached. qer- v. qwr - To destroy",
+    "definition": "vi. To quarrel. qent v. qwnt - To come near. qent (Q) v. qwnt - To be approached. qer- v. qwr - To destroy"
+  },
+  {
+    "headword": "qereb",
+    "copticWord": "ϧⲉⲣⲉⲃ",
+    "englishTransliteration": "kherev",
+    "variants": [
+      {
+        "word": "ereb",
+        "copticWord": "ⲉⲣⲉⲃ",
+        "englishTransliteration": "erev"
+      }
+    ],
+    "reference": "701b",
+    "partOfSpeech": "m",
+    "gloss": "Form, likeness",
+    "definition": "Form, likeness",
+    "senses": [
+      {
+        "label": "+",
+        "gloss": "[i: vb. To take form, likeness",
+        "definition": "[i: vb. To take form, likeness"
+      }
+    ]
+  },
+  {
+    "headword": "qerwou",
+    "copticWord": "ϧⲉⲣⲱⲟⲩ",
+    "englishTransliteration": "kherōou",
+    "gloss": "Thunder. qerwou v. qrwou - Boastful talk. qerqer: (708b)",
+    "definition": "vi. To snore. qetqet- v. qotqet - To examine. qetqwt= v. qotqet - To examine. qetqwt (Q) v. qotqet - To be examined.",
+    "crossReference": {
+      "target": "qrwou",
+      "gloss": "Thunder. qerwou v. qrwou - Boastful talk. qerqer: (708b)"
+    }
+  },
+  {
+    "headword": "q/bi",
+    "copticWord": "ϧⲏⲃⲓ",
+    "englishTransliteration": "kheebi",
+    "gloss": "Shade",
+    "definition": "Shade",
+    "crossReference": {
+      "target": "q/ibi",
+      "gloss": "Shade"
+    }
+  },
+  {
+    "headword": "q/i",
+    "copticWord": "ϧⲏⲓ",
+    "englishTransliteration": "khii",
+    "reference": "630a",
+    "partOfSpeech": "m",
+    "gloss": "Sun",
+    "definition": "Sun"
+  },
+  {
+    "headword": "q/ibi",
+    "copticWord": "ϧⲏⲓⲃⲓ",
+    "englishTransliteration": "khieebi",
+    "variants": [
+      {
+        "word": "q/bi",
+        "copticWord": "ϧⲏⲃⲓ",
+        "englishTransliteration": "kheebi"
+      }
+    ],
+    "reference": "657b",
+    "partOfSpeech": "f",
+    "gloss": "Shade, shadow",
+    "definition": "Shade, shadow",
+    "senses": [
+      {
+        "label": "[iq/ibi",
+        "partOfSpeech": "vb",
+        "gloss": "To be shaded, to take shelter",
+        "definition": "To be shaded, to take shelter"
+      }
+    ]
+  },
+  {
+    "headword": "erq/ibi",
+    "copticWord": "ⲉⲣϧⲏⲓⲃⲓ",
+    "englishTransliteration": "erkhieebi",
+    "partOfSpeech": "vb",
+    "gloss": "To make shadow, over-shadow",
+    "definition": "To make shadow, over-shadow"
+  },
+  {
+    "headword": "q/bc",
+    "copticWord": "ϧⲏⲃⲥ",
+    "englishTransliteration": "kheebs",
+    "reference": "658a",
+    "partOfSpeech": "m",
+    "gloss": "Lamp",
+    "definition": "Lamp"
+  },
+  {
+    "headword": "metrefsepqici",
+    "copticWord": "ⲙⲉⲧⲣⲉϥϣⲉⲡϧⲓⲥⲓ",
+    "englishTransliteration": "metrefshepkhisi",
+    "partOfSpeech": "f",
+    "gloss": "Suffering",
+    "definition": "Suffering"
+  },
+  {
+    "headword": "[iqici",
+    "copticWord": "ϭⲓϧⲓⲥⲓ",
+    "englishTransliteration": "chikhisi",
+    "partOfSpeech": "vb",
+    "gloss": "To labor, suffer",
+    "definition": "To labor, suffer"
+  },
+  {
+    "headword": "sv/r nqici",
+    "copticWord": "ϣⲫⲏⲣ ⲛϧⲓⲥⲓ",
+    "englishTransliteration": "shfir nkhisi",
+    "partOfSpeech": "m",
+    "gloss": "Fellow laborer",
+    "definition": "Fellow laborer"
+  },
+  {
+    "headword": "jinqici",
+    "copticWord": "ϫⲓⲛϧⲓⲥⲓ",
+    "englishTransliteration": "jinkhisi",
+    "partOfSpeech": "m",
+    "gloss": "Labor",
+    "definition": "Labor"
+  },
+  {
+    "headword": "qi]",
+    "copticWord": "ϧⲓϯ",
+    "englishTransliteration": "khiti",
+    "variants": [
+      {
+        "word": "hi]",
+        "copticWord": "ϩⲓϯ",
+        "englishTransliteration": "hiti"
+      },
+      {
+        "word": "qat",
+        "copticWord": "ϧⲁⲧ",
+        "englishTransliteration": "khat"
+      },
+      {
+        "word": "qat=",
+        "copticWord": "ϧⲁⲧ",
+        "englishTransliteration": "khat"
+      }
+    ],
+    "reference": "719b",
+    "gloss": "vt. To move to and from, rub, whet",
+    "definition": "flay"
+  },
+  {
+    "headword": "atqi]",
+    "copticWord": "ⲁⲧϧⲓϯ",
+    "englishTransliteration": "atkhiti",
+    "partOfSpeech": "adj",
+    "gloss": "Unworn, untormented",
+    "definition": "Unworn, untormented"
+  }
+]

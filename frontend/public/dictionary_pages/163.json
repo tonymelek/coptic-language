@@ -1,0 +1,463 @@
+[
+  {
+    "headword": "j",
+    "copticWord": "ϫ",
+    "englishTransliteration": "j",
+    "reference": "745a",
+    "gloss": "29th letter of the Coptic Alphabet",
+    "definition": "29th letter of the Coptic Alphabet"
+  },
+  {
+    "headword": "japjip",
+    "copticWord": "ϫⲁⲡϫⲓⲡ",
+    "englishTransliteration": "gapjip",
+    "variants": [
+      {
+        "word": "jafjif",
+        "copticWord": "ϫⲁϥϫⲓϥ",
+        "englishTransliteration": "gafjif"
+      },
+      {
+        "word": "jefjif",
+        "copticWord": "ϫⲉϥϫⲓϥ",
+        "englishTransliteration": "jefjif"
+      },
+      {
+        "word": "jebjip",
+        "copticWord": "ϫⲉⲃϫⲓⲡ",
+        "englishTransliteration": "jevjip"
+      }
+    ],
+    "reference": "842b",
+    "partOfSpeech": "m",
+    "gloss": "Ant",
+    "definition": "Ant"
+  },
+  {
+    "headword": "jabi- p.c. v. jwb - Feeble. jabjib",
+    "copticWord": "ϫⲁⲃⲓ- ⲡ.ⲥ. ⲫ. ϫⲱⲃ - Ϥⲉⲉⲃⲗⲉ. ϫⲁⲃϫⲓⲃ",
+    "englishTransliteration": "gavi- p.s. f. jōv - Feevle. gavjeeb",
+    "reference": "760b",
+    "partOfSpeech": "n",
+    "gloss": "Small in stature. jaie v. jaie- - Ugliness",
+    "definition": "Small in stature. jaie v. jaie- - Ugliness"
+  },
+  {
+    "headword": "jaie",
+    "copticWord": "ϫⲁⲓⲉ",
+    "englishTransliteration": "gaie",
+    "variants": [
+      {
+        "word": "jaio= (Q) jaiwou",
+        "copticWord": "ϫⲁⲓⲟ (Ϧ̅) ϫⲁⲓⲱⲟⲩ",
+        "englishTransliteration": "gaio (Kh̅) gaiōou"
+      }
+    ],
+    "reference": "465b",
+    "gloss": "vt",
+    "definition": "vt",
+    "senses": [
+      {
+        "label": "To make ugly; disgrace",
+        "partOfSpeech": "n",
+        "gloss": "Ugly one, ugliness, disgrace",
+        "definition": "metjaie: f. Ugliness, disgrace; erjaie: vb. To be ugly, disgraceful."
+      }
+    ]
+  },
+  {
+    "headword": "jarampo",
+    "copticWord": "ϫⲁⲣⲁⲙⲡⲟ",
+    "englishTransliteration": "garampo",
+    "reference": "786a",
+    "partOfSpeech": "n",
+    "gloss": "Plant with edible leaves, cabbage(?). jareb- p.c. v. (jwreb) - To cut open",
+    "definition": "Plant with edible leaves, cabbage(?). jareb- p.c. v. (jwreb) - To cut open"
+  },
+  {
+    "headword": "javat",
+    "copticWord": "ϫⲁⲫⲁⲧ",
+    "englishTransliteration": "gafat",
+    "reference": "827b",
+    "gloss": "pl. Fibers of palm tree",
+    "definition": "pl. Fibers of palm tree"
+  },
+  {
+    "headword": "javiji",
+    "copticWord": "ϫⲁⲫⲓϫⲓ",
+    "englishTransliteration": "gafeegi",
+    "gloss": "A dry measure",
+    "definition": "A dry measure",
+    "crossReference": {
+      "target": "japiji",
+      "gloss": "A dry measure"
+    }
+  },
+  {
+    "headword": "javoji",
+    "copticWord": "ϫⲁⲫⲟϫⲓ",
+    "englishTransliteration": "gafoji",
+    "variants": [
+      {
+        "word": "japoji",
+        "copticWord": "ϫⲁⲡⲟϫⲓ",
+        "englishTransliteration": "gapoji"
+      }
+    ],
+    "reference": "795a",
+    "partOfSpeech": "m",
+    "gloss": "Spine, vertebrae",
+    "definition": "Spine, vertebrae"
+  },
+  {
+    "headword": "jai/",
+    "copticWord": "ϫⲁⲓⲏ",
+    "englishTransliteration": "gaii",
+    "gloss": "- Ugliness",
+    "definition": "- Ugliness",
+    "crossReference": {
+      "target": "jaie",
+      "gloss": "- Ugliness"
+    }
+  },
+  {
+    "headword": "(1)jaf",
+    "copticWord": "ϫⲁϥ",
+    "englishTransliteration": "gaf",
+    "reference": "795b",
+    "partOfSpeech": "m",
+    "gloss": "Frost",
+    "definition": "Frost"
+  },
+  {
+    "headword": "jaio=",
+    "copticWord": "ϫⲁⲓⲟ",
+    "englishTransliteration": "gaio",
+    "gloss": "- To make ugly",
+    "definition": "- To make ugly",
+    "crossReference": {
+      "target": "jaie",
+      "gloss": "- To make ugly"
+    }
+  },
+  {
+    "headword": "jal",
+    "copticWord": "ϫⲁⲗ",
+    "englishTransliteration": "gal",
+    "reference": "765b",
+    "partOfSpeech": "m",
+    "gloss": "Branch",
+    "definition": "Branch"
+  },
+  {
+    "headword": "(2)jaf",
+    "copticWord": "ϫⲁϥ",
+    "englishTransliteration": "gaf",
+    "reference": "795b",
+    "partOfSpeech": "n",
+    "gloss": "A disease. jaf- p.c. v. jwf - Burner. jafi- p.c. v. j/f - To be of kin",
+    "definition": "A disease. jaf- p.c. v. jwf - Burner. jafi- p.c. v. j/f - To be of kin"
+  },
+  {
+    "headword": "jafjif",
+    "copticWord": "ϫⲁϥϫⲓϥ",
+    "englishTransliteration": "gafjif",
+    "gloss": "Ant",
+    "definition": "Ant",
+    "crossReference": {
+      "target": "japjip",
+      "gloss": "Ant"
+    }
+  },
+  {
+    "headword": "jahni",
+    "copticWord": "ϫⲁϩⲛⲓ",
+    "englishTransliteration": "gahni",
+    "reference": "798b",
+    "partOfSpeech": "f",
+    "gloss": "Baking oven",
+    "definition": "Baking oven"
+  },
+  {
+    "headword": "jalim",
+    "copticWord": "ϫⲁⲗⲓⲙ",
+    "englishTransliteration": "galim",
+    "reference": "768a",
+    "gloss": "pl. Chickens",
+    "definition": "pl. Chickens"
+  },
+  {
+    "headword": "jaljeh",
+    "copticWord": "ϫⲁⲗϫⲉϩ",
+    "englishTransliteration": "galjeh",
+    "gloss": "To strike",
+    "definition": "To strike",
+    "crossReference": {
+      "target": "jahj",
+      "gloss": "To strike"
+    }
+  },
+  {
+    "headword": "jaljou",
+    "copticWord": "ϫⲁⲗϫⲟⲩ",
+    "englishTransliteration": "galjou",
+    "gloss": "Bat",
+    "definition": "Bat",
+    "crossReference": {
+      "target": "jeljou",
+      "gloss": "Bat"
+    }
+  },
+  {
+    "headword": "jahjeh",
+    "copticWord": "ϫⲁϩϫⲉϩ",
+    "englishTransliteration": "gahjeh",
+    "gloss": "To strike",
+    "definition": "To strike",
+    "crossReference": {
+      "target": "jahj",
+      "gloss": "To strike"
+    }
+  },
+  {
+    "headword": "jaj",
+    "copticWord": "ϫⲁϫ",
+    "englishTransliteration": "gaj",
+    "gloss": "Head",
+    "definition": "Head",
+    "crossReference": {
+      "target": "(1)jwj",
+      "gloss": "Head"
+    }
+  },
+  {
+    "headword": "jamauli",
+    "copticWord": "ϫⲁⲙⲁⲩⲗⲓ",
+    "englishTransliteration": "gamavli",
+    "gloss": "Camels. jameuli v. jamoul - She-camel. jam/: (770b)",
+    "definition": "f. Calm.",
+    "crossReference": {
+      "target": "jamoul",
+      "gloss": "Camels. jameuli v. jamoul - She-camel. jam/: (770b)"
+    }
+  },
+  {
+    "headword": "jamoul",
+    "copticWord": "ϫⲁⲙⲟⲩⲗ",
+    "englishTransliteration": "gamoul",
+    "variants": [
+      {
+        "type": "f.",
+        "word": "jameuli; pl. jamauli",
+        "copticWord": "ϫⲁⲙⲉⲩⲗⲓⲑ ⲡⲗ. ϫⲁⲙⲁⲩⲗⲓ",
+        "englishTransliteration": "gamevlith pl. gamavli"
+      },
+      {
+        "word": "[amauli",
+        "copticWord": "ϭⲁⲙⲁⲩⲗⲓ",
+        "englishTransliteration": "chamavli"
+      }
+    ],
+    "reference": "818b",
+    "partOfSpeech": "m",
+    "gloss": "Camel",
+    "definition": "Camel"
+  },
+  {
+    "headword": "jane",
+    "copticWord": "ϫⲁⲛⲉ",
+    "englishTransliteration": "gane",
+    "gloss": "Low place",
+    "definition": "Low place",
+    "crossReference": {
+      "target": "jon",
+      "gloss": "Low place"
+    }
+  },
+  {
+    "headword": "jaji",
+    "copticWord": "ϫⲁϫⲓ",
+    "englishTransliteration": "gaji",
+    "reference": "799b",
+    "gloss": "mf Enemy",
+    "definition": "mf Enemy"
+  },
+  {
+    "headword": "metjaji",
+    "copticWord": "ⲙⲉⲧϫⲁϫⲓ",
+    "englishTransliteration": "metgaji",
+    "partOfSpeech": "f",
+    "gloss": "Enmity",
+    "definition": "Enmity"
+  },
+  {
+    "headword": "janeu",
+    "copticWord": "ϫⲁⲛⲉⲩ",
+    "englishTransliteration": "ganev",
+    "gloss": "Low places",
+    "definition": "Low places",
+    "crossReference": {
+      "target": "jon",
+      "gloss": "Low places"
+    }
+  },
+  {
+    "headword": "jan/",
+    "copticWord": "ϫⲁⲛⲏ",
+    "englishTransliteration": "gani",
+    "reference": "773b",
+    "partOfSpeech": "f",
+    "gloss": "Hoe",
+    "definition": "Hoe"
+  },
+  {
+    "headword": "er",
+    "copticWord": "ⲉⲣ",
+    "englishTransliteration": "er",
+    "variants": [
+      {
+        "word": "oi njaji",
+        "copticWord": "ⲟⲓ ⲛϫⲁϫⲓ",
+        "englishTransliteration": "oi ngaji"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To be at enmity. jajiywl: (844a)",
+    "definition": "To be at enmity. jajiywl: (844a)"
+  },
+  {
+    "headword": "mf. Coarse linen",
+    "copticWord": "ⲙϥ. Ⲥⲟⲁⲣϣⲉ ⲗⲓⲛⲉⲛ",
+    "englishTransliteration": "mf. Soarshe linen",
+    "variants": [
+      {
+        "word": "tow. jajomi v. omi - Metal agricultural tools. jajrim",
+        "copticWord": "ⲧⲟⲱ. ϫⲁϫⲟⲙⲓ ⲫ. ⲟⲙⲓ - Ⲙⲉⲧⲁⲗ ⲁⲅⲣⲓⲥⲩⲗⲧⲩⲣⲁⲗ ⲧⲟⲟⲗϣ. ϫⲁϫⲣⲓⲙ",
+        "englishTransliteration": "toō. gajomi f. omi - Metal agrisyltyral toolsh. gajrim"
+      }
+    ],
+    "reference": "799b",
+    "partOfSpeech": "m",
+    "gloss": "Cliff",
+    "definition": "Cliff"
+  },
+  {
+    "headword": "jajw",
+    "copticWord": "ϫⲁϫⲱ",
+    "englishTransliteration": "gajō",
+    "reference": "800a",
+    "partOfSpeech": "n",
+    "gloss": "Sort of fuel",
+    "definition": "Sort of fuel"
+  },
+  {
+    "headword": "janiji",
+    "copticWord": "ϫⲁⲛⲓϫⲓ",
+    "englishTransliteration": "ganeegi",
+    "reference": "777b",
+    "partOfSpeech": "m",
+    "gloss": "Plam-fiber (for rope making)",
+    "definition": "Plam-fiber (for rope making)"
+  },
+  {
+    "headword": "jajsai",
+    "copticWord": "ϫⲁϫϣⲁⲓ",
+    "englishTransliteration": "gajshai",
+    "gloss": "With cut nose",
+    "definition": "With cut nose",
+    "crossReference": {
+      "target": "(2)sai",
+      "gloss": "With cut nose"
+    }
+  },
+  {
+    "headword": "jajh",
+    "copticWord": "ϫⲁϫϩ",
+    "englishTransliteration": "gajh",
+    "gloss": "To strike",
+    "definition": "To strike",
+    "crossReference": {
+      "target": "jahj",
+      "gloss": "To strike"
+    }
+  },
+  {
+    "headword": "jano",
+    "copticWord": "ϫⲁⲛⲟ",
+    "englishTransliteration": "gano",
+    "reference": "773b"
+  },
+  {
+    "headword": "m. Basket (full of earth). japaji v. japiji - A dry measure. japi",
+    "copticWord": "ⲙ. Ⲃⲁϣⲕⲉⲧ (ϥⲩⲗⲗ ⲟϥ ⲉⲁⲣⲧϩ). ϫⲁⲡⲁϫⲓ ⲫ. ϫⲁⲡⲓϫⲓ - Ⲁ ⲇⲣⲑ ⲙⲉⲁϣⲩⲣⲉ. ϫⲁⲡⲓ",
+    "englishTransliteration": "m. Vashket (fyll of earth). gapaji f. gapeegi - A drth meashyre. gapi",
+    "reference": "778a"
+  },
+  {
+    "headword": "n. w/[i vb. To stray",
+    "copticWord": "ⲛ. ⲱⲏϭⲓ ⲫⲃ. Ⲧⲟ ϣⲧⲣⲁⲑ",
+    "englishTransliteration": "n. ōichi fv. To shtrath",
+    "variants": [
+      {
+        "word": "swerve. japiji",
+        "copticWord": "ϣⲱⲉⲣⲫⲉ. ϫⲁⲡⲓϫⲓ",
+        "englishTransliteration": "shōerfe. gapeegi"
+      },
+      {
+        "word": "javiji",
+        "copticWord": "ϫⲁⲫⲓϫⲓ",
+        "englishTransliteration": "gafeegi"
+      },
+      {
+        "word": "japaji",
+        "copticWord": "ϫⲁⲡⲁϫⲓ",
+        "englishTransliteration": "gapaji"
+      }
+    ],
+    "reference": "827b",
+    "partOfSpeech": "mf"
+  },
+  {
+    "headword": "A",
+    "copticWord": "Ⲁ",
+    "englishTransliteration": "A",
+    "gloss": "dry measure. japoji v. javoji - Spine. japjep: (827b)",
+    "definition": "vi. To be hurried, anxious."
+  },
+  {
+    "headword": "ja[au",
+    "copticWord": "ϫⲁϭⲁⲩ",
+    "englishTransliteration": "gachav",
+    "gloss": "Left hands. ja[e",
+    "definition": "pl",
+    "crossReference": {
+      "target": "ja[/",
+      "gloss": "Left hands. ja[e"
+    }
+  },
+  {
+    "headword": "ja[eu",
+    "copticWord": "ϫⲁϭⲉⲩ",
+    "englishTransliteration": "gachev",
+    "variants": [
+      {
+        "word": "[a[eu",
+        "copticWord": "ϭⲁϭⲉⲩ",
+        "englishTransliteration": "chachev"
+      }
+    ],
+    "reference": "800b",
+    "partOfSpeech": "n",
+    "gloss": "bent, maimed person",
+    "definition": "bent, maimed person"
+  },
+  {
+    "headword": "(1)je",
+    "copticWord": "ϫⲉ",
+    "englishTransliteration": "je",
+    "reference": "746b",
+    "partOfSpeech": "m",
+    "gloss": "Spathe of date-palm",
+    "definition": "Spathe of date-palm"
+  }
+]

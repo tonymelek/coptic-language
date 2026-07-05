@@ -1,0 +1,519 @@
+[
+  {
+    "headword": "manjwili",
+    "copticWord": "ⲙⲁⲛϫⲱⲓⲗⲓ",
+    "englishTransliteration": "manjōili",
+    "partOfSpeech": "m",
+    "gloss": "Dwelling place, station",
+    "definition": "Dwelling place, station"
+  },
+  {
+    "headword": "refnjwili",
+    "copticWord": "ⲣⲉϥⲛϫⲱⲓⲗⲓ",
+    "englishTransliteration": "refnjōili",
+    "partOfSpeech": "m",
+    "gloss": "sojourner",
+    "definition": "sojourner"
+  },
+  {
+    "headword": "jwlk",
+    "copticWord": "ϫⲱⲗⲕ",
+    "englishTransliteration": "jōlk",
+    "variants": [
+      {
+        "word": "[wlk=",
+        "copticWord": "ϭⲱⲗⲕ",
+        "englishTransliteration": "chōlk"
+      },
+      {
+        "word": "jolk=",
+        "copticWord": "ϫⲟⲗⲕ",
+        "englishTransliteration": "jolk"
+      },
+      {
+        "word": "(Q) jolk",
+        "copticWord": "(Ϧ) ϫⲟⲗⲕ",
+        "englishTransliteration": "(Kh) jolk"
+      }
+    ],
+    "reference": "768a",
+    "partOfSpeech": "vb",
+    "gloss": "To be submerged, overwhelmed",
+    "definition": "To be submerged, overwhelmed"
+  },
+  {
+    "headword": "(2) (Q) [al/out",
+    "copticWord": "(Ϧ) ϭⲁⲗⲏⲟⲩⲧ",
+    "englishTransliteration": "(Kh) chaliout",
+    "variants": [
+      {
+        "word": "ja-l/out",
+        "copticWord": "ϫⲁ-ⲗⲏⲟⲩⲧ",
+        "englishTransliteration": "ga-liout"
+      }
+    ],
+    "reference": "808b",
+    "gloss": "vt. To deposit, assign, entrust",
+    "definition": "vt. To deposit, assign, entrust",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "Deposit",
+        "definition": "Deposit"
+      }
+    ]
+  },
+  {
+    "headword": "(1) jwlh",
+    "copticWord": "ϫⲱⲗϩ",
+    "englishTransliteration": "jōlh",
+    "variants": [
+      {
+        "word": "[wlh",
+        "copticWord": "ϭⲱⲗϩ",
+        "englishTransliteration": "chōlh"
+      },
+      {
+        "word": "jolh=",
+        "copticWord": "ϫⲟⲗϩ",
+        "englishTransliteration": "jolh"
+      }
+    ],
+    "reference": "769a",
+    "gloss": "vi. To draw, scoop (water, wine)",
+    "definition": "vi. To draw, scoop (water, wine)"
+  },
+  {
+    "headword": "(2) jwlh",
+    "copticWord": "ϫⲱⲗϩ",
+    "englishTransliteration": "jōlh",
+    "variants": [
+      {
+        "word": "jolh=",
+        "copticWord": "ϫⲟⲗϩ",
+        "englishTransliteration": "jolh"
+      },
+      {
+        "word": "(Q) jolh",
+        "copticWord": "(Ϧ) ϫⲟⲗϩ",
+        "englishTransliteration": "(Kh) jolh"
+      }
+    ],
+    "reference": "769b",
+    "gloss": "vt. To swathe, clothe, cover",
+    "definition": "vt. To swathe, clothe, cover"
+  },
+  {
+    "headword": "jinjwlh",
+    "copticWord": "ϫⲓⲛϫⲱⲗϩ",
+    "englishTransliteration": "jinjōlh",
+    "partOfSpeech": "m",
+    "gloss": "Clothing, vestments",
+    "definition": "Clothing, vestments"
+  },
+  {
+    "headword": "jolhf",
+    "copticWord": "ϫⲟⲗϩϥ",
+    "englishTransliteration": "jolhf",
+    "partOfSpeech": "m",
+    "gloss": "Grating, lattice",
+    "definition": "Grating, lattice"
+  },
+  {
+    "headword": "jwit",
+    "copticWord": "ϫⲱⲓⲧ",
+    "englishTransliteration": "jōit",
+    "reference": "790b",
+    "partOfSpeech": "m",
+    "gloss": "Olive tree, olive",
+    "definition": "Olive tree, olive"
+  },
+  {
+    "headword": "bw njwit",
+    "copticWord": "ⲃⲱ ⲛϫⲱⲓⲧ",
+    "englishTransliteration": "vō njōit",
+    "partOfSpeech": "f",
+    "gloss": "Olive tree",
+    "definition": "Olive tree"
+  },
+  {
+    "headword": "iahjwit",
+    "copticWord": "ⲓⲁϩϫⲱⲓⲧ",
+    "englishTransliteration": "iahjōit",
+    "partOfSpeech": "m",
+    "gloss": "Olive garden",
+    "definition": "Olive garden"
+  },
+  {
+    "headword": "jwk",
+    "copticWord": "ϫⲱⲕ",
+    "englishTransliteration": "jōk",
+    "variants": [
+      {
+        "word": "jek",
+        "copticWord": "ϫⲉⲕ",
+        "englishTransliteration": "jek"
+      },
+      {
+        "word": "jok=",
+        "copticWord": "ϫⲟⲕ",
+        "englishTransliteration": "jok"
+      },
+      {
+        "word": "(Q) j/k",
+        "copticWord": "(Ϧ) ϫⲏⲕ",
+        "englishTransliteration": "(Kh) jik"
+      }
+    ],
+    "reference": "761a",
+    "senses": [
+      {
+        "label": "vi",
+        "gloss": "To be completed, be full, end (life)",
+        "definition": "To be completed, be full, end (life)"
+      },
+      {
+        "gloss": "vt. To complete, finish",
+        "definition": "vt. To complete, finish"
+      },
+      {
+        "partOfSpeech": "m",
+        "gloss": "Completion, end, total",
+        "definition": "Completion, end, total"
+      },
+      {
+        "label": "atjwk",
+        "partOfSpeech": "adj",
+        "gloss": "Without end",
+        "definition": "Without end"
+      },
+      {
+        "label": "refjwk",
+        "partOfSpeech": "m",
+        "gloss": "Perfector",
+        "definition": "Perfector"
+      },
+      {
+        "label": "ebole as jwk",
+        "partOfSpeech": "m",
+        "gloss": "Completion, end, total",
+        "definition": "Completion, end, total"
+      }
+    ]
+  },
+  {
+    "headword": "jwlj",
+    "copticWord": "ϫⲱⲗϫ",
+    "englishTransliteration": "jōlj",
+    "variants": [
+      {
+        "word": "kwlj",
+        "copticWord": "ⲕⲱⲗϫ",
+        "englishTransliteration": "kōlj"
+      },
+      {
+        "word": "jolj=",
+        "copticWord": "ϫⲟⲗϫ",
+        "englishTransliteration": "jolj"
+      },
+      {
+        "word": "(Q) jolj",
+        "copticWord": "(Ϧ) ϫⲟⲗϫ",
+        "englishTransliteration": "(Kh) jolj"
+      }
+    ],
+    "reference": "814a",
+    "gloss": "vi. To be entwined, implicated",
+    "definition": "vt. To entangle, ensnare."
+  },
+  {
+    "headword": "jwm",
+    "copticWord": "ϫⲱⲙ",
+    "englishTransliteration": "jōm",
+    "reference": "770b",
+    "partOfSpeech": "m",
+    "gloss": "Sheet, roll of papyrus, written document, book",
+    "definition": "bundle, parcel;"
+  },
+  {
+    "headword": "nws",
+    "copticWord": "ⲛⲱϣ",
+    "englishTransliteration": "nōsh",
+    "partOfSpeech": "m",
+    "gloss": "Reading book. jwm v. [wm - Garden",
+    "definition": "Reading book. jwm v. [wm - Garden"
+  },
+  {
+    "headword": "(1) (Q) jont",
+    "copticWord": "(Ϧ) ϫⲟⲛⲧ",
+    "englishTransliteration": "(Kh) jont",
+    "variants": [
+      {
+        "word": "[ont",
+        "copticWord": "ϭⲟⲛⲧ",
+        "englishTransliteration": "chont"
+      }
+    ],
+    "reference": "775a",
+    "gloss": "vi. To try, test",
+    "definition": "---: n. Trial;",
+    "senses": [
+      {
+        "label": "at[wnt",
+        "partOfSpeech": "adj",
+        "gloss": "Untried, untempted",
+        "definition": "ma njwnt, -[wnt: m. Place of trial."
+      }
+    ]
+  },
+  {
+    "headword": "jinjwk ebol",
+    "copticWord": "ϫⲓⲛϫⲱⲕ ⲉⲃⲟⲗ",
+    "englishTransliteration": "jinjōk evol",
+    "partOfSpeech": "m",
+    "gloss": "Completion, death. jwkem, jekem-, jokm=, (Q) jokem: (763a)",
+    "definition": "vi. To wash; vt. To wash, wet, bathe;",
+    "senses": [
+      {
+        "label": "e",
+        "partOfSpeech": "vb",
+        "gloss": "To wash in",
+        "definition": "To wash in"
+      },
+      {
+        "label": "qen",
+        "partOfSpeech": "vb",
+        "gloss": "To wash in, with, --: m. Washing, cleansing",
+        "definition": "manjwkem: m. Washing place; jinjwkem: m. Washing."
+      }
+    ]
+  },
+  {
+    "headword": "(2) jwnt",
+    "copticWord": "ϫⲱⲛⲧ",
+    "englishTransliteration": "jōnt",
+    "variants": [
+      {
+        "word": "(Q) jont",
+        "copticWord": "(Ϧ) ϫⲟⲛⲧ",
+        "englishTransliteration": "(Kh) jont"
+      }
+    ],
+    "reference": "822b",
+    "gloss": "vi. To be wroth, angry",
+    "definition": "---: m. Wrath;",
+    "senses": [
+      {
+        "label": "atjwnt",
+        "partOfSpeech": "adj",
+        "gloss": "unangered, not to be angered",
+        "definition": "refjwnt: m. Wrathful person;"
+      }
+    ]
+  },
+  {
+    "headword": "jwkh",
+    "copticWord": "ϫⲱⲕϩ",
+    "englishTransliteration": "jōkh",
+    "gloss": "To bite",
+    "definition": "To bite",
+    "crossReference": {
+      "target": "joukh",
+      "gloss": "To bite"
+    }
+  },
+  {
+    "headword": "(1) jwl",
+    "copticWord": "ϫⲱⲗ",
+    "englishTransliteration": "jōl",
+    "variants": [
+      {
+        "word": "aujwl",
+        "copticWord": "ⲁⲩϫⲱⲗ",
+        "englishTransliteration": "avjōl"
+      },
+      {
+        "word": "jel",
+        "copticWord": "ϫⲉⲗ",
+        "englishTransliteration": "jel"
+      },
+      {
+        "word": "jol=",
+        "copticWord": "ϫⲟⲗ",
+        "englishTransliteration": "jol"
+      },
+      {
+        "word": "(Q) j/l",
+        "copticWord": "(Ϧ) ϫⲏⲗ",
+        "englishTransliteration": "(Kh) jil"
+      }
+    ],
+    "reference": "809a",
+    "gloss": "vt. To swathe, clothe, cover",
+    "definition": "--- n-: vt. To cover with, in; ---: m. Covering, cloak."
+  },
+  {
+    "headword": "]jwnt",
+    "copticWord": "ϯϫⲱⲛⲧ",
+    "englishTransliteration": "tijōnt",
+    "partOfSpeech": "vb",
+    "gloss": "To cause anger, provoke. jwnj: (777b)",
+    "definition": "m. Colocynth."
+  },
+  {
+    "headword": "(1) jwr",
+    "copticWord": "ϫⲱⲣ",
+    "englishTransliteration": "jōr",
+    "variants": [
+      {
+        "word": "jor=",
+        "copticWord": "ϫⲟⲣ",
+        "englishTransliteration": "jor"
+      },
+      {
+        "word": "(Q) j/r",
+        "copticWord": "(Ϧ) ϫⲏⲣ",
+        "englishTransliteration": "(Kh) jir"
+      }
+    ],
+    "reference": "781a",
+    "gloss": "vt. To sharpen, whet",
+    "definition": "vt. To sharpen, whet",
+    "senses": [
+      {
+        "label": "e",
+        "gloss": "vt. To sharpen to, against",
+        "definition": "vt. To sharpen to, against"
+      }
+    ]
+  },
+  {
+    "headword": "(2) (Q) j/r",
+    "copticWord": "(Ϧ) ϫⲏⲣ",
+    "englishTransliteration": "(Kh) jir",
+    "reference": "782a",
+    "gloss": "vt. To scatter, disperse",
+    "definition": "--- ebol: vi. To bring to naught, hinder, disperse, scatter;",
+    "senses": [
+      {
+        "label": "e",
+        "partOfSpeech": "m",
+        "gloss": "Scattering, dissolution",
+        "definition": "Scattering, dissolution"
+      }
+    ]
+  },
+  {
+    "headword": "(2) jwl",
+    "copticWord": "ϫⲱⲗ",
+    "englishTransliteration": "jōl",
+    "reference": "765b",
+    "partOfSpeech": "m",
+    "gloss": "Honeycomb",
+    "definition": "Honeycomb"
+  },
+  {
+    "headword": "(3) jwl",
+    "copticWord": "ϫⲱⲗ",
+    "englishTransliteration": "jōl",
+    "variants": [
+      {
+        "word": "kwl",
+        "copticWord": "ⲕⲱⲗ",
+        "englishTransliteration": "kōl"
+      },
+      {
+        "word": "jel",
+        "copticWord": "ϫⲉⲗ",
+        "englishTransliteration": "jel"
+      },
+      {
+        "word": "kel",
+        "copticWord": "ⲕⲉⲗ",
+        "englishTransliteration": "kel"
+      },
+      {
+        "word": "kol=",
+        "copticWord": "ⲕⲟⲗ",
+        "englishTransliteration": "kol"
+      },
+      {
+        "word": "jol=",
+        "copticWord": "ϫⲟⲗ",
+        "englishTransliteration": "jol"
+      },
+      {
+        "word": "(Q) j/l",
+        "copticWord": "(Ϧ) ϫⲏⲗ",
+        "englishTransliteration": "(Kh) jil"
+      }
+    ],
+    "reference": "807a",
+    "gloss": "vi. To return, roll back, curl up",
+    "definition": "vi. To return, roll back, curl up",
+    "senses": [
+      {
+        "label": "To turn back; deny; jinjwk ebol",
+        "partOfSpeech": "m",
+        "gloss": "Apostasy",
+        "definition": "Apostasy"
+      }
+    ]
+  },
+  {
+    "headword": "kwl",
+    "copticWord": "ⲕⲱⲗ",
+    "englishTransliteration": "kōl",
+    "variants": [
+      {
+        "word": "jwl ebol",
+        "copticWord": "ϫⲱⲗ ⲉⲃⲟⲗ",
+        "englishTransliteration": "jōl evol"
+      }
+    ],
+    "gloss": "vi. To return",
+    "definition": "vt."
+  },
+  {
+    "headword": "(jwreb); p.c. jareb",
+    "copticWord": "(ϫⲱⲣⲉⲃ)ⲑ ⲡ.ⲥ. ϫⲁⲣⲉⲃ",
+    "englishTransliteration": "(jōrev)th p.s. garev",
+    "variants": [
+      {
+        "word": "jarp",
+        "copticWord": "ϫⲁⲣⲡ",
+        "englishTransliteration": "garp"
+      },
+      {
+        "word": "jereb",
+        "copticWord": "ϫⲉⲣⲉⲃ",
+        "englishTransliteration": "jerev"
+      }
+    ],
+    "reference": "785a",
+    "gloss": "vt. To cut open",
+    "definition": "vt. To cut open"
+  },
+  {
+    "headword": "jwl",
+    "copticWord": "ϫⲱⲗ",
+    "englishTransliteration": "jōl",
+    "gloss": "Loaf",
+    "definition": "Loaf",
+    "crossReference": {
+      "target": "(2)jol",
+      "gloss": "Loaf"
+    }
+  },
+  {
+    "headword": "jwri",
+    "copticWord": "ϫⲱⲣⲓ",
+    "englishTransliteration": "jōri",
+    "gloss": "To be strong. jwrh, ejwrh: (829b)",
+    "definition": "m. Night.",
+    "crossReference": {
+      "target": "[ro",
+      "gloss": "To be strong. jwrh, ejwrh: (829b)"
+    }
+  }
+]

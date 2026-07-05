@@ -1,0 +1,180 @@
+[
+  {
+    "headword": "nca",
+    "copticWord": "ⲛⲥⲁ",
+    "englishTransliteration": "nsa",
+    "gloss": "vt. To respond to",
+    "definition": "vt. To respond to"
+  },
+  {
+    "headword": "nahren",
+    "copticWord": "ⲛⲁϩⲣⲉⲛ",
+    "englishTransliteration": "nahren",
+    "gloss": "vt. To respond in the presence of",
+    "definition": "vt. To respond in the presence of"
+  },
+  {
+    "headword": "metatouw] ebol",
+    "copticWord": "ⲙⲉⲧⲁⲧⲟⲩⲱϯ ⲉⲃⲟⲗ",
+    "englishTransliteration": "metatouōti evol",
+    "partOfSpeech": "f",
+    "gloss": "Not being separate",
+    "definition": "Not being separate"
+  },
+  {
+    "headword": "oube",
+    "copticWord": "ⲟⲩⲃⲉ",
+    "englishTransliteration": "ouve",
+    "gloss": "vt. To contradict, object",
+    "definition": "vt. To contradict, object"
+  },
+  {
+    "headword": "ouot",
+    "copticWord": "ⲟⲩⲟⲧ",
+    "englishTransliteration": "ouot",
+    "gloss": "impers. vb. It is different",
+    "definition": "impers. vb. It is different"
+  },
+  {
+    "headword": "ebol",
+    "copticWord": "ⲉⲃⲟⲗ",
+    "englishTransliteration": "evol",
+    "gloss": "vt. To interpret",
+    "definition": "vt. To interpret",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "Answer, objection, interpretation",
+        "definition": "Answer, objection, interpretation"
+      },
+      {
+        "label": "nouwhem",
+        "partOfSpeech": "adv",
+        "gloss": "Again",
+        "definition": "Again"
+      },
+      {
+        "label": "atbwhem",
+        "partOfSpeech": "adj",
+        "gloss": "Without reponse jinouwhem: m. Opposition",
+        "definition": "Without reponse jinouwhem: m. Opposition"
+      },
+      {
+        "label": "ouwhn",
+        "gloss": "To cover. ouwj, bwj, ouej-, ouoj=: (511a)",
+        "definition": "vt. To cut, cut off."
+      },
+      {
+        "label": "ouwjp",
+        "reference": "513a",
+        "gloss": "vi. To break, be broken",
+        "definition": "---: m. Breakage, collapse."
+      },
+      {
+        "label": "ouw]",
+        "reference": "495a",
+        "gloss": "vi. To send",
+        "definition": "vi. To send"
+      }
+    ]
+  },
+  {
+    "headword": "ousap",
+    "copticWord": "ⲟⲩϣⲁⲡ",
+    "englishTransliteration": "oushap",
+    "reference": "503a",
+    "partOfSpeech": "m",
+    "gloss": "Loan",
+    "definition": "Loan",
+    "senses": [
+      {
+        "label": "]epousap",
+        "gloss": "vb To give on loan",
+        "definition": "vb To give on loan"
+      },
+      {
+        "label": "[iepousap",
+        "partOfSpeech": "vb",
+        "gloss": "to take, get on loan",
+        "definition": "to take, get on loan"
+      },
+      {
+        "label": "ouqe",
+        "reference": "739b",
+        "gloss": "m Untimely birth",
+        "definition": "m Untimely birth"
+      }
+    ]
+  },
+  {
+    "headword": "ouho",
+    "copticWord": "ⲟⲩϩⲟ",
+    "englishTransliteration": "ouho",
+    "gloss": "Greatness",
+    "definition": "Greatness",
+    "crossReference": {
+      "target": "houo",
+      "gloss": "Greatness"
+    }
+  },
+  {
+    "headword": "ouhwr",
+    "copticWord": "ⲟⲩϩⲱⲣ",
+    "englishTransliteration": "ouhōr",
+    "reference": "510b",
+    "partOfSpeech": "n",
+    "gloss": "Dog",
+    "definition": "Dog"
+  },
+  {
+    "headword": "oujai",
+    "copticWord": "ⲟⲩϫⲁⲓ",
+    "englishTransliteration": "ougai",
+    "variants": [
+      {
+        "word": "Q. ouoj",
+        "copticWord": "Ϧ. ⲟⲩⲟϫ",
+        "englishTransliteration": "Kh. ouoj"
+      }
+    ],
+    "reference": "511a",
+    "gloss": "vi. To be whole, safe, sound",
+    "definition": "imperat. as greeting, i.e. good bye;",
+    "senses": [
+      {
+        "label": "e",
+        "gloss": "vi. To be saved from",
+        "definition": "vi. To be saved from"
+      },
+      {
+        "label": "ebol ha",
+        "gloss": "vi. To be saved from",
+        "definition": "vi. To be saved from"
+      },
+      {
+        "label": "qen",
+        "gloss": "vi. To be saved by",
+        "definition": "vi. To be saved by"
+      },
+      {
+        "label": "hiten",
+        "gloss": "vi. To be saved by",
+        "definition": "--: m Health, safety, weal --: adj. Health-giving, healthy metatoujai: f Unsoundness."
+      }
+    ]
+  },
+  {
+    "headword": "e",
+    "copticWord": "ⲉ",
+    "englishTransliteration": "e",
+    "gloss": "Q. Different from, surpassing",
+    "definition": "--- ehote: Q. Different from, surpassing;"
+  },
+  {
+    "headword": "oute",
+    "copticWord": "ⲟⲩⲧⲉ",
+    "englishTransliteration": "oute",
+    "gloss": "vi. To separate between",
+    "definition": "--- ebol: vi. To separate out, send forth;"
+  }
+]

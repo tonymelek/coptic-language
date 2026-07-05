@@ -1,0 +1,396 @@
+[
+  {
+    "headword": "e",
+    "copticWord": "ⲉ",
+    "englishTransliteration": "e",
+    "partOfSpeech": "vb",
+    "gloss": "To weep about",
+    "definition": "To weep about"
+  },
+  {
+    "headword": "ejen",
+    "copticWord": "ⲉϫⲉⲛ",
+    "englishTransliteration": "ejen",
+    "partOfSpeech": "vb",
+    "gloss": "To weep about, for",
+    "definition": "To weep about, for"
+  },
+  {
+    "headword": "epswi ha",
+    "copticWord": "ⲉⲡϣⲱⲓ ϩⲁ",
+    "englishTransliteration": "epshōi ha",
+    "partOfSpeech": "vb",
+    "gloss": "To weep toward",
+    "definition": "To weep toward"
+  },
+  {
+    "headword": "ntwou",
+    "copticWord": "ⲛⲧⲱⲟⲩ",
+    "englishTransliteration": "ntōou",
+    "gloss": "Mountain, wild swine. rita: (305b)",
+    "definition": "Mountain, wild swine. rita: (305b)",
+    "senses": [
+      {
+        "label": "I",
+        "gloss": "Mouth",
+        "definition": "Mouth"
+      },
+      {
+        "label": "ayrwf",
+        "partOfSpeech": "adj",
+        "gloss": "Mouthless",
+        "definition": "Mouthless"
+      },
+      {
+        "label": "w nrw=",
+        "partOfSpeech": "vb",
+        "gloss": "To place, leave mouth, be silent",
+        "definition": "To place, leave mouth, be silent"
+      },
+      {
+        "label": "e",
+        "partOfSpeech": "vb",
+        "gloss": "To be silent toward, about",
+        "definition": "To be silent toward, about"
+      },
+      {
+        "label": "epswi",
+        "partOfSpeech": "vb",
+        "gloss": "To open mouth upward, lift up voice",
+        "definition": "To open mouth upward, lift up voice"
+      },
+      {
+        "label": "a rwf",
+        "partOfSpeech": "n",
+        "gloss": "Silence",
+        "definition": "Silence"
+      },
+      {
+        "label": "at",
+        "partOfSpeech": "adj",
+        "gloss": "Without leaving mouth shut, never silent",
+        "definition": "Without leaving mouth shut, never silent"
+      },
+      {
+        "label": "] rw=",
+        "partOfSpeech": "vb",
+        "gloss": "To give mouth, word, promise",
+        "definition": "To give mouth, word, promise"
+      },
+      {
+        "label": "ouwn nrw=",
+        "partOfSpeech": "vb",
+        "gloss": "To open mouth",
+        "definition": "To open mouth"
+      },
+      {
+        "label": "[i",
+        "gloss": "rw=: vb. To deprive, prevent, anticipate",
+        "definition": "rw=: vb. To deprive, prevent, anticipate"
+      },
+      {
+        "label": "jek rw=",
+        "partOfSpeech": "vb",
+        "gloss": "To fill mouth, satisfy",
+        "definition": "To fill mouth, satisfy"
+      },
+      {
+        "label": "II",
+        "gloss": "Edge of weapon",
+        "definition": "Edge of weapon"
+      },
+      {
+        "label": "III",
+        "gloss": "Door, gate",
+        "definition": "Door, gate"
+      },
+      {
+        "label": "atro",
+        "partOfSpeech": "adj",
+        "gloss": "Doorless",
+        "definition": "Doorless"
+      },
+      {
+        "label": "va pro",
+        "partOfSpeech": "n",
+        "gloss": "He of the door, door keeper",
+        "definition": "He of the door, door keeper"
+      },
+      {
+        "label": "hanro",
+        "partOfSpeech": "m",
+        "gloss": "Porch",
+        "definition": "re-: m. Part, fraction;"
+      },
+      {
+        "label": "tere",
+        "partOfSpeech": "m",
+        "gloss": "Part, fraction",
+        "definition": "Part, fraction"
+      },
+      {
+        "label": "qaren",
+        "gloss": "Prep. Under mouth of",
+        "definition": "beneath, before; hiren-, hirw=: Prep. At mouth, door of; at, upon; ebol hiren-: From before. (2)ro: (290a); m. Strand, ply of cord. ro v. rw - Indeed. rodon, roton, roldion: (Gk); m. Rose. royb= v. rwteb - To recline. (rokrek) rekrwk (Q): (293a); vi. To become, be putrid or scorched. rokh= v. rwkh - To burn. rokh (Q) v. rwkh - To burn. rokh v. rwkh - Fuel. roldion v. rodon - Rose erw=: Prep. To mouth of; to upon (mostly with verbs of motion;"
+      }
+    ]
+  },
+  {
+    "headword": "nn. a plant. ritiyi",
+    "copticWord": "ⲛⲛ. ⲁ ⲡⲗⲁⲛⲧ. ⲣⲓⲧⲓⲑⲓ",
+    "englishTransliteration": "nn. a plant. ritithi",
+    "reference": "306a"
+  },
+  {
+    "headword": "m. Zodiacal sign \"Aquarius\" (1)ro",
+    "copticWord": "ⲙ. Ⲍⲟⲇⲓⲁⲥⲁⲗ ϣⲓⲅⲛ ⲮⲀϧⲩⲁⲣⲓⲩϣⲮ (1)ⲣⲟ",
+    "englishTransliteration": "m. Zodiasal shign PsAkhyariyshPs (1)ro",
+    "variants": [
+      {
+        "word": "re",
+        "copticWord": "ⲣⲉ",
+        "englishTransliteration": "re"
+      },
+      {
+        "word": "rw=",
+        "copticWord": "ⲣⲱ",
+        "englishTransliteration": "rō"
+      },
+      {
+        "type": "pl.",
+        "word": "rwou",
+        "copticWord": "ⲣⲱⲟⲩ",
+        "englishTransliteration": "rōou"
+      }
+    ],
+    "reference": "288a",
+    "partOfSpeech": "m"
+  },
+  {
+    "headword": "n",
+    "copticWord": "ⲛ",
+    "englishTransliteration": "n",
+    "partOfSpeech": "vb",
+    "gloss": "To weep about, for",
+    "definition": "To weep about, for"
+  },
+  {
+    "headword": "nca",
+    "copticWord": "ⲛⲥⲁ",
+    "englishTransliteration": "nsa",
+    "partOfSpeech": "vb",
+    "gloss": "To weep after",
+    "definition": "---: m. Weeping;"
+  },
+  {
+    "headword": "[irimi",
+    "copticWord": "ϭⲓⲣⲓⲙⲓ",
+    "englishTransliteration": "chirimi",
+    "partOfSpeech": "vb",
+    "gloss": "To weep",
+    "definition": "To weep"
+  },
+  {
+    "headword": "erm/",
+    "copticWord": "ⲉⲣⲙⲏ",
+    "englishTransliteration": "ermi",
+    "variants": [
+      {
+        "type": "pl.",
+        "word": "ermwoui & sg as pl",
+        "copticWord": "ⲉⲣⲙⲱⲟⲩⲓ & ϣⲅ ⲁϣ ⲡⲗ",
+        "englishTransliteration": "ermōoui & shg ash pl"
+      }
+    ],
+    "partOfSpeech": "f",
+    "gloss": "Tear",
+    "definition": "Tear"
+  },
+  {
+    "headword": "] erm/",
+    "copticWord": "ϯ ⲉⲣⲙⲏ",
+    "englishTransliteration": "ti ermi",
+    "partOfSpeech": "vb",
+    "gloss": "To give tears, weep. rir: (299a)",
+    "definition": "m. Swine, pig;"
+  },
+  {
+    "headword": "rompi",
+    "copticWord": "ⲣⲟⲙⲡⲓ",
+    "englishTransliteration": "rompi",
+    "reference": "296b",
+    "partOfSpeech": "f",
+    "gloss": "Year",
+    "definition": "Year"
+  },
+  {
+    "headword": "nourompi",
+    "copticWord": "ⲛⲟⲩⲣⲟⲙⲡⲓ",
+    "englishTransliteration": "nourompi",
+    "gloss": "For a year",
+    "definition": "For a year"
+  },
+  {
+    "headword": "nyrompi",
+    "copticWord": "ⲛⲑⲣⲟⲙⲡⲓ",
+    "englishTransliteration": "nthrompi",
+    "gloss": "This year",
+    "definition": "This year"
+  },
+  {
+    "headword": "]kerompi",
+    "copticWord": "ϯⲕⲉⲣⲟⲙⲡⲓ",
+    "englishTransliteration": "tikerompi",
+    "gloss": "Next Year",
+    "definition": "Next Year"
+  },
+  {
+    "headword": "temrompi",
+    "copticWord": "ⲧⲉⲙⲣⲟⲙⲡⲓ",
+    "englishTransliteration": "temrompi",
+    "variants": [
+      {
+        "word": "terompi",
+        "copticWord": "ⲧⲉⲣⲟⲙⲡⲓ",
+        "englishTransliteration": "terompi"
+      }
+    ],
+    "gloss": "Each year, annually",
+    "definition": "Each year, annually"
+  },
+  {
+    "headword": "errompi",
+    "copticWord": "ⲉⲣⲣⲟⲙⲡⲓ",
+    "englishTransliteration": "errompi",
+    "partOfSpeech": "vb",
+    "gloss": "To reach year of age, send year",
+    "definition": "To reach year of age, send year"
+  },
+  {
+    "headword": "romcin",
+    "copticWord": "ⲣⲟⲙⲥⲓⲛ",
+    "englishTransliteration": "romsin",
+    "reference": "297a",
+    "partOfSpeech": "m",
+    "gloss": "A plant, dematis",
+    "definition": "A plant, dematis"
+  },
+  {
+    "headword": "rot=",
+    "copticWord": "ⲣⲟⲧ",
+    "englishTransliteration": "rot",
+    "gloss": "To grow",
+    "definition": "To grow",
+    "crossReference": {
+      "target": "rwt",
+      "gloss": "To grow"
+    }
+  },
+  {
+    "headword": "roton",
+    "copticWord": "ⲣⲟⲧⲟⲛ",
+    "englishTransliteration": "roton",
+    "gloss": "Rose",
+    "definition": "Rose",
+    "crossReference": {
+      "target": "rodon",
+      "gloss": "Rose"
+    }
+  },
+  {
+    "headword": "rouhi",
+    "copticWord": "ⲣⲟⲩϩⲓ",
+    "englishTransliteration": "rouhi",
+    "reference": "310b",
+    "partOfSpeech": "m",
+    "gloss": "Evening",
+    "definition": "Adv. at evening;"
+  },
+  {
+    "headword": "hanarouhi",
+    "copticWord": "ϩⲁⲛⲁⲣⲟⲩϩⲓ",
+    "englishTransliteration": "hanarouhi",
+    "variants": [
+      {
+        "word": "anarouhi",
+        "copticWord": "ⲁⲛⲁⲣⲟⲩϩⲓ",
+        "englishTransliteration": "anarouhi"
+      }
+    ],
+    "partOfSpeech": "f",
+    "gloss": "Same as rouhi",
+    "definition": "Same as rouhi"
+  },
+  {
+    "headword": "rojp=",
+    "copticWord": "ⲣⲟϫⲡ",
+    "englishTransliteration": "rojp",
+    "gloss": "To throw down",
+    "definition": "To throw down",
+    "crossReference": {
+      "target": "rwjp",
+      "gloss": "To throw down"
+    }
+  },
+  {
+    "headword": "rw=",
+    "copticWord": "ⲣⲱ",
+    "englishTransliteration": "rō",
+    "gloss": "Mouth",
+    "definition": "Mouth",
+    "crossReference": {
+      "target": "ro",
+      "gloss": "Mouth"
+    }
+  },
+  {
+    "headword": "rw",
+    "copticWord": "ⲣⲱ",
+    "englishTransliteration": "rō",
+    "variants": [
+      {
+        "word": "ro",
+        "copticWord": "ⲣⲟ",
+        "englishTransliteration": "ro"
+      }
+    ],
+    "reference": "290a",
+    "gloss": "Enclitic part., emphatic or explicative",
+    "definition": "Enclitic part., emphatic or explicative"
+  },
+  {
+    "headword": "a)",
+    "copticWord": "ⲁ)",
+    "englishTransliteration": "a)",
+    "gloss": "Same, again, also",
+    "definition": "Same, again, also"
+  },
+  {
+    "headword": "b)",
+    "copticWord": "ⲃ)",
+    "englishTransliteration": "v)",
+    "gloss": "Indeed, but",
+    "definition": "Indeed, but"
+  },
+  {
+    "headword": "c)",
+    "copticWord": "ⲥ)",
+    "englishTransliteration": "s)",
+    "gloss": "For",
+    "definition": "For"
+  },
+  {
+    "headword": "d)",
+    "copticWord": "ⲇ)",
+    "englishTransliteration": "d)",
+    "gloss": "even, at all, at last",
+    "definition": "even, at all, at last"
+  },
+  {
+    "headword": "e)",
+    "copticWord": "ⲉ)",
+    "englishTransliteration": "e)",
+    "gloss": "Then (in questions)",
+    "definition": "Then (in questions)"
+  }
+]

@@ -1,0 +1,410 @@
+[
+  {
+    "headword": "h/ppe",
+    "copticWord": "ϩⲏⲡⲡⲉ",
+    "englishTransliteration": "hippe",
+    "variants": [
+      {
+        "word": "h//pe ic",
+        "copticWord": "ϩⲏⲏⲡⲉ ⲓⲥ",
+        "englishTransliteration": "hiipe is"
+      }
+    ],
+    "gloss": "Same meaning (w/pron, vb)",
+    "definition": "Same meaning (w/pron, vb)"
+  },
+  {
+    "headword": "iwrem",
+    "copticWord": "ⲓⲱⲣⲉⲙ",
+    "englishTransliteration": "iōrem",
+    "variants": [
+      {
+        "word": "iorem",
+        "note": "Q",
+        "copticWord": "ⲓⲟⲣⲉⲙ",
+        "englishTransliteration": "iorem"
+      }
+    ],
+    "reference": "84b",
+    "gloss": "vi. To stare, be astonished, dumbfounded",
+    "definition": "vi. To stare, be astonished, dumbfounded",
+    "senses": [
+      {
+        "label": "nca",
+        "partOfSpeech": "vb",
+        "gloss": "To stare after",
+        "definition": "To stare after"
+      },
+      {
+        "label": "ebol",
+        "partOfSpeech": "vb",
+        "gloss": "To wonder, expect",
+        "definition": "To wonder, expect"
+      },
+      {
+        "label": "eqoun",
+        "partOfSpeech": "vb",
+        "gloss": "To look intently",
+        "definition": "To look intently"
+      },
+      {
+        "label": "ehr/i",
+        "partOfSpeech": "vb",
+        "gloss": "To look intently",
+        "definition": "---: n. Look."
+      },
+      {
+        "label": "iwc",
+        "reference": "86a",
+        "gloss": "vi. To hasten, be urgent",
+        "definition": "refi/c: m. One that hastens; iwc, i/c: m. Speed, diligence. qen oui/c: adv. Diligently, hurriedly. iwrh: (84b); vi. To see, perceive; --: m. Sight, vision; metiorh: f. Sagacity; jiniwrh: n. Vision, power to see."
+      }
+    ]
+  },
+  {
+    "headword": "ic",
+    "copticWord": "ⲓⲥ",
+    "englishTransliteration": "is",
+    "variants": [
+      {
+        "word": "uroc",
+        "copticWord": "ⲩⲣⲟⲥ",
+        "englishTransliteration": "yros"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Strong, powerful, forcible, violent, severe, vigorous, mighty",
+    "definition": "Strong, powerful, forcible, violent, severe, vigorous, mighty"
+  },
+  {
+    "headword": "(1) iwt",
+    "copticWord": "ⲓⲱⲧ",
+    "englishTransliteration": "iōt",
+    "variants": [
+      {
+        "type": "pl.",
+        "word": "io]",
+        "copticWord": "ⲓⲟϯ",
+        "englishTransliteration": "ioti"
+      }
+    ],
+    "reference": "86b",
+    "partOfSpeech": "m",
+    "gloss": "Father",
+    "definition": "Father"
+  },
+  {
+    "headword": "atiwt",
+    "copticWord": "ⲁⲧⲓⲱⲧ",
+    "englishTransliteration": "atiōt",
+    "partOfSpeech": "adj",
+    "gloss": "Fatherless",
+    "definition": "Fatherless"
+  },
+  {
+    "headword": "eriwt",
+    "copticWord": "ⲉⲣⲓⲱⲧ",
+    "englishTransliteration": "eriōt",
+    "partOfSpeech": "vb",
+    "gloss": "To become father",
+    "definition": "To become father"
+  },
+  {
+    "headword": "metiwt",
+    "copticWord": "ⲙⲉⲧⲓⲱⲧ",
+    "englishTransliteration": "metiōt",
+    "partOfSpeech": "f",
+    "gloss": "Family, fatherhood",
+    "definition": "Family, fatherhood"
+  },
+  {
+    "headword": "qeniwt",
+    "copticWord": "ϧⲉⲛⲓⲱⲧ",
+    "englishTransliteration": "kheniōt",
+    "partOfSpeech": "n",
+    "gloss": "Relative on the father's side, uncle",
+    "definition": "Relative on the father's side, uncle"
+  },
+  {
+    "headword": "icje",
+    "copticWord": "ⲓⲥϫⲉ",
+    "englishTransliteration": "isje",
+    "variants": [
+      {
+        "word": "icjek",
+        "copticWord": "ⲓⲥϫⲉⲕ",
+        "englishTransliteration": "isjek"
+      }
+    ],
+    "reference": "63b",
+    "gloss": "conj. If, as if, as it were. icjek v. icje - If",
+    "definition": "conj. If, as if, as it were. icjek v. icje - If"
+  },
+  {
+    "headword": "icjen",
+    "copticWord": "ⲓⲥϫⲉⲛ",
+    "englishTransliteration": "isjen",
+    "reference": "772b",
+    "gloss": "prep. From, since",
+    "definition": "prep. From, since"
+  },
+  {
+    "headword": "iten",
+    "copticWord": "ⲓⲧⲉⲛ",
+    "englishTransliteration": "iten",
+    "reference": "87b"
+  },
+  {
+    "headword": "m. Ground",
+    "copticWord": "ⲙ. Ⲅⲣⲟⲩⲛⲇ",
+    "englishTransliteration": "m. Ground",
+    "variants": [
+      {
+        "word": "earth",
+        "copticWord": "ⲉⲁⲣⲧϩ",
+        "englishTransliteration": "earth"
+      },
+      {
+        "word": "dust",
+        "copticWord": "ⲇⲩϣⲧ",
+        "englishTransliteration": "dysht"
+      },
+      {
+        "word": "rubbish. ioulioc",
+        "copticWord": "ⲣⲩⲃⲃⲓϣϩ. ⲓⲟⲩⲗⲓⲟⲥ",
+        "englishTransliteration": "ryvishh. ioulios"
+      }
+    ],
+    "gloss": "(Lat)",
+    "definition": "n. The month July."
+  },
+  {
+    "headword": "iounioc",
+    "copticWord": "ⲓⲟⲩⲛⲓⲟⲥ",
+    "englishTransliteration": "iounios",
+    "gloss": "(Lat?)",
+    "definition": "n. The month June."
+  },
+  {
+    "headword": "iw",
+    "copticWord": "ⲓⲱ",
+    "englishTransliteration": "iō",
+    "gloss": "Ass",
+    "definition": "Ass",
+    "crossReference": {
+      "target": "ew",
+      "gloss": "Ass"
+    }
+  },
+  {
+    "headword": "(2)iwt",
+    "copticWord": "ⲓⲱⲧ",
+    "englishTransliteration": "iōt",
+    "reference": "87b",
+    "partOfSpeech": "m",
+    "gloss": "Barley",
+    "definition": "Barley"
+  },
+  {
+    "headword": "iwi",
+    "copticWord": "ⲓⲱⲓ",
+    "englishTransliteration": "iōi",
+    "variants": [
+      {
+        "word": "iw",
+        "copticWord": "ⲓⲱ",
+        "englishTransliteration": "iō"
+      },
+      {
+        "word": "ia",
+        "copticWord": "ⲓⲁ",
+        "englishTransliteration": "ia"
+      },
+      {
+        "word": "ia=",
+        "copticWord": "ⲓⲁ",
+        "englishTransliteration": "ia"
+      },
+      {
+        "word": "iwou",
+        "note": "Q",
+        "copticWord": "ⲓⲱⲟⲩ",
+        "englishTransliteration": "iōou"
+      }
+    ],
+    "reference": "75a",
+    "gloss": "vi. &",
+    "definition": "vi. &"
+  },
+  {
+    "headword": "iw]",
+    "copticWord": "ⲓⲱϯ",
+    "englishTransliteration": "iōti",
+    "reference": "87b",
+    "partOfSpeech": "f",
+    "gloss": "Dew",
+    "definition": "Dew"
+  },
+  {
+    "headword": "metsariw]",
+    "copticWord": "ⲙⲉⲧϣⲁⲣⲓⲱϯ",
+    "englishTransliteration": "metshariōti",
+    "partOfSpeech": "f",
+    "gloss": "Poverty of dew",
+    "definition": "Poverty of dew"
+  },
+  {
+    "headword": "is",
+    "copticWord": "ⲓϣ",
+    "englishTransliteration": "ish",
+    "reference": "88a",
+    "partOfSpeech": "f",
+    "gloss": "Urine",
+    "definition": "Urine"
+  },
+  {
+    "headword": "isi",
+    "copticWord": "ⲓϣⲓ",
+    "englishTransliteration": "ishi",
+    "variants": [
+      {
+        "word": "es",
+        "copticWord": "ⲉϣ",
+        "englishTransliteration": "esh"
+      },
+      {
+        "word": "as=",
+        "copticWord": "ⲁϣ",
+        "englishTransliteration": "ash"
+      },
+      {
+        "word": "asi",
+        "note": "Q",
+        "copticWord": "ⲁϣⲓ",
+        "englishTransliteration": "ashi"
+      }
+    ],
+    "reference": "88a",
+    "gloss": "vt. To hang, suspend, crucify",
+    "definition": "vt. To hang, suspend, crucify",
+    "senses": [
+      {
+        "label": "e",
+        "partOfSpeech": "vb",
+        "gloss": "To hang upon",
+        "definition": "To hang upon"
+      },
+      {
+        "label": "nca",
+        "partOfSpeech": "vb",
+        "gloss": "To hang from",
+        "definition": "To hang from"
+      },
+      {
+        "label": "epswi",
+        "partOfSpeech": "vb",
+        "gloss": "To hang up",
+        "definition": "To hang up"
+      },
+      {
+        "label": "vi",
+        "gloss": "ehr/i: vb. To hang up",
+        "definition": "(mostly qual.) To be hung, depend;"
+      },
+      {
+        "label": "ejen",
+        "partOfSpeech": "vb",
+        "gloss": "To hang over, threaten",
+        "definition": "To hang over, threaten"
+      },
+      {
+        "label": "ebol",
+        "partOfSpeech": "vb",
+        "gloss": "To hang out, overhang",
+        "definition": "To hang out, overhang"
+      },
+      {
+        "label": "epswi",
+        "partOfSpeech": "vb",
+        "gloss": "To hang up",
+        "definition": "To hang up"
+      },
+      {
+        "label": "ehr/i",
+        "partOfSpeech": "vb",
+        "gloss": "To hang up",
+        "definition": "To hang up"
+      },
+      {
+        "label": "jinisi",
+        "partOfSpeech": "m",
+        "gloss": "Hanging, crucifixtion",
+        "definition": "Hanging, crucifixtion"
+      }
+    ]
+  },
+  {
+    "headword": "ebol",
+    "copticWord": "ⲉⲃⲟⲗ",
+    "englishTransliteration": "evol",
+    "gloss": "Same meaning",
+    "definition": "Same meaning"
+  },
+  {
+    "headword": "ayiwou",
+    "copticWord": "ⲁⲑⲓⲱⲟⲩ",
+    "englishTransliteration": "athiōou",
+    "partOfSpeech": "adj",
+    "gloss": "Unwashed",
+    "definition": "Unwashed"
+  },
+  {
+    "headword": "eiw ebol",
+    "copticWord": "ⲉⲓⲱ ⲉⲃⲟⲗ",
+    "englishTransliteration": "iō evol",
+    "partOfSpeech": "m",
+    "gloss": "Washing",
+    "definition": "Washing"
+  },
+  {
+    "headword": "iatot= nca",
+    "copticWord": "ⲓⲁⲧⲟⲧ ⲛ̅ⲥⲁ",
+    "englishTransliteration": "iatot n̅sa",
+    "partOfSpeech": "vb",
+    "gloss": "To despair of, renounce",
+    "definition": "To despair of, renounce"
+  },
+  {
+    "headword": "isjek",
+    "copticWord": "ⲓϣϫⲉⲕ",
+    "englishTransliteration": "ishjek",
+    "gloss": "If",
+    "definition": "If",
+    "crossReference": {
+      "target": "icje",
+      "gloss": "If"
+    }
+  },
+  {
+    "headword": "ift",
+    "copticWord": "ⲓϥⲧ",
+    "englishTransliteration": "ift",
+    "gloss": "Nail",
+    "definition": "Nail",
+    "crossReference": {
+      "target": "wft",
+      "gloss": "Nail"
+    }
+  },
+  {
+    "headword": "iq",
+    "copticWord": "ⲓϧ",
+    "englishTransliteration": "ikh",
+    "reference": "89a",
+    "partOfSpeech": "m",
+    "gloss": "Demon",
+    "definition": "Demon"
+  }
+]

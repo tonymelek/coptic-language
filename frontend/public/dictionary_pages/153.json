@@ -1,0 +1,197 @@
+[
+  {
+    "headword": "qen",
+    "copticWord": "ϧⲉⲛ",
+    "englishTransliteration": "khen",
+    "gloss": "vt. To gird with, in",
+    "definition": "vt. To gird with, in"
+  },
+  {
+    "headword": "eqoun",
+    "copticWord": "ⲉϧⲟⲩⲛ",
+    "englishTransliteration": "ekhoun",
+    "gloss": "vt. To gird (with emphasis)",
+    "definition": "vt. To gird (with emphasis)"
+  },
+  {
+    "headword": "qwki",
+    "copticWord": "ϧⲱⲕⲓ",
+    "englishTransliteration": "khōki",
+    "gloss": "To scrape",
+    "definition": "To scrape",
+    "crossReference": {
+      "target": "hwki",
+      "gloss": "To scrape"
+    }
+  },
+  {
+    "headword": "qwkh",
+    "copticWord": "ϧⲱⲕϩ",
+    "englishTransliteration": "khōkh",
+    "gloss": "Fleece",
+    "definition": "Fleece",
+    "crossReference": {
+      "target": "hwki",
+      "gloss": "Fleece"
+    }
+  },
+  {
+    "headword": "qwl",
+    "copticWord": "ϧⲱⲗ",
+    "englishTransliteration": "khōl",
+    "gloss": "To be hoarse",
+    "definition": "To be hoarse",
+    "crossReference": {
+      "target": "hwl",
+      "gloss": "To be hoarse"
+    }
+  },
+  {
+    "headword": "erqwteb",
+    "copticWord": "ⲉⲣϧⲱⲧⲉⲃ",
+    "englishTransliteration": "erkhōtev",
+    "partOfSpeech": "vb",
+    "gloss": "To slay",
+    "definition": "To slay"
+  },
+  {
+    "headword": "qwnt",
+    "copticWord": "ϧⲱⲛⲧ",
+    "englishTransliteration": "khōnt",
+    "variants": [
+      {
+        "word": "hwnt",
+        "copticWord": "ϩⲱⲛⲧ",
+        "englishTransliteration": "hōnt"
+      },
+      {
+        "word": "qent",
+        "copticWord": "ϧⲉⲛⲧ",
+        "englishTransliteration": "khent"
+      },
+      {
+        "word": "qont=",
+        "copticWord": "ϧⲟⲛⲧ",
+        "englishTransliteration": "khont"
+      },
+      {
+        "word": "(Q) qent",
+        "copticWord": "(Ϧ) ϧⲉⲛⲧ",
+        "englishTransliteration": "(Kh) khent"
+      }
+    ],
+    "reference": "691b",
+    "gloss": "vi. To approach, come near",
+    "definition": "vi. To approach, come near",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "Nearness",
+        "definition": "Nearness"
+      },
+      {
+        "label": "atqwnt",
+        "partOfSpeech": "adj",
+        "gloss": "Unapproachable",
+        "definition": "Unapproachable"
+      }
+    ]
+  },
+  {
+    "headword": "refqateb",
+    "copticWord": "ⲣⲉϥϧⲁⲧⲉⲃ",
+    "englishTransliteration": "refkhatev",
+    "partOfSpeech": "m",
+    "gloss": "Slayer, murderer",
+    "definition": "Slayer, murderer"
+  },
+  {
+    "headword": "metrefqateb",
+    "copticWord": "ⲙⲉⲧⲣⲉϥϧⲁⲧⲉⲃ",
+    "englishTransliteration": "metrefkhatev",
+    "partOfSpeech": "f",
+    "gloss": "Slaughter, murder",
+    "definition": "Slaughter, murder"
+  },
+  {
+    "headword": "jinqwteb",
+    "copticWord": "ϫⲓⲛϧⲱⲧⲉⲃ",
+    "englishTransliteration": "jinkhōtev",
+    "partOfSpeech": "m",
+    "gloss": "Act of slaying",
+    "definition": "Act of slaying"
+  },
+  {
+    "headword": "(1) qwq",
+    "copticWord": "ϧⲱϧ",
+    "englishTransliteration": "khōkh",
+    "reference": "631b",
+    "gloss": "vi. To tighten, strengthen",
+    "definition": "vi. To tighten, strengthen"
+  },
+  {
+    "headword": "(2) qwq",
+    "copticWord": "ϧⲱϧ",
+    "englishTransliteration": "khōkh",
+    "variants": [
+      {
+        "word": "qaq=",
+        "copticWord": "ϧⲁϧ",
+        "englishTransliteration": "khakh"
+      },
+      {
+        "word": "(Q) q/q",
+        "copticWord": "(Ϧ) ϧⲏϧ",
+        "englishTransliteration": "(Kh) khikh"
+      }
+    ],
+    "reference": "742a",
+    "gloss": "vi. To be scraped, itch",
+    "definition": "vt. To scrape, scratch"
+  },
+  {
+    "headword": "qaqou",
+    "copticWord": "ϧⲁϧⲟⲩ",
+    "englishTransliteration": "khakhou",
+    "partOfSpeech": "m",
+    "gloss": "Scratching, itching",
+    "definition": "Scratching, itching"
+  },
+  {
+    "headword": "jinqwnt",
+    "copticWord": "ϫⲓⲛϧⲱⲛⲧ",
+    "englishTransliteration": "jinkhōnt",
+    "partOfSpeech": "m",
+    "gloss": "Act of approaching. qwnj: (693b)",
+    "definition": "vi. To entreat, exhort; ---: n. Entreaty."
+  },
+  {
+    "headword": "qwr",
+    "copticWord": "ϧⲱⲣ",
+    "englishTransliteration": "khōr",
+    "variants": [
+      {
+        "word": "qer",
+        "copticWord": "ϧⲉⲣ",
+        "englishTransliteration": "kher"
+      },
+      {
+        "word": "qor=",
+        "copticWord": "ϧⲟⲣ",
+        "englishTransliteration": "khor"
+      }
+    ],
+    "reference": "631a",
+    "gloss": "vt. To destroy",
+    "definition": "vt. To destroy"
+  },
+  {
+    "headword": "qwt",
+    "copticWord": "ϧⲱⲧ",
+    "englishTransliteration": "khōt",
+    "reference": "631b",
+    "partOfSpeech": "m",
+    "gloss": "Cloth, change of raiment",
+    "definition": "Cloth, change of raiment"
+  }
+]
