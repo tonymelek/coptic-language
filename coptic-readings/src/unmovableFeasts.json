@@ -1,0 +1,213 @@
+{
+  "nayrouz": {
+    "startDay": 1,
+    "endDay": 16,
+    "calendar": "coptic",
+    "startMonth": 1,
+    "endMonth": 1,
+    "tune": "joy"
+  },
+  "cross_1": {
+    "startDay": 17,
+    "endDay": 19,
+    "calendar": "coptic",
+    "startMonth": 1,
+    "endMonth": 1,
+    "tune": "hosanna"
+  },
+  "cross_2": {
+    "startDay": 19,
+    "endDay": 19,
+    "calendar": "greg",
+    "startMonth": 3,
+    "endMonth": 3,
+    "tune": "hosanna"
+  },
+  "nativity": {
+    "startDay": 7,
+    "endDay": 14,
+    "calendar": "greg",
+    "startMonth": 1,
+    "endMonth": 1,
+    "tune": "joy"
+  },
+  "memory_of_3_feasts_tout": {
+    "startDay": 29,
+    "endDay": 29,
+    "calendar": "coptic",
+    "startMonth": 1,
+    "endMonth": 1,
+    "tune": "joy"
+  },
+  "memory_of_3_feasts_baba": {
+    "startDay": 29,
+    "endDay": 29,
+    "calendar": "coptic",
+    "startMonth": 2,
+    "endMonth": 2,
+    "tune": "joy"
+  },
+  "memory_of_3_feasts_hator": {
+    "startDay": 29,
+    "endDay": 29,
+    "calendar": "coptic",
+    "startMonth": 3,
+    "endMonth": 3,
+    "tune": "joy"
+  },
+  "memory_of_3_feasts_baramhat": {
+    "startDay": 29,
+    "endDay": 29,
+    "calendar": "coptic",
+    "startMonth": 7,
+    "endMonth": 7,
+    "tune": "joy"
+  },
+  "memory_of_3_feasts_baramouda": {
+    "startDay": 29,
+    "endDay": 29,
+    "calendar": "coptic",
+    "startMonth": 8,
+    "endMonth": 8,
+    "tune": "joy"
+  },
+  "memory_of_3_feasts_bashans": {
+    "startDay": 29,
+    "endDay": 29,
+    "calendar": "coptic",
+    "startMonth": 9,
+    "endMonth": 9,
+    "tune": "joy"
+  },
+  "memory_of_3_feasts_paona": {
+    "startDay": 29,
+    "endDay": 29,
+    "calendar": "coptic",
+    "startMonth": 10,
+    "endMonth": 10,
+    "tune": "joy"
+  },
+  "memory_of_3_feasts_epep": {
+    "startDay": 29,
+    "endDay": 29,
+    "calendar": "coptic",
+    "startMonth": 11,
+    "endMonth": 11,
+    "tune": "joy"
+  },
+  "memory_of_3_feasts_mesra": {
+    "startDay": 29,
+    "endDay": 29,
+    "calendar": "coptic",
+    "startMonth": 12,
+    "endMonth": 12,
+    "tune": "joy"
+  },
+  "kiahk": {
+    "startDay": 1,
+    "endDay": 28,
+    "calendar": "coptic",
+    "startMonth": 3,
+    "endMonth": 4,
+    "tune": "kiahk"
+  },
+  "circumcision": {
+    "startDay": 6,
+    "endDay": 6,
+    "calendar": "coptic",
+    "startMonth": 5,
+    "endMonth": 5,
+    "tune": "joy",
+    "katamaros": "annual"
+  },
+  "theophany_paramoun": {
+    "startDay": 8,
+    "endDay": 10,
+    "calendar": "coptic",
+    "startMonth": 5,
+    "endMonth": 5,
+    "tune": "joy",
+    "katamaros": "annual"
+  },
+  "theophany": {
+    "startDay": 11,
+    "endDay": 11,
+    "calendar": "coptic",
+    "startMonth": 5,
+    "endMonth": 5,
+    "tune": "joy",
+    "katamaros": "annual"
+  },
+  "wedding_of_cana": {
+    "startDay": 13,
+    "endDay": 13,
+    "calendar": "coptic",
+    "startMonth": 5,
+    "endMonth": 5,
+    "tune": "joy",
+    "katamaros": "annual"
+  },
+  "entrance_into_temple": {
+    "startDay": 8,
+    "endDay": 8,
+    "calendar": "coptic",
+    "startMonth": 6,
+    "endMonth": 6,
+    "tune": "joy",
+    "katamaros": "annual"
+  },
+  "annunciation": {
+    "startDay": 29,
+    "endDay": 29,
+    "calendar": "coptic",
+    "startMonth": 7,
+    "endMonth": 7,
+    "tune": "joy",
+    "katamaros": "annual"
+  },
+  "entry_into_egypt": {
+    "startDay": 24,
+    "endDay": 24,
+    "calendar": "coptic",
+    "startMonth": 9,
+    "endMonth": 9,
+    "tune": "joy",
+    "katamaros": "annual"
+  },
+  "apostles": {
+    "startDay": 5,
+    "endDay": 5,
+    "calendar": "coptic",
+    "startMonth": 11,
+    "endMonth": 11,
+    "tune": "annual",
+    "katamaros": "annual"
+  },
+  "st_mary_fast": {
+    "startDay": 1,
+    "endDay": 15,
+    "calendar": "coptic",
+    "startMonth": 12,
+    "endMonth": 12,
+    "tune": "annual",
+    "katamaros": "annual"
+  },
+  "transfiguration": {
+    "startDay": 13,
+    "endDay": 13,
+    "calendar": "coptic",
+    "startMonth": 12,
+    "endMonth": 12,
+    "tune": "joy",
+    "katamaros": "annual"
+  },
+  "st_mary_feast": {
+    "startDay": 16,
+    "endDay": 16,
+    "calendar": "coptic",
+    "startMonth": 12,
+    "endMonth": 12,
+    "tune": "annual",
+    "katamaros": "annual"
+  }
+}

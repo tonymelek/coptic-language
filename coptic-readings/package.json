@@ -1,0 +1,63 @@
+{
+  "name": "coptic-readings",
+  "version": "1.0.0",
+  "description": "Day-round Coptic katamaros reading references for a given date (annual, Great Lent, Holy Fifty).",
+  "license": "MIT",
+  "author": "",
+  "keywords": [
+    "coptic",
+    "orthodox",
+    "katamaros",
+    "liturgical",
+    "readings",
+    "easter",
+    "great-lent"
+  ],
+  "type": "module",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.cjs",
+      "default": "./dist/index.mjs"
+    },
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "sideEffects": false,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "tsup",
+    "typecheck": "tsc --noEmit",
+    "prepublishOnly": "npm run build",
+    "test": "npm run build && node --test test/*.test.mjs",
+    "pack:check": "npm pack --dry-run",
+    "publish:dry-run": "npm publish --dry-run",
+    "publish:npm": "npm publish --access public"
+  },
+  "homepage": "https://www.npmjs.com/package/coptic-readings",
+  "publishConfig": {
+    "access": "public",
+    "provenance": false
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonymelek/coptic-tools.git",
+    "directory": "coptic-readings"
+  },
+  "bugs": {
+    "url": "https://github.com/tonymelek/coptic-tools/issues"
+  },
+  "devDependencies": {
+    "tsup": "^8.5.0",
+    "typescript": "^5.9.2"
+  }
+}

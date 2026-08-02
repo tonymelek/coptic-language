@@ -1,0 +1,901 @@
+{
+  "0": {
+    "title": "Eve of Holy Resurrection Sunday (Sham El-Nessim Monday night)",
+    "vespers": {
+      "psalm": "Psalms 95:9",
+      "gospel": "John 20:19-20"
+    }
+  },
+  "1": {
+    "title": "Glorious Resurrection Sunday",
+    "matins": {
+      "psalm": "Psalms 77:56;Psalms 77:60",
+      "gospel": "Mark 16:2-11"
+    },
+    "liturgy": {
+      "pauline": "1 Corinthians 15:23-50",
+      "catholic": "1 Peter 3:15-4:6",
+      "acts": "Acts 2:22-28",
+      "psalm": "Psalms 117:12-25",
+      "gospel": "John 20:1-18"
+    }
+  },
+  "2": {
+    "title": "Monday of the first week of the Holy Fifty",
+    "matins": {
+      "psalm": "Psalms 96:1-2",
+      "gospel": "Luke 24:1-12"
+    },
+    "liturgy": {
+      "pauline": "1 Thessalonians 4:13-5:11",
+      "catholic": "1 Peter 2:11-25",
+      "acts": "Acts 3:1-20",
+      "psalm": "Psalms 103:13;Psalms 103:29;Psalms 103:30",
+      "gospel": "Luke 24:13-35"
+    }
+  },
+  "3": {
+    "title": "Tuesday of the first week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 91:2;Psalms 91:3",
+      "gospel": "John 6:15-22"
+    },
+    "matins": {
+      "psalm": "Psalms 104:1",
+      "gospel": "Matthew 28:16-20"
+    },
+    "liturgy": {
+      "pauline": "Romans 5:6-21",
+      "catholic": "1 Peter 4:1-11",
+      "acts": "Acts 10:34-43",
+      "psalm": "Psalms 104:1",
+      "gospel": "Mark 16:9-20"
+    }
+  },
+  "4": {
+    "title": "Wednesday of the first week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 29:5-7",
+      "gospel": "Matthew 9:15-17"
+    },
+    "matins": {
+      "psalm": "Psalms 104:25;Psalms 104:26",
+      "gospel": "John 1:9-14"
+    },
+    "liturgy": {
+      "pauline": "1 Corinthians 15:50-58",
+      "catholic": "1 Peter 1:10-21",
+      "acts": "Acts 4:1-13",
+      "psalm": "Psalms 105:1",
+      "gospel": "John 2:12-25"
+    }
+  },
+  "5": {
+    "title": "Thursday of the first week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 96:8-9",
+      "gospel": "Mark 2:3-13"
+    },
+    "matins": {
+      "psalm": "Psalms 105:3-4",
+      "gospel": "Luke 9:28-36"
+    },
+    "liturgy": {
+      "pauline": "Ephesians 1:3-2:3",
+      "catholic": "1 Peter 3:8-15",
+      "acts": "Acts 4:13-22",
+      "psalm": "Psalms 105:32",
+      "gospel": "Luke 7:11-17"
+    }
+  },
+  "6": {
+    "title": "Friday of the first week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 11:6;Psalms 11:7",
+      "gospel": "Luke 4:38-42"
+    },
+    "matins": {
+      "psalm": "Psalms 105:31",
+      "gospel": "Luke 20:27-39"
+    },
+    "liturgy": {
+      "pauline": "Hebrews 13:10-21",
+      "catholic": "1 Peter 1:25-2:10",
+      "acts": "Acts 13:34-42",
+      "psalm": "Psalms 106:1;Psalms 106:2",
+      "gospel": "Mark 16:2-8"
+    }
+  },
+  "7": {
+    "title": "Saturday of the first week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 118:7-10",
+      "gospel": "John 6:54-58"
+    },
+    "matins": {
+      "psalm": "Psalms 76:1;Psalms 76:2",
+      "gospel": "John 20:19-23"
+    },
+    "liturgy": {
+      "pauline": "Colossians 1:12-23",
+      "catholic": "1 John 1:1-7",
+      "acts": "Acts 4:19-31",
+      "psalm": "Psalms 118:52",
+      "gospel": "Luke 9:28-35"
+    }
+  },
+  "8": {
+    "title": "First Sunday of the Holy Fifty (Thomas Sunday)",
+    "vespers": {
+      "psalm": "Psalms 32:3;Psalms 32:2",
+      "gospel": "Luke 5:1-11"
+    },
+    "matins": {
+      "psalm": "Psalms 95:1",
+      "gospel": "John 21:1-14"
+    },
+    "liturgy": {
+      "pauline": "Ephesians 4:20-32",
+      "catholic": "1 John 2:7-17",
+      "acts": "Acts 17:16-34",
+      "psalm": "Psalms 97:1;Psalms 97:5",
+      "gospel": "John 20:19-31"
+    }
+  },
+  "9": {
+    "title": "Monday of the second week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 26:16;Psalms 26:17",
+      "gospel": "Matthew 14:23-33"
+    },
+    "matins": {
+      "psalm": "Psalms 111:3;Psalms 111:4;Psalms 111:5",
+      "gospel": "Matthew 8:23-27"
+    },
+    "liturgy": {
+      "pauline": "Romans 1:1-4",
+      "catholic": "1 John 1:1-7",
+      "acts": "Acts 4:1-4",
+      "psalm": "Psalms 69:5",
+      "gospel": "John 3:31-36"
+    }
+  },
+  "10": {
+    "title": "Tuesday of the second week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 9:15",
+      "gospel": "Matthew 17:19-23"
+    },
+    "matins": {
+      "psalm": "Psalms 7:6;Psalms 7:9",
+      "gospel": "Matthew 9:27-31"
+    },
+    "liturgy": {
+      "pauline": "Romans 1:7-10",
+      "catholic": "1 John 1:6-10",
+      "acts": "Acts 4:5-7",
+      "psalm": "Psalms 7:7;Psalms 7:8",
+      "gospel": "John 5:22-24"
+    }
+  },
+  "11": {
+    "title": "Wednesday of the second week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 40:2",
+      "gospel": "Matthew 9:36-38"
+    },
+    "matins": {
+      "psalm": "Psalms 62:1;Psalms 62:2",
+      "gospel": "Matthew 9:32-35"
+    },
+    "liturgy": {
+      "pauline": "Romans 1:11-13",
+      "catholic": "1 John 2:1-6",
+      "acts": "Acts 4:8-12",
+      "psalm": "Psalms 9:1",
+      "gospel": "John 5:31-37"
+    }
+  },
+  "12": {
+    "title": "Thursday of the second week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 89:11",
+      "gospel": "Matthew 11:11-15"
+    },
+    "matins": {
+      "psalm": "Psalms 5:1;Psalms 5:2",
+      "gospel": "Matthew 11:2-6"
+    },
+    "liturgy": {
+      "pauline": "Romans 1:16;Romans 1:17",
+      "catholic": "1 John 2:7-10",
+      "acts": "Acts 4:13-18",
+      "psalm": "Psalms 8:3;Psalms 8:4",
+      "gospel": "John 5:39-47"
+    }
+  },
+  "13": {
+    "title": "Friday of the second week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 15:9",
+      "gospel": "Matthew 17:14-18"
+    },
+    "matins": {
+      "psalm": "Psalms 15:10;Psalms 15:11",
+      "gospel": "Matthew 16:21-23"
+    },
+    "liturgy": {
+      "pauline": "Romans 1:19-21",
+      "catholic": "1 John 2:11-14",
+      "acts": "Acts 4:19-21",
+      "psalm": "Psalms 9:6;Psalms 9:7",
+      "gospel": "John 6:54-58"
+    }
+  },
+  "14": {
+    "title": "Saturday of the second week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 41:8;Psalms 41:9",
+      "gospel": "Luke 18:35-43"
+    },
+    "matins": {
+      "psalm": "Psalms 110:1",
+      "gospel": "John 5:37-47"
+    },
+    "liturgy": {
+      "pauline": "2 Timothy 2:8-15",
+      "catholic": "1 John 2:21-25",
+      "acts": "Acts 9:31-35",
+      "psalm": "Psalms 106:15;Psalms 106:16",
+      "gospel": "John 6:1-14"
+    }
+  },
+  "15": {
+    "title": "Second Sunday of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 110:1",
+      "gospel": "John 6:16-23"
+    },
+    "matins": {
+      "psalm": "Psalms 110:2;Psalms 110:3",
+      "gospel": "John 6:24-33"
+    },
+    "liturgy": {
+      "pauline": "Ephesians 2:19-3:10",
+      "catholic": "1 John 5:10-20",
+      "acts": "Acts 20:1-12",
+      "psalm": "Psalms 110:8;Psalms 110:9",
+      "gospel": "John 6:35-45"
+    }
+  },
+  "16": {
+    "title": "Monday of the third week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 95:4;Psalms 95:5",
+      "gospel": "Matthew 18:1-5"
+    },
+    "matins": {
+      "psalm": "Psalms 18:1;Psalms 18:2",
+      "gospel": "Matthew 17:10-13"
+    },
+    "liturgy": {
+      "pauline": "Romans 2:4-7",
+      "catholic": "1 John 2:15-17",
+      "acts": "Acts 4:23-27",
+      "psalm": "Psalms 7:1;Psalms 7:17",
+      "gospel": "John 7:39-42"
+    }
+  },
+  "17": {
+    "title": "Tuesday of the third week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 56:6",
+      "gospel": "Matthew 18:6;Matthew 18:7"
+    },
+    "matins": {
+      "psalm": "Psalms 56:1;Psalms 56:5",
+      "gospel": "Matthew 17:20-23"
+    },
+    "liturgy": {
+      "pauline": "Romans 2:8-13",
+      "catholic": "1 John 2:18-23",
+      "acts": "Acts 4:27-31",
+      "psalm": "Psalms 7:12;Psalms 7:13",
+      "gospel": "John 8:12-16"
+    }
+  },
+  "18": {
+    "title": "Wednesday of the third week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 43:19;Psalms 43:22",
+      "gospel": "Matthew 20:29-32"
+    },
+    "matins": {
+      "psalm": "Psalms 57:8;Psalms 57:9",
+      "gospel": "Matthew 20:17-19"
+    },
+    "liturgy": {
+      "pauline": "Romans 2:14-16",
+      "catholic": "1 John 2:21-25",
+      "acts": "Acts 4:32-35",
+      "psalm": "Psalms 17:45;Psalms 17:47",
+      "gospel": "John 8:23-26"
+    }
+  },
+  "19": {
+    "title": "Thursday of the third week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 100:1;Psalms 100:3",
+      "gospel": "Matthew 13:53-58"
+    },
+    "matins": {
+      "psalm": "Psalms 100:10",
+      "gospel": "Matthew 22:34-40"
+    },
+    "liturgy": {
+      "pauline": "Romans 2:17-20",
+      "catholic": "1 John 2:26-3:1",
+      "acts": "Acts 5:1-6",
+      "psalm": "Psalms 32:17;Psalms 32:18",
+      "gospel": "John 8:28-30"
+    }
+  },
+  "20": {
+    "title": "Friday of the third week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 45:7;Psalms 45:8",
+      "gospel": "Matthew 11:20-24"
+    },
+    "matins": {
+      "psalm": "Psalms 145:1;Psalms 145:2",
+      "gospel": "Matthew 22:41-46"
+    },
+    "liturgy": {
+      "pauline": "Romans 2:25-29",
+      "catholic": "1 John 3:2;1 John 3:3",
+      "acts": "Acts 5:5-11",
+      "psalm": "Psalms 85:9;Psalms 85:11",
+      "gospel": "John 8:31-39"
+    }
+  },
+  "21": {
+    "title": "Saturday of the third week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 31:9",
+      "gospel": "Matthew 15:29-31"
+    },
+    "matins": {
+      "psalm": "Psalms 106:1;Psalms 106:2",
+      "gospel": "John 7:10-13"
+    },
+    "liturgy": {
+      "pauline": "Galatians 3:5-11",
+      "catholic": "1 John 3:2-11",
+      "acts": "Acts 5:12-20",
+      "psalm": "Psalms 19:7",
+      "gospel": "John 6:47-56"
+    }
+  },
+  "22": {
+    "title": "Third Sunday of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 114:1",
+      "gospel": "John 8:12-20"
+    },
+    "matins": {
+      "psalm": "Psalms 114:3;Psalms 114:4",
+      "gospel": "John 8:21-30"
+    },
+    "liturgy": {
+      "pauline": "Colossians 3:1-17",
+      "catholic": "1 John 3:13-24",
+      "acts": "Acts 10:37-43",
+      "psalm": "Psalms 113:17",
+      "gospel": "John 4:1-42"
+    }
+  },
+  "23": {
+    "title": "Monday of the fourth week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 42:5;Psalms 42:6",
+      "gospel": "Mark 16:17-20"
+    },
+    "matins": {
+      "psalm": "Psalms 42:3",
+      "gospel": "Mark 4:30-34"
+    },
+    "liturgy": {
+      "pauline": "Romans 4:4-8",
+      "catholic": "1 John 3:8-12",
+      "acts": "Acts 5:21-25",
+      "psalm": "Psalms 118:81;Psalms 118:105",
+      "gospel": "John 8:39-42"
+    }
+  },
+  "24": {
+    "title": "Tuesday of the fourth week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 66:1",
+      "gospel": "Mark 4:35-41"
+    },
+    "matins": {
+      "psalm": "Psalms 66:4;Psalms 66:5",
+      "gospel": "Mark 1:40-44"
+    },
+    "liturgy": {
+      "pauline": "Romans 3:19-21",
+      "catholic": "1 John 3:13-17",
+      "acts": "Acts 5:27-29",
+      "psalm": "Psalms 53:1;Psalms 53:2",
+      "gospel": "John 8:51-55"
+    }
+  },
+  "25": {
+    "title": "Wednesday of the fourth week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 118:49;Psalms 118:50",
+      "gospel": "Mark 6:47-52"
+    },
+    "matins": {
+      "psalm": "Psalms 118:23;Psalms 118:24",
+      "gospel": "Mark 3:31-35"
+    },
+    "liturgy": {
+      "pauline": "Ephesians 2:13-18",
+      "catholic": "1 Peter 4:8-13",
+      "acts": "Acts 20:1-6",
+      "psalm": "Psalms 73:11;Psalms 73:12;Psalms 73:18;Psalms 73:19",
+      "gospel": "John 7:14-29"
+    }
+  },
+  "26": {
+    "title": "Thursday of the fourth week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 126:3",
+      "gospel": "Mark 7:1-4"
+    },
+    "matins": {
+      "psalm": "Psalms 96:8",
+      "gospel": "Mark 4:21-25"
+    },
+    "liturgy": {
+      "pauline": "Romans 3:21-26",
+      "catholic": "1 John 3:18-24",
+      "acts": "Acts 5:30-33",
+      "psalm": "Psalms 66:1;Psalms 66:5",
+      "gospel": "John 8:54-59"
+    }
+  },
+  "27": {
+    "title": "Friday of the fourth week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 69:1;Psalms 69:2",
+      "gospel": "Mark 8:10-15"
+    },
+    "matins": {
+      "psalm": "Psalms 69:1;Psalms 69:5",
+      "gospel": "Mark 4:26-29"
+    },
+    "liturgy": {
+      "pauline": "Romans 3:27-31",
+      "catholic": "1 John 4:1-6",
+      "acts": "Acts 5:34-36",
+      "psalm": "Psalms 43:1;Psalms 43:2",
+      "gospel": "John 10:34-38"
+    }
+  },
+  "28": {
+    "title": "Saturday of the fourth week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 128:1;Psalms 128:2",
+      "gospel": "Luke 11:17-23"
+    },
+    "matins": {
+      "psalm": "Psalms 145:9",
+      "gospel": "John 7:31-36"
+    },
+    "liturgy": {
+      "pauline": "Ephesians 1:1-14",
+      "catholic": "1 John 4:15-5:1",
+      "acts": "Acts 9:36-43",
+      "psalm": "Psalms 14:5",
+      "gospel": "John 7:14-24"
+    }
+  },
+  "29": {
+    "title": "Fourth Sunday of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 117:1;Psalms 117:2",
+      "gospel": "John 6:57-69"
+    },
+    "matins": {
+      "psalm": "Psalms 117:27;Psalms 117:28",
+      "gospel": "John 8:51-59"
+    },
+    "liturgy": {
+      "pauline": "2 Thessalonians 2:13-3:5",
+      "catholic": "1 John 4:7-13",
+      "acts": "Acts 14:8-23",
+      "psalm": "Psalms 117:13-16",
+      "gospel": "John 12:35-50"
+    }
+  },
+  "30": {
+    "title": "Monday of the fifth week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 42:5-6",
+      "gospel": "Mark 5:21-43"
+    },
+    "matins": {
+      "psalm": "Psalms 117:16-17",
+      "gospel": "Mark 4:30-34"
+    },
+    "liturgy": {
+      "pauline": "Romans 4:4-9",
+      "catholic": "1 John 3:21-24",
+      "acts": "Acts 7:37-41",
+      "psalm": "Psalms 69:5",
+      "gospel": "John 3:25-30"
+    }
+  },
+  "31": {
+    "title": "Tuesday of the fifth week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 117:2;Psalms 117:1",
+      "gospel": "John 3:31-36"
+    },
+    "matins": {
+      "psalm": "Psalms 117:19;Psalms 117:18",
+      "gospel": "Mark 4:35-41"
+    },
+    "liturgy": {
+      "pauline": "Romans 4:9-12",
+      "catholic": "1 John 4:11-17",
+      "acts": "Acts 7:40-43",
+      "psalm": "Psalms 33:7;Psalms 33:4",
+      "gospel": "John 12:44-48"
+    }
+  },
+  "32": {
+    "title": "Wednesday of the fifth week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 18:2;Psalms 18:4",
+      "gospel": "Mark 12:35-40"
+    },
+    "matins": {
+      "psalm": "Psalms 117:23;Psalms 117:24",
+      "gospel": "Mark 12:28-34"
+    },
+    "liturgy": {
+      "pauline": "Romans 5:20-6:4",
+      "catholic": "1 John 4:15-19",
+      "acts": "Acts 7:44-50",
+      "psalm": "Psalms 117:7;Psalms 117:8",
+      "gospel": "John 13:16-20"
+    }
+  },
+  "33": {
+    "title": "Thursday of the fifth week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 17:47-48",
+      "gospel": "John 6:70-7:1"
+    },
+    "matins": {
+      "psalm": "Psalms 117:25",
+      "gospel": "Mark 7:5-8"
+    },
+    "liturgy": {
+      "pauline": "Romans 6:5-11",
+      "catholic": "1 John 4:18-5:1",
+      "acts": "Acts 7:51-54",
+      "psalm": "Psalms 38:13",
+      "gospel": "John 17:18-21"
+    }
+  },
+  "34": {
+    "title": "Friday of the fifth week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 117:7;Psalms 117:8",
+      "gospel": "Luke 14:7-11"
+    },
+    "matins": {
+      "psalm": "Psalms 117:27-28",
+      "gospel": "Luke 14:12-15"
+    },
+    "liturgy": {
+      "pauline": "Romans 6:17-22",
+      "catholic": "1 John 5:1-6",
+      "acts": "Acts 8:1-4",
+      "psalm": "Psalms 118:112;Psalms 118:113",
+      "gospel": "John 17:22-26"
+    }
+  },
+  "35": {
+    "title": "Saturday of the fifth week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 124:18",
+      "gospel": "Luke 14:1-6"
+    },
+    "matins": {
+      "psalm": "Psalms 35:4-5",
+      "gospel": "John 7:37-46"
+    },
+    "liturgy": {
+      "pauline": "Hebrews 10:1-13",
+      "catholic": "1 John 5:11-21",
+      "acts": "Acts 23:6-11",
+      "psalm": "Psalms 134:3;Psalms 134:5",
+      "gospel": "John 14:1-11"
+    }
+  },
+  "36": {
+    "title": "Fifth Sunday of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 134:5;Psalms 134:19",
+      "gospel": "John 14:21-25"
+    },
+    "matins": {
+      "psalm": "Psalms 134:18",
+      "gospel": "John 15:4-8"
+    },
+    "liturgy": {
+      "pauline": "Hebrews 10:19-38",
+      "catholic": "1 Peter 4:6-14",
+      "acts": "Acts 9:1-20",
+      "psalm": "Psalms 135:1-2",
+      "gospel": "John 14:1-11"
+    }
+  },
+  "37": {
+    "title": "Monday of the sixth week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 46:1",
+      "gospel": "Mark 6:30-34"
+    },
+    "matins": {
+      "psalm": "Psalms 46:6-7",
+      "gospel": "Mark 8:22-26"
+    },
+    "liturgy": {
+      "pauline": "Romans 8:2-5",
+      "catholic": "1 John 5:9-13",
+      "acts": "Acts 9:23-31",
+      "psalm": "Psalms 27:1;Psalms 27:9",
+      "gospel": "John 16:15-23"
+    }
+  },
+  "38": {
+    "title": "Tuesday of the sixth week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 46:4-5",
+      "gospel": "Mark 9:14-29"
+    },
+    "matins": {
+      "psalm": "Psalms 46:3-4",
+      "gospel": "Mark 9:30-32"
+    },
+    "liturgy": {
+      "pauline": "Romans 8:9-11",
+      "catholic": "1 John 5:9-12",
+      "acts": "Acts 5:27-29",
+      "psalm": "Psalms 114:10",
+      "gospel": "John 16:23-33"
+    }
+  },
+  "39": {
+    "title": "Wednesday of the sixth week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 22:4-6",
+      "gospel": "Mark 9:32-37"
+    },
+    "matins": {
+      "psalm": "Psalms 22:1-2",
+      "gospel": "Mark 9:38-42"
+    },
+    "liturgy": {
+      "pauline": "Romans 7:1-7",
+      "catholic": "1 John 5:13-18",
+      "acts": "Acts 19:6-10",
+      "psalm": "Psalms 29:12;Psalms 29:17",
+      "gospel": "John 17:1-9"
+    }
+  },
+  "40": {
+    "title": "Thursday of the sixth week of the Holy Fifty (Feast of the Glorious Ascension)",
+    "vespers": {
+      "psalm": "Psalms 67:30-32",
+      "gospel": "Luke 9:51-62"
+    },
+    "matins": {
+      "psalm": "Psalms 67:18-19",
+      "gospel": "Mark 16:12-20"
+    },
+    "liturgy": {
+      "pauline": "1 Timothy 3:13-17",
+      "catholic": "1 Peter 3:15-22",
+      "acts": "Acts 1:1-14",
+      "psalm": "Psalms 24:9-10",
+      "gospel": "Luke 24:36-53"
+    }
+  },
+  "41": {
+    "title": "Friday of the sixth week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 98:1;Psalms 98:2",
+      "gospel": "Mark 8:34-9:1"
+    },
+    "matins": {
+      "psalm": "Psalms 109:1;Psalms 109:2",
+      "gospel": "Mark 9:1-7"
+    },
+    "liturgy": {
+      "pauline": "1 Corinthians 11:2-16",
+      "catholic": "1 John 5:14-21",
+      "acts": "Acts 22:6-10",
+      "psalm": "Psalms 68:25-27",
+      "gospel": "John 14:26-31"
+    }
+  },
+  "42": {
+    "title": "Saturday of the sixth week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 50:10",
+      "gospel": "Luke 11:53-12:3"
+    },
+    "matins": {
+      "psalm": "Psalms 111:3-4",
+      "gospel": "Luke 10:21-24"
+    },
+    "liturgy": {
+      "pauline": "Ephesians 4:8-16",
+      "catholic": "1 Peter 5:5-12",
+      "acts": "Acts 24:10-21",
+      "psalm": "Psalms 135:1-2",
+      "gospel": "John 16:15-23"
+    }
+  },
+  "43": {
+    "title": "Sixth Sunday of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 145:1;Psalms 145:9",
+      "gospel": "Mark 12:28-37"
+    },
+    "matins": {
+      "psalm": "Psalms 146:1-2",
+      "gospel": "John 14:8-14"
+    },
+    "liturgy": {
+      "pauline": "1 Corinthians 15:57-16:8",
+      "catholic": "1 Peter 1:2-12",
+      "acts": "Acts 20:1-16",
+      "psalm": "Psalms 147:1;Psalms 147:5",
+      "gospel": "John 16:23-33"
+    }
+  },
+  "44": {
+    "title": "Monday of the seventh week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 21:2",
+      "gospel": "Luke 4:38-41"
+    },
+    "matins": {
+      "psalm": "Psalms 118:128;Psalms 118:127",
+      "gospel": "Luke 4:42-5:3"
+    },
+    "liturgy": {
+      "pauline": "Romans 8:12-17",
+      "catholic": "2 John 1:1-8",
+      "acts": "Acts 14:19-23",
+      "psalm": "Psalms 81:6;Psalms 81:5",
+      "gospel": "John 15:1-8"
+    }
+  },
+  "45": {
+    "title": "Tuesday of the seventh week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 47:1",
+      "gospel": "Mark 9:14-29"
+    },
+    "matins": {
+      "psalm": "Psalms 137:1",
+      "gospel": "Luke 6:12-16"
+    },
+    "liturgy": {
+      "pauline": "Romans 8:22-27",
+      "catholic": "2 John 1:8-13",
+      "acts": "Acts 14:20-23",
+      "psalm": "Psalms 12:6",
+      "gospel": "John 15:9-15"
+    }
+  },
+  "46": {
+    "title": "Wednesday of the seventh week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 118:100",
+      "gospel": "Luke 7:18-23"
+    },
+    "matins": {
+      "psalm": "Psalms 11:8",
+      "gospel": "Luke 7:24-28"
+    },
+    "liturgy": {
+      "pauline": "Romans 8:28-39",
+      "catholic": "3 John 1:1-8",
+      "acts": "Acts 15:4-9",
+      "psalm": "Psalms 88:30;Psalms 88:29",
+      "gospel": "John 15:12-16"
+    }
+  },
+  "47": {
+    "title": "Thursday of the seventh week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 131:3",
+      "gospel": "Luke 8:22-25"
+    },
+    "matins": {
+      "psalm": "Psalms 90:10-11",
+      "gospel": "Luke 8:1-3"
+    },
+    "liturgy": {
+      "pauline": "1 Corinthians 14:5-11",
+      "catholic": "3 John 1:10-15",
+      "acts": "Acts 15:7-12",
+      "psalm": "Psalms 30:16",
+      "gospel": "John 15:17-25"
+    }
+  },
+  "48": {
+    "title": "Friday of the seventh week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 41:8",
+      "gospel": "Luke 11:24-26"
+    },
+    "matins": {
+      "psalm": "Psalms 118:72;Psalms 118:67",
+      "gospel": "Luke 8:18-21"
+    },
+    "liturgy": {
+      "pauline": "1 Corinthians 14:12-17",
+      "catholic": "Jude 1:21-25",
+      "acts": "Acts 15:13-18",
+      "psalm": "Psalms 24:1",
+      "gospel": "John 7:37-39"
+    }
+  },
+  "49": {
+    "title": "Saturday of the seventh week of the Holy Fifty",
+    "vespers": {
+      "psalm": "Psalms 106:2-3",
+      "gospel": "Luke 8:40-56"
+    },
+    "matins": {
+      "psalm": "Psalms 32:5-6",
+      "gospel": "John 17:1-13"
+    },
+    "liturgy": {
+      "pauline": "1 Corinthians 13:1-14:4",
+      "catholic": "1 John 2:12-17",
+      "acts": "Acts 1:15-26",
+      "psalm": "Psalms 107:2-3",
+      "gospel": "John 17:14-26"
+    }
+  },
+  "50": {
+    "title": "Seventh Sunday of the Holy Fifty (Feast of Pentecost)",
+    "vespers": {
+      "psalm": "Psalms 50:13-14",
+      "gospel": "John 7:37-44"
+    },
+    "matins": {
+      "psalm": "Psalms 103:28-29",
+      "gospel": "John 13:26-15:4"
+    },
+    "liturgy": {
+      "pauline": "1 Corinthians 12:1-31",
+      "catholic": "1 John 2:20-3:1",
+      "acts": "Acts 2:1-21",
+      "psalm": "Psalms 46:5-6",
+      "gospel": "John 15:26-15:16"
+    }
+  }
+}

@@ -1,0 +1,665 @@
+{
+    "Tout-1": {
+        "vespers": {
+            "psalm": "Psalms 29:4;Psalms 29:10",
+            "gospel": "Matthew 11:11-19"
+        },
+        "matins": {
+            "psalm": "Psalms 30:1;Psalms 30:19",
+            "gospel": "Matthew 21:23-27"
+        },
+        "liturgy": {
+            "catholic": "James 1:22-27",
+            "acts": "Acts 13:25-33",
+            "psalm": "Psalms 30:26;Psalms 30:19",
+            "gospel": "Luke 7:28-35",
+            "pauline": "1 Timothy 1:12-19"
+        }
+    },
+    "Tout-2": {
+        "vespers": {
+            "psalm": "Psalms 12:7;Psalms 12:13",
+            "gospel": "Luke 4:38-41"
+        },
+        "matins": {
+            "psalm": "Psalms 1:8;Psalms 1:3",
+            "gospel": "Mark 1:35-39"
+        },
+        "liturgy": {
+            "catholic": "James 2:5-13",
+            "acts": "Acts 11:19-26",
+            "psalm": "Psalms 20:1-2",
+            "gospel": "Luke 10:21-28",
+            "pauline": "2 Timothy 1:12-2:10"
+        }
+    },
+    "Tout-3": {
+        "vespers": {
+            "psalm": "Psalms 1:9",
+            "gospel": "Mark 1:29-34"
+        },
+        "matins": {
+            "psalm": "Psalms 9:6-7",
+            "gospel": "Matthew 8:5-13"
+        },
+        "liturgy": {
+            "catholic": "1 Peter 1:13-21",
+            "acts": "Acts 9:22-31",
+            "psalm": "Psalms 46:17;Psalms 46:49;Psalms 46:50",
+            "gospel": "Luke 19:1-10",
+            "pauline": "1 Corinthians 2:1-16"
+        }
+    },
+    "Tout-4": {
+        "vespers": {
+            "psalm": "Psalms 32:4;Psalms 32:5",
+            "gospel": "Matthew 9:18-26"
+        },
+        "matins": {
+            "psalm": "Psalms 32:17;Psalms 32:18",
+            "gospel": "Matthew 15:21-28"
+        },
+        "liturgy": {
+            "catholic": "1 John 3:8-12",
+            "acts": "Acts 9:36-42",
+            "psalm": "Psalms 27:9",
+            "gospel": "Luke 7:36-50",
+            "pauline": "2 Corinthians 1:1-14"
+        }
+    },
+    "Baba-1": {
+        "vespers": {
+            "psalm": "Psalms 66:1",
+            "gospel": "Matthew 14:15-21"
+        },
+        "matins": {
+            "psalm": "Psalms 62:1;Psalms 62:2",
+            "gospel": "Matthew 28:1-20"
+        },
+        "liturgy": {
+            "catholic": "1 Peter 1:22-2:5",
+            "acts": "Acts 13:36-43",
+            "psalm": "Psalms 33:1;Psalms 33:2",
+            "gospel": "Mark 2:1-12",
+            "pauline": "2 Corinthians 2:12-3:6"
+        }
+    },
+    "Baba-2": {
+        "vespers": {
+            "psalm": "Psalms 66:2",
+            "gospel": "Matthew 17:24-27"
+        },
+        "matins": {
+            "psalm": "Psalms 62:3;Psalms 62:4",
+            "gospel": "Mark 16:2-8"
+        },
+        "liturgy": {
+            "catholic": "James 3:13-4:6",
+            "acts": "Acts 14:24-15:3",
+            "psalm": "Psalms 65:1;Psalms 65:2",
+            "gospel": "Luke 5:1-11",
+            "pauline": "2 Corinthians 4:5-15"
+        }
+    },
+    "Baba-3": {
+        "vespers": {
+            "psalm": "Psalms 70:3;Psalms 70:6",
+            "gospel": "Mark 4:35-41"
+        },
+        "matins": {
+            "psalm": "Psalms 56:8;Psalms 56:9",
+            "gospel": "Luke 24:1-12"
+        },
+        "liturgy": {
+            "catholic": "James 4:7-17",
+            "acts": "Acts 15:4-12",
+            "psalm": "Psalms 70:6;Psalms 70:7",
+            "gospel": "Matthew 12:22-28",
+            "pauline": "1 Corinthians 16:12-23"
+        }
+    },
+    "Baba-4": {
+        "vespers": {
+            "psalm": "Psalms 118:4;Psalms 118:5",
+            "gospel": "Matthew 14:22-36"
+        },
+        "matins": {
+            "psalm": "Psalms 34:21;Psalms 34:30",
+            "gospel": "John 20:1-18"
+        },
+        "liturgy": {
+            "catholic": "James 4:17-5:11",
+            "acts": "Acts 15:36-16:5",
+            "psalm": "Psalms 78:14",
+            "gospel": "Luke 7:11-17",
+            "pauline": "1 Timothy 6:3-21"
+        }
+    },
+    "Hator-1": {
+        "vespers": {
+            "psalm": "Psalms 17:15;Psalms 17:6",
+            "gospel": "Mark 4:10-20"
+        },
+        "matins": {
+            "psalm": "Psalms 64:9;Psalms 64:10",
+            "gospel": "Matthew 28:1-20"
+        },
+        "liturgy": {
+            "pauline": "2 Corinthians 9:1-9",
+            "catholic": "James 3:1-12",
+            "acts": "Acts 10:37-11:1",
+            "psalm": "Psalms 64:10;Psalms 64:11",
+            "gospel": "Luke 8:4-15"
+        }
+    },
+    "Hator-2": {
+        "vespers": {
+            "psalm": "Psalms 103:13;Psalms 103:14",
+            "gospel": "Luke 2:27-31"
+        },
+        "matins": {
+            "psalm": "Psalms 66:5;Psalms 66:6",
+            "gospel": "Mark 16:2-8"
+        },
+        "liturgy": {
+            "pauline": "Hebrews 6:7-15",
+            "catholic": "Jude 1:14-25",
+            "acts": "Acts 5:19-29",
+            "psalm": "Psalms 103:16;Psalms 103:10",
+            "gospel": "Matthew 13:1-9"
+        }
+    },
+    "Hator-3": {
+        "vespers": {
+            "psalm": "Psalms 85:2-4",
+            "gospel": "Matthew 11:25-30"
+        },
+        "matins": {
+            "psalm": "Psalms 112:2;Psalms 112:3",
+            "gospel": "Luke 24:1-12"
+        },
+        "liturgy": {
+            "pauline": "2 Thessalonians 1:1-12",
+            "catholic": "1 Peter 4:3-11",
+            "acts": "Acts 5:30-42",
+            "psalm": "Psalms 85:14;Psalms 85:15",
+            "gospel": "Luke 14:25-35"
+        }
+    },
+    "Hator-4": {
+        "vespers": {
+            "psalm": "Psalms 85:11;Psalms 85:9",
+            "gospel": "Matthew 17:14-21"
+        },
+        "matins": {
+            "psalm": "Psalms 142:8",
+            "gospel": "John 20:1-18"
+        },
+        "liturgy": {
+            "catholic": "2 Peter 1:1-8",
+            "acts": "Acts 16:40-17:7",
+            "psalm": "Psalms 99:2",
+            "gospel": "Mark 10:17-31",
+            "pauline": "1 Corinthians 4:1-16"
+        }
+    },
+    "Kiahk-1": {
+        "vespers": {
+            "psalm": "Psalms 4:12;Psalms 4:1",
+            "gospel": "Mark 14:3-9"
+        },
+        "matins": {
+            "psalm": "Psalms 101:16;Psalms 101:17",
+            "gospel": "Mark 12:41-44"
+        },
+        "liturgy": {
+            "pauline": "Romans 1:1-17",
+            "catholic": "James 1:1-18",
+            "acts": "Acts 1:1-14",
+            "psalm": "Psalms 101:11;Psalms 101:14",
+            "gospel": "Luke 1:1-25"
+        }
+    },
+    "Kiahk-2": {
+        "vespers": {
+            "psalm": "Psalms 43:5;Psalms 43:7",
+            "gospel": "Luke 7:36-50"
+        },
+        "matins": {
+            "psalm": "Psalms 71:5;Psalms 71:6",
+            "gospel": "Luke 11:20-28"
+        },
+        "liturgy": {
+            "catholic": "1 John 1:1-2:2",
+            "acts": "Acts 7:30-34",
+            "psalm": "Psalms 44:13",
+            "gospel": "Luke 1:26-38",
+            "pauline": "Romans 3:1-4:3"
+        }
+    },
+    "Kiahk-3": {
+        "vespers": {
+            "psalm": "Psalms 131:10;Psalms 131:11",
+            "gospel": "Mark 1:23-31"
+        },
+        "matins": {
+            "psalm": "Psalms 84:6;Psalms 84:7",
+            "gospel": "Matthew 15:21-31"
+        },
+        "liturgy": {
+            "catholic": "1 John 2:7-17",
+            "acts": "Acts 7:35-50",
+            "psalm": "Psalms 84:9;Psalms 84:10",
+            "gospel": "Luke 1:39-56",
+            "pauline": "Romans 4:4-24"
+        }
+    },
+    "Kiahk-4": {
+        "vespers": {
+            "psalm": "Psalms 86:5",
+            "gospel": "Luke 8:1-3"
+        },
+        "matins": {
+            "psalm": "Psalms 95:10;Psalms 95:11;Psalms 95:12",
+            "gospel": "Mark 3:28-35"
+        },
+        "liturgy": {
+            "catholic": "1 John 2:24-3:3",
+            "acts": "Acts 7:8-22",
+            "psalm": "Psalms 79:2;Psalms 79:3",
+            "gospel": "Luke 1:57-80",
+            "pauline": "Romans 9:6-33"
+        }
+    },
+    "Toba-1": {
+        "vespers": {
+            "psalm": "Psalms 46:1;Psalms 46:2",
+            "gospel": "Luke 4:40-44"
+        },
+        "matins": {
+            "psalm": "Psalms 92:1;Psalms 92:2",
+            "gospel": "Luke 4:31-37"
+        },
+        "liturgy": {
+            "catholic": "1 John 3:1-11",
+            "acts": "Acts 14:24-15:3",
+            "psalm": "Psalms 97:2;Psalms 97:3",
+            "gospel": "Matthew 13:2-23",
+            "pauline": "Romans 15:4-19"
+        }
+    },
+    "Toba-2": {
+        "vespers": {
+            "psalm": "Psalms 97:4;Psalms 97:8",
+            "gospel": "Matthew 14:22-36"
+        },
+        "matins": {
+            "psalm": "Psalms 96:1;Psalms 96:2",
+            "gospel": "Mark 3:7-12"
+        },
+        "liturgy": {
+            "catholic": "1 John 3:18-24",
+            "acts": "Acts 15:22-29",
+            "psalm": "Psalms 83:7;Psalms 64:2",
+            "gospel": "Luke 11:27-36",
+            "pauline": "Galatians 5:2-10"
+        }
+    },
+    "Toba-3": {
+        "vespers": {
+            "psalm": "Psalms 76:12;Psalms 76:13",
+            "gospel": "John 5:1-18"
+        },
+        "matins": {
+            "psalm": "Psalms 96:6;Psalms 96:4",
+            "gospel": "John 3:1-21"
+        },
+        "liturgy": {
+            "pauline": "Hebrews 10:19-39",
+            "catholic": "1 John 4:11-21",
+            "acts": "Acts 2:38-45",
+            "psalm": "Psalms 65:11;Psalms 65:7",
+            "gospel": "John 3:22-36"
+        }
+    },
+    "Toba-4": {
+        "vespers": {
+            "psalm": "Psalms 77:17;Psalms 77:20",
+            "gospel": "John 5:31-46"
+        },
+        "matins": {
+            "psalm": "Psalms 79:16;Psalms 79:7",
+            "gospel": "John 6:47-58"
+        },
+        "liturgy": {
+            "pauline": "Romans 11:13-36",
+            "catholic": "1 John 5:9-20",
+            "acts": "Acts 11:2-18",
+            "psalm": "Psalms 35:7;Psalms 35:8",
+            "gospel": "John 9:1-38"
+        }
+    },
+    "Amshir-1": {
+        "vespers": {
+            "psalm": "Psalms 81:6;Psalms 81:5",
+            "gospel": "John 6:15-21"
+        },
+        "matins": {
+            "psalm": "Psalms 118:81;Psalms 118:105",
+            "gospel": "John 8:51-59"
+        },
+        "liturgy": {
+            "catholic": "2 Peter 3:14-18",
+            "acts": "Acts 9:3-9",
+            "psalm": "Psalms 90:5;Psalms 90:3",
+            "gospel": "John 6:22-27",
+            "pauline": "1 Corinthians 5:11-6:11"
+        }
+    },
+    "Amshir-2": {
+        "vespers": {
+            "psalm": "Psalms 14:1-3",
+            "gospel": "John 4:46-53"
+        },
+        "matins": {
+            "psalm": "Psalms 23:3;Psalms 23:4",
+            "gospel": "John 3:17-21"
+        },
+        "liturgy": {
+            "catholic": "2 John 1:1-13",
+            "acts": "Acts 18:9-21",
+            "psalm": "Psalms 95:6;Psalms 95:7",
+            "gospel": "John 6:5-14",
+            "pauline": "Hebrews 7:1-17"
+        }
+    },
+    "Amshir-3": {
+        "vespers": {
+            "psalm": "Psalms 16:13;Psalms 16:3",
+            "gospel": "John 5:39-47"
+        },
+        "matins": {
+            "psalm": "Psalms 88:30;Psalms 88:29",
+            "gospel": "John 12:44-50"
+        },
+        "liturgy": {
+            "catholic": "Jude 1:14-25",
+            "acts": "Acts 20:7-16",
+            "psalm": "Psalms 88:1;Psalms 88:5",
+            "gospel": "John 6:27-46",
+            "pauline": "Hebrews 3:1-4:2"
+        }
+    },
+    "Amshir-4": {
+        "vespers": {
+            "psalm": "Psalms 91:2;Psalms 91:3",
+            "gospel": "Luke 17:1-10"
+        },
+        "matins": {
+            "psalm": "Psalms 88:9;Psalms 88:1",
+            "gospel": "Luke 17:11-19"
+        },
+        "liturgy": {
+            "catholic": "James 1:13-21",
+            "acts": "Acts 8:5-13",
+            "psalm": "Psalms 23:1;Psalms 23:2",
+            "gospel": "Luke 19:1-10",
+            "pauline": "1 Corinthians 1:1-16"
+        }
+    },
+    "Bashans-3": {
+        "vespers": {
+            "psalm": "Psalms 78:14;Psalms 78:8",
+            "gospel": "Matthew 22:34-40"
+        },
+        "matins": {
+            "psalm": "Psalms 73:11;Psalms 73:16",
+            "gospel": "Luke 24:1-12"
+        },
+        "liturgy": {
+            "catholic": "1 John 4:15-5:4",
+            "acts": "Acts 13:44-52",
+            "psalm": "Psalms 19:67;Psalms 19:25",
+            "gospel": "Luke 10:25-37",
+            "pauline": "Hebrews 11:1-10"
+        }
+    },
+    "Bashans-4": {
+        "vespers": {
+            "psalm": "Psalms 45:10;Psalms 45:11",
+            "gospel": "Matthew 22:41-46"
+        },
+        "matins": {
+            "psalm": "Psalms 46:6",
+            "gospel": "John 20:1-18"
+        },
+        "liturgy": {
+            "catholic": "3 John 1-8",
+            "acts": "Acts 11:2-18",
+            "psalm": "Psalms 65:2;Psalms 65:1",
+            "gospel": "Luke 4:1-13",
+            "pauline": "1 Corinthians 14:18-33"
+        }
+    },
+    "Paona-1": {
+        "vespers": {
+            "psalm": "Psalms 9:6",
+            "gospel": "Matthew 17:1-13"
+        },
+        "matins": {
+            "psalm": "Psalms 66:1;Psalms 66:2",
+            "gospel": "Matthew 28:1-20"
+        },
+        "liturgy": {
+            "catholic": "1 Peter 1:1-9",
+            "acts": "Acts 12:25-13:12",
+            "psalm": "Psalms 142:9;Psalms 142:8",
+            "gospel": "Luke 11:1-13",
+            "pauline": "Romans 15:13-29"
+        }
+    },
+    "Paona-2": {
+        "vespers": {
+            "psalm": "Psalms 15:7;Psalms 15:8",
+            "gospel": "Luke 4:38-41"
+        },
+        "matins": {
+            "psalm": "Psalms 33:1;Psalms 33:2",
+            "gospel": "Mark 16:2-8"
+        },
+        "liturgy": {
+            "catholic": "2 Peter 1:1-9",
+            "acts": "Acts 14:8-22",
+            "psalm": "Psalms 12:6",
+            "gospel": "Luke 5:17-26",
+            "pauline": "1 Corinthians 2:6-16"
+        }
+    },
+    "Paona-3": {
+        "vespers": {
+            "psalm": "Psalms 6:1;Psalms 33:15",
+            "gospel": "Matthew 7:7-12"
+        },
+        "matins": {
+            "psalm": "Psalms 37:22;Psalms 37:23",
+            "gospel": "Luke 24:1-12"
+        },
+        "liturgy": {
+            "catholic": "2 Peter 1:19-2:9",
+            "acts": "Acts 17:1-12",
+            "psalm": "Psalms 60:4;Psalms 60:7",
+            "gospel": "Matthew 12:22-37",
+            "pauline": "1 Corinthians 4:1-16"
+        }
+    },
+    "Paona-4": {
+        "vespers": {
+            "psalm": "Psalms 83:9;Psalms 83:5",
+            "gospel": "Matthew 5:34-48"
+        },
+        "matins": {
+            "psalm": "Psalms 60:4;Psalms 60:7",
+            "gospel": "John 20:1-18"
+        },
+        "liturgy": {
+            "catholic": "James 5:9-20",
+            "acts": "Acts 18:1-11",
+            "psalm": "Psalms 68:26;Psalms 68:27;Psalms 68:25",
+            "gospel": "Luke 6:27-38",
+            "pauline": "Colossians 4:2-18"
+        }
+    },
+    "Epep-1": {
+        "vespers": {
+            "psalm": "Psalms 19:6;Psalms 19:9",
+            "gospel": "Luke 9:1-6"
+        },
+        "matins": {
+            "psalm": "Psalms 30:23;Psalms 30:19",
+            "gospel": "Matthew 28:1-20"
+        },
+        "liturgy": {
+            "catholic": "1 Peter 1:1-12",
+            "acts": "Acts 5:12-21",
+            "psalm": "Psalms 88:7",
+            "gospel": "Luke 10:1-20",
+            "pauline": "1 Corinthians 9:1-27"
+        }
+    },
+    "Epep-2": {
+        "vespers": {
+            "psalm": "Psalms 127:1;Psalms 127:5",
+            "gospel": "Luke 16:1-18"
+        },
+        "matins": {
+            "psalm": "Psalms 40:1;Psalms 40:2",
+            "gospel": "Mark 16:2-8"
+        },
+        "liturgy": {
+            "catholic": "Jude 1:14-25",
+            "acts": "Acts 5:19-23",
+            "psalm": "Psalms 118:1;Psalms 118:2",
+            "gospel": "Matthew 18:1-9",
+            "pauline": "Galatians 1:1-24"
+        }
+    },
+    "Epep-3": {
+        "vespers": {
+            "psalm": "Psalms 51:8;Psalms 51:9",
+            "gospel": "Luke 14:7-15"
+        },
+        "matins": {
+            "psalm": "Psalms 134:1;Psalms 134:2",
+            "gospel": "Luke 24:1-12"
+        },
+        "liturgy": {
+            "catholic": "James 3:1-12",
+            "acts": "Acts 18:12-23",
+            "psalm": "Psalms 145:17;Psalms 145:18",
+            "gospel": "Luke 9:10-17",
+            "pauline": "1 Timothy 6:3-16"
+        }
+    },
+    "Epep-4": {
+        "vespers": {
+            "psalm": "Psalms 58:10;Psalms 58:17",
+            "gospel": "Luke 7:1-10"
+        },
+        "matins": {
+            "psalm": "Psalms 85:12;Psalms 85:13",
+            "gospel": "John 20:1-18"
+        },
+        "liturgy": {
+            "catholic": "1 Peter 1:25-2:10",
+            "acts": "Acts 19:11-22",
+            "psalm": "Psalms 39:15;Psalms 39:16",
+            "gospel": "John 11:1-45",
+            "pauline": "Philippians 1:27-2:11"
+        }
+    },
+    "Mesra-1": {
+        "vespers": {
+            "psalm": "Psalms 32:22;Psalms 32:18",
+            "gospel": "Mark 6:45-56"
+        },
+        "matins": {
+            "psalm": "Psalms 32:20;Psalms 32:21",
+            "gospel": "Matthew 28:1-20"
+        },
+        "liturgy": {
+            "catholic": "1 Peter 3:8-15",
+            "acts": "Acts 19:23-40",
+            "psalm": "Psalms 79:14;Psalms 79:15",
+            "gospel": "Luke 20:9-19",
+            "pauline": "1 Corinthians 9:1-27"
+        }
+    },
+    "Mesra-2": {
+        "vespers": {
+            "psalm": "Psalms 118:124;Psalms 118:125",
+            "gospel": "Luke 18:9-17"
+        },
+        "matins": {
+            "psalm": "Psalms 88:1;Psalms 88:2",
+            "gospel": "Mark 16:2-8"
+        },
+        "liturgy": {
+            "catholic": "1 John 2:7-17",
+            "acts": "Acts 20:1-12",
+            "psalm": "Psalms 88:5;Psalms 88:15",
+            "gospel": "Luke 5:27-39",
+            "pauline": "Ephesians 6:1-23"
+        }
+    },
+    "Mesra-3": {
+        "vespers": {
+            "psalm": "Psalms 11:5;Psalms 11:7",
+            "gospel": "Luke 11:27-36"
+        },
+        "matins": {
+            "psalm": "Psalms 14:1-3",
+            "gospel": "Luke 24:1-12"
+        },
+        "liturgy": {
+            "catholic": "1 Peter 2:18-3:7",
+            "acts": "Acts 21:8-14",
+            "psalm": "Psalms 27:2;Psalms 27:6",
+            "gospel": "Mark 3:22-34",
+            "pauline": "Romans 16:17-20"
+        }
+    },
+    "Mesra-4": {
+        "vespers": {
+            "psalm": "Psalms 118:170;Psalms 118:176",
+            "gospel": "Luke 17:20-36"
+        },
+        "matins": {
+            "psalm": "Psalms 89:1;Psalms 89:2",
+            "gospel": "John 20:1-18"
+        },
+        "liturgy": {
+            "catholic": "James 4:7-5:5",
+            "acts": "Acts 11:19-30",
+            "psalm": "Psalms 88:11;Psalms 88:12",
+            "gospel": "Mark 13:3-31",
+            "pauline": "1 Thessalonians 2:13-3:13"
+        }
+    },
+    "Nasie-5": {
+        "vespers": {
+            "psalm": "Psalms 40:11;Psalms 40:12",
+            "gospel": "Luke 21:12-33"
+        },
+        "matins": {
+            "psalm": "Psalms 101:12;Psalms 101:24",
+            "gospel": "Mark 13:32-37"
+        },
+        "liturgy": {
+            "catholic": "2 Peter 3:1-18",
+            "acts": "Acts 2:14-21",
+            "psalm": "Psalms 101:24;Psalms 101:25",
+            "gospel": "Matthew 24:3-35",
+            "pauline": "2 Thessalonians 2:1-17"
+        }
+    }
+}
