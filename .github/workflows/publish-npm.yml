@@ -13,6 +13,7 @@ on:
           - coptic-antonios-unicode
           - coptic-pronounce
           - coptic-readings
+          - bible-citation-text
   push:
     tags:
       - v*
@@ -191,6 +192,65 @@ jobs:
 
       - name: Publish
         working-directory: coptic-readings
+        env:
+          NPM_CONFIG_PROVENANCE: "false"
+        run: npm publish --access public --ignore-scripts --provenance=false
+
+  publish-bible-citation-text:
+    if: >-
+      github.event_name == 'push' ||
+      inputs.package == 'all' ||
+      inputs.package == 'bible-citation-text'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Require NPM_TOKEN secret
+        env:
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: |
+          if [ -z "$NPM_TOKEN" ]; then
+            echo "::error::NPM_TOKEN repository secret is not set."
+            echo "Create an npm Automation token, then add it at Settings → Secrets and variables → Actions."
+            exit 1
+          fi
+
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: bible-citation-text/package-lock.json
+
+      - name: Configure npm authentication
+        working-directory: bible-citation-text
+        env:
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: |
+          cat > .npmrc <<EOF
+          //registry.npmjs.org/:_authToken=${NPM_TOKEN}
+          always-auth=true
+          EOF
+
+      - name: Install and build
+        working-directory: bible-citation-text
+        run: |
+          npm ci --ignore-scripts
+          npm run build
+
+      - name: Debug publish manifest
+        working-directory: bible-citation-text
+        run: |
+          echo "=== package.json on disk ==="
+          cat package.json
+          echo "=== repository field ==="
+          node -e "console.log(JSON.stringify(require('./package.json').repository, null, 2))"
+          echo "=== tarball package.json ==="
+          npm pack --pack-destination /tmp
+          tar -xOzf /tmp/bible-citation-text-*.tgz package/package.json
+          rm -f /tmp/bible-citation-text-*.tgz
+
+      - name: Publish
+        working-directory: bible-citation-text
         env:
           NPM_CONFIG_PROVENANCE: "false"
         run: npm publish --access public --ignore-scripts --provenance=false

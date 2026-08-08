@@ -1,0 +1,65 @@
+{
+  "name": "bible-citation-text",
+  "version": "1.0.0",
+  "description": "Resolve a Bible citation string into verse text (English / Arabic) from public chapter assets.",
+  "license": "MIT",
+  "author": "",
+  "keywords": [
+    "bible",
+    "citation",
+    "verses",
+    "scripture",
+    "lookup",
+    "english",
+    "arabic"
+  ],
+  "type": "module",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.cjs",
+      "default": "./dist/index.mjs"
+    },
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "sideEffects": false,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "tsup",
+    "typecheck": "tsc --noEmit",
+    "prepublishOnly": "npm run build",
+    "test": "npm run build && node --test test/*.test.mjs",
+    "demo:prophecies": "npm run build && node scripts/demo-prophecies.mjs",
+    "pack:check": "npm pack --dry-run",
+    "publish:dry-run": "npm publish --dry-run",
+    "publish:npm": "npm publish --access public"
+  },
+  "homepage": "https://www.npmjs.com/package/bible-citation-text",
+  "publishConfig": {
+    "access": "public",
+    "provenance": false
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonymelek/coptic-tools.git",
+    "directory": "bible-citation-text"
+  },
+  "bugs": {
+    "url": "https://github.com/tonymelek/coptic-tools/issues"
+  },
+  "devDependencies": {
+    "coptic-readings": "^1.0.0",
+    "tsup": "^8.5.0",
+    "typescript": "^5.9.2"
+  }
+}

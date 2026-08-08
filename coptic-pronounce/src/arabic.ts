@@ -1,112 +1,377 @@
-const pronunciationMap: Record<string, string> = {
-  'Ⲁ': 'ا', 'ⲁ': 'ا',
-  'Ⲃ': 'ڤ', 'ⲃ': 'ڤ',
-  'Ⲅ': 'غ', 'ⲅ': 'غ',
-  'Ⲇ': 'د', 'ⲇ': 'د',
-  'Ⲉ': 'ي', 'ⲉ': 'ي',
-  'Ⲍ': 'ز', 'ⲍ': 'ز',
-  'Ⲏ': 'ي', 'ⲏ': 'ي',
-  'Ⲑ': 'ث', 'ⲑ': 'ث',
-  'Ⲓ': 'ي', 'ⲓ': 'ي',
-  'Ⲕ': 'ك', 'ⲕ': 'ك',
-  'Ⲗ': 'ل', 'ⲗ': 'ل',
-  'Ⲙ': 'م', 'ⲙ': 'م',
-  'Ⲛ': 'ن', 'ⲛ': 'ن',
-  'Ⲝ': 'كس', 'ⲝ': 'كس',
-  'Ⲟ': 'و', 'ⲟ': 'و',
-  'Ⲡ': 'ب', 'ⲡ': 'ب',
-  'Ⲣ': 'ر', 'ⲣ': 'ر',
-  'Ⲥ': 'س', 'ⲥ': 'س',
-  'Ⲧ': 'ت', 'ⲧ': 'ت',
-  'Ⲩ': 'ي', 'ⲩ': 'ي',
-  'Ⲫ': 'ف', 'ⲫ': 'ف',
-  'Ⲭ': 'خ', 'ⲭ': 'خ',
-  'Ⲯ': 'بس', 'ⲯ': 'بس',
-  'Ⲱ': 'و', 'ⲱ': 'و',
-  'Ϣ': 'ش', 'ϣ': 'ش',
-  'Ϥ': 'ف', 'ϥ': 'ف',
-  'Ϧ': 'خ', 'ϧ': 'خ',
-  'Ϩ': 'ه', 'ϩ': 'ه',
-  'Ϫ': 'ج', 'ϫ': 'ج',
-  'Ϭ': 'تش', 'ϭ': 'تش',
-  'Ϯ': 'تي', 'ϯ': 'تي',
-  '\u0300': 'ا', // jenkim (combining grave accent)
-};
+import {
+  COMBINING_MARKS,
+  lowerCoptic,
+  lowerCopticChar,
+  splitTrailingPunct,
+  stripLeadingPlus,
+  toGraphemes,
+  type Grapheme,
+} from './shared';
 
-const JENKIM_CHARS = new Set(['\u0300', '`']);
-
-function mapsToAlef(char: string): boolean {
-  return pronunciationMap[char] === 'ا';
-}
-
-function nextSignificantChar(chars: string[], fromIndex: number): string | undefined {
-  for (let i = fromIndex + 1; i < chars.length; i++) {
-    const char = chars[i];
-    if (JENKIM_CHARS.has(char) || OTHER_COMBINING_MARKS.test(char)) continue;
-    return char;
-  }
-  return undefined;
-}
-
-// NOTE: liturgical entries are best-effort Arabic phonetic renderings —
-// verify against a trusted Coptic/Arabic liturgical reference before production use.
-const specialCases: { pattern: RegExp; replacement: string }[] = [
-  { pattern: /Ⲡⲟ̅ⲥ̅|Ⲡ̀ⲟ̅ⲥ̅|ⲡ̀ϭⲟⲓⲥ|Ⲡ̀ϭⲟⲓⲥ/g, replacement: 'بشويس' },
-  { pattern: /ϭⲟⲓⲥ/g, replacement: 'شويس' },
-  { pattern: /Ⲫϯ/g, replacement: 'افنوتي' },
-  { pattern: /ⲭ̅ⲥ̅/g, replacement: 'اخرستوس' },
-  { pattern: /ⲟ̅ⲥ̅/g, replacement: 'شويس' },
-  { pattern: /(ⲉ̀̅ⲑ̅ⲩ̅|ⲉ̅ⲑ̅ⲩ̅)/g, replacement: 'اثؤاب' },
-  { pattern: /ⲟⲩ|ⲟ̀ⲩ/g, replacement: 'و' },
-  { pattern: /Ⲟⲩ/g, replacement: 'و' },
-  { pattern: /ⲃⲃ/g, replacement: 'ڤ' },
-  { pattern: /ⲓϫ/g, replacement: 'يج' },
-  { pattern: /ϫⲁ/g, replacement: 'جا' },
-  { pattern: /(ⲓ|ⲏ)ⲃ/g, replacement: 'يب' },
-  { pattern: /ⲉⲓ/g, replacement: 'ي' },
-  { pattern: /ⲁⲩ/g, replacement: 'اڤ' },
-  { pattern: /ⲉⲩ/g, replacement: 'يڤ' },
-  { pattern: /ⲏⲩ/g, replacement: 'ي' },
-  { pattern: /ⲟⲩⲓ/g, replacement: 'اوي' },
-  { pattern: /ⲅⲅ/g, replacement: 'نج' },
-  { pattern: /ⲛⲕ/g, replacement: 'نك' },
-  { pattern: /ⲛⲅ/g, replacement: 'نج' },
-  { pattern: /ⲛⲭ/g, replacement: 'نخ' },
-  { pattern: /ⲥ̅ⲱ̅ⲣ̅/g, replacement: 'سوتير' },
+/** Whole-word liturgical overrides (lowercased Coptic stem). */
+const LEXICAL: [RegExp, string][] = [
+  [/^(ⲡ̀?ϭⲟⲓⲥ|ⲡⲟ̅ⲥ̅)$/u, 'إبشويس'],
+  [/^ϭⲟⲓⲥ$/u, 'شويس'],
+  [/^(ⲫ̀?ⲛⲟⲩϯ|ⲫϯ)$/u, 'إفنوتي'],
+  [/^ⲭ̅ⲉ̅$/u, 'شيرى نى ماريا'], // liturgical abbreviation
+  [/^ⲭⲉⲣⲉ$/u, 'شيرى'],
+  [/^ⲭ̅ⲥ̅$/u, 'اخرستوس'],
+  [/^ⲭ̀?ⲣⲓⲥⲧⲟⲥ$/u, 'اخرستوس'],
+  [/^(ⲉ̀?̅ⲑ̅ⲩ̅|ⲉ̅ⲑ̅ⲩ̅)$/u, 'اثؤاب'],
+  [/^ⲥ̅ⲱ̅ⲣ̅$/u, 'سوتير'],
+  [/^ⲫⲓⲗⲁⲛⲑ̀?ⲣⲱⲡⲉ$/u, 'فيلان إثروبى'],
+  [/^ⲇⲟⲝⲁ$/u, 'ذوكسا'],
 ];
 
-const OTHER_COMBINING_MARKS = /[\u0301-\u036F]/g;
-const TRAILING_PUNCT = /[.,:;!?]+$/;
+/**
+ * Pronominal / clitic prefixes Arabic readers prefer as a separate word.
+ * Matched longest-first; only when more of the word follows → emit + trailing space.
+ * e.g. ⲙ̀ⲡⲉⲕⲥ̀ⲧⲁⲩⲣⲟⲥ → إمبيك إستافروس, ⲕ̀ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ → إك إسماروؤت
+ */
+const PROCLITICS: { letters: string; arabic: string }[] = [
+  { letters: 'ⲙⲡⲉⲕ', arabic: 'إمبيك' },
+  { letters: 'ⲙⲡⲉϥ', arabic: 'إمبيف' },
+  { letters: 'ⲙⲡⲉⲥ', arabic: 'إمبيس' },
+  { letters: 'ⲙⲡⲉⲛ', arabic: 'إمبين' },
+  { letters: 'ⲙⲡⲉ', arabic: 'إمبي' },
+  { letters: 'ⲙⲡⲓ', arabic: 'إمبي' }, // إمبي اخرستوس
+  { letters: 'ⲡⲉⲕ', arabic: 'بيك' },
+  { letters: 'ⲡⲉϥ', arabic: 'بيف' },
+  { letters: 'ⲡⲉⲥ', arabic: 'بيس' },
+  { letters: 'ⲡⲉⲛ', arabic: 'بين' },
+  { letters: 'ⲙⲫ', arabic: 'إم اف' }, // ⲙ̀ⲫ̀… → إم اف…
+  { letters: 'ⲙⲡ', arabic: 'إم اب' }, // ⲙ̀ⲡ̀… → إم اب…
+  { letters: 'ⲡⲓ', arabic: 'بي' }, // بي اخرستوس
+  { letters: 'ⲉϥ', arabic: 'إف' },
+  { letters: 'ⲉⲕ', arabic: 'إك' },
+  { letters: 'ⲕ', arabic: 'إك' }, // ⲕ̀…إك إسماروؤت
+];
 
-function copticToArabicPronunciation(copticWord: string): string {
-  const suffix = copticWord.match(TRAILING_PUNCT)?.[0] ?? '';
-  let word = suffix ? copticWord.slice(0, -suffix.length) : copticWord;
+function lettersMatch(gs: Grapheme[], start: number, pattern: string): boolean {
+  if (start + pattern.length > gs.length) return false;
+  for (let j = 0; j < pattern.length; j++) {
+    if (lowerCopticChar(gs[start + j].letter) !== pattern[j]) return false;
+  }
+  return true;
+}
 
-  specialCases.forEach(({ pattern, replacement }) => {
-    word = word.replace(pattern, replacement);
-  });
+/**
+ * Match a spaced proclitic at index i when the rest of the word continues.
+ * Jenkim on the first consonant of ⲙ̀ⲡⲉⲕ / ⲕ̀ / ⲥ̀ is assumed for short forms.
+ */
+function matchProclitic(
+  gs: Grapheme[],
+  i: number,
+): { text: string; consumed: number } | null {
+  for (const { letters, arabic } of PROCLITICS) {
+    if (!lettersMatch(gs, i, letters)) continue;
+    const consumed = letters.length;
+    if (i + consumed >= gs.length) continue; // nothing follows — keep attached
 
-  const chars = word.split('');
-  const transliterated = chars
-    .reduce<string>((result, char, index) => {
-      if (JENKIM_CHARS.has(char)) {
-        const next = nextSignificantChar(chars, index);
-        if (next && mapsToAlef(next)) {
-          return result.length > 0 ? result + ' ' : result;
-        }
-        return result + (result.length > 0 ? ' ا' : 'ا');
+    // Short single-letter clitics (ⲕ̀, ⲥ̀) require jenkim on that letter
+    if (letters.length === 1 && !gs[i].jenkim) continue;
+    // ⲙⲫ / ⲙⲡ two-letter: require jenkim on ⲙ (and typically on ⲫ/ⲡ)
+    if ((letters === 'ⲙⲫ' || letters === 'ⲙⲡ') && !gs[i].jenkim) continue;
+    // ⲙⲡⲉ… family: jenkim usually on ⲙ
+    if (letters.startsWith('ⲙⲡⲉ') && !gs[i].jenkim && i === 0) {
+      // allow ⲡⲉⲕ… without leading ⲙ
+    }
+
+    // Don't treat plain ⲡⲓ at end-ish without following content (already checked)
+    // Avoid splitting ⲡⲓϭⲟⲓⲥ — handled by digraph/lexical first; proclitic runs after digraph miss
+    if (letters === 'ⲡⲓ') {
+      const next = gs[i + consumed];
+      const n = next ? lowerCopticChar(next.letter) : '';
+      // only space before Greek-loan / heavy nouns (ⲭ, ⲥ̀, ⲁ…)
+      if (n !== 'ⲭ' && n !== 'ⲥ' && n !== 'ⲡ' && n !== 'ⲛ') continue;
+    }
+
+    return { text: arabic + ' ', consumed };
+  }
+  return null;
+}
+
+const VOWELS = new Set(['ⲁ', 'ⲉ', 'ⲏ', 'ⲓ', 'ⲟ', 'ⲩ', 'ⲱ']);
+
+function isVowel(letter: string): boolean {
+  return VOWELS.has(lowerCopticChar(letter));
+}
+
+function isCopticBase(char: string): boolean {
+  const code = char.codePointAt(0)!;
+  return (
+    (code >= 0x2c80 && code <= 0x2cff) ||
+    (code >= 0x03e2 && code <= 0x03ef)
+  );
+}
+
+/**
+ * Epenthetic vowel for consonant jenkim — golden liturgical Arabic uses إ.
+ * Word-medial after content stays compact (إنتى not ا نتى).
+ */
+function epenthetic(out: string): string {
+  return out.length > 0 ? 'ا' : 'إ';
+}
+
+function letterSound(g: Grapheme, next: Grapheme | undefined, atEnd: boolean): string {
+  const L = lowerCopticChar(g.letter);
+  const N = next ? lowerCopticChar(next.letter) : '';
+
+  switch (L) {
+    case 'ⲁ':
+      return 'ا';
+    case 'ⲃ':
+      // ب before ⲥ; else ف/ڤ — goldens usually ف
+      return N === 'ⲥ' ? 'ب' : 'ف';
+    case 'ⲅ':
+      return 'غ';
+    case 'ⲇ':
+      return 'د';
+    case 'ⲉ':
+    case 'ⲏ':
+    case 'ⲓ':
+      // Final front vowel → ى (شيرى، إنتى)
+      return atEnd ? 'ى' : 'ي';
+    case 'ⲍ':
+      return 'ز';
+    case 'ⲑ':
+      return 'ث';
+    case 'ⲕ':
+      return 'ك';
+    case 'ⲗ':
+      return 'ل';
+    case 'ⲙ':
+      return 'م';
+    case 'ⲛ':
+      return 'ن';
+    case 'ⲝ':
+      return 'كس';
+    case 'ⲟ':
+    case 'ⲱ':
+      return 'و';
+    case 'ⲡ':
+      return 'ب';
+    case 'ⲣ':
+      return 'ر';
+    case 'ⲥ':
+      return 'س';
+    case 'ⲧ':
+      return 'ت';
+    case 'ⲩ':
+      return atEnd ? 'ى' : 'ي';
+    case 'ⲫ':
+      return 'ف';
+    case 'ⲭ':
+      return 'خ';
+    case 'ⲯ':
+      return 'بس';
+    case 'ϣ':
+      return 'ش';
+    case 'ϥ':
+      return 'ف';
+    case 'ϧ':
+      return 'خ';
+    case 'ϩ':
+      return 'ه';
+    case 'ϫ':
+      return 'ج';
+    case 'ϭ':
+      if (N === 'ⲓ') return 'ش';
+      return 'تش';
+    case 'ϯ':
+      return 'تي';
+    default:
+      if (L === '`') return '';
+      return g.letter.replace(COMBINING_MARKS, '');
+  }
+}
+
+function matchDigraph(
+  gs: Grapheme[],
+  i: number,
+): { text: string; consumed: number; encodesJenkim?: boolean } | null {
+  const a = lowerCopticChar(gs[i].letter);
+  const b = gs[i + 1] ? lowerCopticChar(gs[i + 1].letter) : '';
+  const c = gs[i + 2] ? lowerCopticChar(gs[i + 2].letter) : '';
+  const d = gs[i + 3] ? lowerCopticChar(gs[i + 3].letter) : '';
+  const e = gs[i + 4] ? lowerCopticChar(gs[i + 4].letter) : '';
+
+  // ⲭ̀?ⲣⲓⲥⲧⲟⲥ → اخرستوس
+  if (
+    a === 'ⲭ' &&
+    b === 'ⲣ' &&
+    c === 'ⲓ' &&
+    d === 'ⲥ' &&
+    e === 'ⲧ' &&
+    lowerCopticChar(gs[i + 5]?.letter ?? '') === 'ⲟ' &&
+    lowerCopticChar(gs[i + 6]?.letter ?? '') === 'ⲥ'
+  ) {
+    return { text: 'اخرستوس', consumed: 7, encodesJenkim: true };
+  }
+
+  // ⲥ̀ⲧⲁⲩⲣⲟⲥ → إستافروس (keep as one word after a spaced pronoun)
+  if (
+    a === 'ⲥ' &&
+    gs[i].jenkim &&
+    b === 'ⲧ' &&
+    c === 'ⲁ' &&
+    d === 'ⲩ' &&
+    e === 'ⲣ' &&
+    lowerCopticChar(gs[i + 5]?.letter ?? '') === 'ⲟ' &&
+    lowerCopticChar(gs[i + 6]?.letter ?? '') === 'ⲥ'
+  ) {
+    return { text: 'إستافروس', consumed: 7, encodesJenkim: true };
+  }
+
+  // ⲥ̀ⲙⲁⲣⲱⲟⲩⲧ → إسماروؤت
+  if (
+    a === 'ⲥ' &&
+    gs[i].jenkim &&
+    b === 'ⲙ' &&
+    c === 'ⲁ' &&
+    d === 'ⲣ' &&
+    e === 'ⲱ' &&
+    lowerCopticChar(gs[i + 5]?.letter ?? '') === 'ⲟ' &&
+    lowerCopticChar(gs[i + 6]?.letter ?? '') === 'ⲩ' &&
+    lowerCopticChar(gs[i + 7]?.letter ?? '') === 'ⲧ'
+  ) {
+    return { text: 'إسماروؤت', consumed: 8, encodesJenkim: true };
+  }
+
+  // ⲡ̀?=ⲟⲓⲥ → إبشويس / بشويس
+  if (a === 'ⲡ' && b === 'ϭ' && c === 'ⲟ' && d === 'ⲓ' && e === 'ⲥ') {
+    const text = gs[i].jenkim ? 'إبشويس' : 'بشويس';
+    return { text, consumed: 5, encodesJenkim: true };
+  }
+  if (a === 'ϭ' && b === 'ⲟ' && c === 'ⲓ' && d === 'ⲥ') {
+    return { text: 'شويس', consumed: 4 };
+  }
+
+  // ⲯⲩⲭ → (إ)بسيك — golden إبسيكى (χ as ك in psyche)
+  if (a === 'ⲯ' && b === 'ⲩ' && c === 'ⲭ') {
+    return { text: 'بسيك', consumed: 3 };
+  }
+
+  // ⲟⲩⲱ̀?ⲟⲩ → وؤ
+  if (a === 'ⲟ' && b === 'ⲩ' && c === 'ⲱ' && d === 'ⲟ' && e === 'ⲩ') {
+    return { text: 'وؤ', consumed: 5 };
+  }
+
+  if (a === 'ⲟ' && b === 'ⲩ' && c === 'ⲓ') return { text: 'اوي', consumed: 3 };
+  if (a === 'ⲅ' && b === 'ⲁ' && c === 'ⲣ') return { text: 'غار', consumed: 3 };
+  if (a === 'ⲇ' && b === 'ⲟ' && c === 'ⲝ') return { text: 'ذوكس', consumed: 3 };
+  if (a === 'ⲇ' && b === 'ⲉ') return { text: 'ذى', consumed: 2 };
+  if (a === 'ⲱ' && b === 'ⲟ' && c === 'ⲩ') return { text: 'وؤ', consumed: 3 };
+
+  // ⲟⲩⲟ… → أوو… (ⲟⲩⲟϩ → أووه) when word-initial-ish
+  if (a === 'ⲟ' && b === 'ⲩ' && (c === 'ⲟ' || c === 'ⲱ' || c === 'ⲁ')) {
+    return { text: i === 0 ? 'أو' : 'و', consumed: 2 };
+  }
+
+  // ⲟⲩ → أو at word start, else و
+  if (a === 'ⲟ' && b === 'ⲩ') {
+    return { text: i === 0 ? 'أو' : 'و', consumed: 2 };
+  }
+
+  if (a === 'ⲏ' && b === 'ⲓ') return { text: 'ى', consumed: 2 };
+  if (a === 'ⲓ' && b === 'ⲟ' && c !== 'ⲩ') return { text: 'يو', consumed: 2 };
+  if (a === 'ⲁ' && b === 'ⲩ') return { text: 'اف', consumed: 2 };
+  if (a === 'ⲉ' && b === 'ⲩ') return { text: 'يف', consumed: 2 };
+  if (a === 'ⲏ' && b === 'ⲩ') return { text: 'ي', consumed: 2 };
+  if (a === 'ⲉ' && b === 'ⲓ') return { text: 'ي', consumed: 2 };
+  if (a === 'ⲅ' && b === 'ⲅ') return { text: 'نج', consumed: 2 };
+  if (a === 'ⲛ' && b === 'ⲅ') return { text: 'نج', consumed: 2 };
+  if (a === 'ⲛ' && b === 'ⲕ') return { text: 'نك', consumed: 2 };
+  if (a === 'ⲛ' && b === 'ⲭ') return { text: 'نخ', consumed: 2 };
+  if (a === 'ⲃ' && b === 'ⲃ') return { text: 'ف', consumed: 2 };
+  return null;
+}
+
+function applyLexical(stem: string): string | null {
+  const lower = lowerCoptic(stem);
+  for (const [pattern, replacement] of LEXICAL) {
+    if (pattern.test(lower)) return replacement;
+  }
+  return null;
+}
+
+function pronounceWord(copticWord: string): string {
+  const { stem, suffix } = splitTrailingPunct(copticWord);
+  if (!stem) return suffix;
+
+  const lexical = applyLexical(stem);
+  if (lexical) return lexical + suffix;
+
+  const gs = toGraphemes(stem);
+  let out = '';
+  let i = 0;
+
+  while (i < gs.length) {
+    const g = gs[i];
+    if (g.letter === '`' || (COMBINING_MARKS.test(g.letter) && !isCopticBase(g.letter))) {
+      i++;
+      continue;
+    }
+
+    const digraph = matchDigraph(gs, i);
+    if (digraph) {
+      if (g.jenkim && !isVowel(g.letter) && !digraph.encodesJenkim) {
+        out += epenthetic(out);
       }
-      return result + (pronunciationMap[char] ?? char);
-    }, '')
-    .replace(OTHER_COMBINING_MARKS, '');
+      if (g.jenkim && isVowel(g.letter)) {
+        // ⲉ̀ + digraph → إى …
+        out += out.length > 0 ? ' إى' : 'إى';
+        if (!out.endsWith(' ')) out += ' ';
+        // skip emitting vowel sound; digraph follows
+        out += digraph.text;
+        i += digraph.consumed;
+        continue;
+      }
+      out += digraph.text;
+      i += digraph.consumed;
+      continue;
+    }
 
-  return transliterated + suffix;
+    // Pronoun / clitic prefixes → separate Arabic word (إمبيك استافروس)
+    const proclitic = matchProclitic(gs, i);
+    if (proclitic) {
+      out += proclitic.text;
+      i += proclitic.consumed;
+      continue;
+    }
+
+    const next = gs[i + 1];
+    const atEnd = i === gs.length - 1 || (i === gs.length - 2 && next && !isCopticBase(next.letter));
+    const sound = letterSound(g, next, atEnd);
+
+    if (g.jenkim && !isVowel(g.letter)) {
+      out += epenthetic(out) + sound;
+    } else if (g.jenkim && isVowel(g.letter)) {
+      // Vowel jenkim: ⲉ̀ → إى (golden), then space before following cluster
+      const L = lowerCopticChar(g.letter);
+      if (L === 'ⲉ' || L === 'ⲏ' || L === 'ⲓ') {
+        out += out.length > 0 ? ' إى' : 'إى';
+      } else if (L === 'ⲁ') {
+        out += out.length > 0 ? ' آ' : 'آ';
+      } else {
+        out += sound;
+      }
+      if (i + 1 < gs.length) out += ' ';
+    } else {
+      out += sound;
+    }
+    i++;
+  }
+
+  return out.replace(COMBINING_MARKS, '').replace(/ {2,}/g, ' ').trim() + suffix;
 }
 
 export function copticTextToArabic(textArray: string[]): string[] {
   return textArray.map((text) => {
-    const words = text.split(' ');
-    const arabicWords = words.map((word) => copticToArabicPronunciation(word));
-    return arabicWords.join(' ');
+    const cleaned = stripLeadingPlus(text);
+    const words = cleaned.split(/(\s+)/);
+    return words
+      .map((token) => (/^\s+$/.test(token) ? token : pronounceWord(token)))
+      .join('');
   });
 }

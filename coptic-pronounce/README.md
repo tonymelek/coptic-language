@@ -2,9 +2,9 @@
 
 [![npm version](https://img.shields.io/npm/v/coptic-pronounce.svg)](https://www.npmjs.com/package/coptic-pronounce)
 
-Phonetic transliteration of **Coptic Unicode** text into **English** and **Arabic** script.
+Phonetic transliteration of **Coptic Unicode** text into **English** and **Arabic** script (Bohairic liturgical pronunciation), plus a **reverse guess** engine from Latin/Arabic phonetics back to Coptic.
 
-Handles individual Coptic letters, common digraphs (e.g. `ⲟⲩ` → `ou`), and liturgical abbreviations such as nomina sacra (`Ⲡⲟ̅ⲥ̅` → `Pchois`).
+Handles jenkim epenthesis (`ⲛ̀` → `en`), digraphs (`ⲟⲩ` → `ou`, `ⲟⲩⲓ` → `owi`), and liturgical forms (`Ⲡ̀ϭⲟⲓⲥ` → `Epshois`).
 
 ## Install
 
@@ -12,46 +12,38 @@ Handles individual Coptic letters, common digraphs (e.g. `ⲟⲩ` → `ou`), and
 npm install coptic-pronounce
 ```
 
-[npmjs.com/package/coptic-pronounce](https://www.npmjs.com/package/coptic-pronounce)
-
 ## Usage
 
-### CommonJS
+### Coptic → English / Arabic
 
 ```js
-const { pronounce } = require('coptic-pronounce');
+import { pronounce, guessCoptic, toCoptic } from 'coptic-pronounce';
+
+pronounce('Ⲡ̀ϭⲟⲓⲥ', 'en'); // Epshois
+pronounce('Ⲡ̀ϭⲟⲓⲥ', 'ar'); // إبشويس
 ```
 
-### ES modules
+### Latin / Arabic → Coptic (best-effort guess)
 
 ```js
-import { pronounce } from 'coptic-pronounce';
+guessCoptic('Epshois', 'en');
+// { best: 'Ⲡ̀ϭⲟⲓⲥ', candidates: [...] }
+
+guessCoptic('إبشويس', 'ar').best;
+// Ⲡ̀ϭⲟⲓⲥ
+
+toCoptic('Shere ne Maria', 'en');
+// ⲭ̅ⲉ̅
+
+toCoptic('شيرى نى ماريا', 'ar');
+// ⲭ̅ⲉ̅
 ```
 
-### Examples
+Reverse mapping is **ambiguous** by nature (`f` → `ϥ`|`ⲫ`, `i` → `ⲓ`|`ⲏ`). The engine returns a ranked `candidates` list; `best` is the top Bohairic-liturgical guess.
 
-```js
-pronounce('ⲡⲛⲟⲩϯ', 'en');
-// pnouti
+`lang` / `from` accepts `'en'`, `'ar'`, `'english'`, or `'arabic'`.
 
-pronounce('ⲡⲛⲟⲩϯ', 'ar');
-// بنوتي
-
-pronounce('ⲡⲛⲟⲩϯ ⲁⲛⲟⲕ', 'en');
-// pnouti anok
-
-pronounce('ⲡⲛⲟⲩϯ ⲁⲛⲟⲕ', 'ar');
-// بنوتي انوك
-
-pronounce(['ⲡⲛⲟⲩϯ ⲁⲛⲟⲕ', 'ⲁⲛⲟⲕ'], 'en');
-// ['anok pnouti', 'anok']
-```
-
-`lang` accepts `'en'`, `'ar'`, `'english'`, or `'arabic'`.
-
-Pass a **string** for a single result, or a **string array** to transliterate multiple phrases at once (returns an array).
-
-Non-Coptic input is rejected: the first word is checked against Coptic Unicode (`U+2C80`–`U+2CFF`), supplemental Coptic letters (`U+03E2`–`U+03EF`, e.g. `ϯ`, `ϣ`), and combining marks (`U+0300`–`U+036F`) for jenkim and overlines.
+Leading `+` markers and punctuation are allowed. Non-Coptic letters in the first Coptic word are rejected.
 
 ```js
 pronounce('hello', 'en');
@@ -60,60 +52,61 @@ pronounce('hello', 'en');
 
 ### TypeScript
 
-Types are included — no `@types` package needed.
-
 ```ts
 import { pronounce, type PronounceLang } from 'coptic-pronounce';
 
-const lang: PronounceLang = 'en';
-const word: string = pronounce('ⲡⲛⲟⲩϯ', lang);
+const word: string = pronounce('ⲡⲛⲟⲩϯ', 'en');
 const lines: string[] = pronounce(['ⲡⲛⲟⲩϯ', 'ⲁⲛⲟⲕ'], 'ar');
 ```
 
-Works with `moduleResolution: "node16"`, `"nodenext"`, or `"bundler"`.
-
 ### Combined with Antonios font conversion
-
-If your source text is Latin-encoded Antonios font, convert to Unicode first with [coptic-antonios-unicode](https://www.npmjs.com/package/coptic-antonios-unicode):
 
 ```js
 import { toUnicode } from 'coptic-antonios-unicode';
 import { pronounce } from 'coptic-pronounce';
 
-const latin = 'P,oic';
-const coptic = toUnicode(latin);
-
-pronounce(coptic, 'en'); // Pkhois
-pronounce(coptic, 'ar');  // بخويس
+const coptic = toUnicode('P,oic');
+pronounce(coptic, 'en');
 ```
+
+## Golden harness
+
+Score output against trusted hymn fixtures (`fixtures/`) that include `coptic` + `copticEnglish` / `arabicCoptic` from Psalmody (Ten Thino, First Hoos).
+
+```bash
+npm run harness          # build + English score
+npm run harness:ar       # Arabic
+npm run harness:verbose  # per-line diffs
+```
+
+```bash
+node scripts/golden-harness.mjs --lang en --min-score 0.90
+```
+
+Metrics: exact match, normalized match (ignore case/hyphens/punct), and average Levenshtein similarity.
+
+Editorial hyphenation and occasional word-splits in the goldens mean exact rates stay low; **avg similarity** is the main quality signal (currently ~0.93 English on the bundled fixtures).
 
 ## API
 
 ### `pronounce(copticText, lang)`
 
-| Parameter    | Type                | Description                              |
-|--------------|---------------------|------------------------------------------|
-| `copticText` | `string` \| `string[]` | Coptic Unicode phrase(s)            |
-| `lang`       | string              | `'en'` / `'english'` or `'ar'` / `'arabic'` |
+| Parameter    | Type                   | Description                                 |
+|--------------|------------------------|---------------------------------------------|
+| `copticText` | `string` \| `string[]` | Coptic Unicode phrase(s)                    |
+| `lang`       | string                 | `'en'` / `'english'` or `'ar'` / `'arabic'` |
 
-**Returns:** `string` or `string[]` — same shape as input. Returns `''` or `[]` for empty input.
-
-The first word of the input is validated as Coptic Unicode before transliteration. Throws if a non-Coptic character is found.
-
-For Arabic multi-word output, render with `dir="rtl"` in HTML.
+**Returns:** `string` or `string[]` — same shape as input.
 
 ## Liturgical special cases
 
-Both English and Arabic modules include best-effort mappings for common liturgical forms:
-
-| Coptic        | English     | Arabic      |
-|---------------|-------------|-------------|
-| `Ⲡⲟ̅ⲥ̅`       | Pchois      | بشويس       |
-| `Ⲫϯ`          | Efnouti     | افنوتي      |
-| `ⲭ̅ⲥ̅`        | Ekrestos    | اخرستوس     |
-| `ⲉ̅ⲑ̅ⲩ̅`       | Eth-ouab    | اثؤاب       |
-
-Verify against a trusted liturgical reference before using in production.
+| Coptic    | English       | Arabic  |
+|-----------|---------------|---------|
+| `Ⲡ̀ϭⲟⲓⲥ` | Epshois       | بشويس   |
+| `Ⲫ̀ⲛⲟⲩϯ` | Efnouti       | افنوتي  |
+| `ⲭ̅ⲥ̅`    | Ekrestos      | اخرستوس |
+| `ⲇⲟⲝⲁ`    | Zoxa          | ذوكسا   |
+| `ⲯⲩⲭⲏ`    | epsishi       | بسيشي   |
 
 ## License
 

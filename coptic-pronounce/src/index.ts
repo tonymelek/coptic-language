@@ -1,30 +1,43 @@
 import { copticTextToArabic } from './arabic';
 import { copticTextToEnglish } from './english';
+import {
+  guessCoptic,
+  toCoptic,
+  type GuessCandidate,
+  type GuessFrom,
+  type GuessResult,
+} from './guess';
+import { isCombiningMark, isCopticLetter, stripLeadingPlus } from './shared';
 
 export type PronounceLang = 'en' | 'ar' | 'english' | 'arabic';
 
-function isCopticChar(char: string): boolean {
-  const code = char.codePointAt(0)!;
-  return (
-    (code >= 0x2c80 && code <= 0x2cff) ||
-    (code >= 0x03e2 && code <= 0x03ef) ||
-    (code >= 0x0300 && code <= 0x036f) ||
-    code === 0x60 // ` jenkim marker in Antonios / legacy text
-  );
+export { stripLeadingPlus } from './shared';
+export { guessCoptic, toCoptic };
+export type { GuessCandidate, GuessFrom, GuessResult };
+
+function isAllowedChar(char: string): boolean {
+  if (isCopticLetter(char) || isCombiningMark(char)) return true;
+  if (char === '`' || char === '+' || char === '\u200F' || char === '\u200E') return true;
+  if (/[.,:;!?()'"""''\-–—/]/.test(char)) return true;
+  if (/\s/.test(char)) return true;
+  return false;
 }
 
-function getFirstWord(texts: string[]): string | null {
+function getFirstCopticWord(texts: string[]): string | null {
   for (const text of texts) {
     if (!text) continue;
-    const word = text.trim().split(/\s+/).find(Boolean);
-    if (word) return word;
+    const cleaned = stripLeadingPlus(text);
+    for (const word of cleaned.trim().split(/\s+/)) {
+      if (!word) continue;
+      if ([...word].some(isCopticLetter)) return word;
+    }
   }
   return null;
 }
 
 function assertCopticWord(word: string): void {
   for (const char of word) {
-    if (isCopticChar(char)) continue;
+    if (isAllowedChar(char)) continue;
     const code = char.codePointAt(0)!.toString(16).toUpperCase().padStart(4, '0');
     throw new Error(
       `Expected Coptic Unicode text; found "${char}" (U+${code}) in "${word}"`,
@@ -43,7 +56,7 @@ export function pronounce(
 
   if (texts.length === 0) return isArray ? [] : '';
 
-  const firstWord = getFirstWord(texts);
+  const firstWord = getFirstCopticWord(texts);
   if (firstWord) assertCopticWord(firstWord);
 
   const normalized = String(lang).toLowerCase();

@@ -1,10 +1,10 @@
 {
   "private": true,
   "scripts": {
-    "build": "npm run build --prefix coptic-antonios-unicode && npm run build --prefix coptic-pronounce && npm run build --prefix coptic-readings",
-    "pack:check": "npm run pack:check --prefix coptic-antonios-unicode && npm run pack:check --prefix coptic-pronounce && npm run pack:check --prefix coptic-readings",
-    "publish:dry-run": "npm run publish:dry-run --prefix coptic-antonios-unicode && npm run publish:dry-run --prefix coptic-pronounce && npm run publish:dry-run --prefix coptic-readings",
-    "publish:npm": "npm run publish:npm --prefix coptic-antonios-unicode && npm run publish:npm --prefix coptic-pronounce && npm run publish:npm --prefix coptic-readings"
+    "build": "npm run build --prefix coptic-antonios-unicode && npm run build --prefix coptic-pronounce && npm run build --prefix coptic-readings && npm run build --prefix bible-citation-text",
+    "pack:check": "npm run pack:check --prefix coptic-antonios-unicode && npm run pack:check --prefix coptic-pronounce && npm run pack:check --prefix coptic-readings && npm run pack:check --prefix bible-citation-text",
+    "publish:dry-run": "npm run publish:dry-run --prefix coptic-antonios-unicode && npm run publish:dry-run --prefix coptic-pronounce && npm run publish:dry-run --prefix coptic-readings && npm run publish:dry-run --prefix bible-citation-text",
+    "publish:npm": "npm run publish:npm --prefix coptic-antonios-unicode && npm run publish:npm --prefix coptic-pronounce && npm run publish:npm --prefix coptic-readings && npm run publish:npm --prefix bible-citation-text"
   },
   "repository": {
     "type": "git",

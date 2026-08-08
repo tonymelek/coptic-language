@@ -1,8 +1,8 @@
 # coptic-readings
 
-Day-round Coptic liturgical readings: given a date, get the katamaros references for that day (annual, Great Lent, Holy Fifty), plus feast / tune context.
+Given a date, get the **Coptic Orthodox liturgical reading references** for that day — Psalms, Gospels, Pauline, Catholic, Acts, and (in Lent) prophecies — plus feast, tune, and Coptic calendar context.
 
-Bible text resolution (turning a ref like `John 20:1-18` into verses) is out of scope — use a separate package for that.
+This package returns **Bible references** (e.g. `John 20:1-18`). Turning those into verse text is left to your Bible source of choice.
 
 ## Install
 
@@ -10,13 +10,62 @@ Bible text resolution (turning a ref like `John 20:1-18` into verses) is out of 
 npm install coptic-readings
 ```
 
-Works with **ESM** (`.mjs`), **CommonJS** (`.cjs`), and **TypeScript** (bundled `.d.ts`).
+Works with **ESM**, **CommonJS**, and **TypeScript**.
+
+## What reading books are used?
+
+The Coptic Church uses different **Katamaros** books depending on the season. This package picks the right one for each day:
+
+| Season | Source | When it’s used |
+| --- | --- | --- |
+| **Annual Katamaros** (weekdays) | Daily readings for each Coptic month/day | Ordinary weekdays outside special seasons |
+| **Sunday Katamaros** | Readings for the 1st–5th Sunday of each Coptic month | Sundays in the annual cycle |
+| **Great Lent Katamaros** | Lent weekday & Holy Week readings | Jonah Fast, Great Lent, and Palm Sunday (Hosanna) |
+| **Holy Fifty Katamaros** | Readings from Resurrection through Pentecost | The 50 days from Easter to Pentecost |
+
+You don’t need to choose the book yourself — pass a date and the library selects the matching season.
+
+## Quick start
+
+```js
+import { CopticReadings } from 'coptic-readings'
+
+const day = new CopticReadings(new Date(2026, 3, 12)) // 12 Apr 2026
+
+console.log(day.feast)
+// { name: 'resurrection', tune: 'joy', katamaros: 'holy_fifties' }
+
+console.log(day.readingReference.ref?.liturgy)
+// {
+//   pauline: '1 Corinthians 15:23-50',
+//   catholic: '1 Peter 3:15-4:6',
+//   acts: 'Acts 2:22-28',
+//   psalm: 'Psalms 117:12-25',
+//   gospel: 'John 20:1-18'
+// }
+```
+
+### CommonJS
+
+```js
+const { CopticReadings } = require('coptic-readings')
+```
+
+### TypeScript
+
+```ts
+import { CopticReadings, type DayReadings, type ActiveFeast } from 'coptic-readings'
+
+const day = new CopticReadings(new Date(2026, 3, 12))
+const feast: ActiveFeast = day.feast
+const ref: DayReadings | null | undefined = day.readingReference.ref
+```
 
 ---
 
-## `CopticReadings` — describe a liturgical day
+## Describe a liturgical day
 
-Build a small helper around the library (same shape as a season dump / debug script):
+A small helper that gathers the useful fields in one place:
 
 ```js
 import { CopticReadings } from 'coptic-readings'
@@ -28,10 +77,9 @@ function formatYmd(d) {
   return `${y}-${m}-${day}`
 }
 
-/** Snapshot of feast + katamaros refs for a calendar date. */
 function describeLiturgicalDay(date, options = {}) {
   const day = new CopticReadings(date, {
-    // Pin clock so evening spill (≥ 18:00) does not shift the day in examples
+    // Pin clock so evening (≥ 18:00) does not shift the day in daytime examples
     now: options.now ?? new Date(date.getFullYear(), date.getMonth(), date.getDate(), 10),
     ...options,
   })
@@ -46,7 +94,6 @@ function describeLiturgicalDay(date, options = {}) {
     weekday: day.weekday,
     adamOrWatos: day.adamOrWatos,
     isSunday: day.isSunday,
-    daysFromEaster: day.daysFromEaster,
     feast: day.feast,
     readingReference: {
       isSunday,
@@ -66,7 +113,9 @@ function describeLiturgicalDay(date, options = {}) {
 console.log(JSON.stringify(describeLiturgicalDay(new Date(2026, 3, 12)), null, 2))
 ```
 
-### Example output — Resurrection Sunday (2026-04-12)
+### Resurrection Sunday — 2026-04-12
+
+Uses the **Holy Fifty** Katamaros:
 
 ```json
 {
@@ -78,7 +127,6 @@ console.log(JSON.stringify(describeLiturgicalDay(new Date(2026, 3, 12)), null, 2
   "weekday": "Sunday",
   "adamOrWatos": "adam",
   "isSunday": true,
-  "daysFromEaster": 0,
   "feast": {
     "name": "resurrection",
     "tune": "joy",
@@ -106,9 +154,9 @@ console.log(JSON.stringify(describeLiturgicalDay(new Date(2026, 3, 12)), null, 2
 }
 ```
 
-### More seasons (same helper)
+### Great Lent weekday — 2026-02-23
 
-**Great Lent weekday** — `2026-02-23`:
+Uses the **Great Lent** Katamaros (includes Old Testament prophecies at liturgy):
 
 ```js
 describeLiturgicalDay(new Date(2026, 1, 23))
@@ -118,7 +166,6 @@ describeLiturgicalDay(new Date(2026, 1, 23))
 {
   "date": "2026-02-23",
   "feast": { "name": "great_lent", "tune": "fasting", "katamaros": "great_lent" },
-  "daysFromEaster": -48,
   "readingReference": {
     "ref": {
       "title": "Monday of the second week of Great Lent",
@@ -136,7 +183,9 @@ describeLiturgicalDay(new Date(2026, 1, 23))
 }
 ```
 
-**Jonah Fast** — `2026-02-02`:
+### Jonah Fast — 2026-02-02
+
+Also draws from the **Great Lent** Katamaros:
 
 ```js
 describeLiturgicalDay(new Date(2026, 1, 2))
@@ -145,16 +194,19 @@ describeLiturgicalDay(new Date(2026, 1, 2))
 // liturgy.prophecies === ["Jonah 1:1-2:1"]
 ```
 
-**Pentecost** — `2026-05-31`:
+### Pentecost — 2026-05-31
+
+Last day of the **Holy Fifty**:
 
 ```js
 describeLiturgicalDay(new Date(2026, 4, 31))
 // feast.name === "pentecost"
-// daysFromEaster === 49
 // ref.title === "Seventh Sunday of the Holy Fifty (Feast of Pentecost)"
 ```
 
-**Annual day** (no named feast) — `2026-07-18`:
+### Ordinary annual day — 2026-07-18
+
+**Annual Katamaros** weekday readings:
 
 ```js
 describeLiturgicalDay(new Date(2026, 6, 18))
@@ -162,41 +214,23 @@ describeLiturgicalDay(new Date(2026, 6, 18))
 // liturgy.gospel === "Luke 12:4-12"
 ```
 
-### Liturgical-day spill (≥ 18:00)
+### After 6pm — next liturgical day
 
-When system/`now` hour is ≥ 18, the effective day advances by one calendar day:
+In Coptic practice, the liturgical day often begins in the evening. By default, after **18:00** the package treats the date as the **next** calendar day:
 
 ```js
 const evening = new Date(2026, 3, 11, 19) // Sat 11 Apr 2026, 19:00
 describeLiturgicalDay(new Date(2026, 3, 11), { now: evening })
-// effectiveLiturgicalDay → "2026-04-12" (Resurrection)
+// effectiveLiturgicalDay → "2026-04-12" (Resurrection Sunday)
 ```
 
-### CommonJS
-
-```js
-const { CopticReadings } = require('coptic-readings')
-const day = new CopticReadings(new Date(2026, 3, 12))
-console.log(day.feast, day.readingReference.ref?.liturgy)
-```
-
-### TypeScript
-
-```ts
-import { CopticReadings, type DayReadings, type ActiveFeast } from 'coptic-readings'
-
-const day = new CopticReadings(new Date(2026, 3, 12), {
-  liturgicalDayStartsAtHour: 18,
-})
-const feast: ActiveFeast = day.feast
-const ref: DayReadings | null | undefined = day.readingReference.ref
-```
+You can change the hour with `liturgicalDayStartsAtHour`, or pass `now` to control the clock used for that check.
 
 ---
 
-## `calculateOrthodoxEaster(year)` — Paschal season anchors
+## Orthodox Easter dates for a year
 
-Returns Orthodox (Julian → Gregorian) Easter and every date this package derives from it: Jonah Fast, Great Lent, Hosanna, Pentecost, Apostles’ Fast start.
+Need the movable-season anchors (Jonah Fast, Great Lent, Palm Sunday, Easter, Pentecost, Apostles’ Fast)?
 
 ```js
 import { calculateOrthodoxEaster } from 'coptic-readings'
@@ -208,31 +242,30 @@ function formatYmd(d) {
   return `${y}-${m}-${day}`
 }
 
-/** Human-readable Paschal timeline for a year. */
 function describePaschalYear(year) {
   const s = calculateOrthodoxEaster(year)
   return {
     year,
     jonah_fast: {
-      start: formatYmd(s.startfJonahFast),   // Easter − 69
-      end: formatYmd(s.endfJonahFast),       // Easter − 67
-      feast: formatYmd(s.jonahFeast),        // Easter − 66
+      start: formatYmd(s.startfJonahFast),
+      end: formatYmd(s.endfJonahFast),
+      feast: formatYmd(s.jonahFeast),
     },
     great_lent: {
-      start: formatYmd(s.startOfGreatLent),  // Easter − 55 (Monday week 1)
-      end: formatYmd(s.endOfGreatLent),      // Easter − 8
+      start: formatYmd(s.startOfGreatLent),
+      end: formatYmd(s.endOfGreatLent),
     },
-    hosanna: formatYmd(s.hosannaDate),       // Easter − 7 (Palm Sunday)
-    resurrection: formatYmd(s.easterDate),   // 0
-    pentecost: formatYmd(s.pentecosteDate),  // Easter + 49
-    apostles_fast_start: formatYmd(s.apostolesFastStartDate), // Easter + 50
+    hosanna: formatYmd(s.hosannaDate),
+    resurrection: formatYmd(s.easterDate),
+    pentecost: formatYmd(s.pentecosteDate),
+    apostles_fast_start: formatYmd(s.apostolesFastStartDate),
   }
 }
 
 console.log(JSON.stringify(describePaschalYear(2026), null, 2))
 ```
 
-### Example output — 2026
+### Example — 2026
 
 ```json
 {
@@ -253,21 +286,14 @@ console.log(JSON.stringify(describePaschalYear(2026), null, 2))
 }
 ```
 
-Offsets from Resurrection (`daysFromEaster`, where Easter Sunday = `0`):
-
-| Milestone | Offset | 2026 date |
-| --- | ---: | --- |
-| Jonah Fast start | −69 | 2026-02-02 |
-| Jonah Feast | −66 | 2026-02-05 |
-| Great Lent start | −55 | 2026-02-16 |
-| Great Lent end | −8 | 2026-04-04 |
-| Hosanna (Palm Sunday) | −7 | 2026-04-05 |
-| **Resurrection** | **0** | **2026-04-12** |
-| Pentecost | +49 | 2026-05-31 |
-| Apostles’ Fast start | +50 | 2026-06-01 |
-
-`great_lent` katamaros keys use these offsets as-is (`"-55"`, `"-7"`, …).  
-`holy_fifties` keys use **Easter = 1** (`"1"` … `"50"`), i.e. `daysFromEaster + 1`.
+| Milestone | 2026 date |
+| --- | --- |
+| Jonah Fast | 2–4 Feb (feast 5 Feb) |
+| Great Lent | 16 Feb – 4 Apr |
+| Hosanna (Palm Sunday) | 5 Apr |
+| **Resurrection** | **12 Apr** |
+| Pentecost | 31 May |
+| Apostles’ Fast begins | 1 Jun |
 
 ---
 
@@ -277,17 +303,17 @@ Offsets from Resurrection (`daysFromEaster`, where Easter Sunday = `0`):
 
 | Option | Default | Description |
 | --- | --- | --- |
-| `now` | `new Date()` | Clock for the ≥18:00 liturgical-day spill |
+| `now` | `new Date()` | Clock used for the evening liturgical-day rollover |
 | `liturgicalDayStartsAtHour` | `18` | Hour when the next liturgical day begins |
 
 | Getter | Description |
 | --- | --- |
-| `readingReference` | `{ isSunday, ref }` — vespers / matins / liturgy (/ evening) refs |
-| `feast` | `{ name, tune, katamaros }` — active feast (`name` is snake_case or `null`) |
+| `readingReference` | `{ isSunday, ref }` — vespers / matins / liturgy (/ evening) Bible refs |
+| `feast` | `{ name, tune, katamaros }` — active feast (`name` is `null` on ordinary days) |
 | `copticDate` / `copticMonth` / `copticDay` | Coptic calendar for the liturgical day |
 | `weekday` / `adamOrWatos` / `isSunday` | Weekday helpers |
-| `daysFromEaster` | Offset from Resurrection (`0` = Easter Sunday) |
-| `effectiveLiturgicalDay` | Date after applying the evening spill |
+| `daysFromEaster` | Days relative to Resurrection (`0` = Easter Sunday) |
+| `effectiveLiturgicalDay` | Calendar date after applying the evening rollover |
 | `all` | Full feast map for the year |
 
 ### `calculateOrthodoxEaster(year)`
