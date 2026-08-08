@@ -15,7 +15,13 @@ export const tools = [
     to: '/pronounce',
     label: 'Pronounce',
     title: 'Coptic Pronounce',
-    description: 'Hear and practice Bohairic pronunciation.',
+    description: 'Transliterate Coptic Unicode into English and Arabic phonetics.',
+  },
+  {
+    to: '/guess-coptic',
+    label: 'Guess',
+    title: 'Guess Coptic',
+    description: 'Best-effort Coptic Unicode from Latin or Arabic phonetic spelling.',
   },
   {
     to: '/write',

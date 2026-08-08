@@ -3,6 +3,7 @@ import AppLayout from './layouts/AppLayout.vue'
 import AppHome from './views/AppHome.vue'
 import CopticWriteView from './views/CopticWriteView.vue'
 import DictionaryView from './views/DictionaryView.vue'
+import GuessCopticView from './views/GuessCopticView.vue'
 import PronounceView from './views/PronounceView.vue'
 import UnicodeView from './views/UnicodeView.vue'
 
@@ -15,6 +16,7 @@ const routes = [
       { path: 'dictionary', name: 'dictionary', component: DictionaryView },
       { path: 'unicode', name: 'unicode', component: UnicodeView },
       { path: 'pronounce', name: 'pronounce', component: PronounceView },
+      { path: 'guess-coptic', name: 'guess-coptic', component: GuessCopticView },
       { path: 'write', name: 'write', component: CopticWriteView },
     ],
   },

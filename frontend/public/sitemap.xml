@@ -9,4 +9,6 @@
   <url><loc>/app/dictionary</loc></url>
   <url><loc>/app/unicode</loc></url>
   <url><loc>/app/pronounce</loc></url>
+  <url><loc>/app/guess-coptic</loc></url>
+  <url><loc>/app/write</loc></url>
 </urlset>
