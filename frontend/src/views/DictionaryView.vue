@@ -247,6 +247,8 @@ function onBackspace() {
       />
       <div class="absolute inset-x-0 bottom-0 max-w-3xl mx-auto animate-[slideUp_0.2s_ease-out]">
         <CopticKeyboard
+          :preview="query"
+          preview-placeholder="Type Coptic…"
           @insert="onInsert"
           @backspace="onBackspace"
           @close="closeKeyboard"

@@ -6,6 +6,12 @@ import { JINKIM } from '../composables/useCopticTextInput.js'
 defineProps({
   /** Show the Hide control (for bottom-sheet usage). */
   showClose: { type: Boolean, default: true },
+  /**
+   * Live text shown above the keys so typing stays visible when the sheet
+   * covers the original field (modal / mobile). Omit on the Write page.
+   */
+  preview: { type: String, default: undefined },
+  previewPlaceholder: { type: String, default: '…' },
 })
 
 const emit = defineEmits(['insert', 'backspace', 'close'])
@@ -53,6 +59,23 @@ function toggleCapsLock() {
       >
         Hide
       </button>
+    </div>
+
+    <div
+      v-if="preview !== undefined"
+      class="mx-3 sm:mx-4 mb-2 rounded-lg border border-burgundy-100 bg-white px-3 py-2.5 min-h-[2.75rem] flex items-center"
+      aria-live="polite"
+    >
+      <p
+        class="font-coptic text-xl sm:text-2xl text-burgundy-900 whitespace-pre-wrap break-words w-full max-h-24 overflow-y-auto"
+        dir="auto"
+      >
+        <span v-if="preview.length">{{ preview }}</span>
+        <span v-else class="text-slate-400 font-sans text-sm">{{ previewPlaceholder }}</span><span
+          class="inline-block w-0.5 h-[1.1em] align-[-0.15em] ml-0.5 bg-burgundy-700 animate-pulse"
+          aria-hidden="true"
+        />
+      </p>
     </div>
 
     <div class="px-3 sm:px-4 pb-[max(0.75rem,env(safe-area-inset-bottom))] space-y-2">
