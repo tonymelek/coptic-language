@@ -1,12 +1,18 @@
 <script setup>
-import { computed, nextTick, onBeforeUnmount, ref, watch } from 'vue'
+import { computed, onBeforeUnmount, ref, watch } from 'vue'
 import CopticKeyboard from '../components/CopticKeyboard.vue'
 import DictionaryEntryResult from '../components/DictionaryEntryResult.vue'
 import { useCopticTextInput } from '../composables/useCopticTextInput.js'
 import { SEARCH_MODES, searchDictionary } from '../lib/dictionarySearch.js'
 
 const mode = ref('copticWord')
-const { text: query, textareaRef: inputRef, insertAtCursor, backspace } = useCopticTextInput('')
+const {
+  text: query,
+  textareaRef: inputRef,
+  insertAtCursor,
+  backspace,
+  syncCaretFromEl,
+} = useCopticTextInput('')
 const results = ref([])
 const loading = ref(false)
 const searched = ref(false)
@@ -51,6 +57,7 @@ function onSubmit(event) {
 
 function openKeyboard() {
   if (!isCopticMode.value) return
+  syncCaretFromEl()
   keyboardOpen.value = true
 }
 
@@ -59,10 +66,12 @@ function closeKeyboard() {
 }
 
 function onQueryFocus() {
+  syncCaretFromEl()
   if (isCopticMode.value) openKeyboard()
 }
 
 function onQueryClick() {
+  syncCaretFromEl()
   if (isCopticMode.value) openKeyboard()
 }
 
@@ -78,20 +87,12 @@ onBeforeUnmount(() => {
   document.body.classList.remove('overflow-hidden')
 })
 
-function refocusInput() {
-  nextTick(() => {
-    inputRef.value?.focus()
-  })
-}
-
 function onInsert(value) {
   insertAtCursor(value)
-  refocusInput()
 }
 
 function onBackspace() {
   backspace()
-  refocusInput()
 }
 </script>
 
@@ -171,6 +172,8 @@ function onBackspace() {
           "
           @focus="onQueryFocus"
           @click="onQueryClick"
+          @select="syncCaretFromEl"
+          @keyup="syncCaretFromEl"
         />
         <p v-if="isCopticMode" class="mt-2 text-xs text-slate-500">
           Tap the field to open the on-screen Coptic keyboard

@@ -16,13 +16,14 @@ const letters = computed(() =>
   COPTIC_LETTER_PAIRS.map(([upper, lower]) => (capsLock.value ? upper : lower)),
 )
 
-/** Keep caret in the textarea; don't let the button steal focus. */
-function keepFocus(e) {
+/**
+ * Act on pointerdown (mouse + touch). preventDefault keeps focus on the
+ * text field — using touchstart.prevent + click fails on mobile because
+ * prevented touchstarts suppress the synthetic click.
+ */
+function onKey(e, action) {
   e.preventDefault()
-}
-
-function insert(value) {
-  emit('insert', value)
+  action()
 }
 
 function toggleCapsLock() {
@@ -48,9 +49,7 @@ function toggleCapsLock() {
         v-if="showClose"
         type="button"
         class="shrink-0 px-3 h-9 rounded-lg border border-slate-300 bg-white text-sm font-semibold text-slate-700 shadow-sm hover:bg-burgundy-50 hover:border-burgundy-700 active:scale-95 transition"
-        @mousedown="keepFocus"
-        @touchstart.prevent="keepFocus"
-        @click="emit('close')"
+        @pointerdown="onKey($event, () => emit('close'))"
       >
         Hide
       </button>
@@ -62,10 +61,8 @@ function toggleCapsLock() {
           v-for="(letter, index) in letters"
           :key="index"
           type="button"
-          class="font-coptic min-w-[2.5rem] h-11 sm:h-12 px-1 rounded-lg border border-slate-300 bg-white text-xl sm:text-2xl text-burgundy-900 shadow-sm hover:bg-burgundy-50 hover:border-burgundy-700 active:scale-95 transition"
-          @mousedown="keepFocus"
-          @touchstart.prevent="keepFocus"
-          @click="insert(letter)"
+          class="font-coptic min-w-[2.5rem] h-11 sm:h-12 px-1 rounded-lg border border-slate-300 bg-white text-xl sm:text-2xl text-burgundy-900 shadow-sm hover:bg-burgundy-50 hover:border-burgundy-700 active:scale-95 transition select-none touch-manipulation"
+          @pointerdown="onKey($event, () => emit('insert', letter))"
         >
           {{ letter }}
         </button>
@@ -74,42 +71,34 @@ function toggleCapsLock() {
       <div class="flex flex-wrap gap-2 justify-center pt-1">
         <button
           type="button"
-          class="px-4 h-11 sm:h-12 rounded-lg border text-sm font-semibold shadow-sm active:scale-95 transition"
+          class="px-4 h-11 sm:h-12 rounded-lg border text-sm font-semibold shadow-sm active:scale-95 transition select-none touch-manipulation"
           :class="capsLock
             ? 'bg-burgundy-700 border-burgundy-700 text-white'
             : 'bg-white border-slate-300 text-slate-700 hover:bg-burgundy-50 hover:border-burgundy-700'"
-          @mousedown="keepFocus"
-          @touchstart.prevent="keepFocus"
-          @click="toggleCapsLock"
+          @pointerdown="onKey($event, toggleCapsLock)"
         >
           Caps Lock
         </button>
         <button
           type="button"
           title="Insert jinkim (combining grave)"
-          class="px-3 h-11 sm:h-12 rounded-lg border border-slate-300 bg-white text-sm font-semibold text-slate-700 shadow-sm hover:bg-burgundy-50 hover:border-burgundy-700 active:scale-95 transition inline-flex items-center gap-1.5"
-          @mousedown="keepFocus"
-          @touchstart.prevent="keepFocus"
-          @click="insert(JINKIM)"
+          class="px-3 h-11 sm:h-12 rounded-lg border border-slate-300 bg-white text-sm font-semibold text-slate-700 shadow-sm hover:bg-burgundy-50 hover:border-burgundy-700 active:scale-95 transition inline-flex items-center gap-1.5 select-none touch-manipulation"
+          @pointerdown="onKey($event, () => emit('insert', JINKIM))"
         >
           <span class="font-coptic text-xl leading-none" aria-hidden="true">ⲁ̀</span>
           <span>Jinkim</span>
         </button>
         <button
           type="button"
-          class="min-w-[8rem] h-11 sm:h-12 rounded-lg border border-slate-300 bg-white text-sm font-semibold text-slate-700 shadow-sm hover:bg-burgundy-50 hover:border-burgundy-700 active:scale-95 transition"
-          @mousedown="keepFocus"
-          @touchstart.prevent="keepFocus"
-          @click="insert(' ')"
+          class="min-w-[8rem] h-11 sm:h-12 rounded-lg border border-slate-300 bg-white text-sm font-semibold text-slate-700 shadow-sm hover:bg-burgundy-50 hover:border-burgundy-700 active:scale-95 transition select-none touch-manipulation"
+          @pointerdown="onKey($event, () => emit('insert', ' '))"
         >
           Space
         </button>
         <button
           type="button"
-          class="px-4 h-11 sm:h-12 rounded-lg border border-slate-300 bg-white text-sm font-semibold text-slate-700 shadow-sm hover:bg-burgundy-50 hover:border-burgundy-700 active:scale-95 transition"
-          @mousedown="keepFocus"
-          @touchstart.prevent="keepFocus"
-          @click="emit('backspace')"
+          class="px-4 h-11 sm:h-12 rounded-lg border border-slate-300 bg-white text-sm font-semibold text-slate-700 shadow-sm hover:bg-burgundy-50 hover:border-burgundy-700 active:scale-95 transition select-none touch-manipulation"
+          @pointerdown="onKey($event, () => emit('backspace'))"
         >
           ⌫
         </button>

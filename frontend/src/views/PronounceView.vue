@@ -1,11 +1,17 @@
 <script setup>
 import { pronounce } from 'coptic-pronounce'
-import { computed, nextTick, onBeforeUnmount, ref, watch } from 'vue'
+import { computed, onBeforeUnmount, ref, watch } from 'vue'
 import { RouterLink } from 'vue-router'
 import CopticKeyboard from '../components/CopticKeyboard.vue'
 import { useCopticTextInput } from '../composables/useCopticTextInput.js'
 
-const { text: input, textareaRef, insertAtCursor, backspace } = useCopticTextInput('ⲁⲙⲏⲛ')
+const {
+  text: input,
+  textareaRef,
+  insertAtCursor,
+  backspace,
+  syncCaretFromEl,
+} = useCopticTextInput('ⲁⲙⲏⲛ')
 const keyboardOpen = ref(false)
 
 /** Suppress the OS soft keyboard on touch phones; leave desktop editable. */
@@ -27,6 +33,7 @@ const english = computed(() => transliterate('en'))
 const arabic = computed(() => transliterate('ar'))
 
 function openKeyboard() {
+  syncCaretFromEl()
   keyboardOpen.value = true
 }
 
@@ -35,10 +42,12 @@ function closeKeyboard() {
 }
 
 function onTextareaFocus() {
+  syncCaretFromEl()
   openKeyboard()
 }
 
 function onTextareaClick() {
+  syncCaretFromEl()
   openKeyboard()
 }
 
@@ -50,20 +59,12 @@ onBeforeUnmount(() => {
   document.body.classList.remove('overflow-hidden')
 })
 
-function refocusTextarea() {
-  nextTick(() => {
-    textareaRef.value?.focus()
-  })
-}
-
 function onInsert(value) {
   insertAtCursor(value)
-  refocusTextarea()
 }
 
 function onBackspace() {
   backspace()
-  refocusTextarea()
 }
 </script>
 
@@ -107,6 +108,8 @@ function onBackspace() {
           placeholder="e.g. ⲡⲛⲟⲩϯ"
           @focus="onTextareaFocus"
           @click="onTextareaClick"
+          @select="syncCaretFromEl"
+          @keyup="syncCaretFromEl"
         />
         <p class="mt-2 text-xs text-slate-500">
           Tap the field to open the on-screen Coptic keyboard
