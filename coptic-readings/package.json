@@ -1,6 +1,6 @@
 {
   "name": "coptic-readings",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Day-round Coptic katamaros reading references for a given date (annual, Great Lent, Holy Fifty).",
   "license": "MIT",
   "author": "",
