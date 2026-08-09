@@ -3,10 +3,12 @@
         "day": "1 Tout",
         "vespers": {
             "psalm": "Psalms 96:1-2",
+            "psalm_coptic_ref": "Psalms 95:1-2",
             "gospel": "Matthew 13:44-52"
         },
         "matins": {
             "psalm": "Psalms 98:1",
+            "psalm_coptic_ref": "Psalms 97:1",
             "gospel": "Mark 2:18-22"
         },
         "liturgy": {
@@ -14,6 +16,7 @@
             "catholic": "1 John 2:7-17",
             "acts": "Acts 17:16-34",
             "psalm": "Psalms 65:11;Psalms 81:1",
+            "psalm_coptic_ref": "Psalms 64:11;Psalms 80:1",
             "gospel": "Luke 4:14-30"
         }
     },
@@ -21,10 +24,12 @@
         "day": "2 Tout",
         "vespers": {
             "psalm": "Psalms 52:8-9",
+            "psalm_coptic_ref": "Psalms 51:8-9",
             "gospel": "Matthew 14:1-12"
         },
         "matins": {
             "psalm": "Psalms 92:10;Psalms 92:14-15",
+            "psalm_coptic_ref": "Psalms 91:10;Psalms 91:14-15",
             "gospel": "Luke 9:7-12"
         },
         "liturgy": {
@@ -32,6 +37,7 @@
             "catholic": "James 5:9-20",
             "acts": "Acts 12:1-12",
             "psalm": "Psalms 92:12-13",
+            "psalm_coptic_ref": "Psalms 91:12-13",
             "gospel": "Mark 6:14-29"
         }
     },
@@ -39,10 +45,12 @@
         "day": "8 Tout",
         "vespers": {
             "psalm": "Psalms 105:14-15",
+            "psalm_coptic_ref": "Psalms 104:14-15",
             "gospel": "Luke 11:37-51"
         },
         "matins": {
             "psalm": "Psalms 105:26-27;Psalms 105:45",
+            "psalm_coptic_ref": "Psalms 104:26-27;Psalms 104:45",
             "gospel": "Matthew 17:1-9"
         },
         "liturgy": {
@@ -50,6 +58,7 @@
             "catholic": "2 Peter 1:19-21;2 Peter 2:1-8",
             "acts": "Acts 15:21-29",
             "psalm": "Psalms 99:6-7",
+            "psalm_coptic_ref": "Psalms 98:6-7",
             "gospel": "Matthew 23:13-36"
         }
     },
@@ -57,10 +66,12 @@
         "day": "16 Tout",
         "vespers": {
             "psalm": "Psalms 84:3-4",
+            "psalm_coptic_ref": "Psalms 83:3-4",
             "gospel": "Luke 7:1-10"
         },
         "matins": {
             "psalm": "Psalms 26:8;Psalms 26:7",
+            "psalm_coptic_ref": "Psalms 25:8;Psalms 25:7",
             "gospel": "Luke 19:1-10"
         },
         "liturgy": {
@@ -68,6 +79,7 @@
             "catholic": "1 Peter 2:1-10",
             "acts": "Acts 9:31-43",
             "psalm": "Psalms 65:1-2",
+            "psalm_coptic_ref": "Psalms 64:1-2",
             "gospel": "Matthew 16:13-19"
         }
     },
@@ -75,10 +87,12 @@
         "day": "17 Tout",
         "vespers": {
             "psalm": "Psalms 4:6-8",
+            "psalm_coptic_ref": "Psalms 4:6-8",
             "gospel": "John 8:28-42"
         },
         "matins": {
             "psalm": "Psalms 60:4-5",
+            "psalm_coptic_ref": "Psalms 59:4-5",
             "gospel": "John 12:26-36"
         },
         "liturgy": {
@@ -86,6 +100,7 @@
             "catholic": "1 Peter 2:11-25",
             "acts": "Acts 10:34-43",
             "psalm": "Psalms 65:1-2",
+            "psalm_coptic_ref": "Psalms 64:1-2",
             "gospel": "John 10:22-38"
         }
     },
@@ -93,10 +108,12 @@
         "day": "18 Tout",
         "vespers": {
             "psalm": "Psalms 99:9;Psalms 99:5",
+            "psalm_coptic_ref": "Psalms 98:9;Psalms 98:5",
             "gospel": "John 4:19-24"
         },
         "matins": {
             "psalm": "Psalms 118:28;Psalms 118:16",
+            "psalm_coptic_ref": "Psalms 117:28;Psalms 117:16",
             "gospel": "John 3:14-21"
         },
         "liturgy": {
@@ -104,6 +121,7 @@
             "catholic": "1 Peter 1:3-12",
             "acts": "Acts 4:8-18",
             "psalm": "Psalms 145:1-2",
+            "psalm_coptic_ref": "Psalms 144:1-2",
             "gospel": "John 6:35-46"
         }
     },
@@ -111,10 +129,12 @@
         "day": "19 Tout",
         "vespers": {
             "psalm": "Psalms 45:6;Psalms 45:17",
+            "psalm_coptic_ref": "Psalms 44:6;Psalms 44:17",
             "gospel": "Matthew 16:21-26"
         },
         "matins": {
             "psalm": "Psalms 74:2;Psalms 74:12",
+            "psalm_coptic_ref": "Psalms 73:2;Psalms 73:12",
             "gospel": "Mark 8:34-38;Mark 9:1"
         },
         "liturgy": {
@@ -122,6 +142,7 @@
             "catholic": "1 John 5:13-21",
             "acts": "Acts 3:12-21",
             "psalm": "Psalms 61:2-3;Psalms 61:5",
+            "psalm_coptic_ref": "Psalms 60:2-3;Psalms 60:5",
             "gospel": "Luke 14:25-35"
         }
     },
@@ -129,10 +150,12 @@
         "day": "21 Tout",
         "vespers": {
             "psalm": "Psalms 64:10",
+            "psalm_coptic_ref": "Psalms 63:10",
             "gospel": "Mark 4:21-25"
         },
         "matins": {
             "psalm": "Psalms 70:5",
+            "psalm_coptic_ref": "Psalms 69:5",
             "gospel": "Mark 3:22-27"
         },
         "liturgy": {
@@ -140,6 +163,7 @@
             "catholic": "1 John 2:7-11",
             "acts": "Acts 19:11-17",
             "psalm": "Psalms 16:10-11",
+            "psalm_coptic_ref": "Psalms 15:10-11",
             "gospel": "Mark 3:28-35"
         }
     },
@@ -147,10 +171,12 @@
         "day": "26 Tout",
         "vespers": {
             "psalm": "Psalms 9:11;Psalms 9:14",
+            "psalm_coptic_ref": "Psalms 9:11;Psalms 9:14",
             "gospel": "Mark 14:3-9"
         },
         "matins": {
             "psalm": "Psalms 102:19-21",
+            "psalm_coptic_ref": "Psalms 101:19-21",
             "gospel": "Mark 12:41-44"
         },
         "liturgy": {
@@ -158,6 +184,7 @@
             "catholic": "James 1:1-18",
             "acts": "Acts 7:2-7",
             "psalm": "Psalms 102:13;Psalms 102:16-17",
+            "psalm_coptic_ref": "Psalms 101:13;Psalms 101:16-17",
             "gospel": "Luke 1:1-25"
         }
     },
@@ -165,10 +192,12 @@
         "day": "12 Baba",
         "vespers": {
             "psalm": "Psalms 22:22-23",
+            "psalm_coptic_ref": "Psalms 21:22-23",
             "gospel": "Matthew 9:9-13"
         },
         "matins": {
             "psalm": "Psalms 40:9-10",
+            "psalm_coptic_ref": "Psalms 39:9-10",
             "gospel": "Mark 2:13-17"
         },
         "liturgy": {
@@ -176,6 +205,7 @@
             "catholic": "1 Peter 1:3-12",
             "acts": "Acts 5:12-18",
             "psalm": "Psalms 68:11-12",
+            "psalm_coptic_ref": "Psalms 67:11-12",
             "gospel": "Luke 5:27-32"
         }
     },
@@ -183,10 +213,12 @@
         "day": "14 Baba",
         "vespers": {
             "psalm": "Psalms 68:3;Psalms 68:35",
+            "psalm_coptic_ref": "Psalms 67:3;Psalms 67:35",
             "gospel": "Luke 10:1-20"
         },
         "matins": {
             "psalm": "Psalms 145:10-12",
+            "psalm_coptic_ref": "Psalms 144:10-12",
             "gospel": "John 1:43-51"
         },
         "liturgy": {
@@ -194,6 +226,7 @@
             "catholic": "1 John 5:5-13",
             "acts": "Acts 8:26-39",
             "psalm": "Psalms 32:1-2",
+            "psalm_coptic_ref": "Psalms 31:1-2",
             "gospel": "John 3:1-21"
         }
     },
@@ -201,10 +234,12 @@
         "day": "22 Baba",
         "vespers": {
             "psalm": "Psalms 105:1-3",
+            "psalm_coptic_ref": "Psalms 104:1-3",
             "gospel": "Luke 9:1-6"
         },
         "matins": {
             "psalm": "Psalms 68:24;Psalms 68:26",
+            "psalm_coptic_ref": "Psalms 67:24;Psalms 67:26",
             "gospel": "Luke 17:5-10"
         },
         "liturgy": {
@@ -212,6 +247,7 @@
             "catholic": "1 Peter 3:15-22",
             "acts": "Acts 1:1-14",
             "psalm": "Psalms 96:2-3",
+            "psalm_coptic_ref": "Psalms 95:2-3",
             "gospel": "Luke 10:1-20"
         }
     },
@@ -219,10 +255,12 @@
         "day": "27 Baba",
         "vespers": {
             "psalm": "Psalms 112:1-2",
+            "psalm_coptic_ref": "Psalms 111:1-2",
             "gospel": "Matthew 25:14-23"
         },
         "matins": {
             "psalm": "Psalms 132:1-2;Psalms 132:9-10",
+            "psalm_coptic_ref": "Psalms 131:1-2;Psalms 131:9-10",
             "gospel": "Luke 6:17-23"
         },
         "liturgy": {
@@ -230,6 +268,7 @@
             "catholic": "James 1:12-21",
             "acts": "Acts 19:11-20",
             "psalm": "Psalms 1:1",
+            "psalm_coptic_ref": "Psalms 1:1",
             "gospel": "Matthew 4:23-25;Matthew 5:1-16"
         }
     },
@@ -237,10 +276,12 @@
         "day": "8 Hator",
         "vespers": {
             "psalm": "Psalms 68:17",
+            "psalm_coptic_ref": "Psalms 67:17",
             "gospel": "Mark 8:34-38;Mark 9:1"
         },
         "matins": {
             "psalm": "Psalms 33:6;Psalms 33:9",
+            "psalm_coptic_ref": "Psalms 32:6;Psalms 32:9",
             "gospel": "John 12:26-36"
         },
         "liturgy": {
@@ -248,6 +289,7 @@
             "catholic": "1 Peter 3:15-22",
             "acts": "Acts 11:2-14",
             "psalm": "Psalms 80:1-3",
+            "psalm_coptic_ref": "Psalms 79:1-3",
             "gospel": "John 1:43-51"
         }
     },
@@ -255,10 +297,12 @@
         "day": "9 Hator",
         "vespers": {
             "psalm": "Psalms 32:11;Psalms 32:6",
+            "psalm_coptic_ref": "Psalms 31:11;Psalms 31:6",
             "gospel": "Matthew 25:14-23"
         },
         "matins": {
             "psalm": "Psalms 112:1-2",
+            "psalm_coptic_ref": "Psalms 111:1-2",
             "gospel": "Luke 6:17-23"
         },
         "liturgy": {
@@ -266,6 +310,7 @@
             "catholic": "1 Peter 1:3-12",
             "acts": "Acts 11:15-24",
             "psalm": "Psalms 19:4;Psalms 132:9-10",
+            "psalm_coptic_ref": "Psalms 18:4;Psalms 131:9-10",
             "gospel": "Matthew 16:13-19"
         }
     },
@@ -273,10 +318,12 @@
         "day": "12 Hator",
         "vespers": {
             "psalm": "Psalms 148:1-2",
+            "psalm_coptic_ref": "Psalms 148:1-2",
             "gospel": "Matthew 13:44-52"
         },
         "matins": {
             "psalm": "Psalms 104:4;Psalms 104:3",
+            "psalm_coptic_ref": "Psalms 103:4;Psalms 103:3",
             "gospel": "Luke 15:3-10"
         },
         "liturgy": {
@@ -284,6 +331,7 @@
             "catholic": "Jude 1:1-13",
             "acts": "Acts 10:1-20",
             "psalm": "Psalms 103:20-21",
+            "psalm_coptic_ref": "Psalms 102:20-21",
             "gospel": "Matthew 13:24-43"
         }
     },
@@ -291,10 +339,12 @@
         "day": "15 Hator",
         "vespers": {
             "psalm": "Psalms 68:35;Psalms 68:3",
+            "psalm_coptic_ref": "Psalms 67:35;Psalms 67:3",
             "gospel": "Matthew 10:16-23"
         },
         "matins": {
             "psalm": "Psalms 97:11-12",
+            "psalm_coptic_ref": "Psalms 96:11-12",
             "gospel": "Mark 13:9-13"
         },
         "liturgy": {
@@ -302,6 +352,7 @@
             "catholic": "1 Peter 4:12-19",
             "acts": "Acts 7:44-60;Acts 8:1",
             "psalm": "Psalms 34:19-20",
+            "psalm_coptic_ref": "Psalms 33:19-20",
             "gospel": "Luke 11:53-12:12"
         }
     },
@@ -309,10 +360,12 @@
         "day": "17 Hator",
         "vespers": {
             "psalm": "Psalms 132:9-10;Psalms 132:17-18",
+            "psalm_coptic_ref": "Psalms 131:9-10;Psalms 131:17-18",
             "gospel": "Matthew 4:23-25;Matthew 5:1-16"
         },
         "matins": {
             "psalm": "Psalms 110:4-5;Psalms 110:7",
+            "psalm_coptic_ref": "Psalms 109:4-5;Psalms 109:7",
             "gospel": "Luke 6:17-23"
         },
         "liturgy": {
@@ -320,6 +373,7 @@
             "catholic": "1 Peter 5:1-14",
             "acts": "Acts 20:17-38",
             "psalm": "Psalms 73:23-24: Psalms 73:28",
+            "psalm_coptic_ref": "Psalms 72:23-24: Psalms 73:28",
             "gospel": "John 10:1-16"
         }
     },
@@ -327,10 +381,12 @@
         "day": "22 Hator",
         "vespers": {
             "psalm": "Psalms 4:3;Psalms4:6-7",
+            "psalm_coptic_ref": "Psalms 4:3;Psalms4:6-7",
             "gospel": "Matthew 10:24-33"
         },
         "matins": {
             "psalm": "Psalms 113:1-2",
+            "psalm_coptic_ref": "Psalms 112:1-2",
             "gospel": "Mark 8:34-38;Mark 9:1"
         },
         "liturgy": {
@@ -338,6 +394,7 @@
             "catholic": "1 Peter 2:11-17",
             "acts": "Acts 19:11-20",
             "psalm": "Psalms 66:12-14",
+            "psalm_coptic_ref": "Psalms 65:12-14",
             "gospel": "Luke 21:12-19"
         }
     },
@@ -345,10 +402,12 @@
         "day": "24 Hator",
         "vespers": {
             "psalm": "Psalms 97:7-8",
+            "psalm_coptic_ref": "Psalms 96:7-8",
             "gospel": "Matthew 11:25-30"
         },
         "matins": {
             "psalm": "Psalms 138:1-2",
+            "psalm_coptic_ref": "Psalms 137:1-2",
             "gospel": "Matthew 12:1-8"
         },
         "liturgy": {
@@ -356,6 +415,7 @@
             "catholic": "1 Peter 5:1-14",
             "acts": "Acts 15:6-12",
             "psalm": "Psalms 132:9-10;Psalms 132:17-18",
+            "psalm_coptic_ref": "Psalms 131:9-10;Psalms 131:17-18",
             "gospel": "John 1:1-17"
         }
     },
@@ -363,10 +423,12 @@
         "day": "25 Hator",
         "vespers": {
             "psalm": "Psalms 18:34;Psalms 18:39",
+            "psalm_coptic_ref": "Psalms 17:34;Psalms 17:39",
             "gospel": "Matthew 8:5-13"
         },
         "matins": {
             "psalm": "Psalms 68:35;Psalms 68:3",
+            "psalm_coptic_ref": "Psalms 67:35;Psalms 67:3",
             "gospel": "Luke 12:4-12"
         },
         "liturgy": {
@@ -374,6 +436,7 @@
             "catholic": "1 Peter 4:1-11",
             "acts": "Acts 12:25-13:12",
             "psalm": "Psalms 45:3-4",
+            "psalm_coptic_ref": "Psalms 44:3-4",
             "gospel": "Matthew 12:9-23"
         }
     },
@@ -381,10 +444,12 @@
         "day": "27 Hator",
         "vespers": {
             "psalm": "Psalms 46:1;Psalms 46:7",
+            "psalm_coptic_ref": "Psalms 45:1;Psalms 45:7",
             "gospel": "Mark 1:16-22"
         },
         "matins": {
             "psalm": "Psalms 146:1;Psalms 146:5",
+            "psalm_coptic_ref": "Psalms 145:1;Psalms 145:5",
             "gospel": "Matthew 4:18-22"
         },
         "liturgy": {
@@ -392,6 +457,7 @@
             "catholic": "James 1:1-12",
             "acts": "Acts 15:13-21",
             "psalm": "Psalms 78:5;Psalms 135:5",
+            "psalm_coptic_ref": "Psalms 77:5;Psalms 134:5",
             "gospel": "Mark 10:35-45"
         }
     },
@@ -399,10 +465,12 @@
         "day": "28 Hator",
         "vespers": {
             "psalm": "Psalms 89:19-21",
+            "psalm_coptic_ref": "Psalms 88:19-21",
             "gospel": "Matthew 10:34-42"
         },
         "matins": {
             "psalm": "Psalms 132:9-10;Psalms 132:17-18",
+            "psalm_coptic_ref": "Psalms 131:9-10;Psalms 131:17-18",
             "gospel": "Luke 6:17-23"
         },
         "liturgy": {
@@ -410,6 +478,7 @@
             "catholic": "3 John 1:1-14",
             "acts": "Acts 15:36-16:5",
             "psalm": "Psalms 99:6-7",
+            "psalm_coptic_ref": "Psalms 98:6-7",
             "gospel": "John 16:20-33"
         }
     },
@@ -417,10 +486,12 @@
         "day": "29 Hator",
         "vespers": {
             "psalm": "Psalms 89:36;Psalms 89:29",
+            "psalm_coptic_ref": "Psalms 88:36;Psalms 88:29",
             "gospel": "Luke 9:18-27"
         },
         "matins": {
             "psalm": "Psalms 107:32;Psalms 107:41-42",
+            "psalm_coptic_ref": "Psalms 106:32;Psalms 106:41-42",
             "gospel": "Mark 8:22-29"
         },
         "liturgy": {
@@ -428,6 +499,7 @@
             "catholic": "1 Peter 1:1-9",
             "acts": "Acts 12:1-24",
             "psalm": "Psalms 110:4-5;Psalms 110:7",
+            "psalm_coptic_ref": "Psalms 109:4-5;Psalms 109:7",
             "gospel": "Matthew 16:13-19"
         }
     },
@@ -435,10 +507,12 @@
         "day": "22 Kiahk",
         "vespers": {
             "psalm": "Psalms 34:7-8",
+            "psalm_coptic_ref": "Psalms 33:7-8",
             "gospel": "Matthew 16:24-28"
         },
         "matins": {
             "psalm": "Psalms 97:7-8",
+            "psalm_coptic_ref": "Psalms 96:7-8",
             "gospel": "Matthew 18:10-20"
         },
         "liturgy": {
@@ -446,6 +520,7 @@
             "catholic": "1 Peter 1:3-12",
             "acts": "Acts 10:21-33",
             "psalm": "Psalms 138:1-2",
+            "psalm_coptic_ref": "Psalms 137:1-2",
             "gospel": "Luke 1:26-38"
         }
     },
@@ -453,10 +528,12 @@
         "day": "28 Kiahk",
         "vespers": {
             "psalm": "Psalms 50:2;Psalms 50:23",
+            "psalm_coptic_ref": "Psalms 49:2;Psalms 49:23",
             "gospel": "Matthew 1:1-17"
         },
         "matins": {
             "psalm": "Psalms 76:1-2",
+            "psalm_coptic_ref": "Psalms 75:1-2",
             "gospel": "Matthew 1:18-25"
         },
         "liturgy": {
@@ -464,6 +541,7 @@
             "catholic": "1 John 4:1-14",
             "acts": "Acts 13:13-25",
             "psalm": "Psalms 110:3",
+            "psalm_coptic_ref": "Psalms 109:3",
             "gospel": "Luke 2:1-20"
         }
     },
@@ -471,10 +549,12 @@
         "day": "29 Kiahk",
         "vespers": {
             "psalm": "Psalms 72:10",
+            "psalm_coptic_ref": "Psalms 71:10",
             "gospel": "Luke 3:23-38"
         },
         "matins": {
             "psalm": "Psalms 72:15",
+            "psalm_coptic_ref": "Psalms 71:15",
             "gospel": "John 1:14-17"
         },
         "liturgy": {
@@ -482,6 +562,7 @@
             "catholic": "2 Peter 1:12-17",
             "acts": "Acts 13:26-33",
             "psalm": "Psalms 2:7-8",
+            "psalm_coptic_ref": "Psalms 2:7-8",
             "gospel": "Matthew 2:1-12"
         }
     },
@@ -489,10 +570,12 @@
         "day": "30 Kiahk",
         "vespers": {
             "psalm": "Psalms 72:1-2",
+            "psalm_coptic_ref": "Psalms 71:1-2",
             "gospel": "Matthew 12:15-23"
         },
         "matins": {
             "psalm": "Psalms 72:11;Psalms 72:19",
+            "psalm_coptic_ref": "Psalms 71:11;Psalms 71:19",
             "gospel": "Matthew 22:41-46"
         },
         "liturgy": {
@@ -500,6 +583,7 @@
             "catholic": "1 John 4:15-21;1 John 5:1-4",
             "acts": "Acts 13:36-43",
             "psalm": "Psalms 72:17",
+            "psalm_coptic_ref": "Psalms 71:17",
             "gospel": "John 1:1-13"
         }
     },
@@ -507,10 +591,12 @@
         "day": "1 Toba",
         "vespers": {
             "psalm": "Psalms 5:11-12",
+            "psalm_coptic_ref": "Psalms 5:11-12",
             "gospel": "Matthew 10:24-33"
         },
         "matins": {
             "psalm": "Psalms 34:19-20",
+            "psalm_coptic_ref": "Psalms 33:19-20",
             "gospel": "John 12:20-26"
         },
         "liturgy": {
@@ -518,6 +604,7 @@
             "catholic": "1 Peter 1:25;1 Peter 2:1-10",
             "acts": "Acts 6:1-15;Acts 7:1-2",
             "psalm": "Psalms 21:3;Psalms 21:5",
+            "psalm_coptic_ref": "Psalms 20:3;Psalms 20:5",
             "gospel": "Luke 10:1-20"
         }
     },
@@ -525,10 +612,12 @@
         "day": "3 Toba",
         "vespers": {
             "psalm": "Psalms 115:12-13",
+            "psalm_coptic_ref": "Psalms 113:12-13",
             "gospel": "Matthew 18:1-7"
         },
         "matins": {
             "psalm": "Psalms 119:130;Psalms 119:141",
+            "psalm_coptic_ref": "Psalms 118:130;Psalms 118:141",
             "gospel": "Matthew 18:10-20"
         },
         "liturgy": {
@@ -536,6 +625,7 @@
             "catholic": "1 Peter 1:25;1 Peter 2:1-10",
             "acts": "Acts 9:22-30",
             "psalm": "Psalms 113:1-2",
+            "psalm_coptic_ref": "Psalms 112:1-2",
             "gospel": "Matthew 2:13-23"
         }
     },
@@ -543,10 +633,12 @@
         "day": "4 Toba",
         "vespers": {
             "psalm": "Psalms 19:1;Psalms 19:4",
+            "psalm_coptic_ref": "Psalms 18:1;Psalms 18:4",
             "gospel": "John 15:7-16"
         },
         "matins": {
             "psalm": "Psalms 45:1-2",
+            "psalm_coptic_ref": "Psalms 44:1-2",
             "gospel": "John 1:1-17"
         },
         "liturgy": {
@@ -554,6 +646,7 @@
             "catholic": "1 John 1:1-10;1 John 2:1-6",
             "acts": "Acts 3:1-16",
             "psalm": "Psalms 139:17-18",
+            "psalm_coptic_ref": "Psalms 138:17-18",
             "gospel": "John 21:15-25"
         }
     },
@@ -561,10 +654,12 @@
         "day": "6 Toba",
         "vespers": {
             "psalm": "Psalms 116:16-19",
+            "psalm_coptic_ref": "Psalms 114:16-19",
             "gospel": "Luke 2:15-20"
         },
         "matins": {
             "psalm": "Psalms 66:13-15",
+            "psalm_coptic_ref": "Psalms 65:13-15",
             "gospel": "Luke 2:40-52"
         },
         "liturgy": {
@@ -572,6 +667,7 @@
             "catholic": "2 Peter 1:12-21",
             "acts": "Acts 15:13-21",
             "psalm": "Psalms 50:14;Psalms 50:23",
+            "psalm_coptic_ref": "Psalms 49:14;Psalms 49:23",
             "gospel": "Luke 2:21-39"
         }
     },
@@ -579,10 +675,12 @@
         "day": "10 Toba",
         "vespers": {
             "psalm": "Psalms 42:2;Psalms 42:11",
+            "psalm_coptic_ref": "Psalms 41:2;Psalms 41:11",
             "gospel": "Matthew 4:12-22"
         },
         "matins": {
             "psalm": "Psalms 42:7-8",
+            "psalm_coptic_ref": "Psalms 41:7-8",
             "gospel": "John 3:22-29"
         },
         "liturgy": {
@@ -590,6 +688,7 @@
             "catholic": "2 Peter 1:12-19",
             "acts": "Acts 16:25-34",
             "psalm": "Psalms 45:2",
+            "psalm_coptic_ref": "Psalms 44:2",
             "gospel": "Luke 3:1-18"
         }
     },
@@ -597,10 +696,12 @@
         "day": "11 Toba",
         "vespers": {
             "psalm": "Psalms 42:6;Psalms 42:11",
+            "psalm_coptic_ref": "Psalms 41:6;Psalms 41:11",
             "gospel": "Matthew 3:1-12"
         },
         "matins": {
             "psalm": "Psalms 29:3-4",
+            "psalm_coptic_ref": "Psalms 28:3-4",
             "gospel": "Mark 1:1-11"
         },
         "liturgy": {
@@ -608,6 +709,7 @@
             "catholic": "1 John 5:5-21",
             "acts": "Acts 18:24-19:6",
             "psalm": "Psalms 118:26;Psalms 118:28",
+            "psalm_coptic_ref": "Psalms 117:26;Psalms 117:28",
             "gospel": "John 1:18-34"
         }
     },
@@ -615,10 +717,12 @@
         "day": "12 Toba",
         "vespers": {
             "psalm": "Psalms 42:1;Psalms 42:6",
+            "psalm_coptic_ref": "Psalms 41:1;Psalms 41:6",
             "gospel": "Luke 3:21-22"
         },
         "matins": {
             "psalm": "Psalms 34:11;Psalms 34:5",
+            "psalm_coptic_ref": "Psalms 33:11;Psalms 33:5",
             "gospel": "Matthew 3:13-17"
         },
         "liturgy": {
@@ -626,6 +730,7 @@
             "catholic": "1 Peter 3:15-22",
             "acts": "Acts 8:26-39",
             "psalm": "Psalms 104:1-2",
+            "psalm_coptic_ref": "Psalms 103:1-2",
             "gospel": "John 1:35-51"
         }
     },
@@ -633,10 +738,12 @@
         "day": "13 Toba",
         "vespers": {
             "psalm": "Psalms 4:7-8",
+            "psalm_coptic_ref": "Psalms 4:7-8",
             "gospel": "Matthew 19:1-12"
         },
         "matins": {
             "psalm": "Psalms 104:15;Psalms 104:24",
+            "psalm_coptic_ref": "Psalms 103:15;Psalms 103:24",
             "gospel": "John 4:43-54"
         },
         "liturgy": {
@@ -644,6 +751,7 @@
             "catholic": "1 John 2:20-25",
             "acts": "Acts 8:3-13",
             "psalm": "Psalms 77:14-16",
+            "psalm_coptic_ref": "Psalms 76:14-16",
             "gospel": "John 2:1-11"
         }
     },
@@ -651,10 +759,12 @@
         "day": "22 Toba",
         "vespers": {
             "psalm": "Psalms 32:11;Psalms 32:6;Psalms 33:1",
+            "psalm_coptic_ref": "Psalms 31:11;Psalms 31:6;Psalms 32:1",
             "gospel": "Matthew 25:14-23"
         },
         "matins": {
             "psalm": "Psalms 33:1;Psalms 33:12",
+            "psalm_coptic_ref": "Psalms 32:1;Psalms 32:12",
             "gospel": "Luke 19:11-19"
         },
         "liturgy": {
@@ -662,6 +772,7 @@
             "catholic": "James 5:9-20",
             "acts": "Acts 11:19-26",
             "psalm": "Psalms 34:19;Psalms 68:3",
+            "psalm_coptic_ref": "Psalms 33:19;Psalms 67:3",
             "gospel": "Luke 12:32-44"
         }
     },
@@ -669,10 +780,12 @@
         "day": "26 Toba",
         "vespers": {
             "psalm": "Psalms 32:11;Psalms 32:6;Psalms 33:1",
+            "psalm_coptic_ref": "Psalms 31:11;Psalms 31:6;Psalms 32:1",
             "gospel": "Matthew 10:34-42"
         },
         "matins": {
             "psalm": "Psalms 33:1;Psalms 33:12",
+            "psalm_coptic_ref": "Psalms 32:1;Psalms 32:12",
             "gospel": "Luke 6:17-23"
         },
         "liturgy": {
@@ -680,6 +793,7 @@
             "catholic": "1 Peter 4:12-19",
             "acts": "Acts 8:3-13",
             "psalm": "Psalms 34:19-20",
+            "psalm_coptic_ref": "Psalms 33:19-20",
             "gospel": "Matthew 4:23-25;Matthew 5:1-16"
         }
     },
@@ -687,10 +801,12 @@
         "day": "30 Toba",
         "vespers": {
             "psalm": "Psalms 68:25-26",
+            "psalm_coptic_ref": "Psalms 67:25-26",
             "gospel": "Matthew 26:6-13"
         },
         "matins": {
             "psalm": "Psalms 8:2-3",
+            "psalm_coptic_ref": "Psalms 8:2-3",
             "gospel": "John 4:15-24"
         },
         "liturgy": {
@@ -698,6 +814,7 @@
             "catholic": "1 Peter 3:5-14",
             "acts": "Acts 21:5-14",
             "psalm": "Psalms 45:14-15",
+            "psalm_coptic_ref": "Psalms 44:14-15",
             "gospel": "Matthew 25:1-13"
         }
     },
@@ -705,10 +822,12 @@
         "day": "2 Amshir",
         "vespers": {
             "psalm": "Psalms 32:11;Psalms 32:6",
+            "psalm_coptic_ref": "Psalms 31:11;Psalms 31:6",
             "gospel": "Luke 22:24-30"
         },
         "matins": {
             "psalm": "Psalms 33:1;Psalms 33:12",
+            "psalm_coptic_ref": "Psalms 32:1;Psalms 32:12",
             "gospel": "Matthew 25:14-23"
         },
         "liturgy": {
@@ -716,6 +835,7 @@
             "catholic": "1 Peter 5:1-14",
             "acts": "Acts 15:12-21",
             "psalm": "Psalms 132:9-10;Psalms 132:1-2",
+            "psalm_coptic_ref": "Psalms 131:9-10;Psalms 131:1-2",
             "gospel": "Mark 9:33-41"
         }
     },
@@ -723,10 +843,12 @@
         "day": "13 Baramhat",
         "vespers": {
             "psalm": "Psalms 34:19-20",
+            "psalm_coptic_ref": "Psalms 33:19-20",
             "gospel": "Matthew 16:24-28"
         },
         "matins": {
             "psalm": "Psalms 37:39-40",
+            "psalm_coptic_ref": "Psalms 36:39-40",
             "gospel": "Mark 13:9-13"
         },
         "liturgy": {
@@ -734,6 +856,7 @@
             "catholic": "1 Peter 4:1-11",
             "acts": "Acts 12:25-13:12",
             "psalm": "Psalms 97:11-12",
+            "psalm_coptic_ref": "Psalms 96:11-12",
             "gospel": "Luke 11:53-12:12"
         }
     },
@@ -741,10 +864,12 @@
         "day": "29 Baramhat",
         "vespers": {
             "psalm": "Psalms 144:5;Psalms 144:7",
+            "psalm_coptic_ref": "Psalms 143:5;Psalms 143:7",
             "gospel": "Luke 7:36-50"
         },
         "matins": {
             "psalm": "Psalms 72:6-7",
+            "psalm_coptic_ref": "Psalms 71:6-7",
             "gospel": "Luke 11:20-28"
         },
         "liturgy": {
@@ -752,6 +877,7 @@
             "catholic": "1 John 1:1-10;1 John 2:1-6",
             "acts": "Acts 7:23-34",
             "psalm": "Psalms 45:10-11",
+            "psalm_coptic_ref": "Psalms 44:10-11",
             "gospel": "Luke 1:26-38"
         }
     },
@@ -759,10 +885,12 @@
         "day": "23 Baramouda",
         "vespers": {
             "psalm": "Psalms 34:17-18",
+            "psalm_coptic_ref": "Psalms 33:17-18",
             "gospel": "Matthew 10:16-22"
         },
         "matins": {
             "psalm": "Psalms 34:19-20",
+            "psalm_coptic_ref": "Psalms 33:19-20",
             "gospel": "Mark 8:34-38;Mark 9:1"
         },
         "liturgy": {
@@ -770,6 +898,7 @@
             "catholic": "1 Peter 4:1-11",
             "acts": "Acts 16:16-34",
             "psalm": "Psalms 97:11-12",
+            "psalm_coptic_ref": "Psalms 96:11-12",
             "gospel": "Luke 21:12-19"
         }
     },
@@ -777,10 +906,12 @@
         "day": "27 Baramouda",
         "vespers": {
             "psalm": "Psalms 4:6-8",
+            "psalm_coptic_ref": "Psalms 4:6-8",
             "gospel": "Matthew 16:24-28"
         },
         "matins": {
             "psalm": "Psalms 5:11-12",
+            "psalm_coptic_ref": "Psalms 5:11-12",
             "gospel": "Matthew 10:34-42"
         },
         "liturgy": {
@@ -788,6 +919,7 @@
             "catholic": "1 Peter 3:8-15",
             "acts": "Acts 19:23-41",
             "psalm": "Psalms 68:35;Psalms 68:3",
+            "psalm_coptic_ref": "Psalms 67:35;Psalms 67:3",
             "gospel": "Luke 12:4-12"
         }
     },
@@ -795,10 +927,12 @@
         "day": "30 Baramouda",
         "vespers": {
             "psalm": "Psalms 40:9;Psalms 40:2",
+            "psalm_coptic_ref": "Psalms 39:9;Psalms 39:2",
             "gospel": "Mark 6:6-13"
         },
         "matins": {
             "psalm": "Psalms 105:1-3",
+            "psalm_coptic_ref": "Psalms 104:1-3",
             "gospel": "Mark 10:17-30"
         },
         "liturgy": {
@@ -806,6 +940,7 @@
             "catholic": "1 Peter 5:1-14",
             "acts": "Acts 15:36-16:5",
             "psalm": "Psalms 96:1-2",
+            "psalm_coptic_ref": "Psalms 95:1-2",
             "gospel": "Mark 1:1-11"
         }
     },
@@ -813,10 +948,12 @@
         "day": "1 Bashans",
         "vespers": {
             "psalm": "Psalms 87:3;Psalms 87:5;Psalms 87:7",
+            "psalm_coptic_ref": "Psalms 86:3;Psalms 86:5;Psalms 86:7",
             "gospel": "Luke 10:38-42"
         },
         "matins": {
             "psalm": "Psalms 48:8;Psalms 48:1",
+            "psalm_coptic_ref": "Psalms 47:8;Psalms 47:1",
             "gospel": "Matthew 12:35-50"
         },
         "liturgy": {
@@ -824,6 +961,7 @@
             "catholic": "2 John 1:1-13",
             "acts": "Acts 1:1-14",
             "psalm": "Psalms 45:12-13",
+            "psalm_coptic_ref": "Psalms 44:12-13",
             "gospel": "Luke 1:39-56"
         }
     },
@@ -831,10 +969,12 @@
         "day": "10 Bashans",
         "vespers": {
             "psalm": "Psalms 4:3;Psalms 4:6-7",
+            "psalm_coptic_ref": "Psalms 4:3;Psalms 4:6-7",
             "gospel": "Matthew 11:25-30"
         },
         "matins": {
             "psalm": "Psalms 113:1-2",
+            "psalm_coptic_ref": "Psalms 112:1-2",
             "gospel": "Mark 10:13-16"
         },
         "liturgy": {
@@ -842,6 +982,7 @@
             "catholic": "1 Peter 4:12-19",
             "acts": "Acts 19:23-41",
             "psalm": "Psalms 66:12-14",
+            "psalm_coptic_ref": "Psalms 65:12-14",
             "gospel": "Matthew 18:10-20"
         }
     },
@@ -849,10 +990,12 @@
         "day": "20 Bashans",
         "vespers": {
             "psalm": "Psalms 65:4-5",
+            "psalm_coptic_ref": "Psalms 64:4-5",
             "gospel": "Matthew 24:42-47"
         },
         "matins": {
             "psalm": "Psalms 37:17-18;Psalms 37:29",
+            "psalm_coptic_ref": "Psalms 36:17-18;Psalms 36:29",
             "gospel": "Mark 13:33-37"
         },
         "liturgy": {
@@ -860,6 +1003,7 @@
             "catholic": "1 Peter 5:5-14",
             "acts": "Acts 18:24-19:6",
             "psalm": "Psalms 37:30-31",
+            "psalm_coptic_ref": "Psalms 36:30-31",
             "gospel": "Luke 16:1-12"
         }
     },
@@ -867,10 +1011,12 @@
         "day": "24 Bashans",
         "vespers": {
             "psalm": "Psalms 105:23;Psalms 105:27",
+            "psalm_coptic_ref": "Psalms 104:23;Psalms 104:27",
             "gospel": "Matthew 4:12-17"
         },
         "matins": {
             "psalm": "Psalms 106:21-22;Psalms 106:4",
+            "psalm_coptic_ref": "Psalms 105:21-22;Psalms 105:4",
             "gospel": "Matthew 12:15-23"
         },
         "liturgy": {
@@ -878,6 +1024,7 @@
             "catholic": "1 John 4:7-19",
             "acts": "Acts 7:20-34",
             "psalm": "Psalms 105:36;Psalms 105:38",
+            "psalm_coptic_ref": "Psalms 104:36;Psalms 104:38",
             "gospel": "Matthew 2:13-23"
         }
     },
@@ -885,10 +1032,12 @@
         "day": "26 Bashans",
         "vespers": {
             "psalm": "Psalms 68:11;Psalms 68:35",
+            "psalm_coptic_ref": "Psalms 67:11;Psalms 67:35",
             "gospel": "Mark 3:7-21"
         },
         "matins": {
             "psalm": "Psalms 145:10-12",
+            "psalm_coptic_ref": "Psalms 144:10-12",
             "gospel": "Luke 6:12-23"
         },
         "liturgy": {
@@ -896,6 +1045,7 @@
             "catholic": "2 Peter 1:12-21",
             "acts": "Acts 3:1-16",
             "psalm": "Psalms 19:1;Psalms 19:4",
+            "psalm_coptic_ref": "Psalms 18:1;Psalms 18:4",
             "gospel": "John 20:24-31"
         }
     },
@@ -903,10 +1053,12 @@
         "day": "2 Paona",
         "vespers": {
             "psalm": "Psalms 35:10;Psalms 35:27",
+            "psalm_coptic_ref": "Psalms 34:10;Psalms 34:27",
             "gospel": "Luke 7:18-28"
         },
         "matins": {
             "psalm": "Psalms 51:8;Psalms 51:19",
+            "psalm_coptic_ref": "Psalms 50:8;Psalms 50:19",
             "gospel": "John 3:25-36"
         },
         "liturgy": {
@@ -914,6 +1066,7 @@
             "catholic": "1 Peter 1:25;1 Peter 2:1-10",
             "acts": "Acts 13:25-33",
             "psalm": "Psalms 34:20;Psalms 34:15",
+            "psalm_coptic_ref": "Psalms 33:20;Psalms 33:15",
             "gospel": "Matthew 11:2-10"
         }
     },
@@ -921,10 +1074,12 @@
         "day": "16 Paona",
         "vespers": {
             "psalm": "Psalms 112:6-7;Psalms 112:9",
+            "psalm_coptic_ref": "Psalms 111:6-7;Psalms 111:9",
             "gospel": "Matthew 24:42-47"
         },
         "matins": {
             "psalm": "Psalms 92:10;Psalms 92:14-15",
+            "psalm_coptic_ref": "Psalms 91:10;Psalms 91:14-15",
             "gospel": "Luke 19:11-19"
         },
         "liturgy": {
@@ -932,6 +1087,7 @@
             "catholic": "James 5:9-20",
             "acts": "Acts 18:24-19:6",
             "psalm": "Psalms 92:12-13",
+            "psalm_coptic_ref": "Psalms 91:12-13",
             "gospel": "Luke 12:32-44"
         }
     },
@@ -939,10 +1095,12 @@
         "day": "30 Paona",
         "vespers": {
             "psalm": "Psalms 52:8-9",
+            "psalm_coptic_ref": "Psalms 51:8-9",
             "gospel": "Luke 7:28-35"
         },
         "matins": {
             "psalm": "Psalms 92:10;Psalms 92:14-15",
+            "psalm_coptic_ref": "Psalms 91:10;Psalms 91:14-15",
             "gospel": "Matthew 11:11-19"
         },
         "liturgy": {
@@ -950,6 +1108,7 @@
             "catholic": "1 Peter 2:11-17",
             "acts": "Acts 7:8-22",
             "psalm": "Psalms 92:12-13",
+            "psalm_coptic_ref": "Psalms 91:12-13",
             "gospel": "Luke 1:57-80"
         }
     },
@@ -957,10 +1116,12 @@
         "day": "3 Epep",
         "vespers": {
             "psalm": "Psalms 110:4;Psalms 110:7",
+            "psalm_coptic_ref": "Psalms 109:4;Psalms 109:7",
             "gospel": "Matthew 16:13-19"
         },
         "matins": {
             "psalm": "Psalms 73:23-24;Psalms 73:28;Psalms 9:14",
+            "psalm_coptic_ref": "Psalms 72:23-24;Psalms 72:28;Psalms 9:14",
             "gospel": "John 15:17-25"
         },
         "liturgy": {
@@ -968,6 +1129,7 @@
             "catholic": "1 Peter 2:18-25;1 Peter 3:1-7",
             "acts": "Acts 20:17-38",
             "psalm": "Psalms 107:32;Psalms 107:41-42",
+            "psalm_coptic_ref": "Psalms 106:32;Psalms 106:41-42",
             "gospel": "John 10:1-16"
         }
     },
@@ -975,10 +1137,12 @@
         "day": "5 Epep",
         "vespers": {
             "psalm": "Psalms 68:11;Psalms 68:35",
+            "psalm_coptic_ref": "Psalms 67:11;Psalms 67:35",
             "gospel": "Mark 3:7-21"
         },
         "matins": {
             "psalm": "Psalms 145:10-12",
+            "psalm_coptic_ref": "Psalms 144:10-12",
             "gospel": "Luke 6:12-23"
         },
         "liturgy": {
@@ -986,6 +1150,7 @@
             "catholic": "2 Peter 1:12-21",
             "acts": "Acts 3:1-16",
             "psalm": "Psalms 19:1;Psalms 19:4",
+            "psalm_coptic_ref": "Psalms 18:1;Psalms 18:4",
             "gospel": "Matthew 10:1-15"
         }
     },
@@ -993,10 +1158,12 @@
         "day": "20 Epep",
         "vespers": {
             "psalm": "Psalms 18:34;Psalms 18:39",
+            "psalm_coptic_ref": "Psalms 17:34;Psalms 17:39",
             "gospel": "Matthew 10:16-23"
         },
         "matins": {
             "psalm": "Psalms 45:3-4;Psalms 45:6",
+            "psalm_coptic_ref": "Psalms 44:3-4;Psalms 44:6",
             "gospel": "Luke 7:11-17"
         },
         "liturgy": {
@@ -1004,6 +1171,7 @@
             "catholic": "1 Peter 3:8-15",
             "acts": "Acts 27:42-28:6",
             "psalm": "Psalms 91:13;Psalms 91:11",
+            "psalm_coptic_ref": "Psalms 90:13;Psalms 90:11",
             "gospel": "Luke 10:21-24"
         }
     },
@@ -1011,10 +1179,12 @@
         "day": "3 Mesra",
         "vespers": {
             "psalm": "Psalms 40:2-3",
+            "psalm_coptic_ref": "Psalms 39:2-3",
             "gospel": "Matthew 7:22-25"
         },
         "matins": {
             "psalm": "Psalms 89:24;Psalms 89:19",
+            "psalm_coptic_ref": "Psalms 88:24;Psalms 88:19",
             "gospel": "Luke 13:23-30"
         },
         "liturgy": {
@@ -1022,6 +1192,7 @@
             "catholic": "2 Peter 1:1-11",
             "acts": "Acts 15:13-29",
             "psalm": "Psalms 61:1-3",
+            "psalm_coptic_ref": "Psalms 60:1-3",
             "gospel": "Luke 14:25-35"
         }
     },
@@ -1029,10 +1200,12 @@
         "day": "13 Mesra",
         "vespers": {
             "psalm": "Psalms 99:6-7",
+            "psalm_coptic_ref": "Psalms 98:6-7",
             "gospel": "Luke 9:28-36"
         },
         "matins": {
             "psalm": "Psalms 104:31-32",
+            "psalm_coptic_ref": "Psalms 103:31-32",
             "gospel": "Matthew 17:1-9"
         },
         "liturgy": {
@@ -1040,6 +1213,7 @@
             "catholic": "2 Peter 1:12-21",
             "acts": "Acts 7:44-60;Acts 8:1",
             "psalm": "Psalms 87:1-2;Psalms 87:5",
+            "psalm_coptic_ref": "Psalms 86:1-2;Psalms 86:5",
             "gospel": "Mark 9:2-13"
         }
     },
@@ -1047,10 +1221,12 @@
         "day": "17 Mesra",
         "vespers": {
             "psalm": "Psalms 34:19-20",
+            "psalm_coptic_ref": "Psalms 33:19-20",
             "gospel": "Mark 1:16-22"
         },
         "matins": {
             "psalm": "Psalms 37:39-40",
+            "psalm_coptic_ref": "Psalms 36:39-40",
             "gospel": "Matthew 4:18-22"
         },
         "liturgy": {
@@ -1058,6 +1234,7 @@
             "catholic": "James 1:1-12",
             "acts": "Acts 15:12-21",
             "psalm": "Psalms 97:11-12",
+            "psalm_coptic_ref": "Psalms 96:11-12",
             "gospel": "Mark 10:35-45"
         }
     },
@@ -1065,10 +1242,12 @@
         "day": "25 Mesra",
         "vespers": {
             "psalm": "Psalms 42:1",
+            "psalm_coptic_ref": "Psalms 41:1",
             "gospel": "Matthew 25:14-23"
         },
         "matins": {
             "psalm": "Psalms 34:5;Psalms 34:7",
+            "psalm_coptic_ref": "Psalms 33:5;Psalms 33:7",
             "gospel": "Luke 19:11-19"
         },
         "liturgy": {
@@ -1076,6 +1255,7 @@
             "catholic": "James 5:9-12",
             "acts": "Acts 18:24-19:6",
             "psalm": "Psalms 104:1-2;Psalms 104:4",
+            "psalm_coptic_ref": "Psalms 103:1-2;Psalms 103:4",
             "gospel": "Luke 12:32-44"
         }
     },
@@ -1083,10 +1263,12 @@
         "day": "26 Mesra",
         "vespers": {
             "psalm": "Psalms 31:23;Psalms 32:19",
+            "psalm_coptic_ref": "Psalms 30:23;Psalms 31:19",
             "gospel": "Matthew 10:24-33"
         },
         "matins": {
             "psalm": "Psalms 145:10-11;Psalms 145:19-20",
+            "psalm_coptic_ref": "Psalms 144:10-11;Psalms 144:19-20",
             "gospel": "John 12:20-26"
         },
         "liturgy": {
@@ -1094,6 +1276,7 @@
             "catholic": "1 Peter 2:11-17",
             "acts": "Acts 19:11-20",
             "psalm": "Psalms 149:5;Psalms 149:9",
+            "psalm_coptic_ref": "Psalms 149:5;Psalms 149:9",
             "gospel": "Luke 21:12-19"
         }
     },
@@ -1101,10 +1284,12 @@
         "day": "28 Mesra",
         "vespers": {
             "psalm": "Psalms 47:8-9",
+            "psalm_coptic_ref": "Psalms 46:8-9",
             "gospel": "John 15:7-16"
         },
         "matins": {
             "psalm": "Psalms 105:3-4",
+            "psalm_coptic_ref": "Psalms 104:3-4",
             "gospel": "Luke 16:19-31"
         },
         "liturgy": {
@@ -1112,6 +1297,7 @@
             "catholic": "James 2:14-23",
             "acts": "Acts 7:20-34",
             "psalm": "Psalms 105:8-10",
+            "psalm_coptic_ref": "Psalms 104:8-10",
             "gospel": "Mark 12:18-27"
         }
     },
@@ -1119,10 +1305,12 @@
         "day": "29 Mesra",
         "vespers": {
             "psalm": "Psalms 132:9-10;Psalms 132:17-18",
+            "psalm_coptic_ref": "Psalms 131:9-10;Psalms 131:17-18",
             "gospel": "Matthew 15:1-11"
         },
         "matins": {
             "psalm": "Psalms 110:4-5;Psalms 110:7",
+            "psalm_coptic_ref": "Psalms 109:4-5;Psalms 109:7",
             "gospel": "Matthew 15:12-20"
         },
         "liturgy": {
@@ -1130,6 +1318,7 @@
             "catholic": "1 John 4:15-21",
             "acts": "Acts 5:34-42",
             "psalm": "Psalms 68:19",
+            "psalm_coptic_ref": "Psalms 67:19",
             "gospel": "John 8:21-27"
         }
     },
@@ -1137,10 +1326,12 @@
         "day": "30 Mesra",
         "vespers": {
             "psalm": "Psalms 5:11-12",
+            "psalm_coptic_ref": "Psalms 5:11-12",
             "gospel": "Matthew 13:53-58"
         },
         "matins": {
             "psalm": "Psalms 101:8",
+            "psalm_coptic_ref": "Psalms 100:8",
             "gospel": "Matthew 14:1-5"
         },
         "liturgy": {
@@ -1148,6 +1339,7 @@
             "catholic": "2 Peter 1:19-;2 Peter 2:1-3",
             "acts": "Acts 7:30-37",
             "psalm": "Psalms 50:23;Psalms 50:14",
+            "psalm_coptic_ref": "Psalms 49:23;Psalms 49:14",
             "gospel": "Luke 14:16-24"
         }
     },
@@ -1155,10 +1347,12 @@
         "day": "1 Nasie",
         "vespers": {
             "psalm": "Psalms 65:4-5",
+            "psalm_coptic_ref": "Psalms 64:4-5",
             "gospel": "Matthew 10:34-42"
         },
         "matins": {
             "psalm": "Psalms 37:17-18",
+            "psalm_coptic_ref": "Psalms 36:17-18",
             "gospel": "John 1:1-17"
         },
         "liturgy": {
@@ -1166,6 +1360,7 @@
             "catholic": "1 John 1:1-10;1 John 2:1-6",
             "acts": "Acts 3:1-16",
             "psalm": "Psalms 37:30-31",
+            "psalm_coptic_ref": "Psalms 36:30-31",
             "gospel": "John 21:15-25"
         }
     },
@@ -1173,10 +1368,12 @@
         "day": "2 Nasie",
         "vespers": {
             "psalm": "Psalms 19:3-4",
+            "psalm_coptic_ref": "Psalms 18:3-4",
             "gospel": "Luke 4:38-41"
         },
         "matins": {
             "psalm": "Psalms 110:4-5;Psalms 110:7",
+            "psalm_coptic_ref": "Psalms 109:4-5;Psalms 109:7",
             "gospel": "Luke 5:18-26"
         },
         "liturgy": {
@@ -1184,6 +1381,7 @@
             "catholic": "1 John 5:1-11",
             "acts": "Acts 14:1-8",
             "psalm": "Psalms 105:1;Psalms 68:11",
+            "psalm_coptic_ref": "Psalms 104:1;Psalms 67:11",
             "gospel": "Luke 6:12-23"
         }
     },
@@ -1191,10 +1389,12 @@
         "day": "3 Nasie",
         "vespers": {
             "psalm": "Psalms 34:7-8",
+            "psalm_coptic_ref": "Psalms 33:7-8",
             "gospel": "Matthew 16:24-28"
         },
         "matins": {
             "psalm": "Psalms 97:7-9",
+            "psalm_coptic_ref": "Psalms 96:7-9",
             "gospel": "Matthew 18:10-20"
         },
         "liturgy": {
@@ -1202,6 +1402,7 @@
             "catholic": "1 Peter 1:3-12",
             "acts": "Acts 10:21-33",
             "psalm": "Psalms 138:1-3",
+            "psalm_coptic_ref": "Psalms 137:1-3",
             "gospel": "Matthew 25:31-46"
         }
     },
@@ -1209,10 +1410,12 @@
         "day": "4 Nasie",
         "vespers": {
             "psalm": "Psalms 68:35;Psalms 68:3",
+            "psalm_coptic_ref": "Psalms 67:35;Psalms 67:3",
             "gospel": "Matthew 24:42-47"
         },
         "matins": {
             "psalm": "Psalms 97:11-12",
+            "psalm_coptic_ref": "Psalms 96:11-12",
             "gospel": "Mark 13:33-37"
         },
         "liturgy": {
@@ -1220,6 +1423,7 @@
             "catholic": "1 Peter 5:1-12",
             "acts": "Acts 18:24-19:6",
             "psalm": "Psalms 116:15-16",
+            "psalm_coptic_ref": "Psalms 114:15-16",
             "gospel": "Luke 16:1-12"
         }
     },
@@ -1227,10 +1431,12 @@
         "day": "6 Nasie",
         "vespers": {
             "psalm": "Psalms 119:95-96",
+            "psalm_coptic_ref": "Psalms 118:95-96",
             "gospel": "Luke 13:10-17"
         },
         "matins": {
             "psalm": "Psalms 119:89-90",
+            "psalm_coptic_ref": "Psalms 118:89-90",
             "gospel": "Luke 4:23-30"
         },
         "liturgy": {
@@ -1238,6 +1444,7 @@
             "catholic": "James 5:16-20",
             "acts": "Acts 11:12-18",
             "psalm": "Psalms 119:97-98",
+            "psalm_coptic_ref": "Psalms 118:97-98",
             "gospel": "John 2:1-11"
         }
     },
@@ -1245,10 +1452,12 @@
         "day": "23 Kiahk",
         "vespers": {
             "psalm": "Psalms 132:10-11",
+            "psalm_coptic_ref": "Psalms 131:10-11",
             "gospel": "John 7:40-53"
         },
         "matins": {
             "psalm": "Psalms 89:19-21",
+            "psalm_coptic_ref": "Psalms 88:19-21",
             "gospel": "Matthew 12:1-8"
         },
         "liturgy": {
@@ -1256,6 +1465,7 @@
             "catholic": "James 5:7-13",
             "acts": "Acts 2:22-36",
             "psalm": "Psalms 78:70-72",
+            "psalm_coptic_ref": "Psalms 77:70-72",
             "gospel": "Matthew 22:35-46"
         }
     }

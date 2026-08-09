@@ -1,4 +1,9 @@
 export { CopticReadings, calculateOrthodoxEaster } from './copticReadings.js'
+export {
+  lxxToMtChapter,
+  mtPsalmToCopticRef,
+  mtToLxxChapter,
+} from './psalmNumbering.js'
 export type {
   ActiveFeast,
   AdamOrWatos,

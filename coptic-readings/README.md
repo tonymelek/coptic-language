@@ -40,11 +40,20 @@ console.log(day.readingReference.ref?.liturgy)
 //   pauline: '1 Corinthians 15:23-50',
 //   catholic: '1 Peter 3:15-4:6',
 //   acts: 'Acts 2:22-28',
-//   psalm: 'Psalms 117:12-25',
+//   psalm: 'Psalms 118:24,25,27',           // MT — Bible text lookup
+//   psalm_coptic_ref: 'Psalms 117:24,25,27', // LXX/Coptic — display
 //   gospel: 'John 20:1-18'
 // }
 ```
 
+Psalm fields ship as a pair wherever a psalm is present:
+
+| Field | Numbering | Use |
+| --- | --- | --- |
+| `psalm` | Masoretic (NKJV) | Resolve verse text (`bible-citation-text`, etc.) |
+| `psalm_coptic_ref` | Septuagint / Coptic | Show the liturgical citation to users |
+
+Helpers `mtPsalmToCopticRef`, `mtToLxxChapter`, and `lxxToMtChapter` are exported if you need the same mapping elsewhere.
 ### CommonJS
 
 ```js

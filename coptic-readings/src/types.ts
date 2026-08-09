@@ -34,7 +34,10 @@ export interface ActiveFeast {
 }
 
 export interface PsalmGospel {
+  /** Masoretic (NKJV) citation — use for Bible text lookup. */
   psalm?: string
+  /** Septuagint / Coptic citation — use for liturgical display. */
+  psalm_coptic_ref?: string
   gospel?: string
 }
 
@@ -43,7 +46,10 @@ export interface LiturgyReadings {
   pauline?: string
   catholic?: string
   acts?: string
+  /** Masoretic (NKJV) citation — use for Bible text lookup. */
   psalm?: string
+  /** Septuagint / Coptic citation — use for liturgical display. */
+  psalm_coptic_ref?: string
   gospel?: string
 }
 
