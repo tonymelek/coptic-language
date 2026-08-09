@@ -579,17 +579,17 @@
     },
     "Mesra-1": {
         "vespers": {
-            "psalm": "Psalms 32:22;Psalms 32:18",
+            "psalm": "Psalms 32:19;Psalms 32:16",
             "gospel": "Mark 6:45-56"
         },
         "matins": {
-            "psalm": "Psalms 32:20;Psalms 32:21",
+            "psalm": "Psalms 32:18;Psalms 32:17",
             "gospel": "Matthew 28:1-20"
         },
         "liturgy": {
             "catholic": "1 Peter 3:8-15",
             "acts": "Acts 19:23-40",
-            "psalm": "Psalms 79:14;Psalms 79:15",
+            "psalm": "Psalms 79:13",
             "gospel": "Luke 20:9-19",
             "pauline": "1 Corinthians 9:1-27"
         }
