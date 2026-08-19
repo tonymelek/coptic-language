@@ -79,3 +79,37 @@ export function lowerCopticChar(char: string): string {
 export function lowerCoptic(text: string): string {
   return [...text].map(lowerCopticChar).join('');
 }
+
+export type LexicalHit = {
+  /** Original-case letters before the lexical stem; empty if the whole word matched. */
+  prefix: string;
+  replacement: string;
+};
+
+function lexicalBody(pattern: RegExp): string {
+  return pattern.source.replace(/^\^/, '').replace(/\$$/, '');
+}
+
+/**
+ * Whole-word lexical match first, then longest-table suffix match when the
+ * ending is a nomen sacrum (has a combining overline). Prefixes such as ⲙ̀ / ⲛ̀
+ * are left for the letter engine.
+ */
+export function matchLexical(stem: string, rules: [RegExp, string][]): LexicalHit | null {
+  const lower = lowerCoptic(stem);
+  for (const [pattern, replacement] of rules) {
+    if (pattern.test(lower)) return { prefix: '', replacement };
+  }
+  for (const [pattern, replacement] of rules) {
+    const inner = lexicalBody(pattern);
+    if (!inner) continue;
+    const flags = pattern.flags.includes('u') ? 'u' : '';
+    const m = lower.match(new RegExp(`^(.*)${inner}$`, flags));
+    if (!m || !m[1]) continue;
+    const suffix = lower.slice(m[1].length);
+    if (!suffix.includes(OVERLINE)) continue;
+    if (![...m[1]].some(isCopticLetter)) continue;
+    return { prefix: stem.slice(0, m[1].length), replacement };
+  }
+  return null;
+}

@@ -1,7 +1,7 @@
 import {
   COMBINING_MARKS,
-  lowerCoptic,
   lowerCopticChar,
+  matchLexical,
   splitTrailingPunct,
   stripLeadingPlus,
   toGraphemes,
@@ -292,21 +292,7 @@ function matchDigraph(
   return null;
 }
 
-function applyLexical(stem: string): string | null {
-  const lower = lowerCoptic(stem);
-  for (const [pattern, replacement] of LEXICAL) {
-    if (pattern.test(lower)) return replacement;
-  }
-  return null;
-}
-
-function pronounceWord(copticWord: string): string {
-  const { stem, suffix } = splitTrailingPunct(copticWord);
-  if (!stem) return suffix;
-
-  const lexical = applyLexical(stem);
-  if (lexical) return lexical + suffix;
-
+function pronounceLetters(stem: string, moreFollows = false): string {
   const gs = toGraphemes(stem);
   let out = '';
   let i = 0;
@@ -346,7 +332,9 @@ function pronounceWord(copticWord: string): string {
     }
 
     const next = gs[i + 1];
-    const atEnd = i === gs.length - 1 || (i === gs.length - 2 && next && !isCopticBase(next.letter));
+    const atEnd =
+      !moreFollows &&
+      (i === gs.length - 1 || (i === gs.length - 2 && next && !isCopticBase(next.letter)));
     const sound = letterSound(g, next, atEnd);
 
     if (g.jenkim && !isVowel(g.letter)) {
@@ -361,14 +349,35 @@ function pronounceWord(copticWord: string): string {
       } else {
         out += sound;
       }
-      if (i + 1 < gs.length) out += ' ';
+      if (i + 1 < gs.length || moreFollows) out += ' ';
     } else {
       out += sound;
     }
     i++;
   }
 
-  return out.replace(COMBINING_MARKS, '').replace(/ {2,}/g, ' ').trim() + suffix;
+  return out.replace(COMBINING_MARKS, '').replace(/ {2,}/g, ' ').trim();
+}
+
+function joinLexical(prefixOut: string, replacement: string): string {
+  if (!prefixOut) return replacement;
+  if (/\s$/.test(prefixOut) || /[ىآ]$/.test(prefixOut.trimEnd())) {
+    return `${prefixOut.trimEnd()} ${replacement}`.replace(/ {2,}/g, ' ');
+  }
+  return prefixOut.replace(/ +$/g, '') + replacement;
+}
+
+function pronounceWord(copticWord: string): string {
+  const { stem, suffix } = splitTrailingPunct(copticWord);
+  if (!stem) return suffix;
+
+  const lexical = matchLexical(stem, LEXICAL);
+  if (lexical) {
+    if (!lexical.prefix) return lexical.replacement + suffix;
+    return joinLexical(pronounceLetters(lexical.prefix, true), lexical.replacement) + suffix;
+  }
+
+  return pronounceLetters(stem) + suffix;
 }
 
 export function copticTextToArabic(textArray: string[]): string[] {
