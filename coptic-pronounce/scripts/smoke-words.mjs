@@ -38,6 +38,8 @@ const CASES = [
   ['ⲅⲁⲣ', 'ghar'],
   ['ⲭ̅ⲉ̅', 'Shere ne Maria'],
   ['ⲭⲉⲣⲉ', 'Shere'],
+  ['Ⲡⲭ̅ⲥ̅', 'Pikhrestos'],
+  ['Ⲓⲏ̅ⲥ̅', 'Isous'],
 ];
 
 /** Arabic must-pass cases — orthography-normalized compare */
@@ -60,6 +62,8 @@ const AR_CASES = [
   ['ⲉϥⲥ̀ⲧⲁⲩⲣⲟⲥ', 'إف إستافروس'],
   ['ⲭ̅ⲉ̅', 'شيرى نى ماريا'],
   ['ⲭⲉⲣⲉ', 'شيرى'],
+  ['Ⲡⲭ̅ⲥ̅', 'بي اخرستوس'],
+  ['Ⲓⲏ̅ⲥ̅', 'إيسوس'],
 ];
 
 function normEn(s) {
