@@ -3,7 +3,7 @@ export const tools = [
     to: '/dictionary',
     label: 'Dictionary',
     title: 'Coptic Dictionary',
-    description: 'Search words with definitions, roots, etymology, and pronunciation.',
+    description: 'Search by Coptic word, transliteration, or meaning — glosses, variants, and senses.',
   },
   {
     to: '/unicode',

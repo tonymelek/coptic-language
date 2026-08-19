@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>/</loc></url>
+  <url><loc>/packages.html</loc></url>
   <url><loc>/about.html</loc></url>
   <url><loc>/story.html</loc></url>
   <url><loc>/contact.html</loc></url>
@@ -11,4 +12,5 @@
   <url><loc>/app/pronounce</loc></url>
   <url><loc>/app/guess-coptic</loc></url>
   <url><loc>/app/write</loc></url>
+  <url><loc>/app/playground</loc></url>
 </urlset>

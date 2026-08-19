@@ -1,0 +1,237 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Packages — Coptic Language</title>
+    <meta
+      name="description"
+      content="Install coptic-antonios-unicode and coptic-pronounce — open npm packages for Antonios conversion and Bohairic pronunciation."
+    />
+    <meta name="theme-color" content="#722F37" />
+    <link rel="icon" href="/favicon.ico" sizes="48x48" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <script src="/tailwind.cdn.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="/static_style.css" />
+  </head>
+  <body class="font-sans antialiased bg-slate-50 text-slate-900 flex flex-col min-h-screen">
+
+    <a href="#main-content" class="skip-link">Skip to main content</a>
+    <header class="bg-burgundy-900 border-b-4 border-gold sticky top-0 z-50 shadow-md">
+      <nav class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between relative">
+        <div class="flex items-center space-x-8">
+          <a href="/" class="flex items-center gap-2.5 sm:gap-3 text-xl font-bold tracking-tight text-gold hover:text-white transition sm:text-2xl no-underline">
+            <img src="/images/logo-gold.png" alt="" class="h-9 w-9 sm:h-10 sm:w-10 shrink-0" width="40" height="40" decoding="async" />
+            <span>COPTIC LANGUAGE</span>
+          </a>
+          <div class="hidden md:flex items-center space-x-6 text-sm font-medium">
+            <a href="/packages.html" class="text-gold" aria-current="page">Packages</a>
+            <a href="/about.html" class="text-white/90 hover:text-gold transition">About</a>
+            <a href="/story.html" class="text-white/90 hover:text-gold transition">Story</a>
+            <a href="/contact.html" class="text-white/90 hover:text-gold transition">Contact</a>
+            <a href="/support.html" class="text-white/90 hover:text-gold transition">Support</a>
+            <a href="/app/" class="text-white/90 hover:text-gold transition">Open app</a>
+          </div>
+        </div>
+        <button id="menu-toggle" type="button" aria-expanded="false" aria-controls="mobile-menu" aria-label="Toggle navigation menu"
+          class="md:hidden inline-flex items-center justify-center min-h-11 min-w-11 rounded-md text-white/80 hover:text-gold hover:bg-burgundy-800 transition">
+          <svg id="hamburger-icon" class="h-6 w-6 block" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+          </svg>
+          <svg id="close-icon" class="h-6 w-6 hidden" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+          </svg>
+        </button>
+        <div id="mobile-menu" class="hidden absolute top-16 left-0 w-full bg-burgundy-800 border-b border-gold/30 shadow-xl flex-col px-4 py-4 space-y-3 font-medium md:hidden z-40">
+          <a href="/packages.html" class="px-3 py-2 rounded-md text-gold text-sm">Packages</a>
+          <a href="/about.html" class="px-3 py-2 rounded-md text-white hover:text-gold text-sm">About</a>
+          <a href="/story.html" class="px-3 py-2 rounded-md text-white hover:text-gold text-sm">Story</a>
+          <a href="/contact.html" class="px-3 py-2 rounded-md text-white hover:text-gold text-sm">Contact</a>
+          <a href="/support.html" class="px-3 py-2 rounded-md text-white hover:text-gold text-sm">Support</a>
+          <a href="/app/" class="px-3 py-2 rounded-md text-white hover:text-gold text-sm">Open app</a>
+        </div>
+      </nav>
+    </header>
+
+    <main id="main-content" class="grow max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-16 w-full" tabindex="-1">
+      <div class="text-center mb-10">
+        <h1 class="text-3xl font-extrabold tracking-tight text-burgundy-900 sm:text-4xl">
+          Packages
+        </h1>
+        <p class="mt-3 text-lg text-slate-700 max-w-xl mx-auto">
+          Two npm libraries power Unicode and pronunciation. Install them in your own project, or try them live.
+        </p>
+        <div class="mt-5 flex flex-wrap items-center justify-center gap-3">
+          <a
+            href="/app/playground"
+            class="inline-flex items-center justify-center bg-gold text-burgundy-900 font-semibold px-6 py-3 no-underline hover:bg-gold-hover transition rounded-md"
+          >
+            Open playground
+          </a>
+        </div>
+        <p class="mt-3 text-sm text-slate-600">
+          Each ships <code class="bg-burgundy-50 px-1 rounded font-mono text-xs">.mjs</code>,
+          <code class="bg-burgundy-50 px-1 rounded font-mono text-xs">.cjs</code>,
+          and TypeScript types.
+        </p>
+        <div class="w-12 h-1 bg-gold mx-auto mt-4 rounded-full"></div>
+      </div>
+
+      <div data-tabs>
+      <div
+        class="pkg-switch mb-8"
+        role="group"
+        aria-label="Package"
+      >
+        <button
+          type="button"
+          class="pkg-switch-btn is-active"
+          data-tab="antonios"
+          aria-pressed="true"
+        >
+          coptic-antonios-unicode
+        </button>
+        <button
+          type="button"
+          class="pkg-switch-btn"
+          data-tab="pronounce"
+          aria-pressed="false"
+        >
+          coptic-pronounce
+        </button>
+      </div>
+
+      <article
+        id="coptic-antonios-unicode"
+        data-panel="antonios"
+        class="scroll-mt-24 space-y-5"
+      >
+        <p class="text-slate-700 leading-relaxed">
+          Antonios-font Latin keyboard text → standard Coptic Unicode
+          (<code class="text-sm bg-burgundy-50 px-1 rounded font-mono">amyn</code>
+          →
+          <code class="text-sm bg-burgundy-50 px-1 rounded font-mono">ⲁⲙⲏⲛ</code>).
+        </p>
+
+        <div class="install-box" data-install="coptic-antonios-unicode">
+          <div class="flex flex-wrap items-center justify-between gap-2 mb-3">
+            <div class="pm-tabs" role="group" aria-label="Package manager">
+              <button type="button" class="pm-tab is-active" data-pm="npm" aria-pressed="true">npm</button>
+              <button type="button" class="pm-tab" data-pm="yarn" aria-pressed="false">yarn</button>
+              <button type="button" class="pm-tab" data-pm="pnpm" aria-pressed="false">pnpm</button>
+              <button type="button" class="pm-tab" data-pm="bun" aria-pressed="false">bun</button>
+            </div>
+            <button type="button" class="copy-btn" data-copy="#install-antonios">Copy</button>
+          </div>
+          <pre id="install-antonios" class="install-cmd" data-install-cmd>npm install coptic-antonios-unicode</pre>
+        </div>
+
+        <pre class="code-block"><span class="kw">import</span> { toUnicode } <span class="kw">from</span> <span class="string">'coptic-antonios-unicode'</span>;
+
+<span class="kw">const</span> unicode = toUnicode(<span class="string">'amyn'</span>);
+console.log(unicode);</pre>
+
+        <a
+          href="https://www.npmjs.com/package/coptic-antonios-unicode"
+          class="inline-flex items-center text-sm font-semibold text-burgundy-700 hover:text-burgundy-900 no-underline"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          npm · coptic-antonios-unicode →
+        </a>
+      </article>
+
+      <article
+        id="coptic-pronounce"
+        data-panel="pronounce"
+        class="scroll-mt-24 space-y-5 hidden"
+        hidden
+      >
+        <p class="text-slate-700 leading-relaxed">
+          Coptic Unicode → English and Arabic phonetics via
+          <code class="text-sm bg-burgundy-50 px-1 rounded font-mono">pronounce</code>.
+          Reverse guess with
+          <code class="text-sm bg-burgundy-50 px-1 rounded font-mono">guessCoptic</code>
+          /
+          <code class="text-sm bg-burgundy-50 px-1 rounded font-mono">toCoptic</code>.
+        </p>
+
+        <div class="install-box" data-install="coptic-pronounce">
+          <div class="flex flex-wrap items-center justify-between gap-2 mb-3">
+            <div class="pm-tabs" role="group" aria-label="Package manager">
+              <button type="button" class="pm-tab is-active" data-pm="npm" aria-pressed="true">npm</button>
+              <button type="button" class="pm-tab" data-pm="yarn" aria-pressed="false">yarn</button>
+              <button type="button" class="pm-tab" data-pm="pnpm" aria-pressed="false">pnpm</button>
+              <button type="button" class="pm-tab" data-pm="bun" aria-pressed="false">bun</button>
+            </div>
+            <button type="button" class="copy-btn" data-copy="#install-pronounce">Copy</button>
+          </div>
+          <pre id="install-pronounce" class="install-cmd" data-install-cmd>npm install coptic-pronounce</pre>
+        </div>
+
+        <pre class="code-block"><span class="kw">import</span> { pronounce } <span class="kw">from</span> <span class="string">'coptic-pronounce'</span>;
+
+console.log(pronounce(<span class="string">'ⲁⲙⲏⲛ'</span>, <span class="string">'en'</span>));
+console.log(pronounce(<span class="string">'ⲁⲙⲏⲛ'</span>, <span class="string">'ar'</span>));</pre>
+
+        <a
+          href="https://www.npmjs.com/package/coptic-pronounce"
+          class="inline-flex items-center text-sm font-semibold text-burgundy-700 hover:text-burgundy-900 no-underline"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          npm · coptic-pronounce →
+        </a>
+      </article>
+      </div>
+
+      <div class="mt-14 pt-10 border-t border-slate-200 text-center space-y-4">
+        <p class="text-slate-600 text-sm max-w-md mx-auto">
+          Want to edit and run these snippets with real output?
+        </p>
+        <a
+          href="/app/playground"
+          class="inline-flex items-center bg-gold text-burgundy-900 font-semibold px-7 py-3.5 no-underline hover:bg-gold-hover transition rounded-md"
+        >
+          Open playground
+        </a>
+      </div>
+    </main>
+
+    <footer class="site-footer pt-12 pb-10 px-4 sm:px-6 lg:px-8">
+      <div class="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-8 border-b footer-divider pb-8 mb-8">
+        <div class="text-center md:text-left space-y-2">
+          <h4 class="footer-brand">COPTIC LANGUAGE</h4>
+          <p class="footer-muted max-w-sm">Open tools for reading, searching, and pronouncing Coptic.</p>
+        </div>
+        <nav class="footer-nav" aria-label="Footer">
+          <a href="/">Home</a>
+          <a href="/packages.html" class="footer-active">Packages</a>
+          <a href="/about.html">About</a>
+          <a href="/story.html">Story</a>
+          <a href="/contact.html">Contact</a>
+          <a href="/support.html">Support</a>
+          <a href="/app/">App</a>
+        </nav>
+      </div>
+      <p class="max-w-6xl mx-auto text-center footer-copy">&copy; 2026 Coptic Language. Built for the Coptic community.</p>
+    </footer>
+
+    <script src="/site.js" defer></script>
+    <script src="/packages.js"></script>
+    <script>
+      ;(function () {
+        var hash = (location.hash || '').replace(/^#/, '')
+        if (hash === 'coptic-pronounce' || hash === 'pronounce') {
+          var btn = document.querySelector('[data-tab="pronounce"]')
+          if (btn) btn.click()
+        }
+      })()
+    </script>
+  </body>
+</html>

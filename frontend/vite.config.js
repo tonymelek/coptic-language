@@ -15,6 +15,8 @@ const appBasePath = APP_BASE.replace(/\/$/, '') || '/app'
 const MARKETING_PAGES = new Map([
   ['/', 'index.html'],
   ['/index.html', 'index.html'],
+  ['/packages', 'packages.html'],
+  ['/packages.html', 'packages.html'],
   ['/about', 'about.html'],
   ['/about.html', 'about.html'],
   ['/story', 'story.html'],
@@ -29,6 +31,7 @@ const MARKETING_ASSETS = new Set([
   '/static_style.css',
   '/tailwind.cdn.js',
   '/site.js',
+  '/packages.js',
   '/contact-form.js',
   '/favicon.ico',
   '/favicon-16.png',

@@ -1,0 +1,295 @@
+[
+  {
+    "headword": "o",
+    "copticWord": "ⲟ",
+    "englishTransliteration": "o",
+    "reference": "253a",
+    "gloss": "The 15th letter of the Coptic Alphabet",
+    "definition": "The 15th letter of the Coptic Alphabet",
+    "senses": [
+      {
+        "label": "o",
+        "gloss": "The numeral 'seventy'",
+        "definition": "The numeral 'seventy'"
+      }
+    ],
+    "variants": [
+      {
+        "headword": "(5) o nbote",
+        "copticWord": "ⲟ ⲛⲃⲟⲧⲉ",
+        "englishTransliteration": "o nbote",
+        "gloss": "become, be hateful",
+        "definition": "become, be hateful",
+        "reference": "45b",
+        "partOfSpeech": "vb",
+        "isGreek": true,
+        "crossReference": {
+          "target": "oreb",
+          "gloss": "verabscheuen (B)"
+        }
+      },
+      {
+        "headword": "(8) o nsaeie",
+        "copticWord": "ⲟ ⲛⲥⲁⲉⲓⲏ",
+        "englishTransliteration": "o nsaeie",
+        "gloss": "be beautiful",
+        "definition": "be beautiful",
+        "reference": "315b",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "eire",
+          "gloss": "machen, tun"
+        }
+      },
+      {
+        "headword": "(2) o ntar",
+        "copticWord": "ⲟ ⲛⲧⲁⲣ",
+        "englishTransliteration": "o ntar",
+        "gloss": "have points",
+        "definition": "have points",
+        "reference": "423b-424a",
+        "partOfSpeech": "vb",
+        "variants": [
+          {
+            "word": "oi ntartar",
+            "copticWord": "ⲟⲓ ⲛⲧⲁⲣⲧⲁⲣ",
+            "englishTransliteration": "oi ntartar"
+          }
+        ],
+        "crossReference": {
+          "target": "eire",
+          "gloss": "machen, tun"
+        }
+      },
+      {
+        "headword": "(22) o nteshe",
+        "copticWord": "ⲟ ⲛⲧⲉϣⲉ",
+        "englishTransliteration": "o nteshe",
+        "gloss": "adjoin, be a neighbour",
+        "definition": "adjoin, be a neighbour",
+        "reference": "452b",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "eire",
+          "gloss": "machen, tun"
+        }
+      },
+      {
+        "headword": "(3) o nhon",
+        "copticWord": "ⲟ ⲛϩⲱⲛ",
+        "englishTransliteration": "o nhon",
+        "gloss": "be shallow",
+        "definition": "be shallow",
+        "reference": "688b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(2) o njo",
+        "copticWord": "ⲟ ⲛϫⲟ",
+        "englishTransliteration": "o njo",
+        "gloss": "be hunchbacked",
+        "definition": "be hunchbacked",
+        "reference": "753b",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "eire",
+          "gloss": "machen, tun"
+        }
+      },
+      {
+        "headword": "(6) o njolk",
+        "copticWord": "ⲟ ⲛϫⲱⲗⲕ",
+        "englishTransliteration": "o njolk",
+        "gloss": "be in anxiety (?)",
+        "definition": "be in anxiety (?)",
+        "reference": "767b",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "eire",
+          "gloss": "machen, tun"
+        }
+      },
+      {
+        "headword": "(3) o njne",
+        "copticWord": "ⲟ ⲛϫⲛⲉ",
+        "englishTransliteration": "o njne",
+        "gloss": "tire out, be wearied",
+        "definition": "tire out, be wearied",
+        "reference": "774a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "eire",
+          "gloss": "machen, tun"
+        }
+      }
+    ]
+  },
+  {
+    "headword": "on",
+    "copticWord": "ⲟⲛ",
+    "englishTransliteration": "on",
+    "reference": "255b",
+    "partOfSpeech": "adv",
+    "gloss": "Again, also, still",
+    "definition": "further; yet"
+  },
+  {
+    "headword": "onoma",
+    "copticWord": "ⲟⲛⲟⲙⲁ",
+    "englishTransliteration": "onoma",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Name, title",
+    "definition": "Name, title"
+  },
+  {
+    "headword": "onomati",
+    "copticWord": "ⲟⲛⲟⲙⲁⲧⲓ",
+    "englishTransliteration": "onomati",
+    "gloss": "In the name",
+    "definition": "In the name"
+  },
+  {
+    "headword": "onux",
+    "copticWord": "ⲟⲛⲩⲝ",
+    "englishTransliteration": "onyks",
+    "gloss": "Onyx",
+    "definition": "Onyx",
+    "crossReference": {
+      "target": "onu,ion",
+      "gloss": "Onyx"
+    }
+  },
+  {
+    "headword": "onu",
+    "copticWord": "ⲟⲛⲩ",
+    "englishTransliteration": "ony",
+    "variants": [
+      {
+        "word": "ion",
+        "copticWord": "ⲓⲟⲛ",
+        "englishTransliteration": "ion"
+      },
+      {
+        "word": "onux",
+        "copticWord": "ⲟⲛⲩⲝ",
+        "englishTransliteration": "onyks"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "A kind of onyx (a white precious stone)",
+    "definition": "claw; pig's trotters"
+  },
+  {
+    "headword": "ons (Q)",
+    "copticWord": "ⲟⲛϣ (Ϧ)",
+    "englishTransliteration": "onsh (Kh)",
+    "reference": "525a",
+    "gloss": "vi. To be astonished, dazed",
+    "definition": "vi. To be astonished, dazed"
+  },
+  {
+    "headword": "onq=",
+    "copticWord": "ⲟⲛϧ",
+    "englishTransliteration": "onkh",
+    "gloss": "To live",
+    "definition": "To live",
+    "crossReference": {
+      "target": "wnq",
+      "gloss": "To live"
+    }
+  },
+  {
+    "headword": "onh",
+    "copticWord": "ⲟⲛϩ",
+    "englishTransliteration": "onh",
+    "reference": "13a",
+    "partOfSpeech": "m",
+    "gloss": "Yard, court",
+    "definition": "Yard, court"
+  },
+  {
+    "headword": "op=",
+    "copticWord": "ⲟⲡ",
+    "englishTransliteration": "op",
+    "gloss": "To count",
+    "definition": "To count",
+    "crossReference": {
+      "target": "wp",
+      "gloss": "To count"
+    }
+  },
+  {
+    "headword": "opion",
+    "copticWord": "ⲟⲡⲓⲟⲛ",
+    "englishTransliteration": "opion",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Opium, poppy-juice",
+    "definition": "Opium, poppy-juice"
+  },
+  {
+    "headword": "opt",
+    "copticWord": "ⲟⲡⲧ",
+    "englishTransliteration": "opt",
+    "gloss": "To be laden",
+    "definition": "To be laden",
+    "crossReference": {
+      "target": "wbt",
+      "gloss": "To be laden"
+    }
+  },
+  {
+    "headword": "optacia",
+    "copticWord": "ⲟⲡⲧⲁⲥⲓⲁ",
+    "englishTransliteration": "optasia",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Vision, appearance",
+    "definition": "Vision, appearance"
+  },
+  {
+    "headword": "ops=",
+    "copticWord": "ⲟⲡϣ",
+    "englishTransliteration": "opsh",
+    "gloss": "To forget",
+    "definition": "To forget",
+    "crossReference": {
+      "target": "wbs",
+      "gloss": "To forget"
+    }
+  },
+  {
+    "headword": "oracic",
+    "copticWord": "ⲟⲣⲁⲥⲓⲥ",
+    "englishTransliteration": "orasis",
+    "variants": [
+      {
+        "word": "horacic",
+        "copticWord": "ϩⲟⲣⲁⲥⲓⲥ",
+        "englishTransliteration": "horasis"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Seeing, the act of sight",
+    "definition": "vision; appearance"
+  },
+  {
+    "headword": "orb=",
+    "copticWord": "ⲟⲣⲃ",
+    "englishTransliteration": "orv",
+    "gloss": "To detest",
+    "definition": "To detest",
+    "crossReference": {
+      "target": "wreb",
+      "gloss": "To detest"
+    }
+  }
+]

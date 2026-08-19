@@ -1,4 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
+  const header = document.querySelector('header')
   const toggleBtn = document.getElementById('menu-toggle')
   const mobileMenu = document.getElementById('mobile-menu')
   const hamburgerIcon = document.getElementById('hamburger-icon')
@@ -6,12 +7,31 @@ document.addEventListener('DOMContentLoaded', () => {
 
   if (!toggleBtn || !mobileMenu) return
 
+  function isOpen() {
+    return toggleBtn.getAttribute('aria-expanded') === 'true'
+  }
+
+  function setOpen(open) {
+    toggleBtn.setAttribute('aria-expanded', String(open))
+    mobileMenu.classList.toggle('hidden', !open)
+    mobileMenu.classList.toggle('flex', open)
+    hamburgerIcon?.classList.toggle('hidden', open)
+    closeIcon?.classList.toggle('hidden', !open)
+  }
+
   toggleBtn.addEventListener('click', () => {
-    const isExpanded = toggleBtn.getAttribute('aria-expanded') === 'true'
-    toggleBtn.setAttribute('aria-expanded', String(!isExpanded))
-    mobileMenu.classList.toggle('hidden')
-    mobileMenu.classList.toggle('flex')
-    hamburgerIcon?.classList.toggle('hidden')
-    closeIcon?.classList.toggle('hidden')
+    setOpen(!isOpen())
+  })
+
+  document.addEventListener('keydown', (event) => {
+    if (event.key !== 'Escape' || !isOpen()) return
+    setOpen(false)
+    toggleBtn.focus()
+  })
+
+  document.addEventListener('pointerdown', (event) => {
+    if (!isOpen()) return
+    if (header?.contains(event.target)) return
+    setOpen(false)
   })
 })

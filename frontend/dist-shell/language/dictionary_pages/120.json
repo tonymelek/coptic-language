@@ -1,0 +1,486 @@
+[
+  {
+    "headword": "refouwst",
+    "copticWord": "ⲣⲉϥⲟⲩⲱϣⲧ",
+    "englishTransliteration": "refouōsht",
+    "partOfSpeech": "m",
+    "gloss": "Worshipper",
+    "definition": "Worshipper"
+  },
+  {
+    "headword": "jinouwst",
+    "copticWord": "ϫⲓⲛⲟⲩⲱϣⲧ",
+    "englishTransliteration": "jinouōsht",
+    "partOfSpeech": "m",
+    "gloss": "Worship. ouwsf, ouosf=, (Q) ouosf: (505a)",
+    "definition": "vi."
+  },
+  {
+    "headword": "ouwsj",
+    "copticWord": "ⲟⲩⲱϣϫ",
+    "englishTransliteration": "ouōshj",
+    "gloss": "To smear",
+    "definition": "To smear",
+    "crossReference": {
+      "target": "wsj",
+      "gloss": "To smear"
+    }
+  },
+  {
+    "headword": "ouwh",
+    "copticWord": "ⲟⲩⲱϩ",
+    "englishTransliteration": "ouōh",
+    "variants": [
+      {
+        "word": "ouoh",
+        "copticWord": "ⲟⲩⲟϩ",
+        "englishTransliteration": "ouoh"
+      },
+      {
+        "word": "ouah",
+        "copticWord": "ⲟⲩⲁϩ",
+        "englishTransliteration": "ouah"
+      },
+      {
+        "word": "oueh",
+        "copticWord": "ⲟⲩⲉϩ",
+        "englishTransliteration": "oueh"
+      },
+      {
+        "word": "ouah",
+        "copticWord": "ⲟⲩⲁϩ",
+        "englishTransliteration": "ouah"
+      },
+      {
+        "word": "ouah",
+        "copticWord": "ⲟⲩⲁϩ",
+        "englishTransliteration": "ouah"
+      },
+      {
+        "word": "(Q) oueh",
+        "copticWord": "(Ϧ) ⲟⲩⲉϩ",
+        "englishTransliteration": "(Kh) oueh"
+      },
+      {
+        "headword": "(3) ouoh neuo",
+        "copticWord": "ⲟⲩⲱϩ ⲛⲉⲩⲱ",
+        "englishTransliteration": "ouoh neuo",
+        "gloss": "deposit as pledge",
+        "definition": "deposit as pledge",
+        "reference": "62b",
+        "crossReference": {
+          "target": "ouoh",
+          "gloss": "put, place, add, be placed, stay, dwell"
+        }
+      },
+      {
+        "headword": "(3) ouoh (e-)",
+        "copticWord": "ⲟⲩⲱϩ (ⲉ-)",
+        "englishTransliteration": "ouoh (e-)",
+        "gloss": "set on, add to, attribute to, dwell by/with",
+        "definition": "set on, add to, attribute to, dwell by/with",
+        "reference": "505b-506a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(4) ouoh etoot",
+        "copticWord": "ⲟⲩⲱϩ ⲉⲧⲟⲟⲧ⸗",
+        "englishTransliteration": "ouoh etoot",
+        "gloss": "add, repeat",
+        "definition": "add, repeat",
+        "reference": "506a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(5) ouoh ejn-",
+        "copticWord": "ⲟⲩⲱϩ ⲉϫⲛ-",
+        "englishTransliteration": "ouoh ejn-",
+        "gloss": "add to, increase",
+        "definition": "add to, increase",
+        "reference": "506a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(6) ouoh na",
+        "copticWord": "ⲟⲩⲱϩ ⲛⲁ⸗",
+        "englishTransliteration": "ouoh na",
+        "gloss": "set down, make pause",
+        "definition": "set down, make pause",
+        "reference": "506b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(7) ouoh nsa-",
+        "copticWord": "ⲟⲩⲱϩ ⲛⲥⲁ-",
+        "englishTransliteration": "ouoh nsa-",
+        "gloss": "follow",
+        "definition": "follow",
+        "reference": "506b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(8) ouoh ntn-",
+        "copticWord": "ⲟⲩⲱϩ ⲛⲧⲛ-",
+        "englishTransliteration": "ouoh ntn-",
+        "gloss": "place with, pledge to, pawn, mortgage",
+        "definition": "place with, pledge to, pawn, mortgage",
+        "reference": "506b-507a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(9) ouoh ha-",
+        "copticWord": "ⲟⲩⲱϩ ϩⲁ-",
+        "englishTransliteration": "ouoh ha-",
+        "gloss": "lie by, in return for, deposit (money)",
+        "definition": "lie by, in return for, deposit (money)",
+        "reference": "508a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(10) ouoh ebol",
+        "copticWord": "ⲟⲩⲱϩ ⲉⲃⲟⲗ",
+        "englishTransliteration": "ouoh ebol",
+        "gloss": "set down, pause",
+        "definition": "set down, pause",
+        "reference": "507a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(11) ouoh epeset",
+        "copticWord": "ⲟⲩⲱϩ ⲉⲡⲉⲥⲏⲧ",
+        "englishTransliteration": "ouoh epeset",
+        "gloss": "descend, alight",
+        "definition": "descend, alight",
+        "reference": "507b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(12) ouoh ehoun",
+        "copticWord": "ⲟⲩⲱϩ ⲉϩⲟⲩⲛ",
+        "englishTransliteration": "ouoh ehoun",
+        "gloss": "put in, bring in",
+        "definition": "put in, bring in",
+        "reference": "507b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(13) ouoh ehrai",
+        "copticWord": "ⲟⲩⲱϩ ⲉϩⲣⲁⲓ",
+        "englishTransliteration": "ouoh ehrai",
+        "gloss": "set down",
+        "definition": "set down",
+        "reference": "507b",
+        "partOfSpeech": "vb"
+      }
+    ],
+    "reference": "505b",
+    "gloss": "vt. To put, set, be (there)",
+    "definition": "vt. To put, set, be (there)"
+  },
+  {
+    "headword": "ouwth",
+    "copticWord": "ⲟⲩⲱⲧϩ",
+    "englishTransliteration": "ouōth",
+    "variants": [
+      {
+        "word": "wth",
+        "copticWord": "ⲱⲧϩ",
+        "englishTransliteration": "ōth"
+      },
+      {
+        "word": "oueth",
+        "copticWord": "ⲟⲩⲉⲧϩ",
+        "englishTransliteration": "oueth"
+      },
+      {
+        "word": "ouwth=",
+        "copticWord": "ⲟⲩⲱⲧϩ",
+        "englishTransliteration": "ouōth"
+      },
+      {
+        "headword": "(10) ouoth ebol",
+        "copticWord": "ⲟⲩⲱⲧϩ ⲉⲃⲟⲗ",
+        "englishTransliteration": "ouoth ebol",
+        "gloss": "pour",
+        "definition": "pour",
+        "reference": "498b-499a",
+        "partOfSpeech": "vb"
+      }
+    ],
+    "reference": "498b",
+    "gloss": "vi. To pour (liquid), cast (in mould), draw water",
+    "definition": "--- e-: vi, To pour, melt for; --- ejen-: vi, To pour for; --- ebol qen: vi, To pour from; ---: m. Thing molten"
+  },
+  {
+    "headword": "ma nouwth",
+    "copticWord": "ⲙⲁ ⲛⲟⲩⲱⲧϩ",
+    "englishTransliteration": "ma nouōth",
+    "partOfSpeech": "m",
+    "gloss": "Melting pot",
+    "definition": "Melting pot"
+  },
+  {
+    "headword": "refouwth",
+    "copticWord": "ⲣⲉϥⲟⲩⲱⲧϩ",
+    "englishTransliteration": "refouōth",
+    "partOfSpeech": "m",
+    "gloss": "He that pours, cup bearer",
+    "definition": "He that pours, cup bearer"
+  },
+  {
+    "headword": "ouah tot=",
+    "copticWord": "ⲟⲩⲁϩ ⲧⲟⲧ",
+    "englishTransliteration": "ouah tot",
+    "gloss": "vt. To set hand, add, repeat",
+    "definition": "vt. To set hand, add, repeat"
+  },
+  {
+    "headword": "(1) ouws",
+    "copticWord": "ⲟⲩⲱϣ",
+    "englishTransliteration": "ouōsh",
+    "variants": [
+      {
+        "word": "oues",
+        "copticWord": "ⲟⲩⲉϣ",
+        "englishTransliteration": "ouesh"
+      },
+      {
+        "word": "ouws",
+        "copticWord": "ⲟⲩⲱϣ",
+        "englishTransliteration": "ouōsh"
+      },
+      {
+        "word": "ouas",
+        "copticWord": "ⲟⲩⲁϣ",
+        "englishTransliteration": "ouash"
+      },
+      {
+        "word": "ouas=",
+        "copticWord": "ⲟⲩⲁϣ",
+        "englishTransliteration": "ouash"
+      },
+      {
+        "headword": "(3) ouosh ebol",
+        "copticWord": "ⲟⲩⲱϣ ⲉⲃⲟⲗ",
+        "englishTransliteration": "ouosh ebol",
+        "gloss": "wish, desire, love",
+        "definition": "wish, desire, love",
+        "reference": "501b",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(4) ouosh nhet",
+        "copticWord": "ⲟⲩⲱϣ ⲛϩⲏⲧ",
+        "englishTransliteration": "ouosh nhet",
+        "gloss": "heart's desire",
+        "definition": "heart's desire",
+        "reference": "501b",
+        "partOfSpeech": "m"
+      }
+    ],
+    "reference": "500a",
+    "gloss": "vi. To desire, love, want",
+    "definition": "vi. To desire, love, want",
+    "senses": [
+      {
+        "label": "e",
+        "gloss": "vt. To wish, be ready to",
+        "definition": "--: m. Desire, love; erpouws: vb. To do will; ouws nh/t: m. Heart's desire."
+      }
+    ]
+  },
+  {
+    "headword": "nahren",
+    "copticWord": "ⲛⲁϩⲣⲉⲛ",
+    "englishTransliteration": "nahren",
+    "gloss": "vt. To set before",
+    "definition": "vt. To set before"
+  },
+  {
+    "headword": "nouesen",
+    "copticWord": "ⲛⲟⲩⲉϣⲉⲛ",
+    "englishTransliteration": "noueshen",
+    "gloss": "Prep. with lack. absence of, without",
+    "definition": "Prep. with lack. absence of, without"
+  },
+  {
+    "headword": "ouwsem",
+    "copticWord": "ⲟⲩⲱϣⲉⲙ",
+    "englishTransliteration": "ouōshem",
+    "variants": [
+      {
+        "word": "ouosm=",
+        "copticWord": "ⲟⲩⲟϣⲙ",
+        "englishTransliteration": "ouoshm"
+      },
+      {
+        "word": "(Q) ouosem",
+        "copticWord": "(Ϧ) ⲟⲩⲟϣⲉⲙ",
+        "englishTransliteration": "(Kh) ouoshem"
+      }
+    ],
+    "reference": "503a",
+    "gloss": "vt. To knead, bruise",
+    "definition": "(Q) kneaded, compounded;",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "What is kneaded, dough",
+        "definition": "ma nouwsem: m. Kneading place."
+      }
+    ]
+  },
+  {
+    "headword": "ma nouwh",
+    "copticWord": "ⲙⲁ ⲛⲟⲩⲱϩ",
+    "englishTransliteration": "ma nouōh",
+    "partOfSpeech": "m",
+    "gloss": "dwelling-, halting-, resting-place",
+    "definition": "dwelling-, halting-, resting-place"
+  },
+  {
+    "headword": "ouwsc",
+    "copticWord": "ⲟⲩⲱϣⲥ",
+    "englishTransliteration": "ouōshs",
+    "variants": [
+      {
+        "word": "ouesc",
+        "copticWord": "ⲟⲩⲉϣⲥ",
+        "englishTransliteration": "oueshs"
+      },
+      {
+        "word": "(Q) ouosc",
+        "copticWord": "(Ϧ) ⲟⲩⲟϣⲥ",
+        "englishTransliteration": "(Kh) ouoshs"
+      },
+      {
+        "headword": "(3) ouoshs ebol",
+        "copticWord": "ⲟⲩⲱϣⲥ ⲉⲃⲟⲗ",
+        "englishTransliteration": "ouoshs ebol",
+        "gloss": "spread forth",
+        "definition": "spread forth",
+        "reference": "503b-504a",
+        "partOfSpeech": "vb"
+      }
+    ],
+    "reference": "503b",
+    "gloss": "vi. To become, be broad, at ease",
+    "definition": "vt. to make broad; ---: m. Breadth;",
+    "senses": [
+      {
+        "label": "ebol",
+        "gloss": "vi. To spread forth",
+        "definition": "--: m. Breadth, extent, ease; ou/sci, ouesci: f. Breadth."
+      }
+    ]
+  },
+  {
+    "headword": "jinouwh",
+    "copticWord": "ϫⲓⲛⲟⲩⲱϩ",
+    "englishTransliteration": "jinouōh",
+    "partOfSpeech": "m",
+    "gloss": "Act of dwelling, manner of life",
+    "definition": "Act of dwelling, manner of life"
+  },
+  {
+    "headword": "ouwst",
+    "copticWord": "ⲟⲩⲱϣⲧ",
+    "englishTransliteration": "ouōsht",
+    "reference": "504a",
+    "gloss": "vi. To worship, greet",
+    "definition": "vi. To worship, greet",
+    "senses": [
+      {
+        "label": "ejen",
+        "gloss": "vi To do obeisance upon",
+        "definition": "vi To do obeisance upon"
+      },
+      {
+        "label": "hijen",
+        "gloss": "vi. To do obeisance upon",
+        "definition": "vi. To do obeisance upon"
+      },
+      {
+        "label": "nahren",
+        "gloss": "vi. To worship before, in presence of",
+        "definition": "vi. To worship before, in presence of"
+      },
+      {
+        "label": "qa",
+        "gloss": "vi. To worship below, at",
+        "definition": "vi. To worship below, at"
+      }
+    ]
+  },
+  {
+    "headword": "ouwhem",
+    "copticWord": "ⲟⲩⲱϩⲉⲙ",
+    "englishTransliteration": "ouōhem",
+    "variants": [
+      {
+        "word": "ouohem",
+        "copticWord": "ⲟⲩⲟϩⲉⲙ",
+        "englishTransliteration": "ouohem"
+      },
+      {
+        "word": "ouahem",
+        "copticWord": "ⲟⲩⲁϩⲉⲙ",
+        "englishTransliteration": "ouahem"
+      },
+      {
+        "word": "ouo-hem",
+        "copticWord": "ⲟⲩⲟ-ϩⲉⲙ",
+        "englishTransliteration": "ouo-hem"
+      },
+      {
+        "word": "ouehem",
+        "copticWord": "ⲟⲩⲉϩⲉⲙ",
+        "englishTransliteration": "ouehem"
+      },
+      {
+        "word": "ouahem=",
+        "copticWord": "ⲟⲩⲁϩⲉⲙ",
+        "englishTransliteration": "ouahem"
+      },
+      {
+        "word": "(Q) ouohem",
+        "copticWord": "(Ϧ) ⲟⲩⲟϩⲉⲙ",
+        "englishTransliteration": "(Kh) ouohem"
+      },
+      {
+        "word": "p.c. ouahem",
+        "copticWord": "ⲡ.ⲥ. ⲟⲩⲁϩⲉⲙ",
+        "englishTransliteration": "p.s. ouahem"
+      },
+      {
+        "headword": "(3) ouohem ebol",
+        "copticWord": "ⲟⲩⲱϩⲉⲙ ⲉⲃⲟⲗ",
+        "englishTransliteration": "ouohem ebol",
+        "gloss": "interpret",
+        "definition": "interpret",
+        "reference": "510a",
+        "partOfSpeech": "vb"
+      }
+    ],
+    "reference": "509a",
+    "gloss": "vi. To repeat, answer",
+    "definition": "vt. To repeat, do again, add;",
+    "senses": [
+      {
+        "label": "e",
+        "gloss": "vi. To reply to",
+        "definition": "vi. To reply to"
+      },
+      {
+        "label": "ejen",
+        "gloss": "vi To reply to",
+        "definition": "vi To reply to"
+      },
+      {
+        "label": "n",
+        "gloss": "vi. To reply to, for",
+        "definition": "vi. To reply to, for"
+      }
+    ]
+  }
+]

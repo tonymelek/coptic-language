@@ -711,23 +711,6 @@
     "definition": "Christian"
   },
   {
-    "headword": "rictoc p",
-    "copticWord": "ⲣⲓⲥⲧⲟⲥ ⲡ",
-    "englishTransliteration": "ristos p",
-    "variants": [
-      {
-        "word": "c",
-        "copticWord": "ⲥ",
-        "englishTransliteration": "s"
-      }
-    ],
-    "reference": "Gk",
-    "partOfSpeech": "m",
-    "isGreek": true,
-    "gloss": "Christ",
-    "definition": "Christ"
-  },
-  {
     "headword": "ro",
     "copticWord": "ⲣⲟ",
     "englishTransliteration": "ro",

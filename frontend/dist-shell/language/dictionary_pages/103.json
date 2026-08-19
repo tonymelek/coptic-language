@@ -1,0 +1,421 @@
+[
+  {
+    "headword": "refce/rp",
+    "copticWord": "ⲣⲉϥⲥⲉⲏⲣⲡ",
+    "englishTransliteration": "refseirp",
+    "partOfSpeech": "m",
+    "gloss": "Wine drinker",
+    "definition": "Wine drinker"
+  },
+  {
+    "headword": "atcw",
+    "copticWord": "ⲁⲧⲥⲱ",
+    "englishTransliteration": "atsō",
+    "partOfSpeech": "adj",
+    "gloss": "Without drinking",
+    "definition": "Without drinking"
+  },
+  {
+    "headword": "jincw",
+    "copticWord": "ϫⲓⲛⲥⲱ",
+    "englishTransliteration": "jinsō",
+    "partOfSpeech": "m",
+    "gloss": "Drink",
+    "definition": "Drink"
+  },
+  {
+    "headword": "cwf",
+    "copticWord": "ⲥⲱϥ",
+    "englishTransliteration": "sōf",
+    "gloss": "pl. Drinking",
+    "definition": "pl. Drinking"
+  },
+  {
+    "headword": "cwb",
+    "copticWord": "ⲥⲱⲃ",
+    "englishTransliteration": "sōv",
+    "gloss": "To soak",
+    "definition": "To soak",
+    "crossReference": {
+      "target": "cwp",
+      "gloss": "To soak"
+    }
+  },
+  {
+    "headword": "hiy/ n",
+    "copticWord": "ϩⲓⲑⲏ ⲛ",
+    "englishTransliteration": "hithi n",
+    "partOfSpeech": "vb",
+    "gloss": "To lead on, go before,",
+    "definition": "To lead on, go before,"
+  },
+  {
+    "headword": "cwbi",
+    "copticWord": "ⲥⲱⲃⲓ",
+    "englishTransliteration": "sōvi",
+    "reference": "320b",
+    "gloss": "vi. To laugh, play",
+    "definition": "vt. to deride, mock;",
+    "senses": [
+      {
+        "label": "eqoun e",
+        "partOfSpeech": "vb",
+        "gloss": "To laugh at",
+        "definition": "To laugh at"
+      },
+      {
+        "label": "ejen",
+        "partOfSpeech": "vb",
+        "gloss": "To laugh at",
+        "definition": "To laugh at"
+      },
+      {
+        "label": "nem",
+        "partOfSpeech": "vb",
+        "gloss": "To sport with",
+        "definition": "To sport with"
+      },
+      {
+        "label": "nca",
+        "partOfSpeech": "vb",
+        "gloss": "To laugh at",
+        "definition": "To laugh at"
+      }
+    ]
+  },
+  {
+    "headword": "qajen",
+    "copticWord": "ϧⲁϫⲉⲛ",
+    "englishTransliteration": "khajen",
+    "partOfSpeech": "vb",
+    "gloss": "To lead on, go before",
+    "definition": "To lead on, go before"
+  },
+  {
+    "headword": "hwb ncwbi",
+    "copticWord": "ϩⲱⲃ ⲛⲥⲱⲃⲓ",
+    "englishTransliteration": "hōv nsōvi",
+    "partOfSpeech": "m",
+    "gloss": "Laughable matter",
+    "definition": "Laughable matter"
+  },
+  {
+    "headword": "iri noucwbi",
+    "copticWord": "ⲓⲣⲓ ⲛⲟⲩⲥⲱⲃⲓ",
+    "englishTransliteration": "iri nousōvi",
+    "partOfSpeech": "vb",
+    "gloss": "To make sport, mock",
+    "definition": "To make sport, mock"
+  },
+  {
+    "headword": "evahou",
+    "copticWord": "ⲉⲫⲁϩⲟⲩ",
+    "englishTransliteration": "efahou",
+    "partOfSpeech": "vb",
+    "gloss": "To draw back",
+    "definition": "To draw back"
+  },
+  {
+    "headword": "eth/",
+    "copticWord": "ⲉⲧϩⲏ",
+    "englishTransliteration": "ethi",
+    "partOfSpeech": "vb",
+    "gloss": "To go forward",
+    "definition": "To go forward"
+  },
+  {
+    "headword": "ma ncwbi",
+    "copticWord": "ⲙⲁ ⲛⲥⲱⲃⲓ",
+    "englishTransliteration": "ma nsōvi",
+    "partOfSpeech": "m",
+    "gloss": "Jesting place",
+    "definition": "Jesting place"
+  },
+  {
+    "headword": "refcwbi",
+    "copticWord": "ⲣⲉϥⲥⲱⲃⲓ",
+    "englishTransliteration": "refsōvi",
+    "partOfSpeech": "m",
+    "gloss": "Jesting, mocker",
+    "definition": "Jesting, mocker"
+  },
+  {
+    "headword": "jincwbi",
+    "copticWord": "ϫⲓⲛⲥⲱⲃⲓ",
+    "englishTransliteration": "jinsōvi",
+    "partOfSpeech": "m",
+    "gloss": "Laughter",
+    "definition": "Laughter"
+  },
+  {
+    "headword": "cwi",
+    "copticWord": "ⲥⲱⲓ",
+    "englishTransliteration": "sōi",
+    "reference": "318b",
+    "gloss": "vi. To become hairless",
+    "definition": "vi. To become hairless"
+  },
+  {
+    "headword": "cwit",
+    "copticWord": "ⲥⲱⲓⲧ",
+    "englishTransliteration": "sōit",
+    "reference": "359a",
+    "partOfSpeech": "m",
+    "gloss": "Fame, report",
+    "definition": "Fame, report"
+  },
+  {
+    "headword": "metcwit",
+    "copticWord": "ⲙⲉⲧⲥⲱⲓⲧ",
+    "englishTransliteration": "metsōit",
+    "partOfSpeech": "f",
+    "gloss": "Fame",
+    "definition": "Fame"
+  },
+  {
+    "headword": "ercwit",
+    "copticWord": "ⲉⲣⲥⲱⲓⲧ",
+    "englishTransliteration": "ersōit",
+    "variants": [
+      {
+        "word": "oi ncwit",
+        "copticWord": "ⲟⲓ ⲛⲥⲱⲓⲧ",
+        "englishTransliteration": "oi nsōit"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To become, be famous",
+    "definition": "To become, be famous"
+  },
+  {
+    "headword": "cwki",
+    "copticWord": "ⲥⲱⲕⲓ",
+    "englishTransliteration": "sōki",
+    "gloss": "To flow",
+    "definition": "To flow",
+    "crossReference": {
+      "target": "cwk",
+      "gloss": "To flow"
+    }
+  },
+  {
+    "headword": "]cwit",
+    "copticWord": "ϯⲥⲱⲓⲧ",
+    "englishTransliteration": "tisōit",
+    "partOfSpeech": "vb",
+    "gloss": "To be, make famous",
+    "definition": "To be, make famous"
+  },
+  {
+    "headword": "cwk",
+    "copticWord": "ⲥⲱⲕ",
+    "englishTransliteration": "sōk",
+    "gloss": "Sackcloth",
+    "definition": "Sackcloth",
+    "crossReference": {
+      "target": "cok",
+      "gloss": "Sackcloth"
+    },
+    "variants": [
+      {
+        "headword": "(8) sok (erat)",
+        "copticWord": "ⲥⲱⲕ (ⲉⲣⲁⲧ⸗)",
+        "englishTransliteration": "sok (erat)",
+        "gloss": "follow after",
+        "definition": "follow after",
+        "reference": "326b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(9) sok (ejn-)",
+        "copticWord": "ⲥⲱⲕ (ⲉϫⲛ-)",
+        "englishTransliteration": "sok (ejn-)",
+        "gloss": "flow, drag upon, approach",
+        "definition": "flow, drag upon, approach",
+        "reference": "326b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(10) sok (nsa-)",
+        "copticWord": "ⲥⲱⲕ (ⲛⲥⲁ-)",
+        "englishTransliteration": "sok (nsa-)",
+        "gloss": "draw, follow after",
+        "definition": "draw, follow after",
+        "reference": "327a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(11) sok (ha-)",
+        "copticWord": "ⲥⲱⲕ (ϩⲁ-)",
+        "englishTransliteration": "sok (ha-)",
+        "gloss": "flow, draw before, beneath, submit to",
+        "definition": "flow, draw before, beneath, submit to",
+        "reference": "327a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(12) sok (het)",
+        "copticWord": "ⲥⲱⲕ (ϩⲏⲧ⸗)",
+        "englishTransliteration": "sok (het)",
+        "gloss": "lead on, go before",
+        "definition": "lead on, go before",
+        "reference": "327a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(13) sok (ebol)",
+        "copticWord": "ⲥⲱⲕ (ⲉⲃⲟⲗ)",
+        "englishTransliteration": "sok (ebol)",
+        "gloss": "be drawn, come forth, draw forth",
+        "definition": "be drawn, come forth, draw forth",
+        "reference": "327b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(14) sok (epeset)",
+        "copticWord": "ⲥⲱⲕ (ⲉⲡⲉⲥⲏⲧ)",
+        "englishTransliteration": "sok (epeset)",
+        "gloss": "flow down, bring down",
+        "definition": "flow down, bring down",
+        "reference": "327b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(11) sok het",
+        "copticWord": "ⲥⲱⲕ ϩⲏⲧ",
+        "englishTransliteration": "sok het",
+        "gloss": "persuade",
+        "definition": "persuade",
+        "reference": "716a",
+        "partOfSpeech": "vb",
+        "crossReference": {
+          "target": "sok",
+          "gloss": "flow (as water, hair), blow (as wind, smoke), move on swiftly, glide, draw, be drawn"
+        }
+      }
+    ]
+  },
+  {
+    "headword": "cwl",
+    "copticWord": "ⲥⲱⲗ",
+    "englishTransliteration": "sōl",
+    "variants": [
+      {
+        "word": "col=",
+        "copticWord": "ⲥⲟⲗ",
+        "englishTransliteration": "sol"
+      }
+    ],
+    "reference": "330a",
+    "gloss": "vt. To dissipate, pervert",
+    "definition": "vt. To dissipate, pervert"
+  },
+  {
+    "headword": "cwlk",
+    "copticWord": "ⲥⲱⲗⲕ",
+    "englishTransliteration": "sōlk",
+    "variants": [
+      {
+        "word": "colk=",
+        "copticWord": "ⲥⲟⲗⲕ",
+        "englishTransliteration": "solk"
+      }
+    ],
+    "reference": "330b",
+    "gloss": "vi. To cleave, adhere",
+    "definition": "vt. To make cleave, join."
+  },
+  {
+    "headword": "cwlep",
+    "copticWord": "ⲥⲱⲗⲉⲡ",
+    "englishTransliteration": "sōlep",
+    "variants": [
+      {
+        "word": "colp=",
+        "copticWord": "ⲥⲟⲗⲡ",
+        "englishTransliteration": "solp"
+      },
+      {
+        "word": "colp",
+        "note": "Q",
+        "copticWord": "ⲥⲟⲗⲡ",
+        "englishTransliteration": "solp"
+      }
+    ],
+    "reference": "330b",
+    "gloss": "vi. To break, burst",
+    "definition": "vt. to break, cut off;",
+    "senses": [
+      {
+        "label": "nca",
+        "gloss": "vi. To tear at",
+        "definition": "vi. To tear at"
+      },
+      {
+        "label": "qen",
+        "gloss": "vi. To be broken, separated from",
+        "definition": "vi. To be broken, separated from"
+      },
+      {
+        "label": "ebol",
+        "gloss": "vi. To be cut, broken off",
+        "definition": "vt. To cut off, decide;"
+      },
+      {
+        "label": "epec/t",
+        "gloss": "vi. To cut off, fall down",
+        "definition": "atcwlep: adj. Unbroken."
+      }
+    ]
+  },
+  {
+    "headword": "ak ebol",
+    "copticWord": "ⲁⲕ ⲉⲃⲟⲗ",
+    "englishTransliteration": "ak evol",
+    "partOfSpeech": "vb",
+    "gloss": "To cease, pause (here)",
+    "definition": "To cease, pause (here)"
+  },
+  {
+    "headword": "erat=",
+    "copticWord": "ⲉⲣⲁⲧ",
+    "englishTransliteration": "erat",
+    "partOfSpeech": "vb",
+    "gloss": "To follow after",
+    "definition": "To follow after"
+  },
+  {
+    "headword": "cwlj",
+    "copticWord": "ⲥⲱⲗϫ",
+    "englishTransliteration": "sōlj",
+    "variants": [
+      {
+        "word": "celj",
+        "copticWord": "ⲥⲉⲗϫ",
+        "englishTransliteration": "selj"
+      },
+      {
+        "word": "colj=",
+        "copticWord": "ⲥⲟⲗϫ",
+        "englishTransliteration": "solj"
+      }
+    ],
+    "reference": "333b",
+    "gloss": "vi. To smear, wipe, obliterate",
+    "definition": "vi. To smear, wipe, obliterate",
+    "senses": [
+      {
+        "label": "ebol",
+        "partOfSpeech": "vb",
+        "gloss": "To wipe out",
+        "definition": "To wipe out"
+      },
+      {
+        "label": "atcwlj",
+        "partOfSpeech": "adj",
+        "gloss": "Unobliterated",
+        "definition": "Unobliterated"
+      }
+    ]
+  }
+]

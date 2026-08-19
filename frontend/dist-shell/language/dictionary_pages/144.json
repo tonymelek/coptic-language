@@ -1,0 +1,112 @@
+[
+  {
+    "headword": "metsv/r",
+    "copticWord": "ⲙⲉⲧϣⲫⲏⲣ",
+    "englishTransliteration": "metshfir",
+    "partOfSpeech": "f",
+    "gloss": "Friendship, community",
+    "definition": "Friendship, community"
+  },
+  {
+    "headword": "sv/ri",
+    "copticWord": "ϣⲫⲏⲣⲓ",
+    "englishTransliteration": "shfiri",
+    "reference": "581a",
+    "partOfSpeech": "f",
+    "gloss": "Wonder, amazment",
+    "definition": "Wonder, amazment"
+  },
+  {
+    "headword": "ersv/ri",
+    "copticWord": "ⲉⲣϣⲫⲏⲣⲓ",
+    "englishTransliteration": "ershfiri",
+    "variants": [
+      {
+        "word": "oi nsv/ri",
+        "copticWord": "ⲟⲓ ⲛϣⲫⲏⲣⲓ",
+        "englishTransliteration": "oi nshfiri"
+      }
+    ],
+    "gloss": "vi. To be amazed",
+    "definition": "vi. To be amazed"
+  },
+  {
+    "headword": "vt. To marvel at",
+    "copticWord": "ⲫⲧ. Ⲧⲟ ⲙⲁⲣⲫⲉⲗ ⲁⲧ",
+    "englishTransliteration": "ft. To marfel at",
+    "variants": [
+      {
+        "word": "admire. refyamie sv/ri",
+        "copticWord": "ⲁⲇⲙⲓⲣⲉ. ⲣⲉϥⲑⲁⲙⲓⲉ ϣⲫⲏⲣⲓ",
+        "englishTransliteration": "admire. refthamie shfiri"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "Wonder worker",
+    "definition": "Wonder worker"
+  },
+  {
+    "headword": "vt. To make",
+    "copticWord": "ⲫⲧ. Ⲧⲟ ⲙⲁⲕⲉ",
+    "englishTransliteration": "ft. To make",
+    "variants": [
+      {
+        "word": "impress mark",
+        "copticWord": "ⲓⲙⲡⲣⲉϣϣ ⲙⲁⲣⲕ",
+        "englishTransliteration": "impreshsh mark"
+      },
+      {
+        "word": "trace line",
+        "copticWord": "ⲧⲣⲁⲥⲉ ⲗⲓⲛⲉ",
+        "englishTransliteration": "trase line"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "Stake, mark",
+    "definition": "Stake, mark"
+  },
+  {
+    "headword": "swlhc",
+    "copticWord": "ϣⲱⲗϩⲥ",
+    "englishTransliteration": "shōlhs",
+    "partOfSpeech": "n",
+    "gloss": "Line traced",
+    "definition": "Line traced"
+  },
+  {
+    "headword": "h/ nswm",
+    "copticWord": "ϩⲏ ⲛϣⲱⲙ",
+    "englishTransliteration": "hi nshōm",
+    "partOfSpeech": "m",
+    "gloss": "Spring. swm v. som - Father-in-law swmi: (564b)",
+    "definition": "Spring. swm v. som - Father-in-law swmi: (564b)",
+    "senses": [
+      {
+        "label": "e",
+        "gloss": "vi. To be sick at, in --- nten: vi. To be sick through",
+        "definition": "--- qen: vi. To be sick in, as to; ---, sen-, san-: m. Sickness, disease;"
+      },
+      {
+        "label": "atswni",
+        "partOfSpeech": "adj",
+        "gloss": "Without sickness",
+        "definition": "ma nn/ etswni: m. Place of the sick, infirmary, hospital; refswni: m. State of sickness."
+      }
+    ]
+  },
+  {
+    "headword": "f. Cliff",
+    "copticWord": "ϥ. Ⲥⲗⲓϥϥ",
+    "englishTransliteration": "f. Sliff",
+    "variants": [
+      {
+        "word": "precipice. swmi v. som - Mother-in-law. swni",
+        "copticWord": "ⲡⲣⲉⲥⲓⲡⲓⲥⲉ. ϣⲱⲙⲓ ⲫ. ϣⲟⲙ - Ⲙⲟⲧϩⲉⲣ-ⲓⲛ-ⲗⲁⲱ. ϣⲱⲛⲓ",
+        "englishTransliteration": "presipise. shōmi f. shom - Mother-in-laō. shōni"
+      }
+    ],
+    "reference": "570b",
+    "gloss": "vi. To be sick, weak",
+    "definition": "vi. To be sick, weak"
+  }
+]

@@ -1,0 +1,713 @@
+[
+  {
+    "headword": "]be",
+    "copticWord": "ϯⲃⲉ",
+    "englishTransliteration": "tive",
+    "variants": [
+      {
+        "word": "e",
+        "copticWord": "ⲉ",
+        "englishTransliteration": "e"
+      },
+      {
+        "word": "]mpibe",
+        "copticWord": "ϯⲙⲡⲓⲃⲉ",
+        "englishTransliteration": "timpeebe"
+      },
+      {
+        "word": "e",
+        "copticWord": "ⲉ",
+        "englishTransliteration": "e"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To pay wage, reward",
+    "definition": "To pay wage, reward",
+    "senses": [
+      {
+        "label": "ref]be",
+        "partOfSpeech": "m",
+        "gloss": "Wage-giver, hirer",
+        "definition": "Wage-giver, hirer"
+      }
+    ]
+  },
+  {
+    "headword": "bi]",
+    "copticWord": "ⲃⲓϯ",
+    "englishTransliteration": "viti",
+    "reference": "495a"
+  },
+  {
+    "headword": "vi. To waste away",
+    "copticWord": "ⲫⲓ. Ⲧⲟ ⲱⲁϣⲧⲉ ⲁⲱⲁⲑ",
+    "englishTransliteration": "fi. To ōashte aōath",
+    "variants": [
+      {
+        "word": "to dry up. bi",
+        "copticWord": "ⲧⲟ ⲇⲣⲑ ⲩⲡ. ⲃⲓ",
+        "englishTransliteration": "to drth yp. vi"
+      },
+      {
+        "word": "ki v. bik",
+        "copticWord": "ⲕⲓ ⲫ. ⲃⲓⲕ",
+        "englishTransliteration": "ki f. vik"
+      },
+      {
+        "word": "i - A plant. bij",
+        "copticWord": "ⲓ - Ⲁ ⲡⲗⲁⲛⲧ. ⲃⲓϫ",
+        "englishTransliteration": "i - A plant. veeg"
+      }
+    ],
+    "reference": "48a",
+    "partOfSpeech": "m",
+    "gloss": "Bones used as dice, i.e. dice",
+    "definition": "Bones used as dice, i.e. dice"
+  },
+  {
+    "headword": "[ibe",
+    "copticWord": "ϭⲓⲃⲉ",
+    "englishTransliteration": "cheebe",
+    "variants": [
+      {
+        "word": "e",
+        "copticWord": "ⲉ",
+        "englishTransliteration": "e"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To receive wage",
+    "definition": "To receive wage",
+    "senses": [
+      {
+        "label": "[iebe",
+        "partOfSpeech": "vb",
+        "gloss": "To take at a wage,",
+        "definition": "To take at a wage,"
+      }
+    ]
+  },
+  {
+    "headword": "biji",
+    "copticWord": "ⲃⲓϫⲓ",
+    "englishTransliteration": "veegi",
+    "reference": "48b",
+    "gloss": "vi. To be wrecked",
+    "definition": "vi. To be wrecked"
+  },
+  {
+    "headword": "bla",
+    "copticWord": "ⲃⲗⲁ",
+    "englishTransliteration": "vla",
+    "reference": "37a",
+    "gloss": "A musical instrument, a type of harp or small bell",
+    "definition": "A musical instrument, a type of harp or small bell"
+  },
+  {
+    "headword": "blaptin",
+    "copticWord": "ⲃⲗⲁⲡⲧⲓⲛ",
+    "englishTransliteration": "vlaptin",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "(w/ er-) vb. To diable, hinder, distract, mislead",
+    "definition": "damage, hurt, injure."
+  },
+  {
+    "headword": "rembe",
+    "copticWord": "ⲣⲉⲙⲃⲉ",
+    "englishTransliteration": "remve",
+    "variants": [
+      {
+        "word": "e",
+        "copticWord": "ⲉ",
+        "englishTransliteration": "e"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "Wage-man, hireling",
+    "definition": "Wage-man, hireling"
+  },
+  {
+    "headword": "atbe",
+    "copticWord": "ⲁⲧⲃⲉ",
+    "englishTransliteration": "atve",
+    "variants": [
+      {
+        "word": "e",
+        "copticWord": "ⲉ",
+        "englishTransliteration": "e"
+      }
+    ],
+    "partOfSpeech": "adj",
+    "gloss": "Wageless",
+    "definition": "Wageless"
+  },
+  {
+    "headword": "sebiebe",
+    "copticWord": "ϣⲉⲃⲓⲉⲃⲉ",
+    "englishTransliteration": "shevieve",
+    "variants": [
+      {
+        "word": "e",
+        "copticWord": "ⲉ",
+        "englishTransliteration": "e"
+      }
+    ],
+    "partOfSpeech": "m",
+    "gloss": "Recompense",
+    "definition": "Recompense"
+  },
+  {
+    "headword": "bo/yeia",
+    "copticWord": "ⲃⲟⲏⲑⲉⲓⲁ",
+    "englishTransliteration": "voithia",
+    "variants": [
+      {
+        "word": "-yia",
+        "copticWord": "-ⲑⲓⲁ",
+        "englishTransliteration": "-thia"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Help, aid, cure",
+    "definition": "Help, aid, cure"
+  },
+  {
+    "headword": "bo/yia",
+    "copticWord": "ⲃⲟⲏⲑⲓⲁ",
+    "englishTransliteration": "voithia",
+    "gloss": "Help",
+    "definition": "Help",
+    "crossReference": {
+      "target": "bo/yeia",
+      "gloss": "Help"
+    }
+  },
+  {
+    "headword": "bes",
+    "copticWord": "ⲃⲉϣ",
+    "englishTransliteration": "vesh",
+    "variants": [
+      {
+        "word": "b/s",
+        "copticWord": "ⲃⲏϣ",
+        "englishTransliteration": "vish"
+      }
+    ],
+    "reference": "46b",
+    "partOfSpeech": "n",
+    "gloss": "Unripe fruit of fig tree. besswi v. bws - Naked",
+    "definition": "Unripe fruit of fig tree. besswi v. bws - Naked"
+  },
+  {
+    "headword": "bo/yoc",
+    "copticWord": "ⲃⲟⲏⲑⲟⲥ",
+    "englishTransliteration": "voithos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Helper, auxiliary, assistant",
+    "definition": "Helper, auxiliary, assistant"
+  },
+  {
+    "headword": "behbeh",
+    "copticWord": "ⲃⲉϩⲃⲉϩ",
+    "englishTransliteration": "vehveh",
+    "reference": "48a"
+  },
+  {
+    "headword": "m. Howling",
+    "copticWord": "ⲙ. Ϩⲟⲱⲗⲓⲛⲅ",
+    "englishTransliteration": "m. Hoōling",
+    "variants": [
+      {
+        "word": "barking. behi",
+        "copticWord": "ⲃⲁⲣⲕⲓⲛⲅ. ⲃⲉϩⲓ",
+        "englishTransliteration": "varking. vehi"
+      }
+    ],
+    "reference": "47b",
+    "partOfSpeech": "m",
+    "gloss": "File (iron)",
+    "definition": "File (iron)"
+  },
+  {
+    "headword": "bejbwj=",
+    "copticWord": "ⲃⲉϫⲃⲱϫ",
+    "englishTransliteration": "vejvōj",
+    "gloss": "To chew",
+    "definition": "To chew",
+    "crossReference": {
+      "target": "ouojouej",
+      "gloss": "To chew"
+    }
+  },
+  {
+    "headword": "boisi",
+    "copticWord": "ⲃⲟⲓϣⲓ",
+    "englishTransliteration": "voishi",
+    "reference": "47a",
+    "partOfSpeech": "f",
+    "gloss": "A desert animal, a kind of antelope",
+    "definition": "A desert animal, a kind of antelope"
+  },
+  {
+    "headword": "beji",
+    "copticWord": "ⲃⲉϫⲓ",
+    "englishTransliteration": "veji",
+    "gloss": "Falcon",
+    "definition": "Falcon",
+    "crossReference": {
+      "target": "b/j",
+      "gloss": "Falcon"
+    }
+  },
+  {
+    "headword": "boki",
+    "copticWord": "ⲃⲟⲕⲓ",
+    "englishTransliteration": "voki",
+    "reference": "31a",
+    "partOfSpeech": "n",
+    "gloss": "Verbally in erboki, emboki",
+    "definition": "Verbally in erboki, emboki",
+    "senses": [
+      {
+        "label": "vi",
+        "gloss": "To conceive, conceive by",
+        "definition": "vt. to conceive (a child);"
+      },
+      {
+        "label": "mboki",
+        "partOfSpeech": "m",
+        "gloss": "Conception",
+        "definition": "f. pregnant woman;"
+      }
+    ]
+  },
+  {
+    "headword": "bej/n",
+    "copticWord": "ⲃⲉϫⲏⲛ",
+    "englishTransliteration": "vejin",
+    "gloss": "A rush",
+    "definition": "A rush",
+    "crossReference": {
+      "target": "be[/n",
+      "gloss": "A rush"
+    }
+  },
+  {
+    "headword": "be[/n",
+    "copticWord": "ⲃⲉϭⲏⲛ",
+    "englishTransliteration": "vechin",
+    "variants": [
+      {
+        "word": "-j/n",
+        "copticWord": "-ϫⲏⲛ",
+        "englishTransliteration": "-jin"
+      }
+    ],
+    "reference": "48b"
+  },
+  {
+    "headword": "n. A rush. b/",
+    "copticWord": "ⲛ. Ⲁ ⲣⲩϣϩ. ⲃⲏ",
+    "englishTransliteration": "n. A ryshh. vi",
+    "reference": "28a",
+    "partOfSpeech": "f",
+    "gloss": "Grave",
+    "definition": "Grave"
+  },
+  {
+    "headword": "b/b",
+    "copticWord": "ⲃⲏⲃ",
+    "englishTransliteration": "veeb",
+    "reference": "28b",
+    "partOfSpeech": "m",
+    "gloss": "Cave, hole, den, nest",
+    "definition": "Cave, hole, den, nest"
+  },
+  {
+    "headword": "b/k",
+    "copticWord": "ⲃⲏⲕ",
+    "englishTransliteration": "vik",
+    "gloss": "(Q) v. bwk - Gone",
+    "definition": "(Q) v. bwk - Gone"
+  },
+  {
+    "headword": "b/l",
+    "copticWord": "ⲃⲏⲗ",
+    "englishTransliteration": "vil",
+    "gloss": "(Q) v. bwl - To loosen",
+    "definition": "(Q) v. bwl - To loosen"
+  },
+  {
+    "headword": "jinerboki",
+    "copticWord": "ϫⲓⲛⲉⲣⲃⲟⲕⲓ",
+    "englishTransliteration": "jinervoki",
+    "partOfSpeech": "mf",
+    "gloss": "Conception",
+    "definition": "Conception"
+  },
+  {
+    "headword": "bol=",
+    "copticWord": "ⲃⲟⲗ",
+    "englishTransliteration": "vol",
+    "gloss": "To loosen",
+    "definition": "To loosen",
+    "crossReference": {
+      "target": "bwl",
+      "gloss": "To loosen"
+    }
+  },
+  {
+    "headword": "bolc",
+    "copticWord": "ⲃⲟⲗⲥ",
+    "englishTransliteration": "vols",
+    "gloss": "To lean",
+    "definition": "To lean",
+    "crossReference": {
+      "target": "ouwlc",
+      "gloss": "To lean"
+    }
+  },
+  {
+    "headword": "b/ma",
+    "copticWord": "ⲃⲏⲙⲁ",
+    "englishTransliteration": "vima",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Step, pace",
+    "definition": "raised place or tribune, tribunal of a magistrate."
+  },
+  {
+    "headword": "boni",
+    "copticWord": "ⲃⲟⲛⲓ",
+    "englishTransliteration": "voni",
+    "gloss": "Evil",
+    "definition": "Evil",
+    "crossReference": {
+      "target": "bwn",
+      "gloss": "Evil"
+    }
+  },
+  {
+    "headword": "b/ni",
+    "copticWord": "ⲃⲏⲛⲓ",
+    "englishTransliteration": "vini",
+    "variants": [
+      {
+        "word": "beni",
+        "copticWord": "ⲃⲉⲛⲓ",
+        "englishTransliteration": "veni"
+      }
+    ],
+    "reference": "40a",
+    "partOfSpeech": "m",
+    "gloss": "Swallow (a bird)",
+    "definition": "Swallow (a bird)"
+  },
+  {
+    "headword": "b/t",
+    "copticWord": "ⲃⲏⲧ",
+    "englishTransliteration": "vit",
+    "reference": "45a",
+    "partOfSpeech": "m",
+    "gloss": "Palm-leaf",
+    "definition": "f. rib."
+  },
+  {
+    "headword": "bon]",
+    "copticWord": "ⲃⲟⲛϯ",
+    "englishTransliteration": "vonti",
+    "variants": [
+      {
+        "word": "fen]",
+        "copticWord": "ϥⲉⲛϯ",
+        "englishTransliteration": "fenti"
+      }
+    ],
+    "reference": "41a",
+    "partOfSpeech": "f",
+    "gloss": "Gourd, cucumber",
+    "definition": "gourd-garden;",
+    "senses": [
+      {
+        "label": "[loj mbon]",
+        "gloss": "n . Gourd",
+        "definition": "n . Gourd"
+      }
+    ]
+  },
+  {
+    "headword": "b/tc/",
+    "copticWord": "ⲃⲏⲧⲥⲏ",
+    "englishTransliteration": "vitsi",
+    "gloss": "Female warrior",
+    "definition": "Female warrior",
+    "crossReference": {
+      "target": "bwtc",
+      "gloss": "Female warrior"
+    }
+  },
+  {
+    "headword": "borber",
+    "copticWord": "ⲃⲟⲣⲃⲉⲣ",
+    "englishTransliteration": "vorver",
+    "variants": [
+      {
+        "word": "berber",
+        "copticWord": "ⲃⲉⲣⲃⲉⲣ",
+        "englishTransliteration": "verver"
+      },
+      {
+        "word": "berbwr=",
+        "copticWord": "ⲃⲉⲣⲃⲱⲣ",
+        "englishTransliteration": "vervōr"
+      }
+    ],
+    "reference": "657a",
+    "gloss": "vi",
+    "definition": "vi",
+    "senses": [
+      {
+        "gloss": "To be loosed, fall to pieces",
+        "definition": "vt. to throw down, push;"
+      },
+      {
+        "label": "ebol",
+        "partOfSpeech": "vb",
+        "gloss": "To cast forth",
+        "definition": "To cast forth"
+      },
+      {
+        "label": "ehr/i",
+        "partOfSpeech": "vb",
+        "gloss": "To cast upon, into",
+        "definition": "--: m. Expulsion."
+      }
+    ]
+  },
+  {
+    "headword": "b/s",
+    "copticWord": "ⲃⲏϣ",
+    "englishTransliteration": "vish",
+    "gloss": "v. bes - Unripe fruit",
+    "definition": "v. bes - Unripe fruit"
+  },
+  {
+    "headword": "b/j",
+    "copticWord": "ⲃⲏϫ",
+    "englishTransliteration": "vij",
+    "variants": [
+      {
+        "word": "beji",
+        "copticWord": "ⲃⲉϫⲓ",
+        "englishTransliteration": "veji"
+      }
+    ],
+    "reference": "48b",
+    "partOfSpeech": "m",
+    "gloss": "Falcon",
+    "definition": "Falcon"
+  },
+  {
+    "headword": "biki",
+    "copticWord": "ⲃⲓⲕⲓ",
+    "englishTransliteration": "viki",
+    "reference": "31a",
+    "partOfSpeech": "n",
+    "gloss": "Horse's strap, girth, nose ring",
+    "definition": "Horse's strap, girth, nose ring"
+  },
+  {
+    "headword": "bocer",
+    "copticWord": "ⲃⲟⲥⲉⲣ",
+    "englishTransliteration": "voser",
+    "gloss": "Oar",
+    "definition": "Oar",
+    "crossReference": {
+      "target": "ouocer",
+      "gloss": "Oar"
+    }
+  },
+  {
+    "headword": "bik",
+    "copticWord": "ⲃⲓⲕ",
+    "englishTransliteration": "vik",
+    "variants": [
+      {
+        "word": "i",
+        "copticWord": "ⲓ",
+        "englishTransliteration": "i"
+      },
+      {
+        "word": "buk",
+        "copticWord": "ⲃⲩⲕ",
+        "englishTransliteration": "vyk"
+      },
+      {
+        "word": "i",
+        "copticWord": "ⲓ",
+        "englishTransliteration": "i"
+      },
+      {
+        "word": "bi",
+        "copticWord": "ⲃⲓ",
+        "englishTransliteration": "vi"
+      },
+      {
+        "word": "ki",
+        "copticWord": "ⲕⲓ",
+        "englishTransliteration": "ki"
+      },
+      {
+        "word": "bukki",
+        "copticWord": "ⲃⲩⲕⲕⲓ",
+        "englishTransliteration": "vykki"
+      }
+    ],
+    "reference": "31a",
+    "partOfSpeech": "n",
+    "gloss": "A plant or fruit, cyperus esculentus",
+    "definition": "colt's foot."
+  },
+  {
+    "headword": "bot",
+    "copticWord": "ⲃⲟⲧ",
+    "englishTransliteration": "vot",
+    "gloss": "Pollute",
+    "definition": "Pollute",
+    "crossReference": {
+      "target": "bo]",
+      "gloss": "Pollute"
+    }
+  },
+  {
+    "headword": "botan/",
+    "copticWord": "ⲃⲟⲧⲁⲛⲏ",
+    "englishTransliteration": "votani",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Pasture, fodder, herb, weed",
+    "definition": "botany."
+  },
+  {
+    "headword": "binaj",
+    "copticWord": "ⲃⲓⲛⲁϫ",
+    "englishTransliteration": "vinaj",
+    "reference": "41b",
+    "partOfSpeech": "m",
+    "gloss": "Dish",
+    "definition": "Dish"
+  },
+  {
+    "headword": "bini",
+    "copticWord": "ⲃⲓⲛⲓ",
+    "englishTransliteration": "vini",
+    "reference": "40a",
+    "partOfSpeech": "f",
+    "gloss": "Crucible, among goldsmith's utensils",
+    "definition": "Crucible, among goldsmith's utensils"
+  },
+  {
+    "headword": "botbet",
+    "copticWord": "ⲃⲟⲧⲃⲉⲧ",
+    "englishTransliteration": "votvet",
+    "gloss": "To be green",
+    "definition": "To be green",
+    "crossReference": {
+      "target": "ouwt",
+      "gloss": "To be green"
+    }
+  },
+  {
+    "headword": "botc=",
+    "copticWord": "ⲃⲟⲧⲥ",
+    "englishTransliteration": "vots",
+    "gloss": "To fight",
+    "definition": "To fight",
+    "crossReference": {
+      "target": "bwtc",
+      "gloss": "To fight"
+    }
+  },
+  {
+    "headword": "bioc",
+    "copticWord": "ⲃⲓⲟⲥ",
+    "englishTransliteration": "vios",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Lifetime, livelihood, means of living, life, vita",
+    "definition": "Lifetime, livelihood, means of living, life, vita"
+  },
+  {
+    "headword": "bosbes",
+    "copticWord": "ⲃⲟϣⲃⲉϣ",
+    "englishTransliteration": "voshvesh",
+    "gloss": "To strike",
+    "definition": "To strike",
+    "crossReference": {
+      "target": "ouosoues",
+      "gloss": "To strike"
+    }
+  },
+  {
+    "headword": "bof",
+    "copticWord": "ⲃⲟϥ",
+    "englishTransliteration": "vof",
+    "reference": "505a",
+    "partOfSpeech": "m",
+    "gloss": "Lung",
+    "definition": "Lung"
+  },
+  {
+    "headword": "bir",
+    "copticWord": "ⲃⲓⲣ",
+    "englishTransliteration": "vir",
+    "variants": [
+      {
+        "type": "f.",
+        "word": "bairi",
+        "copticWord": "ⲃⲁⲓⲣⲓ",
+        "englishTransliteration": "vairi"
+      },
+      {
+        "type": "pl.",
+        "word": "br/oui",
+        "copticWord": "ⲃⲣⲏⲟⲩⲓ",
+        "englishTransliteration": "vrioui"
+      }
+    ],
+    "reference": "41b",
+    "partOfSpeech": "m",
+    "gloss": "Basket (of palm-leaves)",
+    "definition": "Basket (of palm-leaves)"
+  },
+  {
+    "headword": "boh",
+    "copticWord": "ⲃⲟϩ",
+    "englishTransliteration": "voh",
+    "gloss": "Name of an idol",
+    "definition": "Name of an idol",
+    "crossReference": {
+      "target": "bwwh",
+      "gloss": "Name of an idol"
+    }
+  },
+  {
+    "headword": "bici",
+    "copticWord": "ⲃⲓⲥⲓ",
+    "englishTransliteration": "visi",
+    "gloss": "To saw",
+    "definition": "To saw",
+    "crossReference": {
+      "target": "ouici",
+      "gloss": "To saw"
+    }
+  }
+]

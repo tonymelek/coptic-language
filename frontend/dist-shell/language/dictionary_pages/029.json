@@ -1,0 +1,653 @@
+[
+  {
+    "headword": "erman",
+    "copticWord": "ⲉⲣⲙⲁⲛ",
+    "englishTransliteration": "erman",
+    "reference": "703a",
+    "partOfSpeech": "m",
+    "gloss": "Pomegranate (tree or fruit)",
+    "definition": "Pomegranate (tree or fruit)"
+  },
+  {
+    "headword": "ernasth/t",
+    "copticWord": "ⲉⲣⲛⲁϣⲧϩⲏⲧ",
+    "englishTransliteration": "ernashthit",
+    "gloss": "To be hard hearted. erna/t v. nai - To be pitiful",
+    "definition": "To be hard hearted. erna/t v. nai - To be pitiful",
+    "crossReference": {
+      "target": "nsot",
+      "gloss": "To be hard hearted. erna/t v. nai - To be pitiful"
+    }
+  },
+  {
+    "headword": "ernas]",
+    "copticWord": "ⲉⲣⲛⲁϣϯ",
+    "englishTransliteration": "ernashti",
+    "gloss": "To be protector",
+    "definition": "To be protector",
+    "crossReference": {
+      "target": "nsot",
+      "gloss": "To be protector"
+    }
+  },
+  {
+    "headword": "ermarturoc",
+    "copticWord": "ⲉⲣⲙⲁⲣⲧⲩⲣⲟⲥ",
+    "englishTransliteration": "ermartyros",
+    "gloss": "To be martyred",
+    "definition": "To be martyred",
+    "crossReference": {
+      "target": "marturia",
+      "gloss": "To be martyred"
+    }
+  },
+  {
+    "headword": "ernei",
+    "copticWord": "ⲉⲣⲛⲉⲓ",
+    "englishTransliteration": "erni",
+    "gloss": "To make time",
+    "definition": "To make time",
+    "crossReference": {
+      "target": "nei",
+      "gloss": "To make time"
+    }
+  },
+  {
+    "headword": "ermactiggoc",
+    "copticWord": "ⲉⲣⲙⲁⲥⲧⲓⲅⲅⲟⲥ",
+    "englishTransliteration": "ermastingos",
+    "gloss": "To whip",
+    "definition": "To whip",
+    "crossReference": {
+      "target": "mactiggoc",
+      "gloss": "To whip"
+    }
+  },
+  {
+    "headword": "erneste",
+    "copticWord": "ⲉⲣⲛⲉϣⲧⲉ",
+    "englishTransliteration": "erneshte",
+    "gloss": "To become hard",
+    "definition": "To become hard",
+    "crossReference": {
+      "target": "neste",
+      "gloss": "To become hard"
+    }
+  },
+  {
+    "headword": "ermatoi",
+    "copticWord": "ⲉⲣⲙⲁⲧⲟⲓ",
+    "englishTransliteration": "ermatoi",
+    "gloss": "To become soldier",
+    "definition": "To become soldier",
+    "crossReference": {
+      "target": "matoi",
+      "gloss": "To become soldier"
+    }
+  },
+  {
+    "headword": "ern/b",
+    "copticWord": "ⲉⲣⲛⲏⲃ",
+    "englishTransliteration": "erneeb",
+    "gloss": "To be lord",
+    "definition": "To be lord",
+    "crossReference": {
+      "target": "n/b",
+      "gloss": "To be lord"
+    }
+  },
+  {
+    "headword": "ermeyna/t",
+    "copticWord": "ⲉⲣⲙⲉⲑⲛⲁⲏⲧ",
+    "englishTransliteration": "ermethnait",
+    "gloss": "To have pity",
+    "definition": "To have pity",
+    "crossReference": {
+      "target": "nai",
+      "gloss": "To have pity"
+    }
+  },
+  {
+    "headword": "ern/cteuin",
+    "copticWord": "ⲉⲣⲛⲏⲥⲧⲉⲩⲓⲛ",
+    "englishTransliteration": "ernistevin",
+    "gloss": "To fast",
+    "definition": "To fast",
+    "crossReference": {
+      "target": "n/ctia",
+      "gloss": "To fast"
+    }
+  },
+  {
+    "headword": "ermeyre",
+    "copticWord": "ⲉⲣⲙⲉⲑⲣⲉ",
+    "englishTransliteration": "ermethre",
+    "gloss": "To testify",
+    "definition": "To testify",
+    "crossReference": {
+      "target": "meyre",
+      "gloss": "To testify"
+    }
+  },
+  {
+    "headword": "ermei",
+    "copticWord": "ⲉⲣⲙⲉⲓ",
+    "englishTransliteration": "ermi",
+    "gloss": "to be lover of",
+    "definition": "to be lover of",
+    "crossReference": {
+      "target": "mei",
+      "gloss": "to be lover of"
+    }
+  },
+  {
+    "headword": "ermeletan",
+    "copticWord": "ⲉⲣⲙⲉⲗⲉⲧⲁⲛ",
+    "englishTransliteration": "ermeletan",
+    "gloss": "To meditate",
+    "definition": "To meditate",
+    "crossReference": {
+      "target": "melet/",
+      "gloss": "To meditate"
+    }
+  },
+  {
+    "headword": "ermelitan",
+    "copticWord": "ⲉⲣⲙⲉⲗⲓⲧⲁⲛ",
+    "englishTransliteration": "ermelitan",
+    "gloss": "To meditate",
+    "definition": "To meditate",
+    "crossReference": {
+      "target": "melet/",
+      "gloss": "To meditate"
+    }
+  },
+  {
+    "headword": "ern/vin",
+    "copticWord": "ⲉⲣⲛⲏⲫⲓⲛ",
+    "englishTransliteration": "ernifin",
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "gloss": "To be sober, be self-controlled, recover oneself",
+    "definition": "To be sober, be self-controlled, recover oneself"
+  },
+  {
+    "headword": "ernis]",
+    "copticWord": "ⲉⲣⲛⲓϣϯ",
+    "englishTransliteration": "ernishti",
+    "gloss": "To be great",
+    "definition": "To be great",
+    "crossReference": {
+      "target": "nis]",
+      "gloss": "To be great"
+    }
+  },
+  {
+    "headword": "ernobi",
+    "copticWord": "ⲉⲣⲛⲟⲃⲓ",
+    "englishTransliteration": "ernovi",
+    "gloss": "To sin",
+    "definition": "To sin",
+    "crossReference": {
+      "target": "nobi",
+      "gloss": "To sin"
+    }
+  },
+  {
+    "headword": "ermeletin",
+    "copticWord": "ⲉⲣⲙⲉⲗⲉⲧⲓⲛ",
+    "englishTransliteration": "ermeletin",
+    "gloss": "To meditate",
+    "definition": "To meditate",
+    "crossReference": {
+      "target": "melet/",
+      "gloss": "To meditate"
+    }
+  },
+  {
+    "headword": "ernoin",
+    "copticWord": "ⲉⲣⲛⲟⲓⲛ",
+    "englishTransliteration": "ernoin",
+    "gloss": "To perceive",
+    "definition": "To perceive",
+    "crossReference": {
+      "target": "no/ma",
+      "gloss": "To perceive"
+    }
+  },
+  {
+    "headword": "ermelin",
+    "copticWord": "ⲉⲣⲙⲉⲗⲓⲛ",
+    "englishTransliteration": "ermelin",
+    "gloss": "To care",
+    "definition": "To care",
+    "crossReference": {
+      "target": "mel/ma",
+      "gloss": "To care"
+    }
+  },
+  {
+    "headword": "ernou]",
+    "copticWord": "ⲉⲣⲛⲟⲩϯ",
+    "englishTransliteration": "ernouti",
+    "gloss": "To be god",
+    "definition": "To be god",
+    "crossReference": {
+      "target": "nou]",
+      "gloss": "To be god"
+    }
+  },
+  {
+    "headword": "ermelicye",
+    "copticWord": "ⲉⲣⲙⲉⲗⲓⲥⲑⲉ",
+    "englishTransliteration": "ermelisthe",
+    "gloss": "To dismember",
+    "definition": "To dismember",
+    "crossReference": {
+      "target": "melicye",
+      "gloss": "To dismember"
+    }
+  },
+  {
+    "headword": "ermeneut/c",
+    "copticWord": "ⲉⲣⲙⲉⲛⲉⲩⲧⲏⲥ",
+    "englishTransliteration": "ermenevtis",
+    "gloss": "Interpreter",
+    "definition": "Interpreter",
+    "crossReference": {
+      "target": "erm/nia",
+      "gloss": "Interpreter"
+    }
+  },
+  {
+    "headword": "ermec",
+    "copticWord": "ⲉⲣⲙⲉⲥ",
+    "englishTransliteration": "ermes",
+    "gloss": "To bring forth",
+    "definition": "To bring forth",
+    "crossReference": {
+      "target": "mici",
+      "gloss": "To bring forth"
+    }
+  },
+  {
+    "headword": "ernofri",
+    "copticWord": "ⲉⲣⲛⲟϥⲣⲓ",
+    "englishTransliteration": "ernofri",
+    "gloss": "To be profitable",
+    "definition": "To be profitable",
+    "crossReference": {
+      "target": "nofer",
+      "gloss": "To be profitable"
+    }
+  },
+  {
+    "headword": "ernumvin",
+    "copticWord": "ⲉⲣⲛⲩⲙⲫⲓⲛ",
+    "englishTransliteration": "ernymfin",
+    "gloss": "To be sober",
+    "definition": "To be sober",
+    "crossReference": {
+      "target": "ern/vin",
+      "gloss": "To be sober"
+    }
+  },
+  {
+    "headword": "ernwik",
+    "copticWord": "ⲉⲣⲛⲱⲓⲕ",
+    "englishTransliteration": "ernōik",
+    "gloss": "To commit adultery",
+    "definition": "To commit adultery",
+    "crossReference": {
+      "target": "nwik",
+      "gloss": "To commit adultery"
+    }
+  },
+  {
+    "headword": "ermetanin",
+    "copticWord": "ⲉⲣⲙⲉⲧⲁⲛⲓⲛ",
+    "englishTransliteration": "ermetanin",
+    "gloss": "To repent",
+    "definition": "To repent",
+    "crossReference": {
+      "target": "metanoia",
+      "gloss": "To repent"
+    }
+  },
+  {
+    "headword": "ero=",
+    "copticWord": "ⲉⲣⲟ",
+    "englishTransliteration": "ero",
+    "gloss": "- To, against",
+    "definition": "- To, against",
+    "crossReference": {
+      "target": "e",
+      "gloss": "- To, against"
+    }
+  },
+  {
+    "headword": "ermetanoin",
+    "copticWord": "ⲉⲣⲙⲉⲧⲁⲛⲟⲓⲛ",
+    "englishTransliteration": "ermetanoin",
+    "gloss": "To repent",
+    "definition": "To repent",
+    "crossReference": {
+      "target": "metanoia",
+      "gloss": "To repent"
+    }
+  },
+  {
+    "headword": "eroum/s",
+    "copticWord": "ⲉⲣⲟⲩⲙⲏϣ",
+    "englishTransliteration": "eroumish",
+    "gloss": "To be a crowd",
+    "definition": "To be a crowd",
+    "crossReference": {
+      "target": "m/s",
+      "gloss": "To be a crowd"
+    }
+  },
+  {
+    "headword": "erounai",
+    "copticWord": "ⲉⲣⲟⲩⲛⲁⲓ",
+    "englishTransliteration": "erounai",
+    "gloss": "To do kindness",
+    "definition": "To do kindness",
+    "crossReference": {
+      "target": "nai",
+      "gloss": "To do kindness"
+    }
+  },
+  {
+    "headword": "ermesswt",
+    "copticWord": "ⲉⲣⲙⲉϣϣⲱⲧ",
+    "englishTransliteration": "ermeshshōt",
+    "gloss": "To be like a plain",
+    "definition": "To be like a plain",
+    "crossReference": {
+      "target": "messwt",
+      "gloss": "To be like a plain"
+    }
+  },
+  {
+    "headword": "erouot",
+    "copticWord": "ⲉⲣⲟⲩⲟⲧ",
+    "englishTransliteration": "erouot",
+    "variants": [
+      {
+        "word": "rwout=",
+        "copticWord": "ⲣⲱⲟⲩⲧ",
+        "englishTransliteration": "rōout"
+      },
+      {
+        "word": "rwout",
+        "note": "Q",
+        "copticWord": "ⲣⲱⲟⲩⲧ",
+        "englishTransliteration": "rōout"
+      }
+    ],
+    "reference": "490a"
+  },
+  {
+    "headword": "erm/",
+    "copticWord": "ⲉⲣⲙⲏ",
+    "englishTransliteration": "ermi",
+    "gloss": "To evacuate dung",
+    "definition": "To evacuate dung",
+    "crossReference": {
+      "target": "(1)m/",
+      "gloss": "To evacuate dung"
+    }
+  },
+  {
+    "headword": "erm/ini",
+    "copticWord": "ⲉⲣⲙⲏⲓⲛⲓ",
+    "englishTransliteration": "ermiini",
+    "gloss": "To be marked",
+    "definition": "To be marked",
+    "crossReference": {
+      "target": "m/ini",
+      "gloss": "To be marked"
+    }
+  },
+  {
+    "headword": "erm/neuin",
+    "copticWord": "ⲉⲣⲙⲏⲛⲉⲩⲓⲛ",
+    "englishTransliteration": "erminevin",
+    "gloss": "Translator",
+    "definition": "Translator",
+    "crossReference": {
+      "target": "erm/nia",
+      "gloss": "Translator"
+    }
+  },
+  {
+    "headword": "qen ouerouot",
+    "copticWord": "ϧⲉⲛ ⲟⲩⲉⲣⲟⲩⲟⲧ",
+    "englishTransliteration": "khen ouerouot",
+    "partOfSpeech": "adv",
+    "gloss": "Gladly, eagerly",
+    "definition": "Gladly, eagerly"
+  },
+  {
+    "headword": "]erouot",
+    "copticWord": "ϯⲉⲣⲟⲩⲟⲧ",
+    "englishTransliteration": "tierouot",
+    "partOfSpeech": "vb",
+    "gloss": "To give gladness, gladden, incite",
+    "definition": "To give gladness, gladden, incite"
+  },
+  {
+    "headword": "erm/nia",
+    "copticWord": "ⲉⲣⲙⲏⲛⲓⲁ",
+    "englishTransliteration": "erminia",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Interpretation, explanation, translation",
+    "definition": "Interpretation, explanation, translation"
+  },
+  {
+    "headword": "erparabenin",
+    "copticWord": "ⲉⲣⲡⲁⲣⲁⲃⲉⲛⲓⲛ",
+    "englishTransliteration": "erparavenin",
+    "gloss": "To transgress",
+    "definition": "To transgress",
+    "crossReference": {
+      "target": "parabacic",
+      "gloss": "To transgress"
+    }
+  },
+  {
+    "headword": "erm/c",
+    "copticWord": "ⲉⲣⲙⲏⲥ",
+    "englishTransliteration": "ermis",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "The planet 'Mercury'",
+    "definition": "The planet 'Mercury'"
+  },
+  {
+    "headword": "erparalalize",
+    "copticWord": "ⲉⲣⲡⲁⲣⲁⲗⲁⲗⲓⲍⲉ",
+    "englishTransliteration": "erparalalize",
+    "gloss": "To mock",
+    "definition": "To mock",
+    "crossReference": {
+      "target": "paralal/",
+      "gloss": "To mock"
+    }
+  },
+  {
+    "headword": "erm/tarion",
+    "copticWord": "ⲉⲣⲙⲏⲧⲁⲣⲓⲟⲛ",
+    "englishTransliteration": "ermitarion",
+    "variants": [
+      {
+        "word": "ermetarion",
+        "copticWord": "ⲉⲣⲙⲉⲧⲁⲣⲓⲟⲛ",
+        "englishTransliteration": "ermetarion"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "A tool or gadget used in torture",
+    "definition": "A tool or gadget used in torture"
+  },
+  {
+    "headword": "erparanomoc",
+    "copticWord": "ⲉⲣⲡⲁⲣⲁⲛⲟⲙⲟⲥ",
+    "englishTransliteration": "erparanomos",
+    "gloss": "To break the law",
+    "definition": "To break the law",
+    "crossReference": {
+      "target": "nomoc",
+      "gloss": "To break the law"
+    }
+  },
+  {
+    "headword": "ermkah",
+    "copticWord": "ⲉⲣⲙⲕⲁϩ",
+    "englishTransliteration": "ermkah",
+    "gloss": "To be grieved. ermkah nh/t v. mkah - To be grieved. ermlaq v. mlaq - To fight",
+    "definition": "To be grieved. ermkah nh/t v. mkah - To be grieved. ermlaq v. mlaq - To fight",
+    "crossReference": {
+      "target": "mkah",
+      "gloss": "To be grieved. ermkah nh/t v. mkah - To be grieved. ermlaq v. mlaq - To fight"
+    }
+  },
+  {
+    "headword": "erparanomin",
+    "copticWord": "ⲉⲣⲡⲁⲣⲁⲛⲟⲙⲓⲛ",
+    "englishTransliteration": "erparanomin",
+    "gloss": "To break the law",
+    "definition": "To break the law",
+    "crossReference": {
+      "target": "nomoc",
+      "gloss": "To break the law"
+    }
+  },
+  {
+    "headword": "ermort",
+    "copticWord": "ⲉⲣⲙⲟⲣⲧ",
+    "englishTransliteration": "ermort",
+    "gloss": "To grow beard",
+    "definition": "To grow beard",
+    "crossReference": {
+      "target": "mort",
+      "gloss": "To grow beard"
+    }
+  },
+  {
+    "headword": "ermpsa",
+    "copticWord": "ⲉⲣⲙⲡϣⲁ",
+    "englishTransliteration": "ermpsha",
+    "gloss": "To deserve",
+    "definition": "To deserve",
+    "crossReference": {
+      "target": "mpsa",
+      "gloss": "To deserve"
+    }
+  },
+  {
+    "headword": "erparr/ciazecye",
+    "copticWord": "ⲉⲣⲡⲁⲣⲣⲏⲥⲓⲁⲍⲉⲥⲑⲉ",
+    "englishTransliteration": "erparrisiazesthe",
+    "gloss": "To dec-lare",
+    "definition": "To dec-lare",
+    "crossReference": {
+      "target": "parr/cia",
+      "gloss": "To dec-lare"
+    }
+  },
+  {
+    "headword": "ermton",
+    "copticWord": "ⲉⲣⲙⲧⲟⲛ",
+    "englishTransliteration": "ermton",
+    "gloss": "To be at rest",
+    "definition": "To be at rest",
+    "crossReference": {
+      "target": "mton",
+      "gloss": "To be at rest"
+    }
+  },
+  {
+    "headword": "erpeynane",
+    "copticWord": "ⲉⲣⲡⲉⲑⲛⲁⲛⲉ",
+    "englishTransliteration": "erpethnane",
+    "gloss": "- To do good",
+    "definition": "- To do good",
+    "crossReference": {
+      "target": "nane",
+      "gloss": "- To do good"
+    }
+  },
+  {
+    "headword": "erpilazin",
+    "copticWord": "ⲉⲣⲡⲓⲗⲁⲍⲓⲛ",
+    "englishTransliteration": "erpilazin",
+    "gloss": "To form",
+    "definition": "To form",
+    "crossReference": {
+      "target": "placma",
+      "gloss": "To form"
+    }
+  },
+  {
+    "headword": "ermwn",
+    "copticWord": "ⲉⲣⲙⲱⲛ",
+    "englishTransliteration": "ermōn",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "gloss": "Mount Hermon in Leba-non",
+    "definition": "Mount Hermon in Leba-non"
+  },
+  {
+    "headword": "erpinai",
+    "copticWord": "ⲉⲣⲡⲓⲛⲁⲓ",
+    "englishTransliteration": "erpinai",
+    "gloss": "To do kindness",
+    "definition": "To do kindness",
+    "crossReference": {
+      "target": "nai",
+      "gloss": "To do kindness"
+    }
+  },
+  {
+    "headword": "ermwoui",
+    "copticWord": "ⲉⲣⲙⲱⲟⲩⲓ",
+    "englishTransliteration": "ermōoui",
+    "gloss": "Tears",
+    "definition": "Tears",
+    "crossReference": {
+      "target": "rimi",
+      "gloss": "Tears"
+    }
+  },
+  {
+    "headword": "ermwou",
+    "copticWord": "ⲉⲣⲙⲱⲟⲩ",
+    "englishTransliteration": "ermōou",
+    "gloss": "To liquify",
+    "definition": "To liquify",
+    "crossReference": {
+      "target": "mwou",
+      "gloss": "To liquify"
+    }
+  },
+  {
+    "headword": "erpirazin",
+    "copticWord": "ⲉⲣⲡⲓⲣⲁⲍⲓⲛ",
+    "englishTransliteration": "erpirazin",
+    "gloss": "To tempt. erpicteue v. pictic - To believe",
+    "definition": "To tempt. erpicteue v. pictic - To believe",
+    "crossReference": {
+      "target": "peiracmoc",
+      "gloss": "To tempt. erpicteue v. pictic - To believe"
+    }
+  }
+]

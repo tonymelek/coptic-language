@@ -1,23 +1,28 @@
 <script setup>
 import { pronounce } from 'coptic-pronounce'
-import { computed, onBeforeUnmount, ref, watch } from 'vue'
+import { computed, nextTick, ref } from 'vue'
 import { RouterLink } from 'vue-router'
-import CopticKeyboard from '../components/CopticKeyboard.vue'
-import { useCopticTextInput } from '../composables/useCopticTextInput.js'
+import CopticKeyboardDialog from '../components/CopticKeyboardDialog.vue'
+import CopyButton from '../components/CopyButton.vue'
+import { isCoarsePointer, useCopticTextInput } from '../composables/useCopticTextInput.js'
 
 const {
   text: input,
   textareaRef,
+  previewRef,
+  caret,
   insertAtCursor,
   backspace,
-  syncCaretFromEl,
+  setSelection,
+  moveCaretToEnd,
+  focusPreview,
 } = useCopticTextInput('ⲁⲙⲏⲛ')
 const keyboardOpen = ref(false)
+const keyboardRef = ref(null)
+const suppressKeyboardOpen = ref(false)
 
 /** Suppress the OS soft keyboard on touch phones; leave desktop editable. */
-const suppressOsKeyboard =
-  typeof window !== 'undefined' &&
-  (window.matchMedia('(pointer: coarse)').matches || 'ontouchstart' in window)
+const suppressOsKeyboard = isCoarsePointer()
 
 function transliterate(lang) {
   if (!input.value.trim()) return { text: '', error: false }
@@ -32,32 +37,48 @@ function transliterate(lang) {
 const english = computed(() => transliterate('en'))
 const arabic = computed(() => transliterate('ar'))
 
+function bindPreviewField() {
+  previewRef.value = keyboardRef.value?.previewInputRef ?? previewRef.value
+}
+
 function openKeyboard() {
-  syncCaretFromEl()
+  // Always resume at end of text. (Syncing the main readonly field often
+  // reports caret 0 on mobile, which makes ⌫ appear broken after reshow.)
+  moveCaretToEnd()
   keyboardOpen.value = true
+  nextTick(() => {
+    bindPreviewField()
+    focusPreview()
+  })
 }
 
 function closeKeyboard() {
+  if (!keyboardOpen.value) return
+  suppressKeyboardOpen.value = true
   keyboardOpen.value = false
+  nextTick(() => {
+    suppressKeyboardOpen.value = false
+  })
 }
 
 function onTextareaFocus() {
-  syncCaretFromEl()
+  if (suppressKeyboardOpen.value) return
   openKeyboard()
 }
 
 function onTextareaClick() {
-  syncCaretFromEl()
+  if (suppressKeyboardOpen.value) return
   openKeyboard()
 }
 
-watch(keyboardOpen, (open) => {
-  document.body.classList.toggle('overflow-hidden', open)
-})
+function onPreviewReady(el) {
+  previewRef.value = el
+  focusPreview()
+}
 
-onBeforeUnmount(() => {
-  document.body.classList.remove('overflow-hidden')
-})
+function onCaretChange({ start, end }) {
+  setSelection(start, end)
+}
 
 function onInsert(value) {
   insertAtCursor(value)
@@ -86,7 +107,7 @@ function onBackspace() {
           <button
             v-if="!keyboardOpen"
             type="button"
-            class="text-sm font-semibold text-burgundy-700 hover:text-burgundy-900"
+            class="inline-flex items-center justify-center min-h-11 px-3 rounded-md text-sm font-semibold text-burgundy-700 hover:text-burgundy-900 hover:bg-burgundy-50"
             @click="openKeyboard"
           >
             Show keyboard
@@ -108,8 +129,6 @@ function onBackspace() {
           placeholder="e.g. ⲡⲛⲟⲩϯ"
           @focus="onTextareaFocus"
           @click="onTextareaClick"
-          @select="syncCaretFromEl"
-          @keyup="syncCaretFromEl"
         />
         <p class="mt-2 text-xs text-slate-500">
           Tap the field to open the on-screen Coptic keyboard
@@ -120,18 +139,26 @@ function onBackspace() {
 
       <div class="space-y-4">
         <div>
-          <span class="block text-sm font-semibold text-burgundy-900 mb-2">English</span>
+          <div class="flex items-center justify-between gap-3 mb-2">
+            <span class="text-sm font-semibold text-burgundy-900">English</span>
+            <CopyButton :text="english.error ? '' : english.text" />
+          </div>
           <output
             class="block min-h-[3rem] rounded-lg px-4 py-3 text-lg whitespace-pre-wrap break-words"
             :class="english.error ? 'bg-red-50 text-red-800 border border-red-200' : 'bg-slate-50 text-slate-900 border border-slate-200'"
+            :role="english.error ? 'alert' : undefined"
           >{{ english.text || '—' }}</output>
         </div>
         <div>
-          <span class="block text-sm font-semibold text-burgundy-900 mb-2">Arabic</span>
+          <div class="flex items-center justify-between gap-3 mb-2">
+            <span class="text-sm font-semibold text-burgundy-900">Arabic</span>
+            <CopyButton :text="arabic.error ? '' : arabic.text" />
+          </div>
           <output
             class="font-arabic block min-h-[3rem] rounded-lg px-4 py-3 text-xl whitespace-pre-wrap break-words text-right"
             dir="rtl"
             :class="arabic.error ? 'bg-red-50 text-red-800 border border-red-200' : 'bg-slate-50 text-slate-900 border border-slate-200'"
+            :role="arabic.error ? 'alert' : undefined"
           >{{ arabic.text || '—' }}</output>
         </div>
       </div>
@@ -143,45 +170,21 @@ function onBackspace() {
       first if your text is in Antonios font encoding. Going the other way?
       <RouterLink to="/guess-coptic" class="font-semibold text-burgundy-700 hover:text-burgundy-900">Guess Coptic</RouterLink>
       from Latin or Arabic phonetics.
+      For the npm APIs, open the
+      <RouterLink to="/playground" class="font-semibold text-burgundy-700 hover:text-burgundy-900">playground</RouterLink>.
     </p>
   </div>
 
-  <Teleport to="body">
-    <div
-      v-show="keyboardOpen"
-      class="fixed inset-0 z-[60]"
-      role="dialog"
-      aria-modal="true"
-      aria-label="Coptic on-screen keyboard"
-    >
-      <button
-        type="button"
-        class="absolute inset-0 bg-burgundy-900/30 border-0 cursor-default"
-        aria-label="Hide keyboard"
-        @click="closeKeyboard"
-      />
-      <div class="absolute inset-x-0 bottom-0 max-w-3xl mx-auto animate-[slideUp_0.2s_ease-out]">
-        <CopticKeyboard
-          :preview="input"
-          preview-placeholder="Type Coptic…"
-          @insert="onInsert"
-          @backspace="onBackspace"
-          @close="closeKeyboard"
-        />
-      </div>
-    </div>
-  </Teleport>
+  <CopticKeyboardDialog
+    ref="keyboardRef"
+    :open="keyboardOpen"
+    :preview="input"
+    :caret="caret"
+    preview-placeholder="Type Coptic…"
+    @close="closeKeyboard"
+    @insert="onInsert"
+    @backspace="onBackspace"
+    @caret-change="onCaretChange"
+    @preview-ready="onPreviewReady"
+  />
 </template>
-
-<style scoped>
-@keyframes slideUp {
-  from {
-    transform: translateY(100%);
-    opacity: 0.6;
-  }
-  to {
-    transform: translateY(0);
-    opacity: 1;
-  }
-}
-</style>

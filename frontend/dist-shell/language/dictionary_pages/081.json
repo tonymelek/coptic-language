@@ -1,0 +1,66 @@
+[
+  {
+    "headword": "oji",
+    "copticWord": "ⲟϫⲓ",
+    "englishTransliteration": "oji",
+    "reference": "258b",
+    "partOfSpeech": "f",
+    "gloss": "Iniquity",
+    "definition": "iniquitous person"
+  },
+  {
+    "headword": "metoji",
+    "copticWord": "ⲙⲉⲧⲟϫⲓ",
+    "englishTransliteration": "metoji",
+    "partOfSpeech": "f",
+    "gloss": "Iniquity",
+    "definition": "Iniquity"
+  },
+  {
+    "headword": "ojh=",
+    "copticWord": "ⲟϫϩ",
+    "englishTransliteration": "ojh",
+    "gloss": "To choke",
+    "definition": "To choke",
+    "crossReference": {
+      "target": "wjh",
+      "gloss": "To choke"
+    }
+  },
+  {
+    "headword": "o]",
+    "copticWord": "ⲟϯ",
+    "englishTransliteration": "oti",
+    "reference": "257a",
+    "partOfSpeech": "f",
+    "gloss": "Womb",
+    "definition": "Womb"
+  },
+  {
+    "headword": "ma nohi erat=",
+    "copticWord": "ⲙⲁ ⲛⲟϩⲓ ⲉⲣⲁⲧ",
+    "englishTransliteration": "ma nohi erat",
+    "partOfSpeech": "m",
+    "gloss": "Pace of standing",
+    "definition": "Pace of standing"
+  },
+  {
+    "headword": "jinohi erat=",
+    "copticWord": "ϫⲓⲛⲟϩⲓ ⲉⲣⲁⲧ",
+    "englishTransliteration": "jinohi erat",
+    "partOfSpeech": "m",
+    "gloss": "Standing",
+    "definition": "Standing"
+  },
+  {
+    "headword": "ohj=",
+    "copticWord": "ⲟϩϫ",
+    "englishTransliteration": "ohj",
+    "gloss": "To choke",
+    "definition": "To choke",
+    "crossReference": {
+      "target": "wjh",
+      "gloss": "To choke"
+    }
+  }
+]

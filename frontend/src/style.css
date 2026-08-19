@@ -29,3 +29,126 @@
 body {
   @apply antialiased bg-slate-50 text-slate-900;
 }
+
+html {
+  scroll-padding-top: 4.5rem;
+}
+
+.skip-link {
+  position: absolute;
+  left: 0.75rem;
+  top: 0.75rem;
+  z-index: 100;
+  padding: 0.5rem 1rem;
+  border-radius: 0.375rem;
+  background: var(--color-gold);
+  color: var(--color-burgundy-900);
+  font-weight: 600;
+  text-decoration: none;
+  transform: translateY(-200%);
+}
+
+.skip-link:focus {
+  transform: none;
+  outline: 2px solid var(--color-gold);
+  outline-offset: 2px;
+}
+
+.keyboard-sheet {
+  animation: keyboard-slide-up 0.2s ease-out;
+}
+
+@keyframes keyboard-slide-up {
+  from {
+    transform: translateY(100%);
+    opacity: 0.6;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.search-spinner {
+  animation: search-spin 0.8s linear infinite;
+}
+
+@keyframes search-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .keyboard-sheet,
+  .search-spinner {
+    animation: none !important;
+  }
+}
+
+@layer components {
+  .playground-chip {
+    @apply inline-flex items-center min-h-11 rounded-md border border-slate-300 bg-white px-3.5 py-2 text-sm font-semibold text-slate-600 transition hover:border-burgundy-700/40 hover:text-burgundy-700;
+  }
+
+  .playground-chip.is-active {
+    @apply border-gold bg-burgundy-50 text-burgundy-900;
+  }
+
+  .playground-stage {
+    @apply grid gap-4 lg:grid-cols-2 lg:gap-5;
+  }
+
+  .playground-pane {
+    @apply flex min-h-0 flex-col overflow-hidden rounded-xl border border-burgundy-800/40 bg-[#1a0a0e] shadow-sm;
+  }
+
+  .playground-toolbar {
+    @apply flex items-center justify-between gap-3 border-b border-white/10 bg-burgundy-900/80 px-3 py-2.5;
+  }
+
+  .playground-tab {
+    @apply inline-flex items-center min-h-9 rounded-md px-2.5 py-1 text-xs font-semibold tracking-wide text-slate-400 transition hover:text-gold;
+  }
+
+  .playground-tab.is-active {
+    @apply bg-gold/15 text-gold;
+  }
+
+  .playground-file {
+    @apply hidden font-mono text-[0.7rem] text-slate-500 sm:inline;
+  }
+
+  .playground-editor {
+    @apply min-h-[18rem] flex-1 resize-y border-0 bg-transparent px-4 py-3 font-mono text-[0.8125rem] leading-relaxed text-slate-100 outline-none placeholder:text-slate-500 sm:min-h-[22rem];
+    tab-size: 2;
+  }
+
+  .playground-actions {
+    @apply flex flex-wrap items-center gap-3 border-t border-white/10 px-3 py-3;
+  }
+
+  .btn-run {
+    @apply inline-flex items-center justify-center rounded-md bg-gold px-5 py-2 text-sm font-semibold tracking-wide text-burgundy-900 transition hover:bg-gold-hover disabled:opacity-60;
+  }
+
+  .btn-ghost {
+    @apply inline-flex items-center justify-center rounded-md border border-white/20 bg-transparent px-4 py-2 text-sm font-semibold text-slate-300 transition hover:border-gold/50 hover:text-gold disabled:opacity-60;
+  }
+
+  .playground-output {
+    @apply m-0 min-h-[18rem] flex-1 overflow-auto whitespace-pre-wrap break-words px-4 py-3 font-mono text-[0.8125rem] leading-relaxed text-slate-300 sm:min-h-[22rem];
+  }
+
+  .playground-output.is-error {
+    @apply text-red-300;
+  }
+
+  .sr-only {
+    @apply absolute size-px overflow-hidden whitespace-nowrap;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+    margin: -1px;
+    padding: 0;
+  }
+}

@@ -1,0 +1,597 @@
+[
+  {
+    "headword": "d",
+    "copticWord": "ⲇ",
+    "englishTransliteration": "d",
+    "gloss": "The 4th letter of the Coptic Alphabet",
+    "definition": "d: the numeral '4'."
+  },
+  {
+    "headword": "napac",
+    "copticWord": "ⲛⲁⲡⲁⲥ",
+    "englishTransliteration": "napas",
+    "partOfSpeech": "f",
+    "gloss": "Old Testament. --- mberi: f. New Testament. diakonei v. diakonia - Service",
+    "definition": "Old Testament. --- mberi: f. New Testament. diakonei v. diakonia - Service"
+  },
+  {
+    "headword": "damazin",
+    "copticWord": "ⲇⲁⲙⲁⲍⲓⲛ",
+    "englishTransliteration": "damazin",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "(w/ er-) v. To overpower, tame, subdue, conquer, overcome",
+    "definition": "(w/ er-) v. To overpower, tame, subdue, conquer, overcome"
+  },
+  {
+    "headword": "diakonia",
+    "copticWord": "ⲇⲓⲁⲕⲟⲛⲓⲁ",
+    "englishTransliteration": "diakonia",
+    "variants": [
+      {
+        "word": "-ie",
+        "copticWord": "-ⲓⲉ",
+        "englishTransliteration": "-ie"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Service, ministration, body of servants or attendants",
+    "definition": "the office of the diaconate."
+  },
+  {
+    "headword": "daneict/c",
+    "copticWord": "ⲇⲁⲛⲉⲓⲥⲧⲏⲥ",
+    "englishTransliteration": "danistis",
+    "variants": [
+      {
+        "word": "danict/c",
+        "copticWord": "ⲇⲁⲛⲓⲥⲧⲏⲥ",
+        "englishTransliteration": "danistis"
+      },
+      {
+        "type": "f.",
+        "word": "daneictia",
+        "copticWord": "ⲇⲁⲛⲉⲓⲥⲧⲓⲁ",
+        "englishTransliteration": "danistia"
+      },
+      {
+        "word": "danictia",
+        "copticWord": "ⲇⲁⲛⲓⲥⲧⲓⲁ",
+        "englishTransliteration": "danistia"
+      }
+    ],
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Money lender, creditor, one who lends with interest",
+    "definition": "Money lender, creditor, one who lends with interest"
+  },
+  {
+    "headword": "diakonoc",
+    "copticWord": "ⲇⲓⲁⲕⲟⲛⲟⲥ",
+    "englishTransliteration": "diakonos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Deacon, servant, attendant, official in religious guild",
+    "definition": "Deacon, servant, attendant, official in religious guild"
+  },
+  {
+    "headword": "daneictia",
+    "copticWord": "ⲇⲁⲛⲉⲓⲥⲧⲓⲁ",
+    "englishTransliteration": "danistia",
+    "gloss": "Creditor (f)",
+    "definition": "Creditor (f)",
+    "crossReference": {
+      "target": "daneict/c",
+      "gloss": "Creditor (f)"
+    }
+  },
+  {
+    "headword": "diakricic",
+    "copticWord": "ⲇⲓⲁⲕⲣⲓⲥⲓⲥ",
+    "englishTransliteration": "diakrisis",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Separation, dissolution, segregation, differentiation, examination",
+    "definition": "Separation, dissolution, segregation, differentiation, examination"
+  },
+  {
+    "headword": "danict/c",
+    "copticWord": "ⲇⲁⲛⲓⲥⲧⲏⲥ",
+    "englishTransliteration": "danistis",
+    "gloss": "Creditor",
+    "definition": "Creditor",
+    "crossReference": {
+      "target": "daneict/c",
+      "gloss": "Creditor"
+    }
+  },
+  {
+    "headword": "diat/ma",
+    "copticWord": "ⲇⲓⲁⲧⲏⲙⲁ",
+    "englishTransliteration": "diatima",
+    "gloss": "Diadem",
+    "definition": "Diadem",
+    "crossReference": {
+      "target": "diad/ma",
+      "gloss": "Diadem"
+    }
+  },
+  {
+    "headword": "didackal/",
+    "copticWord": "ⲇⲓⲇⲁⲥⲕⲁⲗⲏ",
+    "englishTransliteration": "didaskali",
+    "gloss": "Teacher",
+    "definition": "Teacher",
+    "crossReference": {
+      "target": "didackaloc",
+      "gloss": "Teacher"
+    }
+  },
+  {
+    "headword": "danictia",
+    "copticWord": "ⲇⲁⲛⲓⲥⲧⲓⲁ",
+    "englishTransliteration": "danistia",
+    "gloss": "Creditor (f). daxic v. taxic - Order",
+    "definition": "Creditor (f). daxic v. taxic - Order",
+    "crossReference": {
+      "target": "daneict/c",
+      "gloss": "Creditor (f). daxic v. taxic - Order"
+    }
+  },
+  {
+    "headword": "didackalia",
+    "copticWord": "ⲇⲓⲇⲁⲥⲕⲁⲗⲓⲁ",
+    "englishTransliteration": "didaskalia",
+    "gloss": "Teach-ing",
+    "definition": "Teach-ing",
+    "crossReference": {
+      "target": "didackaloc",
+      "gloss": "Teach-ing"
+    }
+  },
+  {
+    "headword": "dapan/",
+    "copticWord": "ⲇⲁⲡⲁⲛⲏ",
+    "englishTransliteration": "dapani",
+    "variants": [
+      {
+        "word": "tapan/",
+        "copticWord": "ⲧⲁⲡⲁⲛⲏ",
+        "englishTransliteration": "tapani"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "gloss": "To consume, use up",
+    "definition": "To consume, use up",
+    "senses": [
+      {
+        "partOfSpeech": "f",
+        "gloss": "Cost, expenditure, extravagance",
+        "definition": "Cost, expenditure, extravagance"
+      }
+    ]
+  },
+  {
+    "headword": "davn/",
+    "copticWord": "ⲇⲁⲫⲛⲏ",
+    "englishTransliteration": "dafni",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "White mangrove, a type of coral",
+    "definition": "White mangrove, a type of coral"
+  },
+  {
+    "headword": "didackaloc",
+    "copticWord": "ⲇⲓⲇⲁⲥⲕⲁⲗⲟⲥ",
+    "englishTransliteration": "didaskalos",
+    "variants": [
+      {
+        "type": "f.",
+        "word": "-/",
+        "copticWord": "-ⲏ",
+        "englishTransliteration": "-i"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Teacher, master",
+    "definition": "Teacher, master"
+  },
+  {
+    "headword": "de",
+    "copticWord": "ⲇⲉ",
+    "englishTransliteration": "de",
+    "reference": "Gk",
+    "partOfSpeech": "part",
+    "isGreek": true,
+    "gloss": "But, now, moreover, and",
+    "definition": "But, now, moreover, and"
+  },
+  {
+    "headword": "didimoc",
+    "copticWord": "ⲇⲓⲇⲓⲙⲟⲥ",
+    "englishTransliteration": "didimos",
+    "gloss": "Twin",
+    "definition": "Twin",
+    "crossReference": {
+      "target": "didumoc",
+      "gloss": "Twin"
+    }
+  },
+  {
+    "headword": "didou",
+    "copticWord": "ⲇⲓⲇⲟⲩ",
+    "englishTransliteration": "didou",
+    "reference": "Gk?",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "gloss": "Consecration of thought",
+    "definition": "Consecration of thought"
+  },
+  {
+    "headword": "delta",
+    "copticWord": "ⲇⲉⲗⲧⲁ",
+    "englishTransliteration": "delta",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "The letter 'd'",
+    "definition": "m. anything shaped like a triangle, esp. island formed by the mouth of a large river."
+  },
+  {
+    "headword": "didumoc",
+    "copticWord": "ⲇⲓⲇⲩⲙⲟⲥ",
+    "englishTransliteration": "didymos",
+    "variants": [
+      {
+        "word": "didimoc",
+        "copticWord": "ⲇⲓⲇⲓⲙⲟⲥ",
+        "englishTransliteration": "didimos"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Twin, double, two-fold",
+    "definition": "n. testicles, ovaries."
+  },
+  {
+    "headword": "decpot/c",
+    "copticWord": "ⲇⲉⲥⲡⲟⲧⲏⲥ",
+    "englishTransliteration": "despotis",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Master, lord, lord of the house, owner",
+    "definition": "Master, lord, lord of the house, owner"
+  },
+  {
+    "headword": "deuteronomion",
+    "copticWord": "ⲇⲉⲩⲧⲉⲣⲟⲛⲟⲙⲓⲟⲛ",
+    "englishTransliteration": "devteronomion",
+    "variants": [
+      {
+        "word": "deuderonomion",
+        "copticWord": "ⲇⲉⲩⲇⲉⲣⲟⲛⲟⲙⲓⲟⲛ",
+        "englishTransliteration": "devderonomion"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "biblical book of Deutronomy",
+    "definition": "biblical book of Deutronomy"
+  },
+  {
+    "headword": "dikaioc",
+    "copticWord": "ⲇⲓⲕⲁⲓⲟⲥ",
+    "englishTransliteration": "dikaios",
+    "variants": [
+      {
+        "word": "dikeoc",
+        "copticWord": "ⲇⲓⲕⲉⲟⲥ",
+        "englishTransliteration": "dikeos"
+      },
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Just, right, upright, righteous, impartial, civilized",
+    "definition": "Just, right, upright, righteous, impartial, civilized"
+  },
+  {
+    "headword": "d/miourgoc",
+    "copticWord": "ⲇⲏⲙⲓⲟⲩⲣⲅⲟⲥ",
+    "englishTransliteration": "dimiourgos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Creator, skilled workman, handicraftsman, maker, producer",
+    "definition": "Creator, skilled workman, handicraftsman, maker, producer"
+  },
+  {
+    "headword": "dikaiocun/",
+    "copticWord": "ⲇⲓⲕⲁⲓⲟⲥⲩⲛⲏ",
+    "englishTransliteration": "dikaiosyni",
+    "variants": [
+      {
+        "word": "dikeocun/",
+        "copticWord": "ⲇⲓⲕⲉⲟⲥⲩⲛⲏ",
+        "englishTransliteration": "dikeosyni"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Righteousness, justice, rectitude, fulfilment of the law",
+    "definition": "Righteousness, justice, rectitude, fulfilment of the law"
+  },
+  {
+    "headword": "dikact/rion",
+    "copticWord": "ⲇⲓⲕⲁⲥⲧⲏⲣⲓⲟⲛ",
+    "englishTransliteration": "dikastirion",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Court of justice",
+    "definition": "Court of justice"
+  },
+  {
+    "headword": "d/moc",
+    "copticWord": "ⲇⲏⲙⲟⲥ",
+    "englishTransliteration": "dimos",
+    "variants": [
+      {
+        "word": "-ciwc",
+        "copticWord": "-ⲥⲓⲱⲥ",
+        "englishTransliteration": "-siōs"
+      },
+      {
+        "word": "-ciwn",
+        "copticWord": "-ⲥⲓⲱⲛ",
+        "englishTransliteration": "-siōn"
+      },
+      {
+        "word": "t/mocion",
+        "copticWord": "ⲧⲏⲙⲟⲥⲓⲟⲛ",
+        "englishTransliteration": "timosion"
+      }
+    ],
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Public dues, tax",
+    "definition": "Public dues, tax"
+  },
+  {
+    "headword": "dikeoc",
+    "copticWord": "ⲇⲓⲕⲉⲟⲥ",
+    "englishTransliteration": "dikeos",
+    "gloss": "Just",
+    "definition": "Just",
+    "crossReference": {
+      "target": "dikaioc",
+      "gloss": "Just"
+    }
+  },
+  {
+    "headword": "d/mociwn",
+    "copticWord": "ⲇⲏⲙⲟⲥⲓⲱⲛ",
+    "englishTransliteration": "dimosiōn",
+    "gloss": "Tax",
+    "definition": "Tax",
+    "crossReference": {
+      "target": "d/moc",
+      "gloss": "Tax"
+    }
+  },
+  {
+    "headword": "dikeocun/",
+    "copticWord": "ⲇⲓⲕⲉⲟⲥⲩⲛⲏ",
+    "englishTransliteration": "dikeosyni",
+    "gloss": "Justice",
+    "definition": "Justice",
+    "crossReference": {
+      "target": "dikaiocun/",
+      "gloss": "Justice"
+    }
+  },
+  {
+    "headword": "d/mociwc",
+    "copticWord": "ⲇⲏⲙⲟⲥⲓⲱⲥ",
+    "englishTransliteration": "dimosiōs",
+    "gloss": "Tax",
+    "definition": "Tax",
+    "crossReference": {
+      "target": "d/moc",
+      "gloss": "Tax"
+    }
+  },
+  {
+    "headword": "dioiket/c",
+    "copticWord": "ⲇⲓⲟⲓⲕⲉⲧⲏⲥ",
+    "englishTransliteration": "dioiketis",
+    "gloss": "Adminstrator",
+    "definition": "Adminstrator",
+    "crossReference": {
+      "target": "dioik/t/c",
+      "gloss": "Adminstrator"
+    }
+  },
+  {
+    "headword": "dia",
+    "copticWord": "ⲇⲓⲁ",
+    "englishTransliteration": "dia",
+    "gloss": "Zeus",
+    "definition": "Zeus",
+    "crossReference": {
+      "target": "zeuc",
+      "gloss": "Zeus"
+    }
+  },
+  {
+    "headword": "dioik/t/c",
+    "copticWord": "ⲇⲓⲟⲓⲕⲏⲧⲏⲥ",
+    "englishTransliteration": "dioikitis",
+    "variants": [
+      {
+        "word": "-ket/c",
+        "copticWord": "-ⲕⲉⲧⲏⲥ",
+        "englishTransliteration": "-ketis"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Administrator, governor, procurator",
+    "definition": "Administrator, governor, procurator"
+  },
+  {
+    "headword": "diaboloc",
+    "copticWord": "ⲇⲓⲁⲃⲟⲗⲟⲥ",
+    "englishTransliteration": "diavolos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Satan, devil, enemy, slanderous, slanderer",
+    "definition": "Satan, devil, enemy, slanderous, slanderer"
+  },
+  {
+    "headword": "dioikin",
+    "copticWord": "ⲇⲓⲟⲓⲕⲓⲛ",
+    "englishTransliteration": "dioikin",
+    "reference": "Gk?",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "gloss": "To follow, chase, threaten",
+    "definition": "To follow, chase, threaten"
+  },
+  {
+    "headword": "diad/ma",
+    "copticWord": "ⲇⲓⲁⲇⲏⲙⲁ",
+    "englishTransliteration": "diadima",
+    "variants": [
+      {
+        "word": "-t/ma",
+        "copticWord": "-ⲧⲏⲙⲁ",
+        "englishTransliteration": "-tima"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Band, diadem, crown worn by kings, fillet",
+    "definition": "Band, diadem, crown worn by kings, fillet"
+  },
+  {
+    "headword": "dioc",
+    "copticWord": "ⲇⲓⲟⲥ",
+    "englishTransliteration": "dios",
+    "gloss": "Zeus",
+    "definition": "Zeus",
+    "crossReference": {
+      "target": "zeuc",
+      "gloss": "Zeus"
+    }
+  },
+  {
+    "headword": "diploic",
+    "copticWord": "ⲇⲓⲡⲗⲟⲓⲥ",
+    "englishTransliteration": "diplois",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Double cloak",
+    "definition": "Double cloak"
+  },
+  {
+    "headword": "diado",
+    "copticWord": "ⲇⲓⲁⲇⲟ",
+    "englishTransliteration": "diado",
+    "variants": [
+      {
+        "word": "oc",
+        "copticWord": "ⲟⲥ",
+        "englishTransliteration": "os"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Successor, substitute, deputy",
+    "definition": "Successor, substitute, deputy"
+  },
+  {
+    "headword": "dipnon",
+    "copticWord": "ⲇⲓⲡⲛⲟⲛ",
+    "englishTransliteration": "dipnon",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Banquet, dinner",
+    "definition": "Banquet, dinner"
+  },
+  {
+    "headword": "diay/k/",
+    "copticWord": "ⲇⲓⲁⲑⲏⲕⲏ",
+    "englishTransliteration": "diathiki",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "disposition by will, testament, covenant",
+    "definition": "disposition by will, testament, covenant"
+  },
+  {
+    "headword": "diptu",
+    "copticWord": "ⲇⲓⲡⲧⲩ",
+    "englishTransliteration": "dipty",
+    "variants": [
+      {
+        "word": "oc",
+        "copticWord": "ⲟⲥ",
+        "englishTransliteration": "os"
+      },
+      {
+        "word": "tiptu",
+        "copticWord": "ⲧⲓⲡⲧⲩ",
+        "englishTransliteration": "tipty"
+      },
+      {
+        "word": "oc",
+        "copticWord": "ⲟⲥ",
+        "englishTransliteration": "os"
+      },
+      {
+        "word": "tupdi",
+        "copticWord": "ⲧⲩⲡⲇⲓ",
+        "englishTransliteration": "typdi"
+      },
+      {
+        "word": "oc",
+        "copticWord": "ⲟⲥ",
+        "englishTransliteration": "os"
+      },
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Difnar - a book that",
+    "definition": "Difnar - a book that"
+  }
+]
