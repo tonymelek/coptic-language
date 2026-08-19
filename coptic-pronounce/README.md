@@ -106,6 +106,8 @@ Editorial hyphenation and occasional word-splits in the goldens mean exact rates
 | `Ⲫ̀ⲛⲟⲩϯ` | Efnouti       | افنوتي  |
 | `ⲭ̅ⲥ̅`    | Ekrestos      | اخرستوس |
 | `Ⲡⲭ̅ⲥ̅`   | Pikhrestos    | بي اخرستوس |
+
+Prefix + nomen sacrum (overline abbreviation) is composed automatically, e.g. `ⲙ̀Ⲡⲭ̅ⲥ̅` → emPikhrestos / إمبي اخرستوس, `ⲛ̀Ⲡⲭ̅ⲥ̅` → enPikhrestos.
 | `Ⲓⲏ̅ⲥ̅`   | Isous         | إيسوس |
 | `ⲁ̅ⲗ̅`    | Allelouia     | الليلويا |
 | `ⲡⲉⲛⲟ̅ⲥ̅` | Penchois      | بين شويس |

@@ -1,7 +1,7 @@
 import {
   COMBINING_MARKS,
-  lowerCoptic,
   lowerCopticChar,
+  matchLexical,
   splitTrailingPunct,
   stripLeadingPlus,
   toGraphemes,
@@ -263,25 +263,11 @@ function capitalizeLike(g: Grapheme, text: string): string {
   return text;
 }
 
-function applyLexical(stem: string): string | null {
-  const lower = lowerCoptic(stem);
-  for (const [pattern, replacement] of LEXICAL) {
-    if (pattern.test(lower)) return replacement;
-  }
-  return null;
-}
-
 /**
  * Jenkim on a consonant → epenthetic "e" before that consonant's sound.
  * Jenkim on a vowel → syllable break hyphen after the vowel sound (e-ep…).
  */
-function pronounceWord(copticWord: string): string {
-  const { stem, suffix } = splitTrailingPunct(copticWord);
-  if (!stem) return suffix;
-
-  const lexical = applyLexical(stem);
-  if (lexical) return lexical + suffix;
-
+function pronounceLetters(stem: string, moreFollows = false): string {
   const gs = toGraphemes(stem);
   let out = '';
   let i = 0;
@@ -344,7 +330,7 @@ function pronounceWord(copticWord: string): string {
       } else {
         // vowel jenkim → emit vowel, then hyphen if more follows
         out += sound;
-        if (i + 1 < gs.length && !out.endsWith('-')) out += '-';
+        if ((i + 1 < gs.length || moreFollows) && !out.endsWith('-')) out += '-';
       }
     } else {
       out += sound;
@@ -357,9 +343,23 @@ function pronounceWord(copticWord: string): string {
   out = out
     .replace(COMBINING_MARKS, '')
     .replace(/-{2,}/g, '-')
-    .replace(/^-|-$/g, '');
+    .replace(/^-/g, '');
+  if (!moreFollows) out = out.replace(/-$/g, '');
 
-  return out + suffix;
+  return out;
+}
+
+function pronounceWord(copticWord: string): string {
+  const { stem, suffix } = splitTrailingPunct(copticWord);
+  if (!stem) return suffix;
+
+  const lexical = matchLexical(stem, LEXICAL);
+  if (lexical) {
+    if (!lexical.prefix) return lexical.replacement + suffix;
+    return pronounceLetters(lexical.prefix, true) + lexical.replacement + suffix;
+  }
+
+  return pronounceLetters(stem) + suffix;
 }
 
 export function copticTextToEnglish(textArray: string[]): string[] {
