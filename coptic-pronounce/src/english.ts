@@ -11,13 +11,16 @@ import {
 /** Whole-word / multi-letter liturgical overrides (matched on lowercased stem). */
 const LEXICAL: [RegExp, string][] = [
   [/^(ⲡ̀?ϭⲟⲓⲥ|ⲡⲟ̅ⲥ̅)$/u, 'Epshois'],
+  [/^ⲡⲉⲛ(ϭⲟⲓⲥ|ⲟ̅ⲥ̅)$/u, 'Penchois'], // our Lord
   [/^ϭⲟⲓⲥ$/u, 'shois'],
+  [/^ⲟ̅ⲥ̅$/u, 'chois'],
   [/^(ⲫ̀?ⲛⲟⲩϯ|ⲫϯ)$/u, 'Efnouti'],
   [/^ⲭ̅ⲉ̅$/u, 'Shere ne Maria'], // liturgical abbreviation
   [/^ⲭⲉⲣⲉ$/u, 'Shere'],
   [/^ⲡ̅?ⲭ̅ⲥ̅$/u, 'Pikhrestos'], // Ⲡⲭ̅ⲥ̅ = Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ
   [/^ⲭ̅ⲥ̅$/u, 'Ekrestos'],
   [/^ⲓ̅?ⲏ̅ⲥ̅$/u, 'Isous'], // Ⲓⲏ̅ⲥ̅ = Ⲓⲏⲥⲟⲩⲥ
+  [/^ⲁ̅?ⲗ̅$/u, 'Allelouia'],
   [/^(ⲉ̀?̅ⲑ̅ⲩ̅|ⲉ̅ⲑ̅ⲩ̅)$/u, 'ethowab'],
   [/^ⲥ̅ⲱ̅ⲣ̅$/u, 'Sotir'],
   [/^ⲫⲓⲗⲁⲛⲑ̀?ⲣⲱⲡⲉ$/u, 'filan-ethrobe'],
