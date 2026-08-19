@@ -9,6 +9,12 @@ test('ESM: Resurrection Sunday 2026', () => {
   assert.equal(day.feast.katamaros, 'holy_fifties')
   assert.ok(day.readingReference.ref?.title?.includes('Resurrection'))
   assert.equal(day.readingReference.ref?.liturgy?.gospel, 'John 20:1-18')
+  assert.ok(day.readingReference.ref?.liturgy?.psalm)
+  assert.ok(day.readingReference.ref?.liturgy?.psalm_coptic_ref)
+  assert.notEqual(
+    day.readingReference.ref?.liturgy?.psalm,
+    day.readingReference.ref?.liturgy?.psalm_coptic_ref,
+  )
 })
 
 test('ESM: Great Lent weekday', () => {

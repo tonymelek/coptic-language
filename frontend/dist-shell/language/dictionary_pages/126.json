@@ -1,0 +1,85 @@
+[
+  {
+    "headword": "ebol eqoun",
+    "copticWord": "ⲉⲃⲟⲗ ⲉϧⲟⲩⲛ",
+    "englishTransliteration": "evol ekhoun",
+    "partOfSpeech": "vb",
+    "gloss": "To split up to, as far as",
+    "definition": "To split up to, as far as",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "Division, piece",
+        "definition": "ervws: vb. To become, be in pieces; refveq- refvaq-: m. Divider, splitter; v/qi: f. Fragment."
+      },
+      {
+        "label": "vwqen",
+        "reference": "515b",
+        "gloss": "pl. Covering, roofing planks",
+        "definition": "pl. Covering, roofing planks"
+      },
+      {
+        "label": "(vwqer)",
+        "reference": "282b",
+        "gloss": "vi.&vt. To charm, bewitched",
+        "definition": "vi.&vt. To charm, bewitched"
+      },
+      {
+        "label": "vaqri",
+        "partOfSpeech": "f",
+        "gloss": "Drug, medicament, medicine",
+        "definition": "paint, color;"
+      },
+      {
+        "label": "ervaqri",
+        "partOfSpeech": "vb",
+        "gloss": "To use drugs, heal ]vaqri: vb. To give drugs, heal ref]vaqri: m. Drug-giver, magician",
+        "definition": "To use drugs, heal ]vaqri: vb. To give drugs, heal ref]vaqri: m. Drug-giver, magician"
+      },
+      {
+        "label": "metref]vaqri",
+        "partOfSpeech": "f",
+        "gloss": "Magic, wi-zardly",
+        "definition": "Magic, wi-zardly"
+      },
+      {
+        "label": "[ivaqri",
+        "partOfSpeech": "vb",
+        "gloss": "To take drugs, be healed",
+        "definition": "man[ivaqri: m. Place of healing. vwqi: (515b); m. Shark"
+      },
+      {
+        "gloss": "vwqt, vaqt-, vaqt=, (Q)",
+        "definition": "vwqt, vaqt-, vaqt=, (Q)"
+      },
+      {
+        "label": "vaqt",
+        "reference": "283a",
+        "gloss": "vt. To bend",
+        "definition": "--- e-: vt. To bend to, toward;"
+      }
+    ]
+  },
+  {
+    "headword": "mpemyo ebol n",
+    "copticWord": "ⲙⲡⲉⲙⲑⲟ ⲉⲃⲟⲗ ⲛ",
+    "englishTransliteration": "mpemtho evol n",
+    "gloss": "vt. To bend, bow before",
+    "definition": "vt. To bend, bow before"
+  },
+  {
+    "headword": "(1) vwji",
+    "copticWord": "ⲫⲱϫⲓ",
+    "englishTransliteration": "fōji",
+    "variants": [
+      {
+        "word": "(Q) voji",
+        "copticWord": "(Ϧ) ⲫⲟϫⲓ",
+        "englishTransliteration": "(Kh) foji"
+      }
+    ],
+    "reference": "285b",
+    "gloss": "vi. To break, burst",
+    "definition": "vi. To break, burst"
+  }
+]

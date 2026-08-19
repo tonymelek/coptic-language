@@ -1,0 +1,644 @@
+[
+  {
+    "headword": "k",
+    "copticWord": "ⲕ",
+    "englishTransliteration": "k",
+    "reference": "90a",
+    "gloss": "Tenth letter of the Coptic Alphabet",
+    "definition": "Tenth letter of the Coptic Alphabet",
+    "senses": [
+      {
+        "label": "k",
+        "gloss": "The numeral '20'",
+        "definition": "The numeral '20'"
+      }
+    ]
+  },
+  {
+    "headword": "kakoc",
+    "copticWord": "ⲕⲁⲕⲟⲥ",
+    "englishTransliteration": "kakos",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      },
+      {
+        "word": "-wc",
+        "copticWord": "-ⲱⲥ",
+        "englishTransliteration": "-ōs"
+      },
+      {
+        "word": "-wn",
+        "copticWord": "-ⲱⲛ",
+        "englishTransliteration": "-ōn"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Bad, ugly, base, evil, pernicious",
+    "definition": "Bad, ugly, base, evil, pernicious",
+    "senses": [
+      {
+        "label": "kakia",
+        "partOfSpeech": "f",
+        "gloss": "Badness, vice, cowardice, dishonor, ill-repute",
+        "definition": "Badness, vice, cowardice, dishonor, ill-repute"
+      }
+    ]
+  },
+  {
+    "headword": "kak/",
+    "copticWord": "ⲕⲁⲕⲏ",
+    "englishTransliteration": "kaki",
+    "partOfSpeech": "adj",
+    "gloss": "Evil bad",
+    "definition": "Evil bad"
+  },
+  {
+    "headword": "kakceht",
+    "copticWord": "ⲕⲁⲕⲥⲉϩⲧ",
+    "englishTransliteration": "kakseht",
+    "gloss": "Leper",
+    "definition": "Leper",
+    "crossReference": {
+      "target": "ceht",
+      "gloss": "Leper"
+    }
+  },
+  {
+    "headword": "kakti",
+    "copticWord": "ⲕⲁⲕⲧⲓ",
+    "englishTransliteration": "kakti",
+    "gloss": "Louse",
+    "definition": "Louse",
+    "crossReference": {
+      "target": "kakyi",
+      "gloss": "Louse"
+    }
+  },
+  {
+    "headword": "kabai",
+    "copticWord": "ⲕⲁⲃⲁⲓ",
+    "englishTransliteration": "kavai",
+    "reference": "99a",
+    "gloss": "pl. Cages, baskets of wicker work",
+    "definition": "pl. Cages, baskets of wicker work",
+    "senses": [
+      {
+        "label": "kabait/c",
+        "partOfSpeech": "n",
+        "gloss": "Maker of baskets",
+        "definition": "Maker of baskets"
+      }
+    ]
+  },
+  {
+    "headword": "kakourgoc",
+    "copticWord": "ⲕⲁⲕⲟⲩⲣⲅⲟⲥ",
+    "englishTransliteration": "kakourgos",
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Doing ill, mischievous, knavish",
+    "definition": "Doing ill, mischievous, knavish",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "Malefactor, criminal",
+        "definition": "Malefactor, criminal"
+      }
+    ]
+  },
+  {
+    "headword": "kakwi",
+    "copticWord": "ⲕⲁⲕⲱⲓ",
+    "englishTransliteration": "kakōi",
+    "gloss": "Mucus",
+    "definition": "Mucus",
+    "crossReference": {
+      "target": "kakoi",
+      "gloss": "Mucus"
+    }
+  },
+  {
+    "headword": "kabait/c",
+    "copticWord": "ⲕⲁⲃⲁⲓⲧⲏⲥ",
+    "englishTransliteration": "kavaitis",
+    "gloss": "Maker of baskets. kabai v. (1)k/bi - Jar",
+    "definition": "Maker of baskets. kabai v. (1)k/bi - Jar",
+    "crossReference": {
+      "target": "kabai",
+      "gloss": "Maker of baskets. kabai v. (1)k/bi - Jar"
+    }
+  },
+  {
+    "headword": "kakhraf",
+    "copticWord": "ⲕⲁⲕϩⲣⲁϥ",
+    "englishTransliteration": "kakhraf",
+    "gloss": "Bare-faced",
+    "definition": "Bare-faced",
+    "crossReference": {
+      "target": "kwk",
+      "gloss": "Bare-faced"
+    }
+  },
+  {
+    "headword": "kayaroc",
+    "copticWord": "ⲕⲁⲑⲁⲣⲟⲥ",
+    "englishTransliteration": "katharos",
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Clean, spotless, pure",
+    "definition": "Clean, spotless, pure"
+  },
+  {
+    "headword": "kal",
+    "copticWord": "ⲕⲁⲗ",
+    "englishTransliteration": "kal",
+    "variants": [
+      {
+        "word": "keli",
+        "copticWord": "ⲕⲉⲗⲓ",
+        "englishTransliteration": "keli"
+      },
+      {
+        "word": "kel",
+        "copticWord": "ⲕⲉⲗ",
+        "englishTransliteration": "kel"
+      },
+      {
+        "word": "kal",
+        "copticWord": "ⲕⲁⲗ",
+        "englishTransliteration": "kal"
+      }
+    ],
+    "reference": "103b",
+    "partOfSpeech": "mf",
+    "gloss": "mostly as pl., Bolt",
+    "definition": "knee; other joints -thighs, ankles; limb, trunk;",
+    "senses": [
+      {
+        "label": "kalankah",
+        "partOfSpeech": "m",
+        "gloss": "Elbow",
+        "definition": "kelouonjf: n. Jawbone;"
+      }
+    ]
+  },
+  {
+    "headword": "kayartoc",
+    "copticWord": "ⲕⲁⲑⲁⲣⲧⲟⲥ",
+    "englishTransliteration": "kathartos",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Pure, clean, good, righteous",
+    "definition": "akayartoc v. a-section (unclean)."
+  },
+  {
+    "headword": "kayedra",
+    "copticWord": "ⲕⲁⲑⲉⲇⲣⲁ",
+    "englishTransliteration": "kathedra",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Seat, headquarter",
+    "definition": "Seat, headquarter"
+  },
+  {
+    "headword": "kayiroc",
+    "copticWord": "ⲕⲁⲑⲓⲣⲟⲥ",
+    "englishTransliteration": "kathiros",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Turtle",
+    "definition": "Turtle"
+  },
+  {
+    "headword": "hamkalankah",
+    "copticWord": "ϩⲁⲙⲕⲁⲗⲁⲛⲕⲁϩ",
+    "englishTransliteration": "hamkalankah",
+    "partOfSpeech": "n",
+    "gloss": "Bolt-smith, smith. kal- v. kal - Knee",
+    "definition": "Bolt-smith, smith. kal- v. kal - Knee"
+  },
+  {
+    "headword": "kayicma",
+    "copticWord": "ⲕⲁⲑⲓⲥⲙⲁ",
+    "englishTransliteration": "kathisma",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Part on which ine sits, seat",
+    "definition": "Part on which ine sits, seat"
+  },
+  {
+    "headword": "kalamickoc",
+    "copticWord": "ⲕⲁⲗⲁⲙⲓⲥⲕⲟⲥ",
+    "englishTransliteration": "kalamiskos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Reed, branch of a candlestick, rod",
+    "definition": "Reed, branch of a candlestick, rod"
+  },
+  {
+    "headword": "kayolikoc",
+    "copticWord": "ⲕⲁⲑⲟⲗⲓⲕⲟⲥ",
+    "englishTransliteration": "katholikos",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      },
+      {
+        "word": "-/",
+        "copticWord": "-ⲏ",
+        "englishTransliteration": "-i"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Universal, catholic,",
+    "definition": "Universal, catholic,"
+  },
+  {
+    "headword": "kalamoarwmatikoc",
+    "copticWord": "ⲕⲁⲗⲁⲙⲟⲁⲣⲱⲙⲁⲧⲓⲕⲟⲥ",
+    "englishTransliteration": "kalamoarōmatikos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Sweet flag, acorus calamus",
+    "definition": "Sweet flag, acorus calamus"
+  },
+  {
+    "headword": "kayouriwn",
+    "copticWord": "ⲕⲁⲑⲟⲩⲣⲓⲱⲛ",
+    "englishTransliteration": "kathouriōn",
+    "gloss": "Of castor. kai, ke: (Gk)",
+    "definition": "conj. And.",
+    "crossReference": {
+      "target": "kactorioc",
+      "gloss": "Of castor. kai, ke: (Gk)"
+    }
+  },
+  {
+    "headword": "kain/",
+    "copticWord": "ⲕⲁⲓⲛⲏ",
+    "englishTransliteration": "kaini",
+    "gloss": "New",
+    "definition": "New",
+    "crossReference": {
+      "target": "kainoc",
+      "gloss": "New"
+    }
+  },
+  {
+    "headword": "kalamvo",
+    "copticWord": "ⲕⲁⲗⲁⲙⲫⲟ",
+    "englishTransliteration": "kalamfo",
+    "variants": [
+      {
+        "type": "pl.",
+        "word": "-vwou",
+        "copticWord": "-ⲫⲱⲟⲩ",
+        "englishTransliteration": "-fōou"
+      },
+      {
+        "type": "sg as pl"
+      }
+    ],
+    "reference": "105a",
+    "partOfSpeech": "f",
+    "gloss": "Hill",
+    "definition": "Hill"
+  },
+  {
+    "headword": "kainoc",
+    "copticWord": "ⲕⲁⲓⲛⲟⲥ",
+    "englishTransliteration": "kainos",
+    "variants": [
+      {
+        "word": "kenoc",
+        "copticWord": "ⲕⲉⲛⲟⲥ",
+        "englishTransliteration": "kenos"
+      },
+      {
+        "word": "kain/",
+        "copticWord": "ⲕⲁⲓⲛⲏ",
+        "englishTransliteration": "kaini"
+      },
+      {
+        "word": "ken/",
+        "copticWord": "ⲕⲉⲛⲏ",
+        "englishTransliteration": "keni"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "senses": [
+      {
+        "label": "New",
+        "gloss": "The new Testament",
+        "definition": "The new Testament"
+      }
+    ]
+  },
+  {
+    "headword": "kalamvwou",
+    "copticWord": "ⲕⲁⲗⲁⲙⲫⲱⲟⲩ",
+    "englishTransliteration": "kalamfōou",
+    "gloss": "Hills",
+    "definition": "Hills",
+    "crossReference": {
+      "target": "kalamvo",
+      "gloss": "Hills"
+    }
+  },
+  {
+    "headword": "kalankah",
+    "copticWord": "ⲕⲁⲗⲁⲛⲕⲁϩ",
+    "englishTransliteration": "kalankah",
+    "gloss": "Elbow",
+    "definition": "Elbow",
+    "crossReference": {
+      "target": "kal",
+      "gloss": "Elbow"
+    }
+  },
+  {
+    "headword": "kalankeh",
+    "copticWord": "ⲕⲁⲗⲁⲛⲕⲉϩ",
+    "englishTransliteration": "kalankeh",
+    "gloss": "Elbow",
+    "definition": "Elbow",
+    "crossReference": {
+      "target": "kal",
+      "gloss": "Elbow"
+    }
+  },
+  {
+    "headword": "kalap/i",
+    "copticWord": "ⲕⲁⲗⲁⲡⲏⲓ",
+    "englishTransliteration": "kalapii",
+    "reference": "105b",
+    "gloss": "pl. Quails",
+    "definition": "pl. Quails"
+  },
+  {
+    "headword": "kaici",
+    "copticWord": "ⲕⲁⲓⲥⲓ",
+    "englishTransliteration": "kaisi",
+    "gloss": "Shroud",
+    "definition": "Shroud",
+    "crossReference": {
+      "target": "kwc",
+      "gloss": "Shroud"
+    }
+  },
+  {
+    "headword": "kal/",
+    "copticWord": "ⲕⲁⲗⲏ",
+    "englishTransliteration": "kali",
+    "gloss": "Weasel",
+    "definition": "Weasel",
+    "crossReference": {
+      "target": "akl/",
+      "gloss": "Weasel"
+    }
+  },
+  {
+    "headword": "kaitoi",
+    "copticWord": "ⲕⲁⲓⲧⲟⲓ",
+    "englishTransliteration": "kaitoi",
+    "variants": [
+      {
+        "word": "ketoi",
+        "copticWord": "ⲕⲉⲧⲟⲓ",
+        "englishTransliteration": "ketoi"
+      },
+      {
+        "word": "keti",
+        "copticWord": "ⲕⲉⲧⲓ",
+        "englishTransliteration": "keti"
+      },
+      {
+        "word": "kaitoige",
+        "copticWord": "ⲕⲁⲓⲧⲟⲓⲅⲉ",
+        "englishTransliteration": "kaitoige"
+      },
+      {
+        "word": "ketige",
+        "copticWord": "ⲕⲉⲧⲓⲅⲉ",
+        "englishTransliteration": "ketige"
+      }
+    ],
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "conj. And indeed, and further, and yet",
+    "definition": "conj. And indeed, and further, and yet"
+  },
+  {
+    "headword": "kalyarioc",
+    "copticWord": "ⲕⲁⲗⲑⲁⲣⲓⲟⲥ",
+    "englishTransliteration": "kaltharios",
+    "reference": "Gk?",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Merchant, vendor of cloth",
+    "definition": "Merchant, vendor of cloth"
+  },
+  {
+    "headword": "kaitoige",
+    "copticWord": "ⲕⲁⲓⲧⲟⲓⲅⲉ",
+    "englishTransliteration": "kaitoige",
+    "gloss": "And indeed",
+    "definition": "And indeed",
+    "crossReference": {
+      "target": "kaitoi",
+      "gloss": "And indeed"
+    }
+  },
+  {
+    "headword": "kak",
+    "copticWord": "ⲕⲁⲕ",
+    "englishTransliteration": "kak",
+    "gloss": "To peel",
+    "definition": "To peel",
+    "crossReference": {
+      "target": "kwk",
+      "gloss": "To peel"
+    }
+  },
+  {
+    "headword": "kalon",
+    "copticWord": "ⲕⲁⲗⲟⲛ",
+    "englishTransliteration": "kalon",
+    "gloss": "Good",
+    "definition": "Good",
+    "crossReference": {
+      "target": "kalwc",
+      "gloss": "Good"
+    }
+  },
+  {
+    "headword": "kakbak",
+    "copticWord": "ⲕⲁⲕⲃⲁⲕ",
+    "englishTransliteration": "kakvak",
+    "gloss": "With bare eyes",
+    "definition": "With bare eyes",
+    "crossReference": {
+      "target": "kwk",
+      "gloss": "With bare eyes"
+    }
+  },
+  {
+    "headword": "kaloc",
+    "copticWord": "ⲕⲁⲗⲟⲥ",
+    "englishTransliteration": "kalos",
+    "gloss": "Good",
+    "definition": "Good",
+    "crossReference": {
+      "target": "kalwc",
+      "gloss": "Good"
+    }
+  },
+  {
+    "headword": "kalouki",
+    "copticWord": "ⲕⲁⲗⲟⲩⲕⲓ",
+    "englishTransliteration": "kalouki",
+    "reference": "103a",
+    "partOfSpeech": "m",
+    "gloss": "Young camel or ox",
+    "definition": "Young camel or ox"
+  },
+  {
+    "headword": "kalp",
+    "copticWord": "ⲕⲁⲗⲡ",
+    "englishTransliteration": "kalp",
+    "gloss": "To steal",
+    "definition": "To steal",
+    "crossReference": {
+      "target": "kwlp",
+      "gloss": "To steal"
+    }
+  },
+  {
+    "headword": "kakyi",
+    "copticWord": "ⲕⲁⲕⲑⲓ",
+    "englishTransliteration": "kakthi",
+    "variants": [
+      {
+        "word": "kakti",
+        "copticWord": "ⲕⲁⲕⲧⲓ",
+        "englishTransliteration": "kakti"
+      },
+      {
+        "word": "akyi",
+        "copticWord": "ⲁⲕⲑⲓ",
+        "englishTransliteration": "akthi"
+      }
+    ],
+    "reference": "102a",
+    "partOfSpeech": "f",
+    "gloss": "Louse. kakia v. kakoc - Vice",
+    "definition": "Louse. kakia v. kakoc - Vice"
+  },
+  {
+    "headword": "kalt",
+    "copticWord": "ⲕⲁⲗⲧ",
+    "englishTransliteration": "kalt",
+    "reference": "106a",
+    "gloss": "vb p.c. To be hairless or bald (on front of head)",
+    "definition": "vb p.c. To be hairless or bald (on front of head)"
+  },
+  {
+    "headword": "kakkamau",
+    "copticWord": "ⲕⲁⲕⲕⲁⲙⲁⲩ",
+    "englishTransliteration": "kakkamav",
+    "gloss": "Small night owl",
+    "definition": "Small night owl",
+    "crossReference": {
+      "target": ",akkamau",
+      "gloss": "Small night owl"
+    }
+  },
+  {
+    "headword": "kalumma",
+    "copticWord": "ⲕⲁⲗⲩⲙⲙⲁ",
+    "englishTransliteration": "kalymma",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Head-cover, hood, veil",
+    "definition": "Head-cover, hood, veil"
+  },
+  {
+    "headword": "kakoi",
+    "copticWord": "ⲕⲁⲕⲟⲓ",
+    "englishTransliteration": "kakoi",
+    "variants": [
+      {
+        "word": "kakwi",
+        "copticWord": "ⲕⲁⲕⲱⲓ",
+        "englishTransliteration": "kakōi"
+      }
+    ],
+    "reference": "101b",
+    "partOfSpeech": "m",
+    "gloss": "Mucus of nose",
+    "definition": "Mucus of nose"
+  },
+  {
+    "headword": "kalwc",
+    "copticWord": "ⲕⲁⲗⲱⲥ",
+    "englishTransliteration": "kalōs",
+    "variants": [
+      {
+        "word": "-oc",
+        "copticWord": "-ⲟⲥ",
+        "englishTransliteration": "-os"
+      },
+      {
+        "word": "-/",
+        "copticWord": "-ⲏ",
+        "englishTransliteration": "-i"
+      },
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Beautiful, fair, good",
+    "definition": "Beautiful, fair, good"
+  },
+  {
+    "headword": "kam",
+    "copticWord": "ⲕⲁⲙ",
+    "englishTransliteration": "kam",
+    "reference": "108a",
+    "partOfSpeech": "m",
+    "gloss": "Reed, rush",
+    "definition": "Reed, rush"
+  }
+]

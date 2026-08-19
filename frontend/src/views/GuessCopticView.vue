@@ -2,6 +2,7 @@
 import { guessCoptic } from 'coptic-pronounce'
 import { computed, ref, watch } from 'vue'
 import { RouterLink } from 'vue-router'
+import CopyButton from '../components/CopyButton.vue'
 
 /** @type {import('vue').Ref<'en' | 'ar'>} */
 const from = ref('en')
@@ -47,7 +48,7 @@ const result = computed(() => {
         <div class="inline-flex rounded-lg border border-slate-300 overflow-hidden" role="group" aria-label="Input language">
           <button
             type="button"
-            class="px-4 py-2 text-sm font-semibold transition"
+            class="px-4 min-h-11 text-sm font-semibold transition"
             :class="from === 'en' ? 'bg-burgundy-700 text-white' : 'bg-white text-burgundy-900 hover:bg-slate-50'"
             :aria-pressed="from === 'en'"
             @click="from = 'en'"
@@ -56,7 +57,7 @@ const result = computed(() => {
           </button>
           <button
             type="button"
-            class="px-4 py-2 text-sm font-semibold transition border-l border-slate-300"
+            class="px-4 min-h-11 text-sm font-semibold transition border-l border-slate-300"
             :class="from === 'ar' ? 'bg-burgundy-700 text-white' : 'bg-white text-burgundy-900 hover:bg-slate-50'"
             :aria-pressed="from === 'ar'"
             @click="from = 'ar'"
@@ -83,15 +84,19 @@ const result = computed(() => {
         />
       </label>
 
-      <div class="text-center text-gold text-xl font-bold">↓</div>
+      <div class="text-center text-gold text-xl font-bold" aria-hidden="true">↓</div>
 
       <div>
-        <span class="block text-sm font-semibold text-burgundy-900 mb-2">Best guess</span>
+        <div class="flex items-center justify-between gap-3 mb-2">
+          <span class="text-sm font-semibold text-burgundy-900">Best guess</span>
+          <CopyButton :text="result.error ? '' : result.best" />
+        </div>
         <output
           class="font-coptic block min-h-[3.5rem] rounded-lg px-4 py-3 text-2xl whitespace-pre-wrap break-words"
           :class="result.error
             ? 'bg-red-50 text-red-800 border border-red-200'
             : 'bg-burgundy-50 border border-burgundy-100 text-burgundy-900'"
+          :role="result.error ? 'alert' : undefined"
         >{{ result.error || result.best || '—' }}</output>
       </div>
 

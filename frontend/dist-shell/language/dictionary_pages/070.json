@@ -1,0 +1,133 @@
+[
+  {
+    "headword": "enane",
+    "copticWord": "ⲉⲛⲁⲛⲉ",
+    "englishTransliteration": "enane",
+    "variants": [
+      {
+        "word": "eynane",
+        "copticWord": "ⲉⲑⲛⲁⲛⲉ",
+        "englishTransliteration": "ethnane"
+      }
+    ],
+    "partOfSpeech": "adj",
+    "gloss": "Good, fair",
+    "definition": "Good, fair"
+  },
+  {
+    "headword": "peynane",
+    "copticWord": "ⲡⲉⲑⲛⲁⲛⲉ",
+    "englishTransliteration": "pethnane",
+    "variants": [
+      {
+        "word": "v/ eynane",
+        "copticWord": "ⲫⲏ ⲉⲑⲛⲁⲛⲉ",
+        "englishTransliteration": "fi ethnane"
+      }
+    ],
+    "partOfSpeech": "n",
+    "gloss": "That which is good",
+    "definition": "That which is good"
+  },
+  {
+    "headword": "maipeynane",
+    "copticWord": "ⲙⲁⲓⲡⲉⲑⲛⲁⲛⲉ",
+    "englishTransliteration": "maipethnane",
+    "gloss": "Lover of goodness",
+    "definition": "Lover of goodness"
+  },
+  {
+    "headword": "refpeynane",
+    "copticWord": "ⲣⲉϥⲡⲉⲑⲛⲁⲛⲉ",
+    "englishTransliteration": "refpethnane",
+    "partOfSpeech": "m",
+    "gloss": "Doer of good, benefactor",
+    "definition": "Doer of good, benefactor"
+  },
+  {
+    "headword": "metreferpeynane",
+    "copticWord": "ⲙⲉⲧⲣⲉϥⲉⲣⲡⲉⲑⲛⲁⲛⲉ",
+    "englishTransliteration": "metreferpethnane",
+    "partOfSpeech": "f",
+    "gloss": "Beneficence",
+    "definition": "Beneficence"
+  },
+  {
+    "headword": "ca mpeynane",
+    "copticWord": "ⲥⲁ ⲙⲡⲉⲑⲛⲁⲛⲉ",
+    "englishTransliteration": "sa mpethnane",
+    "partOfSpeech": "n",
+    "gloss": "Doer of good, righteous",
+    "definition": "nane= v. nane- - To be good"
+  },
+  {
+    "headword": "nare",
+    "copticWord": "ⲛⲁⲣⲉ",
+    "englishTransliteration": "nare",
+    "gloss": "- vbal prfx. imperfect",
+    "definition": "- vbal prfx. imperfect",
+    "crossReference": {
+      "target": "ne",
+      "gloss": "- vbal prfx. imperfect"
+    }
+  },
+  {
+    "headword": "nat",
+    "copticWord": "ⲛⲁⲧ",
+    "englishTransliteration": "nat",
+    "reference": "229a",
+    "partOfSpeech": "m",
+    "gloss": "Loom",
+    "definition": "web."
+  },
+  {
+    "headword": "(1) nau",
+    "copticWord": "ⲛⲁⲩ",
+    "englishTransliteration": "nav",
+    "variants": [
+      {
+        "word": "imperat. anau",
+        "copticWord": "ⲓⲙⲡⲉⲣⲁⲧ. ⲁⲛⲁⲩ",
+        "englishTransliteration": "imperat. anav"
+      },
+      {
+        "headword": "(2) nau (ebol)",
+        "copticWord": "ⲛⲁⲩ (ⲉⲃⲟⲗ)",
+        "englishTransliteration": "nau (ebol)",
+        "gloss": "see (opp not see, be blind)",
+        "definition": "see (opp not see, be blind)",
+        "reference": "234a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(3) nau ebol",
+        "copticWord": "ⲛⲁⲩ ⲉⲃⲟⲗ",
+        "englishTransliteration": "nau ebol",
+        "gloss": "sight (power to see)",
+        "definition": "sight (power to see)",
+        "reference": "234a",
+        "partOfSpeech": "m"
+      },
+      {
+        "headword": "(5) nau (mbol)",
+        "copticWord": "ⲛⲁⲩ (ⲙⲃⲟⲗ)",
+        "englishTransliteration": "nau (mbol)",
+        "gloss": "see (opp not see, be blind)",
+        "definition": "see (opp not see, be blind)",
+        "reference": "234a",
+        "partOfSpeech": "vb"
+      }
+    ],
+    "reference": "233b",
+    "gloss": "vi. To look, behold",
+    "definition": "vi. To look, behold",
+    "senses": [
+      {
+        "label": "ebol",
+        "partOfSpeech": "vb",
+        "gloss": "To see",
+        "definition": "metaynau mbol: f. Sightlessness; ---: m. Sight. view, vision; atnau: adj. Unseen, unseeing."
+      }
+    ]
+  }
+]

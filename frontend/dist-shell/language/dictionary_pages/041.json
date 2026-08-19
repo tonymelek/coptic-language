@@ -1,0 +1,290 @@
+[
+  {
+    "headword": "i",
+    "copticWord": "ⲓ",
+    "englishTransliteration": "i",
+    "reference": "70a",
+    "gloss": "The ninth letter of the Coptic Alphabet",
+    "definition": "The ninth letter of the Coptic Alphabet",
+    "senses": [
+      {
+        "label": "i",
+        "gloss": "The numeral '10', m/t, m/]",
+        "definition": "The numeral '10', m/t, m/]"
+      }
+    ],
+    "variants": [
+      {
+        "headword": "(8) i (ehren-)",
+        "copticWord": "ⲓ (ⲉϩⲣⲉⲛ-)",
+        "englishTransliteration": "i (ehren-)",
+        "gloss": "come against, to meet",
+        "definition": "come against, to meet",
+        "reference": "70b",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(15) i (hijen-)",
+        "copticWord": "ⲓ (ϩⲓϫⲉⲛ-)",
+        "englishTransliteration": "i (hijen-)",
+        "gloss": "come up to, upon",
+        "definition": "come up to, upon",
+        "reference": "71a",
+        "partOfSpeech": "vb"
+      },
+      {
+        "headword": "(22) i (epshoi)",
+        "copticWord": "ⲓ (ⲉⲡϣⲱⲓ)",
+        "englishTransliteration": "i (epshoi)",
+        "gloss": "come, go up",
+        "definition": "come, go up",
+        "reference": "72a",
+        "partOfSpeech": "vb"
+      }
+    ]
+  },
+  {
+    "headword": "jini",
+    "copticWord": "ϫⲓⲛⲓ",
+    "englishTransliteration": "jini",
+    "partOfSpeech": "m",
+    "gloss": "Coming",
+    "definition": "Coming"
+  },
+  {
+    "headword": "ia",
+    "copticWord": "ⲓⲁ",
+    "englishTransliteration": "ia",
+    "reference": "73a",
+    "partOfSpeech": "m",
+    "gloss": "Valley, ravine",
+    "definition": "Valley, ravine"
+  },
+  {
+    "headword": "iabi",
+    "copticWord": "ⲓⲁⲃⲓ",
+    "englishTransliteration": "iavi",
+    "reference": "76b",
+    "partOfSpeech": "f",
+    "gloss": "Discharge (from wounds or sores), pus",
+    "definition": "sickness, malady"
+  },
+  {
+    "headword": "ial",
+    "copticWord": "ⲓⲁⲗ",
+    "englishTransliteration": "ial",
+    "reference": "76b",
+    "partOfSpeech": "f",
+    "gloss": "Mirror",
+    "definition": "Mirror"
+  },
+  {
+    "headword": "iaro",
+    "copticWord": "ⲓⲁⲣⲟ",
+    "englishTransliteration": "iaro",
+    "gloss": "River",
+    "definition": "River",
+    "crossReference": {
+      "target": "ior",
+      "gloss": "River"
+    }
+  },
+  {
+    "headword": "iarwou",
+    "copticWord": "ⲓⲁⲣⲱⲟⲩ",
+    "englishTransliteration": "iarōou",
+    "gloss": "Rivers",
+    "definition": "Rivers",
+    "crossReference": {
+      "target": "ior",
+      "gloss": "Rivers"
+    }
+  },
+  {
+    "headword": "iat=",
+    "copticWord": "ⲓⲁⲧ",
+    "englishTransliteration": "iat",
+    "gloss": "- Eye",
+    "definition": "- Eye",
+    "crossReference": {
+      "target": "ier",
+      "gloss": "- Eye"
+    }
+  },
+  {
+    "headword": "iau",
+    "copticWord": "ⲓⲁⲩ",
+    "englishTransliteration": "iav",
+    "reference": "88a",
+    "partOfSpeech": "m",
+    "gloss": "Linen",
+    "definition": "Linen"
+  },
+  {
+    "headword": "iah",
+    "copticWord": "ⲓⲁϩ",
+    "englishTransliteration": "iah",
+    "gloss": "Field",
+    "definition": "Field",
+    "crossReference": {
+      "target": "(1)iohi",
+      "gloss": "Field"
+    },
+    "variants": [
+      {
+        "headword": "(3) iah nknte",
+        "copticWord": "ⲓⲁϩ ⲛⲕⲛⲧⲉ",
+        "englishTransliteration": "iah nknte",
+        "gloss": "fig-garden",
+        "definition": "fig-garden",
+        "reference": "112b",
+        "partOfSpeech": "n"
+      }
+    ]
+  },
+  {
+    "headword": "ibi",
+    "copticWord": "ⲓⲃⲓ",
+    "englishTransliteration": "eebi",
+    "variants": [
+      {
+        "word": "obi",
+        "note": "Q",
+        "copticWord": "ⲟⲃⲓ",
+        "englishTransliteration": "ovi"
+      }
+    ],
+    "reference": "76a",
+    "gloss": "vi. To thirst (w/o object)",
+    "definition": "---: m. Thirst."
+  },
+  {
+    "headword": "idwlon",
+    "copticWord": "ⲓⲇⲱⲗⲟⲛ",
+    "englishTransliteration": "idōlon",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Phantom, image, image of a god, idol",
+    "definition": "Phantom, image, image of a god, idol"
+  },
+  {
+    "headword": "ie",
+    "copticWord": "ⲓⲉ",
+    "englishTransliteration": "ie",
+    "reference": "74a",
+    "partOfSpeech": "part",
+    "gloss": "Then (in conditional clauses)",
+    "definition": "unless, without;",
+    "senses": [
+      {
+        "gloss": "interj. Well then, surely (to strenghthen next word)",
+        "definition": "---: conj. Or whether ... or."
+      }
+    ]
+  },
+  {
+    "headword": "ieb",
+    "copticWord": "ⲓⲉⲃ",
+    "englishTransliteration": "iev",
+    "variants": [
+      {
+        "word": "i/b",
+        "copticWord": "ⲓⲏⲃ",
+        "englishTransliteration": "ieeb"
+      }
+    ],
+    "reference": "76a",
+    "partOfSpeech": "m",
+    "gloss": "Hoof, claw, nail",
+    "definition": "Hoof, claw, nail"
+  },
+  {
+    "headword": "iebt",
+    "copticWord": "ⲓⲉⲃⲧ",
+    "englishTransliteration": "ievt",
+    "reference": "76b",
+    "partOfSpeech": "m",
+    "gloss": "The east",
+    "definition": "The east"
+  },
+  {
+    "headword": "capeiebt",
+    "copticWord": "ⲥⲁⲡⲉⲓⲉⲃⲧ",
+    "englishTransliteration": "sapievt",
+    "gloss": "On the east side",
+    "definition": "On the east side"
+  },
+  {
+    "headword": "iop/ - Merchandize ielel",
+    "copticWord": "ⲓⲟⲡⲏ - Ⲙⲉⲣⲥϩⲁⲛⲇⲓⲍⲉ ⲓⲉⲗⲉⲗ",
+    "englishTransliteration": "iopi - Mershandize ielel",
+    "variants": [
+      {
+        "word": "elel",
+        "copticWord": "ⲉⲗⲉⲗ",
+        "englishTransliteration": "elel"
+      }
+    ],
+    "reference": "77a",
+    "gloss": "vi. To shine, glitter",
+    "definition": "---: m. Brightness"
+  },
+  {
+    "headword": "iep",
+    "copticWord": "ⲓⲉⲡ",
+    "englishTransliteration": "iep",
+    "gloss": "Craft",
+    "definition": "Craft",
+    "crossReference": {
+      "target": "iop/",
+      "gloss": "Craft"
+    }
+  },
+  {
+    "headword": "ier",
+    "copticWord": "ⲓⲉⲣ",
+    "englishTransliteration": "ier",
+    "variants": [
+      {
+        "word": "iat=",
+        "copticWord": "ⲓⲁⲧ",
+        "englishTransliteration": "iat"
+      }
+    ],
+    "reference": "73b",
+    "partOfSpeech": "n",
+    "gloss": "Eye and its sight",
+    "definition": "Eye and its sight"
+  },
+  {
+    "headword": "mel",
+    "copticWord": "ⲙⲉⲗ",
+    "englishTransliteration": "mel",
+    "variants": [
+      {
+        "word": "ier",
+        "copticWord": "ⲓⲉⲣ",
+        "englishTransliteration": "ier"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To look upon",
+    "definition": "] nier-: vb. To see, deserve"
+  },
+  {
+    "headword": "naiat=",
+    "copticWord": "ⲛⲁⲓⲁⲧ",
+    "englishTransliteration": "naiat",
+    "variants": [
+      {
+        "word": "niat=",
+        "copticWord": "ⲛⲓⲁⲧ",
+        "englishTransliteration": "niat"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "Blessed is (are) + personal pronoun",
+    "definition": "Blessed is (are) + personal pronoun"
+  }
+]

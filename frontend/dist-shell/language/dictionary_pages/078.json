@@ -1,0 +1,108 @@
+[
+  {
+    "headword": "x",
+    "copticWord": "ⲝ",
+    "englishTransliteration": "ks",
+    "gloss": "The 14th letter of the Coptic Alphabet",
+    "definition": "x: The numeral 'sixty'."
+  },
+  {
+    "headword": "xulon",
+    "copticWord": "ⲝⲩⲗⲟⲛ",
+    "englishTransliteration": "ksylon",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Wood, firewood, timber",
+    "definition": "log beam, post; club."
+  },
+  {
+    "headword": "xenon",
+    "copticWord": "ⲝⲉⲛⲟⲛ",
+    "englishTransliteration": "ksenon",
+    "reference": "Gk?",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "gloss": "Insane asylum",
+    "definition": "Insane asylum"
+  },
+  {
+    "headword": "xuroc",
+    "copticWord": "ⲝⲩⲣⲟⲥ",
+    "englishTransliteration": "ksyros",
+    "reference": "Gk",
+    "isGreek": true
+  },
+  {
+    "headword": "n. Medicine",
+    "copticWord": "ⲛ. Ⲙⲉⲇⲓⲥⲓⲛⲉ",
+    "englishTransliteration": "n. Medisine",
+    "variants": [
+      {
+        "word": "cologne. xuct/rioc",
+        "copticWord": "ⲥⲟⲗⲟⲅⲛⲉ. ⲝⲩⲥⲧⲏⲣⲓⲟⲥ",
+        "englishTransliteration": "sologne. ksystirios"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Among instruments of a surgeon",
+    "definition": "Among instruments of a surgeon"
+  },
+  {
+    "headword": "xect/c",
+    "copticWord": "ⲝⲉⲥⲧⲏⲥ",
+    "englishTransliteration": "ksestis",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Roman measure nearly equal to 1 pint, used for fluids and grains",
+    "definition": "Roman measure nearly equal to 1 pint, used for fluids and grains"
+  },
+  {
+    "headword": "xmarwout",
+    "copticWord": "ⲝⲙⲁⲣⲱⲟⲩⲧ",
+    "englishTransliteration": "ksmarōout",
+    "gloss": "Is blessed. xom/: (Gk?)",
+    "definition": "f. Ruler, base, figure.",
+    "crossReference": {
+      "target": "cmou",
+      "gloss": "Is blessed. xom/: (Gk?)"
+    }
+  },
+  {
+    "headword": "xwrictia",
+    "copticWord": "ⲝⲱⲣⲓⲥⲧⲓⲁ",
+    "englishTransliteration": "ksōristia",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Exile, deportation",
+    "definition": "Exile, deportation"
+  },
+  {
+    "headword": "erxwricteuin",
+    "copticWord": "ⲉⲣⲝⲱⲣⲓⲥⲧⲉⲩⲓⲛ",
+    "englishTransliteration": "erksōristevin",
+    "variants": [
+      {
+        "word": "-rizin",
+        "copticWord": "-ⲣⲓⲍⲓⲛ",
+        "englishTransliteration": "-rizin"
+      }
+    ],
+    "partOfSpeech": "vb",
+    "gloss": "To exile, deport",
+    "definition": "To exile, deport"
+  },
+  {
+    "headword": "xorgicmoc",
+    "copticWord": "ⲝⲟⲣⲅⲓⲥⲙⲟⲥ",
+    "englishTransliteration": "ksorgismos",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "pl. Magicians, astrologers",
+    "definition": "pl. Magicians, astrologers"
+  }
+]

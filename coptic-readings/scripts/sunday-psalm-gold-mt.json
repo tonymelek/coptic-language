@@ -1,0 +1,197 @@
+{
+  "Tout-1": {
+    "vespers": "Psalms 30:4,10",
+    "matins": "Psalms 31:1,19",
+    "liturgy": "Psalms 31:23,19"
+  },
+  "Tout-2": {
+    "vespers": "Psalms 7:10,11",
+    "matins": "Psalms 8:1,4",
+    "liturgy": "Psalms 21:1,2"
+  },
+  "Tout-3": {
+    "vespers": "Psalms 9:1,2",
+    "matins": "Psalms 9:10,11",
+    "liturgy": "Psalms 18:46,49"
+  },
+  "Tout-4": {
+    "vespers": "Psalms 33:4,5",
+    "matins": "Psalms 33:20,21",
+    "liturgy": "Psalms 28:8,9"
+  },
+  "Baba-1": {
+    "vespers": "Psalms 67:1,2",
+    "matins": "Psalms 63:1,2",
+    "liturgy": "Psalms 34:1,2"
+  },
+  "Baba-2": {
+    "vespers": "Psalms 67:3,4",
+    "matins": "Psalms 63:6,3,4",
+    "liturgy": "Psalms 66:1,2"
+  },
+  "Baba-3": {
+    "vespers": "Psalms 71:5,7",
+    "matins": "Psalms 57:9,10",
+    "liturgy": "Psalms 71:7,8"
+  },
+  "Baba-4": {
+    "vespers": "Psalms 119:7,8",
+    "matins": "Psalms 35:18,28",
+    "liturgy": "Psalms 79:13"
+  },
+  "Hator-1": {
+    "vespers": "Psalms 18:15,6",
+    "matins": "Psalms 65:9",
+    "liturgy": "Psalms 65:10,11"
+  },
+  "Hator-2": {
+    "vespers": "Psalms 104:13,14",
+    "matins": "Psalms 67:6,7",
+    "liturgy": "Psalms 104:16,10"
+  },
+  "Hator-3": {
+    "vespers": "Psalms 86:2,3,4",
+    "matins": "Psalms 113:3,4",
+    "liturgy": "Psalms 86:15,16"
+  },
+  "Hator-4": {
+    "vespers": "Psalms 86:12,10",
+    "matins": "Psalms 143:8",
+    "liturgy": "Psalms 100:3"
+  },
+  "Kiahk-1": {
+    "vespers": "Psalms 13:1,3",
+    "matins": "Psalms 102:19,20,21",
+    "liturgy": "Psalms 102:13,16"
+  },
+  "Kiahk-2": {
+    "vespers": "Psalms 144:5,7",
+    "matins": "Psalms 72:6,7",
+    "liturgy": "Psalms 45:10,11"
+  },
+  "Kiahk-3": {
+    "vespers": "Psalms 132:13,14,15",
+    "matins": "Psalms 85:7,8",
+    "liturgy": "Psalms 85:10,11"
+  },
+  "Kiahk-4": {
+    "vespers": "Psalms 87:5",
+    "matins": "Psalms 96:11,12,13",
+    "liturgy": "Psalms 80:1,2,3"
+  },
+  "Toba-1": {
+    "vespers": "Psalms 47:1,2",
+    "matins": "Psalms 93:1,2",
+    "liturgy": "Psalms 98:2,3"
+  },
+  "Toba-2": {
+    "vespers": "Psalms 98:3,9",
+    "matins": "Psalms 97:1,2",
+    "liturgy": "Psalms 84:7;Psalms 65:2"
+  },
+  "Toba-3": {
+    "vespers": "Psalms 77:18,19",
+    "matins": "Psalms 97:6,4",
+    "liturgy": "Psalms 66:12,8"
+  },
+  "Toba-4": {
+    "vespers": "Psalms 78:20,23",
+    "matins": "Psalms 88:7,18",
+    "liturgy": "Psalms 36:9,10"
+  },
+  "Amshir-1": {
+    "vespers": "Psalms 82:8,6",
+    "matins": "Psalms 119:105,73",
+    "liturgy": "Psalms 96:6,4"
+  },
+  "Amshir-2": {
+    "vespers": "Psalms 15:1,2",
+    "matins": "Psalms 24:3,4",
+    "liturgy": "Psalms 96:7,8"
+  },
+  "Amshir-3": {
+    "vespers": "Psalms 17:15,3",
+    "matins": "Psalms 89:52,49",
+    "liturgy": "Psalms 89:1,6"
+  },
+  "Amshir-4": {
+    "vespers": "Psalms 92:4,5",
+    "matins": "Psalms 89:11,1",
+    "liturgy": "Psalms 24:1,2"
+  },
+  "Bashans-3": {
+    "vespers": "Psalms 79:13,9",
+    "matins": "Psalms 74:12,2",
+    "liturgy": "Psalms 68:26,19"
+  },
+  "Bashans-4": {
+    "vespers": "Psalms 46:10,11",
+    "matins": "Psalms 47:6,7",
+    "liturgy": "Psalms 66:4,1,2"
+  },
+  "Paona-1": {
+    "vespers": "Psalms 9:10",
+    "matins": "Psalms 67:1,2",
+    "liturgy": "Psalms 143:10,8"
+  },
+  "Paona-2": {
+    "vespers": "Psalms 16:7,8",
+    "matins": "Psalms 34:1,2",
+    "liturgy": "Psalms 13:6,5"
+  },
+  "Paona-3": {
+    "vespers": "Psalms 6:1;Psalms 38:15",
+    "matins": "Psalms 38:21,22",
+    "liturgy": "Psalms 61:5,8"
+  },
+  "Paona-4": {
+    "vespers": "Psalms 84:8,4",
+    "matins": "Psalms 61:5,8",
+    "liturgy": "Psalms 69:32,33,30"
+  },
+  "Epep-1": {
+    "vespers": "Psalms 20:6,9",
+    "matins": "Psalms 31:23,19",
+    "liturgy": "Psalms 89:7"
+  },
+  "Epep-2": {
+    "vespers": "Psalms 128:1,5",
+    "matins": "Psalms 41:1,2",
+    "liturgy": "Psalms 119:1,2"
+  },
+  "Epep-3": {
+    "vespers": "Psalms 52:9,8",
+    "matins": "Psalms 134:1",
+    "liturgy": "Psalms 145:17,18"
+  },
+  "Epep-4": {
+    "vespers": "Psalms 59:10,17",
+    "matins": "Psalms 86:12,13",
+    "liturgy": "Psalms 40:5,16"
+  },
+  "Mesra-1": {
+    "vespers": "Psalms 33:22,18",
+    "matins": "Psalms 33:20,21",
+    "liturgy": "Psalms 80:14,15"
+  },
+  "Mesra-2": {
+    "vespers": "Psalms 119:145,146",
+    "matins": "Psalms 89:1,2",
+    "liturgy": "Psalms 89:5,15"
+  },
+  "Mesra-3": {
+    "vespers": "Psalms 5:7,11",
+    "matins": "Psalms 15:1,2",
+    "liturgy": "Psalms 28:2,6"
+  },
+  "Mesra-4": {
+    "vespers": "Psalms 119:170,176",
+    "matins": "Psalms 90:1,2",
+    "liturgy": "Psalms 89:11,12"
+  },
+  "Nasie-5": {
+    "vespers": "Psalms 41:13,12",
+    "matins": "Psalms 102:12,24",
+    "liturgy": "Psalms 102:24,25,26"
+  }
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "headword": "metatouw] ebol",
+    "copticWord": "ⲙⲉⲧⲁⲧⲟⲩⲱϯ ⲉⲃⲟⲗ",
+    "englishTransliteration": "metatouōti evol",
+    "partOfSpeech": "f",
+    "gloss": "Not being separate",
+    "definition": "Not being separate"
+  },
+  {
+    "headword": "oube",
+    "copticWord": "ⲟⲩⲃⲉ",
+    "englishTransliteration": "ouve",
+    "gloss": "vt. To contradict, object",
+    "definition": "vt. To contradict, object"
+  },
+  {
+    "headword": "ousap",
+    "copticWord": "ⲟⲩϣⲁⲡ",
+    "englishTransliteration": "oushap",
+    "reference": "503a",
+    "partOfSpeech": "m",
+    "gloss": "Loan",
+    "definition": "Loan",
+    "senses": [
+      {
+        "label": "]epousap",
+        "gloss": "vb To give on loan",
+        "definition": "vb To give on loan"
+      },
+      {
+        "label": "[iepousap",
+        "partOfSpeech": "vb",
+        "gloss": "to take, get on loan",
+        "definition": "to take, get on loan"
+      },
+      {
+        "label": "ouqe",
+        "reference": "739b",
+        "gloss": "m Untimely birth",
+        "definition": "m Untimely birth"
+      }
+    ]
+  },
+  {
+    "headword": "ouho",
+    "copticWord": "ⲟⲩϩⲟ",
+    "englishTransliteration": "ouho",
+    "gloss": "Greatness",
+    "definition": "Greatness",
+    "crossReference": {
+      "target": "houo",
+      "gloss": "Greatness"
+    }
+  },
+  {
+    "headword": "ouhwr",
+    "copticWord": "ⲟⲩϩⲱⲣ",
+    "englishTransliteration": "ouhōr",
+    "reference": "510b",
+    "partOfSpeech": "n",
+    "gloss": "Dog",
+    "definition": "Dog"
+  },
+  {
+    "headword": "oujai",
+    "copticWord": "ⲟⲩϫⲁⲓ",
+    "englishTransliteration": "ougai",
+    "variants": [
+      {
+        "word": "Q. ouoj",
+        "copticWord": "Ϧ. ⲟⲩⲟϫ",
+        "englishTransliteration": "Kh. ouoj"
+      }
+    ],
+    "reference": "511a",
+    "gloss": "vi. To be whole, safe, sound",
+    "definition": "imperat. as greeting, i.e. good bye;",
+    "senses": [
+      {
+        "label": "e",
+        "gloss": "vi. To be saved from",
+        "definition": "vi. To be saved from"
+      },
+      {
+        "label": "ebol ha",
+        "gloss": "vi. To be saved from",
+        "definition": "vi. To be saved from"
+      },
+      {
+        "label": "qen",
+        "gloss": "vi. To be saved by",
+        "definition": "vi. To be saved by"
+      },
+      {
+        "label": "hiten",
+        "gloss": "vi. To be saved by",
+        "definition": "--: m Health, safety, weal --: adj. Health-giving, healthy metatoujai: f Unsoundness."
+      }
+    ]
+  }
+]

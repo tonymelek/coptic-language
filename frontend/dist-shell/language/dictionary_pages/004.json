@@ -1,0 +1,529 @@
+[
+  {
+    "headword": "a",
+    "copticWord": "ⲁ",
+    "englishTransliteration": "a",
+    "reference": "1a",
+    "gloss": "First letter of the alphabet",
+    "definition": "a: One;",
+    "senses": [
+      {
+        "label": "a",
+        "gloss": "Thousand",
+        "definition": "Thousand"
+      }
+    ]
+  },
+  {
+    "headword": "abrem",
+    "copticWord": "ⲁⲃⲣⲉⲙ",
+    "englishTransliteration": "avrem",
+    "reference": "2b"
+  },
+  {
+    "headword": "n. Something cooked",
+    "copticWord": "ⲛ. Ϣⲟⲙⲉⲧϩⲓⲛⲅ ⲥⲟⲟⲕⲉⲇ",
+    "englishTransliteration": "n. Shomething sooked",
+    "variants": [
+      {
+        "word": "baked",
+        "copticWord": "ⲃⲁⲕⲉⲇ",
+        "englishTransliteration": "vaked"
+      },
+      {
+        "word": "ripe. abraciwn",
+        "copticWord": "ⲣⲓⲡⲉ. ⲁⲃⲣⲁⲥⲓⲱⲛ",
+        "englishTransliteration": "ripe. avrasiōn"
+      }
+    ],
+    "reference": "Gk?",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "gloss": "The abundance of grass and plants",
+    "definition": "The abundance of grass and plants"
+  },
+  {
+    "headword": "abrilloc",
+    "copticWord": "ⲁⲃⲣⲓⲗⲗⲟⲥ",
+    "englishTransliteration": "avrillos",
+    "reference": "Gk?",
+    "isGreek": true
+  },
+  {
+    "headword": "n. The month 'April'. abcwn",
+    "copticWord": "ⲛ. Ⲧϩⲉ ⲙⲟⲛⲧϩ ⲯⲀⲡⲣⲓⲗⲯ. ⲁⲃⲥⲱⲛ",
+    "englishTransliteration": "n. The month psAprilps. avsōn",
+    "variants": [
+      {
+        "word": "aucon",
+        "copticWord": "ⲁⲩⲥⲟⲛ",
+        "englishTransliteration": "avson"
+      }
+    ],
+    "reference": "2b",
+    "partOfSpeech": "m",
+    "gloss": "Wild mint",
+    "definition": "Wild mint"
+  },
+  {
+    "headword": "abw",
+    "copticWord": "ⲁⲃⲱ",
+    "englishTransliteration": "avō",
+    "reference": "2a",
+    "partOfSpeech": "f",
+    "gloss": "Dragnet, net",
+    "definition": "Dragnet, net"
+  },
+  {
+    "headword": "abwk",
+    "copticWord": "ⲁⲃⲱⲕ",
+    "englishTransliteration": "avōk",
+    "variants": [
+      {
+        "word": "abok",
+        "note": "seldom",
+        "copticWord": "ⲁⲃⲟⲕ",
+        "englishTransliteration": "avok"
+      },
+      {
+        "type": "f.",
+        "word": "aboki",
+        "copticWord": "ⲁⲃⲟⲕⲓ",
+        "englishTransliteration": "avoki"
+      },
+      {
+        "type": "pl.",
+        "word": "aboki",
+        "copticWord": "ⲁⲃⲟⲕⲓ",
+        "englishTransliteration": "avoki"
+      },
+      {
+        "type": "sg as pl"
+      }
+    ],
+    "reference": "2b",
+    "partOfSpeech": "m",
+    "gloss": "Crow. raven",
+    "definition": "Crow. raven"
+  },
+  {
+    "headword": "agayartoc",
+    "copticWord": "ⲁⲅⲁⲑⲁⲣⲧⲟⲥ",
+    "englishTransliteration": "agathartos",
+    "gloss": "Unclean",
+    "definition": "Unclean",
+    "crossReference": {
+      "target": "akayartoc",
+      "gloss": "Unclean"
+    }
+  },
+  {
+    "headword": "agay/",
+    "copticWord": "ⲁⲅⲁⲑⲏ",
+    "englishTransliteration": "agathi",
+    "gloss": "Good (f)",
+    "definition": "Good (f)",
+    "crossReference": {
+      "target": "agayoc",
+      "gloss": "Good (f)"
+    }
+  },
+  {
+    "headword": "agayon",
+    "copticWord": "ⲁⲅⲁⲑⲟⲛ",
+    "englishTransliteration": "agathon",
+    "gloss": "Good",
+    "definition": "Good",
+    "crossReference": {
+      "target": "agayoc",
+      "gloss": "Good"
+    }
+  },
+  {
+    "headword": "agayoc",
+    "copticWord": "ⲁⲅⲁⲑⲟⲥ",
+    "englishTransliteration": "agathos",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      },
+      {
+        "type": "f.",
+        "word": "-y/",
+        "copticWord": "-ⲑⲏ",
+        "englishTransliteration": "-thi"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "good, righteous, noble",
+    "definition": "good, righteous, noble"
+  },
+  {
+    "headword": "agalma",
+    "copticWord": "ⲁⲅⲁⲗⲙⲁ",
+    "englishTransliteration": "agalma",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Unknown",
+    "definition": "Unknown"
+  },
+  {
+    "headword": "aaf",
+    "copticWord": "ⲁⲁϥ",
+    "englishTransliteration": "aaf",
+    "gloss": "Fly",
+    "definition": "Fly",
+    "crossReference": {
+      "target": "af",
+      "gloss": "Fly"
+    }
+  },
+  {
+    "headword": "ab",
+    "copticWord": "ⲁⲃ",
+    "englishTransliteration": "av",
+    "gloss": "Fly",
+    "definition": "Fly",
+    "crossReference": {
+      "target": "(2)af",
+      "gloss": "Fly"
+    }
+  },
+  {
+    "headword": "agap/",
+    "copticWord": "ⲁⲅⲁⲡⲏ",
+    "englishTransliteration": "agapi",
+    "variants": [
+      {
+        "word": "-/c",
+        "copticWord": "-ⲏⲥ",
+        "englishTransliteration": "-is"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Love, brotherly love, love of God, charity, alms, a love feast",
+    "definition": "Love, brotherly love, love of God, charity, alms, a love feast"
+  },
+  {
+    "headword": "agap/toc",
+    "copticWord": "ⲁⲅⲁⲡⲏⲧⲟⲥ",
+    "englishTransliteration": "agapitos",
+    "partOfSpeech": "adj",
+    "gloss": "beloved",
+    "definition": "beloved"
+  },
+  {
+    "headword": "eragapan",
+    "copticWord": "ⲉⲣⲁⲅⲁⲡⲁⲛ",
+    "englishTransliteration": "eragapan",
+    "partOfSpeech": "vb",
+    "gloss": "To love",
+    "definition": "To love"
+  },
+  {
+    "headword": "abayra",
+    "copticWord": "ⲁⲃⲁⲑⲣⲁ",
+    "englishTransliteration": "avathra",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "gloss": "Bridge, dam",
+    "definition": "Lit. 'without base'."
+  },
+  {
+    "headword": "agap/c",
+    "copticWord": "ⲁⲅⲁⲡⲏⲥ",
+    "englishTransliteration": "agapis",
+    "gloss": "Love",
+    "definition": "Love",
+    "crossReference": {
+      "target": "agap/",
+      "gloss": "Love"
+    }
+  },
+  {
+    "headword": "abakicye",
+    "copticWord": "ⲁⲃⲁⲕⲓⲥⲑⲉ",
+    "englishTransliteration": "avakisthe",
+    "reference": "Gk?",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "gloss": "Wild gum",
+    "definition": "Wild gum"
+  },
+  {
+    "headword": "aban",
+    "copticWord": "ⲁⲃⲁⲛ",
+    "englishTransliteration": "avan",
+    "gloss": "Color",
+    "definition": "Color",
+    "crossReference": {
+      "target": "aouan",
+      "gloss": "Color"
+    }
+  },
+  {
+    "headword": "agariyonikon",
+    "copticWord": "ⲁⲅⲁⲣⲓⲑⲟⲛⲓⲕⲟⲛ",
+    "englishTransliteration": "agarithonikon",
+    "reference": "Gk",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "gloss": "A kind of tree fungus",
+    "definition": "A kind of tree fungus"
+  },
+  {
+    "headword": "aggelia",
+    "copticWord": "ⲁⲅⲅⲉⲗⲓⲁ",
+    "englishTransliteration": "angelia",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "A message, tidings, news, word, speech",
+    "definition": "A message, tidings, news, word, speech"
+  },
+  {
+    "headword": "aggelikenoc",
+    "copticWord": "ⲁⲅⲅⲉⲗⲓⲕⲉⲛⲟⲥ",
+    "englishTransliteration": "angelikenos",
+    "reference": "Gk?",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "English in origin",
+    "definition": "English in origin"
+  },
+  {
+    "headword": "abaj/ini",
+    "copticWord": "ⲁⲃⲁϫⲏⲓⲛⲓ",
+    "englishTransliteration": "avajiini",
+    "variants": [
+      {
+        "word": "-jini",
+        "copticWord": "-ϫⲓⲛⲓ",
+        "englishTransliteration": "-jini"
+      },
+      {
+        "word": "bajini",
+        "copticWord": "ⲃⲁϫⲓⲛⲓ",
+        "englishTransliteration": "vajini"
+      },
+      {
+        "word": "-j/ini",
+        "copticWord": "-ϫⲏⲓⲛⲓ",
+        "englishTransliteration": "-jiini"
+      },
+      {
+        "word": "-j/ni",
+        "copticWord": "-ϫⲏⲛⲓ",
+        "englishTransliteration": "-jini"
+      }
+    ],
+    "reference": "3a",
+    "partOfSpeech": "mf",
+    "gloss": "Glass, an object of glass, a thing seen in glass",
+    "definition": "Glass, an object of glass, a thing seen in glass"
+  },
+  {
+    "headword": "canabaj/ini",
+    "copticWord": "ⲥⲁⲛⲁⲃⲁϫⲏⲓⲛⲓ",
+    "englishTransliteration": "sanavajiini",
+    "partOfSpeech": "m",
+    "gloss": "Glass-blower or seller",
+    "definition": "Glass-blower or seller"
+  },
+  {
+    "headword": "abba",
+    "copticWord": "ⲁⲃⲃⲁ",
+    "englishTransliteration": "ava",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Father",
+    "definition": "a title of respect given to elderly monks, abbot, or superior of a monastery."
+  },
+  {
+    "headword": "ab/n",
+    "copticWord": "ⲁⲃⲏⲛ",
+    "englishTransliteration": "avin",
+    "gloss": "Cargo",
+    "definition": "Cargo",
+    "crossReference": {
+      "target": "aouan",
+      "gloss": "Cargo"
+    }
+  },
+  {
+    "headword": "aggeloc",
+    "copticWord": "ⲁⲅⲅⲉⲗⲟⲥ",
+    "englishTransliteration": "angelos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Angel, messenger, envoy",
+    "definition": "Angel, messenger, envoy"
+  },
+  {
+    "headword": "agg/n",
+    "copticWord": "ⲁⲅⲅⲏⲛ",
+    "englishTransliteration": "angin",
+    "reference": "Gk?",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "gloss": "Pot, vessel. age, pl",
+    "definition": "Pot, vessel. age, pl"
+  },
+  {
+    "headword": "agete",
+    "copticWord": "ⲁⲅⲉⲧⲉ",
+    "englishTransliteration": "agete",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "imperat of agw= come!, come on!",
+    "definition": "interj. come now!"
+  },
+  {
+    "headword": "ab/t",
+    "copticWord": "ⲁⲃⲏⲧ",
+    "englishTransliteration": "avit",
+    "gloss": "Months",
+    "definition": "Months",
+    "crossReference": {
+      "target": "abot",
+      "gloss": "Months"
+    }
+  },
+  {
+    "headword": "agel/",
+    "copticWord": "ⲁⲅⲉⲗⲏ",
+    "englishTransliteration": "ageli",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Unknown",
+    "definition": "Unknown"
+  },
+  {
+    "headword": "abin",
+    "copticWord": "ⲁⲃⲓⲛ",
+    "englishTransliteration": "avin",
+    "gloss": "Cargo",
+    "definition": "Cargo",
+    "crossReference": {
+      "target": "aouan",
+      "gloss": "Cargo"
+    }
+  },
+  {
+    "headword": "ageli",
+    "copticWord": "ⲁⲅⲉⲗⲓ",
+    "englishTransliteration": "ageli",
+    "variants": [
+      {
+        "word": "akeli",
+        "copticWord": "ⲁⲕⲉⲗⲓ",
+        "englishTransliteration": "akeli"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "A herd of oxen, company",
+    "definition": "A herd of oxen, company"
+  },
+  {
+    "headword": "abit",
+    "copticWord": "ⲁⲃⲓⲧ",
+    "englishTransliteration": "avit",
+    "reference": "2b",
+    "partOfSpeech": "n",
+    "gloss": "Monday",
+    "definition": "Monday"
+  },
+  {
+    "headword": "abok",
+    "copticWord": "ⲁⲃⲟⲕ",
+    "englishTransliteration": "avok",
+    "gloss": "Crow",
+    "definition": "Crow",
+    "crossReference": {
+      "target": "abwk",
+      "gloss": "Crow"
+    }
+  },
+  {
+    "headword": "agia",
+    "copticWord": "ⲁⲅⲓⲁ",
+    "englishTransliteration": "agia",
+    "gloss": "Holy",
+    "definition": "Holy",
+    "crossReference": {
+      "target": "agioc",
+      "gloss": "Holy"
+    }
+  },
+  {
+    "headword": "aboki",
+    "copticWord": "ⲁⲃⲟⲕⲓ",
+    "englishTransliteration": "avoki",
+    "gloss": "She-crow / crows",
+    "definition": "She-crow / crows",
+    "crossReference": {
+      "target": "abwk",
+      "gloss": "She-crow / crows"
+    }
+  },
+  {
+    "headword": "abot",
+    "copticWord": "ⲁⲃⲟⲧ",
+    "englishTransliteration": "avot",
+    "variants": [
+      {
+        "type": "pl.",
+        "word": "ab/t",
+        "copticWord": "ⲁⲃⲏⲧ",
+        "englishTransliteration": "avit"
+      },
+      {
+        "type": "sg as pl"
+      }
+    ],
+    "reference": "53b",
+    "partOfSpeech": "m",
+    "gloss": "Month",
+    "definition": "Month"
+  },
+  {
+    "headword": "agiazin",
+    "copticWord": "ⲁⲅⲓⲁⲍⲓⲛ",
+    "englishTransliteration": "agiazin",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "(w/ er-) vb. To hollow, sanctify, purify, consecrate",
+    "definition": "(w/ er-) vb. To hollow, sanctify, purify, consecrate"
+  },
+  {
+    "headword": "aboui",
+    "copticWord": "ⲁⲃⲟⲩⲓ",
+    "englishTransliteration": "avoui",
+    "gloss": "Flesh",
+    "definition": "Flesh",
+    "crossReference": {
+      "target": "af",
+      "gloss": "Flesh"
+    }
+  },
+  {
+    "headword": "agiacma",
+    "copticWord": "ⲁⲅⲓⲁⲥⲙⲁ",
+    "englishTransliteration": "agiasma",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "A holy place, sanctuary, holiness",
+    "definition": "A holy place, sanctuary, holiness"
+  }
+]

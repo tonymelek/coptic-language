@@ -1,0 +1,578 @@
+[
+  {
+    "headword": "apodexic",
+    "copticWord": "ⲁⲡⲟⲇⲉⲝⲓⲥ",
+    "englishTransliteration": "apodeksis",
+    "gloss": "Proof. apodeixic, -dexic: (Gk)",
+    "definition": "f. Demonstration, showing forth, making known, exhibition, publication, proof.",
+    "crossReference": {
+      "target": "apodeixic",
+      "gloss": "Proof. apodeixic, -dexic: (Gk)"
+    }
+  },
+  {
+    "headword": "apa",
+    "copticWord": "ⲁⲡⲁ",
+    "englishTransliteration": "apa",
+    "reference": "13a",
+    "partOfSpeech": "m",
+    "gloss": "Apa (title of reverence)",
+    "definition": "Apa (title of reverence)"
+  },
+  {
+    "headword": "apay/c",
+    "copticWord": "ⲁⲡⲁⲑⲏⲥ",
+    "englishTransliteration": "apathis",
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Not suffering, without passion or feeling, apathetic",
+    "definition": "Not suffering, without passion or feeling, apathetic"
+  },
+  {
+    "headword": "apod/mon",
+    "copticWord": "ⲁⲡⲟⲇⲏⲙⲟⲛ",
+    "englishTransliteration": "apodimon",
+    "variants": [
+      {
+        "word": "-oc",
+        "copticWord": "-ⲟⲥ",
+        "englishTransliteration": "-os"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Away from one's country",
+    "definition": "m. traveler, tourist."
+  },
+  {
+    "headword": "apod/moc",
+    "copticWord": "ⲁⲡⲟⲇⲏⲙⲟⲥ",
+    "englishTransliteration": "apodimos",
+    "gloss": "Abroad",
+    "definition": "Abroad",
+    "crossReference": {
+      "target": "apod/mon",
+      "gloss": "Abroad"
+    }
+  },
+  {
+    "headword": "apantan",
+    "copticWord": "ⲁⲡⲁⲛⲧⲁⲛ",
+    "englishTransliteration": "apantan",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "v. (w/ er-) To meet, encounter, face",
+    "definition": "v. (w/ er-) To meet, encounter, face"
+  },
+  {
+    "headword": "apoy/k/",
+    "copticWord": "ⲁⲡⲟⲑⲏⲕⲏ",
+    "englishTransliteration": "apothiki",
+    "variants": [
+      {
+        "word": "-/c",
+        "copticWord": "-ⲏⲥ",
+        "englishTransliteration": "-is"
+      }
+    ],
+    "partOfSpeech": "f",
+    "gloss": "Magazine storehouse, refuge",
+    "definition": "Magazine storehouse, refuge"
+  },
+  {
+    "headword": "apant/ma",
+    "copticWord": "ⲁⲡⲁⲛⲧⲏⲙⲁ",
+    "englishTransliteration": "apantima",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Meeting, chance",
+    "definition": "Meeting, chance"
+  },
+  {
+    "headword": "apoy/k/c",
+    "copticWord": "ⲁⲡⲟⲑⲏⲕⲏⲥ",
+    "englishTransliteration": "apothikis",
+    "gloss": "Refuge",
+    "definition": "Refuge",
+    "crossReference": {
+      "target": "apoy/k/",
+      "gloss": "Refuge"
+    }
+  },
+  {
+    "headword": "apax",
+    "copticWord": "ⲁⲡⲁⲝ",
+    "englishTransliteration": "apaks",
+    "reference": "Gk",
+    "partOfSpeech": "adv",
+    "isGreek": true,
+    "gloss": "Once for all, once, once only",
+    "definition": "Once for all, once, once only"
+  },
+  {
+    "headword": "apokalum'ic",
+    "copticWord": "ⲁⲡⲟⲕⲁⲗⲩⲙⲯⲓⲥ",
+    "englishTransliteration": "apokalympsis",
+    "gloss": "Apo-calypse",
+    "definition": "Apo-calypse",
+    "crossReference": {
+      "target": "apokalu'ic",
+      "gloss": "Apo-calypse"
+    }
+  },
+  {
+    "headword": "apax aplwc",
+    "copticWord": "ⲁⲡⲁⲝ ⲁⲡⲗⲱⲥ",
+    "englishTransliteration": "apaks aplōs",
+    "reference": "Gk",
+    "partOfSpeech": "adv",
+    "isGreek": true,
+    "gloss": "In general",
+    "definition": "In general"
+  },
+  {
+    "headword": "apar",
+    "copticWord": "ⲁⲡⲁⲣ",
+    "englishTransliteration": "apar",
+    "variants": [
+      {
+        "word": "/",
+        "copticWord": "ⲏ",
+        "englishTransliteration": "i"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Beginning of a sacrifice, primal offering, first fruits",
+    "definition": "Beginning of a sacrifice, primal offering, first fruits"
+  },
+  {
+    "headword": "apokalu'ic",
+    "copticWord": "ⲁⲡⲟⲕⲁⲗⲩⲯⲓⲥ",
+    "englishTransliteration": "apokalypsis",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Disclosing (of hidden springs), uncovering (of the head), revelation (esp. of divine mysteries), manifestation",
+    "definition": "biblical book of Apocalypse."
+  },
+  {
+    "headword": "apokricic",
+    "copticWord": "ⲁⲡⲟⲕⲣⲓⲥⲓⲥ",
+    "englishTransliteration": "apokrisis",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Unknown. apolabin = apolauin - Pleasure",
+    "definition": "Unknown. apolabin = apolauin - Pleasure"
+  },
+  {
+    "headword": "apac",
+    "copticWord": "ⲁⲡⲁⲥ",
+    "englishTransliteration": "apas",
+    "reference": "17a",
+    "partOfSpeech": "adj",
+    "gloss": "Old",
+    "definition": "Old"
+  },
+  {
+    "headword": "metapac",
+    "copticWord": "ⲙⲉⲧⲁⲡⲁⲥ",
+    "englishTransliteration": "metapas",
+    "partOfSpeech": "f",
+    "gloss": "Oldness",
+    "definition": "Oldness"
+  },
+  {
+    "headword": "erapac",
+    "copticWord": "ⲉⲣⲁⲡⲁⲥ",
+    "englishTransliteration": "erapas",
+    "partOfSpeech": "vb",
+    "gloss": "To become old",
+    "definition": "To become old"
+  },
+  {
+    "headword": "jinerapac",
+    "copticWord": "ϫⲓⲛⲉⲣⲁⲡⲁⲥ",
+    "englishTransliteration": "jinerapas",
+    "partOfSpeech": "m",
+    "gloss": "The process of growing old, aging",
+    "definition": "The process of growing old, aging"
+  },
+  {
+    "headword": "apolauin",
+    "copticWord": "ⲁⲡⲟⲗⲁⲩⲓⲛ",
+    "englishTransliteration": "apolavin",
+    "variants": [
+      {
+        "word": "-aucic",
+        "copticWord": "-ⲁⲩⲥⲓⲥ",
+        "englishTransliteration": "-avsis"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Act of enjoying, pleasure",
+    "definition": "Act of enjoying, pleasure"
+  },
+  {
+    "headword": "apat/",
+    "copticWord": "ⲁⲡⲁⲧⲏ",
+    "englishTransliteration": "apati",
+    "variants": [
+      {
+        "word": "-/c",
+        "copticWord": "-ⲏⲥ",
+        "englishTransliteration": "-is"
+      }
+    ],
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Trick, fraud, guile, treachery, Deceit",
+    "definition": "Trick, fraud, guile, treachery, Deceit"
+  },
+  {
+    "headword": "apat/c",
+    "copticWord": "ⲁⲡⲁⲧⲏⲥ",
+    "englishTransliteration": "apatis",
+    "gloss": "Deceit",
+    "definition": "Deceit",
+    "crossReference": {
+      "target": "apat/",
+      "gloss": "Deceit"
+    }
+  },
+  {
+    "headword": "apeiroc",
+    "copticWord": "ⲁⲡⲉⲓⲣⲟⲥ",
+    "englishTransliteration": "apiros",
+    "gloss": "Ignorant",
+    "definition": "Ignorant",
+    "crossReference": {
+      "target": "apiroc",
+      "gloss": "Ignorant"
+    }
+  },
+  {
+    "headword": "apolaucic",
+    "copticWord": "ⲁⲡⲟⲗⲁⲩⲥⲓⲥ",
+    "englishTransliteration": "apolavsis",
+    "gloss": "Pleasure. apoleuyeroc: (Gk?)",
+    "definition": "Pleasure. apoleuyeroc: (Gk?)",
+    "crossReference": {
+      "target": "apolauin",
+      "gloss": "Pleasure. apoleuyeroc: (Gk?)"
+    }
+  },
+  {
+    "headword": "m. Slave",
+    "copticWord": "ⲙ. Ϣⲗⲁⲫⲉ",
+    "englishTransliteration": "m. Shlafe",
+    "variants": [
+      {
+        "word": "bondman. apolle",
+        "copticWord": "ⲃⲟⲛⲇⲙⲁⲛ. ⲁⲡⲟⲗⲗⲉ",
+        "englishTransliteration": "vondman. apolle"
+      }
+    ],
+    "reference": "Gk?",
+    "partOfSpeech": "mf",
+    "isGreek": true,
+    "gloss": "Youth",
+    "definition": "Youth"
+  },
+  {
+    "headword": "apollwn",
+    "copticWord": "ⲁⲡⲟⲗⲗⲱⲛ",
+    "englishTransliteration": "apollōn",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "The god \"Apollo\"",
+    "definition": "The god \"Apollo\""
+  },
+  {
+    "headword": "apelpizin",
+    "copticWord": "ⲁⲡⲉⲗⲡⲓⲍⲓⲛ",
+    "englishTransliteration": "apelpizin",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "v. (w/ er-) To be despaired",
+    "definition": "v. (w/ er-) To be despaired"
+  },
+  {
+    "headword": "apologia",
+    "copticWord": "ⲁⲡⲟⲗⲟⲅⲓⲁ",
+    "englishTransliteration": "apologia",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Apology",
+    "definition": "Apology"
+  },
+  {
+    "headword": "aperanton",
+    "copticWord": "ⲁⲡⲉⲣⲁⲛⲧⲟⲛ",
+    "englishTransliteration": "aperanton",
+    "gloss": "Infinite",
+    "definition": "Infinite",
+    "crossReference": {
+      "target": "aperantoc",
+      "gloss": "Infinite"
+    }
+  },
+  {
+    "headword": "apomeroc",
+    "copticWord": "ⲁⲡⲟⲙⲉⲣⲟⲥ",
+    "englishTransliteration": "apomeros",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "vb (w/ er-) To divide off, separate",
+    "definition": "vb (w/ er-) To divide off, separate"
+  },
+  {
+    "headword": "aperantoc",
+    "copticWord": "ⲁⲡⲉⲣⲁⲛⲧⲟⲥ",
+    "englishTransliteration": "aperantos",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Boundless, infinite, countless, unlimited, endless",
+    "definition": "Boundless, infinite, countless, unlimited, endless"
+  },
+  {
+    "headword": "aponia",
+    "copticWord": "ⲁⲡⲟⲛⲓⲁ",
+    "englishTransliteration": "aponia",
+    "gloss": "Unknown",
+    "definition": "Unknown",
+    "crossReference": {
+      "target": "aponoia",
+      "gloss": "Unknown"
+    }
+  },
+  {
+    "headword": "aperaton",
+    "copticWord": "ⲁⲡⲉⲣⲁⲧⲟⲛ",
+    "englishTransliteration": "aperaton",
+    "variants": [
+      {
+        "word": "-reton",
+        "copticWord": "-ⲣⲉⲧⲟⲛ",
+        "englishTransliteration": "-reton"
+      }
+    ],
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Unknown",
+    "definition": "Unknown"
+  },
+  {
+    "headword": "aponoia",
+    "copticWord": "ⲁⲡⲟⲛⲟⲓⲁ",
+    "englishTransliteration": "aponoia",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Unknown",
+    "definition": "Unknown"
+  },
+  {
+    "headword": "apereton",
+    "copticWord": "ⲁⲡⲉⲣⲉⲧⲟⲛ",
+    "englishTransliteration": "apereton",
+    "gloss": "Unknown",
+    "definition": "Unknown",
+    "crossReference": {
+      "target": "aperaton",
+      "gloss": "Unknown"
+    }
+  },
+  {
+    "headword": "aporin",
+    "copticWord": "ⲁⲡⲟⲣⲓⲛ",
+    "englishTransliteration": "aporin",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Unknown",
+    "definition": "Unknown"
+  },
+  {
+    "headword": "apioc",
+    "copticWord": "ⲁⲡⲓⲟⲥ",
+    "englishTransliteration": "apios",
+    "variants": [
+      {
+        "word": "-ou",
+        "copticWord": "-ⲟⲩ",
+        "englishTransliteration": "-ou"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Pear tree",
+    "definition": "Pear tree"
+  },
+  {
+    "headword": "apiou",
+    "copticWord": "ⲁⲡⲓⲟⲩ",
+    "englishTransliteration": "apiou",
+    "gloss": "Pear tree",
+    "definition": "Pear tree",
+    "crossReference": {
+      "target": "apioc",
+      "gloss": "Pear tree"
+    }
+  },
+  {
+    "headword": "apoctat/c",
+    "copticWord": "ⲁⲡⲟⲥⲧⲁⲧⲏⲥ",
+    "englishTransliteration": "apostatis",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Apostate",
+    "definition": "deserter, rebel, seceder."
+  },
+  {
+    "headword": "apiroc",
+    "copticWord": "ⲁⲡⲓⲣⲟⲥ",
+    "englishTransliteration": "apiros",
+    "variants": [
+      {
+        "word": "apeiroc",
+        "copticWord": "ⲁⲡⲉⲓⲣⲟⲥ",
+        "englishTransliteration": "apiros"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Inexperienced, ignorant",
+    "definition": "Inexperienced, ignorant"
+  },
+  {
+    "headword": "apoctolik/",
+    "copticWord": "ⲁⲡⲟⲥⲧⲟⲗⲓⲕⲏ",
+    "englishTransliteration": "apostoliki",
+    "gloss": "Aposto-lic",
+    "definition": "Aposto-lic",
+    "crossReference": {
+      "target": "apoctolikoc",
+      "gloss": "Aposto-lic"
+    }
+  },
+  {
+    "headword": "apoctolikon",
+    "copticWord": "ⲁⲡⲟⲥⲧⲟⲗⲓⲕⲟⲛ",
+    "englishTransliteration": "apostolikon",
+    "gloss": "Aposto-lic",
+    "definition": "Aposto-lic",
+    "crossReference": {
+      "target": "apoctolikoc",
+      "gloss": "Aposto-lic"
+    }
+  },
+  {
+    "headword": "apictoc",
+    "copticWord": "ⲁⲡⲓⲥⲧⲟⲥ",
+    "englishTransliteration": "apistos",
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Not to be trusted, disloyal, faithless, disobedient, unbelieving, suspicious",
+    "definition": "Not to be trusted, disloyal, faithless, disobedient, unbelieving, suspicious"
+  },
+  {
+    "headword": "apoctolikoc",
+    "copticWord": "ⲁⲡⲟⲥⲧⲟⲗⲓⲕⲟⲥ",
+    "englishTransliteration": "apostolikos",
+    "variants": [
+      {
+        "word": "-/",
+        "copticWord": "-ⲏ",
+        "englishTransliteration": "-i"
+      },
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Apostolic",
+    "definition": "Apostolic"
+  },
+  {
+    "headword": "aplwc",
+    "copticWord": "ⲁⲡⲗⲱⲥ",
+    "englishTransliteration": "aplōs",
+    "reference": "Gk",
+    "partOfSpeech": "adv",
+    "isGreek": true,
+    "gloss": "Singly, in one way, simply, absolutely, plainly, frankly, generally",
+    "definition": "Singly, in one way, simply, absolutely, plainly, frankly, generally"
+  },
+  {
+    "headword": "apograv/",
+    "copticWord": "ⲁⲡⲟⲅⲣⲁⲫⲏ",
+    "englishTransliteration": "apografi",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Unknown",
+    "definition": "Unknown"
+  },
+  {
+    "headword": "apoctoloc",
+    "copticWord": "ⲁⲡⲟⲥⲧⲟⲗⲟⲥ",
+    "englishTransliteration": "apostolos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Apostle, messenger, messenger from God, ambassador, envoy",
+    "definition": "Apostle, messenger, messenger from God, ambassador, envoy"
+  },
+  {
+    "headword": "apodazecye",
+    "copticWord": "ⲁⲡⲟⲇⲁⲍⲉⲥⲑⲉ",
+    "englishTransliteration": "apodazesthe",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "v. (w/ er-) To bid farewell",
+    "definition": "v. (w/ er-) To bid farewell"
+  },
+  {
+    "headword": "apocunagwgoc",
+    "copticWord": "ⲁⲡⲟⲥⲩⲛⲁⲅⲱⲅⲟⲥ",
+    "englishTransliteration": "aposynagōgos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "One expelled from the synagogue",
+    "definition": "One expelled from the synagogue"
+  },
+  {
+    "headword": "aprokr/cic",
+    "copticWord": "ⲁⲡⲣⲟⲕⲣⲏⲥⲓⲥ",
+    "englishTransliteration": "aprokrisis",
+    "gloss": "Unknown. apul/: (Gk)",
+    "definition": "Unknown.",
+    "crossReference": {
+      "target": "apokricic",
+      "gloss": "Unknown. apul/: (Gk)"
+    }
+  }
+]

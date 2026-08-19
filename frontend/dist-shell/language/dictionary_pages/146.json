@@ -1,0 +1,329 @@
+[
+  {
+    "headword": "(2) p.c. sat",
+    "copticWord": "ⲡ.ⲥ. ϣⲁⲧ",
+    "englishTransliteration": "p.s. shat",
+    "variants": [
+      {
+        "word": "sot",
+        "copticWord": "ϣⲟⲧ",
+        "englishTransliteration": "shot"
+      }
+    ],
+    "reference": "590b",
+    "partOfSpeech": "vb",
+    "gloss": "To cut, slay",
+    "definition": "--- e-: vb. To slay for;",
+    "senses": [
+      {
+        "label": "ebol",
+        "partOfSpeech": "vb",
+        "gloss": "To cut, cut off",
+        "definition": "--- ejen: vb. To decide upon, condemn;"
+      },
+      {
+        "label": "ebol n",
+        "partOfSpeech": "vb",
+        "gloss": "To cut from",
+        "definition": "To cut from"
+      },
+      {
+        "label": "ebol hi",
+        "partOfSpeech": "vb",
+        "gloss": "To cut from",
+        "definition": "--- ebol qen: vb. To cut from; p.c. He who, that which cuts, is cut; ---: m. Thing cut (esp. Sacrifices);"
+      },
+      {
+        "label": "ebol",
+        "partOfSpeech": "m",
+        "gloss": "Cutting out, off",
+        "definition": "excommunication;"
+      },
+      {
+        "label": "qen ouswt ebol",
+        "partOfSpeech": "adv",
+        "gloss": "sharply, shortly",
+        "definition": "sharply, shortly"
+      },
+      {
+        "label": "refswt",
+        "partOfSpeech": "m",
+        "gloss": "Cutter",
+        "definition": "jinswt ebol: m. Cutting off, slay-ing;"
+      },
+      {
+        "label": "vi",
+        "gloss": "To be cut short, want, lack",
+        "definition": "To be cut short, want, lack"
+      },
+      {
+        "label": "e",
+        "gloss": "vi. To lack for",
+        "definition": "vi. To lack for"
+      },
+      {
+        "label": "qen",
+        "gloss": "vi. To be lacking in, in need for",
+        "definition": "saten: prep. Short of, excepting, minus;"
+      },
+      {
+        "label": "kekouji",
+        "gloss": "excepting a little more, almost",
+        "definition": "satc: f. Cutting, ditch;"
+      },
+      {
+        "label": "hisatc",
+        "partOfSpeech": "vb",
+        "gloss": "To make cutting, breach",
+        "definition": "To make cutting, breach"
+      },
+      {
+        "label": "athisatc",
+        "partOfSpeech": "adj",
+        "gloss": "Without breech",
+        "definition": "refhisatc: m. Cutter."
+      }
+    ]
+  },
+  {
+    "headword": "swt",
+    "copticWord": "ϣⲱⲧ",
+    "englishTransliteration": "shōt",
+    "gloss": "To demand. swtem, (Q) sotem: (595b)",
+    "definition": "vi. To",
+    "crossReference": {
+      "target": "(1)si]",
+      "gloss": "To demand. swtem, (Q) sotem: (595b)"
+    },
+    "senses": [
+      {
+        "label": "shut",
+        "gloss": "vi. To shut",
+        "definition": "masyam: imperat. form;"
+      },
+      {
+        "label": "e",
+        "gloss": "vi. To shut upon, against",
+        "definition": "vi. To shut upon, against"
+      },
+      {
+        "label": "eron",
+        "gloss": "vi. To shut upon",
+        "definition": "vi. To shut upon"
+      },
+      {
+        "label": "ehren",
+        "gloss": "vi. To shut upon",
+        "definition": "vi. To shut upon"
+      },
+      {
+        "label": "ejen",
+        "gloss": "vi. To shut upon",
+        "definition": "vi. To shut upon"
+      },
+      {
+        "label": "nahren",
+        "gloss": "vi. To shut before",
+        "definition": "vi. To shut before"
+      },
+      {
+        "label": "ebol ha",
+        "gloss": "vi. To shut against",
+        "definition": "--- eqoun qa: vi. To shut against; jinsyam: m. Closing; syom: m. Thing shutting or shut, gate."
+      }
+    ]
+  },
+  {
+    "headword": "swoui; (Q) souwou",
+    "copticWord": "ϣⲱⲟⲩⲓⲑ (Ϧ) ϣⲟⲩⲱⲟⲩ",
+    "englishTransliteration": "shōouith (Kh) shouōou",
+    "variants": [
+      {
+        "word": "swou",
+        "copticWord": "ϣⲱⲟⲩ",
+        "englishTransliteration": "shōou"
+      }
+    ],
+    "reference": "601b",
+    "senses": [
+      {
+        "label": "vi",
+        "gloss": "To be dry",
+        "definition": "To be dry"
+      },
+      {
+        "label": "pwtsouwou",
+        "partOfSpeech": "m",
+        "gloss": "What is dry",
+        "definition": "What is dry"
+      },
+      {
+        "label": "Q",
+        "gloss": "dry, stale",
+        "definition": "dry, stale"
+      },
+      {
+        "label": "oi nswoui",
+        "partOfSpeech": "vb",
+        "gloss": "To be dry",
+        "definition": "jinswoui: m. Dryness, withering; souie: m. dryness, what is dry."
+      }
+    ]
+  },
+  {
+    "headword": "swousi",
+    "copticWord": "ϣⲱⲟⲩϣⲓ",
+    "englishTransliteration": "shōoushi",
+    "gloss": "Sacrifice. swf, sof=, (Q) s/f: (609b)",
+    "definition": "vi. To",
+    "crossReference": {
+      "target": "souswousi",
+      "gloss": "Sacrifice. swf, sof=, (Q) s/f: (609b)"
+    },
+    "senses": [
+      {
+        "label": "be desert",
+        "partOfSpeech": "m",
+        "gloss": "Devastation, destruction",
+        "definition": "jinswf: m. Desolation;"
+      },
+      {
+        "label": "safe",
+        "partOfSpeech": "m",
+        "gloss": "Desert",
+        "definition": "Desert"
+      },
+      {
+        "label": "refpswf",
+        "partOfSpeech": "m",
+        "gloss": "Eremite",
+        "definition": "Eremite"
+      }
+    ]
+  },
+  {
+    "headword": "swfy",
+    "copticWord": "ϣⲱϥⲑ",
+    "englishTransliteration": "shōfth",
+    "reference": "611b",
+    "senses": [
+      {
+        "gloss": "err",
+        "definition": "vt. to commit error, err;"
+      },
+      {
+        "label": "e",
+        "gloss": "vi. To err in, as to",
+        "definition": "vi. To err in, as to"
+      },
+      {
+        "label": "qen",
+        "gloss": "vi. To err in",
+        "definition": "--, soft: m. Error, fault;"
+      },
+      {
+        "label": "atswft",
+        "partOfSpeech": "adj",
+        "gloss": "Unerring",
+        "definition": "Unerring"
+      },
+      {
+        "label": "refswft",
+        "partOfSpeech": "m",
+        "gloss": "Erring person",
+        "definition": "saft, saf], safy: m. Iniquitous, impious person or thing."
+      }
+    ]
+  },
+  {
+    "headword": "m. Hollow of hand",
+    "copticWord": "ⲙ. Ϩⲟⲗⲗⲟⲱ ⲟϥ ϩⲁⲛⲇ",
+    "englishTransliteration": "m. Holloō of hand",
+    "variants": [
+      {
+        "word": "handful. swft",
+        "copticWord": "ϩⲁⲛⲇϥⲩⲗ. ϣⲱϥⲧ",
+        "englishTransliteration": "handfyl. shōft"
+      },
+      {
+        "word": "(Q) soft",
+        "copticWord": "(Ϧ) ϣⲟϥⲧ",
+        "englishTransliteration": "(Kh) shoft"
+      }
+    ],
+    "reference": "611a",
+    "gloss": "vi. to stumble,",
+    "definition": "vi. to stumble,"
+  },
+  {
+    "headword": "swhep",
+    "copticWord": "ϣⲱϩⲉⲡ",
+    "englishTransliteration": "shōhep",
+    "gloss": "To be scorched. swhp v. swbh - To be scorched. (1)sw]: (595a)",
+    "definition": "f. Well, cistern, pit;",
+    "crossReference": {
+      "target": "swbh",
+      "gloss": "To be scorched. swhp v. swbh - To be scorched. (1)sw]: (595a)"
+    }
+  },
+  {
+    "headword": "(2) sw]",
+    "copticWord": "ϣⲱϯ",
+    "englishTransliteration": "shōti",
+    "reference": "595a",
+    "partOfSpeech": "m",
+    "gloss": "Flour, dough",
+    "definition": "Flour, dough"
+  },
+  {
+    "headword": "(1) sws",
+    "copticWord": "ϣⲱϣ",
+    "englishTransliteration": "shōsh",
+    "variants": [
+      {
+        "word": "ses",
+        "copticWord": "ϣⲉϣ",
+        "englishTransliteration": "shesh"
+      },
+      {
+        "word": "sas",
+        "copticWord": "ϣⲁϣ",
+        "englishTransliteration": "shash"
+      },
+      {
+        "word": "sos=",
+        "copticWord": "ϣⲟϣ",
+        "englishTransliteration": "shosh"
+      },
+      {
+        "word": "(Q) s/s",
+        "copticWord": "(Ϧ) ϣⲏϣ",
+        "englishTransliteration": "(Kh) shish"
+      },
+      {
+        "word": "p.c. sas",
+        "copticWord": "ⲡ.ⲥ. ϣⲁϣ",
+        "englishTransliteration": "p.s. shash"
+      }
+    ],
+    "reference": "375a",
+    "gloss": "vi. To be despised, humbled",
+    "definition": "vt. To despise; ---: m. Shame, contempt, scorn",
+    "senses": [
+      {
+        "label": "]sws",
+        "partOfSpeech": "vb",
+        "gloss": "To despise, scorn",
+        "definition": "ref]sws: m. Scorner; [isws: vb. To be scorned;"
+      }
+    ]
+  },
+  {
+    "headword": "refsws",
+    "copticWord": "ⲣⲉϥϣⲱϣ",
+    "englishTransliteration": "refshōsh",
+    "partOfSpeech": "m",
+    "gloss": "scorner",
+    "definition": "scorner"
+  }
+]

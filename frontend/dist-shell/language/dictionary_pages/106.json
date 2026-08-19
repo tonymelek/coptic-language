@@ -1,0 +1,165 @@
+[
+  {
+    "headword": "ebol n",
+    "copticWord": "ⲉⲃⲟⲗ ⲛ",
+    "englishTransliteration": "evol n",
+    "partOfSpeech": "vb",
+    "gloss": "To remain over from",
+    "definition": "To remain over from"
+  },
+  {
+    "headword": "sa",
+    "copticWord": "ϣⲁ",
+    "englishTransliteration": "sha",
+    "gloss": "(v. --- erat=)",
+    "definition": "(v. --- erat=)",
+    "variants": [
+      {
+        "headword": "(11) sha tenou",
+        "copticWord": "ϣⲁ ⲧⲉⲛⲟⲩ",
+        "englishTransliteration": "sha tenou",
+        "gloss": "till now",
+        "definition": "till now",
+        "reference": "485a",
+        "partOfSpeech": "adv"
+      },
+      {
+        "headword": "(7) sha o",
+        "copticWord": "ϣⲁ ⲱ",
+        "englishTransliteration": "sha o",
+        "gloss": "great festival",
+        "definition": "great festival",
+        "reference": "543b",
+        "partOfSpeech": "m",
+        "crossReference": {
+          "target": "o",
+          "gloss": "groß"
+        }
+      }
+    ]
+  },
+  {
+    "headword": "eqr/i qen",
+    "copticWord": "ⲉϧⲣⲏⲓ ϧⲉⲛ",
+    "englishTransliteration": "ekhrii khen",
+    "partOfSpeech": "vb",
+    "gloss": "To remain over in",
+    "definition": "To remain over in"
+  },
+  {
+    "headword": "nten",
+    "copticWord": "ⲛⲧⲉⲛ",
+    "englishTransliteration": "nten",
+    "partOfSpeech": "vb",
+    "gloss": "To save from",
+    "definition": "To save from"
+  },
+  {
+    "headword": "[icw]",
+    "copticWord": "ϭⲓⲥⲱϯ",
+    "englishTransliteration": "chisōti",
+    "partOfSpeech": "vb",
+    "gloss": "To get ransom",
+    "definition": "To get ransom"
+  },
+  {
+    "headword": "refcw]",
+    "copticWord": "ⲣⲉϥⲥⲱϯ",
+    "englishTransliteration": "refsōti",
+    "partOfSpeech": "m",
+    "gloss": "Redeemer",
+    "definition": "Redeemer"
+  },
+  {
+    "headword": "cse",
+    "copticWord": "ⲥϣⲉ",
+    "englishTransliteration": "sshe",
+    "reference": "607b",
+    "gloss": "Impersonal vb. It is fitting, right",
+    "definition": "Impersonal vb. It is fitting, right"
+  },
+  {
+    "headword": "csriki",
+    "copticWord": "ⲥϣⲣⲓⲕⲓ",
+    "englishTransliteration": "sshriki",
+    "gloss": "Unending",
+    "definition": "Unending",
+    "crossReference": {
+      "target": "riki",
+      "gloss": "Unending"
+    }
+  },
+  {
+    "headword": "cqai",
+    "copticWord": "ⲥϧⲁⲓ",
+    "englishTransliteration": "skhai",
+    "variants": [
+      {
+        "word": "cai",
+        "copticWord": "ⲥⲁⲓ",
+        "englishTransliteration": "sai"
+      },
+      {
+        "word": "cqe",
+        "copticWord": "ⲥϧⲉ",
+        "englishTransliteration": "skhe"
+      },
+      {
+        "word": "cq/t",
+        "copticWord": "ⲥϧⲏⲧ",
+        "englishTransliteration": "skhit"
+      },
+      {
+        "word": "c/t",
+        "copticWord": "ⲥⲏⲧ",
+        "englishTransliteration": "sit"
+      },
+      {
+        "word": "cq/t=",
+        "copticWord": "ⲥϧⲏⲧ",
+        "englishTransliteration": "skhit"
+      },
+      {
+        "word": "cq/out",
+        "note": "Q",
+        "copticWord": "ⲥϧⲏⲟⲩⲧ",
+        "englishTransliteration": "skhiout"
+      }
+    ],
+    "reference": "381b",
+    "gloss": "vi. To write",
+    "definition": "--- e-: vb. To write (as acc.), upon, in, to (direction), for;",
+    "senses": [
+      {
+        "label": "erat= n",
+        "partOfSpeech": "vb",
+        "gloss": "To write to (direction)",
+        "definition": "To write to (direction)"
+      },
+      {
+        "label": "eten",
+        "partOfSpeech": "vb",
+        "gloss": "To write for, on behalf of",
+        "definition": "To write for, on behalf of"
+      },
+      {
+        "label": "ejen",
+        "partOfSpeech": "vb",
+        "gloss": "To write upon",
+        "definition": "To write upon"
+      },
+      {
+        "label": "n",
+        "partOfSpeech": "vb",
+        "gloss": "To write to",
+        "definition": "To write to"
+      },
+      {
+        "label": "ebol n",
+        "partOfSpeech": "vb",
+        "gloss": "To write from out",
+        "definition": "To write from out"
+      }
+    ]
+  }
+]

@@ -1,8 +1,10 @@
 <script setup>
 import CopticKeyboard from '../components/CopticKeyboard.vue'
-import { useCopticTextInput } from '../composables/useCopticTextInput.js'
+import CopyButton from '../components/CopyButton.vue'
+import { isCoarsePointer, useCopticTextInput } from '../composables/useCopticTextInput.js'
 
 const { text, textareaRef, insertAtCursor, backspace } = useCopticTextInput('')
+const suppressOsKeyboard = isCoarsePointer()
 </script>
 
 <template>
@@ -15,16 +17,26 @@ const { text, textareaRef, insertAtCursor, backspace } = useCopticTextInput('')
 
     <div class="bg-white p-6 sm:p-8 rounded-xl border border-slate-200 border-t-4 border-t-burgundy-700 shadow-sm space-y-6">
       <label class="block">
-        <span class="block text-sm font-semibold text-burgundy-900 mb-2">Your text</span>
+        <div class="flex items-center justify-between gap-3 mb-2">
+          <span class="text-sm font-semibold text-burgundy-900">Your text</span>
+          <CopyButton :text="text" />
+        </div>
         <textarea
           ref="textareaRef"
           v-model="text"
           rows="5"
+          :inputmode="suppressOsKeyboard ? 'none' : 'text'"
+          autocomplete="off"
+          autocorrect="off"
+          autocapitalize="off"
           spellcheck="false"
           dir="auto"
           class="w-full rounded-lg border border-slate-300 px-4 py-3 font-coptic text-2xl text-slate-900 focus:outline-none focus:ring-2 focus:ring-burgundy-700 focus:border-transparent resize-y whitespace-pre-wrap break-words"
           placeholder="ⲁⲙⲏⲛ"
         />
+        <p v-if="suppressOsKeyboard" class="mt-2 text-xs text-slate-500">
+          Use the on-screen keys below. The system keyboard is hidden on this device.
+        </p>
       </label>
 
       <CopticKeyboard

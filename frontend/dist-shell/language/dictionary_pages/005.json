@@ -1,0 +1,616 @@
+[
+  {
+    "headword": "a/r",
+    "copticWord": "ⲁⲏⲣ",
+    "englishTransliteration": "air",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Air, atmosphere",
+    "definition": "Air, atmosphere"
+  },
+  {
+    "headword": "agiacmoc",
+    "copticWord": "ⲁⲅⲓⲁⲥⲙⲟⲥ",
+    "englishTransliteration": "agiasmos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Consecration sanctification, holiness",
+    "definition": "Consecration sanctification, holiness"
+  },
+  {
+    "headword": "ay",
+    "copticWord": "ⲁⲑ",
+    "englishTransliteration": "ath",
+    "gloss": "- Un-",
+    "definition": "- Un-",
+    "crossReference": {
+      "target": "at",
+      "gloss": "- Un-"
+    }
+  },
+  {
+    "headword": "agion",
+    "copticWord": "ⲁⲅⲓⲟⲛ",
+    "englishTransliteration": "agion",
+    "gloss": "Holy",
+    "definition": "Holy",
+    "crossReference": {
+      "target": "agioc",
+      "gloss": "Holy"
+    }
+  },
+  {
+    "headword": "ayanatoc",
+    "copticWord": "ⲁⲑⲁⲛⲁⲧⲟⲥ",
+    "englishTransliteration": "athanatos",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "everlasting, immortal",
+    "definition": "everlasting, immortal"
+  },
+  {
+    "headword": "agioc",
+    "copticWord": "ⲁⲅⲓⲟⲥ",
+    "englishTransliteration": "agios",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      },
+      {
+        "type": "f.",
+        "word": "-a",
+        "copticWord": "-ⲁ",
+        "englishTransliteration": "-a"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Saint",
+    "definition": "adj. sacred, holy."
+  },
+  {
+    "headword": "ayah",
+    "copticWord": "ⲁⲑⲁϩ",
+    "englishTransliteration": "athah",
+    "gloss": "Burden",
+    "definition": "Burden",
+    "crossReference": {
+      "target": "wth",
+      "gloss": "Burden"
+    }
+  },
+  {
+    "headword": "agiocun/",
+    "copticWord": "ⲁⲅⲓⲟⲥⲩⲛⲏ",
+    "englishTransliteration": "agiosyni",
+    "variants": [
+      {
+        "word": "-ot/c",
+        "copticWord": "-ⲟⲧⲏⲥ",
+        "englishTransliteration": "-otis"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Holiness, purity",
+    "definition": "Holiness, purity"
+  },
+  {
+    "headword": "ayetin",
+    "copticWord": "ⲁⲑⲉⲧⲓⲛ",
+    "englishTransliteration": "athetin",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "(w/ er-) vb. To set aside, disregard",
+    "definition": "(w/ er-) vb. To set aside, disregard"
+  },
+  {
+    "headword": "agiot/c",
+    "copticWord": "ⲁⲅⲓⲟⲧⲏⲥ",
+    "englishTransliteration": "agiotis",
+    "gloss": "Purity",
+    "definition": "Purity",
+    "crossReference": {
+      "target": "agiocun/",
+      "gloss": "Purity"
+    }
+  },
+  {
+    "headword": "ay/neoc",
+    "copticWord": "ⲁⲑⲏⲛⲉⲟⲥ",
+    "englishTransliteration": "athineos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Athenian",
+    "definition": "Athenian"
+  },
+  {
+    "headword": "agm/",
+    "copticWord": "ⲁⲅⲙⲏ",
+    "englishTransliteration": "agmi",
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Eruption (on the face), acne",
+    "definition": "Eruption (on the face), acne"
+  },
+  {
+    "headword": "ay/r",
+    "copticWord": "ⲁⲑⲏⲣ",
+    "englishTransliteration": "athir",
+    "gloss": "Hammer",
+    "definition": "Hammer",
+    "crossReference": {
+      "target": "hay/r",
+      "gloss": "Hammer"
+    }
+  },
+  {
+    "headword": "agn/",
+    "copticWord": "ⲁⲅⲛⲏ",
+    "englishTransliteration": "agni",
+    "gloss": "Pure",
+    "definition": "Pure",
+    "crossReference": {
+      "target": "agnoc",
+      "gloss": "Pure"
+    }
+  },
+  {
+    "headword": "ayl/cic",
+    "copticWord": "ⲁⲑⲗⲏⲥⲓⲥ",
+    "englishTransliteration": "athlisis",
+    "variants": [
+      {
+        "word": "aylucic",
+        "copticWord": "ⲁⲑⲗⲩⲥⲓⲥ",
+        "englishTransliteration": "athlysis"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Conflict, combat, struggle, contest",
+    "definition": "Conflict, combat, struggle, contest"
+  },
+  {
+    "headword": "agnia",
+    "copticWord": "ⲁⲅⲛⲓⲁ",
+    "englishTransliteration": "agnia",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Purity, chastity, celibacy",
+    "definition": "Purity, chastity, celibacy"
+  },
+  {
+    "headword": "agnoc",
+    "copticWord": "ⲁⲅⲛⲟⲥ",
+    "englishTransliteration": "agnos",
+    "variants": [
+      {
+        "type": "f.",
+        "word": "-n/",
+        "copticWord": "-ⲛⲏ",
+        "englishTransliteration": "-ni"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Pure, upright, chaste",
+    "definition": "Pure, upright, chaste"
+  },
+  {
+    "headword": "ayl/t/c",
+    "copticWord": "ⲁⲑⲗⲏⲧⲏⲥ",
+    "englishTransliteration": "athlitis",
+    "variants": [
+      {
+        "word": "aylit/c",
+        "copticWord": "ⲁⲑⲗⲓⲧⲏⲥ",
+        "englishTransliteration": "athlitis"
+      },
+      {
+        "word": "aylut/c",
+        "copticWord": "ⲁⲑⲗⲩⲧⲏⲥ",
+        "englishTransliteration": "athlytis"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "One who struggles, athelete, strong person",
+    "definition": "One who struggles, athelete, strong person"
+  },
+  {
+    "headword": "agora",
+    "copticWord": "ⲁⲅⲟⲣⲁ",
+    "englishTransliteration": "agora",
+    "gloss": "Marketplace",
+    "definition": "Marketplace",
+    "crossReference": {
+      "target": "agwra",
+      "gloss": "Marketplace"
+    }
+  },
+  {
+    "headword": "agoreoc",
+    "copticWord": "ⲁⲅⲟⲣⲉⲟⲥ",
+    "englishTransliteration": "agoreos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Lawyer, advocate",
+    "definition": "f. court."
+  },
+  {
+    "headword": "aylit/c",
+    "copticWord": "ⲁⲑⲗⲓⲧⲏⲥ",
+    "englishTransliteration": "athlitis",
+    "gloss": "Strong person. aylon: (Gk)",
+    "definition": "Unknown.",
+    "crossReference": {
+      "target": "ayl/t/c",
+      "gloss": "Strong person. aylon: (Gk)"
+    }
+  },
+  {
+    "headword": "agrammatoc",
+    "copticWord": "ⲁⲅⲣⲁⲙⲙⲁⲧⲟⲥ",
+    "englishTransliteration": "agrammatos",
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Illiterate",
+    "definition": "n. uneducated or unlearned person."
+  },
+  {
+    "headword": "aylovoroc",
+    "copticWord": "ⲁⲑⲗⲟⲫⲟⲣⲟⲥ",
+    "englishTransliteration": "athloforos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Endurer of struugle. aylut/c = ayl/t/c - Strong person",
+    "definition": "Endurer of struugle. aylut/c = ayl/t/c - Strong person"
+  },
+  {
+    "headword": "agria",
+    "copticWord": "ⲁⲅⲣⲓⲁ",
+    "englishTransliteration": "agria",
+    "gloss": "wild",
+    "definition": "wild",
+    "crossReference": {
+      "target": "agrioc",
+      "gloss": "wild"
+    }
+  },
+  {
+    "headword": "aylwvoroc",
+    "copticWord": "ⲁⲑⲗⲱⲫⲟⲣⲟⲥ",
+    "englishTransliteration": "athlōforos",
+    "gloss": "Endurer of struggle",
+    "definition": "Endurer of struggle",
+    "crossReference": {
+      "target": "aylovoroc",
+      "gloss": "Endurer of struggle"
+    }
+  },
+  {
+    "headword": "agriolakonon",
+    "copticWord": "ⲁⲅⲣⲓⲟⲗⲁⲕⲟⲛⲟⲛ",
+    "englishTransliteration": "agriolakonon",
+    "gloss": "Wild gourd",
+    "definition": "Wild gourd",
+    "crossReference": {
+      "target": "agrioc",
+      "gloss": "Wild gourd"
+    }
+  },
+  {
+    "headword": "agrion",
+    "copticWord": "ⲁⲅⲣⲓⲟⲛ",
+    "englishTransliteration": "agrion",
+    "gloss": "Wild",
+    "definition": "Wild",
+    "crossReference": {
+      "target": "agrioc",
+      "gloss": "Wild"
+    }
+  },
+  {
+    "headword": "ayreu",
+    "copticWord": "ⲁⲑⲣⲉⲩ",
+    "englishTransliteration": "athrev",
+    "gloss": "Twin",
+    "definition": "Twin",
+    "crossReference": {
+      "target": "atre",
+      "gloss": "Twin"
+    }
+  },
+  {
+    "headword": "ayrioc",
+    "copticWord": "ⲁⲑⲣⲓⲟⲥ",
+    "englishTransliteration": "athrios",
+    "reference": "Gk?",
+    "partOfSpeech": "n",
+    "isGreek": true,
+    "gloss": "Thou al-qaada, the 11th month of the Arabic lunar calendar",
+    "definition": "Thou al-qaada, the 11th month of the Arabic lunar calendar"
+  },
+  {
+    "headword": "agrioc",
+    "copticWord": "ⲁⲅⲣⲓⲟⲥ",
+    "englishTransliteration": "agrios",
+    "variants": [
+      {
+        "word": "-on",
+        "copticWord": "-ⲟⲛ",
+        "englishTransliteration": "-on"
+      },
+      {
+        "type": "f.",
+        "word": "-ia",
+        "copticWord": "-ⲓⲁ",
+        "englishTransliteration": "-ia"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Wild, fierce, savage, vehement, harsh",
+    "definition": "Wild, fierce, savage, vehement, harsh"
+  },
+  {
+    "headword": "aywr",
+    "copticWord": "ⲁⲑⲱⲣ",
+    "englishTransliteration": "athōr",
+    "reference": "728a",
+    "partOfSpeech": "n",
+    "gloss": "Hatur, the 3rd month of the Coptic calendar",
+    "definition": "Hatur, the 3rd month of the Coptic calendar"
+  },
+  {
+    "headword": "agw",
+    "copticWord": "ⲁⲅⲱ",
+    "englishTransliteration": "agō",
+    "gloss": "Filth",
+    "definition": "Filth",
+    "crossReference": {
+      "target": "akw",
+      "gloss": "Filth"
+    }
+  },
+  {
+    "headword": "ai=",
+    "copticWord": "ⲁⲓ",
+    "englishTransliteration": "ai",
+    "gloss": "To do",
+    "definition": "To do",
+    "crossReference": {
+      "target": "iri",
+      "gloss": "To do"
+    }
+  },
+  {
+    "headword": "agwn",
+    "copticWord": "ⲁⲅⲱⲛ",
+    "englishTransliteration": "agōn",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Agony, struggle, trial, battle",
+    "definition": "Agony, struggle, trial, battle",
+    "senses": [
+      {
+        "label": "eragwnizecye",
+        "partOfSpeech": "vb",
+        "gloss": "To agonize, fight, struggle",
+        "definition": "To agonize, fight, struggle"
+      }
+    ]
+  },
+  {
+    "headword": "aiai",
+    "copticWord": "ⲁⲓⲁⲓ",
+    "englishTransliteration": "aiai",
+    "variants": [
+      {
+        "word": "oi",
+        "note": "Q",
+        "copticWord": "ⲟⲓ",
+        "englishTransliteration": "oi"
+      }
+    ],
+    "reference": "1b",
+    "gloss": "vi. To increase, advance in age",
+    "definition": "(Q) great, honored;",
+    "senses": [
+      {
+        "partOfSpeech": "m",
+        "gloss": "Increase, growth",
+        "definition": "Increase, growth"
+      }
+    ]
+  },
+  {
+    "headword": "agwnict/c",
+    "copticWord": "ⲁⲅⲱⲛⲓⲥⲧⲏⲥ",
+    "englishTransliteration": "agōnistis",
+    "variants": [
+      {
+        "word": "agwniz/t/c",
+        "copticWord": "ⲁⲅⲱⲛⲓⲍⲏⲧⲏⲥ",
+        "englishTransliteration": "agōnizitis"
+      }
+    ],
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Unknown",
+    "definition": "Unknown"
+  },
+  {
+    "headword": "aiguptia",
+    "copticWord": "ⲁⲓⲅⲩⲡⲧⲓⲁ",
+    "englishTransliteration": "aigyptia",
+    "gloss": "Egyptian. aiguptiazecye: (Gk)",
+    "definition": "(w/ er-) vb. To be like an Egyptian, to follow the Egyptians, to speak like an Egyptian.",
+    "crossReference": {
+      "target": "aiguptioc",
+      "gloss": "Egyptian. aiguptiazecye: (Gk)"
+    }
+  },
+  {
+    "headword": "agwnoyet/c",
+    "copticWord": "ⲁⲅⲱⲛⲟⲑⲉⲧⲏⲥ",
+    "englishTransliteration": "agōnothetis",
+    "variants": [
+      {
+        "word": "agwn/yet/c",
+        "copticWord": "ⲁⲅⲱⲛⲏⲑⲉⲧⲏⲥ",
+        "englishTransliteration": "agōnithetis"
+      }
+    ],
+    "reference": "Gk",
+    "isGreek": true,
+    "gloss": "Unknown",
+    "definition": "Unknown"
+  },
+  {
+    "headword": "agwra",
+    "copticWord": "ⲁⲅⲱⲣⲁ",
+    "englishTransliteration": "agōra",
+    "variants": [
+      {
+        "word": "agora",
+        "copticWord": "ⲁⲅⲟⲣⲁ",
+        "englishTransliteration": "agora"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Marketplace, place of commerce",
+    "definition": "Marketplace, place of commerce",
+    "senses": [
+      {
+        "label": "agwreuc",
+        "partOfSpeech": "m",
+        "gloss": "Vendor",
+        "definition": "Vendor"
+      }
+    ]
+  },
+  {
+    "headword": "agwreuc",
+    "copticWord": "ⲁⲅⲱⲣⲉⲩⲥ",
+    "englishTransliteration": "agōrevs",
+    "gloss": "Vendor",
+    "definition": "Vendor",
+    "crossReference": {
+      "target": "agwra",
+      "gloss": "Vendor"
+    }
+  },
+  {
+    "headword": "aiguptioc",
+    "copticWord": "ⲁⲓⲅⲩⲡⲧⲓⲟⲥ",
+    "englishTransliteration": "aigyptios",
+    "variants": [
+      {
+        "type": "f.",
+        "word": "-ia",
+        "copticWord": "-ⲓⲁ",
+        "englishTransliteration": "-ia"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Egyptian",
+    "definition": "Egyptian"
+  },
+  {
+    "headword": "aiguptogen/c",
+    "copticWord": "ⲁⲓⲅⲩⲡⲧⲟⲅⲉⲛⲏⲥ",
+    "englishTransliteration": "aigyptogenis",
+    "gloss": "of Egyptian race",
+    "definition": "of Egyptian race"
+  },
+  {
+    "headword": "aiguptoc",
+    "copticWord": "ⲁⲓⲅⲩⲡⲧⲟⲥ",
+    "englishTransliteration": "aigyptos",
+    "partOfSpeech": "m",
+    "gloss": "Egypt, the Nile. aiguptogen/c v. aiguptioc - Of",
+    "definition": "Egypt, the Nile. aiguptogen/c v. aiguptioc - Of"
+  },
+  {
+    "headword": "adamac",
+    "copticWord": "ⲁⲇⲁⲙⲁⲥ",
+    "englishTransliteration": "adamas",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Diamond",
+    "definition": "Diamond"
+  },
+  {
+    "headword": "adikoc",
+    "copticWord": "ⲁⲇⲓⲕⲟⲥ",
+    "englishTransliteration": "adikos",
+    "reference": "Gk",
+    "partOfSpeech": "adj",
+    "isGreek": true,
+    "gloss": "Unrighteous, unjust",
+    "definition": "Unrighteous, unjust"
+  },
+  {
+    "headword": "Egyptian race. aiguptoc v. aiguptioc - Egypt. aik",
+    "copticWord": "Ⲉⲅⲑⲡⲧⲓⲁⲛ ⲣⲁⲥⲉ. ⲁⲓⲅⲩⲡⲧⲟⲥ ⲫ. ⲁⲓⲅⲩⲡⲧⲓⲟⲥ - Ⲉⲅⲑⲡⲧ. ⲁⲓⲕ",
+    "englishTransliteration": "Egthptian rase. aigyptos f. aigyptios - Egthpt. aik",
+    "reference": "3a",
+    "partOfSpeech": "m",
+    "gloss": "Consecration of a place",
+    "definition": "Consecration of a place",
+    "senses": [
+      {
+        "label": "eraik",
+        "gloss": "v. To consecrate",
+        "definition": "v. To consecrate"
+      },
+      {
+        "label": "[iaik",
+        "gloss": "v. To consecrate",
+        "definition": "v. To consecrate"
+      }
+    ]
+  },
+  {
+    "headword": "adikia",
+    "copticWord": "ⲁⲇⲓⲕⲓⲁ",
+    "englishTransliteration": "adikia",
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Wrong offence, treason, injustice",
+    "definition": "Wrong offence, treason, injustice"
+  },
+  {
+    "headword": "aetoc",
+    "copticWord": "ⲁⲉⲧⲟⲥ",
+    "englishTransliteration": "aetos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Eagle",
+    "definition": "Eagle"
+  }
+]

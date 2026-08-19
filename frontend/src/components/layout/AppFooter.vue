@@ -11,6 +11,7 @@ const baseUrl = computed(() => {
       <p class="font-bold tracking-wide text-base">COPTIC LANGUAGE</p>
       <div class="flex flex-wrap justify-center gap-8 font-semibold">
         <a :href="baseUrl" class="text-white hover:text-gold no-underline">Home</a>
+        <a :href="baseUrl + '/packages.html'" class="text-white hover:text-gold no-underline">Packages</a>
         <a :href="baseUrl + '/about.html'" class="text-white hover:text-gold no-underline">About</a>
         <a :href="baseUrl + '/story.html'" class="text-white hover:text-gold no-underline">Story</a>
         <a :href="baseUrl + '/contact.html'" class="text-white hover:text-gold no-underline">Contact</a>

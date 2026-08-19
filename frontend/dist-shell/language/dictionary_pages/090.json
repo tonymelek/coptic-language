@@ -1,0 +1,134 @@
+[
+  {
+    "headword": "rwsi",
+    "copticWord": "ⲣⲱϣⲓ",
+    "englishTransliteration": "rōshi",
+    "variants": [
+      {
+        "word": "ras",
+        "copticWord": "ⲣⲁϣ",
+        "englishTransliteration": "rash"
+      },
+      {
+        "word": "res",
+        "copticWord": "ⲣⲉϣ",
+        "englishTransliteration": "resh"
+      },
+      {
+        "word": "rast=",
+        "copticWord": "ⲣⲁϣⲧ",
+        "englishTransliteration": "rasht"
+      },
+      {
+        "word": "ras=",
+        "copticWord": "ⲣⲁϣ",
+        "englishTransliteration": "rash"
+      },
+      {
+        "word": "rasi",
+        "note": "Q",
+        "copticWord": "ⲣⲁϣⲓ",
+        "englishTransliteration": "rashi"
+      }
+    ],
+    "reference": "309a",
+    "gloss": "vi To suffice",
+    "definition": "be concerned, responsible;",
+    "senses": [
+      {
+        "label": "e",
+        "partOfSpeech": "vb",
+        "gloss": "To suffice for, be fit to, responsible for",
+        "definition": "To suffice for, be fit to, responsible for"
+      },
+      {
+        "label": "ejen",
+        "gloss": "same meaning",
+        "definition": "same meaning"
+      },
+      {
+        "label": "n- (dat)",
+        "partOfSpeech": "vb",
+        "gloss": "To Suffice for",
+        "definition": "vt. To suffice, content; --: m. Sufficiency, enough, plenty; ervrwsi: vb. To be, do enough; qen ourwsi: adv. Moderately."
+      }
+    ]
+  },
+  {
+    "headword": "rwqi",
+    "copticWord": "ⲣⲱϧⲓ",
+    "englishTransliteration": "rōkhi",
+    "variants": [
+      {
+        "word": "raq=",
+        "copticWord": "ⲣⲁϧ",
+        "englishTransliteration": "rakh"
+      },
+      {
+        "word": "raqi",
+        "note": "Q",
+        "copticWord": "ⲣⲁϧⲓ",
+        "englishTransliteration": "rakhi"
+      }
+    ],
+    "reference": "310b",
+    "gloss": "vi. To become, be clean",
+    "definition": "vt. to cleanse, wash; ---: n. Cleansing;",
+    "senses": [
+      {
+        "label": "raqi",
+        "partOfSpeech": "m",
+        "gloss": "Bleacher, fuller",
+        "definition": "Bleacher, fuller"
+      },
+      {
+        "label": "rwqt",
+        "reference": "311a",
+        "gloss": "vi. To strike, be struck, fall",
+        "definition": "--- nem-: vb. To lie with; --- qen-: vb. To cast upon, lie in; --- epec/t: vb. To struck down; --- eqr/i: vb. To struck down; vt. To strike, cast; refrwqt: m. Epileptic; jinrwqt: m. Casting down; ---: m. Stroke, blow, epilepsy; erqot, pl. erqw] & sg as pl.: m. Blow, wound raqt: mf. Cleaner, fuller."
+      }
+    ]
+  },
+  {
+    "headword": "ererqot",
+    "copticWord": "ⲉⲣⲉⲣϧⲟⲧ",
+    "englishTransliteration": "ererkhot",
+    "partOfSpeech": "vb",
+    "gloss": "To be, become wound",
+    "definition": "] erqot: vb. To give wound"
+  },
+  {
+    "headword": "[i erqot",
+    "copticWord": "ϭⲓ ⲉⲣϧⲟⲧ",
+    "englishTransliteration": "chi erkhot",
+    "partOfSpeech": "vb",
+    "gloss": "To receive blow, be smitten",
+    "definition": "To receive blow, be smitten"
+  },
+  {
+    "headword": "rwjp",
+    "copticWord": "ⲣⲱϫⲡ",
+    "englishTransliteration": "rōjp",
+    "variants": [
+      {
+        "word": "rejp",
+        "copticWord": "ⲣⲉϫⲡ",
+        "englishTransliteration": "rejp"
+      },
+      {
+        "word": "rojp=",
+        "copticWord": "ⲣⲟϫⲡ",
+        "englishTransliteration": "rojp"
+      },
+      {
+        "word": "rojp",
+        "note": "Q",
+        "copticWord": "ⲣⲟϫⲡ",
+        "englishTransliteration": "rojp"
+      }
+    ],
+    "reference": "312b",
+    "gloss": "vi. To be thrown down, sink down",
+    "definition": "vt. To throw down."
+  }
+]

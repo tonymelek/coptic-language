@@ -11,8 +11,12 @@
     <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png" />
     <link rel="manifest" href="/manifest.webmanifest" />
     <title>Coptic Language</title>
+    <!-- Coptic World shared header (shell-owned). Resolves only when served
+         under coptic-world.com; renders nothing on standalone deployments. -->
+    <script src="/shell/header.js" defer></script>
   </head>
   <body>
+    <coptic-world-header active="language"></coptic-world-header>
     <div id="app"></div>
     <script type="module" src="/src/main.js"></script>
   </body>

@@ -1,0 +1,87 @@
+[
+  {
+    "headword": "'alt/rion",
+    "copticWord": "ⲯⲁⲗⲧⲏⲣⲓⲟⲛ",
+    "englishTransliteration": "psaltirion",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Book of Psalms, psalter",
+    "definition": "Book of Psalms, psalter"
+  },
+  {
+    "headword": "'",
+    "copticWord": "ⲯ",
+    "englishTransliteration": "ps",
+    "reference": "517a"
+  },
+  {
+    "headword": "The 23rd letter of the alphabet. '",
+    "copticWord": "Ⲧϩⲉ 23ⲣⲇ ⲗⲉⲧⲧⲉⲣ ⲟϥ ⲧϩⲉ ⲁⲗⲡϩⲁⲃⲉⲧ. ⲯ",
+    "englishTransliteration": "The 23rd letter of the alphavet. ps",
+    "gloss": "As a numeral = 700",
+    "definition": "As a numeral = 700"
+  },
+  {
+    "headword": "'alin",
+    "copticWord": "ⲯⲁⲗⲓⲛ",
+    "englishTransliteration": "psalin",
+    "variants": [
+      {
+        "word": "er'alin",
+        "copticWord": "ⲉⲣⲯⲁⲗⲓⲛ",
+        "englishTransliteration": "erpsalin"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "vb",
+    "isGreek": true,
+    "gloss": "To sing praises",
+    "definition": "To sing praises"
+  },
+  {
+    "headword": "'uvoc",
+    "copticWord": "ⲯⲩⲫⲟⲥ",
+    "englishTransliteration": "psyfos",
+    "reference": "Gk",
+    "isGreek": true,
+    "senses": [
+      {
+        "gloss": ": adj. Without soul",
+        "definition": ": adj. Without soul"
+      }
+    ]
+  },
+  {
+    "headword": "f. Election",
+    "copticWord": "ϥ. Ⲉⲗⲉⲥⲧⲓⲟⲛ",
+    "englishTransliteration": "f. Elestion",
+    "variants": [
+      {
+        "word": "nomination. 'u",
+        "copticWord": "ⲛⲟⲙⲓⲛⲁⲧⲓⲟⲛ. ⲯⲩ",
+        "englishTransliteration": "nomination. psy"
+      },
+      {
+        "word": "/",
+        "copticWord": "ⲏ",
+        "englishTransliteration": "i"
+      }
+    ],
+    "reference": "Gk",
+    "partOfSpeech": "f",
+    "isGreek": true,
+    "gloss": "Soul, earthly life",
+    "definition": "Soul, earthly life"
+  },
+  {
+    "headword": "'almoc",
+    "copticWord": "ⲯⲁⲗⲙⲟⲥ",
+    "englishTransliteration": "psalmos",
+    "reference": "Gk",
+    "partOfSpeech": "m",
+    "isGreek": true,
+    "gloss": "Psalm, Christian song of praise",
+    "definition": "Psalm, Christian song of praise"
+  }
+]

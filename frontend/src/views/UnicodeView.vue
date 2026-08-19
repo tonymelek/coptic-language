@@ -1,6 +1,8 @@
 <script setup>
 import { computed, ref } from 'vue'
+import { RouterLink } from 'vue-router'
 import { toUnicode } from 'coptic-antonios-unicode'
+import CopyButton from '../components/CopyButton.vue'
 
 const input = ref('amyn')
 
@@ -28,10 +30,13 @@ const output = computed(() => toUnicode(input.value))
         />
       </label>
 
-      <div class="text-center text-gold text-xl font-bold">↓</div>
+      <div class="text-center text-gold text-xl font-bold" aria-hidden="true">↓</div>
 
       <div>
-        <span class="block text-sm font-semibold text-burgundy-900 mb-2">Coptic Unicode</span>
+        <div class="flex items-center justify-between gap-3 mb-2">
+          <span class="text-sm font-semibold text-burgundy-900">Coptic Unicode</span>
+          <CopyButton :text="output" />
+        </div>
         <output
           class="font-coptic block min-h-[3.5rem] rounded-lg bg-burgundy-50 border border-burgundy-100 px-4 py-3 text-2xl text-burgundy-900 whitespace-pre-wrap break-words"
           for="unicode-input"
@@ -41,6 +46,9 @@ const output = computed(() => toUnicode(input.value))
 
     <p class="text-center text-sm text-slate-600 mt-6">
       Unmapped characters (spaces, punctuation) are preserved.
+      <a href="/packages.html#coptic-antonios-unicode" class="text-burgundy-700 font-semibold hover:underline">npm package</a>
+      ·
+      <RouterLink to="/playground" class="text-burgundy-700 font-semibold hover:underline">playground</RouterLink>
     </p>
   </div>
 </template>
