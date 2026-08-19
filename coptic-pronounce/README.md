@@ -107,6 +107,9 @@ Editorial hyphenation and occasional word-splits in the goldens mean exact rates
 | `ⲭ̅ⲥ̅`    | Ekrestos      | اخرستوس |
 | `Ⲡⲭ̅ⲥ̅`   | Pikhrestos    | بي اخرستوس |
 | `Ⲓⲏ̅ⲥ̅`   | Isous         | إيسوس |
+| `ⲁ̅ⲗ̅`    | Allelouia     | الليلويا |
+| `ⲡⲉⲛⲟ̅ⲥ̅` | Penchois      | بين شويس |
+| `ⲟ̅ⲥ̅`    | chois         | شويس |
 | `ⲇⲟⲝⲁ`    | Zoxa          | ذوكسا   |
 | `ⲯⲩⲭⲏ`    | epsishi       | بسيشي   |
 
