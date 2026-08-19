@@ -10,15 +10,15 @@ import {
 
 /** Whole-word / multi-letter liturgical overrides (matched on lowercased stem). */
 const LEXICAL: [RegExp, string][] = [
+  [/^ⲡⲉⲛ(ϭⲟⲓⲥ|ⲟ̅ⲥ̅)$/u, 'Penchois'], // our Lord — before ⲡⲟ̅ⲥ̅ so prefixes keep Penchois
   [/^(ⲡ̀?ϭⲟⲓⲥ|ⲡⲟ̅ⲥ̅)$/u, 'Epshois'],
-  [/^ⲡⲉⲛ(ϭⲟⲓⲥ|ⲟ̅ⲥ̅)$/u, 'Penchois'], // our Lord
   [/^ϭⲟⲓⲥ$/u, 'shois'],
   [/^ⲟ̅ⲥ̅$/u, 'chois'],
   [/^(ⲫ̀?ⲛⲟⲩϯ|ⲫϯ)$/u, 'Efnouti'],
   [/^ⲭ̅ⲉ̅$/u, 'Shere ne Maria'], // liturgical abbreviation
   [/^ⲭⲉⲣⲉ$/u, 'Shere'],
   [/^ⲡ̅?ⲭ̅ⲥ̅$/u, 'Pikhrestos'], // Ⲡⲭ̅ⲥ̅ = Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ
-  [/^ⲭ̅ⲥ̅$/u, 'Ekrestos'],
+  [/^ⲭ̅ⲥ̅$/u, 'Ekhrestos'],
   [/^ⲓ̅?ⲏ̅ⲥ̅$/u, 'Isous'], // Ⲓⲏ̅ⲥ̅ = Ⲓⲏⲥⲟⲩⲥ
   [/^ⲁ̅?ⲗ̅$/u, 'Allelouia'],
   [/^(ⲉ̀?̅ⲑ̅ⲩ̅|ⲉ̅ⲑ̅ⲩ̅)$/u, 'ethowab'],
@@ -107,7 +107,8 @@ function letterSound(g: Grapheme, next: Grapheme | undefined): string {
       sound = 'f';
       break;
     case 'ⲭ':
-      sound = 'kh';
+      // Default Bohairic ⲭ is k; kh/sh are lexical or digraph (Christ, ⲭⲉⲣⲉ, ⲯⲩⲭ).
+      sound = 'k';
       break;
     case 'ⲯ':
       // Word-initial / after jenkim: eps… (ⲯⲩⲭⲏ → epsishi)
@@ -188,7 +189,22 @@ function matchDigraph(gs: Grapheme[], i: number): { text: string; consumed: numb
     return { text: capitalizeLike(gs[i], 'shois'), consumed: 4 };
   }
 
-  // ⲯⲩⲭ → epsish (ⲯⲩⲭⲏ → epsishi)
+  // ⲭ̀?ⲣⲓⲥⲧⲟⲥ → khrestos (χ as kh only in Christ)
+  if (
+    a === 'ⲭ' &&
+    b === 'ⲣ' &&
+    c === 'ⲓ' &&
+    d === 'ⲥ' &&
+    e === 'ⲧ' &&
+    peek(gs, i, 5) === 'ⲟ' &&
+    peek(gs, i, 6) === 'ⲥ'
+  ) {
+    const text =
+      i === 0 && gs[i].jenkim ? 'Ekhrestos' : capitalizeLike(gs[i], 'khrestos');
+    return { text, consumed: 7 };
+  }
+
+  // ⲯⲩⲭ → epsish (ⲯⲩⲭⲏ → epsishi; χ as sh)
   if (a === 'ⲯ' && b === 'ⲩ' && c === 'ⲭ') {
     return { text: capitalizeLike(gs[i], 'epsish'), consumed: 3 };
   }
@@ -250,7 +266,7 @@ function matchDigraph(gs: Grapheme[], i: number): { text: string; consumed: numb
   if (a === 'ⲅ' && b === 'ⲅ') return { text: capitalizeLike(gs[i], 'ng'), consumed: 2 };
   if (a === 'ⲛ' && b === 'ⲅ') return { text: capitalizeLike(gs[i], 'ng'), consumed: 2 };
   if (a === 'ⲛ' && b === 'ⲕ') return { text: capitalizeLike(gs[i], 'nk'), consumed: 2 };
-  if (a === 'ⲛ' && b === 'ⲭ') return { text: capitalizeLike(gs[i], 'nkh'), consumed: 2 };
+  if (a === 'ⲛ' && b === 'ⲭ') return { text: capitalizeLike(gs[i], 'nk'), consumed: 2 };
   if (a === 'ⲃ' && b === 'ⲃ') return { text: capitalizeLike(gs[i], 'v'), consumed: 2 };
   return null;
 }
@@ -285,7 +301,9 @@ function pronounceLetters(stem: string, moreFollows = false): string {
     if (digraph) {
       // Patterns that already encode jenkim epenthesis (Epshois, etc.)
       const encodesJenkim =
-        /pshois|Epshois|shois|epsish|shi-ow-ou|ou-ow-ou/i.test(digraph.text);
+        /pshois|Epshois|shois|epsish|shi-ow-ou|ou-ow-ou|khrestos|Ekhrestos/i.test(
+          digraph.text,
+        );
 
       if (g.jenkim && !isVowel(g.letter) && !encodesJenkim) {
         if (out.length > 0 && /[aeiouy]$/i.test(out.replace(/-+$/g, '')) && !out.endsWith('-')) {
