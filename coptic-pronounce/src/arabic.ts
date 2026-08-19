@@ -10,8 +10,8 @@ import {
 
 /** Whole-word liturgical overrides (lowercased Coptic stem). */
 const LEXICAL: [RegExp, string][] = [
+  [/^ⲡⲉⲛ(ϭⲟⲓⲥ|ⲟ̅ⲥ̅)$/u, 'بين شويس'], // our Lord — before ⲡⲟ̅ⲥ̅ so prefixes keep Penchois
   [/^(ⲡ̀?ϭⲟⲓⲥ|ⲡⲟ̅ⲥ̅)$/u, 'إبشويس'],
-  [/^ⲡⲉⲛ(ϭⲟⲓⲥ|ⲟ̅ⲥ̅)$/u, 'بين شويس'], // our Lord
   [/^ϭⲟⲓⲥ$/u, 'شويس'],
   [/^ⲟ̅ⲥ̅$/u, 'شويس'],
   [/^(ⲫ̀?ⲛⲟⲩϯ|ⲫϯ)$/u, 'إفنوتي'],
@@ -167,7 +167,7 @@ function letterSound(g: Grapheme, next: Grapheme | undefined, atEnd: boolean): s
     case 'ⲫ':
       return 'ف';
     case 'ⲭ':
-      return 'خ';
+      return 'ك';
     case 'ⲯ':
       return 'بس';
     case 'ϣ':
@@ -287,7 +287,7 @@ function matchDigraph(
   if (a === 'ⲅ' && b === 'ⲅ') return { text: 'نج', consumed: 2 };
   if (a === 'ⲛ' && b === 'ⲅ') return { text: 'نج', consumed: 2 };
   if (a === 'ⲛ' && b === 'ⲕ') return { text: 'نك', consumed: 2 };
-  if (a === 'ⲛ' && b === 'ⲭ') return { text: 'نخ', consumed: 2 };
+  if (a === 'ⲛ' && b === 'ⲭ') return { text: 'نك', consumed: 2 };
   if (a === 'ⲃ' && b === 'ⲃ') return { text: 'ف', consumed: 2 };
   return null;
 }

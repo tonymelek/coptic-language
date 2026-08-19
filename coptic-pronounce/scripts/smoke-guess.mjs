@@ -28,6 +28,8 @@ const CASES = [
   ['Shere ne Maria', 'en', 'ⲭ̅ⲉ̅'],
   ['شيرى نى ماريا', 'ar', 'ⲭ̅ⲉ̅'],
   ['Pikhrestos', 'en', 'Ⲡⲭ̅ⲥ̅'],
+  ['Ekhrestos', 'en', 'ⲭ̅ⲥ̅'],
+  ['emPenchois', 'en', 'ⲙ̀ⲡⲉⲛⲟ̅ⲥ̅'],
   ['emPikhrestos', 'en', 'ⲙ̀Ⲡⲭ̅ⲥ̅'],
   ['إمبي اخرستوس', 'ar', 'ⲙ̀Ⲡⲭ̅ⲥ̅'],
   ['Isous', 'en', 'Ⲓⲏ̅ⲥ̅'],

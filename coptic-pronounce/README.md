@@ -98,22 +98,32 @@ Editorial hyphenation and occasional word-splits in the goldens mean exact rates
 
 **Returns:** `string` or `string[]` — same shape as input.
 
+## Letter `ⲭ`
+
+| Sound | When |
+|-------|------|
+| **k** / **ك** | Default (e.g. `ⲭⲱ` → ko, `ⲁⲣⲭⲱⲛ` → arkhon) |
+| **kh** / **خ** | Christ: `ⲭ̅ⲥ̅` → Ekhrestos, `ⲭ̀ⲣⲓⲥⲧⲟⲥ` → khrestos |
+| **sh** / **ش** | Rare: `ⲭⲉⲣⲉ` → Shere, `ⲯⲩⲭⲏ` → epsishi |
+
+`ϧ` is always **kh** / **خ** (`ϧⲉⲛ` → khen).
+
 ## Liturgical special cases
 
 | Coptic    | English       | Arabic  |
 |-----------|---------------|---------|
 | `Ⲡ̀ϭⲟⲓⲥ` | Epshois       | بشويس   |
 | `Ⲫ̀ⲛⲟⲩϯ` | Efnouti       | افنوتي  |
-| `ⲭ̅ⲥ̅`    | Ekrestos      | اخرستوس |
+| `ⲭ̅ⲥ̅`    | Ekhrestos     | اخرستوس |
 | `Ⲡⲭ̅ⲥ̅`   | Pikhrestos    | بي اخرستوس |
-
-Prefix + nomen sacrum (overline abbreviation) is composed automatically, e.g. `ⲙ̀Ⲡⲭ̅ⲥ̅` → emPikhrestos / إمبي اخرستوس, `ⲛ̀Ⲡⲭ̅ⲥ̅` → enPikhrestos.
 | `Ⲓⲏ̅ⲥ̅`   | Isous         | إيسوس |
 | `ⲁ̅ⲗ̅`    | Allelouia     | الليلويا |
 | `ⲡⲉⲛⲟ̅ⲥ̅` | Penchois      | بين شويس |
 | `ⲟ̅ⲥ̅`    | chois         | شويس |
 | `ⲇⲟⲝⲁ`    | Zoxa          | ذوكسا   |
-| `ⲯⲩⲭⲏ`    | epsishi       | بسيشي   |
+| `ⲯⲩⲭⲏ`    | epsishi       | بسيكي   |
+
+Prefix + these stems is composed automatically, e.g. `ⲙ̀Ⲡⲭ̅ⲥ̅` → emPikhrestos, `ⲙ̀ⲡⲉⲛⲟ̅ⲥ̅` / `ⲙ̀ⲡⲉⲛϭⲟⲓⲥ` → emPenchois.
 
 ## License
 

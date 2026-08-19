@@ -107,7 +107,8 @@ export function matchLexical(stem: string, rules: [RegExp, string][]): LexicalHi
     const m = lower.match(new RegExp(`^(.*)${inner}$`, flags));
     if (!m || !m[1]) continue;
     const suffix = lower.slice(m[1].length);
-    if (!suffix.includes(OVERLINE)) continue;
+    // Overline abbreviations, plus ⲡⲉⲛϭⲟⲓⲥ / ⲡⲉⲛⲟ̅ⲥ̅ (Penchois) even without overline.
+    if (!suffix.includes(OVERLINE) && !/^ⲡⲉⲛ(ϭⲟⲓⲥ|ⲟ̅ⲥ̅)$/u.test(suffix)) continue;
     if (![...m[1]].some(isCopticLetter)) continue;
     return { prefix: stem.slice(0, m[1].length), replacement };
   }
