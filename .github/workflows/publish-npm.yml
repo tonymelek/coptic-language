@@ -19,49 +19,238 @@ on:
       - v*
 
 jobs:
-  publish:
+  publish-antonios:
     if: >-
       github.event_name == 'push' ||
       inputs.package == 'all' ||
-      inputs.package == matrix.package
+      inputs.package == 'coptic-antonios-unicode'
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      id-token: write
-    strategy:
-      fail-fast: false
-      matrix:
-        package:
-          - coptic-antonios-unicode
-          - coptic-pronounce
-          - coptic-readings
-          - bible-citation-text
-    defaults:
-      run:
-        working-directory: ${{ matrix.package }}
     steps:
+      - name: Require NPM_TOKEN secret
+        env:
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: |
+          if [ -z "$NPM_TOKEN" ]; then
+            echo "::error::NPM_TOKEN repository secret is not set."
+            echo "Create an npm Automation token, then add it at Settings → Secrets and variables → Actions."
+            exit 1
+          fi
+
       - uses: actions/checkout@v4
 
       - uses: actions/setup-node@v4
         with:
           node-version: 24
-          registry-url: https://registry.npmjs.org
           cache: npm
-          cache-dependency-path: ${{ matrix.package }}/package-lock.json
+          cache-dependency-path: coptic-antonios-unicode/package-lock.json
 
-      # npm 11 rejects always-auth; setup-node still writes it into NPM_CONFIG_USERCONFIG.
-      - name: Drop deprecated always-auth from npmrc
+      - name: Configure npm authentication
+        working-directory: coptic-antonios-unicode
+        env:
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: |
-          if [ -n "${NPM_CONFIG_USERCONFIG:-}" ] && [ -f "$NPM_CONFIG_USERCONFIG" ]; then
-            sed -i '/always-auth/d' "$NPM_CONFIG_USERCONFIG"
-          fi
+          cat > .npmrc <<EOF
+          //registry.npmjs.org/:_authToken=${NPM_TOKEN}
+          always-auth=true
+          EOF
 
       - name: Install and build
+        working-directory: coptic-antonios-unicode
         run: |
           npm ci --ignore-scripts
           npm run build
 
+      - name: Debug publish manifest
+        working-directory: coptic-antonios-unicode
+        run: |
+          echo "=== package.json on disk ==="
+          cat package.json
+          echo "=== repository field ==="
+          node -e "console.log(JSON.stringify(require('./package.json').repository, null, 2))"
+          echo "=== tarball package.json ==="
+          npm pack --pack-destination /tmp
+          tar -xOzf /tmp/coptic-antonios-unicode-*.tgz package/package.json
+          rm -f /tmp/coptic-antonios-unicode-*.tgz
+
       - name: Publish
+        working-directory: coptic-antonios-unicode
         env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+          NPM_CONFIG_PROVENANCE: "false"
+        run: npm publish --access public --ignore-scripts --provenance=false
+
+  publish-pronounce:
+    if: >-
+      github.event_name == 'push' ||
+      inputs.package == 'all' ||
+      inputs.package == 'coptic-pronounce'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Require NPM_TOKEN secret
+        env:
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: |
+          if [ -z "$NPM_TOKEN" ]; then
+            echo "::error::NPM_TOKEN repository secret is not set."
+            echo "Create an npm Automation token, then add it at Settings → Secrets and variables → Actions."
+            exit 1
+          fi
+
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: coptic-pronounce/package-lock.json
+
+      - name: Configure npm authentication
+        working-directory: coptic-pronounce
+        env:
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: |
+          cat > .npmrc <<EOF
+          //registry.npmjs.org/:_authToken=${NPM_TOKEN}
+          always-auth=true
+          EOF
+
+      - name: Install and build
+        working-directory: coptic-pronounce
+        run: |
+          npm ci --ignore-scripts
+          npm run build
+
+      - name: Debug publish manifest
+        working-directory: coptic-pronounce
+        run: |
+          echo "=== package.json on disk ==="
+          cat package.json
+          echo "=== repository field ==="
+          node -e "console.log(JSON.stringify(require('./package.json').repository, null, 2))"
+          echo "=== tarball package.json ==="
+          npm pack --pack-destination /tmp
+          tar -xOzf /tmp/coptic-pronounce-*.tgz package/package.json
+          rm -f /tmp/coptic-pronounce-*.tgz
+
+      - name: Publish
+        working-directory: coptic-pronounce
+        env:
+          NPM_CONFIG_PROVENANCE: "false"
+        run: npm publish --access public --ignore-scripts --provenance=false
+
+  publish-readings:
+    if: >-
+      github.event_name == 'push' ||
+      inputs.package == 'all' ||
+      inputs.package == 'coptic-readings'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Require NPM_TOKEN secret
+        env:
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: |
+          if [ -z "$NPM_TOKEN" ]; then
+            echo "::error::NPM_TOKEN repository secret is not set."
+            echo "Create an npm Automation token, then add it at Settings → Secrets and variables → Actions."
+            exit 1
+          fi
+
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: coptic-readings/package-lock.json
+
+      - name: Configure npm authentication
+        working-directory: coptic-readings
+        env:
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: |
+          cat > .npmrc <<EOF
+          //registry.npmjs.org/:_authToken=${NPM_TOKEN}
+          always-auth=true
+          EOF
+
+      - name: Install and build
+        working-directory: coptic-readings
+        run: |
+          npm ci --ignore-scripts
+          npm run build
+
+      - name: Debug publish manifest
+        working-directory: coptic-readings
+        run: |
+          echo "=== package.json on disk ==="
+          cat package.json
+          echo "=== repository field ==="
+          node -e "console.log(JSON.stringify(require('./package.json').repository, null, 2))"
+          echo "=== tarball package.json ==="
+          npm pack --pack-destination /tmp
+          tar -xOzf /tmp/coptic-readings-*.tgz package/package.json
+          rm -f /tmp/coptic-readings-*.tgz
+
+      - name: Publish
+        working-directory: coptic-readings
+        env:
+          NPM_CONFIG_PROVENANCE: "false"
+        run: npm publish --access public --ignore-scripts --provenance=false
+
+  publish-bible-citation-text:
+    if: >-
+      github.event_name == 'push' ||
+      inputs.package == 'all' ||
+      inputs.package == 'bible-citation-text'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Require NPM_TOKEN secret
+        env:
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: |
+          if [ -z "$NPM_TOKEN" ]; then
+            echo "::error::NPM_TOKEN repository secret is not set."
+            echo "Create an npm Automation token, then add it at Settings → Secrets and variables → Actions."
+            exit 1
+          fi
+
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: bible-citation-text/package-lock.json
+
+      - name: Configure npm authentication
+        working-directory: bible-citation-text
+        env:
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: |
+          cat > .npmrc <<EOF
+          //registry.npmjs.org/:_authToken=${NPM_TOKEN}
+          always-auth=true
+          EOF
+
+      - name: Install and build
+        working-directory: bible-citation-text
+        run: |
+          npm ci --ignore-scripts
+          npm run build
+
+      - name: Debug publish manifest
+        working-directory: bible-citation-text
+        run: |
+          echo "=== package.json on disk ==="
+          cat package.json
+          echo "=== repository field ==="
+          node -e "console.log(JSON.stringify(require('./package.json').repository, null, 2))"
+          echo "=== tarball package.json ==="
+          npm pack --pack-destination /tmp
+          tar -xOzf /tmp/bible-citation-text-*.tgz package/package.json
+          rm -f /tmp/bible-citation-text-*.tgz
+
+      - name: Publish
+        working-directory: bible-citation-text
+        env:
+          NPM_CONFIG_PROVENANCE: "false"
         run: npm publish --access public --ignore-scripts --provenance=false
