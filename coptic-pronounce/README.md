@@ -123,7 +123,7 @@ Editorial hyphenation and occasional word-splits in the goldens mean exact rates
 | `ⲇⲟⲝⲁ`    | Zoxa          | ذوكسا   |
 | `ⲯⲩⲭⲏ`    | epsishi       | بسيكي   |
 
-Prefix + these stems is composed automatically, e.g. `ⲙ̀Ⲡⲭ̅ⲥ̅` → emPikhrestos, `ⲙ̀ⲡⲉⲛⲟ̅ⲥ̅` / `ⲙ̀ⲡⲉⲛϭⲟⲓⲥ` → emPenchois.
+Prefix + these stems is composed automatically, e.g. `ⲙ̀Ⲡⲭ̅ⲥ̅` → emPikhrestos, `ⲙ̀ⲭⲉⲣⲉ` / `ⲙ̀ⲭ̅ⲉ̅` → emShere / emShere ne Maria, `ⲙ̀ⲡⲉⲛⲟ̅ⲥ̅` → emPenchois.
 
 ## License
 

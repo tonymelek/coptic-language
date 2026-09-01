@@ -24,6 +24,7 @@ type Rule = { from: string; to: string; score?: number };
 /** Whole-phrase / word liturgical reverse map (normalized Latin key). */
 const LEXICAL_EN: Rule[] = [
   { from: 'shere ne maria', to: 'ⲭ̅ⲉ̅', score: 1 },
+  { from: 'emshere ne maria', to: 'ⲙ̀ⲭ̅ⲉ̅', score: 1 },
   { from: 'epshois', to: 'Ⲡ̀ϭⲟⲓⲥ', score: 1 },
   { from: 'pchois', to: 'Ⲡ̀ϭⲟⲓⲥ', score: 0.95 },
   { from: 'penchois', to: 'ⲡⲉⲛⲟ̅ⲥ̅', score: 1 },
@@ -44,6 +45,7 @@ const LEXICAL_EN: Rule[] = [
   { from: 'sotir', to: 'ⲥ̅ⲱ̅ⲣ̅', score: 1 },
   { from: 'filanethrobe', to: 'Ⲫⲓⲗⲁⲛⲑ̀ⲣⲱⲡⲉ', score: 1 },
   { from: 'zoxa', to: 'Ⲇⲟⲝⲁ', score: 1 },
+  { from: 'emshere', to: 'ⲙ̀ⲭⲉⲣⲉ', score: 1 },
   { from: 'shere', to: 'ⲭⲉⲣⲉ', score: 1 },
   { from: 'owoh', to: 'ⲟⲩⲟϩ', score: 0.95 },
   { from: 'ouoh', to: 'ⲟⲩⲟϩ', score: 0.9 },
@@ -63,6 +65,8 @@ const LEXICAL_AR: Rule[] = [
   { from: 'شيري ني ماريا', to: 'ⲭ̅ⲉ̅', score: 1 },
   { from: 'شيرىنىماريا', to: 'ⲭ̅ⲉ̅', score: 1 },
   { from: 'شيرينيماريا', to: 'ⲭ̅ⲉ̅', score: 1 },
+  { from: 'امشيرى نى ماريا', to: 'ⲙ̀ⲭ̅ⲉ̅', score: 1 },
+  { from: 'امشيري ني ماريا', to: 'ⲙ̀ⲭ̅ⲉ̅', score: 1 },
   { from: 'ابشويس', to: 'Ⲡ̀ϭⲟⲓⲥ', score: 1 },
   { from: 'بين شويس', to: 'ⲡⲉⲛⲟ̅ⲥ̅', score: 1 },
   { from: 'بينشويس', to: 'ⲡⲉⲛⲟ̅ⲥ̅', score: 1 },
@@ -79,6 +83,8 @@ const LEXICAL_AR: Rule[] = [
   { from: 'ذوكسا', to: 'Ⲇⲟⲝⲁ', score: 1 },
   { from: 'شيرى', to: 'ⲭⲉⲣⲉ', score: 1 },
   { from: 'شيري', to: 'ⲭⲉⲣⲉ', score: 1 },
+  { from: 'امشيرى', to: 'ⲙ̀ⲭⲉⲣⲉ', score: 1 },
+  { from: 'امشيري', to: 'ⲙ̀ⲭⲉⲣⲉ', score: 1 },
   { from: 'اووه', to: 'ⲟⲩⲟϩ', score: 0.95 },
   { from: 'خين', to: 'ϧⲉⲛ', score: 0.95 },
   { from: 'انتى', to: 'ⲛ̀ⲧⲉ', score: 0.95 },
