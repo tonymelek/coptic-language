@@ -1,9 +1,9 @@
 name: Publish shell artifacts
 
-# Builds the /language/ and /readings/ artifacts for coptic-world.com, uploads
-# them to the rolling `shell-artifacts` release, and notifies the shell repo.
+# Builds the /language/ and /readings/ artifacts for coptic-world.com.
+# Upload + notify are paused until coptic-world-shell is ready.
 #
-# One-time setup:
+# When re-enabling:
 #   Add SHELL_DISPATCH_TOKEN secret (fine-grained PAT, contents:write on
 #   tonymelek/coptic-world-shell).
 # The shell-artifacts release is created by this workflow if it is missing.
@@ -32,27 +32,28 @@ jobs:
       - name: Build shell artifacts
         run: node scripts/build-shell-artifact.mjs
 
-      - name: Zip artifacts
-        run: |
-          (cd frontend/dist-shell/language && zip -rq ../../../language-dist.zip .)
-          (cd frontend/dist-shell/readings && zip -rq ../../../readings-dist.zip .)
-
-      - name: Upload to rolling release
-        run: |
-          if ! gh release view shell-artifacts >/dev/null 2>&1; then
-            gh release create shell-artifacts \
-              --title "Shell artifacts" \
-              --notes "Rolling artifacts consumed by coptic-world-shell" \
-              --latest=false
-          fi
-          gh release upload shell-artifacts language-dist.zip readings-dist.zip --clobber
-        env:
-          GH_TOKEN: ${{ github.token }}
-
-      - name: Notify shell
-        run: |
-          gh api repos/tonymelek/coptic-world-shell/dispatches \
-            -f event_type=module-updated \
-            -f 'client_payload[module]=language'
-        env:
-          GH_TOKEN: ${{ secrets.SHELL_DISPATCH_TOKEN }}
+      # Paused until coptic-world-shell is ready.
+      # - name: Zip artifacts
+      #   run: |
+      #     (cd frontend/dist-shell/language && zip -rq ../../../language-dist.zip .)
+      #     (cd frontend/dist-shell/readings && zip -rq ../../../readings-dist.zip .)
+      #
+      # - name: Upload to rolling release
+      #   run: |
+      #     if ! gh release view shell-artifacts >/dev/null 2>&1; then
+      #       gh release create shell-artifacts \
+      #         --title "Shell artifacts" \
+      #         --notes "Rolling artifacts consumed by coptic-world-shell" \
+      #         --latest=false
+      #     fi
+      #     gh release upload shell-artifacts language-dist.zip readings-dist.zip --clobber
+      #   env:
+      #     GH_TOKEN: ${{ github.token }}
+      #
+      # - name: Notify shell
+      #   run: |
+      #     gh api repos/tonymelek/coptic-world-shell/dispatches \
+      #       -f event_type=module-updated \
+      #       -f 'client_payload[module]=language'
+      #   env:
+      #     GH_TOKEN: ${{ secrets.SHELL_DISPATCH_TOKEN }}
