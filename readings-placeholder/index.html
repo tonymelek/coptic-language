@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#722f37" />
+    <title>Readings — Coptic World</title>
+    <meta
+      name="description"
+      content="The daily readings (Katameros) in a clean, modern reader — coming soon to Coptic World."
+    />
+    <script src="/shell/header.js" defer></script>
+    <style>
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+      body {
+        font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+        background: #faf6ef;
+        color: #2b2118;
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+      }
+      main {
+        flex: 1;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 2rem 1.25rem;
+      }
+      .card {
+        max-width: 34rem;
+        text-align: center;
+        background: #fff;
+        border: 1px solid rgb(114 47 55 / 0.12);
+        border-top: 4px solid #d9b44a;
+        border-radius: 0.75rem;
+        padding: 3rem 2rem;
+        box-shadow: 0 1px 3px rgb(43 33 24 / 0.06);
+      }
+      h1 {
+        color: #722f37;
+        font-size: 2rem;
+        margin-bottom: 0.75rem;
+      }
+      .date {
+        font-weight: 600;
+        color: #722f37;
+        margin-bottom: 1rem;
+      }
+      p {
+        color: #6b5d51;
+        line-height: 1.6;
+      }
+    </style>
+  </head>
+  <body>
+    <coptic-world-header active="readings"></coptic-world-header>
+
+    <main>
+      <div class="card">
+        <h1>Daily Readings</h1>
+        <p class="date" id="today"></p>
+        <p>
+          The Katameros — the Church's daily readings — is coming to Coptic World
+          in a clean, modern reader made for daily use. It is being built on the
+          open <code>coptic-readings</code> library.
+        </p>
+      </div>
+    </main>
+
+    <script>
+      document.getElementById('today').textContent = new Date().toLocaleDateString(
+        undefined,
+        { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' },
+      )
+    </script>
+  </body>
+</html>
