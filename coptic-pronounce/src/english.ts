@@ -15,7 +15,7 @@ const LEXICAL: [RegExp, string][] = [
   [/^ϭⲟⲓⲥ$/u, 'shois'],
   [/^ⲟ̅ⲥ̅$/u, 'chois'],
   [/^(ⲫ̀?ⲛⲟⲩϯ|ⲫϯ)$/u, 'Efnouti'],
-  [/^ⲭ̅ⲉ̅$/u, 'Shere ne Maria'], // liturgical abbreviation
+  [/^(ⲭ̅ⲉ̅|ⲭ̅ⲉ|ⲭⲉ̅)$/u, 'Shere ne Maria'], // ⲭ̅ⲉ̅ = ⲭⲉⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ
   [/^ⲭⲉⲣⲉ$/u, 'Shere'],
   [/^ⲡ̅?ⲭ̅ⲥ̅$/u, 'Pikhrestos'], // Ⲡⲭ̅ⲥ̅ = Ⲡⲓⲭⲣⲓⲥⲧⲟⲥ
   [/^ⲭ̅ⲥ̅$/u, 'Ekhrestos'],
