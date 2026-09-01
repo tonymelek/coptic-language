@@ -4,10 +4,9 @@ name: Publish shell artifacts
 # them to the rolling `shell-artifacts` release, and notifies the shell repo.
 #
 # One-time setup:
-#   gh release create shell-artifacts --title "Shell artifacts" \
-#     --notes "Rolling artifacts consumed by coptic-world-shell" --latest=false
 #   Add SHELL_DISPATCH_TOKEN secret (fine-grained PAT, contents:write on
 #   tonymelek/coptic-world-shell).
+# The shell-artifacts release is created by this workflow if it is missing.
 
 on:
   push:
@@ -40,6 +39,12 @@ jobs:
 
       - name: Upload to rolling release
         run: |
+          if ! gh release view shell-artifacts >/dev/null 2>&1; then
+            gh release create shell-artifacts \
+              --title "Shell artifacts" \
+              --notes "Rolling artifacts consumed by coptic-world-shell" \
+              --latest=false
+          fi
           gh release upload shell-artifacts language-dist.zip readings-dist.zip --clobber
         env:
           GH_TOKEN: ${{ github.token }}
