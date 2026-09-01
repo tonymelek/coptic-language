@@ -19,6 +19,12 @@ pnpm-debug.log*
 .env.*
 .npmrc
 
+# local dictionary validation (KELLIA cache, LLM run dumps)
+scripts/data/
+scripts/validate-dictionary.mjs
+scripts/validate-dictionary-batches.mjs
+docs/validation/
+
 # OS / editor
 .DS_Store
 .idea/
