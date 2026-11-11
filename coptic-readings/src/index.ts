@@ -1,5 +1,12 @@
 export { CopticReadings, calculateOrthodoxEaster } from './copticReadings.js'
 export {
+  findAnnualWeekdayForSlot,
+  findGregorianForCopticSlot,
+  readingSourceFor,
+  usesDayReadings,
+} from './feastChecker.js'
+export type { ReadingRouteInput, ReadingSource } from './feastChecker.js'
+export {
   lxxToMtChapter,
   mtPsalmToCopticRef,
   mtToLxxChapter,

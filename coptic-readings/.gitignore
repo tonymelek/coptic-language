@@ -2,3 +2,6 @@ node_modules/
 dist/
 *.tsbuildinfo
 .DS_Store
+
+# Data maintenance / Katameros tooling — local only (never published; see package.json "files")
+/scripts/

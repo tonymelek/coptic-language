@@ -12,6 +12,8 @@ npm install coptic-readings
 
 Works with **ESM**, **CommonJS**, and **TypeScript**.
 
+The npm tarball contains only `dist/` and this README (`package.json` `"files"`). JSON katamaros data and one-off sync/fix scripts are not part of the package; they ship baked into `dist` at publish time via `npm run build`.
+
 ## What reading books are used?
 
 The Coptic Church uses different **Katamaros** books depending on the season. This package picks the right one for each day:
@@ -24,6 +26,10 @@ The Coptic Church uses different **Katamaros** books depending on the season. Th
 | **Holy Fifty Katamaros** | Readings from Resurrection through Pentecost | The 50 days from Easter to Pentecost |
 
 You don’t need to choose the book yourself — pass a date and the library selects the matching season.
+
+### Fixed feasts (`unmovableFeasts.json`)
+
+`memory_of_3_feasts_*` entries are only listed for Coptic months whose **29th** uses a *transferred* katamaros day (short-month commemoration). Months with their own **29th** observance are omitted there—e.g. **29 Baramhat** is `annunciation`; **29 Hator**, **29 Kiahk**, and **29 Mesra** rely on `unique_daily_readings` / other feast rows, not `memory_of_3_feasts_*`.
 
 ## Quick start
 

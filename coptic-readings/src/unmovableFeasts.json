@@ -47,22 +47,6 @@
     "endMonth": 2,
     "tune": "joy"
   },
-  "memory_of_3_feasts_hator": {
-    "startDay": 29,
-    "endDay": 29,
-    "calendar": "coptic",
-    "startMonth": 3,
-    "endMonth": 3,
-    "tune": "joy"
-  },
-  "memory_of_3_feasts_baramhat": {
-    "startDay": 29,
-    "endDay": 29,
-    "calendar": "coptic",
-    "startMonth": 7,
-    "endMonth": 7,
-    "tune": "joy"
-  },
   "memory_of_3_feasts_baramouda": {
     "startDay": 29,
     "endDay": 29,
@@ -93,14 +77,6 @@
     "calendar": "coptic",
     "startMonth": 11,
     "endMonth": 11,
-    "tune": "joy"
-  },
-  "memory_of_3_feasts_mesra": {
-    "startDay": 29,
-    "endDay": 29,
-    "calendar": "coptic",
-    "startMonth": 12,
-    "endMonth": 12,
     "tune": "joy"
   },
   "kiahk": {
