@@ -178,6 +178,14 @@ export class CopticReadings {
       }
     }
     if (isSunday) {
+      // Nasie has at most one Sunday per year; Katameros uses the day's annual slot, not Month-N keys.
+      if (this.copticMonth === 'Nasie') {
+        const uniqueKey = DAY_READINGS[this.copticMonth]?.[this.copticDay]
+        return {
+          isSunday,
+          ref: uniqueKey ? (UNIQUE_DAILY_READINGS[uniqueKey] ?? null) : null,
+        }
+      }
       const sundayOrder = Math.ceil(this.copticDay / 7)
       const key = `${this.copticMonth}-${sundayOrder}`
       return {

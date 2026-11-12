@@ -29,7 +29,7 @@ You don’t need to choose the book yourself — pass a date and the library sel
 
 ### Fixed feasts (`unmovableFeasts.json`)
 
-`memory_of_3_feasts_*` entries are only listed for Coptic months whose **29th** uses a *transferred* katamaros day (short-month commemoration). Months with their own **29th** observance are omitted there—e.g. **29 Baramhat** is `annunciation`; **29 Hator**, **29 Kiahk**, and **29 Mesra** rely on `unique_daily_readings` / other feast rows, not `memory_of_3_feasts_*`.
+`memory_of_3_feasts_*` covers the short-month **29th** commemoration where applicable; feast/tune come from here while citations use `day_readings` / `unique_daily_readings` (e.g. **29 Hator** → `memory_of_3_feasts_hator` + `29_Hator` readings). **29 Baramhat** is labeled **`annunciation`**; **29 Kiahk** / **29 Mesra** use their own feast rows or ordinary annual when no `memory_of_3_feasts_*` applies.
 
 ## Quick start
 
